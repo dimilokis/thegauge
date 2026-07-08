@@ -1,0 +1,238 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>The Gauge — Live Dashboard</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;1,300;1,400&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
+<style>
+:root {
+  --bg:#080808; --surface:#0f0f0f; --lift:#161616; --border:#1f1f1f; --border2:#2a2a2a;
+  --text:#e8e4dc; --muted:#5a5650; --dim:#3a3632; --gold:#c9a96e;
+  --gold-dim:rgba(201,169,110,.08); --ice:#7eb8c9; --heat:#c97a6e; --green:#7ec998;
+}
+*,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+body{background:var(--bg);color:var(--text);font-family:'Inter',sans-serif;font-weight:300;line-height:1.5;-webkit-font-smoothing:antialiased}
+.serif{font-family:'Cormorant Garamond',Georgia,serif}
+
+header{display:flex;justify-content:space-between;align-items:center;padding:22px 36px;border-bottom:1px solid var(--border);position:sticky;top:0;background:rgba(8,8,8,.94);backdrop-filter:blur(10px);z-index:50}
+.logo{font-family:'Cormorant Garamond',serif;font-size:19px;letter-spacing:2px;text-transform:uppercase}
+.logo span{color:var(--gold)}
+.status{display:flex;align-items:center;gap:9px;font-size:11px;letter-spacing:1px;text-transform:uppercase;color:var(--muted)}
+.dot{width:6px;height:6px;border-radius:50%;background:var(--green);animation:pulse 2s infinite}
+.dot.stale{background:var(--heat);animation:none}
+@keyframes pulse{0%,100%{opacity:1}50%{opacity:.3}}
+
+.wrap{max-width:1160px;margin:0 auto;padding:28px 36px 80px}
+
+.radar{display:flex;align-items:center;gap:18px;border:1px solid var(--border);background:var(--surface);padding:18px 24px;margin-bottom:26px}
+.radar.hot{border-color:rgba(201,122,110,.4)}
+.radar-ico{font-size:26px;line-height:1}
+.radar-title{font-family:'Cormorant Garamond',serif;font-size:21px;margin-bottom:2px}
+.radar-sub{font-size:12.5px;color:var(--muted)}
+.radar-sub b{color:var(--text);font-weight:500}
+
+.controls{display:flex;gap:8px;flex-wrap:wrap;align-items:center;margin-bottom:18px}
+.filt{font-size:10px;letter-spacing:1.5px;text-transform:uppercase;padding:8px 16px;border:1px solid var(--border);background:transparent;color:var(--muted);cursor:pointer;transition:all .15s;font-family:'Inter',sans-serif}
+.filt.on{border-color:var(--gold);color:var(--gold);background:var(--gold-dim)}
+.search{margin-left:auto;background:var(--surface);border:1px solid var(--border);color:var(--text);padding:8px 14px;font-size:12.5px;font-family:'Inter',sans-serif;outline:none;width:170px;font-weight:300}
+.search:focus{border-color:var(--gold)}
+
+table{width:100%;border-collapse:collapse}
+thead th{font-size:10px;letter-spacing:1.5px;text-transform:uppercase;color:var(--dim);font-weight:400;padding:10px 8px;border-bottom:1px solid var(--border);text-align:left;cursor:pointer;user-select:none;white-space:nowrap}
+thead th:hover{color:var(--muted)}
+thead th.sorted{color:var(--gold)}
+tbody tr{border-bottom:1px solid var(--border)}
+tbody tr:hover{background:rgba(201,169,110,.03)}
+tbody td{padding:13px 8px;font-size:13.5px;white-space:nowrap}
+.sym{font-weight:500;color:var(--text)}
+.mkt-tag{font-size:9px;letter-spacing:1px;color:var(--gold);border:1px solid rgba(201,169,110,.3);padding:2px 7px;margin-left:8px;text-transform:uppercase;vertical-align:middle}
+.price{color:var(--muted);font-variant-numeric:tabular-nums}
+.ret{font-variant-numeric:tabular-nums}
+.ret.up{color:var(--green)} .ret.dn{color:var(--heat)}
+.score-cell{display:flex;align-items:center;gap:10px}
+.score-num{font-family:'Cormorant Garamond',serif;font-size:21px;min-width:30px;text-align:right}
+.bar{width:70px;height:4px;background:var(--border);border-radius:2px;overflow:hidden;flex-shrink:0}
+.bar i{display:block;height:100%;border-radius:2px}
+.mv{font-size:10px;letter-spacing:.8px;text-transform:uppercase;padding:3px 9px;border-radius:2px}
+.mv-norm{background:rgba(90,86,80,.15);color:var(--muted)}
+.mv-note{background:rgba(126,185,201,.1);color:var(--ice)}
+.mv-ext{background:rgba(201,122,110,.13);color:var(--heat)}
+.drv{font-size:12.5px}
+.drv small{display:block;color:var(--dim);font-size:10.5px;margin-top:1px}
+.drv.ind{color:var(--gold)}
+.state{font-size:11px;letter-spacing:1.2px;text-transform:uppercase;font-weight:500}
+.st-under{color:var(--ice)} .st-over{color:var(--heat)} .st-neutral{color:var(--muted)}
+
+.foot{margin-top:22px;font-size:11.5px;color:var(--dim);line-height:1.7}
+.loading{padding:80px 0;text-align:center;color:var(--muted);font-size:14px}
+.err{padding:60px 20px;text-align:center;color:var(--heat);font-size:13.5px;line-height:1.8}
+
+@media(max-width:760px){
+  header{padding:16px 18px}
+  .wrap{padding:18px 12px 60px}
+  .price,.col-price{display:none}
+  .search{width:100%;margin:6px 0 0}
+  tbody td{padding:11px 6px;font-size:12.5px}
+  .bar{width:44px}
+}
+</style>
+</head>
+<body>
+
+<header>
+  <div class="logo">The <span>Gauge</span></div>
+  <div class="status"><div class="dot" id="liveDot"></div><span id="statusTxt">loading…</span></div>
+</header>
+
+<div class="wrap">
+  <div class="radar" id="radar" style="display:none"></div>
+  <div class="controls" id="controls" style="display:none">
+    <button class="filt on" data-f="all">All</button>
+    <button class="filt" data-f="under">Oversold</button>
+    <button class="filt" data-f="over">Overbought</button>
+    <button class="filt" data-f="ind">Independent</button>
+    <button class="filt" data-f="ext">Extreme moves</button>
+    <input class="search" id="search" placeholder="Search symbol…">
+  </div>
+  <div class="loading" id="loading">Loading live data…</div>
+  <table id="tbl" style="display:none">
+    <thead>
+      <tr>
+        <th data-k="symbol">Asset</th>
+        <th data-k="price" class="col-price">Price</th>
+        <th data-k="ret_pct">24h</th>
+        <th data-k="score">Gauge Score</th>
+        <th data-k="sigma" class="sorted">Move</th>
+        <th data-k="from_btc_pct">Driver</th>
+        <th data-k="verdict">Verdict</th>
+      </tr>
+    </thead>
+    <tbody id="tbody"></tbody>
+  </table>
+  <p class="foot" id="foot" style="display:none">
+    Descriptive statistics on Binance Futures data — position in each coin's own 90-day range, move size in standard deviations vs that coin's own prior 90 days, and how much of the daily move Bitcoin's returns explain (30-day rolling R²). Not predictions. Recomputed hourly.
+  </p>
+  <div class="err" id="err" style="display:none"></div>
+</div>
+
+<script>
+const $ = id => document.getElementById(id);
+let DATA = null, filter = 'all', sortKey = 'sigma', sortDir = -1, query = '';
+
+function scoreColor(s){ return s < 35 ? 'var(--ice)' : s > 65 ? 'var(--heat)' : 'var(--gold)'; }
+function fmtPrice(p){
+  if (p >= 1000) return p.toLocaleString('en-US', {maximumFractionDigits: 1});
+  if (p >= 1)    return p.toLocaleString('en-US', {maximumFractionDigits: 3});
+  return p.toPrecision(3);
+}
+function moveTier(sig){
+  const a = Math.abs(sig);
+  if (a >= 2.5) return ['Extreme', 'mv-ext'];
+  if (a >= 1)   return ['Notable', 'mv-note'];
+  return ['Normal', 'mv-norm'];
+}
+function driver(a){
+  if (a.is_market) return ['', 'It is the market', 'sets the tide'];
+  if (a.from_btc_pct < 40) return ['ind', 'Independent', a.from_btc_pct + '% from BTC'];
+  if (a.from_btc_pct <= 60) return ['', 'Mixed', a.from_btc_pct + '% from BTC'];
+  return ['', 'Bitcoin', a.from_btc_pct + '% from BTC'];
+}
+function stateCls(v){ return v === 'Oversold' ? 'st-under' : v === 'Overbought' ? 'st-over' : 'st-neutral'; }
+
+function rows(){
+  let r = DATA.assets.slice();
+  if (filter === 'under') r = r.filter(a => a.verdict === 'Oversold');
+  if (filter === 'over')  r = r.filter(a => a.verdict === 'Overbought');
+  if (filter === 'ind')   r = r.filter(a => !a.is_market && a.from_btc_pct < 40);
+  if (filter === 'ext')   r = r.filter(a => Math.abs(a.sigma) >= 2.5);
+  if (query) r = r.filter(a => a.symbol.toLowerCase().includes(query));
+  r.sort((x, y) => {
+    let a = x[sortKey], b = y[sortKey];
+    if (sortKey === 'sigma') { a = Math.abs(a); b = Math.abs(b); }
+    if (typeof a === 'string') return sortDir * a.localeCompare(b);
+    return sortDir * (a - b);
+  });
+  return r;
+}
+
+function render(){
+  const body = $('tbody');
+  body.innerHTML = rows().map(a => {
+    const [tier, tcls] = moveTier(a.sigma);
+    const [dcls, dname, dsub] = driver(a);
+    const c = scoreColor(a.score);
+    return '<tr>' +
+      '<td><span class="sym">' + a.symbol + '</span>' + (a.is_market ? '<span class="mkt-tag">Market</span>' : '') + '</td>' +
+      '<td class="price col-price">$' + fmtPrice(a.price) + '</td>' +
+      '<td class="ret ' + (a.ret_pct >= 0 ? 'up' : 'dn') + '">' + (a.ret_pct >= 0 ? '+' : '') + a.ret_pct.toFixed(1) + '%</td>' +
+      '<td><div class="score-cell"><span class="score-num serif" style="color:' + c + '">' + Math.round(a.score) + '</span>' +
+        '<div class="bar"><i style="width:' + Math.round(a.score) + '%;background:' + c + '"></i></div></div></td>' +
+      '<td><span class="mv ' + tcls + '">' + tier + ' · ' + Math.abs(a.sigma).toFixed(1) + 'σ</span></td>' +
+      '<td><div class="drv ' + dcls + '">' + dname + '<small>' + dsub + '</small></div></td>' +
+      '<td><span class="state ' + stateCls(a.verdict) + '">' + a.verdict + '</span></td>' +
+    '</tr>';
+  }).join('');
+}
+
+function renderRadar(){
+  const hot = DATA.assets.filter(a => !a.is_market && Math.abs(a.sigma) >= 2.5 && a.from_btc_pct <= 40);
+  const box = $('radar');
+  box.style.display = 'flex';
+  if (!hot.length) {
+    box.innerHTML = '<div class="radar-ico">☕</div><div><div class="radar-title serif">Nothing unusual right now.</div>' +
+      '<div class="radar-sub">Across ' + DATA.universe_size + ' assets, every move is within its own normal range. Nothing here to act on.</div></div>';
+  } else {
+    box.classList.add('hot');
+    box.innerHTML = '<div class="radar-ico">◉</div><div><div class="radar-title serif">' + hot.length +
+      (hot.length === 1 ? ' asset stands' : ' assets stand') + ' out.</div><div class="radar-sub">Statistically extreme and moving on their own, not with Bitcoin: ' +
+      hot.map(a => '<b>' + a.symbol + '</b> (' + Math.abs(a.sigma).toFixed(1) + 'σ, ' + a.from_btc_pct + '% BTC)').join(' · ') + '</div></div>';
+  }
+}
+
+function renderStatus(){
+  const gen = new Date(DATA.generated_at);
+  const ageMin = Math.round((Date.now() - gen.getTime()) / 60000);
+  const stale = ageMin > 180;
+  $('liveDot').classList.toggle('stale', stale);
+  $('statusTxt').textContent = (stale ? 'stale · ' : 'live · ') +
+    DATA.universe_size + ' assets · updated ' + (ageMin < 60 ? ageMin + ' min ago' : Math.round(ageMin / 60) + 'h ago');
+}
+
+fetch('gauge_live.json?t=' + Date.now())
+  .then(r => { if (!r.ok) throw new Error('HTTP ' + r.status); return r.json(); })
+  .then(d => {
+    DATA = d;
+    $('loading').style.display = 'none';
+    $('controls').style.display = 'flex';
+    $('tbl').style.display = 'table';
+    $('foot').style.display = 'block';
+    renderStatus(); renderRadar(); render();
+  })
+  .catch(e => {
+    $('loading').style.display = 'none';
+    $('err').style.display = 'block';
+    $('err').innerHTML = 'Could not load gauge_live.json (' + e.message + ').<br>Serve this folder over HTTP — e.g. <code>python -m http.server</code> — instead of opening the file directly.';
+    $('statusTxt').textContent = 'offline';
+    $('liveDot').classList.add('stale');
+  });
+
+document.querySelectorAll('.filt').forEach(b => b.addEventListener('click', function(){
+  document.querySelectorAll('.filt').forEach(x => x.classList.remove('on'));
+  this.classList.add('on');
+  filter = this.dataset.f;
+  render();
+}));
+$('search').addEventListener('input', function(){ query = this.value.trim().toLowerCase(); render(); });
+document.querySelectorAll('thead th').forEach(th => th.addEventListener('click', function(){
+  const k = this.dataset.k;
+  if (sortKey === k) sortDir *= -1;
+  else { sortKey = k; sortDir = (k === 'symbol' || k === 'verdict') ? 1 : -1; }
+  document.querySelectorAll('thead th').forEach(x => x.classList.remove('sorted'));
+  this.classList.add('sorted');
+  render();
+}));
+</script>
+</body>
+</html>

@@ -1,62 +1,61 @@
 # gauge-live
 
-Backend real do The Gauge: coleta dados da Binance Futures a cada hora, calcula
-Gauge Score / Move / Driver / Verdict para o top-100 por volume 24h, publica
-`public/gauge_live.json` e manda alerta no Telegram quando um ativo fica
-extremo (>=2.5 sigma) E independente de Bitcoin (<=40% explicado por BTC).
+Backend + dashboard alfa do The Gauge: coleta dados da Binance Futures a cada
+hora, calcula Gauge Score / Move / Driver / Verdict para o top-100 cripto por
+volume 24h (acoes tokenizadas/indices/commodities filtrados fora), publica
+`docs/gauge_live.json`, serve o dashboard em `docs/index.html` via GitHub
+Pages, e manda alerta no Telegram quando um ativo fica extremo (>=2.5 sigma)
+E independente de Bitcoin (<=40% explicado por BTC).
 
-Repositorio separado do research privado (LONG_TRAIL) de proposito — este aqui
-precisa ser publico para servir o JSON de graca via raw.githubusercontent.com.
-Nao tem nenhuma estrategia de trading aqui, so o motor do produto.
+Repositorio separado do research privado (LONG_TRAIL) de proposito — este
+precisa ser publico. Nao tem nenhuma estrategia de trading aqui, so o motor
+do produto.
 
-## Setup (uma vez)
+## Publicar (uma vez, ~10 min)
 
-1. **Criar o repo no GitHub** (publico): vai em github.com/new, nome sugerido
-   `gauge-live`, publico, sem README/gitignore (ja tem aqui).
-2. Push deste conteudo:
+1. **Criar o repo no GitHub** (publico): github.com/new, nome `gauge-live`,
+   Public, sem README/gitignore (ja existem aqui). Nao inicializa nada.
+2. **Push** (rodar dentro desta pasta):
    ```
-   git init
-   git add .
-   git commit -m "feat: gauge live scoring engine + hourly workflow"
-   git remote add origin https://github.com/<seu-usuario>/gauge-live.git
+   git remote add origin https://github.com/<SEU-USUARIO>/gauge-live.git
+   git branch -M main
    git push -u origin main
    ```
-3. **Criar o bot do Telegram**: abre o Telegram, procura `@BotFather`, manda
-   `/newbot`, segue o fluxo. Ele te da um **token** (guarda).
-4. **Pegar o chat_id**: cria um canal/grupo (pode ser so seu por enquanto),
-   adiciona o bot como admin, manda uma mensagem qualquer no canal, depois abre
-   no navegador:
-   `https://api.telegram.org/bot<SEU_TOKEN>/getUpdates`
-   e procura `"chat":{"id": ...}` na resposta — esse numero e o chat_id.
-5. **Adicionar os secrets no GitHub**: no repo, Settings -> Secrets and
-   variables -> Actions -> New repository secret:
-   - `TG_BOT_TOKEN` = o token do BotFather
-   - `TG_CHAT_ID` = o chat_id do passo 4
-6. **Testar manualmente**: aba Actions do repo -> "Update Gauge snapshot" ->
-   "Run workflow". Confere se `public/gauge_live.json` foi commitado no final.
+   (se pedir login: `gh auth login` ou usa o Git Credential Manager que abre
+   o navegador sozinho)
+3. **Ativar o GitHub Pages**: no repo -> Settings -> Pages ->
+   Source: "Deploy from a branch" -> Branch: `main`, Folder: `/docs` -> Save.
+   Em ~2 min o dashboard fica no ar em:
+   `https://<SEU-USUARIO>.github.io/gauge-live/`
+4. **Testar o workflow**: aba Actions -> "Update Gauge snapshot" ->
+   Run workflow. Confere se aparece um commit novo "chore: refresh gauge
+   snapshot" e se o dashboard atualizou o "updated X min ago".
+5. Pronto — a partir daqui atualiza sozinho toda hora, de graca, sem servidor.
 
-Depois disso ele roda sozinho, todo hora, sem precisar tocar em nada.
+## Telegram (opcional agora, necessario antes do launch dos alertas)
 
-## Consumir o JSON no site
+1. No Telegram, fala com `@BotFather` -> `/newbot` -> guarda o **token**.
+2. Cria um canal, adiciona o bot como admin, posta qualquer mensagem, e abre
+   `https://api.telegram.org/bot<TOKEN>/getUpdates` no navegador — o numero
+   em `"chat":{"id":...}` e o **chat_id**.
+3. No repo: Settings -> Secrets and variables -> Actions -> New repository
+   secret: `TG_BOT_TOKEN` e `TG_CHAT_ID`.
+Sem os secrets o pipeline roda normal, so pula o envio.
 
-Repo publico expoe o arquivo em:
-```
-https://raw.githubusercontent.com/<seu-usuario>/gauge-live/main/public/gauge_live.json
-```
-Esse endpoint manda CORS liberado, entao da pra `fetch()` direto do
-thegauge.art sem servidor no meio. (Isso ainda nao esta ligado no
-`coinpulse/index.html` — e o proximo passo, depois de confirmar que o
-pipeline roda sozinho por uns dias.)
+## Dominio proprio (opcional, depois)
 
-## Formato do JSON
+Settings -> Pages -> Custom domain -> `app.thegauge.art`, e no Cloudflare DNS
+cria um CNAME `app` -> `<SEU-USUARIO>.github.io`.
+
+## Formato do JSON (`docs/gauge_live.json`)
 
 ```json
 {
-  "generated_at": "2026-07-08T20:08:36Z",
-  "universe_size": 92,
+  "generated_at": "2026-07-08T20:27:54Z",
+  "universe_size": 95,
   "assets": [
-    {"symbol": "SOL", "score": 16.2, "sigma": 3.1, "from_btc_pct": 22, "is_market": false, "verdict": "Oversold"},
-    {"symbol": "BTC", "score": 62.0, "sigma": 1.8, "from_btc_pct": 100, "is_market": true, "verdict": "Neutral"}
+    {"symbol": "SOL", "price": 152.3, "ret_pct": -2.1, "score": 16.2,
+     "sigma": 3.1, "from_btc_pct": 22, "is_market": false, "verdict": "Oversold"}
   ]
 }
 ```

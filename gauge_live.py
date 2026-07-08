@@ -19,7 +19,7 @@ ALERT_SIGMA = 2.5          # "extreme" na definicao da landing page
 ALERT_MAX_BTC_R2 = 0.40    # "independent" = pouco explicado por BTC
 
 ROOT = os.path.dirname(os.path.abspath(__file__))
-OUT_JSON = os.path.join(ROOT, "public", "gauge_live.json")
+OUT_JSON = os.path.join(ROOT, "docs", "gauge_live.json")
 STATE_JSON = os.path.join(ROOT, "alert_state.json")
 
 TG_TOKEN = os.environ.get("TG_BOT_TOKEN", "")
@@ -33,9 +33,20 @@ def log(msg):
 
 
 def get_top_symbols(n=TOP_N):
-    """Ranking por volume de 24h (USDT perpetuals), recalculado a cada run — sem lista fixa."""
+    """Ranking por volume de 24h, recalculado a cada run — sem lista fixa.
+    Universo = so cripto de verdade: a Binance tambem lista perpetuos de acoes
+    tokenizadas (underlyingType EQUITY, ex NVDA/BABA), indices e commodities;
+    nada disso pertence a um screener de cripto, entao filtramos por COIN."""
+    ex = SESSION.get(FAPI + "/fapi/v1/exchangeInfo", timeout=20).json()
+    crypto = {
+        s["symbol"] for s in ex["symbols"]
+        if s.get("underlyingType") == "COIN"
+        and s.get("contractType") == "PERPETUAL"
+        and s.get("status") == "TRADING"
+        and s["symbol"].endswith("USDT")
+    }
     d = SESSION.get(FAPI + "/fapi/v1/ticker/24hr", timeout=20).json()
-    rows = [x for x in d if x["symbol"].endswith("USDT")]
+    rows = [x for x in d if x["symbol"] in crypto]
     rows.sort(key=lambda x: -float(x["quoteVolume"]))
     symbols = [x["symbol"] for x in rows[:n]]
     if REF_SYMBOL not in symbols:
@@ -89,13 +100,14 @@ def gauge_score_series(close):
 
 
 def move_sigma(close):
-    """z-score do |retorno| de hoje vs a distribuicao de |retornos| dos ultimos 90d."""
+    """z-score do |retorno| de hoje vs a distribuicao de |retornos| dos 90d ANTERIORES
+    (o proprio hoje fica fora da regua que mede o hoje — sem contaminacao)."""
     ret = np.diff(close) / close[:-1]
     absret = np.abs(ret)
-    if len(absret) < 20:
+    if len(absret) < 21:
         return 0.0
-    window = absret[-90:] if len(absret) > 90 else absret
-    mu, sd = window.mean(), window.std()
+    baseline = absret[:-1][-90:]
+    mu, sd = baseline.mean(), baseline.std()
     if sd < 1e-9:
         return 0.0
     return float((absret[-1] - mu) / sd)
@@ -157,8 +169,11 @@ def build_snapshot():
         is_market = sym == REF_SYMBOL
         r2 = 1.0 if is_market else btc_r2(close, btc_close)
         from_btc_pct = round(r2 * 100)
+        ret_pct = float((close[-1] / close[-2] - 1) * 100) if len(close) >= 2 else 0.0
         rows.append({
             "symbol": sym.replace("USDT", ""),
+            "price": float(close[-1]),
+            "ret_pct": round(ret_pct, 2),
             "score": round(score, 1),
             "sigma": round(sigma, 2),
             "from_btc_pct": from_btc_pct,
