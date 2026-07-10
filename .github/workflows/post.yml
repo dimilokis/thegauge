@@ -1,0 +1,45 @@
+name: Daily X post
+
+on:
+  schedule:
+    - cron: "0 13 * * *"   # 13:00 UTC = ~10:00 Brasilia — 1x por dia
+  workflow_dispatch:
+    inputs:
+      force:
+        description: "Postar mesmo se ja postou hoje"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+jobs:
+  post:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install tweepy
+
+      - name: Post to X
+        env:
+          X_API_KEY: ${{ secrets.X_API_KEY }}
+          X_API_SECRET: ${{ secrets.X_API_SECRET }}
+          X_ACCESS_TOKEN: ${{ secrets.X_ACCESS_TOKEN }}
+          X_ACCESS_SECRET: ${{ secrets.X_ACCESS_SECRET }}
+          DASHBOARD_URL: ${{ vars.DASHBOARD_URL }}
+        run: |
+          python marketing/post_x.py ${{ inputs.force && '--force' || '' }}
+
+      - name: Commit post state
+        run: |
+          git config user.name "gauge-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add marketing/last_post.json
+          git diff --cached --quiet || git commit -m "chore: registra post diario do X"
+          git push

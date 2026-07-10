@@ -42,6 +42,35 @@ do produto.
    secret: `TG_BOT_TOKEN` e `TG_CHAT_ID`.
 Sem os secrets o pipeline roda normal, so pula o envio.
 
+## Postagem automatica no X (1x/dia, sem copiar/colar)
+
+Custo real (fevereiro/2026 em diante, pay-per-use): ~$0.015 por post + $0.20
+se tiver link = **~$0.215/post**. Postando 1x/dia: **~$6.45/mes**. Sem
+assinatura, sem plano fixo.
+
+1. Cria conta em [developer.x.com](https://developer.x.com) (pode ser com a
+   mesma conta do X que vai postar).
+2. Cria um **App** novo, permissao **Read and Write**.
+3. Gera as 4 chaves: **API Key**, **API Key Secret**, **Access Token**,
+   **Access Token Secret** (o Access Token precisa ser gerado DEPOIS de
+   marcar Read+Write, senao sai read-only).
+4. Configura o billing (pay-per-use) com um cartao — sem isso a API bloqueia
+   a chamada de escrita.
+5. No repo do GitHub: Settings -> Secrets and variables -> Actions -> New
+   repository secret, um pra cada:
+   `X_API_KEY`, `X_API_SECRET`, `X_ACCESS_TOKEN`, `X_ACCESS_SECRET`.
+6. (Opcional) Settings -> Secrets and variables -> Actions -> aba
+   **Variables** -> New variable `DASHBOARD_URL` = a URL real do dashboard
+   (ex: `https://<usuario>.github.io/gauge-live/`). Sem isso usa
+   `https://thegauge.art` como padrao.
+7. Testar: aba Actions -> "Daily X post" -> Run workflow. Confere se o tweet
+   saiu na conta.
+
+Dali em diante posta sozinho todo dia as 13:00 UTC (~10h Brasilia), sem voce
+tocar em nada. Reddit continua manual de proposito — postar por API la tem
+risco real de ban/remocao por automod, e o que faz o post sobreviver e
+parecer analise genuina, nao bot.
+
 ## Dominio proprio (opcional, depois)
 
 Settings -> Pages -> Custom domain -> `app.thegauge.art`, e no Cloudflare DNS
