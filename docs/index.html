@@ -47,8 +47,7 @@ body {
 .hero-eyebrow, .hero h1, .hero-sub, .hero-actions { opacity: 0; transform: translateY(24px); animation: heroIn 1.2s cubic-bezier(.22,.61,.36,1) forwards; }
 .hero h1 { animation-delay: .15s; } .hero-sub { animation-delay: .4s; } .hero-actions { animation-delay: .6s; }
 @keyframes heroIn { to { opacity: 1; transform: translateY(0); } }
-.temp-fill { width: 0 !important; transition: width .8s cubic-bezier(.22,.61,.36,1), background .5s ease, filter .3s ease; }
-.mock-section.in .temp-fill { width: var(--w) !important; }
+.temp-fill { width: var(--w, 0); transition: width .8s cubic-bezier(.22,.61,.36,1), background .5s ease, filter .3s ease; }
 
 /* ─── NAV ─── */
 nav { display: flex; justify-content: space-between; align-items: center; padding: 28px 48px; position: fixed; top: 0; left: 0; right: 0; z-index: 100; background: rgba(8,8,8,0.92); backdrop-filter: blur(12px); border-bottom: 1px solid var(--border); }
@@ -75,7 +74,7 @@ h1 em { font-style: italic; color: var(--gold); }
 .hpv-title { margin-left: 10px; font-family: 'Cormorant Garamond', serif; font-size: 13px; letter-spacing: 2px; text-transform: uppercase; color: var(--muted); }
 .hpv-row { display: grid; grid-template-columns: 1.4fr 1.1fr 0.9fr 0.9fr; align-items: center; padding: 15px 18px; border-bottom: 1px solid var(--border); text-align: left; transition: opacity .32s ease; }
 .hpv-asset { display: flex; align-items: center; gap: 10px; }
-.hpv-sym { width: 26px; height: 26px; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 11px; flex-shrink: 0; background: var(--gold-dim); color: var(--gold); }
+.hpv-sym { width: 26px; height: 26px; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 11px; flex-shrink: 0; background: var(--gold-dim); color: var(--gold); object-fit: cover; }
 .hpv-score { display: flex; align-items: center; gap: 9px; }
 .hpv-snum { font-family: 'Cormorant Garamond', serif; font-size: 20px; text-shadow: 0 0 16px currentColor; }
 .hpv-bar { width: 54px; height: 3px; background: var(--border); border-radius: 2px; overflow: hidden; }
@@ -167,7 +166,7 @@ tbody tr:hover .temp-num { filter: brightness(1.18); }
 tbody td { padding: 20px 0; font-size: 14px; font-weight: 300; }
 tbody td:not(:first-child) { padding-left: 24px; }
 .coin-row { display: flex; align-items: center; gap: 12px; }
-.coin-sym { width: 36px; height: 36px; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 13px; font-weight: 500; flex-shrink: 0; background: var(--gold-dim); color: var(--gold); }
+.coin-sym { width: 36px; height: 36px; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 13px; font-weight: 500; flex-shrink: 0; background: var(--gold-dim); color: var(--gold); object-fit: cover; }
 .coin-info-name { font-size: 14px; font-weight: 400; color: var(--text); }
 .coin-info-tick { font-size: 11px; color: var(--muted); letter-spacing: .5px; }
 .temp-wrap { display: flex; align-items: center; gap: 14px; }
@@ -633,10 +632,23 @@ function driverInfo(a){
 }
 function verdictCls(v){ return v==='Oversold'?'state-under':v==='Overbought'?'state-over':'state-neutral'; }
 
+function iconErr(img, letter, cls){
+  const d = document.createElement('div');
+  d.className = cls;
+  d.textContent = letter;
+  img.replaceWith(d);
+}
+function coinIconHTML(a, cls){
+  const letter = a.symbol[0];
+  if (!a.icon) return '<div class="'+cls+'">'+letter+'</div>';
+  return '<img src="'+a.icon+'" class="'+cls+'" onerror="iconErr(this,\''+letter+'\',\''+cls+'\')">';
+}
 function dashRowHTML(a){
   const c = scoreColor(a.score), [tt,tc] = moveTier(a.sigma), d = driverInfo(a);
+  const marketTag = a.is_market ? ' <span style="color:var(--dim);font-size:10px;letter-spacing:1px;text-transform:uppercase">market</span>' : '';
+  const nameSub = a.name ? '<div class="coin-info-tick">'+a.name+'</div>' : '';
   return '<tr>'
-   +'<td><div class="coin-row"><div class="coin-sym">'+a.symbol[0]+'</div><div class="coin-info-name">'+a.symbol+(a.is_market?' <span style="color:var(--dim);font-size:10px;letter-spacing:1px;text-transform:uppercase">market</span>':'')+'</div></div></td>'
+   +'<td><div class="coin-row">'+coinIconHTML(a,'coin-sym')+'<div><div class="coin-info-name">'+a.symbol+marketTag+'</div>'+nameSub+'</div></div></td>'
    +'<td><div class="temp-wrap"><span class="temp-num serif" style="color:'+c+'">'+Math.round(a.score)+'</span><div class="temp-bar"><div class="temp-fill" style="--w:'+Math.round(a.score)+'%;background:'+c+'"></div></div></div></td>'
    +'<td><span class="mv '+tc+'">'+tt+' · '+Math.abs(a.sigma).toFixed(1)+'σ</span></td>'
    +'<td><div class="'+d.cls+'"><div class="drv-name">'+d.name+'</div><div class="drv-pct">'+d.sub+'</div></div></td>'
@@ -646,7 +658,7 @@ function dashRowHTML(a){
 function heroRowHTML(a){
   const c = scoreColor(a.score), [tt,tc] = moveTier(a.sigma);
   return '<div class="hpv-row">'
-   +'<div class="hpv-asset"><div class="hpv-sym">'+a.symbol[0]+'</div><span class="hpv-name">'+a.symbol+'</span></div>'
+   +'<div class="hpv-asset">'+coinIconHTML(a,'hpv-sym')+'<span class="hpv-name">'+a.symbol+'</span></div>'
    +'<div class="hpv-score"><span class="hpv-snum" style="color:'+c+'">'+Math.round(a.score)+'</span><div class="hpv-bar"><i style="width:'+Math.round(a.score)+'%;background:'+c+'"></i></div></div>'
    +'<span class="mv '+tc+'" style="justify-self:start">'+tt+' · '+Math.abs(a.sigma).toFixed(1)+'σ</span>'
    +'<span class="state '+verdictCls(a.verdict)+'">'+a.verdict+'</span>'

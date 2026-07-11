@@ -26,10 +26,46 @@ TG_TOKEN = os.environ.get("TG_BOT_TOKEN", "")
 TG_CHAT = os.environ.get("TG_CHAT_ID", "")
 
 SESSION = requests.Session()
+COINGECKO = "https://api.coingecko.com/api/v3"
 
 
 def log(msg):
     print("[{}] {}".format(datetime.now(timezone.utc).strftime("%H:%M:%S"), msg), flush=True)
+
+
+def fetch_coin_meta(pages=2):
+    """Nome completo + icone via CoinGecko (fonte real, sem inventar nada).
+    Nunca derruba o pipeline principal: qualquer falha (rate limit, rede)
+    devolve dict vazio e o resto do script segue normal, so sem enriquecimento."""
+    meta = {}
+    try:
+        for page in range(1, pages + 1):
+            r = SESSION.get(
+                COINGECKO + "/coins/markets",
+                params={"vs_currency": "usd", "order": "market_cap_desc", "per_page": 250, "page": page},
+                timeout=15,
+            )
+            data = r.json()
+            if not isinstance(data, list):
+                log("CoinGecko indisponivel nesta run ({}) — seguindo sem nome/icone.".format(
+                    data.get("status", {}).get("error_code", "?") if isinstance(data, dict) else "?"))
+                break
+            for c in data:
+                sym = c["symbol"].upper()
+                if sym not in meta:
+                    meta[sym] = {"name": c["name"], "icon": c["image"]}
+            time.sleep(1.5)
+    except Exception as e:
+        log("CoinGecko falhou ({}) — seguindo sem nome/icone.".format(e))
+    return meta
+
+
+def lookup_meta(meta, symbol):
+    if symbol in meta:
+        return meta[symbol]
+    if symbol.startswith("1000") and symbol[4:] in meta:
+        return meta[symbol[4:]]
+    return None
 
 
 def get_top_symbols(n=TOP_N):
@@ -159,6 +195,8 @@ def build_snapshot():
         raise RuntimeError("Nao foi possivel coletar dados do BTC — abortando run.")
     btc_close = data[REF_SYMBOL]["close"]
 
+    coin_meta = fetch_coin_meta()
+
     rows = []
     for sym, d in data.items():
         close = d["close"]
@@ -170,8 +208,12 @@ def build_snapshot():
         r2 = 1.0 if is_market else btc_r2(close, btc_close)
         from_btc_pct = round(r2 * 100)
         ret_pct = float((close[-1] / close[-2] - 1) * 100) if len(close) >= 2 else 0.0
+        base_symbol = sym.replace("USDT", "")
+        meta = lookup_meta(coin_meta, base_symbol)
         rows.append({
-            "symbol": sym.replace("USDT", ""),
+            "symbol": base_symbol,
+            "name": meta["name"] if meta else None,
+            "icon": meta["icon"] if meta else None,
             "price": float(close[-1]),
             "ret_pct": round(ret_pct, 2),
             "score": round(score, 1),
@@ -237,7 +279,8 @@ def main():
     snapshot = build_snapshot()
     os.makedirs(os.path.dirname(OUT_JSON), exist_ok=True)
     json.dump(snapshot, open(OUT_JSON, "w"), indent=2)
-    log("Snapshot salvo: {} ({} ativos)".format(OUT_JSON, snapshot["universe_size"]))
+    n_meta = sum(1 for a in rows if a.get("name"))
+    log("Snapshot salvo: {} ({} ativos, {} com nome/icone)".format(OUT_JSON, snapshot["universe_size"], n_meta))
     process_alerts(snapshot)
     log("Done.")
 
