@@ -26,6 +26,7 @@ TG_TOKEN = os.environ.get("TG_BOT_TOKEN", "")
 TG_CHAT = os.environ.get("TG_CHAT_ID", "")
 
 SESSION = requests.Session()
+SESSION.headers.update({"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"})
 COINGECKO = "https://api.coingecko.com/api/v3"
 
 
@@ -73,7 +74,14 @@ def get_top_symbols(n=TOP_N):
     Universo = so cripto de verdade: a Binance tambem lista perpetuos de acoes
     tokenizadas (underlyingType EQUITY, ex NVDA/BABA), indices e commodities;
     nada disso pertence a um screener de cripto, entao filtramos por COIN."""
-    ex = SESSION.get(FAPI + "/fapi/v1/exchangeInfo", timeout=20).json()
+    r_ex = SESSION.get(FAPI + "/fapi/v1/exchangeInfo", timeout=20)
+    ex = r_ex.json()
+    if "symbols" not in ex:
+        raise RuntimeError(
+            "exchangeInfo sem 'symbols' -- HTTP {} -- resposta da Binance: {}".format(
+                r_ex.status_code, str(ex)[:500]
+            )
+        )
     crypto = {
         s["symbol"] for s in ex["symbols"]
         if s.get("underlyingType") == "COIN"
@@ -81,7 +89,14 @@ def get_top_symbols(n=TOP_N):
         and s.get("status") == "TRADING"
         and s["symbol"].endswith("USDT")
     }
-    d = SESSION.get(FAPI + "/fapi/v1/ticker/24hr", timeout=20).json()
+    r_tk = SESSION.get(FAPI + "/fapi/v1/ticker/24hr", timeout=20)
+    d = r_tk.json()
+    if not isinstance(d, list):
+        raise RuntimeError(
+            "ticker/24hr nao veio como lista -- HTTP {} -- resposta da Binance: {}".format(
+                r_tk.status_code, str(d)[:500]
+            )
+        )
     rows = [x for x in d if x["symbol"] in crypto]
     rows.sort(key=lambda x: -float(x["quoteVolume"]))
     symbols = [x["symbol"] for x in rows[:n]]
@@ -279,7 +294,7 @@ def main():
     snapshot = build_snapshot()
     os.makedirs(os.path.dirname(OUT_JSON), exist_ok=True)
     json.dump(snapshot, open(OUT_JSON, "w"), indent=2)
-    n_meta = sum(1 for a in rows if a.get("name"))
+    n_meta = sum(1 for a in snapshot["assets"] if a.get("name"))
     log("Snapshot salvo: {} ({} ativos, {} com nome/icone)".format(OUT_JSON, snapshot["universe_size"], n_meta))
     process_alerts(snapshot)
     log("Done.")
