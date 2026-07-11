@@ -85,6 +85,7 @@ h1 em { font-style: italic; color: var(--gold); }
 .state-over { color: var(--heat); }
 .state-under { color: var(--ice); }
 .state-neutral { color: var(--muted); }
+.state-uptrend { color: var(--green); }
 .btn-ghost { font-size: 11px; letter-spacing: 2px; text-transform: uppercase; padding: 14px 32px; border: 1px solid var(--border2); background: transparent; color: var(--muted); cursor: pointer; transition: all .2s; }
 .btn-ghost:hover { border-color: var(--text); color: var(--text); transform: translateY(-2px); }
 .btn-gold { font-size: 11px; letter-spacing: 2px; text-transform: uppercase; padding: 14px 32px; border: 1px solid var(--gold); background: transparent; color: var(--gold); cursor: pointer; text-decoration: none; transition: all .2s; }
@@ -352,7 +353,7 @@ footer a:hover { color: var(--muted); }
       <div class="read-main">
         <div class="read-name">The Verdict</div>
         <div class="read-q serif">In one word, where does it stand?</div>
-        <p class="read-desc">The plain-English summary. <strong style="color:var(--ice)">Oversold</strong>, <strong style="color:var(--muted)">Neutral</strong>, or <strong style="color:var(--heat)">Overbought</strong>. If you read nothing else, read this. No number to interpret — just the state of the coin, right now.</p>
+        <p class="read-desc">The plain-English summary — <strong style="color:var(--ice)">Oversold</strong>, <strong style="color:var(--muted)">Neutral</strong>, <strong style="color:var(--heat)">Overbought</strong>, or <strong style="color:var(--green)">Strong Uptrend</strong>. It's calibrated by liquidity, not one-size-fits-all: our own multi-year backtest found that for the most liquid coins, "overbought" rarely reverses — it's usually just strong momentum, so we call it what it is instead of promising a reversal that doesn't show up in the data.</p>
       </div>
       <div class="read-viz">
         <span class="viz-state">Oversold</span>
@@ -479,7 +480,12 @@ let DATA = null;
 
 function scoreColor(s){ return s < 35 ? 'var(--ice)' : s > 65 ? 'var(--heat)' : 'var(--gold)'; }
 function moveTier(sig){ const a=Math.abs(sig); return a>=2.5?['Extreme','mv-ext']:a>=1?['Notable','mv-note']:['Normal','mv-norm']; }
-function verdictCls(v){ return v==='Oversold'?'state-under':v==='Overbought'?'state-over':'state-neutral'; }
+function verdictCls(v){
+  if (v === 'Oversold') return 'state-under';
+  if (v === 'Overbought') return 'state-over';
+  if (v === 'Strong Uptrend') return 'state-uptrend';
+  return 'state-neutral';
+}
 
 function iconErr(img, letter, cls){
   const d = document.createElement('div');

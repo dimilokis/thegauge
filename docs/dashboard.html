@@ -91,6 +91,7 @@ tbody td:not(:first-child) { padding-left: 24px; }
 .state-over { color: var(--heat); }
 .state-under { color: var(--ice); }
 .state-neutral { color: var(--muted); }
+.state-uptrend { color: var(--green); }
 .mock-foot { margin-top: 26px; font-size: 12px; color: var(--dim); letter-spacing: .3px; line-height: 1.6; }
 .mock-table-wrap { position: relative; }
 .skeleton { position: absolute; inset: 0; z-index: 3; background: var(--bg); padding-top: 44px; transition: opacity .55s ease; }
@@ -142,6 +143,7 @@ footer a:hover { color: var(--muted); }
     <button class="filt on" data-filter="all">All Assets</button>
     <button class="filt" data-filter="under">Oversold</button>
     <button class="filt" data-filter="over">Overbought</button>
+    <button class="filt" data-filter="uptrend">Strong Uptrend</button>
     <button class="filt" data-filter="ind">Independent moves</button>
     <input class="search" id="search" placeholder="Search symbol…">
   </div>
@@ -198,7 +200,12 @@ function driverInfo(a){
   if(a.from_btc_pct<=60) return {cls:'', name:'Mixed', sub:a.from_btc_pct+'% from BTC'};
   return {cls:'', name:'Bitcoin', sub:a.from_btc_pct+'% from BTC'};
 }
-function verdictCls(v){ return v==='Oversold'?'state-under':v==='Overbought'?'state-over':'state-neutral'; }
+function verdictCls(v){
+  if (v === 'Oversold') return 'state-under';
+  if (v === 'Overbought') return 'state-over';
+  if (v === 'Strong Uptrend') return 'state-uptrend';
+  return 'state-neutral';
+}
 
 function iconErr(img, letter, cls){
   const d = document.createElement('div');
@@ -226,9 +233,10 @@ function dashRowHTML(a){
 
 function rows(){
   let r = DATA.assets.slice();
-  if (filter === 'under') r = r.filter(a => a.verdict === 'Oversold');
-  if (filter === 'over')  r = r.filter(a => a.verdict === 'Overbought');
-  if (filter === 'ind')   r = r.filter(a => !a.is_market && a.from_btc_pct < 40);
+  if (filter === 'under')   r = r.filter(a => a.verdict === 'Oversold');
+  if (filter === 'over')    r = r.filter(a => a.verdict === 'Overbought');
+  if (filter === 'uptrend') r = r.filter(a => a.verdict === 'Strong Uptrend');
+  if (filter === 'ind')     r = r.filter(a => !a.is_market && a.from_btc_pct < 40);
   if (query) r = r.filter(a => a.symbol.toLowerCase().includes(query));
   r.sort((a,b)=>{
     let x = a[sortKey], y = b[sortKey];

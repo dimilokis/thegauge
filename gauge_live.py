@@ -212,7 +212,40 @@ def btc_r2(coin_close, btc_close, window=30):
     return float(np.clip(corr ** 2, 0, 1))
 
 
-def verdict(score):
+def liquidity_tier(close, vol):
+    """Tier de liquidez sustentada (mediana do dollar-volume dos 90d
+    ANTERIORES a hoje, sem contar o dia de hoje — mesma metodologia do
+    backtest historico bot/_gauge_hist_backtest.py). Cortes calibrados
+    contra 400k dias-moeda 2020-2026: A/B tem N grande e formato de
+    momentum; C/D tem N menor e formato mais equilibrado."""
+    dollar_vol = close * vol
+    if len(dollar_vol) < 21:
+        return "D"
+    baseline = dollar_vol[:-1][-90:]
+    med = float(np.median(baseline))
+    if med >= 50e6:
+        return "A"
+    if med >= 10e6:
+        return "B"
+    if med >= 2e6:
+        return "C"
+    return "D"
+
+
+def verdict(score, tier):
+    """Verdict calibrado por tier — achado do backtest historico (400k
+    dias-moeda, 2020-2026): em tiers liquidas (A/B), score alto e sinal de
+    MOMENTUM (a moeda continua subindo), nao de reversao — chamar isso de
+    'Overbought' seria prometer uma reversao que os dados nao confirmam.
+    So a faixa mais extrema do lado baixo (score<10) mostrou reversao real
+    e estatisticamente significativa nessas tiers. Tiers C/D mantem a
+    leitura tradicional, mais equilibrada nos dados."""
+    if tier in ("A", "B"):
+        if score < 10:
+            return "Oversold"
+        if score > 70:
+            return "Strong Uptrend"
+        return "Neutral"
     if score < 30:
         return "Oversold"
     if score > 70:
@@ -246,6 +279,7 @@ def build_snapshot():
         close = d["close"]
         if len(close) < 40:
             continue
+        vol = d["vol"]
         score = float(gauge_score_series(close)[-1])
         sigma = move_sigma(close)
         is_market = sym == REF_SYMBOL
@@ -253,6 +287,7 @@ def build_snapshot():
         from_btc_pct = round(r2 * 100)
         ret_pct = float((close[-1] / close[-2] - 1) * 100) if len(close) >= 2 else 0.0
         base_symbol = sym.replace("USDT", "")
+        tier = "A" if is_market else liquidity_tier(close, vol)
         meta = lookup_meta(coin_meta, base_symbol)
         if meta is None:
             meta = search_coin_meta(base_symbol)
@@ -268,8 +303,9 @@ def build_snapshot():
             "score": round(score, 1),
             "sigma": round(sigma, 2),
             "from_btc_pct": from_btc_pct,
+            "tier": tier,
             "is_market": is_market,
-            "verdict": "Neutral" if is_market else verdict(score),
+            "verdict": "Neutral" if is_market else verdict(score, tier),
         })
 
     rows.sort(key=lambda r: -r["sigma"])
