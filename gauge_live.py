@@ -75,6 +75,25 @@ def lookup_meta(meta, symbol):
     return None
 
 
+def search_coin_meta(symbol):
+    """Fallback pra moedas fora do top-500 por market cap (o /coins/markets
+    nao cobre). Busca direcionada por simbolo — 1 chamada, sem inventar nada.
+    Se o ticker tiver mais de uma moeda (colisao), fica com a de menor
+    market_cap_rank (mais provavel ser a que a Binance lista de verdade)."""
+    try:
+        r = SESSION.get(COINGECKO + "/search", params={"query": symbol}, timeout=15)
+        data = r.json()
+        coins = data.get("coins", []) if isinstance(data, dict) else []
+        matches = [c for c in coins if c.get("symbol", "").upper() == symbol]
+        if not matches:
+            return None
+        matches.sort(key=lambda c: c.get("market_cap_rank") if c.get("market_cap_rank") is not None else 10**9)
+        best = matches[0]
+        return {"name": best["name"], "icon": best.get("large") or best.get("thumb")}
+    except Exception:
+        return None
+
+
 def get_top_symbols(n=TOP_N):
     """Ranking por volume de 24h, recalculado a cada run — sem lista fixa.
     Universo = so cripto de verdade: a Binance tambem lista perpetuos de acoes
@@ -235,6 +254,11 @@ def build_snapshot():
         ret_pct = float((close[-1] / close[-2] - 1) * 100) if len(close) >= 2 else 0.0
         base_symbol = sym.replace("USDT", "")
         meta = lookup_meta(coin_meta, base_symbol)
+        if meta is None:
+            meta = search_coin_meta(base_symbol)
+            if meta is not None:
+                coin_meta[base_symbol] = meta
+            time.sleep(1.5)
         rows.append({
             "symbol": base_symbol,
             "name": meta["name"] if meta else None,
