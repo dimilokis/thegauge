@@ -174,7 +174,7 @@ footer a:hover { color: var(--muted); }
 
   <section class="radar-section">
     <p class="section-eyebrow">Active Radar</p>
-    <h1 class="serif" style="margin-bottom:24px">When to <em>do nothing.</em></h1>
+    <h1 class="serif" style="margin-bottom:24px">Standing out<br>— or <em>blending in.</em></h1>
     <div class="radar-mock-box" id="radarBox">
       <p class="radar-state-label" id="radarTime">Market Status</p>
       <div class="radar-icon">☕</div>
@@ -255,9 +255,9 @@ function renderRadar(){
   const gen = new Date(DATA.generated_at);
   const timeStr = gen.toUTCString().slice(17,22) + ' UTC';
   if (!hot.length) {
-    box.innerHTML = '<p class="radar-state-label">Market Status · '+timeStr+'</p><div class="radar-icon">☕</div>'
+    box.innerHTML = '<p class="radar-state-label">Market Status · '+timeStr+'</p><div class="radar-icon">○</div>'
       +'<div class="radar-headline serif">Nothing unusual right now.</div>'
-      +'<p class="radar-body">Across the top '+DATA.universe_size+', every move is within normal range. The math finds nothing that stands out — so there\'s nothing here to act on. Go grab a coffee.</p>';
+      +'<p class="radar-body">Across the top '+DATA.universe_size+', every move is within its own normal range today. No coin stands out as statistically extreme and independent of Bitcoin.</p>';
   } else {
     box.innerHTML = '<p class="radar-state-label">Market Status · '+timeStr+'</p><div class="radar-icon">◉</div>'
       +'<div class="radar-headline serif">'+hot.length+(hot.length===1?' asset stands':' assets stand')+' out.</div>'
