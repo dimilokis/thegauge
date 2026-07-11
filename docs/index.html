@@ -152,8 +152,12 @@ h2 em { font-style: italic; color: var(--gold); }
 .mock-filters { display: flex; gap: 8px; margin-bottom: 24px; flex-wrap: wrap; }
 .filt { font-size: 10px; letter-spacing: 1.5px; text-transform: uppercase; padding: 7px 18px; border: 1px solid var(--border); background: transparent; color: var(--muted); cursor: pointer; transition: all .15s; font-family: 'Inter', sans-serif; }
 .filt.on { border-color: var(--gold); color: var(--gold); background: var(--gold-dim); }
+.search { margin-left: auto; background: var(--bg); border: 1px solid var(--border); color: var(--text); padding: 8px 14px; font-size: 12.5px; font-family: 'Inter', sans-serif; outline: none; width: 170px; font-weight: 300; }
+.search:focus { border-color: var(--gold); }
 table { width: 100%; border-collapse: collapse; }
-thead th { font-size: 10px; letter-spacing: 1.5px; text-transform: uppercase; color: var(--dim); font-weight: 400; padding: 12px 0; border-bottom: 1px solid var(--border); text-align: left; }
+thead th { font-size: 10px; letter-spacing: 1.5px; text-transform: uppercase; color: var(--dim); font-weight: 400; padding: 12px 0; border-bottom: 1px solid var(--border); text-align: left; cursor: pointer; user-select: none; }
+thead th:hover { color: var(--muted); }
+thead th.sorted { color: var(--gold); }
 thead th:not(:first-child) { padding-left: 24px; }
 tbody tr { border-bottom: 1px solid var(--border); transition: background .1s, opacity .32s ease; }
 tbody tr:last-child { border-bottom: none; }
@@ -454,6 +458,7 @@ footer a:hover { color: var(--muted); }
       <button class="filt" data-filter="under">Oversold</button>
       <button class="filt" data-filter="over">Overbought</button>
       <button class="filt" data-filter="ind">Independent moves</button>
+      <input class="search" id="search" placeholder="Search symbol…">
     </div>
     <div class="mock-table-wrap">
       <div class="skeleton" id="mockSkeleton">
@@ -465,7 +470,13 @@ footer a:hover { color: var(--muted); }
       </div>
       <table>
         <thead>
-          <tr><th>Asset</th><th>Gauge Score</th><th>Move</th><th>Driver</th><th>Verdict</th></tr>
+          <tr>
+            <th data-k="symbol">Asset</th>
+            <th data-k="score">Gauge Score</th>
+            <th data-k="sigma" class="sorted">Move</th>
+            <th data-k="from_btc_pct">Driver</th>
+            <th data-k="verdict">Verdict</th>
+          </tr>
         </thead>
         <tbody id="dashBody"></tbody>
       </table>
@@ -610,7 +621,7 @@ footer a:hover { color: var(--muted); }
    index.html (atualizado de hora em hora pelo GitHub Actions). */
 const GAUGE_JSON_URL = 'gauge_live.json';
 
-let DATA = null, filter = 'all';
+let DATA = null, filter = 'all', sortKey = 'sigma', sortDir = -1, query = '';
 
 function scoreColor(s){ return s < 35 ? 'var(--ice)' : s > 65 ? 'var(--heat)' : 'var(--gold)'; }
 function moveTier(sig){ const a=Math.abs(sig); return a>=2.5?['Extreme','mv-ext']:a>=1?['Notable','mv-note']:['Normal','mv-norm']; }
@@ -625,7 +636,7 @@ function verdictCls(v){ return v==='Oversold'?'state-under':v==='Overbought'?'st
 function dashRowHTML(a){
   const c = scoreColor(a.score), [tt,tc] = moveTier(a.sigma), d = driverInfo(a);
   return '<tr>'
-   +'<td><div class="coin-row"><div class="coin-sym">'+a.symbol[0]+'</div><div><div class="coin-info-name">'+a.symbol+'</div><div class="coin-info-tick">'+a.symbol+'</div></div></div></td>'
+   +'<td><div class="coin-row"><div class="coin-sym">'+a.symbol[0]+'</div><div class="coin-info-name">'+a.symbol+(a.is_market?' <span style="color:var(--dim);font-size:10px;letter-spacing:1px;text-transform:uppercase">market</span>':'')+'</div></div></td>'
    +'<td><div class="temp-wrap"><span class="temp-num serif" style="color:'+c+'">'+Math.round(a.score)+'</span><div class="temp-bar"><div class="temp-fill" style="--w:'+Math.round(a.score)+'%;background:'+c+'"></div></div></div></td>'
    +'<td><span class="mv '+tc+'">'+tt+' · '+Math.abs(a.sigma).toFixed(1)+'σ</span></td>'
    +'<td><div class="'+d.cls+'"><div class="drv-name">'+d.name+'</div><div class="drv-pct">'+d.sub+'</div></div></td>'
@@ -647,11 +658,17 @@ function rows(){
   if (filter === 'under') r = r.filter(a => a.verdict === 'Oversold');
   if (filter === 'over')  r = r.filter(a => a.verdict === 'Overbought');
   if (filter === 'ind')   r = r.filter(a => !a.is_market && a.from_btc_pct < 40);
-  r.sort((a,b)=>Math.abs(b.sigma)-Math.abs(a.sigma));
+  if (query) r = r.filter(a => a.symbol.toLowerCase().includes(query));
+  r.sort((a,b)=>{
+    let x = a[sortKey], y = b[sortKey];
+    if (sortKey === 'sigma') { x = Math.abs(x); y = Math.abs(y); }
+    if (typeof x === 'string') return sortDir * x.localeCompare(y);
+    return sortDir * (x - y);
+  });
   return r;
 }
 function renderDash(){
-  document.getElementById('dashBody').innerHTML = rows().slice(0,25).map(dashRowHTML).join('');
+  document.getElementById('dashBody').innerHTML = rows().map(dashRowHTML).join('');
 }
 function renderHero(){
   const top3 = DATA.assets.filter(a=>!a.is_market).sort((a,b)=>Math.abs(b.sigma)-Math.abs(a.sigma)).slice(0,3);
@@ -708,6 +725,18 @@ document.querySelectorAll('.filt').forEach(b=>{
     if (DATA) renderDash();
   });
 });
+document.getElementById('search').addEventListener('input', function(){
+  query = this.value.trim().toLowerCase();
+  if (DATA) renderDash();
+});
+document.querySelectorAll('thead th').forEach(th => th.addEventListener('click', function(){
+  const k = this.dataset.k;
+  if (sortKey === k) sortDir *= -1;
+  else { sortKey = k; sortDir = (k === 'symbol' || k === 'verdict') ? 1 : -1; }
+  document.querySelectorAll('thead th').forEach(x => x.classList.remove('sorted'));
+  this.classList.add('sorted');
+  if (DATA) renderDash();
+}));
 const io = new IntersectionObserver((entries)=>{
   entries.forEach(e=>{ if(e.isIntersecting){ e.target.classList.add('in'); io.unobserve(e.target); } });
 }, { threshold: 0.15, rootMargin: '0px 0px -8% 0px' });
