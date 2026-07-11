@@ -1,8 +1,11 @@
 name: Daily X post
 
 on:
-  schedule:
-    - cron: "0 13 * * *"   # 13:00 UTC = ~10:00 Brasilia — 1x por dia
+  # Agendamento automatico desligado (automacao paga do X nao esta em uso).
+  # Continua disparavel manualmente na aba Actions se um dia for ligar.
+  # Pra reativar: descomenta as 2 linhas abaixo.
+  # schedule:
+  #   - cron: "0 13 * * *"   # 13:00 UTC = ~10:00 Brasilia — 1x por dia
   workflow_dispatch:
     inputs:
       force:

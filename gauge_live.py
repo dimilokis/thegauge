@@ -27,6 +27,12 @@ TG_CHAT = os.environ.get("TG_CHAT_ID", "")
 
 SESSION = requests.Session()
 SESSION.headers.update({"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"})
+
+
+class GeoBlocked(Exception):
+    """Binance recusou o IP do runner (HTTP 451). Esperado ocasionalmente em
+    runners hospedados na nuvem (IP sorteado de uma faixa que pode estar
+    bloqueada). Nao e bug — a proxima execucao horaria pega outro IP."""
 COINGECKO = "https://api.coingecko.com/api/v3"
 
 
@@ -77,6 +83,10 @@ def get_top_symbols(n=TOP_N):
     r_ex = SESSION.get(FAPI + "/fapi/v1/exchangeInfo", timeout=20)
     ex = r_ex.json()
     if "symbols" not in ex:
+        if r_ex.status_code == 451:
+            raise GeoBlocked(
+                "Binance bloqueou o IP deste runner (HTTP 451, restricao geografica/datacenter)."
+            )
         raise RuntimeError(
             "exchangeInfo sem 'symbols' -- HTTP {} -- resposta da Binance: {}".format(
                 r_ex.status_code, str(ex)[:500]
@@ -303,6 +313,10 @@ def main():
 if __name__ == "__main__":
     try:
         main()
+    except GeoBlocked as e:
+        log("PULADO (nao e bug): {}".format(e))
+        log("A proxima execucao horaria tenta de novo com outro IP.")
+        sys.exit(0)
     except Exception as e:
         log("ERRO: {}".format(e))
         sys.exit(1)
