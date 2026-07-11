@@ -22,7 +22,6 @@
   --ice:      #7eb8c9;
   --heat:     #c97a6e;
   --green:    #7ec998;
-  --red:      #c97a6e;
 }
 *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 html { scroll-behavior: smooth; }
@@ -42,12 +41,10 @@ body {
 .reveal.d1 { transition-delay: .08s; }
 .reveal.d2 { transition-delay: .16s; }
 .reveal.d3 { transition-delay: .24s; }
-.reveal.d4 { transition-delay: .32s; }
 @media (prefers-reduced-motion: reduce) { .reveal { opacity: 1; transform: none; transition: none; } }
 .hero-eyebrow, .hero h1, .hero-sub, .hero-actions { opacity: 0; transform: translateY(24px); animation: heroIn 1.2s cubic-bezier(.22,.61,.36,1) forwards; }
 .hero h1 { animation-delay: .15s; } .hero-sub { animation-delay: .4s; } .hero-actions { animation-delay: .6s; }
 @keyframes heroIn { to { opacity: 1; transform: translateY(0); } }
-.temp-fill { width: var(--w, 0); transition: width .8s cubic-bezier(.22,.61,.36,1), background .5s ease, filter .3s ease; }
 
 /* ─── NAV ─── */
 nav { display: flex; justify-content: space-between; align-items: center; padding: 28px 48px; position: fixed; top: 0; left: 0; right: 0; z-index: 100; background: rgba(8,8,8,0.92); backdrop-filter: blur(12px); border-bottom: 1px solid var(--border); }
@@ -57,7 +54,8 @@ nav { display: flex; justify-content: space-between; align-items: center; paddin
 .nav-link { font-size: 12px; letter-spacing: 1.5px; text-transform: uppercase; color: var(--muted); text-decoration: none; transition: color .2s; }
 .nav-link:hover { color: var(--text); }
 .nav-cta { font-size: 11px; letter-spacing: 2px; text-transform: uppercase; padding: 10px 24px; border: 1px solid var(--gold); background: transparent; color: var(--gold); cursor: pointer; text-decoration: none; transition: all .2s; }
-.nav-cta:hover { background: var(--gold); color: var(--bg); }
+.nav-cta:hover { background: var(--gold); color: var(--bg); transform: translateY(-2px); box-shadow: 0 10px 26px rgba(201,169,110,.16); }
+.nav-cta:active { transform: translateY(0); box-shadow: none; }
 
 /* ─── HERO ─── */
 .hero { min-height: 100vh; display: flex; flex-direction: column; justify-content: center; align-items: center; text-align: center; padding: 120px 24px 80px; position: relative; overflow: hidden; }
@@ -79,15 +77,19 @@ h1 em { font-style: italic; color: var(--gold); }
 .hpv-snum { font-family: 'Cormorant Garamond', serif; font-size: 20px; text-shadow: 0 0 16px currentColor; }
 .hpv-bar { width: 54px; height: 3px; background: var(--border); border-radius: 2px; overflow: hidden; }
 .hpv-bar i { display: block; height: 100%; transition: width .8s cubic-bezier(.22,.61,.36,1), background .5s ease; }
-.mv { transition: background .5s ease, color .5s ease; }
+.mv { font-size: 10px; letter-spacing: 1px; text-transform: uppercase; padding: 4px 11px; border-radius: 2px; }
+.mv-norm { background: rgba(90,86,80,.18); color: var(--muted); }
+.mv-note { background: rgba(126,185,201,.1); color: var(--ice); }
+.mv-ext  { background: rgba(201,122,110,.12); color: var(--heat); }
+.state { font-size: 12px; letter-spacing: 1.5px; text-transform: uppercase; font-weight: 500; }
+.state-over { color: var(--heat); }
+.state-under { color: var(--ice); }
+.state-neutral { color: var(--muted); }
 .btn-ghost { font-size: 11px; letter-spacing: 2px; text-transform: uppercase; padding: 14px 32px; border: 1px solid var(--border2); background: transparent; color: var(--muted); cursor: pointer; transition: all .2s; }
 .btn-ghost:hover { border-color: var(--text); color: var(--text); transform: translateY(-2px); }
 .btn-gold { font-size: 11px; letter-spacing: 2px; text-transform: uppercase; padding: 14px 32px; border: 1px solid var(--gold); background: transparent; color: var(--gold); cursor: pointer; text-decoration: none; transition: all .2s; }
-.btn-gold:hover { background: var(--gold); color: var(--bg); }
-.btn-gold:hover, .nav-cta:hover { transform: translateY(-2px); box-shadow: 0 10px 26px rgba(201,169,110,.16); }
-.btn-gold:active, .nav-cta:active { transform: translateY(0); box-shadow: none; }
-.scroll-hint { position: absolute; bottom: 40px; left: 50%; transform: translateX(-50%); font-size: 11px; letter-spacing: 2px; text-transform: uppercase; color: var(--dim); display: flex; flex-direction: column; align-items: center; gap: 8px; }
-.scroll-line { width: 1px; height: 48px; background: linear-gradient(to bottom, var(--dim), transparent); }
+.btn-gold:hover { background: var(--gold); color: var(--bg); transform: translateY(-2px); box-shadow: 0 10px 26px rgba(201,169,110,.16); }
+.btn-gold:active { transform: translateY(0); box-shadow: none; }
 .live-badge { display: inline-flex; align-items: center; gap: 8px; font-size: 11px; letter-spacing: 1px; text-transform: uppercase; color: var(--dim); margin-top: 28px; }
 .live-dot { width: 6px; height: 6px; border-radius: 50%; background: var(--green); animation: pulse 2s infinite; }
 .live-dot.stale { background: var(--heat); animation: none; }
@@ -99,7 +101,7 @@ h2 { font-family: 'Cormorant Garamond', serif; font-size: clamp(36px, 5vw, 60px)
 h2 em { font-style: italic; color: var(--gold); }
 .section-sub { font-size: 15px; color: var(--muted); line-height: 1.8; max-width: 540px; }
 
-/* ─── CASES (the situations — why it helps) ─── */
+/* ─── CASES ─── */
 .cases { border-top: 1px solid var(--border); }
 .cases-inner { max-width: 1080px; margin: 0 auto; padding: 130px 48px; }
 .cases-head { text-align: center; max-width: 640px; margin: 0 auto 72px; }
@@ -114,9 +116,8 @@ h2 em { font-style: italic; color: var(--gold); }
 .case-read-val { display: block; font-size: 13px; color: var(--text); }
 .case-out { font-size: 14px; color: var(--text); line-height: 1.7; margin-top: auto; }
 .cases-foot { text-align: center; font-family: 'Cormorant Garamond', serif; font-style: italic; font-size: 23px; color: var(--gold); margin: 60px auto 0; max-width: 720px; line-height: 1.5; }
-.engine-source { margin-top: 40px; font-size: 12px; color: var(--dim); letter-spacing: .3px; text-align: center; }
 
-/* ─── READS (explain each column BEFORE the dashboard) ─── */
+/* ─── READS ─── */
 .reads { border-top: 1px solid var(--border); }
 .reads-inner { max-width: 980px; margin: 0 auto; padding: 130px 48px; }
 .reads-head { text-align: center; max-width: 600px; margin: 0 auto 80px; }
@@ -140,60 +141,6 @@ h2 em { font-style: italic; color: var(--gold); }
 .viz-driver span { color: var(--muted); font-size: 12px; display: block; margin-top: 2px; }
 .viz-state { font-size: 15px; letter-spacing: 2px; text-transform: uppercase; font-weight: 500; color: var(--ice); }
 
-/* ─── LIVE DASHBOARD ─── */
-.mock-section { background: var(--surface); border-top: 1px solid var(--border); border-bottom: 1px solid var(--border); }
-.mock-intro { text-align: center; max-width: 560px; margin: 0 auto; padding: 110px 24px 0; }
-.mock-inner { max-width: 1080px; margin: 0 auto; padding: 56px 48px 96px; }
-.mock-header-bar { display: flex; justify-content: space-between; align-items: center; margin-bottom: 28px; padding-bottom: 22px; border-bottom: 1px solid var(--border); }
-.mock-logo-sm { font-family: 'Cormorant Garamond', serif; font-size: 16px; letter-spacing: 2px; text-transform: uppercase; color: var(--muted); }
-.mock-logo-sm span { color: var(--gold); }
-.mock-status { display: flex; align-items: center; gap: 8px; font-size: 11px; letter-spacing: 1px; color: var(--muted); text-transform: uppercase; }
-.mock-filters { display: flex; gap: 8px; margin-bottom: 24px; flex-wrap: wrap; }
-.filt { font-size: 10px; letter-spacing: 1.5px; text-transform: uppercase; padding: 7px 18px; border: 1px solid var(--border); background: transparent; color: var(--muted); cursor: pointer; transition: all .15s; font-family: 'Inter', sans-serif; }
-.filt.on { border-color: var(--gold); color: var(--gold); background: var(--gold-dim); }
-.search { margin-left: auto; background: var(--bg); border: 1px solid var(--border); color: var(--text); padding: 8px 14px; font-size: 12.5px; font-family: 'Inter', sans-serif; outline: none; width: 170px; font-weight: 300; }
-.search:focus { border-color: var(--gold); }
-table { width: 100%; border-collapse: collapse; }
-thead th { font-size: 10px; letter-spacing: 1.5px; text-transform: uppercase; color: var(--dim); font-weight: 400; padding: 12px 0; border-bottom: 1px solid var(--border); text-align: left; cursor: pointer; user-select: none; }
-thead th:hover { color: var(--muted); }
-thead th.sorted { color: var(--gold); }
-thead th:not(:first-child) { padding-left: 24px; }
-tbody tr { border-bottom: 1px solid var(--border); transition: background .1s, opacity .32s ease; }
-tbody tr:last-child { border-bottom: none; }
-tbody tr:hover { background: rgba(201,169,110,0.035); }
-tbody tr:hover .temp-fill { filter: brightness(1.45) saturate(1.15); }
-tbody tr:hover .temp-num { filter: brightness(1.18); }
-tbody td { padding: 20px 0; font-size: 14px; font-weight: 300; }
-tbody td:not(:first-child) { padding-left: 24px; }
-.coin-row { display: flex; align-items: center; gap: 12px; }
-.coin-sym { width: 36px; height: 36px; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 13px; font-weight: 500; flex-shrink: 0; background: var(--gold-dim); color: var(--gold); object-fit: cover; }
-.coin-info-name { font-size: 14px; font-weight: 400; color: var(--text); }
-.coin-info-tick { font-size: 11px; color: var(--muted); letter-spacing: .5px; }
-.temp-wrap { display: flex; align-items: center; gap: 14px; }
-.temp-bar { width: 84px; height: 4px; background: var(--border); border-radius: 2px; overflow: hidden; }
-.temp-fill { height: 100%; border-radius: 2px; }
-.temp-num { font-family: 'Cormorant Garamond', serif; font-size: 26px; min-width: 34px; }
-.mv { font-size: 10px; letter-spacing: 1px; text-transform: uppercase; padding: 4px 11px; border-radius: 2px; }
-.mv-norm { background: rgba(90,86,80,.18); color: var(--muted); }
-.mv-note { background: rgba(126,185,201,.1); color: var(--ice); }
-.mv-ext  { background: rgba(201,122,110,.12); color: var(--heat); }
-.drv-name { font-size: 13px; color: var(--text); }
-.drv-pct { font-size: 11px; color: var(--muted); letter-spacing: .3px; margin-top: 2px; }
-.drv-ind .drv-name { color: var(--gold); }
-.state { font-size: 12px; letter-spacing: 1.5px; text-transform: uppercase; font-weight: 500; }
-.state-over { color: var(--heat); }
-.state-under { color: var(--ice); }
-.state-neutral { color: var(--muted); }
-.mock-foot { margin-top: 26px; font-size: 12px; color: var(--dim); letter-spacing: .3px; line-height: 1.6; }
-.mock-table-wrap { position: relative; }
-.skeleton { position: absolute; inset: 0; z-index: 3; background: var(--surface); padding-top: 44px; transition: opacity .55s ease; }
-.skeleton.hide { opacity: 0; pointer-events: none; }
-.sk-row { height: 61px; border-bottom: 1px solid var(--border); display: flex; align-items: center; }
-.sk-bar { height: 9px; border-radius: 3px; background: linear-gradient(90deg, var(--lift) 25%, #242424 37%, var(--lift) 63%); background-size: 400% 100%; animation: sksh 1.4s ease infinite; }
-@keyframes sksh { 0% { background-position: 100% 0; } 100% { background-position: 0 0; } }
-.mock-err { padding: 60px 20px; text-align: center; color: var(--heat); font-size: 13px; line-height: 1.8; }
-@media (prefers-reduced-motion: reduce) { .sk-bar { animation: none; } .skeleton { display: none; } }
-
 /* ─── ENGINE / ARCHITECTURE ─── */
 .engine { border-top: 1px solid var(--border); background: #050505; }
 .engine-inner { max-width: 1080px; margin: 0 auto; padding: 130px 48px; }
@@ -206,28 +153,7 @@ tbody td:not(:first-child) { padding-left: 24px; }
 .engine-icon { font-family: 'Cormorant Garamond', serif; font-size: 22px; color: var(--gold); margin-bottom: 20px; font-style: italic; letter-spacing: 1px; }
 .engine-box h4 { font-family: 'Cormorant Garamond', serif; font-size: 26px; font-weight: 300; color: var(--text); margin-bottom: 14px; line-height: 1.2; }
 .engine-box p { font-size: 13px; color: var(--muted); line-height: 1.7; }
-
-/* ─── RADAR ─── */
-.radar-section { border-top: 1px solid var(--border); background: var(--surface); }
-.radar-inner { max-width: 1080px; margin: 0 auto; padding: 130px 48px; display: grid; grid-template-columns: 1fr 1fr; gap: 80px; align-items: center; }
-.radar-text h2 { margin-bottom: 20px; }
-.radar-mock-box { background: var(--bg); border: 1px solid var(--border); padding: 48px; text-align: center; }
-.radar-state-label { font-size: 10px; letter-spacing: 3px; text-transform: uppercase; color: var(--dim); margin-bottom: 36px; }
-.radar-icon { font-size: 52px; margin-bottom: 24px; line-height: 1; }
-.radar-headline { font-family: 'Cormorant Garamond', serif; font-size: 28px; font-weight: 300; margin-bottom: 14px; }
-.radar-body { font-size: 14px; color: var(--muted); line-height: 1.7; }
-.radar-sep { width: 1px; height: 40px; background: var(--border); margin: 36px auto; }
-.radar-when { font-size: 11px; letter-spacing: 1px; text-transform: uppercase; color: var(--dim); margin-bottom: 20px; }
-.radar-cards { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; }
-.r-card { padding: 20px; border: 1px solid var(--border); background: var(--lift); }
-.r-card-title { font-size: 10px; letter-spacing: 1.5px; text-transform: uppercase; margin-bottom: 16px; }
-.r-card.heat .r-card-title { color: var(--heat); }
-.r-card.cold .r-card-title { color: var(--ice); }
-.r-coin { display: flex; justify-content: space-between; padding: 8px 0; border-bottom: 1px solid var(--border); font-size: 13px; }
-.r-coin:last-child { border-bottom: none; }
-.r-coin-n { font-weight: 400; color: var(--text); }
-.r-card.heat .r-coin-s { color: var(--heat); }
-.r-card.cold .r-coin-s { color: var(--ice); }
+.engine-source { margin-top: 40px; font-size: 12px; color: var(--dim); letter-spacing: .3px; text-align: center; }
 
 /* ─── MANIFESTO ─── */
 .manifesto { border-top: 1px solid var(--border); }
@@ -297,12 +223,7 @@ footer a:hover { color: var(--muted); }
   .read-row { grid-template-columns: 1fr; gap: 16px; padding: 36px 0; }
   .read-num { font-size: 44px; }
   .read-viz { min-height: 0; }
-  .mock-inner { padding: 40px 20px 64px; }
-  .mock-intro { padding: 72px 20px 0; }
-  thead { display: none; }
-  tbody td { padding-left: 0 !important; }
   .compare-inner, .manifesto-inner { padding: 80px 24px; }
-  .radar-inner { grid-template-columns: 1fr; gap: 48px; padding: 80px 24px; }
   .roadmap-inner { padding: 80px 24px; }
   .roadmap-grid { grid-template-columns: 1fr; }
   .about-inner { grid-template-columns: 1fr; gap: 48px; padding: 80px 24px; }
@@ -319,7 +240,7 @@ footer a:hover { color: var(--muted); }
   <div class="nav-right">
     <a href="#reads" class="nav-link">How it works</a>
     <a href="#about" class="nav-link">About</a>
-    <a href="#dashboard" class="nav-cta">Live Dashboard</a>
+    <a href="dashboard.html" class="nav-cta">Live Dashboard</a>
   </div>
 </nav>
 
@@ -329,7 +250,7 @@ footer a:hover { color: var(--muted); }
   <h1 class="serif">Is it a crash —<br>or just a <em>Tuesday?</em></h1>
   <p class="hero-sub">Half my worst trades came from panicking over a move that turned out to be nothing. The Gauge fixes that one problem: it tells you, fast, if a move is actually a big deal for that coin — or just Bitcoin pulling the whole market along.</p>
   <div class="hero-actions">
-    <a class="btn-gold" href="#dashboard">See the Live Dashboard</a>
+    <a class="btn-gold" href="dashboard.html">See the Live Dashboard</a>
     <button class="btn-ghost" onclick="document.getElementById('reads').scrollIntoView({behavior:'smooth'})">How it works</button>
   </div>
   <div class="live-badge"><div class="live-dot" id="heroLiveDot"></div><span id="heroLiveTxt">Free · no signup · updating hourly</span></div>
@@ -387,7 +308,7 @@ footer a:hover { color: var(--muted); }
     <div class="reads-head reveal">
       <p class="section-eyebrow">How to read it</p>
       <h2 class="serif">Four reads.<br>One <em>five-second</em> glance.</h2>
-      <p class="section-sub">Before you see the dashboard, here's exactly what every column means. No jargon left unexplained — each one answers a question you already have.</p>
+      <p class="section-sub">Here's exactly what every column on the dashboard means. No jargon left unexplained — each one answers a question you already have.</p>
     </div>
 
     <div class="read-row reveal">
@@ -435,69 +356,6 @@ footer a:hover { color: var(--muted); }
       </div>
       <div class="read-viz">
         <span class="viz-state">Oversold</span>
-      </div>
-    </div>
-  </div>
-</section>
-
-<!-- LIVE DASHBOARD (real data — no mock, no demo) -->
-<div class="mock-section" id="dashboard">
-  <div class="mock-intro reveal">
-    <p class="section-eyebrow">The Dashboard</p>
-    <h2 class="serif">This is <em>live.</em></h2>
-    <p class="section-sub" style="margin:0 auto">The real top 100, scored right now. Not a preview — this is the actual product, free, updating every hour.</p>
-  </div>
-  <div class="mock-inner">
-    <div class="mock-header-bar">
-      <div class="mock-logo-sm">The <span>Gauge</span></div>
-      <div class="mock-status"><div class="live-dot" id="dashLiveDot"></div><span id="dashLiveTxt">loading…</span></div>
-    </div>
-    <div class="mock-filters">
-      <button class="filt on" data-filter="all">All Assets</button>
-      <button class="filt" data-filter="under">Oversold</button>
-      <button class="filt" data-filter="over">Overbought</button>
-      <button class="filt" data-filter="ind">Independent moves</button>
-      <input class="search" id="search" placeholder="Search symbol…">
-    </div>
-    <div class="mock-table-wrap">
-      <div class="skeleton" id="mockSkeleton">
-        <div class="sk-row"><div class="sk-bar" style="width:34px;height:34px;border-radius:50%"></div><div class="sk-bar" style="width:110px;margin-left:14px"></div><div class="sk-bar" style="width:84px;margin-left:36px"></div><div class="sk-bar" style="width:96px;margin-left:36px"></div><div class="sk-bar" style="width:70px;margin-left:36px"></div></div>
-        <div class="sk-row"><div class="sk-bar" style="width:34px;height:34px;border-radius:50%"></div><div class="sk-bar" style="width:96px;margin-left:14px"></div><div class="sk-bar" style="width:78px;margin-left:36px"></div><div class="sk-bar" style="width:104px;margin-left:36px"></div><div class="sk-bar" style="width:64px;margin-left:36px"></div></div>
-        <div class="sk-row"><div class="sk-bar" style="width:34px;height:34px;border-radius:50%"></div><div class="sk-bar" style="width:120px;margin-left:14px"></div><div class="sk-bar" style="width:88px;margin-left:36px"></div><div class="sk-bar" style="width:90px;margin-left:36px"></div><div class="sk-bar" style="width:74px;margin-left:36px"></div></div>
-        <div class="sk-row"><div class="sk-bar" style="width:34px;height:34px;border-radius:50%"></div><div class="sk-bar" style="width:102px;margin-left:14px"></div><div class="sk-bar" style="width:82px;margin-left:36px"></div><div class="sk-bar" style="width:100px;margin-left:36px"></div><div class="sk-bar" style="width:68px;margin-left:36px"></div></div>
-        <div class="sk-row"><div class="sk-bar" style="width:34px;height:34px;border-radius:50%"></div><div class="sk-bar" style="width:114px;margin-left:14px"></div><div class="sk-bar" style="width:76px;margin-left:36px"></div><div class="sk-bar" style="width:94px;margin-left:36px"></div><div class="sk-bar" style="width:72px;margin-left:36px"></div></div>
-      </div>
-      <table>
-        <thead>
-          <tr>
-            <th data-k="symbol">Asset</th>
-            <th data-k="score">Gauge Score</th>
-            <th data-k="sigma" class="sorted">Move</th>
-            <th data-k="from_btc_pct">Driver</th>
-            <th data-k="verdict">Verdict</th>
-          </tr>
-        </thead>
-        <tbody id="dashBody"></tbody>
-      </table>
-      <div class="mock-err" id="dashErr" style="display:none">Couldn't load live data right now. Try refreshing in a minute.</div>
-    </div>
-    <p class="mock-foot" id="dashFoot">The whole top 100, scored the same way, updating as the market moves. Built only on data from when each coin was actually trading — no ghost prices from dead listings.</p>
-  </div>
-</div>
-
-<!-- RADAR -->
-<section class="radar-section">
-  <div class="radar-inner">
-    <div class="radar-text reveal">
-      <p class="section-eyebrow">Active Radar</p>
-      <h2 class="serif">We also tell you<br>when to <em>do nothing.</em></h2>
-      <p class="section-sub">Other screeners are built to keep you staring at the screen. The Gauge does the opposite — when nothing is statistically unusual, it says so, and lets you walk away.</p>
-    </div>
-    <div class="reveal d2">
-      <div class="radar-mock-box" id="radarBox">
-        <p class="radar-state-label" id="radarTime">Market Status</p>
-        <div class="radar-icon">☕</div>
-        <div class="radar-headline serif">Loading today's read…</div>
       </div>
     </div>
   </div>
@@ -559,7 +417,7 @@ footer a:hover { color: var(--muted); }
         <p>Every move gets pulled apart: how much was Bitcoin, how much was the coin on its own. That separation is the whole difference between a price change and something you can actually think about.</p>
       </div>
     </div>
-    <p class="engine-source reveal">Runs on Binance market data — cleaned, normalised and re-scored across the 100 most liquid coins.</p>
+    <p class="engine-source reveal">Runs on Binance market data — cleaned, normalised and re-scored across the 100 most liquid coins by 24h volume.</p>
   </div>
 </section>
 
@@ -611,25 +469,16 @@ footer a:hover { color: var(--muted); }
 
 <footer>
   <span>© 2026 The Gauge — gauging the market is an art.</span>
+  <a href="dashboard.html">Live Dashboard</a>
   <a href="mailto:hello@thegauge.art">hello@thegauge.art</a>
 </footer>
 
 <script>
-/* ─── LIVE DATA ───────────────────────────────────────────────────────────
-   Mesmo repositorio, mesma pasta: gauge_live.json fica ao lado deste
-   index.html (atualizado de hora em hora pelo GitHub Actions). */
 const GAUGE_JSON_URL = 'gauge_live.json';
-
-let DATA = null, filter = 'all', sortKey = 'sigma', sortDir = -1, query = '';
+let DATA = null;
 
 function scoreColor(s){ return s < 35 ? 'var(--ice)' : s > 65 ? 'var(--heat)' : 'var(--gold)'; }
 function moveTier(sig){ const a=Math.abs(sig); return a>=2.5?['Extreme','mv-ext']:a>=1?['Notable','mv-note']:['Normal','mv-norm']; }
-function driverInfo(a){
-  if(a.is_market) return {cls:'', name:'It is the market', sub:'sets the tide'};
-  if(a.from_btc_pct<40) return {cls:'drv-ind', name:'Independent', sub:a.from_btc_pct+'% from BTC'};
-  if(a.from_btc_pct<=60) return {cls:'', name:'Mixed', sub:a.from_btc_pct+'% from BTC'};
-  return {cls:'', name:'Bitcoin', sub:a.from_btc_pct+'% from BTC'};
-}
 function verdictCls(v){ return v==='Oversold'?'state-under':v==='Overbought'?'state-over':'state-neutral'; }
 
 function iconErr(img, letter, cls){
@@ -643,18 +492,6 @@ function coinIconHTML(a, cls){
   if (!a.icon) return '<div class="'+cls+'">'+letter+'</div>';
   return '<img src="'+a.icon+'" class="'+cls+'" onerror="iconErr(this,\''+letter+'\',\''+cls+'\')">';
 }
-function dashRowHTML(a){
-  const c = scoreColor(a.score), [tt,tc] = moveTier(a.sigma), d = driverInfo(a);
-  const marketTag = a.is_market ? ' <span style="color:var(--dim);font-size:10px;letter-spacing:1px;text-transform:uppercase">market</span>' : '';
-  const nameSub = a.name ? '<div class="coin-info-tick">'+a.name+'</div>' : '';
-  return '<tr>'
-   +'<td><div class="coin-row">'+coinIconHTML(a,'coin-sym')+'<div><div class="coin-info-name">'+a.symbol+marketTag+'</div>'+nameSub+'</div></div></td>'
-   +'<td><div class="temp-wrap"><span class="temp-num serif" style="color:'+c+'">'+Math.round(a.score)+'</span><div class="temp-bar"><div class="temp-fill" style="--w:'+Math.round(a.score)+'%;background:'+c+'"></div></div></div></td>'
-   +'<td><span class="mv '+tc+'">'+tt+' · '+Math.abs(a.sigma).toFixed(1)+'σ</span></td>'
-   +'<td><div class="'+d.cls+'"><div class="drv-name">'+d.name+'</div><div class="drv-pct">'+d.sub+'</div></div></td>'
-   +'<td><span class="state '+verdictCls(a.verdict)+'">'+a.verdict+'</span></td>'
-   +'</tr>';
-}
 function heroRowHTML(a){
   const c = scoreColor(a.score), [tt,tc] = moveTier(a.sigma);
   return '<div class="hpv-row">'
@@ -664,91 +501,27 @@ function heroRowHTML(a){
    +'<span class="state '+verdictCls(a.verdict)+'">'+a.verdict+'</span>'
    +'</div>';
 }
-
-function rows(){
-  let r = DATA.assets.slice();
-  if (filter === 'under') r = r.filter(a => a.verdict === 'Oversold');
-  if (filter === 'over')  r = r.filter(a => a.verdict === 'Overbought');
-  if (filter === 'ind')   r = r.filter(a => !a.is_market && a.from_btc_pct < 40);
-  if (query) r = r.filter(a => a.symbol.toLowerCase().includes(query));
-  r.sort((a,b)=>{
-    let x = a[sortKey], y = b[sortKey];
-    if (sortKey === 'sigma') { x = Math.abs(x); y = Math.abs(y); }
-    if (typeof x === 'string') return sortDir * x.localeCompare(y);
-    return sortDir * (x - y);
-  });
-  return r;
-}
-function renderDash(){
-  document.getElementById('dashBody').innerHTML = rows().map(dashRowHTML).join('');
-}
 function renderHero(){
   const top3 = DATA.assets.filter(a=>!a.is_market).sort((a,b)=>Math.abs(b.sigma)-Math.abs(a.sigma)).slice(0,3);
   document.getElementById('heroRows').innerHTML = top3.map(heroRowHTML).join('');
 }
-function renderRadar(){
-  const hot = DATA.assets.filter(a => !a.is_market && Math.abs(a.sigma) >= 2.5 && a.from_btc_pct <= 40);
-  const box = document.getElementById('radarBox');
-  const gen = new Date(DATA.generated_at);
-  const timeStr = gen.toUTCString().slice(17,22) + ' UTC';
-  if (!hot.length) {
-    box.innerHTML = '<p class="radar-state-label">Market Status · '+timeStr+'</p><div class="radar-icon">☕</div>'
-      +'<div class="radar-headline serif">Nothing unusual right now.</div>'
-      +'<p class="radar-body">Across the top '+DATA.universe_size+', every move is within normal range. The math finds nothing that stands out — so there\'s nothing here to act on. Go grab a coffee.</p>';
-  } else {
-    box.innerHTML = '<p class="radar-state-label">Market Status · '+timeStr+'</p><div class="radar-icon">◉</div>'
-      +'<div class="radar-headline serif">'+hot.length+(hot.length===1?' asset stands':' assets stand')+' out.</div>'
-      +'<p class="radar-body">Statistically extreme and moving on their own, not with Bitcoin: '
-      +hot.map(a=>'<strong style="color:var(--text)">'+a.symbol+'</strong> ('+Math.abs(a.sigma).toFixed(1)+'σ, '+a.from_btc_pct+'% BTC)').join(', ')+'.</p>';
-  }
-}
-function renderStatus(){
+function renderHeroStatus(){
   const gen = new Date(DATA.generated_at);
   const ageMin = Math.round((Date.now() - gen.getTime()) / 60000);
   const stale = ageMin > 180;
-  const txt = (stale?'stale · ':'live · ')+DATA.universe_size+' assets · updated '+(ageMin<60?ageMin+' min ago':Math.round(ageMin/60)+'h ago');
-  ['dashLiveDot','heroLiveDot'].forEach(id=>document.getElementById(id).classList.toggle('stale', stale));
-  document.getElementById('dashLiveTxt').textContent = txt;
+  document.getElementById('heroLiveDot').classList.toggle('stale', stale);
   document.getElementById('heroLiveTxt').textContent = stale ? 'Data delayed — check back soon' : 'Free · no signup · updating hourly';
 }
 
 fetch(GAUGE_JSON_URL + '?t=' + Date.now())
   .then(r => { if(!r.ok) throw new Error('HTTP '+r.status); return r.json(); })
-  .then(d => {
-    DATA = d;
-    document.getElementById('mockSkeleton').classList.add('hide');
-    renderStatus(); renderHero(); renderDash(); renderRadar();
-  })
+  .then(d => { DATA = d; renderHeroStatus(); renderHero(); })
   .catch(e => {
-    document.getElementById('mockSkeleton').classList.add('hide');
-    document.getElementById('dashErr').style.display = 'block';
-    document.getElementById('dashLiveTxt').textContent = 'offline';
     document.getElementById('heroLiveTxt').textContent = 'Live data temporarily unavailable';
-    document.getElementById('dashLiveDot').classList.add('stale');
     document.getElementById('heroLiveDot').classList.add('stale');
     console.warn('Gauge live fetch failed:', e);
   });
 
-document.querySelectorAll('.filt').forEach(b=>{
-  b.addEventListener('click',function(){
-    document.querySelectorAll('.filt').forEach(x=>x.classList.remove('on'));
-    this.classList.add('on');
-    filter = this.dataset.filter || 'all';
-    if (DATA) renderDash();
-  });
-});
-document.getElementById('search').addEventListener('input', function(){
-  query = this.value.trim().toLowerCase();
-  if (DATA) renderDash();
-});
-document.querySelectorAll('thead th').forEach(th => th.addEventListener('click', function(){
-  const k = this.dataset.k;
-  if (sortKey === k) sortDir *= -1;
-  else { sortKey = k; sortDir = (k === 'symbol' || k === 'verdict') ? 1 : -1; }
-  document.querySelectorAll('thead th').forEach(x => x.classList.remove('sorted'));
-  this.classList.add('sorted');
-  if (DATA) renderDash();
-}));
 const io = new IntersectionObserver((entries)=>{
   entries.forEach(e=>{ if(e.isIntersecting){ e.target.classList.add('in'); io.unobserve(e.target); } });
 }, { threshold: 0.15, rootMargin: '0px 0px -8% 0px' });
