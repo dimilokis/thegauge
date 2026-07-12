@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>The Gauge — Paper Trading Bot</title>
+<title>The Gauge — Paper Trading Bots</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,600;1,300;1,400&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
 <style>
@@ -35,38 +35,44 @@ nav { display: flex; justify-content: space-between; align-items: center; paddin
 .nav-back:hover { color: var(--gold); }
 
 .wrap { max-width: 1160px; margin: 0 auto; padding: 44px 48px 90px; }
-.page-head { max-width: 680px; margin-bottom: 36px; }
+.page-head { max-width: 680px; margin-bottom: 20px; }
 .section-eyebrow { font-size: 10px; letter-spacing: 4px; text-transform: uppercase; color: var(--gold); margin-bottom: 16px; }
 h1 { font-family: 'Cormorant Garamond', serif; font-size: clamp(32px, 5vw, 48px); font-weight: 300; line-height: 1.1; letter-spacing: -0.5px; margin-bottom: 14px; }
 h1 em { font-style: italic; color: var(--gold); }
-.page-sub { font-size: 14.5px; color: var(--muted); line-height: 1.75; max-width: 600px; }
-.disclaimer { margin-top: 16px; padding: 12px 16px; background: var(--surface); border-left: 2px solid var(--gold); font-size: 12.5px; color: var(--muted); line-height: 1.7; max-width: 600px; }
+.page-sub { font-size: 14.5px; color: var(--muted); line-height: 1.75; max-width: 620px; }
 
-.live-badge { display: inline-flex; align-items: center; gap: 8px; font-size: 11px; letter-spacing: 1px; text-transform: uppercase; color: var(--muted); margin-top: 18px; }
+.strategy-block { border-top: 1px solid var(--border); margin-top: 56px; padding-top: 40px; }
+.strategy-head { max-width: 700px; margin-bottom: 8px; }
+.strategy-tag { font-size: 10px; letter-spacing: 3px; text-transform: uppercase; color: var(--gold); margin-bottom: 12px; }
+.strategy-title { font-family: 'Cormorant Garamond', serif; font-size: 28px; font-weight: 400; margin-bottom: 10px; }
+.strategy-desc { font-size: 13.5px; color: var(--muted); line-height: 1.7; max-width: 640px; }
+.disclaimer { margin-top: 14px; padding: 12px 16px; background: var(--surface); border-left: 2px solid var(--gold); font-size: 12.5px; color: var(--muted); line-height: 1.7; max-width: 640px; }
+
+.live-badge { display: inline-flex; align-items: center; gap: 8px; font-size: 11px; letter-spacing: 1px; text-transform: uppercase; color: var(--muted); margin-top: 16px; }
 .live-dot { width: 6px; height: 6px; border-radius: 50%; background: var(--green); animation: pulse 2s infinite; }
 .live-dot.stale { background: var(--heat); animation: none; }
 @keyframes pulse { 0%,100%{opacity:1} 50%{opacity:.3} }
 
-.tiles { display: grid; grid-template-columns: repeat(6, 1fr); gap: 1px; background: var(--border); border: 1px solid var(--border); margin: 32px 0 44px; }
+.tiles { display: grid; grid-template-columns: repeat(6, 1fr); gap: 1px; background: var(--border); border: 1px solid var(--border); margin: 28px 0 40px; }
 .tile { background: var(--bg); padding: 20px 20px 18px; }
 .tile-label { font-size: 10px; letter-spacing: 1.5px; text-transform: uppercase; color: var(--dim); margin-bottom: 10px; }
 .tile-val { font-family: 'Cormorant Garamond', serif; font-size: 26px; font-weight: 400; color: var(--text); }
 .tile-val.pos { color: var(--green); }
 .tile-val.neg { color: var(--heat); }
 
-.chart-section { margin-bottom: 52px; }
-.section-title { font-family: 'Cormorant Garamond', serif; font-size: 22px; font-weight: 400; margin-bottom: 4px; }
-.section-note { font-size: 12px; color: var(--dim); margin-bottom: 20px; }
+.chart-section { margin-bottom: 44px; }
+.section-title { font-family: 'Cormorant Garamond', serif; font-size: 20px; font-weight: 400; margin-bottom: 4px; }
+.section-note { font-size: 12px; color: var(--dim); margin-bottom: 18px; }
 .chart-box { position: relative; background: var(--surface); border: 1px solid var(--border); padding: 20px 20px 8px; }
-svg.eq-svg { width: 100%; height: 260px; display: block; overflow: visible; }
+svg.eq-svg { width: 100%; height: 240px; display: block; overflow: visible; }
 .eq-line { fill: none; stroke: var(--gold); stroke-width: 2px; stroke-linejoin: round; stroke-linecap: round; }
-.eq-area { fill: url(#eqGrad); opacity: .5; }
+.eq-area { opacity: .5; }
 .eq-crosshair-v { stroke: var(--border2); stroke-width: 1px; pointer-events: none; }
 .eq-dot { fill: var(--gold); stroke: var(--bg); stroke-width: 2px; pointer-events: none; }
-.eq-axis-label { font-size: 10px; fill: var(--dim); font-family: 'Inter', sans-serif; }
 .eq-tooltip { position: absolute; pointer-events: none; background: var(--lift); border: 1px solid var(--border2); padding: 8px 12px; font-size: 12px; color: var(--text); white-space: nowrap; transform: translate(-50%, -130%); opacity: 0; transition: opacity .1s; z-index: 5; }
 .eq-tooltip .tt-date { color: var(--dim); font-size: 10.5px; margin-bottom: 3px; }
 .eq-hit { fill: transparent; }
+.eq-empty { font-size: 13px; fill: var(--dim); }
 
 table { width: 100%; border-collapse: collapse; }
 thead th { font-size: 10px; letter-spacing: 1.5px; text-transform: uppercase; color: var(--dim); font-weight: 400; padding: 12px 0; border-bottom: 1px solid var(--border); text-align: left; }
@@ -82,8 +88,9 @@ tbody td:not(:first-child) { padding-left: 24px; }
 .reason-tag { font-size: 10px; letter-spacing: 1px; text-transform: uppercase; padding: 3px 9px; border-radius: 2px; }
 .reason-hold { background: rgba(126,185,201,.1); color: var(--ice); }
 .reason-sl { background: rgba(201,122,110,.12); color: var(--heat); }
-.empty-note { padding: 30px 0; color: var(--dim); font-size: 13px; text-align: center; }
-.mock-err { padding: 40px 20px; text-align: center; color: var(--heat); font-size: 13px; line-height: 1.8; }
+.reason-tp { background: rgba(126,201,152,.1); color: var(--green); }
+.empty-note { padding: 26px 0; color: var(--dim); font-size: 13px; text-align: center; }
+.mock-err { padding: 30px 20px; text-align: center; color: var(--heat); font-size: 13px; line-height: 1.8; }
 
 footer { border-top: 1px solid var(--border); padding: 32px 48px; display: flex; justify-content: space-between; align-items: center; font-size: 12px; color: var(--dim); letter-spacing: .5px; }
 footer a { color: var(--dim); text-decoration: none; transition: color .2s; }
@@ -114,50 +121,32 @@ footer a:hover { color: var(--muted); }
 
 <div class="wrap">
   <div class="page-head">
-    <p class="section-eyebrow">Research Line — Paper Trading</p>
+    <p class="section-eyebrow">Research Lines — Paper Trading</p>
     <h1 class="serif">The <em>receipts.</em></h1>
-    <p class="page-sub">A dip-buy strategy (ML-filtered, 5-minute bars) running live in simulation since jun/2026 — public data, no real money. Every position, every close, unedited.</p>
-    <div class="disclaimer">This is a <strong style="color:var(--text)">separate research line</strong> from the Gauge Score / Verdict above — different data (5min bars, not daily), different method (ML classifier, not percentile/RSI). Shown here for transparency, not sold as a signal.</div>
-    <div class="live-badge"><div class="live-dot" id="liveDot"></div><span id="liveTxt">loading…</span></div>
+    <p class="page-sub">Two strategies running live in simulation, public data, no real money, nothing edited after the fact. Every position, every close, shown as it happened.</p>
   </div>
 
-  <div class="tiles" id="tiles">
-    <div class="tile"><div class="tile-label">Capital</div><div class="tile-val" id="tCapital">—</div></div>
-    <div class="tile"><div class="tile-label">Retorno total</div><div class="tile-val" id="tReturn">—</div></div>
-    <div class="tile"><div class="tile-label">Trades fechados</div><div class="tile-val" id="tClosed">—</div></div>
-    <div class="tile"><div class="tile-label">Winrate</div><div class="tile-val" id="tWinrate">—</div></div>
-    <div class="tile"><div class="tile-label">EV médio</div><div class="tile-val" id="tEv">—</div></div>
-    <div class="tile"><div class="tile-label">Posições abertas</div><div class="tile-val" id="tOpen">—</div></div>
-  </div>
-
-  <div class="chart-section">
-    <p class="section-title serif">Equity curve</p>
-    <p class="section-note" id="chartNote">Capital simulado ao longo do tempo — cada ponto é um ciclo do bot (5 min enquanto ativo).</p>
-    <div class="chart-box" id="chartBox">
-      <svg class="eq-svg" id="eqSvg" viewBox="0 0 1000 260" preserveAspectRatio="none"></svg>
-      <div class="eq-tooltip" id="eqTooltip"><div class="tt-date" id="eqTtDate"></div><div id="eqTtVal"></div></div>
+  <div class="strategy-block" id="block-dip">
+    <div class="strategy-head">
+      <p class="strategy-tag">Strategy 1</p>
+      <p class="strategy-title serif">Dip-buy, ML-filtered</p>
+      <p class="strategy-desc">Entry on a sharp 5-minute-bar drop (top-200 by volume) confirmed by a 2-stage ML classifier; exit at a fixed 1h hold or -5% stop, whichever comes first.</p>
+      <div class="disclaimer"><strong style="color:var(--text)">Not related to the Gauge Score</strong> above — different data (5-minute bars, not daily), different method (ML classifier, not percentile/RSI/Driver). Shown here for transparency, not sold as a signal.</div>
+      <div class="live-badge"><div class="live-dot" id="dip-liveDot"></div><span id="dip-liveTxt">loading…</span></div>
     </div>
+    <div id="dip-body"></div>
   </div>
 
-  <div class="chart-section">
-    <p class="section-title serif">Posições abertas</p>
-    <table>
-      <thead><tr><th>Moeda</th><th>Entrada</th><th>Aberta desde</th><th>Alvo de saída (hold)</th><th>Não-realizado</th></tr></thead>
-      <tbody id="openBody"></tbody>
-    </table>
-    <div class="empty-note" id="openEmpty" style="display:none">Nenhuma posição aberta agora.</div>
+  <div class="strategy-block" id="block-gauge">
+    <div class="strategy-head">
+      <p class="strategy-tag">Strategy 2</p>
+      <p class="strategy-title serif">Gauge oversold, BTC-driven</p>
+      <p class="strategy-desc">Entry when a Tier A/B asset hits Gauge Score &lt;5 (extreme oversold) <em>and</em> the drop is &gt;60% explained by BTC (the Driver metric) — a coin falling because the whole market fell, not for its own reason. Exit is price-only: -5% stop or +10% target, no fixed hold.</p>
+      <div class="disclaimer"><strong style="color:var(--text)">This one does use the Gauge Score</strong> (and Tier, and Driver) as its entry filter — it's the one backtested edge that survived lookahead/survivorship/robustness checks on 2020-2026 history: N=346, winrate 50.0%, EV +2.49%/trade, MaxDD -22.6%. Modest, real, not a guarantee.</div>
+      <div class="live-badge"><div class="live-dot" id="gauge-liveDot"></div><span id="gauge-liveTxt">loading…</span></div>
+    </div>
+    <div id="gauge-body"></div>
   </div>
-
-  <div class="chart-section">
-    <p class="section-title serif">Últimos fechados</p>
-    <table>
-      <thead><tr><th>Moeda</th><th>Entrada</th><th>Saída</th><th>Resultado</th><th>Motivo</th></tr></thead>
-      <tbody id="closedBody"></tbody>
-    </table>
-    <div class="empty-note" id="closedEmpty" style="display:none">Nenhum trade fechado ainda.</div>
-  </div>
-
-  <div class="mock-err" id="pbErr" style="display:none">Couldn't load the paper bot snapshot right now. Try refreshing in a minute.</div>
 </div>
 
 <footer>
@@ -166,9 +155,6 @@ footer a:hover { color: var(--muted); }
 </footer>
 
 <script>
-const PB_JSON_URL = 'dipbot.json';
-let PB = null;
-
 function fmtUsd(v){ return (v>=0?'+':'') + '$' + v.toLocaleString('en-US',{minimumFractionDigits:2,maximumFractionDigits:2}); }
 function fmtPct(v){ return (v>=0?'+':'') + (v*100).toFixed(2) + '%'; }
 function signCls(v){ return v>=0 ? 'pos-val' : 'neg-val'; }
@@ -177,23 +163,53 @@ function shortTs(s){
   const d = new Date(s.replace(' ','T')+'Z');
   return d.toISOString().slice(5,16).replace('T',' ')+'z';
 }
+function reasonCls(r){ if(r==='stoploss'||r==='SL') return 'reason-sl'; if(r==='takeprofit') return 'reason-tp'; return 'reason-hold'; }
 
-function renderTiles(){
-  document.getElementById('tCapital').textContent = fmtUsd(PB.capital);
-  const rEl = document.getElementById('tReturn');
-  rEl.textContent = fmtPct(PB.return_pct); rEl.className = 'tile-val ' + (PB.return_pct>=0?'pos':'neg');
-  document.getElementById('tClosed').textContent = PB.n_closed;
-  document.getElementById('tWinrate').textContent = (PB.winrate*100).toFixed(1)+'%';
-  const evEl = document.getElementById('tEv');
-  evEl.textContent = fmtPct(PB.ev); evEl.className = 'tile-val ' + (PB.ev>=0?'pos':'neg');
-  document.getElementById('tOpen').textContent = PB.n_open + ' / ' + PB.slots;
+function tilesHTML(prefix){
+  return '<div class="tiles">'
+    +'<div class="tile"><div class="tile-label">Capital</div><div class="tile-val" id="'+prefix+'-tCapital">—</div></div>'
+    +'<div class="tile"><div class="tile-label">Retorno total</div><div class="tile-val" id="'+prefix+'-tReturn">—</div></div>'
+    +'<div class="tile"><div class="tile-label">Trades fechados</div><div class="tile-val" id="'+prefix+'-tClosed">—</div></div>'
+    +'<div class="tile"><div class="tile-label">Winrate</div><div class="tile-val" id="'+prefix+'-tWinrate">—</div></div>'
+    +'<div class="tile"><div class="tile-label">EV médio</div><div class="tile-val" id="'+prefix+'-tEv">—</div></div>'
+    +'<div class="tile"><div class="tile-label">Posições abertas</div><div class="tile-val" id="'+prefix+'-tOpen">—</div></div>'
+    +'</div>';
+}
+function bodyHTML(prefix, openCols, closedCols){
+  return tilesHTML(prefix)
+    +'<div class="chart-section"><p class="section-title serif">Equity curve</p>'
+    +'<p class="section-note">Capital simulado ao longo do tempo — cada ponto é um ciclo do bot.</p>'
+    +'<div class="chart-box" id="'+prefix+'-chartBox"><svg class="eq-svg" id="'+prefix+'-eqSvg" viewBox="0 0 1000 240" preserveAspectRatio="none"></svg>'
+    +'<div class="eq-tooltip" id="'+prefix+'-eqTooltip"><div class="tt-date" id="'+prefix+'-eqTtDate"></div><div id="'+prefix+'-eqTtVal"></div></div></div></div>'
+    +'<div class="chart-section"><p class="section-title serif">Posições abertas</p>'
+    +'<table><thead><tr>'+openCols.map(c=>'<th>'+c+'</th>').join('')+'</tr></thead><tbody id="'+prefix+'-openBody"></tbody></table>'
+    +'<div class="empty-note" id="'+prefix+'-openEmpty" style="display:none">Nenhuma posição aberta agora.</div></div>'
+    +'<div class="chart-section"><p class="section-title serif">Últimos fechados</p>'
+    +'<table><thead><tr>'+closedCols.map(c=>'<th>'+c+'</th>').join('')+'</tr></thead><tbody id="'+prefix+'-closedBody"></tbody></table>'
+    +'<div class="empty-note" id="'+prefix+'-closedEmpty" style="display:none">Nenhum trade fechado ainda.</div></div>'
+    +'<div class="mock-err" id="'+prefix+'-pbErr" style="display:none">Couldn\'t load this bot\'s snapshot right now. Try refreshing in a minute.</div>';
 }
 
-function renderChart(){
+function renderTiles(prefix, PB){
+  document.getElementById(prefix+'-tCapital').textContent = fmtUsd(PB.capital);
+  const rEl = document.getElementById(prefix+'-tReturn');
+  rEl.textContent = fmtPct(PB.return_pct); rEl.className = 'tile-val ' + (PB.return_pct>=0?'pos':'neg');
+  document.getElementById(prefix+'-tClosed').textContent = PB.n_closed;
+  document.getElementById(prefix+'-tWinrate').textContent = (PB.winrate*100).toFixed(1)+'%';
+  const evEl = document.getElementById(prefix+'-tEv');
+  evEl.textContent = fmtPct(PB.ev); evEl.className = 'tile-val ' + (PB.ev>=0?'pos':'neg');
+  document.getElementById(prefix+'-tOpen').textContent = PB.n_open + ' / ' + PB.slots;
+}
+
+function renderChart(prefix, PB){
   const hist = PB.equity_history || [];
-  const svg = document.getElementById('eqSvg');
-  if (hist.length < 2) { svg.innerHTML = '<text x="500" y="130" text-anchor="middle" class="eq-axis-label" font-size="13">Aguardando dados suficientes…</text>'; return; }
-  const W=1000,H=260,PAD=8;
+  const svg = document.getElementById(prefix+'-eqSvg');
+  const gradId = prefix+'-eqGrad';
+  if (hist.length < 2) {
+    svg.innerHTML = '<text x="500" y="120" text-anchor="middle" class="eq-empty" font-size="13">Aguardando dados suficientes…</text>';
+    return;
+  }
+  const W=1000,H=240,PAD=8;
   const times = hist.map(p=>new Date(p[0].replace(' ','T')+'Z').getTime());
   const vals = hist.map(p=>p[1]);
   const t0=times[0], t1=times[times.length-1];
@@ -205,19 +221,19 @@ function renderChart(){
   const path = pts.map((p,i)=>(i===0?'M':'L')+p[0].toFixed(1)+','+p[1].toFixed(1)).join(' ');
   const areaPath = path + ' L'+pts[pts.length-1][0].toFixed(1)+','+H+' L'+pts[0][0].toFixed(1)+','+H+' Z';
   svg.innerHTML =
-    '<defs><linearGradient id="eqGrad" x1="0" y1="0" x2="0" y2="1">'
+    '<defs><linearGradient id="'+gradId+'" x1="0" y1="0" x2="0" y2="1">'
     +'<stop offset="0%" stop-color="var(--gold)" stop-opacity="0.35"/>'
     +'<stop offset="100%" stop-color="var(--gold)" stop-opacity="0"/></linearGradient></defs>'
-    +'<path class="eq-area" d="'+areaPath+'"/>'
+    +'<path class="eq-area" fill="url(#'+gradId+')" d="'+areaPath+'"/>'
     +'<path class="eq-line" d="'+path+'"/>'
-    +'<line class="eq-crosshair-v" id="eqCross" x1="0" y1="0" x2="0" y2="'+H+'" style="opacity:0"/>'
-    +'<circle class="eq-dot" id="eqDot" r="4" style="opacity:0"/>'
-    +'<rect class="eq-hit" x="0" y="0" width="'+W+'" height="'+H+'" id="eqHit"/>';
-  const tooltip = document.getElementById('eqTooltip');
-  const box = document.getElementById('chartBox');
-  const hit = document.getElementById('eqHit');
-  const cross = document.getElementById('eqCross');
-  const dot = document.getElementById('eqDot');
+    +'<line class="eq-crosshair-v" id="'+prefix+'-eqCross" x1="0" y1="0" x2="0" y2="'+H+'" style="opacity:0"/>'
+    +'<circle class="eq-dot" id="'+prefix+'-eqDot" r="4" style="opacity:0"/>'
+    +'<rect class="eq-hit" x="0" y="0" width="'+W+'" height="'+H+'" id="'+prefix+'-eqHit"/>';
+  const tooltip = document.getElementById(prefix+'-eqTooltip');
+  const box = document.getElementById(prefix+'-chartBox');
+  const hit = document.getElementById(prefix+'-eqHit');
+  const cross = document.getElementById(prefix+'-eqCross');
+  const dot = document.getElementById(prefix+'-eqDot');
   hit.addEventListener('mousemove', function(ev){
     const rect = svg.getBoundingClientRect();
     const mx = (ev.clientX - rect.left) / rect.width * W;
@@ -229,50 +245,77 @@ function renderChart(){
     const px = rect.left + pts[i][0]/W*rect.width - box.getBoundingClientRect().left;
     const py = pts[i][1]/H*rect.height;
     tooltip.style.left = px+'px'; tooltip.style.top = py+'px'; tooltip.style.opacity = 1;
-    document.getElementById('eqTtDate').textContent = shortTs(hist[i][0]);
-    document.getElementById('eqTtVal').textContent = fmtUsd(hist[i][1]);
+    document.getElementById(prefix+'-eqTtDate').textContent = shortTs(hist[i][0]);
+    document.getElementById(prefix+'-eqTtVal').textContent = fmtUsd(hist[i][1]);
   });
-  hit.addEventListener('mouseleave', function(){
-    cross.style.opacity=0; dot.style.opacity=0; tooltip.style.opacity=0;
-  });
+  hit.addEventListener('mouseleave', function(){ cross.style.opacity=0; dot.style.opacity=0; tooltip.style.opacity=0; });
 }
 
-function renderOpen(){
-  const rows = PB.open_positions || [];
-  document.getElementById('openEmpty').style.display = rows.length ? 'none' : 'block';
-  document.getElementById('openBody').innerHTML = rows.map(function(p){
-    return '<tr><td class="coin-tag">'+p.coin+'</td><td>'+p.entry.toPrecision(6)+'</td><td>'+shortTs(p.entry_ts)+'</td>'
-      +'<td>'+shortTs(p.exit_ts)+'</td><td class="'+signCls(p.unrealized_pct)+'">'+fmtPct(p.unrealized_pct)+'</td></tr>';
-  }).join('');
-}
-function renderClosed(){
-  const rows = PB.closed_recent || [];
-  document.getElementById('closedEmpty').style.display = rows.length ? 'none' : 'block';
-  document.getElementById('closedBody').innerHTML = rows.map(function(t){
-    const rc = t.reason==='SL' ? 'reason-sl' : 'reason-hold';
-    return '<tr><td class="coin-tag">'+t.coin+'</td><td>'+shortTs(t.entry_ts)+'</td><td>'+shortTs(t.exit_real)+'</td>'
-      +'<td class="'+signCls(t.net)+'">'+fmtPct(t.net)+'</td><td><span class="reason-tag '+rc+'">'+t.reason+'</span></td></tr>';
-  }).join('');
-}
-function renderStatus(){
+function renderStatus(prefix, PB){
   const hb = PB.heartbeat ? new Date(PB.heartbeat.replace(' ','T')+'Z') : null;
   const ageMin = hb ? Math.round((Date.now()-hb.getTime())/60000) : null;
-  const stale = ageMin===null || ageMin > 20;
+  const stale = ageMin===null || ageMin > 60;
   const txt = hb ? (stale?'offline · last seen '+(ageMin<60?ageMin+' min ago':Math.round(ageMin/60)+'h ago') : 'live · updated '+ageMin+' min ago')
                  : 'no data yet';
-  document.getElementById('liveDot').classList.toggle('stale', stale);
-  document.getElementById('liveTxt').textContent = txt;
+  document.getElementById(prefix+'-liveDot').classList.toggle('stale', stale);
+  document.getElementById(prefix+'-liveTxt').textContent = txt;
 }
 
-fetch(PB_JSON_URL + '?t=' + Date.now())
-  .then(r => { if(!r.ok) throw new Error('HTTP '+r.status); return r.json(); })
-  .then(d => { PB = d; renderStatus(); renderTiles(); renderChart(); renderOpen(); renderClosed(); })
-  .catch(e => {
-    document.getElementById('pbErr').style.display = 'block';
-    document.getElementById('liveTxt').textContent = 'offline';
-    document.getElementById('liveDot').classList.add('stale');
-    console.warn('paper bot fetch failed:', e);
-  });
+function renderOpenDip(PB){
+  const rows = PB.open_positions || [];
+  document.getElementById('dip-openEmpty').style.display = rows.length ? 'none' : 'block';
+  document.getElementById('dip-openBody').innerHTML = rows.map(p =>
+    '<tr><td class="coin-tag">'+p.coin+'</td><td>'+p.entry.toPrecision(6)+'</td><td>'+shortTs(p.entry_ts)+'</td>'
+    +'<td>'+shortTs(p.exit_ts)+'</td><td class="'+signCls(p.unrealized_pct)+'">'+fmtPct(p.unrealized_pct)+'</td></tr>'
+  ).join('');
+}
+function renderClosedDip(PB){
+  const rows = PB.closed_recent || [];
+  document.getElementById('dip-closedEmpty').style.display = rows.length ? 'none' : 'block';
+  document.getElementById('dip-closedBody').innerHTML = rows.map(t =>
+    '<tr><td class="coin-tag">'+t.coin+'</td><td>'+shortTs(t.entry_ts)+'</td><td>'+shortTs(t.exit_real)+'</td>'
+    +'<td class="'+signCls(t.net)+'">'+fmtPct(t.net)+'</td><td><span class="reason-tag '+reasonCls(t.reason)+'">'+t.reason+'</span></td></tr>'
+  ).join('');
+}
+function renderOpenGauge(PB){
+  const rows = PB.open_positions || [];
+  document.getElementById('gauge-openEmpty').style.display = rows.length ? 'none' : 'block';
+  document.getElementById('gauge-openBody').innerHTML = rows.map(p =>
+    '<tr><td class="coin-tag">'+p.coin+'</td><td>'+p.entry.toPrecision(6)+'</td><td>'+shortTs(p.entry_ts)+'</td>'
+    +'<td>score '+p.score+' · '+p.from_btc_pct+'% BTC</td><td class="'+signCls(p.unrealized_pct)+'">'+fmtPct(p.unrealized_pct)+'</td></tr>'
+  ).join('');
+}
+function renderClosedGauge(PB){
+  const rows = PB.closed_recent || [];
+  document.getElementById('gauge-closedEmpty').style.display = rows.length ? 'none' : 'block';
+  document.getElementById('gauge-closedBody').innerHTML = rows.map(t =>
+    '<tr><td class="coin-tag">'+t.coin+'</td><td>'+shortTs(t.entry_ts)+'</td><td>'+shortTs(t.exit_ts)+'</td>'
+    +'<td class="'+signCls(t.net)+'">'+fmtPct(t.net)+'</td><td><span class="reason-tag '+reasonCls(t.reason)+'">'+t.reason+'</span></td></tr>'
+  ).join('');
+}
+
+function loadStrategy(prefix, url, openCols, closedCols, renderOpen, renderClosed){
+  document.getElementById(prefix+'-body').innerHTML = bodyHTML(prefix, openCols, closedCols);
+  fetch(url + '?t=' + Date.now())
+    .then(r => { if(!r.ok) throw new Error('HTTP '+r.status); return r.json(); })
+    .then(d => { renderStatus(prefix, d); renderTiles(prefix, d); renderChart(prefix, d); renderOpen(d); renderClosed(d); })
+    .catch(e => {
+      document.getElementById(prefix+'-pbErr').style.display = 'block';
+      document.getElementById(prefix+'-liveTxt').textContent = 'offline';
+      document.getElementById(prefix+'-liveDot').classList.add('stale');
+      console.warn(prefix+' fetch failed:', e);
+    });
+}
+
+loadStrategy('dip', 'dipbot.json',
+  ['Moeda','Entrada','Aberta desde','Alvo de saída (hold)','Não-realizado'],
+  ['Moeda','Entrada','Saída','Resultado','Motivo'],
+  renderOpenDip, renderClosedDip);
+
+loadStrategy('gauge', 'gaugebot.json',
+  ['Moeda','Entrada','Aberta desde','Score · Driver','Não-realizado'],
+  ['Moeda','Entrada','Saída','Resultado','Motivo'],
+  renderOpenGauge, renderClosedGauge);
 </script>
 </body>
 </html>
