@@ -138,7 +138,7 @@ footer a:hover { color: var(--muted); }
   <div class="page-head">
     <p class="section-eyebrow">The Dashboard</p>
     <h1 class="serif">This is <em>live.</em></h1>
-    <p class="page-sub">The real top 100 crypto assets by 24h volume, scored right now. Free, no signup, updating every hour.</p>
+    <p class="page-sub" id="pageSub">The real top crypto assets by 24h volume, scored right now. Free, no signup, updating every hour.</p>
     <div class="live-badge" style="margin-top:18px"><div class="live-dot" id="dashLiveDot"></div><span id="dashLiveTxt">loading…</span></div>
   </div>
 
@@ -195,7 +195,12 @@ footer a:hover { color: var(--muted); }
 const GAUGE_JSON_URL = 'gauge_live.json';
 let DATA = null, filter = 'all', sortKey = 'sigma', sortDir = -1, query = '';
 
-function scoreColor(s){ return s < 35 ? 'var(--ice)' : s > 65 ? 'var(--heat)' : 'var(--gold)'; }
+function verdictColor(v){
+  if (v === 'Oversold') return 'var(--ice)';
+  if (v === 'Overbought') return 'var(--heat)';
+  if (v === 'Strong Uptrend') return 'var(--green)';
+  return 'var(--gold)';
+}
 function moveTier(sig){ const a=Math.abs(sig); return a>=2.5?['Extreme','mv-ext']:a>=1?['Notable','mv-note']:['Normal','mv-norm']; }
 function driverInfo(a){
   if(a.is_market) return {cls:'', name:'It is the market', sub:'sets the tide'};
@@ -222,7 +227,7 @@ function coinIconHTML(a, cls){
   return '<img src="'+a.icon+'" class="'+cls+'" onerror="iconErr(this,\''+letter+'\',\''+cls+'\')">';
 }
 function dashRowHTML(a){
-  const c = scoreColor(a.score), [tt,tc] = moveTier(a.sigma), d = driverInfo(a);
+  const c = verdictColor(a.verdict), [tt,tc] = moveTier(a.sigma), d = driverInfo(a);
   const marketTag = a.is_market ? ' <span style="color:var(--dim);font-size:10px;letter-spacing:1px;text-transform:uppercase">market</span>' : '';
   const nameSub = a.name ? '<div class="coin-info-tick">'+a.name+'</div>' : '';
   return '<tr>'
@@ -275,6 +280,8 @@ function renderStatus(){
   const txt = (stale?'stale · ':'live · ')+DATA.universe_size+' assets · updated '+(ageMin<60?ageMin+' min ago':Math.round(ageMin/60)+'h ago');
   document.getElementById('dashLiveDot').classList.toggle('stale', stale);
   document.getElementById('dashLiveTxt').textContent = txt;
+  document.getElementById('pageSub').textContent = 'The real top '+DATA.universe_size+' crypto assets by 24h volume, scored right now. Free, no signup, updating every hour.'
+    + (DATA.universe_size < 100 ? ' (some of the top 100 by ranking failed to load this run and were skipped, not invented.)' : '');
 }
 
 fetch(GAUGE_JSON_URL + '?t=' + Date.now())

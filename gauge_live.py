@@ -94,11 +94,16 @@ def search_coin_meta(symbol):
         return None
 
 
-def get_top_symbols(n=TOP_N):
+def get_top_symbols(n=TOP_N, buffer=40):
     """Ranking por volume de 24h, recalculado a cada run — sem lista fixa.
     Universo = so cripto de verdade: a Binance tambem lista perpetuos de acoes
     tokenizadas (underlyingType EQUITY, ex NVDA/BABA), indices e commodities;
-    nada disso pertence a um screener de cripto, entao filtramos por COIN."""
+    nada disso pertence a um screener de cripto, entao filtramos por COIN.
+
+    Devolve os top-n por volume MAIS um buffer de reserva (proximos por
+    ranking) — o buffer so e usado em build_snapshot() se algum dos top-n
+    falhar ao buscar klines, pra nao encolher o universo publicado por causa
+    de uma falha pontual de rede/rate-limit num simbolo especifico."""
     r_ex = SESSION.get(FAPI + "/fapi/v1/exchangeInfo", timeout=20)
     ex = r_ex.json()
     if "symbols" not in ex:
@@ -129,9 +134,10 @@ def get_top_symbols(n=TOP_N):
     rows = [x for x in d if x["symbol"] in crypto]
     rows.sort(key=lambda x: -float(x["quoteVolume"]))
     symbols = [x["symbol"] for x in rows[:n]]
+    reserve = [x["symbol"] for x in rows[n:n + buffer]]
     if REF_SYMBOL not in symbols:
         symbols.append(REF_SYMBOL)
-    return symbols
+    return symbols, reserve
 
 
 def get_daily_klines(symbol, limit=KLINE_LIMIT):
@@ -254,19 +260,37 @@ def verdict(score, tier):
 
 
 def build_snapshot():
-    symbols = get_top_symbols()
-    log("Universo: {} simbolos (ranking por volume 24h)".format(len(symbols)))
+    symbols, reserve = get_top_symbols()
+    target = len(symbols)
+    log("Universo: {} simbolos (ranking por volume 24h), {} de reserva".format(target, len(reserve)))
 
     data = {}
+    failed = []
     for i, sym in enumerate(symbols):
         kl = get_daily_klines(sym)
         if kl is None:
+            failed.append(sym)
             continue
         close, vol = kl
         data[sym] = {"close": close, "vol": vol}
         time.sleep(0.08)  # gentil com o rate limit
         if (i + 1) % 25 == 0:
             log("  ... {}/{} coletados".format(i + 1, len(symbols)))
+
+    if failed:
+        log("Falha ao buscar klines de {}: {} -- tentando preencher com reserva".format(len(failed), failed))
+        for sym in reserve:
+            if len(data) >= target:
+                break
+            if sym in data:
+                continue
+            kl = get_daily_klines(sym)
+            if kl is None:
+                continue
+            close, vol = kl
+            data[sym] = {"close": close, "vol": vol}
+            time.sleep(0.08)
+        log("Apos reserva: {} simbolos coletados (meta {})".format(len(data), target))
 
     if REF_SYMBOL not in data:
         raise RuntimeError("Nao foi possivel coletar dados do BTC — abortando run.")

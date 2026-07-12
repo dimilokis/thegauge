@@ -480,7 +480,12 @@ footer a:hover { color: var(--muted); }
 const GAUGE_JSON_URL = 'gauge_live.json';
 let DATA = null;
 
-function scoreColor(s){ return s < 35 ? 'var(--ice)' : s > 65 ? 'var(--heat)' : 'var(--gold)'; }
+function verdictColor(v){
+  if (v === 'Oversold') return 'var(--ice)';
+  if (v === 'Overbought') return 'var(--heat)';
+  if (v === 'Strong Uptrend') return 'var(--green)';
+  return 'var(--gold)';
+}
 function moveTier(sig){ const a=Math.abs(sig); return a>=2.5?['Extreme','mv-ext']:a>=1?['Notable','mv-note']:['Normal','mv-norm']; }
 function verdictCls(v){
   if (v === 'Oversold') return 'state-under';
@@ -501,7 +506,7 @@ function coinIconHTML(a, cls){
   return '<img src="'+a.icon+'" class="'+cls+'" onerror="iconErr(this,\''+letter+'\',\''+cls+'\')">';
 }
 function heroRowHTML(a){
-  const c = scoreColor(a.score), [tt,tc] = moveTier(a.sigma);
+  const c = verdictColor(a.verdict), [tt,tc] = moveTier(a.sigma);
   return '<div class="hpv-row">'
    +'<div class="hpv-asset">'+coinIconHTML(a,'hpv-sym')+'<span class="hpv-name">'+a.symbol+'</span></div>'
    +'<div class="hpv-score"><span class="hpv-snum" style="color:'+c+'">'+Math.round(a.score)+'</span><div class="hpv-bar"><i style="width:'+Math.round(a.score)+'%;background:'+c+'"></i></div></div>'
