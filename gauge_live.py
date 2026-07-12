@@ -1,7 +1,12 @@
 # -*- coding: utf-8 -*-
-"""gauge_live.py — coleta dados ao vivo da Binance Futures para as top-N moedas
-por volume 24h, calcula Gauge Score / Move / Driver / Verdict, publica gauge_live.json
-e dispara alerta no Telegram quando um ativo entra em estado extremo E independente de BTC.
+"""gauge_live.py — coleta dados ao vivo da Binance (spot, via data-api.binance.vision)
+para as top-N moedas por volume 24h, calcula Gauge Score / Move / Driver / Verdict,
+publica gauge_live.json e dispara alerta no Telegram quando um ativo entra em estado
+extremo E independente de BTC.
+
+Endpoint: data-api.binance.vision e o espelho publico oficial da Binance para
+market data (sem chave, sem conta) e NAO sofre o geo-block HTTP 451 que a
+fapi.binance.com aplica aos IPs de datacenter dos runners do GitHub Actions.
 
 Sem lookahead: cada linha usa apenas dados ate o fechamento do dia mais recente.
 Sem sobrevivencia: ranking por liquidez e recalculado a cada execucao, nao fixo."""
@@ -11,7 +16,7 @@ import numpy as np
 import pandas as pd
 import requests
 
-FAPI = "https://fapi.binance.com"
+DATA_API = "https://data-api.binance.vision"
 TOP_N = 100
 KLINE_LIMIT = 120          # buffer > 90d para rolling windows
 REF_SYMBOL = "BTCUSDT"
@@ -30,9 +35,9 @@ SESSION.headers.update({"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 
 
 class GeoBlocked(Exception):
-    """Binance recusou o IP do runner (HTTP 451). Esperado ocasionalmente em
-    runners hospedados na nuvem (IP sorteado de uma faixa que pode estar
-    bloqueada). Nao e bug — a proxima execucao horaria pega outro IP."""
+    """Binance recusou o IP do runner (HTTP 451). Com o data-api.binance.vision
+    isso NAO deveria acontecer (endpoint publico de market data, sem geo-block);
+    fica como rede de seguranca — se ocorrer, a proxima run horaria tenta de novo."""
 COINGECKO = "https://api.coingecko.com/api/v3"
 
 
@@ -94,17 +99,43 @@ def search_coin_meta(symbol):
         return None
 
 
+# Pares USDT que nao sao "cripto de verdade" para um screener: stablecoins
+# (score/sigma de um peg nao significa nada), fiat tokenizado, ouro tokenizado
+# e wrapped de BTC/ETH (duplicaria o proprio BTC/ETH no ranking).
+NOT_REAL_CRYPTO = {
+    "USDC", "FDUSD", "TUSD", "USDP", "DAI", "BUSD", "PYUSD", "USD1", "USDE",
+    "XUSD", "AEUR", "EUR", "EURI", "GBP", "TRY", "BRL", "ARS", "COP", "UAH",
+    "PAXG", "XAUT", "WBTC", "WBETH", "WETH", "BETH", "STETH",
+}
+
+# Acoes e ETFs tokenizados que a Binance lista no spot com sufixo "B"
+# (NVDAB = NVIDIA, SPYB = SPY etc). O spot NAO expoe o campo underlyingType
+# que o Futures tinha, entao a exclusao e por lista explicita. Levantada em
+# 2026-07 com: exchangeInfo -> baseAsset USDT terminando em "B", separando as
+# criptos legitimas (ARB, BNB, SHIB, CKB, DGB, TRB, BB, YB). Se um dia surgir
+# uma "acao" no dashboard, e porque a Binance listou um ticker novo — repetir
+# o levantamento e adicionar aqui.
+TOKENIZED_EQUITIES = {
+    "AMDB", "CBRSB", "COINB", "CRCLB", "DRAMB", "EWYB", "GLWB", "GOOGLB",
+    "INTCB", "LITEB", "METAB", "MSFTB", "MSTRB", "MUB", "NBISB", "NVDAB",
+    "PLTRB", "QCOMB", "QQQB", "SNDKB", "SOXLB", "SPCXB", "SPYB", "TSLAB",
+    "WDCB",
+}
+NOT_REAL_CRYPTO |= TOKENIZED_EQUITIES
+
+
 def get_top_symbols(n=TOP_N, buffer=40):
     """Ranking por volume de 24h, recalculado a cada run — sem lista fixa.
-    Universo = so cripto de verdade: a Binance tambem lista perpetuos de acoes
-    tokenizadas (underlyingType EQUITY, ex NVDA/BABA), indices e commodities;
-    nada disso pertence a um screener de cripto, entao filtramos por COIN.
+    Universo = so cripto de verdade: no spot a Binance tambem lista stablecoins,
+    fiat e ouro tokenizados e wrapped tokens; nada disso pertence a um screener
+    de cripto, entao filtramos pela blocklist NOT_REAL_CRYPTO (no Futures o
+    filtro era underlyingType == COIN; o spot nao expoe esse campo).
 
     Devolve os top-n por volume MAIS um buffer de reserva (proximos por
     ranking) — o buffer so e usado em build_snapshot() se algum dos top-n
     falhar ao buscar klines, pra nao encolher o universo publicado por causa
     de uma falha pontual de rede/rate-limit num simbolo especifico."""
-    r_ex = SESSION.get(FAPI + "/fapi/v1/exchangeInfo", timeout=20)
+    r_ex = SESSION.get(DATA_API + "/api/v3/exchangeInfo", timeout=20)
     ex = r_ex.json()
     if "symbols" not in ex:
         if r_ex.status_code == 451:
@@ -118,12 +149,12 @@ def get_top_symbols(n=TOP_N, buffer=40):
         )
     crypto = {
         s["symbol"] for s in ex["symbols"]
-        if s.get("underlyingType") == "COIN"
-        and s.get("contractType") == "PERPETUAL"
+        if s.get("quoteAsset") == "USDT"
         and s.get("status") == "TRADING"
-        and s["symbol"].endswith("USDT")
+        and s.get("isSpotTradingAllowed", True)
+        and s.get("baseAsset") not in NOT_REAL_CRYPTO
     }
-    r_tk = SESSION.get(FAPI + "/fapi/v1/ticker/24hr", timeout=20)
+    r_tk = SESSION.get(DATA_API + "/api/v3/ticker/24hr", timeout=20)
     d = r_tk.json()
     if not isinstance(d, list):
         raise RuntimeError(
@@ -142,7 +173,7 @@ def get_top_symbols(n=TOP_N, buffer=40):
 
 def get_daily_klines(symbol, limit=KLINE_LIMIT):
     r = SESSION.get(
-        FAPI + "/fapi/v1/klines",
+        DATA_API + "/api/v3/klines",
         params={"symbol": symbol, "interval": "1d", "limit": limit},
         timeout=20,
     )

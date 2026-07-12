@@ -2,40 +2,34 @@
 
 Repo: **github.com/dimilokis/thegauge**
 
-Backend + dashboard alfa do The Gauge: coleta dados da Binance Futures a cada
-hora, calcula Gauge Score / Move / Driver / Verdict do top-100 cripto por
-volume 24h, publica `docs/gauge_live.json` e serve o dashboard em
-`docs/index.html`.
+Backend + dashboard alfa do The Gauge: coleta dados da Binance (spot, via
+`data-api.binance.vision`) a cada hora, calcula Gauge Score / Move / Driver /
+Verdict do top-100 cripto por volume 24h, publica `docs/gauge_live.json` e
+serve o dashboard em `docs/index.html`.
+
+**Por que `data-api.binance.vision` e nao `fapi.binance.com`:** a API normal
+da Binance devolve HTTP 451 (geo-block) para os IPs de datacenter dos runners
+do GitHub Actions — TODA run falhava. O `data-api.binance.vision` e o espelho
+publico oficial da Binance para market data (sem chave, sem conta, via CDN) e
+nao tem esse bloqueio. E spot em vez de Futures, o que pro Gauge (klines
+diarios) da na mesma; o filtro de universo exclui stablecoins, wrapped e as
+acoes tokenizadas com sufixo B (NVDAB etc) que o spot lista.
+
+**Fluxo automatico completo:** Actions roda de hora em hora -> commita
+`docs/gauge_live.json` -> o Cloudflare (conectado ao repo) redeploya o site
+sozinho -> thegauge.art atualizado. Zero passo manual, zero PC ligado.
 
 ---
 
-## Passo unico que falta: ativar o GitHub Pages
-
-O codigo ja esta no ar. So falta ligar o "servidor" que mostra o
-`docs/index.html` pra qualquer pessoa.
-
-1. Abre **github.com/dimilokis/thegauge/settings/pages**
-2. Em **Source**, seleciona **Deploy from a branch**
-3. Em **Branch**, seleciona **main** e a pasta **/docs** (o segundo dropdown,
-   do lado do branch)
-4. Clica **Save**
-5. Espera ~1-2 minutos, atualiza a pagina — vai aparecer um aviso verde tipo
-   "Your site is live at":
-   **https://dimilokis.github.io/thegauge/**
-
-Essa URL e o dashboard publico. Ela atualiza sozinha, porque o workflow
-(`.github/workflows/update.yml`) ja esta configurado pra rodar de hora em
-hora e commitar o `docs/gauge_live.json` novo.
-
 ## Como saber se esta funcionando
 
-- Aba **Actions** do repo -> deve ter uma aba "Update Gauge snapshot".
-  Clica nela -> **Run workflow** -> **Run workflow** (botao verde).
-- Espera ~1-2 min, atualiza a pagina do Actions — se ficar com um check
+- Aba **Actions** do repo -> workflow "Update Gauge snapshot".
+  Clica nele -> **Run workflow** -> **Run workflow** (botao verde).
+- Espera ~2-3 min, atualiza a pagina do Actions — se ficar com um check
   verde, funcionou. Vai ter aparecido um commit novo "chore: refresh gauge
   snapshot".
-- Abre https://dimilokis.github.io/thegauge/ e ve se o "updated X min ago"
-  no topo bate com agora.
+- Abre <https://thegauge.art> e ve se o "updated X min ago" no topo bate
+  com agora (o Cloudflare leva mais ~1 min pra redeployar apos o commit).
 
 Se isso funcionar uma vez, ele roda sozinho pra sempre, de hora em hora,
 de graca — nao precisa mais fazer nada.
