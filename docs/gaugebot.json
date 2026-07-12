@@ -1,0 +1,24 @@
+{
+  "strategy_label": "Gauge oversold BTC-driven (dado diario) -- Tier A/B, score<5, queda >60% explicada pelo BTC -> long, SL-5%/TP+10%, sem prazo fixo.",
+  "capital": 10000.0,
+  "initial": 10000.0,
+  "return_pct": 0.0,
+  "realized": 0.0,
+  "n_open": 0,
+  "slots": 10,
+  "n_closed": 0,
+  "winrate": 0.0,
+  "ev": 0.0,
+  "open_positions": [],
+  "closed_recent": [],
+  "equity_history": [
+    [
+      "2026-07-12 02:07:21.959757",
+      10000.0
+    ]
+  ],
+  "started": "2026-07-12 02:07:21.958757",
+  "last_cycle": "2026-07-12 02:07:21.959757",
+  "heartbeat": "2026-07-12 02:07:21.959757",
+  "hb": 1
+}
