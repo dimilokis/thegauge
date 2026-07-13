@@ -1,14 +1,14 @@
-[1/4] 100 coins scanned. 3 stand out today — statistically extreme moves, independent of Bitcoin. Thread with the breakdown of each 👇
+[1/4] 3 coin(s) stood out today — statistically extreme moves, independent of Bitcoin. Thread with the breakdown of each 👇
 #crypto #Bitcoin #altcoins
 
-[2/4] XEC — 15.6σ move, only 0% explained by BTC. Overbought.
+[2/4] XEC — 13.4σ move, only 0% explained by BTC. Neutral.
 (attach: XEC.png)
 
-[3/4] LUMIA — 4.6σ move, only 8% explained by BTC. Oversold.
+[3/4] LUMIA — 4.8σ move, only 10% explained by BTC. Oversold.
 (attach: LUMIA.png)
 
-[4/4] DCR — 3.1σ move, only 12% explained by BTC. Neutral.
+[4/4] DCR — 3.0σ move, only 10% explained by BTC. Neutral.
 (attach: DCR.png)
 
-Free live dashboard, updated hourly: https://thegauge.art
+Free live dashboard, updated every 15min: https://thegauge.art
 #XEC #LUMIA #DCR
