@@ -123,6 +123,10 @@
   "icon": "https://coin-images.coingecko.com/coins/images/12171/large/polkadot.jpg?1766533446",
   "name": "Polkadot"
  },
+ "DYDX": {
+  "icon": "https://coin-images.coingecko.com/coins/images/32594/large/dydx.png",
+  "name": "dYdX"
+ },
  "EIGEN": {
   "icon": "https://coin-images.coingecko.com/coins/images/37441/large/eigencloud.jpg?1751003565",
   "name": "EigenCloud (prev. EigenLayer)"
