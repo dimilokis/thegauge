@@ -23,6 +23,10 @@
   "icon": "https://coin-images.coingecko.com/coins/images/71027/large/gensyn.png?1765331043",
   "name": "Gensyn"
  },
+ "ALGO": {
+  "icon": "https://coin-images.coingecko.com/coins/images/4380/large/download.png",
+  "name": "Algorand"
+ },
  "ALLO": {
   "icon": "https://coin-images.coingecko.com/coins/images/70609/large/allo-token.png?1763451165",
   "name": "Allora"
