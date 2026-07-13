@@ -263,6 +263,10 @@
   "icon": "https://coin-images.coingecko.com/coins/images/29850/large/pepe-token.jpeg?1696528776",
   "name": "Pepe"
  },
+ "PLUME": {
+  "icon": "https://coin-images.coingecko.com/coins/images/53623/large/plume-token.png",
+  "name": "Plume"
+ },
  "POL": {
   "icon": "https://coin-images.coingecko.com/coins/images/32440/large/pol.png?1759114181",
   "name": "POL (ex-MATIC)"
@@ -290,6 +294,10 @@
  "RENDER": {
   "icon": "https://coin-images.coingecko.com/coins/images/11636/large/rndr.png?1696511529",
   "name": "Render"
+ },
+ "RIF": {
+  "icon": "https://coin-images.coingecko.com/coins/images/7460/large/8befc44a46c247e8a3f7fc8abba586b1_%283%29.png",
+  "name": "Rootstock Infrastructure Framework"
  },
  "RLUSD": {
   "icon": "https://coin-images.coingecko.com/coins/images/39651/large/RLUSD_200x200_%281%29.png?1727376633",
@@ -394,6 +402,10 @@
  "VIRTUAL": {
   "icon": "https://coin-images.coingecko.com/coins/images/34057/large/LOGOMARK.png?1708356054",
   "name": "Virtuals Protocol"
+ },
+ "WIF": {
+  "icon": "https://coin-images.coingecko.com/coins/images/33566/large/dogwifhat.jpg",
+  "name": "dogwifhat"
  },
  "WLD": {
   "icon": "https://coin-images.coingecko.com/coins/images/31069/large/worldcoin.jpeg?1696529903",
