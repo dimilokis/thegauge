@@ -1,6 +1,6 @@
 {
  "date": "2026-07-13",
- "generated_at": "2026-07-13T17:37:23.080368+00:00",
+ "generated_at": "2026-07-13T23:33:12.416029+00:00",
  "assets": [
   {
    "symbol": "XEC",
@@ -33,6 +33,14 @@
    "from_btc_pct": 6,
    "verdict": "Neutral",
    "file": "KITE.png"
+  },
+  {
+   "symbol": "ZBT",
+   "name": "ZEROBASE",
+   "sigma": 2.54,
+   "from_btc_pct": 2,
+   "verdict": "Neutral",
+   "file": "ZBT.png"
   }
  ]
 }
