@@ -166,13 +166,25 @@ def render_card(asset, out_path):
     name = asset.get("name") or asset["symbol"]
     d.text((text_x + 2, 260), truncate(d, name, f_name, max_w), font=f_name, fill=hx(MUTED))
 
-    # numero hero: sigma. Sans (Inter), nao serif — Cormorant Garamond nao tem
-    # glifo de sigma nesse eixo variavel (renderiza um tofu "NO GLYPH").
+    # numero hero + sigma. Sans (Inter), nao serif — Cormorant Garamond nao
+    # tem glifo de sigma nesse eixo variavel (renderiza um tofu "NO GLYPH").
+    # O "σ" sai MENOR, cor mais fraca (MUTED) e com respiro do numero --
+    # mesma cor/tamanho do numero fazia ele ler como um "0" deformado colado
+    # no numero (achado do usuario 13/jul).
     cursor = 400
     f_hero = font("sans", 200, weight=800)
-    hero = "{:.1f}{}".format(abs(asset["sigma"]), SIGMA)
-    h, off = text_h(d, hero, f_hero)
-    d.text((pad, cursor - off), hero, font=f_hero, fill=hx(color))
+    num = "{:.1f}".format(abs(asset["sigma"]))
+    h, off = text_h(d, num, f_hero)
+    d.text((pad, cursor - off), num, font=f_hero, fill=hx(color))
+    num_w = d.textlength(num, font=f_hero)
+
+    f_unit = font("sans", 96, weight=600)
+    unit_x = pad + num_w + 20
+    uh, uoff = text_h(d, SIGMA, f_unit)
+    # alinha pela base (bottom) do numero, nao pelo topo -- sigma "sentado"
+    # do lado do numero, como uma unidade (kg, %, etc), nao continuando ele.
+    num_bottom = cursor - off + h
+    d.text((unit_x, num_bottom - uh - uoff), SIGMA, font=f_unit, fill=hx(MUTED))
     cursor += h + 28
 
     f_sub = font("sans", 32, weight=400)
@@ -259,8 +271,20 @@ def main():
         render_card(a, path)
 
     build_thread_text(hits, os.path.join(out_dir, "post.txt"))
+
+    # manifest: a pasta em si nao e navegavel (hosting estatico nao lista
+    # diretorio — dava 404 tentando abrir /social/ direto, achado do usuario
+    # 13/jul). docs/social.html le este JSON pra montar uma pagina de verdade.
+    manifest = {
+        "date": date.today().isoformat(),
+        "generated_at": datetime.now(timezone.utc).isoformat(),
+        "assets": [{"symbol": a["symbol"], "name": a.get("name"), "sigma": a["sigma"],
+                    "verdict": a["verdict"], "file": "{}.png".format(a["symbol"])} for a in hits],
+    }
+    json.dump(manifest, open(os.path.join(OUT_ROOT, "latest.json"), "w"), indent=1)
+
     log("Pronto: {} cards + post.txt em {}".format(len(hits), out_dir))
-    log("Publico em: {}/social/{}/".format(DASHBOARD_URL, date.today().isoformat()))
+    log("Publico em: {}/social.html".format(DASHBOARD_URL))
 
 
 if __name__ == "__main__":
