@@ -1,6 +1,6 @@
 {
  "date": "2026-07-13",
- "generated_at": "2026-07-13T16:34:55.829957+00:00",
+ "generated_at": "2026-07-13T17:37:23.080368+00:00",
  "assets": [
   {
    "symbol": "XEC",
@@ -25,6 +25,14 @@
    "from_btc_pct": 10,
    "verdict": "Neutral",
    "file": "DCR.png"
+  },
+  {
+   "symbol": "KITE",
+   "name": "Kite",
+   "sigma": 2.61,
+   "from_btc_pct": 6,
+   "verdict": "Neutral",
+   "file": "KITE.png"
   }
  ]
 }

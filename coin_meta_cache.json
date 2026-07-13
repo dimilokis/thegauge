@@ -19,6 +19,10 @@
   "icon": "https://coin-images.coingecko.com/coins/images/71027/large/gensyn.png?1765331043",
   "name": "Gensyn"
  },
+ "AIGENSYN": {
+  "icon": "https://coin-images.coingecko.com/coins/images/71027/large/gensyn.png?1765331043",
+  "name": "Gensyn"
+ },
  "ALLO": {
   "icon": "https://coin-images.coingecko.com/coins/images/70609/large/allo-token.png?1763451165",
   "name": "Allora"
@@ -59,6 +63,10 @@
   "icon": "https://coin-images.coingecko.com/coins/images/780/large/bitcoin-cash-circle.png?1696501932",
   "name": "Bitcoin Cash"
  },
+ "BIO": {
+  "icon": "https://coin-images.coingecko.com/coins/images/53022/large/bio.jpg",
+  "name": "Bio Protocol"
+ },
  "BLUR": {
   "icon": "https://coin-images.coingecko.com/coins/images/28453/large/blur.png?1696527448",
   "name": "Blur"
@@ -66,6 +74,10 @@
  "BNB": {
   "icon": "https://coin-images.coingecko.com/coins/images/825/large/bnb-icon2_2x.png?1696501970",
   "name": "BNB"
+ },
+ "BONK": {
+  "icon": "https://coin-images.coingecko.com/coins/images/28600/large/bonk.jpg",
+  "name": "Bonk"
  },
  "BTC": {
   "icon": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400",

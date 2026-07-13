@@ -2,7 +2,10 @@ name: Update Gauge snapshot
 
 on:
   schedule:
-    - cron: "7,22,37,52 * * * *"   # a cada 15min, offset de 7min (evita o rush de cron no minuto 0/15/30/45)
+    # a cada 15min, offset de 7min (evita o rush de cron no minuto 0/15/30/45).
+    # Nota 13/jul: apos a troca de 1h->15min o agendador do GitHub ficou 4+ slots
+    # sem disparar; esta edicao re-registra o schedule (remedio conhecido).
+    - cron: "7,22,37,52 * * * *"
   workflow_dispatch: {}    # permite rodar manualmente no botao "Run workflow"
 
 permissions:
