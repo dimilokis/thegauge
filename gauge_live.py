@@ -26,6 +26,7 @@ ALERT_MAX_BTC_R2 = 0.40    # "independent" = pouco explicado por BTC
 ROOT = os.path.dirname(os.path.abspath(__file__))
 OUT_JSON = os.path.join(ROOT, "docs", "gauge_live.json")
 STATE_JSON = os.path.join(ROOT, "alert_state.json")
+META_CACHE_JSON = os.path.join(ROOT, "coin_meta_cache.json")
 
 TG_TOKEN = os.environ.get("TG_BOT_TOKEN", "")
 TG_CHAT = os.environ.get("TG_CHAT_ID", "")
@@ -45,58 +46,127 @@ def log(msg):
     print("[{}] {}".format(datetime.now(timezone.utc).strftime("%H:%M:%S"), msg), flush=True)
 
 
-def fetch_coin_meta(pages=2):
-    """Nome completo + icone via CoinGecko (fonte real, sem inventar nada).
-    Nunca derruba o pipeline principal: qualquer falha (rate limit, rede)
-    devolve dict vazio e o resto do script segue normal, so sem enriquecimento."""
-    meta = {}
+def load_meta_cache():
+    """Cache persistente symbol -> {name, icon}, commitado no repo pelo
+    workflow. E ele que garante que um nome resolvido uma vez NUNCA mais some
+    do dashboard, mesmo que o CoinGecko rate-limite a run inteira. E um JSON
+    editavel a mao: se algum ticker ambiguo casar com a moeda errada, corrigir
+    a linha aqui resolve pra sempre."""
     try:
-        for page in range(1, pages + 1):
-            r = SESSION.get(
-                COINGECKO + "/coins/markets",
-                params={"vs_currency": "usd", "order": "market_cap_desc", "per_page": 250, "page": page},
-                timeout=15,
-            )
-            data = r.json()
-            if not isinstance(data, list):
-                log("CoinGecko indisponivel nesta run ({}) — seguindo sem nome/icone.".format(
-                    data.get("status", {}).get("error_code", "?") if isinstance(data, dict) else "?"))
-                break
-            for c in data:
-                sym = c["symbol"].upper()
-                if sym not in meta:
-                    meta[sym] = {"name": c["name"], "icon": c["image"]}
-            time.sleep(1.5)
-    except Exception as e:
-        log("CoinGecko falhou ({}) — seguindo sem nome/icone.".format(e))
+        raw = json.load(open(META_CACHE_JSON))
+        return {k: v for k, v in raw.items() if isinstance(v, dict) and v.get("name")}
+    except Exception:
+        return {}
+
+
+def save_meta_cache(cache):
+    json.dump(cache, open(META_CACHE_JSON, "w"), indent=1, sort_keys=True)
+
+
+def fetch_coin_meta(pages=8):
+    """Nome completo + icone via CoinGecko (fonte real, sem inventar nada).
+    8 paginas de 250 = top-2000 por market cap, porque o Gauge ranqueia por
+    VOLUME e varias moedas de volume alto tem market cap la embaixo (PUNDIX
+    #775, HEI #1153, Sleepless AI #1999...). Guarda TODOS os candidatos de
+    cada ticker (em ordem de market cap) com o preco — a desambiguacao por
+    preco acontece no lookup_meta. Rate limit (429) ganha retry com espera;
+    falha definitiva devolve o que ja juntou — nunca derruba o pipeline,
+    o cache persistente cobre o resto."""
+    meta = {}
+    for page in range(1, pages + 1):
+        for attempt in range(3):
+            try:
+                r = SESSION.get(
+                    COINGECKO + "/coins/markets",
+                    params={"vs_currency": "usd", "order": "market_cap_desc", "per_page": 250, "page": page},
+                    timeout=15,
+                )
+                data = r.json()
+                if isinstance(data, list):
+                    for c in data:
+                        sym = c["symbol"].upper()
+                        meta.setdefault(sym, []).append(
+                            {"name": c["name"], "icon": c["image"], "price": c.get("current_price")}
+                        )
+                    break
+                log("CoinGecko pagina {} respondeu {} (tentativa {}/3) — aguardando 25s.".format(
+                    page, r.status_code, attempt + 1))
+            except Exception as e:
+                log("CoinGecko pagina {} falhou ({}) (tentativa {}/3) — aguardando 25s.".format(
+                    page, e, attempt + 1))
+            time.sleep(25)
+        time.sleep(1.5)
     return meta
 
 
-def lookup_meta(meta, symbol):
-    if symbol in meta:
-        return meta[symbol]
-    if symbol.startswith("1000") and symbol[4:] in meta:
-        return meta[symbol[4:]]
+# Prefixos que a Binance poe em moedas de preco microscopico (1000SHIB = mil
+# SHIB por contrato). O CoinGecko conhece a moeda pelo ticker puro; o fator
+# converte o preco do CoinGecko pra escala do par da Binance.
+BINANCE_PREFIXES = (("1000000", 1e6), ("1000", 1e3), ("1M", 1e6))
+
+# Tolerancia da desambiguacao por preco: |log(preco_binance/preco_cg)| < 0.2
+# (~±22%). A licao que motivou isso: a Binance recicla tickers — "AI" hoje e
+# Sleepless AI ($0.021), mas o CoinGecko tambem tem Gensyn com ticker AI
+# ($0.026, market cap maior). Escolher por ranking pegava a moeda ERRADA;
+# o preco identifica a certa sem ambiguidade.
+PRICE_LOG_TOL = 0.2
+
+
+def _price_matches(binance_price, cg_price, factor=1.0):
+    if not cg_price or not binance_price:
+        return None  # sem preco pra comparar — nem confirma nem nega
+    return abs(np.log(binance_price / (cg_price * factor))) < PRICE_LOG_TOL
+
+
+def lookup_meta(meta, symbol, binance_price):
+    """Resolve o ticker da Binance num candidato do CoinGecko. Regra: se ha
+    preco pra comparar, so aceita candidato cujo preco bate com o da Binance;
+    um candidato sem preco no CoinGecko so e aceito se for o unico do ticker
+    (sem colisao = sem risco de pegar a moeda errada)."""
+    variants = [(symbol, 1.0)]
+    for pref, factor in BINANCE_PREFIXES:
+        if symbol.startswith(pref):
+            variants.append((symbol[len(pref):], factor))
+    for key, factor in variants:
+        candidates = meta.get(key, [])
+        for c in candidates:
+            ok = _price_matches(binance_price, c["price"], factor)
+            if ok or (ok is None and len(candidates) == 1):
+                return {"name": c["name"], "icon": c["icon"]}
     return None
 
 
 def search_coin_meta(symbol):
-    """Fallback pra moedas fora do top-500 por market cap (o /coins/markets
-    nao cobre). Busca direcionada por simbolo — 1 chamada, sem inventar nada.
-    Se o ticker tiver mais de uma moeda (colisao), fica com a de menor
-    market_cap_rank (mais provavel ser a que a Binance lista de verdade)."""
-    try:
-        r = SESSION.get(COINGECKO + "/search", params={"query": symbol}, timeout=15)
-        data = r.json()
-        coins = data.get("coins", []) if isinstance(data, dict) else []
-        matches = [c for c in coins if c.get("symbol", "").upper() == symbol]
-        if not matches:
-            return None
-        matches.sort(key=lambda c: c.get("market_cap_rank") if c.get("market_cap_rank") is not None else 10**9)
-        best = matches[0]
-        return {"name": best["name"], "icon": best.get("large") or best.get("thumb")}
-    except Exception:
-        return None
+    """Fallback pra moedas fora do top-2000 por market cap (o /coins/markets
+    nao cobre). Busca direcionada por simbolo — sem inventar nada. Tenta
+    tambem o ticker sem prefixo da Binance (1MBABYDOGE -> BABYDOGE). O /search
+    nao devolve preco, entao aqui nao da pra desambiguar por preco: se o
+    ticker tiver colisao, fica com a de menor market_cap_rank — se casar
+    errado, corrigir a mao no coin_meta_cache.json (que tem prioridade quando
+    o match por preco nao resolve). Rate limit (429) ganha retry com espera."""
+    queries = [symbol]
+    for pref, _factor in BINANCE_PREFIXES:
+        if symbol.startswith(pref) and symbol[len(pref):] not in queries:
+            queries.append(symbol[len(pref):])
+    for query in queries:
+        for _ in range(2):
+            try:
+                r = SESSION.get(COINGECKO + "/search", params={"query": query}, timeout=15)
+                if r.status_code == 429:
+                    log("CoinGecko /search rate-limited em {} — aguardando 30s.".format(query))
+                    time.sleep(30)
+                    continue
+                data = r.json()
+                coins = data.get("coins", []) if isinstance(data, dict) else []
+                matches = [c for c in coins if c.get("symbol", "").upper() == query]
+                if matches:
+                    matches.sort(key=lambda c: c.get("market_cap_rank") if c.get("market_cap_rank") is not None else 10**9)
+                    best = matches[0]
+                    return {"name": best["name"], "icon": best.get("large") or best.get("thumb")}
+                break
+            except Exception:
+                break
+    return None
 
 
 # Pares USDT que nao sao "cripto de verdade" para um screener: stablecoins
@@ -249,13 +319,21 @@ def btc_r2(coin_close, btc_close, window=30):
     return float(np.clip(corr ** 2, 0, 1))
 
 
-def liquidity_tier(close, vol):
+def liquidity_tier(vol):
     """Tier de liquidez sustentada (mediana do dollar-volume dos 90d
     ANTERIORES a hoje, sem contar o dia de hoje — mesma metodologia do
     backtest historico bot/_gauge_hist_backtest.py). Cortes calibrados
     contra 400k dias-moeda 2020-2026: A/B tem N grande e formato de
-    momentum; C/D tem N menor e formato mais equilibrado."""
-    dollar_vol = close * vol
+    momentum; C/D tem N menor e formato mais equilibrado.
+
+    `vol` aqui e o QUOTE volume do kline (campo 7) — ja em dolares. BUG
+    historico corrigido em 13/jul/2026: o codigo fazia close*vol em cima do
+    quote volume, multiplicando o preco DUAS vezes — moeda barata (SHIB,
+    PEPE, DOGE) tinha o dollar-volume esmagado e caia pra tier C/D errado,
+    distorcendo o verdict (que e tier-aware). O backtest que calibrou os
+    cortes fazia close*volume_BASE (correto); quote volume direto e a mesma
+    grandeza."""
+    dollar_vol = vol
     if len(dollar_vol) < 21:
         return "D"
     baseline = dollar_vol[:-1][-90:]
@@ -327,6 +405,7 @@ def build_snapshot():
         raise RuntimeError("Nao foi possivel coletar dados do BTC — abortando run.")
     btc_close = data[REF_SYMBOL]["close"]
 
+    meta_cache = load_meta_cache()
     coin_meta = fetch_coin_meta()
 
     rows = []
@@ -342,12 +421,13 @@ def build_snapshot():
         from_btc_pct = round(r2 * 100)
         ret_pct = float((close[-1] / close[-2] - 1) * 100) if len(close) >= 2 else 0.0
         base_symbol = sym.replace("USDT", "")
-        tier = "A" if is_market else liquidity_tier(close, vol)
-        meta = lookup_meta(coin_meta, base_symbol)
+        tier = "A" if is_market else liquidity_tier(vol)
+        # Prioridade: match com preco conferido > cache persistente > busca.
+        meta = lookup_meta(coin_meta, base_symbol, float(close[-1]))
+        if meta is None:
+            meta = meta_cache.get(base_symbol)
         if meta is None:
             meta = search_coin_meta(base_symbol)
-            if meta is not None:
-                coin_meta[base_symbol] = meta
             time.sleep(1.5)
         rows.append({
             "symbol": base_symbol,
@@ -362,6 +442,15 @@ def build_snapshot():
             "is_market": is_market,
             "verdict": "Neutral" if is_market else verdict(score, tier),
         })
+
+    for row in rows:
+        if row["name"] and row["icon"]:
+            meta_cache[row["symbol"]] = {"name": row["name"], "icon": row["icon"]}
+    save_meta_cache(meta_cache)
+    still_missing = [row["symbol"] for row in rows if not row["name"] or not row["icon"]]
+    if still_missing:
+        log("AVISO: {} ativo(s) SEM nome/icone nesta run (CoinGecko nao resolveu): {}".format(
+            len(still_missing), still_missing))
 
     rows.sort(key=lambda r: -r["sigma"])
     snapshot = {
