@@ -30,6 +30,9 @@ ROOT = os.path.dirname(os.path.abspath(__file__))
 OUT_JSON = os.path.join(ROOT, "docs", "gauge_live.json")
 STATE_JSON = os.path.join(ROOT, "alert_state.json")
 META_CACHE_JSON = os.path.join(ROOT, "coin_meta_cache.json")
+MOVE_STATE_JSON = os.path.join(ROOT, "move_tier_state.json")
+ANALYTICS_LOG = os.path.join(ROOT, "analytics_log.jsonl")
+NOTABLE_SIGMA = 1.0    # mesmo corte do moveTier() do dashboard (Normal/Notable/Extreme)
 
 TG_TOKEN = os.environ.get("TG_BOT_TOKEN", "")
 TG_CHAT = os.environ.get("TG_CHAT_ID", "")
@@ -179,6 +182,9 @@ NOT_REAL_CRYPTO = {
     "USDC", "FDUSD", "TUSD", "USDP", "DAI", "BUSD", "PYUSD", "USD1", "USDE",
     "XUSD", "AEUR", "EUR", "EURI", "GBP", "TRY", "BRL", "ARS", "COP", "UAH",
     "PAXG", "XAUT", "WBTC", "WBETH", "WETH", "BETH", "STETH",
+    "RLUSD",  # Ripple USD (stablecoin)
+    "U",      # United Stables (stablecoin) -- achado 13/jul via analytics log:
+              # sigma alto num ativo travado em $1 e ruido puro, nao movimento real
 }
 
 # Acoes e ETFs tokenizados que a Binance lista no spot com sufixo "B"
@@ -550,6 +556,57 @@ def process_alerts(snapshot):
     save_state(now_extreme)
 
 
+def move_tier(sigma):
+    a = abs(sigma)
+    if a >= ALERT_SIGMA:
+        return "Extreme"
+    if a >= NOTABLE_SIGMA:
+        return "Notable"
+    return "Normal"
+
+
+TIER_RANK = {"Normal": 0, "Notable": 1, "Extreme": 2}
+
+
+def log_analytics_events(snapshot):
+    """Registra (append-only, NUNCA reescreve) toda vez que um ativo ENTRA
+    em Notable ou Extreme vindo de um nivel mais baixo — nao a cada run que
+    ele continua la (senao um ativo parado 3h em Extreme viraria 12 linhas
+    identicas). Objetivo: dataset prospectivo pra medir honestamente "o que
+    aconteceu depois" de cada alerta, sem lookahead (por construcao — cada
+    linha so pode ser escrita depois que o proprio evento aconteceu) e sem
+    cherry-pick (loga TUDO que cruza o limiar, nao so o que "deu certo").
+    Inclui BTC/mercado (is_market) e ativos dependentes do BTC tambem —
+    filtragem por independencia fica pra hora da analise, nao da coleta."""
+    try:
+        prev_tier = json.load(open(MOVE_STATE_JSON, encoding="utf-8"))
+    except Exception:
+        prev_tier = {}
+
+    now_tier = {}
+    new_lines = []
+    ts = datetime.now(timezone.utc).isoformat()
+    for a in snapshot["assets"]:
+        tier = move_tier(a["sigma"])
+        now_tier[a["symbol"]] = tier
+        was = prev_tier.get(a["symbol"], "Normal")
+        if TIER_RANK[tier] > TIER_RANK.get(was, 0):
+            new_lines.append(json.dumps({
+                "ts": ts, "symbol": a["symbol"], "name": a.get("name"),
+                "move_tier": tier, "sigma": a["sigma"], "from_btc_pct": a["from_btc_pct"],
+                "independent": a["from_btc_pct"] <= ALERT_MAX_BTC_R2 * 100,
+                "verdict": a["verdict"], "score": a["score"], "liquidity_tier": a["tier"],
+                "price": a["price"], "ret_pct": a["ret_pct"], "is_market": a["is_market"],
+            }, ensure_ascii=False))
+
+    if new_lines:
+        with open(ANALYTICS_LOG, "a", encoding="utf-8") as f:
+            f.write("\n".join(new_lines) + "\n")
+        log("Analytics: {} novo(s) evento(s) Notable/Extreme registrado(s).".format(len(new_lines)))
+
+    json.dump(now_tier, open(MOVE_STATE_JSON, "w"))
+
+
 def main():
     snapshot = build_snapshot()
     os.makedirs(os.path.dirname(OUT_JSON), exist_ok=True)
@@ -557,6 +614,7 @@ def main():
     n_meta = sum(1 for a in snapshot["assets"] if a.get("name"))
     log("Snapshot salvo: {} ({} ativos, {} com nome/icone)".format(OUT_JSON, snapshot["universe_size"], n_meta))
     process_alerts(snapshot)
+    log_analytics_events(snapshot)
     log("Done.")
 
 

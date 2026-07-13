@@ -34,7 +34,7 @@ jobs:
         run: |
           git config user.name "gauge-bot"
           git config user.email "actions@users.noreply.github.com"
-          git add docs/gauge_live.json alert_state.json coin_meta_cache.json docs/social
+          git add docs/gauge_live.json alert_state.json coin_meta_cache.json docs/social analytics_log.jsonl move_tier_state.json
           if git diff --cached --quiet; then
             echo "Nada novo pra commitar nesta run."
             exit 0
