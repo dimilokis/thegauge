@@ -90,6 +90,12 @@ tbody td:not(:first-child) { padding-left: 24px; }
 .drv-name { font-size: 13px; color: var(--text); }
 .drv-pct { font-size: 11px; color: var(--muted); letter-spacing: .3px; margin-top: 2px; }
 .drv-ind .drv-name { color: var(--gold); }
+.price-num { font-size: 13px; color: var(--text); font-variant-numeric: tabular-nums; }
+.price-chg { font-size: 11px; letter-spacing: .3px; margin-top: 2px; font-variant-numeric: tabular-nums; }
+.price-chg.up { color: var(--green); }
+.price-chg.down { color: var(--heat); }
+.live-price-dot { display: inline-block; width: 5px; height: 5px; border-radius: 50%; background: var(--dim); margin-left: 5px; vertical-align: middle; }
+.live-price-dot.on { background: var(--green); animation: pulse 2s infinite; }
 .state { font-size: 12px; letter-spacing: 1.5px; text-transform: uppercase; font-weight: 500; }
 .state-over { color: var(--heat); }
 .state-under { color: var(--ice); }
@@ -187,6 +193,7 @@ footer a:hover { color: var(--muted); }
       <thead>
         <tr>
           <th data-k="symbol">Asset</th>
+          <th data-k="price">Price <span class="live-price-dot" id="livePriceDot" title="Live price via Binance"></span></th>
           <th data-k="score">Gauge Score</th>
           <th data-k="sigma" class="sorted">Move</th>
           <th data-k="from_btc_pct">Driver</th>
@@ -219,6 +226,15 @@ footer a:hover { color: var(--muted); }
 <script>
 const GAUGE_JSON_URL = 'gauge_live.json';
 let DATA = null, filter = 'all', sortKey = 'sigma', sortDir = -1, query = '';
+
+function fmtPrice(p){
+  // locale fixo em en-US -- 'undefined' usa o locale do navegador do
+  // visitante, que pode formatar 13.28 como "13,28" (ambiguo do lado do
+  // "$" na frente). Numero sempre no mesmo formato, nao importa quem ve.
+  if (p >= 1) return '$' + p.toLocaleString('en-US', {minimumFractionDigits:2, maximumFractionDigits:2});
+  if (p >= 0.01) return '$' + p.toFixed(4);
+  return '$' + p.toFixed(8).replace(/0+$/, '').replace(/\.$/, '');
+}
 
 function verdictColor(v){
   if (v === 'Oversold') return 'var(--ice)';
@@ -257,6 +273,8 @@ function dashRowHTML(a){
   const nameSub = a.name ? '<div class="coin-info-tick">'+a.name+'</div>' : '';
   return '<tr>'
    +'<td><div class="coin-row">'+coinIconHTML(a,'coin-sym')+'<div><div class="coin-info-name">'+a.symbol+marketTag+'</div>'+nameSub+'</div></div></td>'
+   +'<td data-label="Price" class="price-cell" data-sym="'+a.symbol+'"><span class="price-num">'+fmtPrice(a.price)+'</span>'
+   +'<div class="price-chg '+(a.ret_pct>=0?'up':'down')+'">'+(a.ret_pct>=0?'+':'')+a.ret_pct.toFixed(2)+'%</div></td>'
    +'<td data-label="Gauge Score"><div class="temp-wrap"><span class="temp-num serif" style="color:'+c+'">'+Math.round(a.score)+'</span><div class="temp-bar"><div class="temp-fill" style="--w:'+Math.round(a.score)+'%;background:'+c+'"></div></div></div></td>'
    +'<td data-label="Move"><span class="mv '+tc+'">'+tt+' · '+Math.abs(a.sigma).toFixed(1)+'σ</span></td>'
    +'<td data-label="Driver"><div class="'+d.cls+'"><div class="drv-name">'+d.name+'</div><div class="drv-pct">'+d.sub+'</div></div></td>'
@@ -369,6 +387,59 @@ document.querySelectorAll('thead th').forEach(th => th.addEventListener('click',
   this.classList.add('sorted');
   if (DATA) renderDash();
 }));
+
+// ─── LIVE PRICE (direto do navegador pra Binance, sem servidor no meio) ───
+// So o PRECO/% tickam ao vivo aqui — score/sigma/verdict continuam vindo do
+// snapshot (recalculado a cada 15min), que depende de janela de 90 dias e
+// nao muda de forma que faca sentido atualizar a cada segundo.
+(function liveTicker(){
+  let attempts = 0;
+  function connect(){
+    let ws;
+    try { ws = new WebSocket('wss://stream.binance.com:9443/ws/!ticker@arr'); }
+    catch(e) { return; }
+
+    ws.onopen = function(){
+      attempts = 0;
+      const dot = document.getElementById('livePriceDot');
+      if (dot) dot.classList.add('on');
+    };
+    ws.onmessage = function(ev){
+      let arr;
+      try { arr = JSON.parse(ev.data); } catch(e) { return; }
+      if (!Array.isArray(arr)) return;
+      for (const t of arr){
+        if (!t.s || !t.s.endsWith('USDT')) continue;
+        const sym = t.s.slice(0, -4);
+        const cells = document.querySelectorAll('.price-cell[data-sym="' + sym + '"]');
+        if (!cells.length) continue;
+        const price = parseFloat(t.c), pct = parseFloat(t.P);
+        if (!isFinite(price) || !isFinite(pct)) continue;
+        cells.forEach(function(cell){
+          const numEl = cell.querySelector('.price-num');
+          const chgEl = cell.querySelector('.price-chg');
+          if (numEl) numEl.textContent = fmtPrice(price);
+          if (chgEl){
+            chgEl.textContent = (pct >= 0 ? '+' : '') + pct.toFixed(2) + '%';
+            chgEl.classList.toggle('up', pct >= 0);
+            chgEl.classList.toggle('down', pct < 0);
+          }
+        });
+      }
+    };
+    ws.onerror = function(){ try { ws.close(); } catch(e){} };
+    ws.onclose = function(){
+      const dot = document.getElementById('livePriceDot');
+      if (dot) dot.classList.remove('on');
+      // reconecta com backoff (max ~30s) -- rede caiu, proxy bloqueou WS etc.
+      // sem stream ao vivo o preco so fica "parado" no valor do ultimo
+      // snapshot, nunca quebra a pagina.
+      attempts++;
+      setTimeout(connect, Math.min(30000, 2000 * attempts));
+    };
+  }
+  connect();
+})();
 </script>
 </body>
 </html>
