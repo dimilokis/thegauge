@@ -32,5 +32,21 @@ jobs:
           git config user.name "gauge-bot"
           git config user.email "actions@users.noreply.github.com"
           git add docs/gauge_live.json alert_state.json coin_meta_cache.json docs/social
-          git diff --cached --quiet || git commit -m "chore: refresh gauge snapshot"
-          git push
+          if git diff --cached --quiet; then
+            echo "Nada novo pra commitar nesta run."
+            exit 0
+          fi
+          git commit -m "chore: refresh gauge snapshot"
+          # retry com rebase: se outro commit (deploy manual, outra run) chegou em
+          # main entre o checkout e aqui, o push simples e rejeitado (nao-fast-forward)
+          # e a run falhava silenciosa, sem novo snapshot -- achado 13/jul.
+          for i in 1 2 3 4 5; do
+            if git push; then
+              exit 0
+            fi
+            echo "Push rejeitado (tentativa $i/5) -- rebase e tenta de novo."
+            git fetch origin main
+            git rebase origin/main
+          done
+          echo "Push falhou apos 5 tentativas." >&2
+          exit 1
