@@ -451,6 +451,10 @@
   "icon": "https://coin-images.coingecko.com/coins/images/70921/large/zama.png?1764591992",
   "name": "Zama"
  },
+ "ZBT": {
+  "icon": "https://coin-images.coingecko.com/coins/images/69446/large/zbt.png",
+  "name": "ZEROBASE"
+ },
  "ZEC": {
   "icon": "https://coin-images.coingecko.com/coins/images/486/large/circle-zcash-color.png?1696501740",
   "name": "Zcash"
