@@ -2,7 +2,7 @@ name: Update Gauge snapshot
 
 on:
   schedule:
-    - cron: "7 * * * *"   # todo hora, no minuto 7 (evita o rush de cron no minuto 0)
+    - cron: "7,22,37,52 * * * *"   # a cada 15min, offset de 7min (evita o rush de cron no minuto 0/15/30/45)
   workflow_dispatch: {}    # permite rodar manualmente no botao "Run workflow"
 
 permissions:
@@ -31,6 +31,6 @@ jobs:
         run: |
           git config user.name "gauge-bot"
           git config user.email "actions@users.noreply.github.com"
-          git add docs/gauge_live.json alert_state.json coin_meta_cache.json
+          git add docs/gauge_live.json alert_state.json coin_meta_cache.json docs/social
           git diff --cached --quiet || git commit -m "chore: refresh gauge snapshot"
           git push

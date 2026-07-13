@@ -16,6 +16,9 @@ import numpy as np
 import pandas as pd
 import requests
 
+sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(__file__)), "marketing"))
+from social_kit import add_hit  # noqa: E402
+
 DATA_API = "https://data-api.binance.vision"
 TOP_N = 100
 KLINE_LIMIT = 120          # buffer > 90d para rolling windows
@@ -407,12 +410,14 @@ def build_snapshot():
 
     meta_cache = load_meta_cache()
     # A varredura de 8 paginas do CoinGecko (com retry em 429) so roda 1x/dia —
-    # rodar isso toda hora e' o que fazia cada run do Actions demorar minutos
-    # a mais em espera de rate-limit, comendo o teto de minutos gratuitos do
-    # repo. Nas outras 23h do dia, o cache persistente ja resolve quase tudo;
-    # search_coin_meta cobre o raro caso de symbol novo que ainda nao esta
-    # no cache.
-    do_full_meta_scan = datetime.now(timezone.utc).hour == 0
+    # rodar isso toda run e' o que fazia cada execucao do Actions demorar
+    # minutos a mais em espera de rate-limit. Com o cron de 15/15min (4
+    # runs/hora) so a PRIMEIRA run da hora 0 (minuto<15) faz o scan
+    # completo — checar so a hora dispararia 4x seguidas as 00h. Nas outras
+    # runs, o cache persistente ja resolve quase tudo; search_coin_meta cobre
+    # o raro caso de symbol novo que ainda nao esta no cache.
+    now = datetime.now(timezone.utc)
+    do_full_meta_scan = now.hour == 0 and now.minute < 15
     coin_meta = fetch_coin_meta() if do_full_meta_scan else {}
     if not do_full_meta_scan:
         log("Scan completo do CoinGecko pulado nesta run (so roda as 00h UTC) — usando cache.")
@@ -493,7 +498,33 @@ def send_telegram(text):
         log("Falha ao enviar Telegram: {}".format(e))
 
 
+def send_telegram_photo(photo_path, caption):
+    """Manda o card ja pronto como foto (nao so texto) -- o alerta e' o
+    proprio card que vai pro thegauge.art/social.html mais tarde, so que
+    chega na hora, direto no upload multipart (nao depende do commit/push
+    do Actions nem do Cloudflare ja ter propagado o arquivo)."""
+    if not TG_TOKEN or not TG_CHAT:
+        log("Telegram nao configurado (faltam TG_BOT_TOKEN/TG_CHAT_ID) — pulando envio.")
+        return
+    url = "https://api.telegram.org/bot{}/sendPhoto".format(TG_TOKEN)
+    try:
+        with open(photo_path, "rb") as f:
+            SESSION.post(
+                url,
+                data={"chat_id": TG_CHAT, "caption": caption, "parse_mode": "HTML"},
+                files={"photo": f},
+                timeout=30,
+            )
+    except Exception as e:
+        log("Falha ao enviar foto Telegram: {}".format(e))
+
+
 def process_alerts(snapshot):
+    """Roda a cada execucao (a cada 15min). Ativo que ENTRA em estado
+    extremo+independente agora mesmo ganha card na hora (social_kit.add_hit)
+    e alerta no Telegram com a imagem anexada — nao espera nenhum horario
+    fixo. O card acumula em docs/social/<hoje>/ junto com os outros que ja
+    apareceram no dia (nao sobrescreve)."""
     prev = load_state()
     now_extreme = set()
     for a in snapshot["assets"]:
@@ -503,13 +534,19 @@ def process_alerts(snapshot):
         if is_extreme_independent:
             now_extreme.add(a["symbol"])
             if a["symbol"] not in prev:
-                send_telegram(
-                    "<b>{}</b> — {} · {}\n"
+                caption = (
+                    "<b>{}</b> — {} · Extreme\n"
                     "Move: {:.1f}σ · only {}% from BTC\n"
                     "Score {} — this move looks like its own thing.".format(
-                        a["symbol"], a["verdict"], "Extreme", a["sigma"], a["from_btc_pct"], a["score"]
+                        a["symbol"], a["verdict"], a["sigma"], a["from_btc_pct"], a["score"]
                     )
                 )
+                try:
+                    png_path = add_hit(a)
+                    send_telegram_photo(png_path, caption)
+                except Exception as e:
+                    log("Falha ao gerar card de {} ({}) — mandando so texto.".format(a["symbol"], e))
+                    send_telegram(caption)
     save_state(now_extreme)
 
 
