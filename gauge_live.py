@@ -406,7 +406,16 @@ def build_snapshot():
     btc_close = data[REF_SYMBOL]["close"]
 
     meta_cache = load_meta_cache()
-    coin_meta = fetch_coin_meta()
+    # A varredura de 8 paginas do CoinGecko (com retry em 429) so roda 1x/dia —
+    # rodar isso toda hora e' o que fazia cada run do Actions demorar minutos
+    # a mais em espera de rate-limit, comendo o teto de minutos gratuitos do
+    # repo. Nas outras 23h do dia, o cache persistente ja resolve quase tudo;
+    # search_coin_meta cobre o raro caso de symbol novo que ainda nao esta
+    # no cache.
+    do_full_meta_scan = datetime.now(timezone.utc).hour == 0
+    coin_meta = fetch_coin_meta() if do_full_meta_scan else {}
+    if not do_full_meta_scan:
+        log("Scan completo do CoinGecko pulado nesta run (so roda as 00h UTC) — usando cache.")
 
     rows = []
     for sym, d in data.items():

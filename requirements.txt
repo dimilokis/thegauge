@@ -2,3 +2,4 @@ requests>=2.31
 numpy>=1.26
 pandas>=2.1
 tweepy>=4.14
+Pillow>=10.0
