@@ -43,19 +43,15 @@ h1 { font-family: 'Cormorant Garamond', serif; font-size: clamp(32px, 5vw, 48px)
 h1 em { font-style: italic; color: var(--gold); }
 .page-sub { font-size: 14.5px; color: var(--muted); line-height: 1.75; max-width: 560px; }
 
-.kit-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 20px; margin-bottom: 44px; }
+.kit-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 24px; margin-bottom: 44px; }
 .kit-card { border: 1px solid var(--border); background: var(--surface); overflow: hidden; }
 .kit-card img { width: 100%; display: block; }
-.kit-card-foot { padding: 14px 16px; display: flex; justify-content: space-between; align-items: center; }
-.kit-card-foot .sym { font-size: 13px; color: var(--text); }
-.kit-card-foot a { font-size: 11px; letter-spacing: 1px; text-transform: uppercase; color: var(--gold); text-decoration: none; }
-.kit-card-foot a:hover { text-decoration: underline; }
-
-.post-box { border: 1px solid var(--border); background: var(--surface); padding: 28px; max-width: 640px; }
-.post-box h3 { font-family: 'Cormorant Garamond', serif; font-weight: 400; font-size: 22px; margin-bottom: 14px; }
-.post-box pre { white-space: pre-wrap; font-family: 'Inter', sans-serif; font-size: 13px; color: var(--muted); line-height: 1.7; margin-bottom: 18px; }
-.copy-btn { font-size: 11px; letter-spacing: 1.5px; text-transform: uppercase; padding: 10px 22px; border: 1px solid var(--gold); background: transparent; color: var(--gold); cursor: pointer; }
+.kit-card-body { padding: 16px; }
+.kit-caption { font-size: 13px; color: var(--muted); line-height: 1.6; white-space: pre-wrap; margin: 12px 0 14px; }
+.copy-btn { font-size: 11px; letter-spacing: 1.5px; text-transform: uppercase; padding: 9px 18px; border: 1px solid var(--gold); background: transparent; color: var(--gold); cursor: pointer; width: 100%; }
 .copy-btn:hover { background: var(--gold-dim); }
+.copy-btn.copied { border-color: var(--green); color: var(--green); }
+.copy-btn.failed { border-color: var(--heat); color: var(--heat); }
 .empty-box { border: 1px solid var(--border); background: var(--surface); padding: 60px 20px; text-align: center; color: var(--muted); font-size: 13.5px; max-width: 640px; }
 
 footer { border-top: 1px solid var(--border); padding: 32px 48px; display: flex; justify-content: space-between; align-items: center; font-size: 12px; color: var(--dim); letter-spacing: .5px; }
@@ -84,7 +80,6 @@ footer a:hover { color: var(--muted); }
   </div>
 
   <div id="kitGrid" class="kit-grid"></div>
-  <div id="postSection"></div>
 </div>
 
 <footer>
@@ -94,6 +89,41 @@ footer a:hover { color: var(--muted); }
 </footer>
 
 <script>
+function caption(a){
+  return a.symbol + ' — ' + Math.abs(a.sigma).toFixed(1) + 'σ move, only ' + a.from_btc_pct
+    + '% explained by BTC. ' + a.verdict + '.\n\nhttps://thegauge.art\n#' + a.symbol + ' #crypto #Bitcoin';
+}
+
+function flashBtn(btn, ok, okLabel){
+  const original = btn.dataset.label;
+  btn.classList.remove('copied', 'failed');
+  btn.classList.add(ok ? 'copied' : 'failed');
+  btn.textContent = ok ? okLabel : "Couldn't copy — try again";
+  setTimeout(() => { btn.classList.remove('copied', 'failed'); btn.textContent = original; }, 1800);
+}
+
+async function copyImage(btn, url){
+  try {
+    const res = await fetch(url);
+    const blob = await res.blob();
+    await navigator.clipboard.write([new ClipboardItem({ [blob.type]: blob })]);
+    flashBtn(btn, true, 'Image copied!');
+  } catch (e) {
+    console.warn('copy image failed:', e);
+    flashBtn(btn, false);
+  }
+}
+
+async function copyText(btn, text){
+  try {
+    await navigator.clipboard.writeText(text);
+    flashBtn(btn, true, 'Text copied!');
+  } catch (e) {
+    console.warn('copy text failed:', e);
+    flashBtn(btn, false);
+  }
+}
+
 fetch('social/latest.json?t=' + Date.now())
   .then(r => { if (!r.ok) throw new Error('HTTP ' + r.status); return r.json(); })
   .then(m => {
@@ -107,27 +137,27 @@ fetch('social/latest.json?t=' + Date.now())
       return;
     }
 
-    grid.innerHTML = m.assets.map(a =>
-      '<div class="kit-card"><img src="social/' + dateStr + '/' + a.file + '" alt="' + a.symbol + '">'
-      + '<div class="kit-card-foot"><span class="sym">' + a.symbol + ' · ' + Math.abs(a.sigma).toFixed(1) + 'σ</span>'
-      + '<a href="social/' + dateStr + '/' + a.file + '" download>Download</a></div></div>'
-    ).join('');
+    grid.innerHTML = m.assets.map((a, i) => {
+      const imgUrl = 'social/' + dateStr + '/' + a.file;
+      const txt = caption(a);
+      return '<div class="kit-card">'
+        + '<img src="' + imgUrl + '" alt="' + a.symbol + '">'
+        + '<div class="kit-card-body">'
+        + '<button class="copy-btn" data-label="Copy image" data-idx="' + i + '" data-action="img">Copy image</button>'
+        + '<p class="kit-caption">' + txt.replace(/</g, '&lt;') + '</p>'
+        + '<button class="copy-btn" data-label="Copy text" data-idx="' + i + '" data-action="txt">Copy text</button>'
+        + '</div></div>';
+    }).join('');
 
-    fetch('social/' + dateStr + '/post.txt?t=' + Date.now())
-      .then(r => r.ok ? r.text() : null)
-      .then(txt => {
-        if (!txt) return;
-        document.getElementById('postSection').innerHTML =
-          '<div class="post-box"><h3 class="serif">Thread text</h3><pre id="postText"></pre>'
-          + '<button class="copy-btn" id="copyBtn">Copy text</button></div>';
-        document.getElementById('postText').textContent = txt;
-        document.getElementById('copyBtn').addEventListener('click', function(){
-          navigator.clipboard.writeText(txt).then(() => {
-            this.textContent = 'Copied!';
-            setTimeout(() => { this.textContent = 'Copy text'; }, 1500);
-          });
-        });
-      });
+    grid.querySelectorAll('.copy-btn').forEach(btn => {
+      btn.textContent = btn.dataset.label;
+      const a = m.assets[+btn.dataset.idx];
+      if (btn.dataset.action === 'img') {
+        btn.addEventListener('click', () => copyImage(btn, 'social/' + dateStr + '/' + a.file));
+      } else {
+        btn.addEventListener('click', () => copyText(btn, caption(a)));
+      }
+    });
   })
   .catch(e => {
     document.getElementById('kitGrid').innerHTML = '<div class="empty-box">Couldn\'t load the social kit right now.</div>';
