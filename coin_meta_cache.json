@@ -59,6 +59,10 @@
   "icon": "https://coin-images.coingecko.com/coins/images/780/large/bitcoin-cash-circle.png?1696501932",
   "name": "Bitcoin Cash"
  },
+ "BLUR": {
+  "icon": "https://coin-images.coingecko.com/coins/images/28453/large/blur.png?1696527448",
+  "name": "Blur"
+ },
  "BNB": {
   "icon": "https://coin-images.coingecko.com/coins/images/825/large/bnb-icon2_2x.png?1696501970",
   "name": "BNB"
@@ -171,6 +175,10 @@
   "icon": "https://coin-images.coingecko.com/coins/images/33228/large/jto.png?1701137022",
   "name": "Jito"
  },
+ "JUP": {
+  "icon": "https://coin-images.coingecko.com/coins/images/34188/large/jup.png?1704266489",
+  "name": "Jupiter"
+ },
  "KAITO": {
   "icon": "https://coin-images.coingecko.com/coins/images/54411/large/Qm4DW488_400x400.jpg?1739552780",
   "name": "KAITO"
@@ -190,6 +198,14 @@
  "LTC": {
   "icon": "https://coin-images.coingecko.com/coins/images/2/large/litecoin.png?1696501400",
   "name": "Litecoin"
+ },
+ "LUMIA": {
+  "icon": "https://coin-images.coingecko.com/coins/images/50867/large/lumia.jpg?1729321993",
+  "name": "Lumia"
+ },
+ "LUNC": {
+  "icon": "https://coin-images.coingecko.com/coins/images/8284/large/01_LunaClassic_color.png?1696508486",
+  "name": "Terra Luna Classic"
  },
  "MEGA": {
   "icon": "https://coin-images.coingecko.com/coins/images/69995/large/9fcb2fa4-b240-46e2-9016-c4f6101a139d.jpeg?1778485816",
@@ -278,6 +294,10 @@
  "RLUSD": {
   "icon": "https://coin-images.coingecko.com/coins/images/39651/large/RLUSD_200x200_%281%29.png?1727376633",
   "name": "Ripple USD"
+ },
+ "RUNE": {
+  "icon": "https://coin-images.coingecko.com/coins/images/6595/large/THORChain_RUNE_Token.png?1782452363",
+  "name": "THORChain"
  },
  "SENT": {
   "icon": "https://coin-images.coingecko.com/coins/images/70508/large/SENTIENT-Icon-BlushForce-L.png?1762267532",
