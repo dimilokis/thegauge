@@ -179,22 +179,6 @@ h2 em { font-style: italic; color: var(--gold); }
 .compare-table td.ours { color: var(--text); }
 .compare-inner .section-sub { margin-bottom: 4px; }
 
-/* ─── ROADMAP ─── */
-.roadmap-section { border-top: 1px solid var(--border); }
-.roadmap-inner { max-width: 1080px; margin: 0 auto; padding: 130px 48px; }
-.roadmap-head { max-width: 640px; margin-bottom: 64px; }
-.roadmap-grid { display: grid; grid-template-columns: 1.4fr 1fr 1fr; gap: 24px; align-items: start; }
-.roadmap-card { border: 1px solid var(--border); padding: 40px 36px; background: var(--surface); }
-.roadmap-card.featured { border-color: var(--gold); background: var(--gold-dim); }
-.roadmap-card-tag { font-size: 10px; letter-spacing: 2px; text-transform: uppercase; color: var(--gold); margin-bottom: 16px; }
-.roadmap-card.minor .roadmap-card-tag { color: var(--dim); }
-.roadmap-card h4 { font-family: 'Cormorant Garamond', serif; font-size: 24px; font-weight: 300; margin-bottom: 14px; line-height: 1.2; color: var(--text); }
-.roadmap-card.minor h4 { font-size: 20px; color: var(--muted); }
-.roadmap-card p { font-size: 13px; color: var(--muted); line-height: 1.75; }
-.roadmap-card.featured p { font-size: 14px; color: var(--text); }
-.roadmap-badge { display: inline-block; margin-top: 20px; font-size: 10px; letter-spacing: 2px; text-transform: uppercase; color: var(--gold); border: 1px solid var(--gold-mid); padding: 5px 14px; }
-.roadmap-badge.soon { color: var(--dim); border-color: var(--border); }
-
 /* ─── ABOUT ─── */
 .about-section { border-top: 1px solid var(--border); }
 .about-inner { max-width: 1080px; margin: 0 auto; padding: 130px 48px; display: grid; grid-template-columns: 1fr 280px; gap: 80px; align-items: start; }
@@ -232,8 +216,6 @@ footer a:hover { color: var(--muted); }
   .engine-inner { padding: 80px 24px; }
   .engine-grid { grid-template-columns: 1fr; }
   .engine-box { padding: 36px 28px; }
-  .roadmap-inner { padding: 80px 24px; }
-  .roadmap-grid { grid-template-columns: 1fr; }
   .about-inner { grid-template-columns: 1fr; gap: 48px; padding: 80px 24px; }
   .about-card { max-width: 360px; margin: 0 auto; }
   footer { flex-direction: column; gap: 12px; padding: 32px 24px; text-align: center; }
@@ -364,37 +346,6 @@ footer a:hover { color: var(--muted); }
       </div>
       <div class="read-viz">
         <span class="viz-state">Oversold</span>
-      </div>
-    </div>
-  </div>
-</section>
-
-<!-- ROADMAP -->
-<section class="roadmap-section">
-  <div class="roadmap-inner">
-    <div class="roadmap-head reveal">
-      <p class="section-eyebrow">Coming next</p>
-      <h2 class="serif">The alert is<br>the <em>real product.</em></h2>
-      <p class="section-sub">The dashboard gives you context when you open it. The alert gives you context when it matters — without you having to look.</p>
-    </div>
-    <div class="roadmap-grid">
-      <div class="roadmap-card featured reveal d1">
-        <div class="roadmap-card-tag">Flagship feature</div>
-        <h4 class="serif">Telegram Alerts</h4>
-        <p>When a coin crosses into statistically extreme territory — and the move is independently driven, not just Bitcoin — you get one message. No noise, no daily digests. Just the moment that's actually worth looking at, delivered before you even open the dashboard.</p>
-        <span class="roadmap-badge">In development</span>
-      </div>
-      <div class="roadmap-card minor reveal d2">
-        <div class="roadmap-card-tag">Planned</div>
-        <h4 class="serif">Circuit Breaker</h4>
-        <p>When 70%+ of the top 100 hit extreme territory simultaneously, something systemic is happening. One alert — the whole market in a single signal.</p>
-        <span class="roadmap-badge soon">Later</span>
-      </div>
-      <div class="roadmap-card minor reveal d3">
-        <div class="roadmap-card-tag">Planned</div>
-        <h4 class="serif">Historical Playback</h4>
-        <p>See what the dashboard showed on any date. Check what the Gauge read right before a major move — without survivorship bias baked in.</p>
-        <span class="roadmap-badge soon">Later</span>
       </div>
     </div>
   </div>
