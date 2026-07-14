@@ -1,6 +1,6 @@
 {
  "date": "2026-07-14",
- "generated_at": "2026-07-14T16:01:09.827550+00:00",
+ "generated_at": "2026-07-14T16:31:05.647266+00:00",
  "assets": [
   {
    "symbol": "SXT",
@@ -43,20 +43,20 @@
    "file": "FF.png"
   },
   {
-   "symbol": "XEC",
-   "name": "eCash",
-   "sigma": 2.64,
-   "from_btc_pct": 1,
-   "verdict": "Neutral",
-   "file": "XEC.png"
-  },
-  {
    "symbol": "KAITO",
    "name": "KAITO",
    "sigma": 2.63,
    "from_btc_pct": 6,
    "verdict": "Overbought",
    "file": "KAITO.png"
+  },
+  {
+   "symbol": "XEC",
+   "name": "eCash",
+   "sigma": 2.6,
+   "from_btc_pct": 3,
+   "verdict": "Neutral",
+   "file": "XEC.png"
   }
  ]
 }
