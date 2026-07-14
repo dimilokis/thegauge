@@ -163,6 +163,10 @@
   "icon": "https://coin-images.coingecko.com/coins/images/12817/large/filecoin.png?1696512609",
   "name": "Filecoin"
  },
+ "GALA": {
+  "icon": "https://coin-images.coingecko.com/coins/images/12493/large/GALA_token_image_-_200PNG.png",
+  "name": "GALA"
+ },
  "GIGGLE": {
   "icon": "https://coin-images.coingecko.com/coins/images/69414/large/giggle-fund.jpg?1758541887",
   "name": "Giggle Fund"
