@@ -399,6 +399,10 @@
   "icon": "https://coin-images.coingecko.com/coins/images/531/large/Xertra_Logo_200x200.png?1761277005",
   "name": "Xertra"
  },
+ "STRK": {
+  "icon": "https://coin-images.coingecko.com/coins/images/26433/large/starknet.png",
+  "name": "Starknet"
+ },
  "SUI": {
   "icon": "https://coin-images.coingecko.com/coins/images/26375/large/sui-ocean-square.png?1727791290",
   "name": "Sui"
