@@ -24,7 +24,7 @@
   "name": "Gensyn"
  },
  "ALGO": {
-  "icon": "https://coin-images.coingecko.com/coins/images/4380/large/download.png",
+  "icon": "https://coin-images.coingecko.com/coins/images/4380/large/download.png?1696504978",
   "name": "Algorand"
  },
  "ALLO": {
@@ -68,7 +68,7 @@
   "name": "Bitcoin Cash"
  },
  "BIO": {
-  "icon": "https://coin-images.coingecko.com/coins/images/53022/large/bio.jpg",
+  "icon": "https://coin-images.coingecko.com/coins/images/53022/large/bio.jpg?1735011002",
   "name": "Bio Protocol"
  },
  "BLUR": {
@@ -80,7 +80,7 @@
   "name": "BNB"
  },
  "BONK": {
-  "icon": "https://coin-images.coingecko.com/coins/images/28600/large/bonk.jpg",
+  "icon": "https://coin-images.coingecko.com/coins/images/28600/large/bonk.jpg?1696527587",
   "name": "Bonk"
  },
  "BTC": {
@@ -96,7 +96,7 @@
   "name": "USD.AI"
  },
  "CRV": {
-  "icon": "https://coin-images.coingecko.com/coins/images/12124/large/Curve.png",
+  "icon": "https://coin-images.coingecko.com/coins/images/12124/large/Curve.png?1696511967",
   "name": "Curve DAO"
  },
  "DASH": {
@@ -124,7 +124,7 @@
   "name": "Polkadot"
  },
  "DYDX": {
-  "icon": "https://coin-images.coingecko.com/coins/images/32594/large/dydx.png",
+  "icon": "https://coin-images.coingecko.com/coins/images/32594/large/dydx.png?1698673495",
   "name": "dYdX"
  },
  "EIGEN": {
@@ -288,7 +288,7 @@
   "name": "Pepe"
  },
  "PLUME": {
-  "icon": "https://coin-images.coingecko.com/coins/images/53623/large/plume-token.png",
+  "icon": "https://coin-images.coingecko.com/coins/images/53623/large/plume-token.png?1736896935",
   "name": "Plume"
  },
  "POL": {
@@ -320,7 +320,7 @@
   "name": "Render"
  },
  "RIF": {
-  "icon": "https://coin-images.coingecko.com/coins/images/7460/large/8befc44a46c247e8a3f7fc8abba586b1_%283%29.png",
+  "icon": "https://coin-images.coingecko.com/coins/images/7460/large/8befc44a46c247e8a3f7fc8abba586b1_%283%29.png?1705501867",
   "name": "Rootstock Infrastructure Framework"
  },
  "RLUSD": {
@@ -428,7 +428,7 @@
   "name": "Virtuals Protocol"
  },
  "WIF": {
-  "icon": "https://coin-images.coingecko.com/coins/images/33566/large/dogwifhat.jpg",
+  "icon": "https://coin-images.coingecko.com/coins/images/33566/large/dogwifhat.jpg?1702499428",
   "name": "dogwifhat"
  },
  "WLD": {
@@ -460,7 +460,7 @@
   "name": "Zama"
  },
  "ZBT": {
-  "icon": "https://coin-images.coingecko.com/coins/images/69446/large/zbt.png",
+  "icon": "https://coin-images.coingecko.com/coins/images/69446/large/zbt.png?1758621515",
   "name": "ZEROBASE"
  },
  "ZEC": {
