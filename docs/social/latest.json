@@ -1,6 +1,6 @@
 {
  "date": "2026-07-14",
- "generated_at": "2026-07-14T12:21:59.282769+00:00",
+ "generated_at": "2026-07-14T12:31:01.774172+00:00",
  "assets": [
   {
    "symbol": "SXT",
@@ -9,6 +9,14 @@
    "from_btc_pct": 2,
    "verdict": "Neutral",
    "file": "SXT.png"
+  },
+  {
+   "symbol": "EGLD",
+   "name": "MultiversX",
+   "sigma": 2.78,
+   "from_btc_pct": 35,
+   "verdict": "Neutral",
+   "file": "EGLD.png"
   },
   {
    "symbol": "DCR",
@@ -33,14 +41,6 @@
    "from_btc_pct": 1,
    "verdict": "Neutral",
    "file": "FF.png"
-  },
-  {
-   "symbol": "EGLD",
-   "name": "MultiversX",
-   "sigma": 2.62,
-   "from_btc_pct": 29,
-   "verdict": "Neutral",
-   "file": "EGLD.png"
   },
   {
    "symbol": "XEC",
