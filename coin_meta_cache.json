@@ -131,6 +131,10 @@
   "icon": "https://coin-images.coingecko.com/coins/images/32594/large/dydx.png?1698673495",
   "name": "dYdX"
  },
+ "EDU": {
+  "icon": "https://coin-images.coingecko.com/coins/images/29948/large/EDU_Logo.png",
+  "name": "Open Campus"
+ },
  "EGLD": {
   "icon": "https://coin-images.coingecko.com/coins/images/12335/large/egld-token-logo.png",
   "name": "MultiversX"
