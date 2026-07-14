@@ -1,6 +1,6 @@
 {
  "date": "2026-07-14",
- "generated_at": "2026-07-14T09:31:07.439477+00:00",
+ "generated_at": "2026-07-14T11:01:05.834087+00:00",
  "assets": [
   {
    "symbol": "SXT",
@@ -25,6 +25,14 @@
    "from_btc_pct": 15,
    "verdict": "Neutral",
    "file": "DCR.png"
+  },
+  {
+   "symbol": "TOWNS",
+   "name": "Towns",
+   "sigma": 2.7,
+   "from_btc_pct": 2,
+   "verdict": "Oversold",
+   "file": "TOWNS.png"
   },
   {
    "symbol": "FF",
