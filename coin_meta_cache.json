@@ -143,6 +143,10 @@
   "icon": "https://coin-images.coingecko.com/coins/images/54734/large/PFP.png?1753421273",
   "name": "Epic Chain"
  },
+ "ESP": {
+  "icon": "https://coin-images.coingecko.com/coins/images/67626/large/espresso.jpg",
+  "name": "Espresso"
+ },
  "ETC": {
   "icon": "https://coin-images.coingecko.com/coins/images/453/large/ethereum-classic-logo.png?1696501717",
   "name": "Ethereum Classic"
