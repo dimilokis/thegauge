@@ -1,6 +1,6 @@
 {
  "date": "2026-07-14",
- "generated_at": "2026-07-14T08:01:10.417930+00:00",
+ "generated_at": "2026-07-14T09:15:49.658612+00:00",
  "assets": [
   {
    "symbol": "SXT",
@@ -17,6 +17,14 @@
    "from_btc_pct": 0,
    "verdict": "Neutral",
    "file": "XEC.png"
+  },
+  {
+   "symbol": "DCR",
+   "name": "Decred",
+   "sigma": 2.75,
+   "from_btc_pct": 15,
+   "verdict": "Neutral",
+   "file": "DCR.png"
   },
   {
    "symbol": "EGLD",
