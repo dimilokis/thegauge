@@ -1,46 +1,14 @@
 {
- "date": "2026-07-13",
- "generated_at": "2026-07-13T23:33:12.416029+00:00",
+ "date": "2026-07-14",
+ "generated_at": "2026-07-14T06:31:07.625268+00:00",
  "assets": [
   {
-   "symbol": "XEC",
-   "name": "eCash",
-   "sigma": 13.36,
-   "from_btc_pct": 0,
-   "verdict": "Neutral",
-   "file": "XEC.png"
-  },
-  {
-   "symbol": "LUMIA",
-   "name": "Lumia",
-   "sigma": 4.75,
-   "from_btc_pct": 10,
-   "verdict": "Oversold",
-   "file": "LUMIA.png"
-  },
-  {
-   "symbol": "DCR",
-   "name": "Decred",
-   "sigma": 2.99,
-   "from_btc_pct": 10,
-   "verdict": "Neutral",
-   "file": "DCR.png"
-  },
-  {
-   "symbol": "KITE",
-   "name": "Kite",
-   "sigma": 2.61,
-   "from_btc_pct": 6,
-   "verdict": "Neutral",
-   "file": "KITE.png"
-  },
-  {
-   "symbol": "ZBT",
-   "name": "ZEROBASE",
-   "sigma": 2.54,
+   "symbol": "SXT",
+   "name": "Space and Time",
+   "sigma": 3.64,
    "from_btc_pct": 2,
    "verdict": "Neutral",
-   "file": "ZBT.png"
+   "file": "SXT.png"
   }
  ]
 }
