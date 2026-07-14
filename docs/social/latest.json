@@ -1,6 +1,6 @@
 {
  "date": "2026-07-14",
- "generated_at": "2026-07-14T20:01:15.085295+00:00",
+ "generated_at": "2026-07-14T20:15:49.745087+00:00",
  "assets": [
   {
    "symbol": "PORTO",
@@ -70,7 +70,7 @@
    "symbol": "TOWNS",
    "name": "Towns",
    "sigma": 2.5,
-   "from_btc_pct": 8,
+   "from_btc_pct": 7,
    "verdict": "Oversold",
    "file": "TOWNS.png"
   }
