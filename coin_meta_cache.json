@@ -199,6 +199,10 @@
   "icon": "https://coin-images.coingecko.com/coins/images/39102/large/hamster-removebg-preview.png?1720514486",
   "name": "Hamster Kombat"
  },
+ "HOME": {
+  "icon": "https://coin-images.coingecko.com/coins/images/54873/large/defi-app.png",
+  "name": "HOME"
+ },
  "HOT": {
   "icon": "https://coin-images.coingecko.com/coins/images/3348/large/hot-mark-med.png?1747766692",
   "name": "Holo"

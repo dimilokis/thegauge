@@ -1,6 +1,6 @@
 {
  "date": "2026-07-14",
- "generated_at": "2026-07-14T19:45:48.076418+00:00",
+ "generated_at": "2026-07-14T20:01:15.085295+00:00",
  "assets": [
   {
    "symbol": "PORTO",
@@ -57,6 +57,14 @@
    "from_btc_pct": 3,
    "verdict": "Neutral",
    "file": "XEC.png"
+  },
+  {
+   "symbol": "ZBT",
+   "name": "ZEROBASE",
+   "sigma": 2.52,
+   "from_btc_pct": 7,
+   "verdict": "Oversold",
+   "file": "ZBT.png"
   },
   {
    "symbol": "TOWNS",
