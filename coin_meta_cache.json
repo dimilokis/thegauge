@@ -227,6 +227,10 @@
   "icon": "https://coin-images.coingecko.com/coins/images/13573/large/Lido_DAO.png?1696513326",
   "name": "Lido DAO"
  },
+ "LINEA": {
+  "icon": "https://coin-images.coingecko.com/coins/images/68507/large/linea-logo.jpeg",
+  "name": "Linea"
+ },
  "LINK": {
   "icon": "https://coin-images.coingecko.com/coins/images/877/large/Chainlink_Logo_500.png?1760023405",
   "name": "Chainlink"
