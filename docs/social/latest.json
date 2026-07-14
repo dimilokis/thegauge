@@ -1,7 +1,15 @@
 {
  "date": "2026-07-14",
- "generated_at": "2026-07-14T18:01:11.154674+00:00",
+ "generated_at": "2026-07-14T19:15:50.529416+00:00",
  "assets": [
+  {
+   "symbol": "PORTO",
+   "name": "FC Porto",
+   "sigma": 22.7,
+   "from_btc_pct": 29,
+   "verdict": "Neutral",
+   "file": "PORTO.png"
+  },
   {
    "symbol": "DCR",
    "name": "Decred",

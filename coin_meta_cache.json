@@ -231,6 +231,10 @@
   "icon": "https://coin-images.coingecko.com/coins/images/70426/large/KITE-ICON.png?1762328605",
   "name": "Kite"
  },
+ "LAZIO": {
+  "icon": "https://coin-images.coingecko.com/coins/images/19263/large/B4Lla6V6_400x400.png",
+  "name": "Lazio Fan Token"
+ },
  "LDO": {
   "icon": "https://coin-images.coingecko.com/coins/images/13573/large/Lido_DAO.png?1696513326",
   "name": "Lido DAO"
@@ -322,6 +326,10 @@
  "POL": {
   "icon": "https://coin-images.coingecko.com/coins/images/32440/large/pol.png?1759114181",
   "name": "POL (ex-MATIC)"
+ },
+ "PORTO": {
+  "icon": "https://coin-images.coingecko.com/coins/images/20459/large/fcp.jpg",
+  "name": "FC Porto"
  },
  "PUMP": {
   "icon": "https://coin-images.coingecko.com/coins/images/67164/large/pump.jpg?1751949376",
