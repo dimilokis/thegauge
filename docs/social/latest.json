@@ -1,6 +1,6 @@
 {
  "date": "2026-07-14",
- "generated_at": "2026-07-14T06:31:07.625268+00:00",
+ "generated_at": "2026-07-14T07:01:01.681168+00:00",
  "assets": [
   {
    "symbol": "SXT",
@@ -9,6 +9,14 @@
    "from_btc_pct": 2,
    "verdict": "Neutral",
    "file": "SXT.png"
+  },
+  {
+   "symbol": "EGLD",
+   "name": "MultiversX",
+   "sigma": 2.62,
+   "from_btc_pct": 29,
+   "verdict": "Neutral",
+   "file": "EGLD.png"
   }
  ]
 }
