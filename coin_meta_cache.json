@@ -127,6 +127,10 @@
   "icon": "https://coin-images.coingecko.com/coins/images/32594/large/dydx.png?1698673495",
   "name": "dYdX"
  },
+ "EGLD": {
+  "icon": "https://coin-images.coingecko.com/coins/images/12335/large/egld-token-logo.png",
+  "name": "MultiversX"
+ },
  "EIGEN": {
   "icon": "https://coin-images.coingecko.com/coins/images/37441/large/eigencloud.jpg?1751003565",
   "name": "EigenCloud (prev. EigenLayer)"
