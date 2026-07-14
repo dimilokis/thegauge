@@ -99,6 +99,10 @@
   "icon": "https://coin-images.coingecko.com/coins/images/12124/large/Curve.png?1696511967",
   "name": "Curve DAO"
  },
+ "CVX": {
+  "icon": "https://coin-images.coingecko.com/coins/images/15585/large/convex.png",
+  "name": "Convex Finance"
+ },
  "DASH": {
   "icon": "https://coin-images.coingecko.com/coins/images/19/large/dash-logo.png?1696501423",
   "name": "Dash"
