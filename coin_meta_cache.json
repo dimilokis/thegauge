@@ -435,6 +435,10 @@
   "icon": "https://coin-images.coingecko.com/coins/images/51091/large/USUAL.jpg?1730035787",
   "name": "Usual"
  },
+ "VANA": {
+  "icon": "https://coin-images.coingecko.com/coins/images/51404/large/logo.png",
+  "name": "Vana"
+ },
  "VANRY": {
   "icon": "https://coin-images.coingecko.com/coins/images/33466/large/apple-touch-icon.png?1701942541",
   "name": "Vanar Chain"
