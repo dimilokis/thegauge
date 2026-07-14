@@ -1,6 +1,6 @@
 {
  "date": "2026-07-14",
- "generated_at": "2026-07-14T11:01:05.834087+00:00",
+ "generated_at": "2026-07-14T12:21:59.282769+00:00",
  "assets": [
   {
    "symbol": "SXT",
@@ -11,18 +11,10 @@
    "file": "SXT.png"
   },
   {
-   "symbol": "XEC",
-   "name": "eCash",
-   "sigma": 2.79,
-   "from_btc_pct": 0,
-   "verdict": "Neutral",
-   "file": "XEC.png"
-  },
-  {
    "symbol": "DCR",
    "name": "Decred",
    "sigma": 2.75,
-   "from_btc_pct": 15,
+   "from_btc_pct": 16,
    "verdict": "Neutral",
    "file": "DCR.png"
   },
@@ -49,6 +41,14 @@
    "from_btc_pct": 29,
    "verdict": "Neutral",
    "file": "EGLD.png"
+  },
+  {
+   "symbol": "XEC",
+   "name": "eCash",
+   "sigma": 2.56,
+   "from_btc_pct": 0,
+   "verdict": "Neutral",
+   "file": "XEC.png"
   }
  ]
 }
