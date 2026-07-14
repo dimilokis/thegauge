@@ -1,6 +1,6 @@
 {
  "date": "2026-07-14",
- "generated_at": "2026-07-14T12:31:01.774172+00:00",
+ "generated_at": "2026-07-14T13:15:50.756704+00:00",
  "assets": [
   {
    "symbol": "SXT",
@@ -9,6 +9,14 @@
    "from_btc_pct": 2,
    "verdict": "Neutral",
    "file": "SXT.png"
+  },
+  {
+   "symbol": "TOWNS",
+   "name": "Towns",
+   "sigma": 3.51,
+   "from_btc_pct": 6,
+   "verdict": "Neutral",
+   "file": "TOWNS.png"
   },
   {
    "symbol": "EGLD",
@@ -25,14 +33,6 @@
    "from_btc_pct": 16,
    "verdict": "Neutral",
    "file": "DCR.png"
-  },
-  {
-   "symbol": "TOWNS",
-   "name": "Towns",
-   "sigma": 2.7,
-   "from_btc_pct": 2,
-   "verdict": "Oversold",
-   "file": "TOWNS.png"
   },
   {
    "symbol": "FF",
