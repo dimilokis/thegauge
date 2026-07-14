@@ -1,6 +1,6 @@
 {
  "date": "2026-07-14",
- "generated_at": "2026-07-14T14:15:50.666997+00:00",
+ "generated_at": "2026-07-14T15:31:08.193080+00:00",
  "assets": [
   {
    "symbol": "SXT",
@@ -49,6 +49,14 @@
    "from_btc_pct": 1,
    "verdict": "Neutral",
    "file": "XEC.png"
+  },
+  {
+   "symbol": "KAITO",
+   "name": "KAITO",
+   "sigma": 2.63,
+   "from_btc_pct": 6,
+   "verdict": "Overbought",
+   "file": "KAITO.png"
   }
  ]
 }
