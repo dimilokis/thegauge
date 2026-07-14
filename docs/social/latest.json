@@ -1,6 +1,6 @@
 {
  "date": "2026-07-14",
- "generated_at": "2026-07-14T20:15:49.745087+00:00",
+ "generated_at": "2026-07-14T20:45:49.035879+00:00",
  "assets": [
   {
    "symbol": "PORTO",
@@ -9,14 +9,6 @@
    "from_btc_pct": 29,
    "verdict": "Neutral",
    "file": "PORTO.png"
-  },
-  {
-   "symbol": "DCR",
-   "name": "Decred",
-   "sigma": 3.98,
-   "from_btc_pct": 26,
-   "verdict": "Neutral",
-   "file": "DCR.png"
   },
   {
    "symbol": "SXT",
@@ -65,6 +57,14 @@
    "from_btc_pct": 7,
    "verdict": "Oversold",
    "file": "ZBT.png"
+  },
+  {
+   "symbol": "DCR",
+   "name": "Decred",
+   "sigma": 2.52,
+   "from_btc_pct": 23,
+   "verdict": "Neutral",
+   "file": "DCR.png"
   },
   {
    "symbol": "TOWNS",
