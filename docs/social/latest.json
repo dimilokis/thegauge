@@ -1,6 +1,6 @@
 {
  "date": "2026-07-14",
- "generated_at": "2026-07-14T16:31:05.647266+00:00",
+ "generated_at": "2026-07-14T17:01:08.652460+00:00",
  "assets": [
   {
    "symbol": "SXT",
@@ -13,8 +13,8 @@
   {
    "symbol": "DCR",
    "name": "Decred",
-   "sigma": 3.03,
-   "from_btc_pct": 21,
+   "sigma": 3.15,
+   "from_btc_pct": 25,
    "verdict": "Neutral",
    "file": "DCR.png"
   },
