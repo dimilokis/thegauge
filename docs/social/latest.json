@@ -1,6 +1,6 @@
 {
  "date": "2026-07-14",
- "generated_at": "2026-07-14T13:15:50.756704+00:00",
+ "generated_at": "2026-07-14T13:45:48.309122+00:00",
  "assets": [
   {
    "symbol": "SXT",
@@ -19,20 +19,20 @@
    "file": "TOWNS.png"
   },
   {
+   "symbol": "DCR",
+   "name": "Decred",
+   "sigma": 3.03,
+   "from_btc_pct": 21,
+   "verdict": "Neutral",
+   "file": "DCR.png"
+  },
+  {
    "symbol": "EGLD",
    "name": "MultiversX",
    "sigma": 2.78,
    "from_btc_pct": 35,
    "verdict": "Neutral",
    "file": "EGLD.png"
-  },
-  {
-   "symbol": "DCR",
-   "name": "Decred",
-   "sigma": 2.75,
-   "from_btc_pct": 16,
-   "verdict": "Neutral",
-   "file": "DCR.png"
   },
   {
    "symbol": "FF",
