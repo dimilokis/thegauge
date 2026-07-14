@@ -1,6 +1,6 @@
 {
  "date": "2026-07-14",
- "generated_at": "2026-07-14T13:45:48.309122+00:00",
+ "generated_at": "2026-07-14T14:15:50.666997+00:00",
  "assets": [
   {
    "symbol": "SXT",
@@ -45,8 +45,8 @@
   {
    "symbol": "XEC",
    "name": "eCash",
-   "sigma": 2.56,
-   "from_btc_pct": 0,
+   "sigma": 2.64,
+   "from_btc_pct": 1,
    "verdict": "Neutral",
    "file": "XEC.png"
   }
