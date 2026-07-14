@@ -355,6 +355,10 @@
   "icon": "https://coin-images.coingecko.com/coins/images/6595/large/THORChain_RUNE_Token.png?1782452363",
   "name": "THORChain"
  },
+ "SEI": {
+  "icon": "https://coin-images.coingecko.com/coins/images/28205/large/Sei_Logo_-_Transparent.png",
+  "name": "Sei"
+ },
  "SENT": {
   "icon": "https://coin-images.coingecko.com/coins/images/70508/large/SENTIENT-Icon-BlushForce-L.png?1762267532",
   "name": "Sentient"
