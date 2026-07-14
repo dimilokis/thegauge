@@ -415,6 +415,10 @@
   "icon": "https://coin-images.coingecko.com/coins/images/35972/large/tnsr.png",
   "name": "Tensor"
  },
+ "TOWNS": {
+  "icon": "https://coin-images.coingecko.com/coins/images/55230/large/Towns_token_2x.png",
+  "name": "Towns"
+ },
  "TREE": {
   "icon": "https://coin-images.coingecko.com/coins/images/67664/large/TREE_logo.png?1753601041",
   "name": "Treehouse"
