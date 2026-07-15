@@ -1,7 +1,15 @@
 {
  "date": "2026-07-15",
- "generated_at": "2026-07-15T17:01:11.005139+00:00",
+ "generated_at": "2026-07-15T17:31:02.438629+00:00",
  "assets": [
+  {
+   "symbol": "SKL",
+   "name": "SKALE",
+   "sigma": 5.32,
+   "from_btc_pct": 11,
+   "verdict": "Neutral",
+   "file": "SKL.png"
+  },
   {
    "symbol": "ALPINE",
    "name": "Alpine F1 Team Fan Token",
