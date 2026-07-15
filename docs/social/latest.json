@@ -1,6 +1,6 @@
 {
  "date": "2026-07-15",
- "generated_at": "2026-07-15T09:15:44.040376+00:00",
+ "generated_at": "2026-07-15T11:31:04.272039+00:00",
  "assets": [
   {
    "symbol": "ALPINE",
@@ -9,6 +9,14 @@
    "from_btc_pct": 32,
    "verdict": "Neutral",
    "file": "ALPINE.png"
+  },
+  {
+   "symbol": "0G",
+   "name": "0G",
+   "sigma": 3.05,
+   "from_btc_pct": 24,
+   "verdict": "Oversold",
+   "file": "0G.png"
   },
   {
    "symbol": "GNO",
