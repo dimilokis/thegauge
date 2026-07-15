@@ -379,6 +379,10 @@
   "icon": "https://coin-images.coingecko.com/coins/images/6595/large/THORChain_RUNE_Token.png?1782452363",
   "name": "THORChain"
  },
+ "SANTOS": {
+  "icon": "https://coin-images.coingecko.com/coins/images/21132/large/santos.png",
+  "name": "Santos FC Fan Token"
+ },
  "SEI": {
   "icon": "https://coin-images.coingecko.com/coins/images/28205/large/Sei_Logo_-_Transparent.png?1696527207",
   "name": "Sei"
