@@ -1,6 +1,6 @@
 {
  "date": "2026-07-15",
- "generated_at": "2026-07-15T20:15:46.870773+00:00",
+ "generated_at": "2026-07-15T20:45:48.159204+00:00",
  "assets": [
   {
    "symbol": "SKL",
@@ -65,6 +65,14 @@
    "from_btc_pct": 9,
    "verdict": "Neutral",
    "file": "VANA.png"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Lorenzo Protocol",
+   "sigma": 2.68,
+   "from_btc_pct": 3,
+   "verdict": "Overbought",
+   "file": "BANK.png"
   },
   {
    "symbol": "DODO",
