@@ -1,6 +1,6 @@
 {
  "date": "2026-07-15",
- "generated_at": "2026-07-15T21:01:03.657579+00:00",
+ "generated_at": "2026-07-15T23:01:04.852934+00:00",
  "assets": [
   {
    "symbol": "SKL",
@@ -19,14 +19,6 @@
    "file": "ALPINE.png"
   },
   {
-   "symbol": "0G",
-   "name": "0G",
-   "sigma": 3.05,
-   "from_btc_pct": 27,
-   "verdict": "Oversold",
-   "file": "0G.png"
-  },
-  {
    "symbol": "FF",
    "name": "Falcon Finance",
    "sigma": 3.0,
@@ -41,14 +33,6 @@
    "from_btc_pct": 16,
    "verdict": "Overbought",
    "file": "GNO.png"
-  },
-  {
-   "symbol": "PORTO",
-   "name": "FC Porto",
-   "sigma": 2.91,
-   "from_btc_pct": 30,
-   "verdict": "Neutral",
-   "file": "PORTO.png"
   },
   {
    "symbol": "ETHFI",
@@ -67,6 +51,14 @@
    "file": "VANA.png"
   },
   {
+   "symbol": "HOME",
+   "name": "HOME",
+   "sigma": 2.69,
+   "from_btc_pct": 0,
+   "verdict": "Oversold",
+   "file": "HOME.png"
+  },
+  {
    "symbol": "BANK",
    "name": "Lorenzo Protocol",
    "sigma": 2.68,
@@ -83,6 +75,14 @@
    "file": "DODO.png"
   },
   {
+   "symbol": "PORTO",
+   "name": "FC Porto",
+   "sigma": 2.67,
+   "from_btc_pct": 31,
+   "verdict": "Neutral",
+   "file": "PORTO.png"
+  },
+  {
    "symbol": "XEC",
    "name": "eCash",
    "sigma": 2.64,
@@ -91,12 +91,12 @@
    "file": "XEC.png"
   },
   {
-   "symbol": "ONDO",
-   "name": "Ondo",
-   "sigma": 2.62,
-   "from_btc_pct": 14,
-   "verdict": "Neutral",
-   "file": "ONDO.png"
+   "symbol": "0G",
+   "name": "0G",
+   "sigma": 2.64,
+   "from_btc_pct": 27,
+   "verdict": "Oversold",
+   "file": "0G.png"
   }
  ]
 }
