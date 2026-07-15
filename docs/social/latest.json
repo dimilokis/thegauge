@@ -1,6 +1,6 @@
 {
  "date": "2026-07-15",
- "generated_at": "2026-07-15T16:01:08.755296+00:00",
+ "generated_at": "2026-07-15T16:07:43.506436+00:00",
  "assets": [
   {
    "symbol": "ALPINE",
@@ -53,7 +53,7 @@
   {
    "symbol": "DODO",
    "name": "DODO",
-   "sigma": 2.54,
+   "sigma": 2.63,
    "from_btc_pct": 1,
    "verdict": "Overbought",
    "file": "DODO.png"
