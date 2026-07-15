@@ -299,6 +299,10 @@
   "icon": "https://coin-images.coingecko.com/coins/images/10365/large/near.jpg?1696510367",
   "name": "NEAR Protocol"
  },
+ "NIGHT": {
+  "icon": "https://coin-images.coingecko.com/coins/images/71015/large/midnight.png",
+  "name": "Midnight"
+ },
  "OGN": {
   "icon": "https://coin-images.coingecko.com/coins/images/3296/large/op.jpg?1696504006",
   "name": "Origin Token"
