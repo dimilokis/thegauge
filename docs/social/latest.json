@@ -1,6 +1,6 @@
 {
  "date": "2026-07-15",
- "generated_at": "2026-07-15T15:30:59.825568+00:00",
+ "generated_at": "2026-07-15T16:01:08.755296+00:00",
  "assets": [
   {
    "symbol": "ALPINE",
@@ -51,20 +51,20 @@
    "file": "XEC.png"
   },
   {
-   "symbol": "ETHFI",
-   "name": "Ether.fi",
-   "sigma": 2.58,
-   "from_btc_pct": 9,
-   "verdict": "Overbought",
-   "file": "ETHFI.png"
-  },
-  {
    "symbol": "DODO",
    "name": "DODO",
    "sigma": 2.54,
    "from_btc_pct": 1,
    "verdict": "Overbought",
    "file": "DODO.png"
+  },
+  {
+   "symbol": "ETHFI",
+   "name": "Ether.fi",
+   "sigma": 2.5,
+   "from_btc_pct": 9,
+   "verdict": "Overbought",
+   "file": "ETHFI.png"
   }
  ]
 }
