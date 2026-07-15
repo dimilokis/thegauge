@@ -1,6 +1,6 @@
 {
  "date": "2026-07-15",
- "generated_at": "2026-07-15T23:38:11.563272+00:00",
+ "generated_at": "2026-07-15T23:45:45.541047+00:00",
  "assets": [
   {
    "symbol": "SKL",
@@ -94,7 +94,7 @@
    "symbol": "0G",
    "name": "0G",
    "sigma": 2.64,
-   "from_btc_pct": 27,
+   "from_btc_pct": 26,
    "verdict": "Oversold",
    "file": "0G.png"
   }
