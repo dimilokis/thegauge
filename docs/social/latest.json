@@ -1,6 +1,6 @@
 {
  "date": "2026-07-15",
- "generated_at": "2026-07-15T20:45:48.159204+00:00",
+ "generated_at": "2026-07-15T21:01:03.657579+00:00",
  "assets": [
   {
    "symbol": "SKL",
@@ -91,12 +91,12 @@
    "file": "XEC.png"
   },
   {
-   "symbol": "PUMP",
-   "name": "Pump.fun",
-   "sigma": 2.56,
-   "from_btc_pct": 18,
+   "symbol": "ONDO",
+   "name": "Ondo",
+   "sigma": 2.62,
+   "from_btc_pct": 14,
    "verdict": "Neutral",
-   "file": "PUMP.png"
+   "file": "ONDO.png"
   }
  ]
 }
