@@ -283,6 +283,10 @@
   "icon": "https://coin-images.coingecko.com/coins/images/69995/large/9fcb2fa4-b240-46e2-9016-c4f6101a139d.jpeg?1778485816",
   "name": "MegaETH"
  },
+ "MET": {
+  "icon": "https://coin-images.coingecko.com/coins/images/69110/large/meteora.png",
+  "name": "Meteora"
+ },
  "MMT": {
   "icon": "https://coin-images.coingecko.com/coins/images/69899/large/4_icon_PFP_RGB.png?1762090516",
   "name": "Momentum"
