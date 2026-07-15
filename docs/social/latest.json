@@ -1,6 +1,6 @@
 {
  "date": "2026-07-15",
- "generated_at": "2026-07-15T04:31:02.989476+00:00",
+ "generated_at": "2026-07-15T05:15:45.149106+00:00",
  "assets": [
   {
    "symbol": "VANA",
@@ -13,7 +13,7 @@
   {
    "symbol": "XEC",
    "name": "eCash",
-   "sigma": 2.6,
+   "sigma": 2.51,
    "from_btc_pct": 4,
    "verdict": "Neutral",
    "file": "XEC.png"
