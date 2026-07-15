@@ -1,78 +1,14 @@
 {
- "date": "2026-07-14",
- "generated_at": "2026-07-14T22:15:46.754470+00:00",
+ "date": "2026-07-15",
+ "generated_at": "2026-07-15T04:01:05.837080+00:00",
  "assets": [
-  {
-   "symbol": "PORTO",
-   "name": "FC Porto",
-   "sigma": 22.7,
-   "from_btc_pct": 29,
-   "verdict": "Neutral",
-   "file": "PORTO.png"
-  },
-  {
-   "symbol": "SXT",
-   "name": "Space and Time",
-   "sigma": 3.64,
-   "from_btc_pct": 2,
-   "verdict": "Neutral",
-   "file": "SXT.png"
-  },
-  {
-   "symbol": "EGLD",
-   "name": "MultiversX",
-   "sigma": 2.78,
-   "from_btc_pct": 35,
-   "verdict": "Neutral",
-   "file": "EGLD.png"
-  },
-  {
-   "symbol": "FF",
-   "name": "Falcon Finance",
-   "sigma": 2.69,
-   "from_btc_pct": 1,
-   "verdict": "Neutral",
-   "file": "FF.png"
-  },
-  {
-   "symbol": "KAITO",
-   "name": "KAITO",
-   "sigma": 2.63,
-   "from_btc_pct": 6,
-   "verdict": "Overbought",
-   "file": "KAITO.png"
-  },
   {
    "symbol": "XEC",
    "name": "eCash",
    "sigma": 2.6,
-   "from_btc_pct": 3,
+   "from_btc_pct": 4,
    "verdict": "Neutral",
    "file": "XEC.png"
-  },
-  {
-   "symbol": "ZBT",
-   "name": "ZEROBASE",
-   "sigma": 2.57,
-   "from_btc_pct": 7,
-   "verdict": "Oversold",
-   "file": "ZBT.png"
-  },
-  {
-   "symbol": "DCR",
-   "name": "Decred",
-   "sigma": 2.52,
-   "from_btc_pct": 23,
-   "verdict": "Neutral",
-   "file": "DCR.png"
-  },
-  {
-   "symbol": "TOWNS",
-   "name": "Towns",
-   "sigma": 2.5,
-   "from_btc_pct": 7,
-   "verdict": "Oversold",
-   "file": "TOWNS.png"
   }
  ]
 }
