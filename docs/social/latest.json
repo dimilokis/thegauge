@@ -1,6 +1,6 @@
 {
  "date": "2026-07-15",
- "generated_at": "2026-07-15T08:01:05.338174+00:00",
+ "generated_at": "2026-07-15T08:15:44.469687+00:00",
  "assets": [
   {
    "symbol": "ALPINE",
@@ -9,6 +9,14 @@
    "from_btc_pct": 32,
    "verdict": "Neutral",
    "file": "ALPINE.png"
+  },
+  {
+   "symbol": "GNO",
+   "name": "Gnosis",
+   "sigma": 2.92,
+   "from_btc_pct": 16,
+   "verdict": "Overbought",
+   "file": "GNO.png"
   },
   {
    "symbol": "VANA",
