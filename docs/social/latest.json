@@ -1,6 +1,6 @@
 {
  "date": "2026-07-15",
- "generated_at": "2026-07-15T17:31:02.438629+00:00",
+ "generated_at": "2026-07-15T18:01:08.197932+00:00",
  "assets": [
   {
    "symbol": "SKL",
@@ -69,8 +69,8 @@
   {
    "symbol": "ETHFI",
    "name": "Ether.fi",
-   "sigma": 2.5,
-   "from_btc_pct": 9,
+   "sigma": 2.58,
+   "from_btc_pct": 8,
    "verdict": "Overbought",
    "file": "ETHFI.png"
   }
