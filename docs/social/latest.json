@@ -1,6 +1,6 @@
 {
  "date": "2026-07-15",
- "generated_at": "2026-07-15T18:49:32.654485+00:00",
+ "generated_at": "2026-07-15T20:03:34.307535+00:00",
  "assets": [
   {
    "symbol": "SKL",
@@ -41,6 +41,14 @@
    "from_btc_pct": 16,
    "verdict": "Overbought",
    "file": "GNO.png"
+  },
+  {
+   "symbol": "PORTO",
+   "name": "FC Porto",
+   "sigma": 2.91,
+   "from_btc_pct": 30,
+   "verdict": "Neutral",
+   "file": "PORTO.png"
   },
   {
    "symbol": "ETHFI",
