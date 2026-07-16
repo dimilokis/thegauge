@@ -1,12 +1,12 @@
 {
  "date": "2026-07-16",
- "generated_at": "2026-07-16T10:45:54.408361+00:00",
+ "generated_at": "2026-07-16T11:15:46.951921+00:00",
  "assets": [
   {
    "symbol": "DGB",
    "name": "DigiByte",
-   "sigma": 13.02,
-   "from_btc_pct": 5,
+   "sigma": 14.03,
+   "from_btc_pct": 4,
    "verdict": "Overbought",
    "file": "DGB.png"
   },
