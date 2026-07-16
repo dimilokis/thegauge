@@ -1,11 +1,11 @@
 {
  "date": "2026-07-16",
- "generated_at": "2026-07-16T09:31:03.644425+00:00",
+ "generated_at": "2026-07-16T09:45:43.109106+00:00",
  "assets": [
   {
    "symbol": "HOME",
    "name": "HOME",
-   "sigma": 2.53,
+   "sigma": 2.59,
    "from_btc_pct": 0,
    "verdict": "Oversold",
    "file": "HOME.png"
