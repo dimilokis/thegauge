@@ -1,6 +1,6 @@
 {
  "date": "2026-07-16",
- "generated_at": "2026-07-16T21:30:53.358650+00:00",
+ "generated_at": "2026-07-16T21:42:28.422372+00:00",
  "assets": [
   {
    "symbol": "DGB",
@@ -27,20 +27,20 @@
    "file": "BAR.png"
   },
   {
+   "symbol": "BANK",
+   "name": "Lorenzo Protocol",
+   "sigma": 2.61,
+   "from_btc_pct": 1,
+   "verdict": "Overbought",
+   "file": "BANK.png"
+  },
+  {
    "symbol": "HOME",
    "name": "HOME",
    "sigma": 2.59,
    "from_btc_pct": 0,
    "verdict": "Oversold",
    "file": "HOME.png"
-  },
-  {
-   "symbol": "BANK",
-   "name": "Lorenzo Protocol",
-   "sigma": 2.52,
-   "from_btc_pct": 1,
-   "verdict": "Overbought",
-   "file": "BANK.png"
   }
  ]
 }
