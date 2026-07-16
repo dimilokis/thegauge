@@ -1,6 +1,6 @@
 {
  "date": "2026-07-16",
- "generated_at": "2026-07-16T21:42:28.422372+00:00",
+ "generated_at": "2026-07-16T22:44:16.440764+00:00",
  "assets": [
   {
    "symbol": "DGB",
@@ -41,6 +41,14 @@
    "from_btc_pct": 0,
    "verdict": "Oversold",
    "file": "HOME.png"
+  },
+  {
+   "symbol": "KAITO",
+   "name": "KAITO",
+   "sigma": 2.53,
+   "from_btc_pct": 9,
+   "verdict": "Overbought",
+   "file": "KAITO.png"
   }
  ]
 }
