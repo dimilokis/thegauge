@@ -79,6 +79,10 @@
   "icon": "https://coin-images.coingecko.com/coins/images/55250/large/lorenzo.jpg?1744963693",
   "name": "Lorenzo Protocol"
  },
+ "BAR": {
+  "icon": "https://coin-images.coingecko.com/coins/images/11693/large/BAR.png",
+  "name": "FC Barcelona Fan Token"
+ },
  "BCH": {
   "icon": "https://coin-images.coingecko.com/coins/images/780/large/bitcoin-cash-circle.png?1696501932",
   "name": "Bitcoin Cash"

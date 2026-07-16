@@ -1,7 +1,15 @@
 {
  "date": "2026-07-16",
- "generated_at": "2026-07-16T09:45:43.109106+00:00",
+ "generated_at": "2026-07-16T10:01:08.341341+00:00",
  "assets": [
+  {
+   "symbol": "BAR",
+   "name": "FC Barcelona Fan Token",
+   "sigma": 7.37,
+   "from_btc_pct": 6,
+   "verdict": "Neutral",
+   "file": "BAR.png"
+  },
   {
    "symbol": "HOME",
    "name": "HOME",
