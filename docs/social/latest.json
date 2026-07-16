@@ -1,6 +1,6 @@
 {
  "date": "2026-07-16",
- "generated_at": "2026-07-16T14:15:48.759730+00:00",
+ "generated_at": "2026-07-16T15:00:55.100657+00:00",
  "assets": [
   {
    "symbol": "DGB",
@@ -21,8 +21,8 @@
   {
    "symbol": "BAR",
    "name": "FC Barcelona Fan Token",
-   "sigma": 7.37,
-   "from_btc_pct": 6,
+   "sigma": 3.56,
+   "from_btc_pct": 16,
    "verdict": "Neutral",
    "file": "BAR.png"
   },
