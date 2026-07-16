@@ -1,7 +1,15 @@
 {
  "date": "2026-07-16",
- "generated_at": "2026-07-16T10:01:08.341341+00:00",
+ "generated_at": "2026-07-16T10:45:54.408361+00:00",
  "assets": [
+  {
+   "symbol": "DGB",
+   "name": "DigiByte",
+   "sigma": 13.02,
+   "from_btc_pct": 5,
+   "verdict": "Overbought",
+   "file": "DGB.png"
+  },
   {
    "symbol": "BAR",
    "name": "FC Barcelona Fan Token",
