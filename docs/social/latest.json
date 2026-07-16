@@ -1,6 +1,6 @@
 {
  "date": "2026-07-16",
- "generated_at": "2026-07-16T13:31:02.154401+00:00",
+ "generated_at": "2026-07-16T14:15:48.759730+00:00",
  "assets": [
   {
    "symbol": "DGB",
@@ -9,6 +9,14 @@
    "from_btc_pct": 4,
    "verdict": "Overbought",
    "file": "DGB.png"
+  },
+  {
+   "symbol": "MANTRA",
+   "name": "MANTRA",
+   "sigma": 10.58,
+   "from_btc_pct": 9,
+   "verdict": "Neutral",
+   "file": "MANTRA.png"
   },
   {
    "symbol": "BAR",
