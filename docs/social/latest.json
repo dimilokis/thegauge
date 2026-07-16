@@ -1,6 +1,6 @@
 {
  "date": "2026-07-16",
- "generated_at": "2026-07-16T15:00:55.100657+00:00",
+ "generated_at": "2026-07-16T17:45:44.853710+00:00",
  "assets": [
   {
    "symbol": "DGB",
@@ -21,18 +21,10 @@
   {
    "symbol": "BAR",
    "name": "FC Barcelona Fan Token",
-   "sigma": 3.56,
-   "from_btc_pct": 16,
+   "sigma": 3.35,
+   "from_btc_pct": 14,
    "verdict": "Neutral",
    "file": "BAR.png"
-  },
-  {
-   "symbol": "BANK",
-   "name": "Lorenzo Protocol",
-   "sigma": 2.77,
-   "from_btc_pct": 1,
-   "verdict": "Overbought",
-   "file": "BANK.png"
   },
   {
    "symbol": "HOME",
@@ -41,6 +33,14 @@
    "from_btc_pct": 0,
    "verdict": "Oversold",
    "file": "HOME.png"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Lorenzo Protocol",
+   "sigma": 2.52,
+   "from_btc_pct": 1,
+   "verdict": "Overbought",
+   "file": "BANK.png"
   }
  ]
 }
