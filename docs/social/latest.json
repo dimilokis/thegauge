@@ -1,6 +1,6 @@
 {
  "date": "2026-07-16",
- "generated_at": "2026-07-16T18:45:46.391181+00:00",
+ "generated_at": "2026-07-16T21:30:53.358650+00:00",
  "assets": [
   {
    "symbol": "DGB",
@@ -19,6 +19,14 @@
    "file": "MANTRA.png"
   },
   {
+   "symbol": "BAR",
+   "name": "FC Barcelona Fan Token",
+   "sigma": 2.92,
+   "from_btc_pct": 15,
+   "verdict": "Neutral",
+   "file": "BAR.png"
+  },
+  {
    "symbol": "HOME",
    "name": "HOME",
    "sigma": 2.59,
@@ -33,14 +41,6 @@
    "from_btc_pct": 1,
    "verdict": "Overbought",
    "file": "BANK.png"
-  },
-  {
-   "symbol": "BAR",
-   "name": "FC Barcelona Fan Token",
-   "sigma": 2.5,
-   "from_btc_pct": 16,
-   "verdict": "Neutral",
-   "file": "BAR.png"
   }
  ]
 }
