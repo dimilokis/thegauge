@@ -111,6 +111,10 @@
   "icon": "https://coin-images.coingecko.com/coins/images/102171777/large/CHIP_Token_Logo_Large.png?1776777444",
   "name": "USD.AI"
  },
+ "CHZ": {
+  "icon": "https://coin-images.coingecko.com/coins/images/8834/large/CHZ_Token_updated.png",
+  "name": "Chiliz"
+ },
  "CRV": {
   "icon": "https://coin-images.coingecko.com/coins/images/12124/large/Curve.png?1696511967",
   "name": "Curve DAO"
