@@ -1,6 +1,6 @@
 {
  "date": "2026-07-17",
- "generated_at": "2026-07-17T10:15:49.754753+00:00",
+ "generated_at": "2026-07-17T12:15:49.036337+00:00",
  "assets": [
   {
    "symbol": "XEC",
@@ -33,6 +33,14 @@
    "from_btc_pct": 0,
    "verdict": "Neutral",
    "file": "T.png"
+  },
+  {
+   "symbol": "ENS",
+   "name": "Ethereum Name Service",
+   "sigma": 2.55,
+   "from_btc_pct": 18,
+   "verdict": "Neutral",
+   "file": "ENS.png"
   }
  ]
 }
