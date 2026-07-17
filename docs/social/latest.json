@@ -1,6 +1,6 @@
 {
  "date": "2026-07-17",
- "generated_at": "2026-07-17T14:00:58.491183+00:00",
+ "generated_at": "2026-07-17T14:11:56.165414+00:00",
  "assets": [
   {
    "symbol": "XEC",
@@ -49,6 +49,14 @@
    "from_btc_pct": 1,
    "verdict": "Neutral",
    "file": "BANK.png"
+  },
+  {
+   "symbol": "TREE",
+   "name": "Treehouse",
+   "sigma": 2.54,
+   "from_btc_pct": 40,
+   "verdict": "Oversold",
+   "file": "TREE.png"
   }
  ]
 }
