@@ -95,6 +95,10 @@
   "icon": "https://coin-images.coingecko.com/coins/images/780/large/bitcoin-cash-circle.png?1696501932",
   "name": "Bitcoin Cash"
  },
+ "BFUSD": {
+  "icon": "https://coin-images.coingecko.com/coins/images/68227/large/bfusd.png",
+  "name": "BFUSD"
+ },
  "BIO": {
   "icon": "https://coin-images.coingecko.com/coins/images/53022/large/bio.jpg?1735011002",
   "name": "Bio Protocol"
