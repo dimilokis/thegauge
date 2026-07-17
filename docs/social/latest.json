@@ -1,6 +1,6 @@
 {
  "date": "2026-07-17",
- "generated_at": "2026-07-17T15:01:01.578743+00:00",
+ "generated_at": "2026-07-17T15:30:53.424788+00:00",
  "assets": [
   {
    "symbol": "XEC",
@@ -9,6 +9,14 @@
    "from_btc_pct": 5,
    "verdict": "Overbought",
    "file": "XEC.png"
+  },
+  {
+   "symbol": "ENS",
+   "name": "Ethereum Name Service",
+   "sigma": 2.89,
+   "from_btc_pct": 17,
+   "verdict": "Neutral",
+   "file": "ENS.png"
   },
   {
    "symbol": "BANK",
@@ -41,14 +49,6 @@
    "from_btc_pct": 0,
    "verdict": "Neutral",
    "file": "T.png"
-  },
-  {
-   "symbol": "ENS",
-   "name": "Ethereum Name Service",
-   "sigma": 2.66,
-   "from_btc_pct": 13,
-   "verdict": "Neutral",
-   "file": "ENS.png"
   },
   {
    "symbol": "TREE",
