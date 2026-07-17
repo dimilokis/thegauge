@@ -1,6 +1,6 @@
 {
  "date": "2026-07-17",
- "generated_at": "2026-07-17T13:45:47.958707+00:00",
+ "generated_at": "2026-07-17T14:00:58.491183+00:00",
  "assets": [
   {
    "symbol": "XEC",
@@ -9,14 +9,6 @@
    "from_btc_pct": 5,
    "verdict": "Overbought",
    "file": "XEC.png"
-  },
-  {
-   "symbol": "BANK",
-   "name": "Lorenzo Protocol",
-   "sigma": 3.99,
-   "from_btc_pct": 0,
-   "verdict": "Overbought",
-   "file": "BANK.png"
   },
   {
    "symbol": "TOWNS",
@@ -49,6 +41,14 @@
    "from_btc_pct": 13,
    "verdict": "Neutral",
    "file": "ENS.png"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Lorenzo Protocol",
+   "sigma": 2.55,
+   "from_btc_pct": 1,
+   "verdict": "Neutral",
+   "file": "BANK.png"
   }
  ]
 }
