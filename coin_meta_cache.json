@@ -80,7 +80,7 @@
   "name": "Lorenzo Protocol"
  },
  "BAR": {
-  "icon": "https://coin-images.coingecko.com/coins/images/11693/large/BAR.png",
+  "icon": "https://coin-images.coingecko.com/coins/images/11693/large/BAR.png?1741518646",
   "name": "FC Barcelona Fan Token"
  },
  "BCH": {
@@ -112,7 +112,7 @@
   "name": "PancakeSwap"
  },
  "CFG": {
-  "icon": "https://coin-images.coingecko.com/coins/images/55913/large/centrifuge.jpg",
+  "icon": "https://coin-images.coingecko.com/coins/images/55913/large/centrifuge.jpg?1747707741",
   "name": "Centrifuge"
  },
  "CHIP": {
@@ -120,7 +120,7 @@
   "name": "USD.AI"
  },
  "CHZ": {
-  "icon": "https://coin-images.coingecko.com/coins/images/8834/large/CHZ_Token_updated.png",
+  "icon": "https://coin-images.coingecko.com/coins/images/8834/large/CHZ_Token_updated.png?1696508986",
   "name": "Chiliz"
  },
  "CRV": {
@@ -144,7 +144,7 @@
   "name": "DeXe"
  },
  "DGB": {
-  "icon": "https://coin-images.coingecko.com/coins/images/63/large/digibyte.png",
+  "icon": "https://coin-images.coingecko.com/coins/images/63/large/digibyte.png?1696501454",
   "name": "DigiByte"
  },
  "DODO": {
@@ -243,6 +243,10 @@
   "icon": "https://coin-images.coingecko.com/coins/images/39102/large/hamster-removebg-preview.png?1720514486",
   "name": "Hamster Kombat"
  },
+ "HOLO": {
+  "icon": "https://coin-images.coingecko.com/coins/images/68845/large/holo.png?1756787241",
+  "name": "Holoworld"
+ },
  "HOME": {
   "icon": "https://coin-images.coingecko.com/coins/images/54873/large/defi-app.png?1742235743",
   "name": "HOME"
@@ -276,7 +280,7 @@
   "name": "KAITO"
  },
  "KAT": {
-  "icon": "https://coin-images.coingecko.com/coins/images/70225/large/katana-social-icon.png",
+  "icon": "https://coin-images.coingecko.com/coins/images/70225/large/katana-social-icon.png?1761121098",
   "name": "Katana"
  },
  "KITE": {
@@ -312,7 +316,7 @@
   "name": "Terra Luna Classic"
  },
  "MANTRA": {
-  "icon": "https://coin-images.coingecko.com/coins/images/102172151/large/OM_Token_Primary-1K.png",
+  "icon": "https://coin-images.coingecko.com/coins/images/102172151/large/OM_Token_Primary-1K.png?1771922964",
   "name": "MANTRA"
  },
  "MEGA": {
@@ -420,7 +424,7 @@
   "name": "Render"
  },
  "RESOLV": {
-  "icon": "https://coin-images.coingecko.com/coins/images/56092/large/resolv_token.png",
+  "icon": "https://coin-images.coingecko.com/coins/images/56092/large/resolv_token.png?1749800512",
   "name": "Resolv"
  },
  "RIF": {
