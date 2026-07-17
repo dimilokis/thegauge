@@ -1,11 +1,11 @@
 {
  "date": "2026-07-17",
- "generated_at": "2026-07-17T04:15:46.379216+00:00",
+ "generated_at": "2026-07-17T05:00:56.051218+00:00",
  "assets": [
   {
    "symbol": "DGB",
    "name": "DigiByte",
-   "sigma": 2.99,
+   "sigma": 2.69,
    "from_btc_pct": 3,
    "verdict": "Neutral",
    "file": "DGB.png"
