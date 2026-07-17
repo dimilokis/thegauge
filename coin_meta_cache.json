@@ -179,6 +179,10 @@
   "icon": "https://coin-images.coingecko.com/coins/images/36530/large/ethena.png?1711701436",
   "name": "Ethena"
  },
+ "ENS": {
+  "icon": "https://coin-images.coingecko.com/coins/images/19785/large/ENS.jpg",
+  "name": "Ethereum Name Service"
+ },
  "ENSO": {
   "icon": "https://coin-images.coingecko.com/coins/images/66537/large/enso.jpg?1749697301",
   "name": "Enso"
