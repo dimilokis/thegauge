@@ -79,6 +79,10 @@
   "icon": "https://coin-images.coingecko.com/coins/images/12559/large/Avalanche_Circle_RedWhite_Trans.png?1696512369",
   "name": "Avalanche"
  },
+ "AXS": {
+  "icon": "https://coin-images.coingecko.com/coins/images/13029/large/axie_infinity_logo.png",
+  "name": "Axie Infinity"
+ },
  "BANK": {
   "icon": "https://coin-images.coingecko.com/coins/images/55250/large/lorenzo.jpg?1744963693",
   "name": "Lorenzo Protocol"
