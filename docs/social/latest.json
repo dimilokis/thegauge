@@ -1,54 +1,14 @@
 {
- "date": "2026-07-16",
- "generated_at": "2026-07-16T23:45:47.378198+00:00",
+ "date": "2026-07-17",
+ "generated_at": "2026-07-17T03:15:43.002619+00:00",
  "assets": [
   {
    "symbol": "DGB",
    "name": "DigiByte",
-   "sigma": 14.03,
-   "from_btc_pct": 4,
-   "verdict": "Overbought",
+   "sigma": 2.89,
+   "from_btc_pct": 3,
+   "verdict": "Neutral",
    "file": "DGB.png"
-  },
-  {
-   "symbol": "MANTRA",
-   "name": "MANTRA",
-   "sigma": 10.58,
-   "from_btc_pct": 9,
-   "verdict": "Neutral",
-   "file": "MANTRA.png"
-  },
-  {
-   "symbol": "BAR",
-   "name": "FC Barcelona Fan Token",
-   "sigma": 2.92,
-   "from_btc_pct": 15,
-   "verdict": "Neutral",
-   "file": "BAR.png"
-  },
-  {
-   "symbol": "HOME",
-   "name": "HOME",
-   "sigma": 2.59,
-   "from_btc_pct": 0,
-   "verdict": "Oversold",
-   "file": "HOME.png"
-  },
-  {
-   "symbol": "KAITO",
-   "name": "KAITO",
-   "sigma": 2.53,
-   "from_btc_pct": 9,
-   "verdict": "Overbought",
-   "file": "KAITO.png"
-  },
-  {
-   "symbol": "BANK",
-   "name": "Lorenzo Protocol",
-   "sigma": 2.52,
-   "from_btc_pct": 0,
-   "verdict": "Overbought",
-   "file": "BANK.png"
   }
  ]
 }
