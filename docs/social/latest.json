@@ -1,7 +1,15 @@
 {
  "date": "2026-07-17",
- "generated_at": "2026-07-17T06:45:48.950533+00:00",
+ "generated_at": "2026-07-17T08:15:44.855509+00:00",
  "assets": [
+  {
+   "symbol": "XEC",
+   "name": "eCash",
+   "sigma": 5.11,
+   "from_btc_pct": 5,
+   "verdict": "Overbought",
+   "file": "XEC.png"
+  },
   {
    "symbol": "DGB",
    "name": "DigiByte",
