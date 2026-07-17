@@ -1,15 +1,7 @@
 {
  "date": "2026-07-17",
- "generated_at": "2026-07-17T05:45:47.531110+00:00",
+ "generated_at": "2026-07-17T06:45:48.950533+00:00",
  "assets": [
-  {
-   "symbol": "T",
-   "name": "Threshold Network",
-   "sigma": 2.78,
-   "from_btc_pct": 0,
-   "verdict": "Neutral",
-   "file": "T.png"
-  },
   {
    "symbol": "DGB",
    "name": "DigiByte",
@@ -17,6 +9,14 @@
    "from_btc_pct": 3,
    "verdict": "Neutral",
    "file": "DGB.png"
+  },
+  {
+   "symbol": "T",
+   "name": "Threshold Network",
+   "sigma": 2.67,
+   "from_btc_pct": 0,
+   "verdict": "Neutral",
+   "file": "T.png"
   }
  ]
 }
