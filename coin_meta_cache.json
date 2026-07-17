@@ -303,6 +303,10 @@
   "icon": "https://coin-images.coingecko.com/coins/images/70225/large/katana-social-icon.png?1761121098",
   "name": "Katana"
  },
+ "KGST": {
+  "icon": "https://coin-images.coingecko.com/coins/images/71268/large/kgst.png",
+  "name": "Kyrgyz Som Stablecoin"
+ },
  "KITE": {
   "icon": "https://coin-images.coingecko.com/coins/images/70426/large/KITE-ICON.png?1762328605",
   "name": "Kite"

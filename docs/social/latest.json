@@ -1,6 +1,6 @@
 {
  "date": "2026-07-17",
- "generated_at": "2026-07-17T20:30:46.723412+00:00",
+ "generated_at": "2026-07-17T21:38:16.866480+00:00",
  "assets": [
   {
    "symbol": "XEC",
@@ -41,6 +41,14 @@
    "from_btc_pct": 3,
    "verdict": "Neutral",
    "file": "DGB.png"
+  },
+  {
+   "symbol": "BONK",
+   "name": "Bonk",
+   "sigma": 2.69,
+   "from_btc_pct": 31,
+   "verdict": "Oversold",
+   "file": "BONK.png"
   },
   {
    "symbol": "T",
