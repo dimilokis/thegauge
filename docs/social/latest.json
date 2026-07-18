@@ -1,6 +1,6 @@
 {
  "date": "2026-07-18",
- "generated_at": "2026-07-18T14:15:43.988724+00:00",
+ "generated_at": "2026-07-18T15:45:50.608347+00:00",
  "assets": [
   {
    "symbol": "DGB",
@@ -9,6 +9,22 @@
    "from_btc_pct": 1,
    "verdict": "Overbought",
    "file": "DGB.png"
+  },
+  {
+   "symbol": "ACE",
+   "name": "Fusionist",
+   "sigma": 3.27,
+   "from_btc_pct": 22,
+   "verdict": "Neutral",
+   "file": "ACE.png"
+  },
+  {
+   "symbol": "BONK",
+   "name": "Bonk",
+   "sigma": 3.13,
+   "from_btc_pct": 28,
+   "verdict": "Oversold",
+   "file": "BONK.png"
   },
   {
    "symbol": "G",
