@@ -239,6 +239,10 @@
   "icon": "https://coin-images.coingecko.com/coins/images/12493/large/GALA_token_image_-_200PNG.png?1709725869",
   "name": "GALA"
  },
+ "GAS": {
+  "icon": "https://coin-images.coingecko.com/coins/images/858/large/GAS_512_512.png",
+  "name": "Gas"
+ },
  "GIGGLE": {
   "icon": "https://coin-images.coingecko.com/coins/images/69414/large/giggle-fund.jpg?1758541887",
   "name": "Giggle Fund"
