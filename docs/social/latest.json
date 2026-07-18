@@ -1,6 +1,6 @@
 {
  "date": "2026-07-18",
- "generated_at": "2026-07-18T12:00:50.569743+00:00",
+ "generated_at": "2026-07-18T13:55:23.787876+00:00",
  "assets": [
   {
    "symbol": "DGB",
@@ -11,20 +11,28 @@
    "file": "DGB.png"
   },
   {
-   "symbol": "XEC",
-   "name": "eCash",
-   "sigma": 3.44,
-   "from_btc_pct": 2,
-   "verdict": "Overbought",
-   "file": "XEC.png"
-  },
-  {
    "symbol": "G",
    "name": null,
    "sigma": 2.73,
    "from_btc_pct": 0,
    "verdict": "Overbought",
    "file": "G.png"
+  },
+  {
+   "symbol": "GAS",
+   "name": "Gas",
+   "sigma": 2.61,
+   "from_btc_pct": 38,
+   "verdict": "Neutral",
+   "file": "GAS.png"
+  },
+  {
+   "symbol": "XEC",
+   "name": "eCash",
+   "sigma": 2.56,
+   "from_btc_pct": 3,
+   "verdict": "Overbought",
+   "file": "XEC.png"
   }
  ]
 }
