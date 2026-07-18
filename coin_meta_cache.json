@@ -11,6 +11,10 @@
   "icon": "https://coin-images.coingecko.com/coins/images/12645/large/aave-token-round.png?1720472354",
   "name": "Aave"
  },
+ "ACE": {
+  "icon": "https://coin-images.coingecko.com/coins/images/33528/large/ACE.png",
+  "name": "Fusionist"
+ },
  "ADA": {
   "icon": "https://coin-images.coingecko.com/coins/images/975/large/cardano.png?1696502090",
   "name": "Cardano"
