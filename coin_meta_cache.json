@@ -507,6 +507,10 @@
   "icon": "https://coin-images.coingecko.com/coins/images/15861/large/abracadabra-3.png?1696515477",
   "name": "Spell"
  },
+ "SPK": {
+  "icon": "https://coin-images.coingecko.com/coins/images/38637/large/Spark-Logomark-RGB.png",
+  "name": "Spark"
+ },
  "STORJ": {
   "icon": "https://coin-images.coingecko.com/coins/images/949/large/storj.png?1696502065",
   "name": "Storj"
