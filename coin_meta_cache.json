@@ -619,6 +619,10 @@
   "icon": "https://coin-images.coingecko.com/coins/images/50767/large/wlfi.png?1756438915",
   "name": "World Liberty Financial"
  },
+ "XAI": {
+  "icon": "https://coin-images.coingecko.com/coins/images/34258/large/round_icon_2048_px.png",
+  "name": "Xai"
+ },
  "XEC": {
   "icon": "https://coin-images.coingecko.com/coins/images/16646/large/Logo_final-22.png?1696516207",
   "name": "eCash"
