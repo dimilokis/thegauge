@@ -1,6 +1,6 @@
 {
  "date": "2026-07-18",
- "generated_at": "2026-07-18T08:00:49.300903+00:00",
+ "generated_at": "2026-07-18T08:26:58.180333+00:00",
  "assets": [
   {
    "symbol": "DGB",
@@ -9,6 +9,14 @@
    "from_btc_pct": 1,
    "verdict": "Overbought",
    "file": "DGB.png"
+  },
+  {
+   "symbol": "G",
+   "name": null,
+   "sigma": 2.73,
+   "from_btc_pct": 0,
+   "verdict": "Overbought",
+   "file": "G.png"
   }
  ]
 }
