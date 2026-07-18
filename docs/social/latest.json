@@ -1,6 +1,6 @@
 {
  "date": "2026-07-18",
- "generated_at": "2026-07-18T19:30:47.564582+00:00",
+ "generated_at": "2026-07-18T21:00:59.516934+00:00",
  "assets": [
   {
    "symbol": "DGB",
@@ -49,6 +49,14 @@
    "from_btc_pct": 3,
    "verdict": "Overbought",
    "file": "XEC.png"
+  },
+  {
+   "symbol": "PORTO",
+   "name": "FC Porto",
+   "sigma": 2.53,
+   "from_btc_pct": 33,
+   "verdict": "Neutral",
+   "file": "PORTO.png"
   },
   {
    "symbol": "BONK",
