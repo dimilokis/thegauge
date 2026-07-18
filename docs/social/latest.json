@@ -1,6 +1,6 @@
 {
  "date": "2026-07-18",
- "generated_at": "2026-07-18T15:45:50.608347+00:00",
+ "generated_at": "2026-07-18T16:15:50.238949+00:00",
  "assets": [
   {
    "symbol": "DGB",
@@ -9,6 +9,14 @@
    "from_btc_pct": 1,
    "verdict": "Overbought",
    "file": "DGB.png"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Lorenzo Protocol",
+   "sigma": 6.05,
+   "from_btc_pct": 0,
+   "verdict": "Overbought",
+   "file": "BANK.png"
   },
   {
    "symbol": "ACE",
