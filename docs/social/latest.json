@@ -1,6 +1,6 @@
 {
  "date": "2026-07-18",
- "generated_at": "2026-07-18T21:15:46.787257+00:00",
+ "generated_at": "2026-07-18T23:30:55.775868+00:00",
  "assets": [
   {
    "symbol": "BANK",
@@ -62,7 +62,7 @@
    "symbol": "BONK",
    "name": "Bonk",
    "sigma": 2.52,
-   "from_btc_pct": 26,
+   "from_btc_pct": 24,
    "verdict": "Oversold",
    "file": "BONK.png"
   }
