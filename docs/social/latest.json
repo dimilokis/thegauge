@@ -1,15 +1,7 @@
 {
  "date": "2026-07-18",
- "generated_at": "2026-07-18T21:00:59.516934+00:00",
+ "generated_at": "2026-07-18T21:15:46.787257+00:00",
  "assets": [
-  {
-   "symbol": "DGB",
-   "name": "DigiByte",
-   "sigma": 6.14,
-   "from_btc_pct": 1,
-   "verdict": "Overbought",
-   "file": "DGB.png"
-  },
   {
    "symbol": "BANK",
    "name": "Lorenzo Protocol",
@@ -25,6 +17,14 @@
    "from_btc_pct": 22,
    "verdict": "Neutral",
    "file": "ACE.png"
+  },
+  {
+   "symbol": "DGB",
+   "name": "DigiByte",
+   "sigma": 2.79,
+   "from_btc_pct": 3,
+   "verdict": "Neutral",
+   "file": "DGB.png"
   },
   {
    "symbol": "G",
