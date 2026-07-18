@@ -1,78 +1,14 @@
 {
- "date": "2026-07-17",
- "generated_at": "2026-07-17T23:30:47.102754+00:00",
+ "date": "2026-07-18",
+ "generated_at": "2026-07-18T08:00:49.300903+00:00",
  "assets": [
-  {
-   "symbol": "XEC",
-   "name": "eCash",
-   "sigma": 5.11,
-   "from_btc_pct": 5,
-   "verdict": "Overbought",
-   "file": "XEC.png"
-  },
-  {
-   "symbol": "ENS",
-   "name": "Ethereum Name Service",
-   "sigma": 2.89,
-   "from_btc_pct": 17,
-   "verdict": "Neutral",
-   "file": "ENS.png"
-  },
-  {
-   "symbol": "BANK",
-   "name": "Lorenzo Protocol",
-   "sigma": 2.8,
-   "from_btc_pct": 0,
-   "verdict": "Overbought",
-   "file": "BANK.png"
-  },
-  {
-   "symbol": "TOWNS",
-   "name": "Towns",
-   "sigma": 2.77,
-   "from_btc_pct": 4,
-   "verdict": "Neutral",
-   "file": "TOWNS.png"
-  },
-  {
-   "symbol": "ONE",
-   "name": "Harmony",
-   "sigma": 2.77,
-   "from_btc_pct": 38,
-   "verdict": "Oversold",
-   "file": "ONE.png"
-  },
   {
    "symbol": "DGB",
    "name": "DigiByte",
-   "sigma": 2.69,
-   "from_btc_pct": 3,
-   "verdict": "Neutral",
+   "sigma": 6.79,
+   "from_btc_pct": 1,
+   "verdict": "Overbought",
    "file": "DGB.png"
-  },
-  {
-   "symbol": "BONK",
-   "name": "Bonk",
-   "sigma": 2.69,
-   "from_btc_pct": 31,
-   "verdict": "Oversold",
-   "file": "BONK.png"
-  },
-  {
-   "symbol": "T",
-   "name": "Threshold Network",
-   "sigma": 2.67,
-   "from_btc_pct": 0,
-   "verdict": "Neutral",
-   "file": "T.png"
-  },
-  {
-   "symbol": "TREE",
-   "name": "Treehouse",
-   "sigma": 2.54,
-   "from_btc_pct": 35,
-   "verdict": "Oversold",
-   "file": "TREE.png"
   }
  ]
 }
