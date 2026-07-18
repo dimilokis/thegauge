@@ -431,6 +431,10 @@
   "icon": "https://coin-images.coingecko.com/coins/images/29850/large/pepe-token.jpeg?1696528776",
   "name": "Pepe"
  },
+ "PHA": {
+  "icon": "https://coin-images.coingecko.com/coins/images/12451/large/phala.png",
+  "name": "PHALA"
+ },
  "PLUME": {
   "icon": "https://coin-images.coingecko.com/coins/images/53623/large/plume-token.png?1736896935",
   "name": "Plume"
