@@ -1,6 +1,6 @@
 {
  "date": "2026-07-19",
- "generated_at": "2026-07-19T20:00:55.275465+00:00",
+ "generated_at": "2026-07-19T21:15:48.390870+00:00",
  "assets": [
   {
    "symbol": "SKL",
@@ -25,6 +25,14 @@
    "from_btc_pct": 17,
    "verdict": "Neutral",
    "file": "SOLV.png"
+  },
+  {
+   "symbol": "PUMP",
+   "name": "Pump.fun",
+   "sigma": 2.96,
+   "from_btc_pct": 13,
+   "verdict": "Overbought",
+   "file": "PUMP.png"
   },
   {
    "symbol": "G",
