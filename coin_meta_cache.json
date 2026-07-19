@@ -555,6 +555,10 @@
   "icon": "https://coin-images.coingecko.com/coins/images/26375/large/sui-ocean-square.png?1727791290",
   "name": "Sui"
  },
+ "SUN": {
+  "icon": "https://coin-images.coingecko.com/coins/images/12424/large/RSFOmQ.png",
+  "name": "Sun Token"
+ },
  "SXT": {
   "icon": "https://coin-images.coingecko.com/coins/images/55424/large/sxt-token_circle.jpg?1745935919",
   "name": "Space and Time"
