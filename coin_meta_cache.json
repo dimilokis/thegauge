@@ -571,6 +571,10 @@
   "icon": "https://coin-images.coingecko.com/coins/images/12424/large/RSFOmQ.png",
   "name": "Sun Token"
  },
+ "SUSHI": {
+  "icon": "https://coin-images.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png",
+  "name": "Sushi"
+ },
  "SXT": {
   "icon": "https://coin-images.coingecko.com/coins/images/55424/large/sxt-token_circle.jpg?1745935919",
   "name": "Space and Time"
