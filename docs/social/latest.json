@@ -1,6 +1,6 @@
 {
  "date": "2026-07-19",
- "generated_at": "2026-07-19T19:45:48.986009+00:00",
+ "generated_at": "2026-07-19T20:00:55.275465+00:00",
  "assets": [
   {
    "symbol": "SKL",
@@ -37,8 +37,8 @@
   {
    "symbol": "ACE",
    "name": "Fusionist",
-   "sigma": 2.74,
-   "from_btc_pct": 15,
+   "sigma": 2.63,
+   "from_btc_pct": 16,
    "verdict": "Oversold",
    "file": "ACE.png"
   },
