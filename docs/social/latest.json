@@ -1,12 +1,12 @@
 {
  "date": "2026-07-19",
- "generated_at": "2026-07-19T08:45:49.689923+00:00",
+ "generated_at": "2026-07-19T09:30:51.683653+00:00",
  "assets": [
   {
    "symbol": "KAITO",
    "name": "KAITO",
-   "sigma": 2.72,
-   "from_btc_pct": 5,
+   "sigma": 2.52,
+   "from_btc_pct": 4,
    "verdict": "Overbought",
    "file": "KAITO.png"
   }
