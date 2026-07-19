@@ -1,6 +1,6 @@
 {
  "date": "2026-07-19",
- "generated_at": "2026-07-19T12:15:49.423345+00:00",
+ "generated_at": "2026-07-19T13:00:58.979344+00:00",
  "assets": [
   {
    "symbol": "SKL",
@@ -9,6 +9,14 @@
    "from_btc_pct": 7,
    "verdict": "Neutral",
    "file": "SKL.png"
+  },
+  {
+   "symbol": "SOLV",
+   "name": "Solv Protocol",
+   "sigma": 2.98,
+   "from_btc_pct": 17,
+   "verdict": "Neutral",
+   "file": "SOLV.png"
   },
   {
    "symbol": "G",

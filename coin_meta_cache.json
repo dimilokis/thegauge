@@ -535,6 +535,10 @@
   "icon": "https://coin-images.coingecko.com/coins/images/4128/large/solana.png?1718769756",
   "name": "Solana"
  },
+ "SOLV": {
+  "icon": "https://coin-images.coingecko.com/coins/images/27987/large/solv.jpg",
+  "name": "Solv Protocol"
+ },
  "SPELL": {
   "icon": "https://coin-images.coingecko.com/coins/images/15861/large/abracadabra-3.png?1696515477",
   "name": "Spell"
@@ -666,6 +670,10 @@
  "XRP": {
   "icon": "https://coin-images.coingecko.com/coins/images/44/large/xrp-symbol-white-128.png?1696501442",
   "name": "XRP"
+ },
+ "YB": {
+  "icon": "https://coin-images.coingecko.com/coins/images/54871/large/yieldbasis_400x400.png",
+  "name": "Yield Basis"
  },
  "ZAMA": {
   "icon": "https://coin-images.coingecko.com/coins/images/70921/large/zama.png?1764591992",
