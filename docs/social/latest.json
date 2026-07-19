@@ -1,6 +1,6 @@
 {
  "date": "2026-07-19",
- "generated_at": "2026-07-19T14:01:03.326044+00:00",
+ "generated_at": "2026-07-19T14:15:47.237367+00:00",
  "assets": [
   {
    "symbol": "SKL",
@@ -27,14 +27,6 @@
    "file": "G.png"
   },
   {
-   "symbol": "TLM",
-   "name": "Alien Worlds",
-   "sigma": 2.64,
-   "from_btc_pct": 17,
-   "verdict": "Overbought",
-   "file": "TLM.png"
-  },
-  {
    "symbol": "KAITO",
    "name": "KAITO",
    "sigma": 2.6,
@@ -49,6 +41,14 @@
    "from_btc_pct": 3,
    "verdict": "Neutral",
    "file": "TOWNS.png"
+  },
+  {
+   "symbol": "TLM",
+   "name": "Alien Worlds",
+   "sigma": 2.54,
+   "from_btc_pct": 18,
+   "verdict": "Overbought",
+   "file": "TLM.png"
   },
   {
    "symbol": "BANK",
