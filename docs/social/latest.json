@@ -1,6 +1,6 @@
 {
  "date": "2026-07-19",
- "generated_at": "2026-07-19T21:15:48.390870+00:00",
+ "generated_at": "2026-07-19T22:15:48.902564+00:00",
  "assets": [
   {
    "symbol": "SKL",
@@ -67,14 +67,6 @@
    "file": "TOWNS.png"
   },
   {
-   "symbol": "TLM",
-   "name": "Alien Worlds",
-   "sigma": 2.54,
-   "from_btc_pct": 18,
-   "verdict": "Overbought",
-   "file": "TLM.png"
-  },
-  {
    "symbol": "YB",
    "name": "Yield Basis",
    "sigma": 2.54,
@@ -89,6 +81,14 @@
    "from_btc_pct": 1,
    "verdict": "Overbought",
    "file": "BANK.png"
+  },
+  {
+   "symbol": "TLM",
+   "name": "Alien Worlds",
+   "sigma": 2.51,
+   "from_btc_pct": 18,
+   "verdict": "Overbought",
+   "file": "TLM.png"
   }
  ]
 }
