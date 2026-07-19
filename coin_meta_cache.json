@@ -499,6 +499,10 @@
   "icon": "https://coin-images.coingecko.com/coins/images/39651/large/RLUSD_200x200_%281%29.png?1727376633",
   "name": "Ripple USD"
  },
+ "ROBO": {
+  "icon": "https://coin-images.coingecko.com/coins/images/102172005/large/fab.png",
+  "name": "Fabric Protocol"
+ },
  "RUNE": {
   "icon": "https://coin-images.coingecko.com/coins/images/6595/large/THORChain_RUNE_Token.png?1782452363",
   "name": "THORChain"
