@@ -291,6 +291,10 @@
   "icon": "https://coin-images.coingecko.com/coins/images/3348/large/hot-mark-med.png?1747766692",
   "name": "Holo"
  },
+ "HYPER": {
+  "icon": "https://coin-images.coingecko.com/coins/images/55298/large/Hyperlane.png",
+  "name": "Hyperlane"
+ },
  "ICP": {
   "icon": "https://coin-images.coingecko.com/coins/images/14495/large/Internet_Computer_logo.png?1696514180",
   "name": "Internet Computer"
