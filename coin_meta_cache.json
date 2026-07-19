@@ -407,6 +407,10 @@
   "icon": "https://coin-images.coingecko.com/coins/images/4344/large/Y88JAze.png?1696504947",
   "name": "Harmony"
  },
+ "ONG": {
+  "icon": "https://coin-images.coingecko.com/coins/images/5716/large/ONG_logo.png",
+  "name": "Ontology Gas"
+ },
  "OP": {
   "icon": "https://coin-images.coingecko.com/coins/images/25244/large/Token.png?1774456081",
   "name": "Optimism"
