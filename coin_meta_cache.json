@@ -471,6 +471,10 @@
   "icon": "https://coin-images.coingecko.com/coins/images/31924/large/pyth.png?1701245725",
   "name": "Pyth Network"
  },
+ "QTUM": {
+  "icon": "https://coin-images.coingecko.com/coins/images/684/large/Qtum_Logo_blue_CG.png",
+  "name": "Qtum"
+ },
  "RED": {
   "icon": "https://coin-images.coingecko.com/coins/images/53640/large/RedStone_Logo_New_White.png?1740640919",
   "name": "RedStone"
