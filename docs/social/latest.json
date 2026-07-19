@@ -1,15 +1,7 @@
 {
  "date": "2026-07-19",
- "generated_at": "2026-07-19T10:45:47.389939+00:00",
+ "generated_at": "2026-07-19T12:00:55.003640+00:00",
  "assets": [
-  {
-   "symbol": "G",
-   "name": "Gravity (by Galxe)",
-   "sigma": 8.66,
-   "from_btc_pct": 0,
-   "verdict": "Overbought",
-   "file": "G.png"
-  },
   {
    "symbol": "SKL",
    "name": "SKALE",
@@ -17,6 +9,14 @@
    "from_btc_pct": 7,
    "verdict": "Neutral",
    "file": "SKL.png"
+  },
+  {
+   "symbol": "G",
+   "name": "Gravity (by Galxe)",
+   "sigma": 2.8,
+   "from_btc_pct": 0,
+   "verdict": "Overbought",
+   "file": "G.png"
   },
   {
    "symbol": "KAITO",
