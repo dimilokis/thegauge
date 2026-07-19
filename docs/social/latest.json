@@ -1,6 +1,6 @@
 {
  "date": "2026-07-19",
- "generated_at": "2026-07-19T14:15:47.237367+00:00",
+ "generated_at": "2026-07-19T14:45:47.976958+00:00",
  "assets": [
   {
    "symbol": "SKL",
@@ -27,20 +27,20 @@
    "file": "G.png"
   },
   {
-   "symbol": "KAITO",
-   "name": "KAITO",
-   "sigma": 2.6,
-   "from_btc_pct": 4,
-   "verdict": "Overbought",
-   "file": "KAITO.png"
-  },
-  {
    "symbol": "TOWNS",
    "name": "Towns",
    "sigma": 2.59,
    "from_btc_pct": 3,
    "verdict": "Neutral",
    "file": "TOWNS.png"
+  },
+  {
+   "symbol": "KAITO",
+   "name": "KAITO",
+   "sigma": 2.59,
+   "from_btc_pct": 4,
+   "verdict": "Overbought",
+   "file": "KAITO.png"
   },
   {
    "symbol": "TLM",
