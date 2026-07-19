@@ -1,6 +1,6 @@
 {
  "date": "2026-07-19",
- "generated_at": "2026-07-19T12:00:55.003640+00:00",
+ "generated_at": "2026-07-19T12:15:49.423345+00:00",
  "assets": [
   {
    "symbol": "SKL",
@@ -25,6 +25,14 @@
    "from_btc_pct": 4,
    "verdict": "Overbought",
    "file": "KAITO.png"
+  },
+  {
+   "symbol": "TLM",
+   "name": "Alien Worlds",
+   "sigma": 2.63,
+   "from_btc_pct": 17,
+   "verdict": "Overbought",
+   "file": "TLM.png"
   },
   {
    "symbol": "BANK",
