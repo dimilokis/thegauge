@@ -1,14 +1,22 @@
 {
  "date": "2026-07-19",
- "generated_at": "2026-07-19T09:30:51.683653+00:00",
+ "generated_at": "2026-07-19T10:02:05.182129+00:00",
  "assets": [
   {
    "symbol": "KAITO",
    "name": "KAITO",
-   "sigma": 2.52,
+   "sigma": 2.55,
    "from_btc_pct": 4,
    "verdict": "Overbought",
    "file": "KAITO.png"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Lorenzo Protocol",
+   "sigma": 2.53,
+   "from_btc_pct": 1,
+   "verdict": "Overbought",
+   "file": "BANK.png"
   }
  ]
 }
