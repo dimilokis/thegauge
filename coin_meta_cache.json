@@ -240,15 +240,19 @@
   "name": "Filecoin"
  },
  "FLOKI": {
-  "icon": "https://coin-images.coingecko.com/coins/images/16746/large/PNG_image.png",
+  "icon": "https://coin-images.coingecko.com/coins/images/16746/large/PNG_image.png?1696516318",
   "name": "FLOKI"
+ },
+ "G": {
+  "icon": "https://coin-images.coingecko.com/coins/images/39200/large/gravity.jpg?1721020647",
+  "name": "Gravity (by Galxe)"
  },
  "GALA": {
   "icon": "https://coin-images.coingecko.com/coins/images/12493/large/GALA_token_image_-_200PNG.png?1709725869",
   "name": "GALA"
  },
  "GAS": {
-  "icon": "https://coin-images.coingecko.com/coins/images/858/large/GAS_512_512.png",
+  "icon": "https://coin-images.coingecko.com/coins/images/858/large/GAS_512_512.png?1696501992",
   "name": "Gas"
  },
  "GIGGLE": {
@@ -384,7 +388,7 @@
   "name": "NEAR Protocol"
  },
  "NEO": {
-  "icon": "https://coin-images.coingecko.com/coins/images/480/large/NEO_512_512.png",
+  "icon": "https://coin-images.coingecko.com/coins/images/480/large/NEO_512_512.png?1696501735",
   "name": "NEO"
  },
  "NIGHT": {
@@ -436,7 +440,7 @@
   "name": "Pepe"
  },
  "PHA": {
-  "icon": "https://coin-images.coingecko.com/coins/images/12451/large/phala.png",
+  "icon": "https://coin-images.coingecko.com/coins/images/12451/large/phala.png?1696512270",
   "name": "PHALA"
  },
  "PLUME": {
@@ -448,7 +452,7 @@
   "name": "POL (ex-MATIC)"
  },
  "PORTO": {
-  "icon": "https://coin-images.coingecko.com/coins/images/20459/large/fcp.jpg",
+  "icon": "https://coin-images.coingecko.com/coins/images/20459/large/fcp.jpg?1696519864",
   "name": "FC Porto"
  },
  "PUMP": {
@@ -632,7 +636,7 @@
   "name": "World Liberty Financial"
  },
  "XAI": {
-  "icon": "https://coin-images.coingecko.com/coins/images/34258/large/round_icon_2048_px.png",
+  "icon": "https://coin-images.coingecko.com/coins/images/34258/large/round_icon_2048_px.png?1719523838",
   "name": "Xai"
  },
  "XEC": {
