@@ -459,6 +459,10 @@
   "icon": "https://coin-images.coingecko.com/coins/images/20459/large/fcp.jpg?1696519864",
   "name": "FC Porto"
  },
+ "PROM": {
+  "icon": "https://coin-images.coingecko.com/coins/images/8825/large/Ticker.png",
+  "name": "Prom"
+ },
  "PUMP": {
   "icon": "https://coin-images.coingecko.com/coins/images/67164/large/pump.jpg?1751949376",
   "name": "Pump.fun"

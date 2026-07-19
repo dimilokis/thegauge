@@ -1,6 +1,6 @@
 {
  "date": "2026-07-19",
- "generated_at": "2026-07-19T18:30:52.110570+00:00",
+ "generated_at": "2026-07-19T19:30:52.317601+00:00",
  "assets": [
   {
    "symbol": "SKL",
@@ -9,6 +9,14 @@
    "from_btc_pct": 7,
    "verdict": "Neutral",
    "file": "SKL.png"
+  },
+  {
+   "symbol": "PROM",
+   "name": "Prom",
+   "sigma": 4.27,
+   "from_btc_pct": 5,
+   "verdict": "Neutral",
+   "file": "PROM.png"
   },
   {
    "symbol": "SOLV",
