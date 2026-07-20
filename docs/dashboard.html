@@ -39,8 +39,9 @@ body {
 
 /* ─── NAV ─── */
 nav { display: flex; justify-content: space-between; align-items: center; padding: 24px 48px; border-bottom: 1px solid var(--border); background: var(--bg); }
-.nav-logo { font-family: 'Cormorant Garamond', serif; font-size: 20px; font-weight: 400; letter-spacing: 2px; text-transform: uppercase; color: var(--text); text-decoration: none; }
+.nav-logo { display: flex; align-items: center; gap: 10px; font-family: 'Cormorant Garamond', serif; font-size: 20px; font-weight: 400; letter-spacing: 2px; text-transform: uppercase; color: var(--text); text-decoration: none; }
 .nav-logo span { color: var(--gold); }
+.nav-mark { width: 26px; height: 26px; flex-shrink: 0; }
 .nav-back { font-size: 11px; letter-spacing: 1.5px; text-transform: uppercase; color: var(--muted); text-decoration: none; transition: color .2s; }
 .nav-back:hover { color: var(--gold); }
 
@@ -184,7 +185,14 @@ footer a:hover { color: var(--muted); }
 <body>
 
 <nav>
-  <a class="nav-logo" href="index.html">The <span>Gauge</span></a>
+  <a class="nav-logo" href="index.html">
+    <svg class="nav-mark" viewBox="0 0 64 64" aria-hidden="true">
+      <path d="M 14.8 44 A 19 19 0 1 1 49.2 44" fill="none" stroke="#c9a96e" stroke-width="6" stroke-linecap="round"/>
+      <line x1="32" y1="36" x2="41.2" y2="26.8" stroke="#e8e4dc" stroke-width="5" stroke-linecap="round"/>
+      <circle cx="32" cy="36" r="4.5" fill="#c9a96e"/>
+    </svg>
+    The <span>Gauge</span>
+  </a>
   <div style="display:flex;align-items:center;gap:24px">
     <a class="nav-back" href="https://x.com/TheGaugeArt" target="_blank" rel="noopener">X / Twitter</a>
     <a class="nav-back" href="index.html">← About the project</a>
