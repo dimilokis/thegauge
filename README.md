@@ -15,7 +15,7 @@ nao tem esse bloqueio. E spot em vez de Futures, o que pro Gauge (klines
 diarios) da na mesma; o filtro de universo exclui stablecoins, wrapped e as
 acoes tokenizadas com sufixo B (NVDAB etc) que o spot lista.
 
-**Fluxo automatico completo:** Actions roda de hora em hora -> commita
+**Fluxo automatico completo:** Actions roda a cada 15 minutos -> commita
 `docs/gauge_live.json` -> o Cloudflare (conectado ao repo) redeploya o site
 sozinho -> thegauge.art atualizado. Zero passo manual, zero PC ligado.
 
@@ -31,7 +31,7 @@ sozinho -> thegauge.art atualizado. Zero passo manual, zero PC ligado.
 - Abre <https://thegauge.art> e ve se o "updated X min ago" no topo bate
   com agora (o Cloudflare leva mais ~1 min pra redeployar apos o commit).
 
-Se isso funcionar uma vez, ele roda sozinho pra sempre, de hora em hora,
+Se isso funcionar uma vez, ele roda sozinho pra sempre, a cada 15 minutos,
 de graca — nao precisa mais fazer nada.
 
 ## Postar no Twitter/X (manual, de graca — recomendado)
