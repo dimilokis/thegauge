@@ -1,6 +1,6 @@
 {
  "date": "2026-07-20",
- "generated_at": "2026-07-20T10:45:43.555464+00:00",
+ "generated_at": "2026-07-20T11:00:58.658561+00:00",
  "assets": [
   {
    "symbol": "ACE",
@@ -19,14 +19,6 @@
    "file": "HEMI.png"
   },
   {
-   "symbol": "PROM",
-   "name": "Prom",
-   "sigma": 2.63,
-   "from_btc_pct": 3,
-   "verdict": "Overbought",
-   "file": "PROM.png"
-  },
-  {
    "symbol": "ALICE",
    "name": "My Neighbor Alice",
    "sigma": 2.55,
@@ -41,6 +33,14 @@
    "from_btc_pct": 25,
    "verdict": "Oversold",
    "file": "ZIL.png"
+  },
+  {
+   "symbol": "PROM",
+   "name": "Prom",
+   "sigma": 2.5,
+   "from_btc_pct": 3,
+   "verdict": "Overbought",
+   "file": "PROM.png"
   }
  ]
 }
