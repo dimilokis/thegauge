@@ -711,6 +711,10 @@
   "icon": "https://coin-images.coingecko.com/coins/images/691/large/Horizen2.0-logo_icon-on-yellow_%281%29.png?1751696763",
   "name": "Horizen"
  },
+ "ZIL": {
+  "icon": "https://coin-images.coingecko.com/coins/images/2687/large/Zilliqa-logo.png",
+  "name": "Zilliqa"
+ },
  "ZK": {
   "icon": "https://coin-images.coingecko.com/coins/images/38043/large/ZKTokenBlack.png",
   "name": "ZKsync"
