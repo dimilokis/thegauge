@@ -1,7 +1,15 @@
 {
  "date": "2026-07-20",
- "generated_at": "2026-07-20T13:00:57.859362+00:00",
+ "generated_at": "2026-07-20T13:15:50.224376+00:00",
  "assets": [
+  {
+   "symbol": "PROM",
+   "name": "Prom",
+   "sigma": 3.99,
+   "from_btc_pct": 3,
+   "verdict": "Overbought",
+   "file": "PROM.png"
+  },
   {
    "symbol": "ACE",
    "name": "Fusionist",
@@ -25,14 +33,6 @@
    "from_btc_pct": 20,
    "verdict": "Oversold",
    "file": "BONK.png"
-  },
-  {
-   "symbol": "PROM",
-   "name": "Prom",
-   "sigma": 2.74,
-   "from_btc_pct": 4,
-   "verdict": "Overbought",
-   "file": "PROM.png"
   },
   {
    "symbol": "HEMI",
