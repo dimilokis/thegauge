@@ -1,6 +1,6 @@
 {
  "date": "2026-07-20",
- "generated_at": "2026-07-20T18:45:48.498487+00:00",
+ "generated_at": "2026-07-20T19:45:48.220770+00:00",
  "assets": [
   {
    "symbol": "ACE",
@@ -33,6 +33,14 @@
    "from_btc_pct": 6,
    "verdict": "Overbought",
    "file": "PROM.png"
+  },
+  {
+   "symbol": "TREE",
+   "name": "Treehouse",
+   "sigma": 2.79,
+   "from_btc_pct": 18,
+   "verdict": "Oversold",
+   "file": "TREE.png"
   },
   {
    "symbol": "ZAMA",
