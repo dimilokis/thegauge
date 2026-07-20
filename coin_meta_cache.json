@@ -463,6 +463,10 @@
   "icon": "https://coin-images.coingecko.com/coins/images/12451/large/phala.png?1696512270",
   "name": "PHALA"
  },
+ "PIXEL": {
+  "icon": "https://coin-images.coingecko.com/coins/images/35100/large/pixel-icon.png",
+  "name": "Pixels"
+ },
  "PLUME": {
   "icon": "https://coin-images.coingecko.com/coins/images/53623/large/plume-token.png?1736896935",
   "name": "Plume"
