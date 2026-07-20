@@ -1,6 +1,6 @@
 {
  "date": "2026-07-20",
- "generated_at": "2026-07-20T11:30:50.277148+00:00",
+ "generated_at": "2026-07-20T12:01:06.374989+00:00",
  "assets": [
   {
    "symbol": "ACE",
@@ -21,10 +21,18 @@
   {
    "symbol": "BONK",
    "name": "Bonk",
-   "sigma": 2.64,
-   "from_btc_pct": 17,
+   "sigma": 2.9,
+   "from_btc_pct": 20,
    "verdict": "Oversold",
    "file": "BONK.png"
+  },
+  {
+   "symbol": "ZAMA",
+   "name": "Zama",
+   "sigma": 2.79,
+   "from_btc_pct": 7,
+   "verdict": "Overbought",
+   "file": "ZAMA.png"
   },
   {
    "symbol": "ZIL",
