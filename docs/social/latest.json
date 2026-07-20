@@ -1,6 +1,6 @@
 {
  "date": "2026-07-20",
- "generated_at": "2026-07-20T20:30:55.375835+00:00",
+ "generated_at": "2026-07-20T20:40:50.320308+00:00",
  "assets": [
   {
    "symbol": "ACE",
@@ -51,6 +51,14 @@
    "file": "TREE.png"
   },
   {
+   "symbol": "MET",
+   "name": "Meteora",
+   "sigma": 2.67,
+   "from_btc_pct": 11,
+   "verdict": "Overbought",
+   "file": "MET.png"
+  },
+  {
    "symbol": "ZAMA",
    "name": "Zama",
    "sigma": 2.64,
@@ -62,7 +70,7 @@
    "symbol": "ZIL",
    "name": "Zilliqa",
    "sigma": 2.54,
-   "from_btc_pct": 17,
+   "from_btc_pct": 16,
    "verdict": "Oversold",
    "file": "ZIL.png"
   },
