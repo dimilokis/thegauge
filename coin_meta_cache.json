@@ -407,6 +407,10 @@
   "icon": "https://coin-images.coingecko.com/coins/images/71015/large/midnight.png?1765193080",
   "name": "Midnight"
  },
+ "NOM": {
+  "icon": "https://coin-images.coingecko.com/coins/images/69687/large/nomina_400x400.jpg",
+  "name": "Nomina"
+ },
  "OGN": {
   "icon": "https://coin-images.coingecko.com/coins/images/3296/large/op.jpg?1696504006",
   "name": "Origin Token"
