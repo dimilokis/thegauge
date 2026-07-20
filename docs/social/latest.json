@@ -1,6 +1,6 @@
 {
  "date": "2026-07-20",
- "generated_at": "2026-07-20T20:15:50.622810+00:00",
+ "generated_at": "2026-07-20T20:30:55.375835+00:00",
  "assets": [
   {
    "symbol": "ACE",
@@ -33,6 +33,14 @@
    "from_btc_pct": 6,
    "verdict": "Overbought",
    "file": "PROM.png"
+  },
+  {
+   "symbol": "TOWNS",
+   "name": "Towns",
+   "sigma": 3.98,
+   "from_btc_pct": 4,
+   "verdict": "Neutral",
+   "file": "TOWNS.png"
   },
   {
    "symbol": "TREE",
