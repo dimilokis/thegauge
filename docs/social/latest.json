@@ -1,7 +1,39 @@
 {
  "date": "2026-07-20",
- "generated_at": "2026-07-20T16:30:49.700780+00:00",
+ "generated_at": "2026-07-20T17:45:55.190256+00:00",
  "assets": [
+  {
+   "symbol": "ACE",
+   "name": "Fusionist",
+   "sigma": 9.35,
+   "from_btc_pct": 5,
+   "verdict": "Overbought",
+   "file": "ACE.png"
+  },
+  {
+   "symbol": "NIGHT",
+   "name": "Midnight",
+   "sigma": 6.36,
+   "from_btc_pct": 1,
+   "verdict": "Oversold",
+   "file": "NIGHT.png"
+  },
+  {
+   "symbol": "HEMI",
+   "name": "Hemi",
+   "sigma": 6.25,
+   "from_btc_pct": 23,
+   "verdict": "Neutral",
+   "file": "HEMI.png"
+  },
+  {
+   "symbol": "PROM",
+   "name": "Prom",
+   "sigma": 5.52,
+   "from_btc_pct": 6,
+   "verdict": "Overbought",
+   "file": "PROM.png"
+  },
   {
    "symbol": "TURTLE",
    "name": "Turtle",
@@ -11,44 +43,12 @@
    "file": "TURTLE.png"
   },
   {
-   "symbol": "PROM",
-   "name": "Prom",
-   "sigma": 3.99,
-   "from_btc_pct": 3,
-   "verdict": "Overbought",
-   "file": "PROM.png"
-  },
-  {
-   "symbol": "ACE",
-   "name": "Fusionist",
-   "sigma": 3.71,
-   "from_btc_pct": 3,
-   "verdict": "Neutral",
-   "file": "ACE.png"
-  },
-  {
-   "symbol": "NIGHT",
-   "name": "Midnight",
-   "sigma": 3.68,
-   "from_btc_pct": 3,
-   "verdict": "Oversold",
-   "file": "NIGHT.png"
-  },
-  {
    "symbol": "ZAMA",
    "name": "Zama",
    "sigma": 3.01,
    "from_btc_pct": 5,
    "verdict": "Overbought",
    "file": "ZAMA.png"
-  },
-  {
-   "symbol": "HEMI",
-   "name": "Hemi",
-   "sigma": 2.63,
-   "from_btc_pct": 25,
-   "verdict": "Neutral",
-   "file": "HEMI.png"
   },
   {
    "symbol": "ZIL",
