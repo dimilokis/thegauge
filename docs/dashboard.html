@@ -138,11 +138,27 @@ tbody td:not(:first-child) { padding-left: 24px; }
 
 /* ─── RADAR ─── */
 .radar-section { border-top: 1px solid var(--border); margin-top: 60px; padding-top: 60px; }
-.radar-mock-box { background: var(--surface); border: 1px solid var(--border); padding: 40px; text-align: center; max-width: 640px; }
-.radar-state-label { font-size: 10px; letter-spacing: 3px; text-transform: uppercase; color: var(--dim); margin-bottom: 28px; }
-.radar-icon { font-size: 44px; margin-bottom: 20px; line-height: 1; }
-.radar-headline { font-family: 'Cormorant Garamond', serif; font-size: 24px; font-weight: 300; margin-bottom: 12px; }
+.radar-mock-box { background: var(--surface); border: 1px solid var(--border); padding: 36px 40px 40px; max-width: 720px; }
+.radar-state-label { font-size: 10px; letter-spacing: 3px; text-transform: uppercase; color: var(--dim); margin-bottom: 24px; }
+.radar-headline { font-family: 'Cormorant Garamond', serif; font-size: 26px; font-weight: 300; margin-bottom: 10px; }
 .radar-body { font-size: 13.5px; color: var(--muted); line-height: 1.7; }
+.radar-pulse { margin: 26px 0 10px; }
+.radar-pulse-bar { display: flex; height: 6px; border-radius: 3px; overflow: hidden; background: var(--border); }
+.radar-seg { height: 100%; transition: width .8s cubic-bezier(.22,.61,.36,1); }
+.radar-seg.normal { background: var(--border2); }
+.radar-seg.notable { background: var(--ice); opacity: .75; }
+.radar-seg.extreme { background: var(--heat); }
+.radar-legend { display: flex; gap: 22px; margin-top: 12px; flex-wrap: wrap; }
+.radar-leg-item { display: flex; align-items: center; gap: 7px; font-size: 10.5px; letter-spacing: 1px; text-transform: uppercase; color: var(--muted); }
+.radar-leg-dot { width: 7px; height: 7px; border-radius: 50%; flex-shrink: 0; }
+.radar-leg-item strong { color: var(--text); font-weight: 500; }
+.radar-chips { display: flex; flex-wrap: wrap; gap: 10px; margin-top: 22px; }
+.radar-chip { display: inline-flex; align-items: baseline; gap: 8px; padding: 8px 14px; border: 1px solid var(--border2); background: var(--lift); cursor: pointer; transition: border-color .15s, background .15s; font-family: 'Inter', sans-serif; }
+.radar-chip:hover { border-color: var(--gold); background: var(--gold-dim); }
+.radar-chip .rc-sym { font-size: 13px; font-weight: 500; color: var(--text); letter-spacing: .5px; }
+.radar-chip .rc-sig { font-family: 'Cormorant Garamond', serif; font-size: 17px; font-weight: 600; }
+.radar-chip .rc-btc { font-size: 10px; color: var(--muted); letter-spacing: .3px; }
+.radar-chips-hint { font-size: 10.5px; color: var(--dim); letter-spacing: .5px; margin-top: 12px; }
 
 footer { border-top: 1px solid var(--border); padding: 32px 48px; display: flex; justify-content: space-between; align-items: center; font-size: 12px; color: var(--dim); letter-spacing: .5px; }
 footer a { color: var(--dim); text-decoration: none; transition: color .2s; }
@@ -349,20 +365,56 @@ function renderStandout(){
   }
   grid.innerHTML = hot.map(soCardHTML).join('');
 }
+function radarPulseHTML(){
+  // distribuicao real do snapshot: quantos ativos estao Normal / Notable /
+  // Extreme neste momento (mesmos limiares da coluna Move da tabela)
+  const n = DATA.assets.length;
+  const ext = DATA.assets.filter(a => Math.abs(a.sigma) >= 2.5).length;
+  const not_ = DATA.assets.filter(a => { const s = Math.abs(a.sigma); return s >= 1 && s < 2.5; }).length;
+  const norm = n - ext - not_;
+  const pct = x => (100 * x / n).toFixed(1) + '%';
+  return '<div class="radar-pulse"><div class="radar-pulse-bar">'
+    +'<div class="radar-seg normal" style="width:'+pct(norm)+'"></div>'
+    +'<div class="radar-seg notable" style="width:'+pct(not_)+'"></div>'
+    +'<div class="radar-seg extreme" style="width:'+pct(ext)+'"></div>'
+    +'</div><div class="radar-legend">'
+    +'<span class="radar-leg-item"><span class="radar-leg-dot" style="background:var(--border2)"></span><strong>'+norm+'</strong> within normal range</span>'
+    +'<span class="radar-leg-item"><span class="radar-leg-dot" style="background:var(--ice)"></span><strong>'+not_+'</strong> notable (≥1σ)</span>'
+    +'<span class="radar-leg-item"><span class="radar-leg-dot" style="background:var(--heat)"></span><strong>'+ext+'</strong> extreme (≥2.5σ)</span>'
+    +'</div></div>';
+}
+function gotoStandout(){
+  document.querySelectorAll('.filt').forEach(x=>x.classList.remove('on'));
+  const btn = document.querySelector('.filt[data-filter="standout"]');
+  if (btn) btn.classList.add('on');
+  filter = 'standout';
+  renderDash();
+  document.querySelector('.mock-filters').scrollIntoView({behavior:'smooth'});
+}
 function renderRadar(){
-  const hot = DATA.assets.filter(a => !a.is_market && Math.abs(a.sigma) >= 2.5 && a.from_btc_pct <= 40);
+  const hot = DATA.assets.filter(a => !a.is_market && Math.abs(a.sigma) >= 2.5 && a.from_btc_pct <= 40)
+    .sort((a,b) => Math.abs(b.sigma) - Math.abs(a.sigma));
   const box = document.getElementById('radarBox');
   const gen = new Date(DATA.generated_at);
   const timeStr = gen.toUTCString().slice(17,22) + ' UTC';
+  const head = '<p class="radar-state-label">Market Status · top '+DATA.universe_size+' by volume · '+timeStr+'</p>';
   if (!hot.length) {
-    box.innerHTML = '<p class="radar-state-label">Market Status · '+timeStr+'</p><div class="radar-icon">○</div>'
+    box.innerHTML = head
       +'<div class="radar-headline serif">Nothing unusual right now.</div>'
-      +'<p class="radar-body">Across the top '+DATA.universe_size+', every move is within its own normal range today. No coin stands out as statistically extreme and independent of Bitcoin.</p>';
+      +'<p class="radar-body">Every move across the board is within its own normal range, or moving with Bitcoin rather than on its own. Quiet is a valid reading — the radar only fires on statistically extreme, independent moves.</p>'
+      +radarPulseHTML();
   } else {
-    box.innerHTML = '<p class="radar-state-label">Market Status · '+timeStr+'</p><div class="radar-icon">◉</div>'
+    box.innerHTML = head
       +'<div class="radar-headline serif">'+hot.length+(hot.length===1?' asset stands':' assets stand')+' out.</div>'
-      +'<p class="radar-body">Statistically extreme and moving on their own, not with Bitcoin: '
-      +hot.map(a=>'<strong style="color:var(--text)">'+a.symbol+'</strong> ('+Math.abs(a.sigma).toFixed(1)+'σ, '+a.from_btc_pct+'% BTC)').join(', ')+'.</p>';
+      +'<p class="radar-body">Statistically extreme (≥2.5σ) and moving independently of Bitcoin (≤40% explained). Tap one to open its card.</p>'
+      +radarPulseHTML()
+      +'<div class="radar-chips">'+hot.map(a=>{
+        const c = verdictColor(a.verdict);
+        return '<button class="radar-chip" onclick="gotoStandout()">'
+          +'<span class="rc-sym">'+a.symbol+'</span>'
+          +'<span class="rc-sig" style="color:'+c+'">'+Math.abs(a.sigma).toFixed(1)+'σ</span>'
+          +'<span class="rc-btc">'+a.from_btc_pct+'% BTC</span></button>';
+      }).join('')+'</div>';
   }
 }
 function renderStatus(){
