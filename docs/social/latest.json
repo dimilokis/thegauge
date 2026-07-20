@@ -1,6 +1,6 @@
 {
  "date": "2026-07-20",
- "generated_at": "2026-07-20T21:30:49.062838+00:00",
+ "generated_at": "2026-07-20T22:15:50.135991+00:00",
  "assets": [
   {
    "symbol": "ACE",
@@ -59,6 +59,14 @@
    "file": "TREE.png"
   },
   {
+   "symbol": "ZIL",
+   "name": "Zilliqa",
+   "sigma": 2.77,
+   "from_btc_pct": 16,
+   "verdict": "Oversold",
+   "file": "ZIL.png"
+  },
+  {
    "symbol": "ZAMA",
    "name": "Zama",
    "sigma": 2.64,
@@ -73,14 +81,6 @@
    "from_btc_pct": 23,
    "verdict": "Oversold",
    "file": "BONK.png"
-  },
-  {
-   "symbol": "ZIL",
-   "name": "Zilliqa",
-   "sigma": 2.54,
-   "from_btc_pct": 16,
-   "verdict": "Oversold",
-   "file": "ZIL.png"
   },
   {
    "symbol": "ALICE",
