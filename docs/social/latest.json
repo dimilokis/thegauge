@@ -1,6 +1,6 @@
 {
  "date": "2026-07-20",
- "generated_at": "2026-07-20T15:15:53.481118+00:00",
+ "generated_at": "2026-07-20T16:15:50.852467+00:00",
  "assets": [
   {
    "symbol": "TURTLE",
@@ -35,14 +35,6 @@
    "file": "ZAMA.png"
   },
   {
-   "symbol": "BONK",
-   "name": "Bonk",
-   "sigma": 2.9,
-   "from_btc_pct": 20,
-   "verdict": "Oversold",
-   "file": "BONK.png"
-  },
-  {
    "symbol": "HEMI",
    "name": "Hemi",
    "sigma": 2.63,
@@ -65,6 +57,14 @@
    "from_btc_pct": 12,
    "verdict": "Overbought",
    "file": "ALICE.png"
+  },
+  {
+   "symbol": "BONK",
+   "name": "Bonk",
+   "sigma": 2.51,
+   "from_btc_pct": 24,
+   "verdict": "Oversold",
+   "file": "BONK.png"
   }
  ]
 }
