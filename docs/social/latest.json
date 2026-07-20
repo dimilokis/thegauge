@@ -1,6 +1,6 @@
 {
  "date": "2026-07-20",
- "generated_at": "2026-07-20T08:30:52.375806+00:00",
+ "generated_at": "2026-07-20T09:15:44.849352+00:00",
  "assets": [
   {
    "symbol": "ACE",
@@ -9,6 +9,14 @@
    "from_btc_pct": 3,
    "verdict": "Neutral",
    "file": "ACE.png"
+  },
+  {
+   "symbol": "HEMI",
+   "name": "Hemi",
+   "sigma": 3.19,
+   "from_btc_pct": 19,
+   "verdict": "Neutral",
+   "file": "HEMI.png"
   },
   {
    "symbol": "PROM",
