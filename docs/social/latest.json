@@ -1,6 +1,6 @@
 {
  "date": "2026-07-20",
- "generated_at": "2026-07-20T16:15:50.852467+00:00",
+ "generated_at": "2026-07-20T16:30:49.700780+00:00",
  "assets": [
   {
    "symbol": "TURTLE",
@@ -25,6 +25,14 @@
    "from_btc_pct": 3,
    "verdict": "Neutral",
    "file": "ACE.png"
+  },
+  {
+   "symbol": "NIGHT",
+   "name": "Midnight",
+   "sigma": 3.68,
+   "from_btc_pct": 3,
+   "verdict": "Oversold",
+   "file": "NIGHT.png"
   },
   {
    "symbol": "ZAMA",
