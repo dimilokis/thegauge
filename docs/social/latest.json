@@ -1,6 +1,6 @@
 {
  "date": "2026-07-20",
- "generated_at": "2026-07-20T06:15:49.356336+00:00",
+ "generated_at": "2026-07-20T07:15:43.288722+00:00",
  "assets": [
   {
    "symbol": "ACE",
@@ -9,6 +9,14 @@
    "from_btc_pct": 3,
    "verdict": "Neutral",
    "file": "ACE.png"
+  },
+  {
+   "symbol": "ZIL",
+   "name": "Zilliqa",
+   "sigma": 2.54,
+   "from_btc_pct": 25,
+   "verdict": "Oversold",
+   "file": "ZIL.png"
   }
  ]
 }
