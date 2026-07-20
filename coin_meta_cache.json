@@ -35,6 +35,10 @@
   "icon": "https://coin-images.coingecko.com/coins/images/4380/large/download.png?1696504978",
   "name": "Algorand"
  },
+ "ALICE": {
+  "icon": "https://coin-images.coingecko.com/coins/images/14375/large/alice_logo.jpg",
+  "name": "My Neighbor Alice"
+ },
  "ALLO": {
   "icon": "https://coin-images.coingecko.com/coins/images/70609/large/allo-token.png?1763451165",
   "name": "Allora"
