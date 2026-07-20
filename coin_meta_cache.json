@@ -107,6 +107,10 @@
   "icon": "https://coin-images.coingecko.com/coins/images/780/large/bitcoin-cash-circle.png?1696501932",
   "name": "Bitcoin Cash"
  },
+ "BERA": {
+  "icon": "https://coin-images.coingecko.com/coins/images/25235/large/BERA.png",
+  "name": "Berachain"
+ },
  "BFUSD": {
   "icon": "https://coin-images.coingecko.com/coins/images/68227/large/bfusd.png?1755132827",
   "name": "BFUSD"
