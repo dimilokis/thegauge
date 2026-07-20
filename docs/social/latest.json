@@ -1,6 +1,6 @@
 {
  "date": "2026-07-20",
- "generated_at": "2026-07-20T12:01:06.374989+00:00",
+ "generated_at": "2026-07-20T12:30:52.392495+00:00",
  "assets": [
   {
    "symbol": "ACE",
@@ -9,14 +9,6 @@
    "from_btc_pct": 3,
    "verdict": "Neutral",
    "file": "ACE.png"
-  },
-  {
-   "symbol": "HEMI",
-   "name": "Hemi",
-   "sigma": 3.14,
-   "from_btc_pct": 22,
-   "verdict": "Neutral",
-   "file": "HEMI.png"
   },
   {
    "symbol": "BONK",
@@ -35,6 +27,22 @@
    "file": "ZAMA.png"
   },
   {
+   "symbol": "PROM",
+   "name": "Prom",
+   "sigma": 2.74,
+   "from_btc_pct": 4,
+   "verdict": "Overbought",
+   "file": "PROM.png"
+  },
+  {
+   "symbol": "HEMI",
+   "name": "Hemi",
+   "sigma": 2.63,
+   "from_btc_pct": 25,
+   "verdict": "Neutral",
+   "file": "HEMI.png"
+  },
+  {
    "symbol": "ZIL",
    "name": "Zilliqa",
    "sigma": 2.54,
@@ -49,14 +57,6 @@
    "from_btc_pct": 12,
    "verdict": "Overbought",
    "file": "ALICE.png"
-  },
-  {
-   "symbol": "PROM",
-   "name": "Prom",
-   "sigma": 2.5,
-   "from_btc_pct": 3,
-   "verdict": "Overbought",
-   "file": "PROM.png"
   }
  ]
 }
