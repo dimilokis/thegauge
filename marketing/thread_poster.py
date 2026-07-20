@@ -5,11 +5,16 @@ logo depois de social_kit.add_hit() e do alerta do Telegram). Sem horario
 fixo, sem 1-post-por-dia: a thread cresce conforme os ativos entram em
 estado extremo, do jeito que o card do dia ja acumula em docs/social/.
 
-Custo (pay-per-use X API desde 6/fev/2026): $0.015/post sem link, $0.20/post
-com link. So o PRIMEIRO tweet do dia (a raiz da thread) leva link -- uma vez
-so, ali quem ve a thread ja sabe onde clicar. As replies seguintes (cada
-card novo) NAO levam link. Pior caso realista (MAX_DAY_CARDS=12 cards num
-dia caotico): $0.20 + 11*$0.015 ~= $0.365 naquele dia.
+ZERO link em qualquer post, sempre -- nem a raiz da thread leva link (era
+assim antes, tirado 20/jul). Custo pay-per-use (desde 6/fev/2026): $0.015
+por post SEM link, $0.20 COM link -- 13x mais caro, por isso nunca. Pior
+caso realista (MAX_DAY_CARDS=12 + 1 post de abertura): 13*$0.015 ~= $0.20
+naquele dia; a maioria dos dias custa uma fracao disso.
+
+Estrutura do dia: o 1o card do dia primeiro dispara um tweet de ABERTURA
+(sem imagem, so o gancho + hashtags genericas) -- e so DEPOIS o card em si
+entra como reply nesse tweet. Ou seja, a raiz nunca "engole" o primeiro
+card; todo card, incluindo o primeiro, sempre vira uma reply com imagem.
 
 Nao configurado (faltam as 4 secrets) ou X_THREAD_DRY_RUN=1 -> so loga e
 sai, mesmo padrao do send_telegram() em gauge_live.py: nunca derruba o
@@ -20,10 +25,17 @@ from datetime import date, datetime, timezone
 
 ROOT = os.path.dirname(os.path.abspath(__file__))
 STATE_PATH = os.path.join(ROOT, "thread_state.json")
-DASHBOARD_URL = os.environ.get("DASHBOARD_URL", "https://thegauge.art")
 SIGMA = "σ"
+POINT_DOWN = "\U0001F447"  # 👇
 
 ENV_VARS = ("X_API_KEY", "X_API_SECRET", "X_ACCESS_TOKEN", "X_ACCESS_SECRET")
+
+INTRO_TEXTS = [
+    "Today's outliers on The Gauge {}\n\nAssets moving statistically extreme today — "
+    "and independent of Bitcoin, not just riding its wave.\n\n#crypto #Bitcoin".format(POINT_DOWN),
+    "What stood out today {}\n\nEach one below moved in a way that's unusual for itself, "
+    "not just because the whole market moved.\n\n#crypto #Bitcoin".format(POINT_DOWN),
+]
 
 
 def log(msg):
@@ -49,9 +61,14 @@ def _save_state(s):
     json.dump(s, open(STATE_PATH, "w", encoding="utf-8"), indent=1)
 
 
+def _hashtags(symbol):
+    return "#{} #crypto #Bitcoin".format(symbol)
+
+
 def _card_caption(asset):
-    return "{} — {:.1f}{} move, only {}% explained by BTC. {}.".format(
-        asset["symbol"], abs(asset["sigma"]), SIGMA, asset["from_btc_pct"], asset["verdict"])
+    return "{} — {:.1f}{} move, only {}% explained by BTC. {}.\n\n{}".format(
+        asset["symbol"], abs(asset["sigma"]), SIGMA, asset["from_btc_pct"], asset["verdict"],
+        _hashtags(asset["symbol"]))
 
 
 def _clients():
@@ -68,8 +85,9 @@ def _clients():
 
 def post_card_to_thread(asset, png_path):
     """Chamado uma vez por ativo que ACABOU de entrar em estado extremo.
-    Cria a thread do dia se ainda nao existe (1o card = raiz, com link);
-    caso contrario, responde ao ultimo tweet da thread (sem link)."""
+    1o card do dia: cria o tweet de abertura (sem imagem, sem link) e DEPOIS
+    posta o card como reply dele. Cards seguintes: reply direto no ultimo
+    tweet da thread. Nenhum post, em nenhum momento, leva link."""
     if os.environ.get("X_THREAD_DRY_RUN") == "1":
         log("dry-run: postaria {} card na thread de hoje.".format(asset["symbol"]))
         return
@@ -84,21 +102,20 @@ def post_card_to_thread(asset, png_path):
 
     try:
         api_v1, client_v2 = _clients()
-        media = api_v1.media_upload(filename=png_path)
 
         if state["root_id"] is None:
-            text = ("Today's outliers on The Gauge — cards post live as they cross the "
-                     "threshold, not on a fixed schedule.\n\n" + DASHBOARD_URL + "/social.html\n\n"
-                     + _card_caption(asset))
-            resp = client_v2.create_tweet(text=text, media_ids=[media.media_id_string])
-            new_id = resp.data["id"]
-            state["root_id"] = new_id
-            log("thread do dia criada, raiz={}".format(new_id))
-        else:
-            resp = client_v2.create_tweet(text=_card_caption(asset), media_ids=[media.media_id_string],
-                                          in_reply_to_tweet_id=state["last_id"])
-            new_id = resp.data["id"]
-            log("card de {} postado como reply em {}".format(asset["symbol"], state["last_id"]))
+            import random
+            intro = random.Random(date.today().toordinal()).choice(INTRO_TEXTS)
+            resp = client_v2.create_tweet(text=intro)
+            state["root_id"] = resp.data["id"]
+            state["last_id"] = state["root_id"]
+            log("thread do dia aberta, raiz={}".format(state["root_id"]))
+
+        media = api_v1.media_upload(filename=png_path)
+        resp = client_v2.create_tweet(text=_card_caption(asset), media_ids=[media.media_id_string],
+                                      in_reply_to_tweet_id=state["last_id"])
+        new_id = resp.data["id"]
+        log("card de {} postado como reply em {}".format(asset["symbol"], state["last_id"]))
 
         state["last_id"] = new_id
         state["posted"].append(asset["symbol"])
