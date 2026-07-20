@@ -1,9 +1,12 @@
-name: Daily X post
+name: Daily X post (1x/dia, angulo unico -- SUPERSEDIDO 20/jul)
 
 on:
-  # Agendamento automatico desligado (automacao paga do X nao esta em uso).
-  # Continua disparavel manualmente na aba Actions se um dia for ligar.
-  # Pra reativar: descomenta as 2 linhas abaixo.
+  # SUPERSEDIDO: a postagem no X agora acontece dentro de update_v2.yml,
+  # em tempo real, via marketing/thread_poster.py -- cada card novo vira
+  # reply na thread do dia assim que entra em estado extremo, nao 1x/dia
+  # num horario fixo. Este workflow fica so pra postagem manual avulsa
+  # (1 tweet com o angulo mais forte do momento), se um dia fizer sentido.
+  # Agendamento automatico desligado (decisao anterior, ainda vale aqui).
   # schedule:
   #   - cron: "0 13 * * *"   # 13:00 UTC = ~10:00 Brasilia — 1x por dia
   workflow_dispatch:

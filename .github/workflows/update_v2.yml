@@ -28,13 +28,17 @@ jobs:
         env:
           TG_BOT_TOKEN: ${{ secrets.TG_BOT_TOKEN }}
           TG_CHAT_ID: ${{ secrets.TG_CHAT_ID }}
+          X_API_KEY: ${{ secrets.X_API_KEY }}
+          X_API_SECRET: ${{ secrets.X_API_SECRET }}
+          X_ACCESS_TOKEN: ${{ secrets.X_ACCESS_TOKEN }}
+          X_ACCESS_SECRET: ${{ secrets.X_ACCESS_SECRET }}
         run: python gauge_live.py
 
       - name: Commit updated snapshot
         run: |
           git config user.name "gauge-bot"
           git config user.email "actions@users.noreply.github.com"
-          git add docs/gauge_live.json alert_state.json coin_meta_cache.json docs/social analytics_log.jsonl move_tier_state.json
+          git add docs/gauge_live.json alert_state.json coin_meta_cache.json docs/social analytics_log.jsonl move_tier_state.json marketing/thread_state.json
           if git diff --cached --quiet; then
             echo "Nada novo pra commitar nesta run."
             exit 0
