@@ -1,12 +1,12 @@
 {
  "date": "2026-07-20",
- "generated_at": "2026-07-20T03:30:50.398350+00:00",
+ "generated_at": "2026-07-20T05:45:48.520874+00:00",
  "assets": [
   {
    "symbol": "ACE",
    "name": "Fusionist",
-   "sigma": 3.29,
-   "from_btc_pct": 4,
+   "sigma": 2.7,
+   "from_btc_pct": 3,
    "verdict": "Neutral",
    "file": "ACE.png"
   }

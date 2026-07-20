@@ -699,6 +699,10 @@
   "icon": "https://coin-images.coingecko.com/coins/images/44/large/xrp-symbol-white-128.png?1696501442",
   "name": "XRP"
  },
+ "XVG": {
+  "icon": "https://coin-images.coingecko.com/coins/images/203/large/Verge_Coin_%28native%29_icon_200x200.jpg",
+  "name": "Verge"
+ },
  "YB": {
   "icon": "https://coin-images.coingecko.com/coins/images/54871/large/yieldbasis_400x400.png",
   "name": "Yield Basis"
