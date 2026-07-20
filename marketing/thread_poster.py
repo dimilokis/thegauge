@@ -7,9 +7,15 @@ estado extremo, do jeito que o card do dia ja acumula em docs/social/.
 
 ZERO link em qualquer post, sempre -- nem a raiz da thread leva link (era
 assim antes, tirado 20/jul). Custo pay-per-use (desde 6/fev/2026): $0.015
-por post SEM link, $0.20 COM link -- 13x mais caro, por isso nunca. Pior
-caso realista (MAX_DAY_CARDS=12 + 1 post de abertura): 13*$0.015 ~= $0.20
-naquele dia; a maioria dos dias custa uma fracao disso.
+por post SEM link, $0.20 COM link -- 13x mais caro, por isso nunca.
+
+CORRECAO 20/jul (medido na conta real): todo card SEMPRE leva imagem, e o
+upload de midia e' um fluxo de varias chamadas (init/append/finalize), cada
+uma cobrada -- na pratica um post com imagem saiu em ~$0.03, nao os $0.015
+de um post so-texto. So a raiz/abertura do dia (sem imagem) fica nos
+$0.015 mesmo. Pior caso realista (MAX_DAY_CARDS=12 cards com imagem + 1
+abertura sem): 12*$0.03 + $0.015 ~= $0.375 naquele dia; a maioria dos dias
+custa uma fracao disso.
 
 Estrutura do dia: o 1o card do dia primeiro dispara um tweet de ABERTURA
 (sem imagem, so o gancho + hashtags genericas) -- e so DEPOIS o card em si
