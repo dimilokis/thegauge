@@ -1,7 +1,15 @@
 {
  "date": "2026-07-20",
- "generated_at": "2026-07-20T13:15:50.224376+00:00",
+ "generated_at": "2026-07-20T14:30:57.627821+00:00",
  "assets": [
+  {
+   "symbol": "TURTLE",
+   "name": "Turtle",
+   "sigma": 4.36,
+   "from_btc_pct": 14,
+   "verdict": "Neutral",
+   "file": "TURTLE.png"
+  },
   {
    "symbol": "PROM",
    "name": "Prom",

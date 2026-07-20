@@ -655,6 +655,10 @@
   "icon": "https://coin-images.coingecko.com/coins/images/1094/large/photo_2026-04-13_09-59-16.png?1776048311",
   "name": "TRON"
  },
+ "TURTLE": {
+  "icon": "https://coin-images.coingecko.com/coins/images/69595/large/OUDzqTkE_400x400.png",
+  "name": "Turtle"
+ },
  "U": {
   "icon": "https://coin-images.coingecko.com/coins/images/71157/large/united-stables-logo.jpg?1766061640",
   "name": "United Stables"
