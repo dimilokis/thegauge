@@ -1,6 +1,6 @@
 {
  "date": "2026-07-20",
- "generated_at": "2026-07-20T21:00:55.811001+00:00",
+ "generated_at": "2026-07-20T21:15:46.870990+00:00",
  "assets": [
   {
    "symbol": "ACE",
@@ -43,20 +43,20 @@
    "file": "TOWNS.png"
   },
   {
+   "symbol": "MET",
+   "name": "Meteora",
+   "sigma": 3.07,
+   "from_btc_pct": 10,
+   "verdict": "Overbought",
+   "file": "MET.png"
+  },
+  {
    "symbol": "TREE",
    "name": "Treehouse",
    "sigma": 2.79,
    "from_btc_pct": 18,
    "verdict": "Oversold",
    "file": "TREE.png"
-  },
-  {
-   "symbol": "MET",
-   "name": "Meteora",
-   "sigma": 2.67,
-   "from_btc_pct": 11,
-   "verdict": "Overbought",
-   "file": "MET.png"
   },
   {
    "symbol": "ZAMA",
