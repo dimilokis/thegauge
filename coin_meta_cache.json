@@ -411,6 +411,10 @@
   "icon": "https://coin-images.coingecko.com/coins/images/69110/large/meteora.png?1757517561",
   "name": "Meteora"
  },
+ "MITO": {
+  "icon": "https://coin-images.coingecko.com/coins/images/68355/large/mitosis.png",
+  "name": "Mitosis"
+ },
  "MMT": {
   "icon": "https://coin-images.coingecko.com/coins/images/69899/large/4_icon_PFP_RGB.png?1762090516",
   "name": "Momentum"

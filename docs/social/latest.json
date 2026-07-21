@@ -1,6 +1,6 @@
 {
  "date": "2026-07-21",
- "generated_at": "2026-07-21T15:45:46.566705+00:00",
+ "generated_at": "2026-07-21T18:45:51.281222+00:00",
  "assets": [
   {
    "symbol": "ONE",
@@ -67,6 +67,14 @@
    "file": "XNO.png"
   },
   {
+   "symbol": "PROM",
+   "name": "Prom",
+   "sigma": 2.74,
+   "from_btc_pct": 1,
+   "verdict": "Neutral",
+   "file": "PROM.png"
+  },
+  {
    "symbol": "HEMI",
    "name": "Hemi",
    "sigma": 2.69,
@@ -89,14 +97,6 @@
    "from_btc_pct": 1,
    "verdict": "Neutral",
    "file": "TOWNS.png"
-  },
-  {
-   "symbol": "RIF",
-   "name": "Rootstock Infrastructure Framework",
-   "sigma": 2.53,
-   "from_btc_pct": 3,
-   "verdict": "Neutral",
-   "file": "RIF.png"
   }
  ]
 }
