@@ -395,6 +395,10 @@
   "icon": "https://coin-images.coingecko.com/coins/images/102172151/large/OM_Token_Primary-1K.png?1771922964",
   "name": "MANTRA"
  },
+ "ME": {
+  "icon": "https://coin-images.coingecko.com/coins/images/39850/large/_ME_Profile_Dark_2x.png",
+  "name": "Magic Eden"
+ },
  "MEGA": {
   "icon": "https://coin-images.coingecko.com/coins/images/69995/large/9fcb2fa4-b240-46e2-9016-c4f6101a139d.jpeg?1778485816",
   "name": "MegaETH"
