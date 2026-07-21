@@ -1,6 +1,6 @@
 {
  "date": "2026-07-21",
- "generated_at": "2026-07-21T14:30:57.491620+00:00",
+ "generated_at": "2026-07-21T15:31:02.782014+00:00",
  "assets": [
   {
    "symbol": "ONE",
@@ -33,6 +33,14 @@
    "from_btc_pct": 28,
    "verdict": "Oversold",
    "file": "KERNEL.png"
+  },
+  {
+   "symbol": "NIGHT",
+   "name": "Midnight",
+   "sigma": 3.32,
+   "from_btc_pct": 3,
+   "verdict": "Oversold",
+   "file": "NIGHT.png"
   },
   {
    "symbol": "DEXE",
@@ -89,14 +97,6 @@
    "from_btc_pct": 3,
    "verdict": "Neutral",
    "file": "RIF.png"
-  },
-  {
-   "symbol": "BANK",
-   "name": "Lorenzo Protocol",
-   "sigma": 2.51,
-   "from_btc_pct": 0,
-   "verdict": "Neutral",
-   "file": "BANK.png"
   }
  ]
 }
