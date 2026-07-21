@@ -1,6 +1,6 @@
 {
  "date": "2026-07-21",
- "generated_at": "2026-07-21T21:44:20.406539+00:00",
+ "generated_at": "2026-07-21T22:00:56.343693+00:00",
  "assets": [
   {
    "symbol": "ONE",
@@ -75,6 +75,14 @@
    "file": "HEMI.png"
   },
   {
+   "symbol": "ACE",
+   "name": "Fusionist",
+   "sigma": 2.65,
+   "from_btc_pct": 1,
+   "verdict": "Neutral",
+   "file": "ACE.png"
+  },
+  {
    "symbol": "TREE",
    "name": "Treehouse",
    "sigma": 2.6,
@@ -89,14 +97,6 @@
    "from_btc_pct": 1,
    "verdict": "Neutral",
    "file": "TOWNS.png"
-  },
-  {
-   "symbol": "PROM",
-   "name": "Prom",
-   "sigma": 2.55,
-   "from_btc_pct": 1,
-   "verdict": "Neutral",
-   "file": "PROM.png"
   }
  ]
 }
