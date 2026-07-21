@@ -1,6 +1,6 @@
 {
  "date": "2026-07-21",
- "generated_at": "2026-07-21T13:45:52.535828+00:00",
+ "generated_at": "2026-07-21T14:30:57.491620+00:00",
  "assets": [
   {
    "symbol": "ONE",
@@ -59,14 +59,6 @@
    "file": "XNO.png"
   },
   {
-   "symbol": "BANK",
-   "name": "Lorenzo Protocol",
-   "sigma": 2.91,
-   "from_btc_pct": 0,
-   "verdict": "Neutral",
-   "file": "BANK.png"
-  },
-  {
    "symbol": "HEMI",
    "name": "Hemi",
    "sigma": 2.69,
@@ -97,6 +89,14 @@
    "from_btc_pct": 3,
    "verdict": "Neutral",
    "file": "RIF.png"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Lorenzo Protocol",
+   "sigma": 2.51,
+   "from_btc_pct": 0,
+   "verdict": "Neutral",
+   "file": "BANK.png"
   }
  ]
 }
