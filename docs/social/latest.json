@@ -1,7 +1,15 @@
 {
  "date": "2026-07-21",
- "generated_at": "2026-07-21T02:45:44.331989+00:00",
+ "generated_at": "2026-07-21T03:45:47.407129+00:00",
  "assets": [
+  {
+   "symbol": "LA",
+   "name": null,
+   "sigma": 7.88,
+   "from_btc_pct": 9,
+   "verdict": "Neutral",
+   "file": "LA.png"
+  },
   {
    "symbol": "ERA",
    "name": "Caldera",
