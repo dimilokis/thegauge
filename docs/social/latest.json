@@ -1,6 +1,6 @@
 {
  "date": "2026-07-21",
- "generated_at": "2026-07-21T08:15:53.595550+00:00",
+ "generated_at": "2026-07-21T08:45:50.431518+00:00",
  "assets": [
   {
    "symbol": "LA",
@@ -49,6 +49,14 @@
    "from_btc_pct": 6,
    "verdict": "Neutral",
    "file": "XNO.png"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Lorenzo Protocol",
+   "sigma": 2.82,
+   "from_btc_pct": 0,
+   "verdict": "Neutral",
+   "file": "BANK.png"
   },
   {
    "symbol": "HEMI",
