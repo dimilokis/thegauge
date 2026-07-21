@@ -1,6 +1,6 @@
 {
  "date": "2026-07-21",
- "generated_at": "2026-07-21T00:45:49.106023+00:00",
+ "generated_at": "2026-07-21T00:56:42.976038+00:00",
  "assets": [
   {
    "symbol": "ERA",
@@ -9,6 +9,14 @@
    "from_btc_pct": 23,
    "verdict": "Oversold",
    "file": "ERA.png"
+  },
+  {
+   "symbol": "XNO",
+   "name": "Nano",
+   "sigma": 3.22,
+   "from_btc_pct": 5,
+   "verdict": "Neutral",
+   "file": "XNO.png"
   }
  ]
 }
