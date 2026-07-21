@@ -1,6 +1,6 @@
 {
  "date": "2026-07-21",
- "generated_at": "2026-07-21T06:00:53.084575+00:00",
+ "generated_at": "2026-07-21T07:45:51.436186+00:00",
  "assets": [
   {
    "symbol": "LA",
@@ -17,6 +17,14 @@
    "from_btc_pct": 23,
    "verdict": "Oversold",
    "file": "ERA.png"
+  },
+  {
+   "symbol": "KERNEL",
+   "name": "KernelDAO",
+   "sigma": 3.69,
+   "from_btc_pct": 28,
+   "verdict": "Oversold",
+   "file": "KERNEL.png"
   },
   {
    "symbol": "YGG",

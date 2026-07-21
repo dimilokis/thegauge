@@ -351,6 +351,10 @@
   "icon": "https://coin-images.coingecko.com/coins/images/70225/large/katana-social-icon.png?1761121098",
   "name": "Katana"
  },
+ "KERNEL": {
+  "icon": "https://coin-images.coingecko.com/coins/images/54326/large/Kernel_token_logo_2x.png",
+  "name": "KernelDAO"
+ },
  "KGST": {
   "icon": "https://coin-images.coingecko.com/coins/images/71268/large/kgst.png?1766792707",
   "name": "Kyrgyz Som Stablecoin"
