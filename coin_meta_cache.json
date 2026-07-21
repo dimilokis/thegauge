@@ -12,7 +12,7 @@
   "name": "Aave"
  },
  "ACE": {
-  "icon": "https://coin-images.coingecko.com/coins/images/33528/large/ACE.png",
+  "icon": "https://coin-images.coingecko.com/coins/images/33528/large/ACE.png?1702254943",
   "name": "Fusionist"
  },
  "ACT": {
@@ -40,7 +40,7 @@
   "name": "Algorand"
  },
  "ALICE": {
-  "icon": "https://coin-images.coingecko.com/coins/images/14375/large/alice_logo.jpg",
+  "icon": "https://coin-images.coingecko.com/coins/images/14375/large/alice_logo.jpg?1696514067",
   "name": "My Neighbor Alice"
  },
  "ALLO": {
@@ -112,7 +112,7 @@
   "name": "Bitcoin Cash"
  },
  "BERA": {
-  "icon": "https://coin-images.coingecko.com/coins/images/25235/large/BERA.png",
+  "icon": "https://coin-images.coingecko.com/coins/images/25235/large/BERA.png?1738822008",
   "name": "Berachain"
  },
  "BFUSD": {
@@ -256,7 +256,7 @@
   "name": "FLOKI"
  },
  "FORM": {
-  "icon": "https://coin-images.coingecko.com/coins/images/54912/large/four.jpg",
+  "icon": "https://coin-images.coingecko.com/coins/images/54912/large/four.jpg?1742461445",
   "name": "Four"
  },
  "G": {
@@ -472,7 +472,7 @@
   "name": "PHALA"
  },
  "PIXEL": {
-  "icon": "https://coin-images.coingecko.com/coins/images/35100/large/pixel-icon.png",
+  "icon": "https://coin-images.coingecko.com/coins/images/35100/large/pixel-icon.png?1708339519",
   "name": "Pixels"
  },
  "PLUME": {
@@ -488,7 +488,7 @@
   "name": "FC Porto"
  },
  "PROM": {
-  "icon": "https://coin-images.coingecko.com/coins/images/8825/large/Ticker.png",
+  "icon": "https://coin-images.coingecko.com/coins/images/8825/large/Ticker.png?1696508978",
   "name": "Prom"
  },
  "PUMP": {
@@ -540,7 +540,7 @@
   "name": "THORChain"
  },
  "SAGA": {
-  "icon": "https://coin-images.coingecko.com/coins/images/25691/large/zcPXETKs_400x400.jpg",
+  "icon": "https://coin-images.coingecko.com/coins/images/25691/large/zcPXETKs_400x400.jpg?1696524818",
   "name": "Saga"
  },
  "SANTOS": {
@@ -548,7 +548,7 @@
   "name": "Santos FC Fan Token"
  },
  "SAPIEN": {
-  "icon": "https://coin-images.coingecko.com/coins/images/68423/large/logo.png",
+  "icon": "https://coin-images.coingecko.com/coins/images/68423/large/logo.png?1755710030",
   "name": "Sapien"
  },
  "SEI": {
@@ -588,7 +588,7 @@
   "name": "Spell"
  },
  "SPK": {
-  "icon": "https://coin-images.coingecko.com/coins/images/38637/large/Spark-Logomark-RGB.png",
+  "icon": "https://coin-images.coingecko.com/coins/images/38637/large/Spark-Logomark-RGB.png?1744878896",
   "name": "Spark"
  },
  "STORJ": {
@@ -724,11 +724,11 @@
   "name": "XRP"
  },
  "XVG": {
-  "icon": "https://coin-images.coingecko.com/coins/images/203/large/Verge_Coin_%28native%29_icon_200x200.jpg",
+  "icon": "https://coin-images.coingecko.com/coins/images/203/large/Verge_Coin_%28native%29_icon_200x200.jpg?1699220755",
   "name": "Verge"
  },
  "YB": {
-  "icon": "https://coin-images.coingecko.com/coins/images/54871/large/yieldbasis_400x400.png",
+  "icon": "https://coin-images.coingecko.com/coins/images/54871/large/yieldbasis_400x400.png?1760514173",
   "name": "Yield Basis"
  },
  "YGG": {
@@ -752,7 +752,7 @@
   "name": "Horizen"
  },
  "ZIL": {
-  "icon": "https://coin-images.coingecko.com/coins/images/2687/large/Zilliqa-logo.png",
+  "icon": "https://coin-images.coingecko.com/coins/images/2687/large/Zilliqa-logo.png?1696503475",
   "name": "Zilliqa"
  },
  "ZK": {
