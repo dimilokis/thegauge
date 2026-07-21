@@ -1,6 +1,6 @@
 {
  "date": "2026-07-21",
- "generated_at": "2026-07-21T20:30:53.361171+00:00",
+ "generated_at": "2026-07-21T21:15:53.719481+00:00",
  "assets": [
   {
    "symbol": "ONE",
@@ -93,7 +93,7 @@
   {
    "symbol": "PROM",
    "name": "Prom",
-   "sigma": 2.52,
+   "sigma": 2.56,
    "from_btc_pct": 1,
    "verdict": "Neutral",
    "file": "PROM.png"
