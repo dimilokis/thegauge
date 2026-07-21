@@ -1,6 +1,6 @@
 {
  "date": "2026-07-21",
- "generated_at": "2026-07-21T00:56:42.976038+00:00",
+ "generated_at": "2026-07-21T01:30:48.419887+00:00",
  "assets": [
   {
    "symbol": "ERA",
@@ -13,8 +13,8 @@
   {
    "symbol": "XNO",
    "name": "Nano",
-   "sigma": 3.22,
-   "from_btc_pct": 5,
+   "sigma": 2.68,
+   "from_btc_pct": 6,
    "verdict": "Neutral",
    "file": "XNO.png"
   }

@@ -283,6 +283,10 @@
   "icon": "https://coin-images.coingecko.com/coins/images/662/large/logo_square_simple_300px.png?1696501854",
   "name": "Gnosis"
  },
+ "HAEDAL": {
+  "icon": "https://coin-images.coingecko.com/coins/images/55420/large/haedal.jpg",
+  "name": "Haedal Protocol"
+ },
  "HBAR": {
   "icon": "https://coin-images.coingecko.com/coins/images/3688/large/hbar.png?1696504364",
   "name": "Hedera"
