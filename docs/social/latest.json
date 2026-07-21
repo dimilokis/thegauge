@@ -1,102 +1,14 @@
 {
- "date": "2026-07-20",
- "generated_at": "2026-07-20T23:12:36.096133+00:00",
+ "date": "2026-07-21",
+ "generated_at": "2026-07-21T00:45:49.106023+00:00",
  "assets": [
   {
-   "symbol": "ACE",
-   "name": "Fusionist",
-   "sigma": 9.35,
-   "from_btc_pct": 5,
-   "verdict": "Overbought",
-   "file": "ACE.png"
-  },
-  {
-   "symbol": "NIGHT",
-   "name": "Midnight",
-   "sigma": 6.36,
-   "from_btc_pct": 1,
-   "verdict": "Oversold",
-   "file": "NIGHT.png"
-  },
-  {
-   "symbol": "HEMI",
-   "name": "Hemi",
-   "sigma": 6.25,
-   "from_btc_pct": 23,
-   "verdict": "Neutral",
-   "file": "HEMI.png"
-  },
-  {
-   "symbol": "PROM",
-   "name": "Prom",
-   "sigma": 5.52,
-   "from_btc_pct": 6,
-   "verdict": "Overbought",
-   "file": "PROM.png"
-  },
-  {
-   "symbol": "TOWNS",
-   "name": "Towns",
-   "sigma": 3.98,
-   "from_btc_pct": 4,
-   "verdict": "Neutral",
-   "file": "TOWNS.png"
-  },
-  {
-   "symbol": "MET",
-   "name": "Meteora",
-   "sigma": 3.07,
-   "from_btc_pct": 10,
-   "verdict": "Overbought",
-   "file": "MET.png"
-  },
-  {
-   "symbol": "YB",
-   "name": "Yield Basis",
-   "sigma": 2.93,
-   "from_btc_pct": 13,
-   "verdict": "Neutral",
-   "file": "YB.png"
-  },
-  {
-   "symbol": "TREE",
-   "name": "Treehouse",
-   "sigma": 2.79,
-   "from_btc_pct": 18,
-   "verdict": "Oversold",
-   "file": "TREE.png"
-  },
-  {
-   "symbol": "ZIL",
-   "name": "Zilliqa",
-   "sigma": 2.77,
-   "from_btc_pct": 16,
-   "verdict": "Oversold",
-   "file": "ZIL.png"
-  },
-  {
-   "symbol": "ZAMA",
-   "name": "Zama",
-   "sigma": 2.64,
-   "from_btc_pct": 11,
-   "verdict": "Overbought",
-   "file": "ZAMA.png"
-  },
-  {
-   "symbol": "BONK",
-   "name": "Bonk",
-   "sigma": 2.64,
+   "symbol": "ERA",
+   "name": "Caldera",
+   "sigma": 5.16,
    "from_btc_pct": 23,
    "verdict": "Oversold",
-   "file": "BONK.png"
-  },
-  {
-   "symbol": "ALICE",
-   "name": "My Neighbor Alice",
-   "sigma": 2.52,
-   "from_btc_pct": 12,
-   "verdict": "Overbought",
-   "file": "ALICE.png"
+   "file": "ERA.png"
   }
  ]
 }

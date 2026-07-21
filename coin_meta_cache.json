@@ -223,6 +223,10 @@
   "icon": "https://coin-images.coingecko.com/coins/images/54734/large/PFP.png?1753421273",
   "name": "Epic Chain"
  },
+ "ERA": {
+  "icon": "https://coin-images.coingecko.com/coins/images/54475/large/Token_Logo.png",
+  "name": "Caldera"
+ },
  "ESP": {
   "icon": "https://coin-images.coingecko.com/coins/images/67626/large/espresso.jpg",
   "name": "Espresso"
