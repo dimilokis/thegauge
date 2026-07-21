@@ -208,7 +208,7 @@ footer a:hover { color: var(--muted); }
   <div class="page-head">
     <p class="section-eyebrow">The Dashboard</p>
     <h1 class="serif">This is <em>live.</em></h1>
-    <p class="page-sub" id="pageSub">The real top crypto assets by 24h volume, scored right now. Free, no signup, updating every hour.</p>
+    <p class="page-sub" id="pageSub">The real top crypto assets by 24h volume, scored right now. Free, no signup, updating every 15 min.</p>
     <div class="live-badge" style="margin-top:18px"><div class="live-dot" id="dashLiveDot"></div><span id="dashLiveTxt">loading…</span></div>
   </div>
 
@@ -437,7 +437,7 @@ function renderStatus(){
   const txt = (stale?'stale · ':'live · ')+DATA.universe_size+' assets · updated '+(ageMin<60?ageMin+' min ago':Math.round(ageMin/60)+'h ago');
   document.getElementById('dashLiveDot').classList.toggle('stale', stale);
   document.getElementById('dashLiveTxt').textContent = txt;
-  document.getElementById('pageSub').textContent = 'The real top '+DATA.universe_size+' crypto assets by 24h volume, scored right now. Free, no signup, updating every hour.'
+  document.getElementById('pageSub').textContent = 'The real top '+DATA.universe_size+' crypto assets by 24h volume, scored right now. Free, no signup, updating every 15 min.'
     + (DATA.universe_size < 100 ? ' (some of the top 100 by ranking failed to load this run and were skipped, not invented.)' : '');
 }
 
