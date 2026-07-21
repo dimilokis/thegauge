@@ -1,6 +1,6 @@
 {
  "date": "2026-07-21",
- "generated_at": "2026-07-21T09:01:00.883218+00:00",
+ "generated_at": "2026-07-21T09:30:59.983207+00:00",
  "assets": [
   {
    "symbol": "LA",
@@ -53,7 +53,7 @@
   {
    "symbol": "BANK",
    "name": "Lorenzo Protocol",
-   "sigma": 2.82,
+   "sigma": 2.91,
    "from_btc_pct": 0,
    "verdict": "Neutral",
    "file": "BANK.png"
@@ -73,6 +73,14 @@
    "from_btc_pct": 17,
    "verdict": "Oversold",
    "file": "TREE.png"
+  },
+  {
+   "symbol": "TOWNS",
+   "name": "Towns",
+   "sigma": 2.56,
+   "from_btc_pct": 1,
+   "verdict": "Neutral",
+   "file": "TOWNS.png"
   }
  ]
 }
