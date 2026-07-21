@@ -1,6 +1,6 @@
 {
  "date": "2026-07-21",
- "generated_at": "2026-07-21T11:15:48.502150+00:00",
+ "generated_at": "2026-07-21T13:15:47.508493+00:00",
  "assets": [
   {
    "symbol": "LA",
@@ -81,6 +81,14 @@
    "from_btc_pct": 1,
    "verdict": "Neutral",
    "file": "TOWNS.png"
+  },
+  {
+   "symbol": "RIF",
+   "name": "Rootstock Infrastructure Framework",
+   "sigma": 2.53,
+   "from_btc_pct": 3,
+   "verdict": "Neutral",
+   "file": "RIF.png"
   },
   {
    "symbol": "PROM",
