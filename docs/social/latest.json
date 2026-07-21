@@ -1,6 +1,6 @@
 {
  "date": "2026-07-21",
- "generated_at": "2026-07-21T07:45:51.436186+00:00",
+ "generated_at": "2026-07-21T08:15:53.595550+00:00",
  "assets": [
   {
    "symbol": "LA",
@@ -35,12 +35,28 @@
    "file": "YGG.png"
   },
   {
+   "symbol": "DEXE",
+   "name": "DeXe",
+   "sigma": 3.0,
+   "from_btc_pct": 1,
+   "verdict": "Overbought",
+   "file": "DEXE.png"
+  },
+  {
    "symbol": "XNO",
    "name": "Nano",
    "sigma": 2.97,
    "from_btc_pct": 6,
    "verdict": "Neutral",
    "file": "XNO.png"
+  },
+  {
+   "symbol": "HEMI",
+   "name": "Hemi",
+   "sigma": 2.69,
+   "from_btc_pct": 8,
+   "verdict": "Neutral",
+   "file": "HEMI.png"
   },
   {
    "symbol": "TREE",
