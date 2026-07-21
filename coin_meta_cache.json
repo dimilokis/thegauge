@@ -279,6 +279,10 @@
   "icon": "https://coin-images.coingecko.com/coins/images/858/large/GAS_512_512.png?1696501992",
   "name": "Gas"
  },
+ "GENIUS": {
+  "icon": "https://coin-images.coingecko.com/coins/images/71660/large/genius.png",
+  "name": "Genius"
+ },
  "GIGGLE": {
   "icon": "https://coin-images.coingecko.com/coins/images/69414/large/giggle-fund.jpg?1758541887",
   "name": "Giggle Fund"
