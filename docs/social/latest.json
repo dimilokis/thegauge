@@ -1,6 +1,6 @@
 {
  "date": "2026-07-21",
- "generated_at": "2026-07-21T03:45:47.407129+00:00",
+ "generated_at": "2026-07-21T04:28:44.375957+00:00",
  "assets": [
   {
    "symbol": "LA",
@@ -17,6 +17,14 @@
    "from_btc_pct": 23,
    "verdict": "Oversold",
    "file": "ERA.png"
+  },
+  {
+   "symbol": "YGG",
+   "name": "Yield Guild Games",
+   "sigma": 3.19,
+   "from_btc_pct": 32,
+   "verdict": "Oversold",
+   "file": "YGG.png"
   },
   {
    "symbol": "XNO",
