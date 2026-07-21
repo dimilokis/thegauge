@@ -27,7 +27,9 @@ sai, mesmo padrao do send_telegram() em gauge_live.py: nunca derruba o
 resto do pipeline por causa disso.
 """
 import os, json
-from datetime import date, datetime, timezone
+from datetime import datetime, timezone
+
+from localday import today as br_today
 
 ROOT = os.path.dirname(os.path.abspath(__file__))
 STATE_PATH = os.path.join(ROOT, "thread_state.json")
@@ -53,7 +55,7 @@ def _configured():
 
 
 def _load_state():
-    today = date.today().isoformat()
+    today = br_today().isoformat()
     try:
         s = json.load(open(STATE_PATH, encoding="utf-8"))
         if s.get("date") == today:
@@ -111,7 +113,7 @@ def post_card_to_thread(asset, png_path):
 
         if state["root_id"] is None:
             import random
-            intro = random.Random(date.today().toordinal()).choice(INTRO_TEXTS)
+            intro = random.Random(br_today().toordinal()).choice(INTRO_TEXTS)
             resp = client_v2.create_tweet(text=intro)
             state["root_id"] = resp.data["id"]
             state["last_id"] = state["root_id"]

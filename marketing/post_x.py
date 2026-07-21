@@ -10,13 +10,14 @@ Precisa das secrets: X_API_KEY, X_API_SECRET, X_ACCESS_TOKEN, X_ACCESS_SECRET
 (gerados no X Developer Portal, App com permissao Read+Write, OAuth 1.0a).
 """
 import os, sys, json, argparse
-from datetime import date, datetime, timezone
+from datetime import datetime, timezone
 
 if sys.stdout.encoding and sys.stdout.encoding.lower() != "utf-8":
     sys.stdout.reconfigure(encoding="utf-8", errors="replace")
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from angles import build_tweet
+from localday import today as br_today
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 JSON_PATH = os.path.join(ROOT, "docs", "gauge_live.json")
@@ -31,13 +32,13 @@ def log(m):
 def already_posted_today():
     try:
         s = json.load(open(STATE_PATH))
-        return s.get("date") == date.today().isoformat()
+        return s.get("date") == br_today().isoformat()
     except Exception:
         return False
 
 
 def save_state(angle, text):
-    json.dump({"date": date.today().isoformat(), "angle": angle, "text": text},
+    json.dump({"date": br_today().isoformat(), "angle": angle, "text": text},
                open(STATE_PATH, "w"), indent=2)
 
 

@@ -13,9 +13,10 @@ campos deste manifest — nao existe mais post.txt com thread numerada: o
 usuario posta cada card como imagem+texto avulsos (copy image / copy text),
 nao como thread."""
 import os, json
-from datetime import date, datetime, timezone
+from datetime import datetime, timezone
 
 from card_render import render_card
+from localday import today as br_today
 
 GAUGE_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 OUT_ROOT = os.path.join(GAUGE_ROOT, "docs", "social")
@@ -27,7 +28,7 @@ def _manifest_path():
 
 
 def _load_today_manifest():
-    today = date.today().isoformat()
+    today = br_today().isoformat()
     try:
         m = json.load(open(_manifest_path(), encoding="utf-8"))
         if m.get("date") == today:
@@ -41,7 +42,7 @@ def add_hit(asset):
     """Renderiza o card do asset e atualiza o kit social do dia (acumula,
     nao sobrescreve os outros ativos que ja entraram hoje). Devolve o path
     do PNG gerado, pra quem chamou (ex.: alerta do Telegram) poder anexar."""
-    today = date.today().isoformat()
+    today = br_today().isoformat()
     out_dir = os.path.join(OUT_ROOT, today)
     os.makedirs(out_dir, exist_ok=True)
     png_path = os.path.join(out_dir, "{}.png".format(asset["symbol"]))

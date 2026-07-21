@@ -3,7 +3,8 @@
 do dia a partir do snapshot real e gera o texto do tweet), adaptada pra rodar
 sem clipboard dentro do GitHub Actions. Todo numero vem do JSON real."""
 import itertools, random
-from datetime import date
+
+from localday import today as br_today
 
 SIGMA = "σ"
 
@@ -116,7 +117,7 @@ def build_tweet(snapshot, url, seed=None):
     angles = pick_angles(snapshot)
     if not angles:
         return None, None
-    rng = random.Random(seed if seed is not None else date.today().toordinal())
+    rng = random.Random(seed if seed is not None else br_today().toordinal())
     names = [a[0] for a in angles]
     weights = [WEIGHT[n] for n in names]
     name, payload = angles[rng.choices(range(len(angles)), weights=weights)[0]]
