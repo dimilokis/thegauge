@@ -1,6 +1,6 @@
 {
  "date": "2026-07-21",
- "generated_at": "2026-07-21T08:45:50.431518+00:00",
+ "generated_at": "2026-07-21T09:01:00.883218+00:00",
  "assets": [
   {
    "symbol": "LA",
@@ -27,20 +27,20 @@
    "file": "KERNEL.png"
   },
   {
+   "symbol": "DEXE",
+   "name": "DeXe",
+   "sigma": 3.28,
+   "from_btc_pct": 0,
+   "verdict": "Neutral",
+   "file": "DEXE.png"
+  },
+  {
    "symbol": "YGG",
    "name": "Yield Guild Games",
    "sigma": 3.19,
    "from_btc_pct": 32,
    "verdict": "Oversold",
    "file": "YGG.png"
-  },
-  {
-   "symbol": "DEXE",
-   "name": "DeXe",
-   "sigma": 3.0,
-   "from_btc_pct": 1,
-   "verdict": "Overbought",
-   "file": "DEXE.png"
   },
   {
    "symbol": "XNO",
