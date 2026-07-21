@@ -1,7 +1,15 @@
 {
  "date": "2026-07-21",
- "generated_at": "2026-07-21T13:15:47.508493+00:00",
+ "generated_at": "2026-07-21T13:45:52.535828+00:00",
  "assets": [
+  {
+   "symbol": "ONE",
+   "name": "Harmony",
+   "sigma": 29.15,
+   "from_btc_pct": 10,
+   "verdict": "Overbought",
+   "file": "ONE.png"
+  },
   {
    "symbol": "LA",
    "name": null,
@@ -89,14 +97,6 @@
    "from_btc_pct": 3,
    "verdict": "Neutral",
    "file": "RIF.png"
-  },
-  {
-   "symbol": "PROM",
-   "name": "Prom",
-   "sigma": 2.5,
-   "from_btc_pct": 2,
-   "verdict": "Neutral",
-   "file": "PROM.png"
   }
  ]
 }
