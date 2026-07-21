@@ -715,6 +715,10 @@
   "icon": "https://coin-images.coingecko.com/coins/images/100/large/fmpFRHHQ_400x400.jpg?1735231350",
   "name": "Stellar"
  },
+ "XNO": {
+  "icon": "https://coin-images.coingecko.com/coins/images/756/large/nano.png",
+  "name": "Nano"
+ },
  "XPL": {
   "icon": "https://coin-images.coingecko.com/coins/images/66489/large/Plasma-symbol-green-1.png?1755142558",
   "name": "Plasma"
