@@ -1,6 +1,6 @@
 {
  "date": "2026-07-21",
- "generated_at": "2026-07-21T09:30:59.983207+00:00",
+ "generated_at": "2026-07-21T11:15:48.502150+00:00",
  "assets": [
   {
    "symbol": "LA",
@@ -81,6 +81,14 @@
    "from_btc_pct": 1,
    "verdict": "Neutral",
    "file": "TOWNS.png"
+  },
+  {
+   "symbol": "PROM",
+   "name": "Prom",
+   "sigma": 2.5,
+   "from_btc_pct": 2,
+   "verdict": "Neutral",
+   "file": "PROM.png"
   }
  ]
 }
