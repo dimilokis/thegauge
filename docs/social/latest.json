@@ -1,6 +1,6 @@
 {
  "date": "2026-07-22",
- "generated_at": "2026-07-22T05:45:47.716921+00:00",
+ "generated_at": "2026-07-22T06:01:08.966231+00:00",
  "assets": [
   {
    "symbol": "XEC",
@@ -9,6 +9,14 @@
    "from_btc_pct": 4,
    "verdict": "Overbought",
    "file": "XEC.png"
+  },
+  {
+   "symbol": "DODO",
+   "name": "DODO",
+   "sigma": 2.84,
+   "from_btc_pct": 0,
+   "verdict": "Neutral",
+   "file": "DODO.png"
   },
   {
    "symbol": "RIF",
