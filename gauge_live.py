@@ -18,7 +18,7 @@ import requests
 
 sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(__file__)), "marketing"))
 from social_kit import add_hit  # noqa: E402
-from thread_poster import post_card_to_thread  # noqa: E402
+from x_poster import post_card  # noqa: E402
 
 DATA_API = "https://data-api.binance.vision"
 TOP_N = 100
@@ -559,9 +559,9 @@ def process_alerts(snapshot):
                     # falha aqui nunca deve derrubar o alerta do Telegram acima --
                     # por isso e' um try/except proprio, nao dentro do mesmo bloco.
                     try:
-                        post_card_to_thread(a, png_path)
+                        post_card(a, png_path)
                     except Exception as e:
-                        log("Falha ao postar {} na thread do X: {}".format(a["symbol"], e))
+                        log("Falha ao postar {} no X: {}".format(a["symbol"], e))
     save_state(now_extreme)
 
 
