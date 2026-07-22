@@ -1,6 +1,6 @@
 {
  "date": "2026-07-21",
- "generated_at": "2026-07-21T22:30:56.031409+00:00",
+ "generated_at": "2026-07-22T00:30:50.943130+00:00",
  "assets": [
   {
    "symbol": "ONE",
@@ -25,6 +25,14 @@
    "from_btc_pct": 23,
    "verdict": "Oversold",
    "file": "ERA.png"
+  },
+  {
+   "symbol": "MIRA",
+   "name": "Mira",
+   "sigma": 3.79,
+   "from_btc_pct": 21,
+   "verdict": "Neutral",
+   "file": "MIRA.png"
   },
   {
    "symbol": "KERNEL",
@@ -89,14 +97,6 @@
    "from_btc_pct": 9,
    "verdict": "Neutral",
    "file": "HEMI.png"
-  },
-  {
-   "symbol": "TOWNS",
-   "name": "Towns",
-   "sigma": 2.56,
-   "from_btc_pct": 1,
-   "verdict": "Neutral",
-   "file": "TOWNS.png"
   }
  ]
 }
