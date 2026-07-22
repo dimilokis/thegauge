@@ -1,6 +1,6 @@
 {
  "date": "2026-07-22",
- "generated_at": "2026-07-22T19:00:59.533940+00:00",
+ "generated_at": "2026-07-22T19:31:00.849698+00:00",
  "assets": [
   {
    "symbol": "LISTA",
@@ -59,14 +59,6 @@
    "file": "MIRA.png"
   },
   {
-   "symbol": "ATM",
-   "name": "Atletico Madrid Fan Token",
-   "sigma": 2.66,
-   "from_btc_pct": 5,
-   "verdict": "Neutral",
-   "file": "ATM.png"
-  },
-  {
    "symbol": "ZAMA",
    "name": "Zama",
    "sigma": 2.65,
@@ -89,6 +81,14 @@
    "from_btc_pct": 5,
    "verdict": "Oversold",
    "file": "NIGHT.png"
+  },
+  {
+   "symbol": "ATM",
+   "name": "Atletico Madrid Fan Token",
+   "sigma": 2.53,
+   "from_btc_pct": 5,
+   "verdict": "Neutral",
+   "file": "ATM.png"
   }
  ]
 }
