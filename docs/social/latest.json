@@ -1,7 +1,15 @@
 {
  "date": "2026-07-22",
- "generated_at": "2026-07-22T06:01:08.966231+00:00",
+ "generated_at": "2026-07-22T07:27:07.211049+00:00",
  "assets": [
+  {
+   "symbol": "DODO",
+   "name": "DODO",
+   "sigma": 3.32,
+   "from_btc_pct": 0,
+   "verdict": "Neutral",
+   "file": "DODO.png"
+  },
   {
    "symbol": "XEC",
    "name": "eCash",
@@ -9,14 +17,6 @@
    "from_btc_pct": 4,
    "verdict": "Overbought",
    "file": "XEC.png"
-  },
-  {
-   "symbol": "DODO",
-   "name": "DODO",
-   "sigma": 2.84,
-   "from_btc_pct": 0,
-   "verdict": "Neutral",
-   "file": "DODO.png"
   },
   {
    "symbol": "RIF",
