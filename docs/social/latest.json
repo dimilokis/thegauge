@@ -1,6 +1,6 @@
 {
  "date": "2026-07-22",
- "generated_at": "2026-07-22T04:30:50.853262+00:00",
+ "generated_at": "2026-07-22T05:45:47.716921+00:00",
  "assets": [
   {
    "symbol": "XEC",
@@ -9,6 +9,14 @@
    "from_btc_pct": 4,
    "verdict": "Overbought",
    "file": "XEC.png"
+  },
+  {
+   "symbol": "RIF",
+   "name": "Rootstock Infrastructure Framework",
+   "sigma": 2.77,
+   "from_btc_pct": 1,
+   "verdict": "Oversold",
+   "file": "RIF.png"
   }
  ]
 }
