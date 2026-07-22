@@ -1,6 +1,6 @@
 {
  "date": "2026-07-22",
- "generated_at": "2026-07-22T12:03:07.922666+00:00",
+ "generated_at": "2026-07-22T12:15:56.500523+00:00",
  "assets": [
   {
    "symbol": "DODO",
@@ -27,20 +27,20 @@
    "file": "ERA.png"
   },
   {
+   "symbol": "ZAMA",
+   "name": "Zama",
+   "sigma": 2.65,
+   "from_btc_pct": 3,
+   "verdict": "Overbought",
+   "file": "ZAMA.png"
+  },
+  {
    "symbol": "RIF",
    "name": "Rootstock Infrastructure Framework",
    "sigma": 2.59,
    "from_btc_pct": 1,
    "verdict": "Oversold",
    "file": "RIF.png"
-  },
-  {
-   "symbol": "ZAMA",
-   "name": "Zama",
-   "sigma": 2.58,
-   "from_btc_pct": 4,
-   "verdict": "Overbought",
-   "file": "ZAMA.png"
   }
  ]
 }
