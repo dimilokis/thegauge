@@ -1,6 +1,6 @@
 {
  "date": "2026-07-21",
- "generated_at": "2026-07-22T00:30:50.943130+00:00",
+ "generated_at": "2026-07-22T00:45:46.404718+00:00",
  "assets": [
   {
    "symbol": "ONE",
@@ -25,6 +25,14 @@
    "from_btc_pct": 23,
    "verdict": "Oversold",
    "file": "ERA.png"
+  },
+  {
+   "symbol": "ATM",
+   "name": "Atletico Madrid Fan Token",
+   "sigma": 3.92,
+   "from_btc_pct": 7,
+   "verdict": "Neutral",
+   "file": "ATM.png"
   },
   {
    "symbol": "MIRA",
@@ -89,14 +97,6 @@
    "from_btc_pct": 17,
    "verdict": "Oversold",
    "file": "TREE.png"
-  },
-  {
-   "symbol": "HEMI",
-   "name": "Hemi",
-   "sigma": 2.57,
-   "from_btc_pct": 9,
-   "verdict": "Neutral",
-   "file": "HEMI.png"
   }
  ]
 }
