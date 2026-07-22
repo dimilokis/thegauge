@@ -1,6 +1,6 @@
 {
  "date": "2026-07-22",
- "generated_at": "2026-07-22T14:01:05.788367+00:00",
+ "generated_at": "2026-07-22T15:16:04.202088+00:00",
  "assets": [
   {
    "symbol": "DODO",
@@ -49,6 +49,14 @@
    "from_btc_pct": 1,
    "verdict": "Oversold",
    "file": "RIF.png"
+  },
+  {
+   "symbol": "NIGHT",
+   "name": "Midnight",
+   "sigma": 2.53,
+   "from_btc_pct": 6,
+   "verdict": "Oversold",
+   "file": "NIGHT.png"
   }
  ]
 }
