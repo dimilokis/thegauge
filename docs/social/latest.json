@@ -1,7 +1,15 @@
 {
  "date": "2026-07-22",
- "generated_at": "2026-07-22T07:27:07.211049+00:00",
+ "generated_at": "2026-07-22T08:00:54.537248+00:00",
  "assets": [
+  {
+   "symbol": "ERA",
+   "name": "Caldera",
+   "sigma": 3.81,
+   "from_btc_pct": 10,
+   "verdict": "Overbought",
+   "file": "ERA.png"
+  },
   {
    "symbol": "DODO",
    "name": "DODO",
