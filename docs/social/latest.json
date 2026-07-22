@@ -1,6 +1,6 @@
 {
  "date": "2026-07-22",
- "generated_at": "2026-07-22T15:45:50.620048+00:00",
+ "generated_at": "2026-07-22T15:57:25.162630+00:00",
  "assets": [
   {
    "symbol": "LISTA",
@@ -9,6 +9,14 @@
    "from_btc_pct": 5,
    "verdict": "Neutral",
    "file": "LISTA.png"
+  },
+  {
+   "symbol": "MORPHO",
+   "name": "Morpho",
+   "sigma": 3.43,
+   "from_btc_pct": 10,
+   "verdict": "Neutral",
+   "file": "MORPHO.png"
   },
   {
    "symbol": "DODO",
@@ -35,14 +43,6 @@
    "file": "ERA.png"
   },
   {
-   "symbol": "ATM",
-   "name": "Atletico Madrid Fan Token",
-   "sigma": 2.72,
-   "from_btc_pct": 5,
-   "verdict": "Neutral",
-   "file": "ATM.png"
-  },
-  {
    "symbol": "MIRA",
    "name": "Mira",
    "sigma": 2.72,
@@ -57,6 +57,14 @@
    "from_btc_pct": 3,
    "verdict": "Overbought",
    "file": "ZAMA.png"
+  },
+  {
+   "symbol": "ATM",
+   "name": "Atletico Madrid Fan Token",
+   "sigma": 2.61,
+   "from_btc_pct": 6,
+   "verdict": "Neutral",
+   "file": "ATM.png"
   },
   {
    "symbol": "RIF",
