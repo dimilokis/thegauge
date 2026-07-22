@@ -1,6 +1,6 @@
 {
  "date": "2026-07-22",
- "generated_at": "2026-07-22T16:15:51.118923+00:00",
+ "generated_at": "2026-07-22T17:01:00.624283+00:00",
  "assets": [
   {
    "symbol": "LISTA",
@@ -41,6 +41,14 @@
    "from_btc_pct": 12,
    "verdict": "Neutral",
    "file": "ERA.png"
+  },
+  {
+   "symbol": "HBAR",
+   "name": "Hedera",
+   "sigma": 2.84,
+   "from_btc_pct": 25,
+   "verdict": "Neutral",
+   "file": "HBAR.png"
   },
   {
    "symbol": "MIRA",
