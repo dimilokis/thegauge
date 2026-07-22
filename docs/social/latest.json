@@ -1,7 +1,15 @@
 {
  "date": "2026-07-22",
- "generated_at": "2026-07-22T15:16:04.202088+00:00",
+ "generated_at": "2026-07-22T15:31:04.706794+00:00",
  "assets": [
+  {
+   "symbol": "LISTA",
+   "name": "Lista DAO",
+   "sigma": 9.62,
+   "from_btc_pct": 5,
+   "verdict": "Neutral",
+   "file": "LISTA.png"
+  },
   {
    "symbol": "DODO",
    "name": "DODO",

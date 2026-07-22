@@ -391,6 +391,10 @@
   "icon": "https://coin-images.coingecko.com/coins/images/877/large/Chainlink_Logo_500.png?1760023405",
   "name": "Chainlink"
  },
+ "LISTA": {
+  "icon": "https://coin-images.coingecko.com/coins/images/38068/large/lista.png",
+  "name": "Lista DAO"
+ },
  "LTC": {
   "icon": "https://coin-images.coingecko.com/coins/images/2/large/litecoin.png?1696501400",
   "name": "Litecoin"
