@@ -4,7 +4,7 @@
   "name": "0G"
  },
  "1INCH": {
-  "icon": "https://coin-images.coingecko.com/coins/images/13469/large/1inch-logo.jpeg",
+  "icon": "https://coin-images.coingecko.com/coins/images/13469/large/1inch-logo.jpeg?1759404663",
   "name": "1INCH"
  },
  "1MBABYDOGE": {
@@ -228,7 +228,7 @@
   "name": "Epic Chain"
  },
  "ERA": {
-  "icon": "https://coin-images.coingecko.com/coins/images/54475/large/Token_Logo.png",
+  "icon": "https://coin-images.coingecko.com/coins/images/54475/large/Token_Logo.png?1749676251",
   "name": "Caldera"
  },
  "ESP": {
@@ -280,7 +280,7 @@
   "name": "Gas"
  },
  "GENIUS": {
-  "icon": "https://coin-images.coingecko.com/coins/images/71660/large/genius.png",
+  "icon": "https://coin-images.coingecko.com/coins/images/71660/large/genius.png?1768804210",
   "name": "Genius"
  },
  "GIGGLE": {
@@ -292,7 +292,7 @@
   "name": "Gnosis"
  },
  "HAEDAL": {
-  "icon": "https://coin-images.coingecko.com/coins/images/55420/large/haedal.jpg",
+  "icon": "https://coin-images.coingecko.com/coins/images/55420/large/haedal.jpg?1745917281",
   "name": "Haedal Protocol"
  },
  "HBAR": {
@@ -360,7 +360,7 @@
   "name": "Katana"
  },
  "KERNEL": {
-  "icon": "https://coin-images.coingecko.com/coins/images/54326/large/Kernel_token_logo_2x.png",
+  "icon": "https://coin-images.coingecko.com/coins/images/54326/large/Kernel_token_logo_2x.png?1739827205",
   "name": "KernelDAO"
  },
  "KGST": {
@@ -370,6 +370,10 @@
  "KITE": {
   "icon": "https://coin-images.coingecko.com/coins/images/70426/large/KITE-ICON.png?1762328605",
   "name": "Kite"
+ },
+ "LA": {
+  "icon": "https://coin-images.coingecko.com/coins/images/55550/large/Lagrange-logo-png-gradient.png?1746637731",
+  "name": "Lagrange"
  },
  "LAZIO": {
   "icon": "https://coin-images.coingecko.com/coins/images/19263/large/B4Lla6V6_400x400.png?1696518707",
@@ -404,7 +408,7 @@
   "name": "MANTRA"
  },
  "ME": {
-  "icon": "https://coin-images.coingecko.com/coins/images/39850/large/_ME_Profile_Dark_2x.png",
+  "icon": "https://coin-images.coingecko.com/coins/images/39850/large/_ME_Profile_Dark_2x.png?1734013082",
   "name": "Magic Eden"
  },
  "MEGA": {
@@ -416,7 +420,7 @@
   "name": "Meteora"
  },
  "MITO": {
-  "icon": "https://coin-images.coingecko.com/coins/images/68355/large/mitosis.png",
+  "icon": "https://coin-images.coingecko.com/coins/images/68355/large/mitosis.png?1755444906",
   "name": "Mitosis"
  },
  "MMT": {
@@ -696,7 +700,7 @@
   "name": "Turtle"
  },
  "TUT": {
-  "icon": "https://coin-images.coingecko.com/coins/images/54299/large/image_2025-02-08_18-56-13.png",
+  "icon": "https://coin-images.coingecko.com/coins/images/54299/large/image_2025-02-08_18-56-13.png?1739165439",
   "name": "Tutorial"
  },
  "U": {
@@ -768,7 +772,7 @@
   "name": "Yield Basis"
  },
  "YGG": {
-  "icon": "https://coin-images.coingecko.com/coins/images/17358/large/Shield_Mark_-_Colored_-_Iridescent.png",
+  "icon": "https://coin-images.coingecko.com/coins/images/17358/large/Shield_Mark_-_Colored_-_Iridescent.png?1696516909",
   "name": "Yield Guild Games"
  },
  "ZAMA": {
