@@ -1,6 +1,6 @@
 {
  "date": "2026-07-22",
- "generated_at": "2026-07-22T08:00:54.537248+00:00",
+ "generated_at": "2026-07-22T11:45:49.487646+00:00",
  "assets": [
   {
    "symbol": "ERA",
@@ -29,10 +29,18 @@
   {
    "symbol": "RIF",
    "name": "Rootstock Infrastructure Framework",
-   "sigma": 2.77,
+   "sigma": 2.59,
    "from_btc_pct": 1,
    "verdict": "Oversold",
    "file": "RIF.png"
+  },
+  {
+   "symbol": "ZAMA",
+   "name": "Zama",
+   "sigma": 2.58,
+   "from_btc_pct": 4,
+   "verdict": "Overbought",
+   "file": "ZAMA.png"
   }
  ]
 }
