@@ -1,6 +1,6 @@
 {
  "date": "2026-07-22",
- "generated_at": "2026-07-22T19:31:00.849698+00:00",
+ "generated_at": "2026-07-22T20:30:59.079609+00:00",
  "assets": [
   {
    "symbol": "LISTA",
@@ -62,7 +62,7 @@
    "symbol": "ZAMA",
    "name": "Zama",
    "sigma": 2.65,
-   "from_btc_pct": 3,
+   "from_btc_pct": 4,
    "verdict": "Overbought",
    "file": "ZAMA.png"
   },

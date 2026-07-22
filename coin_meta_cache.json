@@ -291,6 +291,10 @@
   "icon": "https://coin-images.coingecko.com/coins/images/662/large/logo_square_simple_300px.png?1696501854",
   "name": "Gnosis"
  },
+ "GUN": {
+  "icon": "https://coin-images.coingecko.com/coins/images/55027/large/gunz.jpg",
+  "name": "Gunz"
+ },
  "HAEDAL": {
   "icon": "https://coin-images.coingecko.com/coins/images/55420/large/haedal.jpg?1745917281",
   "name": "Haedal Protocol"
