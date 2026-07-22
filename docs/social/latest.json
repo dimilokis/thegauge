@@ -1,6 +1,6 @@
 {
  "date": "2026-07-22",
- "generated_at": "2026-07-22T15:31:04.706794+00:00",
+ "generated_at": "2026-07-22T15:45:50.620048+00:00",
  "assets": [
   {
    "symbol": "LISTA",
@@ -41,6 +41,14 @@
    "from_btc_pct": 5,
    "verdict": "Neutral",
    "file": "ATM.png"
+  },
+  {
+   "symbol": "MIRA",
+   "name": "Mira",
+   "sigma": 2.72,
+   "from_btc_pct": 19,
+   "verdict": "Neutral",
+   "file": "MIRA.png"
   },
   {
    "symbol": "ZAMA",
