@@ -1,6 +1,6 @@
 {
  "date": "2026-07-22",
- "generated_at": "2026-07-22T12:15:56.500523+00:00",
+ "generated_at": "2026-07-22T14:01:05.788367+00:00",
  "assets": [
   {
    "symbol": "DODO",
@@ -25,6 +25,14 @@
    "from_btc_pct": 12,
    "verdict": "Neutral",
    "file": "ERA.png"
+  },
+  {
+   "symbol": "ATM",
+   "name": "Atletico Madrid Fan Token",
+   "sigma": 2.72,
+   "from_btc_pct": 5,
+   "verdict": "Neutral",
+   "file": "ATM.png"
   },
   {
    "symbol": "ZAMA",
