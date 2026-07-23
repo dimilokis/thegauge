@@ -1,6 +1,6 @@
 {
  "date": "2026-07-23",
- "generated_at": "2026-07-23T07:15:52.660178+00:00",
+ "generated_at": "2026-07-23T07:45:46.700781+00:00",
  "assets": [
   {
    "symbol": "ZKC",
@@ -9,6 +9,14 @@
    "from_btc_pct": 13,
    "verdict": "Neutral",
    "file": "ZKC.png"
+  },
+  {
+   "symbol": "WLFI",
+   "name": "World Liberty Financial",
+   "sigma": 2.68,
+   "from_btc_pct": 0,
+   "verdict": "Neutral",
+   "file": "WLFI.png"
   },
   {
    "symbol": "ERA",
