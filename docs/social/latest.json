@@ -1,15 +1,7 @@
 {
  "date": "2026-07-23",
- "generated_at": "2026-07-23T14:15:57.761666+00:00",
+ "generated_at": "2026-07-23T14:45:46.253503+00:00",
  "assets": [
-  {
-   "symbol": "BARD",
-   "name": "Lombard",
-   "sigma": 7.18,
-   "from_btc_pct": 5,
-   "verdict": "Neutral",
-   "file": "BARD.png"
-  },
   {
    "symbol": "ZKC",
    "name": "Boundless",
@@ -25,6 +17,14 @@
    "from_btc_pct": 9,
    "verdict": "Oversold",
    "file": "ZIL.png"
+  },
+  {
+   "symbol": "BARD",
+   "name": "Lombard",
+   "sigma": 3.05,
+   "from_btc_pct": 7,
+   "verdict": "Neutral",
+   "file": "BARD.png"
   },
   {
    "symbol": "ZAMA",
