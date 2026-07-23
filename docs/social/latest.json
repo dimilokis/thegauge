@@ -1,6 +1,6 @@
 {
  "date": "2026-07-23",
- "generated_at": "2026-07-23T20:45:49.193775+00:00",
+ "generated_at": "2026-07-23T21:40:39.590077+00:00",
  "assets": [
   {
    "symbol": "ZKC",
@@ -19,20 +19,20 @@
    "file": "ZIL.png"
   },
   {
+   "symbol": "BARD",
+   "name": "Lombard",
+   "sigma": 3.58,
+   "from_btc_pct": 6,
+   "verdict": "Neutral",
+   "file": "BARD.png"
+  },
+  {
    "symbol": "RIF",
    "name": "Rootstock Infrastructure Framework",
    "sigma": 3.54,
    "from_btc_pct": 7,
    "verdict": "Neutral",
    "file": "RIF.png"
-  },
-  {
-   "symbol": "BARD",
-   "name": "Lombard",
-   "sigma": 3.05,
-   "from_btc_pct": 7,
-   "verdict": "Neutral",
-   "file": "BARD.png"
   },
   {
    "symbol": "CHR",
@@ -75,20 +75,20 @@
    "file": "DEXE.png"
   },
   {
-   "symbol": "ZAMA",
-   "name": "Zama",
-   "sigma": 2.63,
-   "from_btc_pct": 0,
-   "verdict": "Strong Uptrend",
-   "file": "ZAMA.png"
-  },
-  {
    "symbol": "BMT",
    "name": "Bubblemaps",
    "sigma": 2.6,
    "from_btc_pct": 14,
    "verdict": "Neutral",
    "file": "BMT.png"
+  },
+  {
+   "symbol": "ZAMA",
+   "name": "Zama",
+   "sigma": 2.57,
+   "from_btc_pct": 0,
+   "verdict": "Strong Uptrend",
+   "file": "ZAMA.png"
   },
   {
    "symbol": "ERA",
