@@ -1,6 +1,6 @@
 {
  "date": "2026-07-23",
- "generated_at": "2026-07-23T23:15:48.495676+00:00",
+ "generated_at": "2026-07-23T23:45:00.210505+00:00",
  "assets": [
   {
    "symbol": "ZKC",
@@ -69,7 +69,7 @@
   {
    "symbol": "PROM",
    "name": "Prom",
-   "sigma": 2.67,
+   "sigma": 2.64,
    "from_btc_pct": 0,
    "verdict": "Neutral",
    "file": "PROM.png"
