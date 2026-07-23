@@ -1,6 +1,6 @@
 {
  "date": "2026-07-23",
- "generated_at": "2026-07-23T16:15:47.655477+00:00",
+ "generated_at": "2026-07-23T16:17:28.657768+00:00",
  "assets": [
   {
    "symbol": "ZKC",
@@ -43,14 +43,6 @@
    "file": "WLFI.png"
   },
   {
-   "symbol": "LA",
-   "name": "Lagrange",
-   "sigma": 2.68,
-   "from_btc_pct": 12,
-   "verdict": "Neutral",
-   "file": "LA.png"
-  },
-  {
    "symbol": "DEXE",
    "name": "DeXe",
    "sigma": 2.67,
@@ -73,6 +65,14 @@
    "from_btc_pct": 0,
    "verdict": "Strong Uptrend",
    "file": "ZAMA.png"
+  },
+  {
+   "symbol": "LA",
+   "name": "Lagrange",
+   "sigma": 2.61,
+   "from_btc_pct": 12,
+   "verdict": "Neutral",
+   "file": "LA.png"
   },
   {
    "symbol": "ERA",
