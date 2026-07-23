@@ -1,6 +1,6 @@
 {
  "date": "2026-07-23",
- "generated_at": "2026-07-23T15:45:56.308269+00:00",
+ "generated_at": "2026-07-23T16:15:47.655477+00:00",
  "assets": [
   {
    "symbol": "ZKC",
@@ -25,6 +25,14 @@
    "from_btc_pct": 7,
    "verdict": "Neutral",
    "file": "BARD.png"
+  },
+  {
+   "symbol": "CHR",
+   "name": "Chromia",
+   "sigma": 2.95,
+   "from_btc_pct": 29,
+   "verdict": "Oversold",
+   "file": "CHR.png"
   },
   {
    "symbol": "WLFI",
