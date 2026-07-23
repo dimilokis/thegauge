@@ -291,6 +291,10 @@
   "icon": "https://coin-images.coingecko.com/coins/images/69414/large/giggle-fund.jpg?1758541887",
   "name": "Giggle Fund"
  },
+ "GLMR": {
+  "icon": "https://coin-images.coingecko.com/coins/images/22459/large/Moonbeam_GLMR_ICON.png",
+  "name": "Moonbeam"
+ },
  "GNO": {
   "icon": "https://coin-images.coingecko.com/coins/images/662/large/logo_square_simple_300px.png?1696501854",
   "name": "Gnosis"
