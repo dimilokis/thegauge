@@ -29,6 +29,13 @@ ROOT = os.path.dirname(os.path.abspath(__file__))
 STATE_PATH = os.path.join(ROOT, "thread_state.json")
 SIGMA = "σ"
 
+# Teto duro de custo: sem isso, um dia caotico posta sem limite (17 num dia
+# ja aconteceu, 22/jul). Mesmo teto do kit social (docs/social, MAX_DAY_CARDS
+# em social_kit.py) por consistencia -- ~$0.03/post c/ imagem, entao
+# 12/dia = ~$0.36/dia = ~$10.80/mes no PIOR caso (a maioria dos dias fica
+# bem abaixo disso).
+MAX_DAY_POSTS = 12
+
 ENV_VARS = ("X_API_KEY", "X_API_SECRET", "X_ACCESS_TOKEN", "X_ACCESS_SECRET")
 
 
@@ -92,6 +99,10 @@ def post_card(asset, png_path):
     state = _load_state()
     if asset["symbol"] in state["posted"]:
         log("{} ja foi postado hoje — pulando (evita duplicata em re-run).".format(asset["symbol"]))
+        return
+    if len(state["posted"]) >= MAX_DAY_POSTS:
+        log("teto de {} posts/dia atingido — pulando {} (custo sob controle, nao perde o alerta: "
+            "Telegram e o card no site continuam sem teto).".format(MAX_DAY_POSTS, asset["symbol"]))
         return
 
     try:
