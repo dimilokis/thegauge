@@ -111,6 +111,10 @@
   "icon": "https://coin-images.coingecko.com/coins/images/11693/large/BAR.png?1741518646",
   "name": "FC Barcelona Fan Token"
  },
+ "BARD": {
+  "icon": "https://coin-images.coingecko.com/coins/images/68404/large/bard.png",
+  "name": "Lombard"
+ },
  "BCH": {
   "icon": "https://coin-images.coingecko.com/coins/images/780/large/bitcoin-cash-circle.png?1696501932",
   "name": "Bitcoin Cash"
