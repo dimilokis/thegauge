@@ -1,6 +1,6 @@
 {
  "date": "2026-07-23",
- "generated_at": "2026-07-23T09:15:50.716255+00:00",
+ "generated_at": "2026-07-23T10:30:54.896229+00:00",
  "assets": [
   {
    "symbol": "BARD",
@@ -17,6 +17,14 @@
    "from_btc_pct": 13,
    "verdict": "Neutral",
    "file": "ZKC.png"
+  },
+  {
+   "symbol": "ZIL",
+   "name": "Zilliqa",
+   "sigma": 4.42,
+   "from_btc_pct": 9,
+   "verdict": "Oversold",
+   "file": "ZIL.png"
   },
   {
    "symbol": "WLFI",
