@@ -1,6 +1,6 @@
 {
  "date": "2026-07-23",
- "generated_at": "2026-07-23T13:15:45.246132+00:00",
+ "generated_at": "2026-07-23T14:15:57.761666+00:00",
  "assets": [
   {
    "symbol": "BARD",
@@ -41,6 +41,14 @@
    "from_btc_pct": 0,
    "verdict": "Neutral",
    "file": "WLFI.png"
+  },
+  {
+   "symbol": "RIF",
+   "name": "Rootstock Infrastructure Framework",
+   "sigma": 2.66,
+   "from_btc_pct": 5,
+   "verdict": "Neutral",
+   "file": "RIF.png"
   },
   {
    "symbol": "ERA",

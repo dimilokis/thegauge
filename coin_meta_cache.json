@@ -343,6 +343,10 @@
   "icon": "https://coin-images.coingecko.com/coins/images/14495/large/Internet_Computer_logo.png?1696514180",
   "name": "Internet Computer"
  },
+ "INIT": {
+  "icon": "https://coin-images.coingecko.com/coins/images/40138/large/initia_symbol_white.png",
+  "name": "Initia"
+ },
  "INJ": {
   "icon": "https://coin-images.coingecko.com/coins/images/12882/large/Other_200x200.png?1738782212",
   "name": "Injective"
