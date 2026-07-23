@@ -135,6 +135,10 @@
   "icon": "https://coin-images.coingecko.com/coins/images/28453/large/blur.png?1696527448",
   "name": "Blur"
  },
+ "BMT": {
+  "icon": "https://coin-images.coingecko.com/coins/images/52778/large/background-square.png",
+  "name": "Bubblemaps"
+ },
  "BNB": {
   "icon": "https://coin-images.coingecko.com/coins/images/825/large/bnb-icon2_2x.png?1696501970",
   "name": "BNB"

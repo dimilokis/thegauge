@@ -1,6 +1,6 @@
 {
  "date": "2026-07-23",
- "generated_at": "2026-07-23T15:15:44.238143+00:00",
+ "generated_at": "2026-07-23T15:45:56.308269+00:00",
  "assets": [
   {
    "symbol": "ZKC",
@@ -27,20 +27,20 @@
    "file": "BARD.png"
   },
   {
-   "symbol": "ZAMA",
-   "name": "Zama",
-   "sigma": 2.75,
-   "from_btc_pct": 0,
-   "verdict": "Strong Uptrend",
-   "file": "ZAMA.png"
-  },
-  {
    "symbol": "WLFI",
    "name": "World Liberty Financial",
    "sigma": 2.68,
    "from_btc_pct": 0,
    "verdict": "Neutral",
    "file": "WLFI.png"
+  },
+  {
+   "symbol": "LA",
+   "name": "Lagrange",
+   "sigma": 2.68,
+   "from_btc_pct": 12,
+   "verdict": "Neutral",
+   "file": "LA.png"
   },
   {
    "symbol": "DEXE",
@@ -57,6 +57,14 @@
    "from_btc_pct": 5,
    "verdict": "Neutral",
    "file": "RIF.png"
+  },
+  {
+   "symbol": "ZAMA",
+   "name": "Zama",
+   "sigma": 2.63,
+   "from_btc_pct": 0,
+   "verdict": "Strong Uptrend",
+   "file": "ZAMA.png"
   },
   {
    "symbol": "ERA",
