@@ -1,94 +1,14 @@
 {
- "date": "2026-07-22",
- "generated_at": "2026-07-22T21:01:03.731445+00:00",
+ "date": "2026-07-23",
+ "generated_at": "2026-07-23T04:30:52.607847+00:00",
  "assets": [
-  {
-   "symbol": "LISTA",
-   "name": "Lista DAO",
-   "sigma": 9.62,
-   "from_btc_pct": 5,
-   "verdict": "Neutral",
-   "file": "LISTA.png"
-  },
-  {
-   "symbol": "MORPHO",
-   "name": "Morpho",
-   "sigma": 3.43,
-   "from_btc_pct": 10,
-   "verdict": "Neutral",
-   "file": "MORPHO.png"
-  },
-  {
-   "symbol": "DODO",
-   "name": "DODO",
-   "sigma": 3.32,
-   "from_btc_pct": 0,
-   "verdict": "Neutral",
-   "file": "DODO.png"
-  },
-  {
-   "symbol": "XEC",
-   "name": "eCash",
-   "sigma": 3.07,
-   "from_btc_pct": 4,
-   "verdict": "Overbought",
-   "file": "XEC.png"
-  },
   {
    "symbol": "ERA",
    "name": "Caldera",
-   "sigma": 2.87,
-   "from_btc_pct": 12,
-   "verdict": "Neutral",
-   "file": "ERA.png"
-  },
-  {
-   "symbol": "HBAR",
-   "name": "Hedera",
-   "sigma": 2.84,
-   "from_btc_pct": 25,
-   "verdict": "Neutral",
-   "file": "HBAR.png"
-  },
-  {
-   "symbol": "MIRA",
-   "name": "Mira",
-   "sigma": 2.72,
-   "from_btc_pct": 19,
-   "verdict": "Neutral",
-   "file": "MIRA.png"
-  },
-  {
-   "symbol": "ATM",
-   "name": "Atletico Madrid Fan Token",
-   "sigma": 2.71,
-   "from_btc_pct": 5,
-   "verdict": "Neutral",
-   "file": "ATM.png"
-  },
-  {
-   "symbol": "ZAMA",
-   "name": "Zama",
-   "sigma": 2.65,
-   "from_btc_pct": 4,
+   "sigma": 2.53,
+   "from_btc_pct": 11,
    "verdict": "Overbought",
-   "file": "ZAMA.png"
-  },
-  {
-   "symbol": "RIF",
-   "name": "Rootstock Infrastructure Framework",
-   "sigma": 2.59,
-   "from_btc_pct": 1,
-   "verdict": "Oversold",
-   "file": "RIF.png"
-  },
-  {
-   "symbol": "NIGHT",
-   "name": "Midnight",
-   "sigma": 2.58,
-   "from_btc_pct": 5,
-   "verdict": "Oversold",
-   "file": "NIGHT.png"
+   "file": "ERA.png"
   }
  ]
 }
