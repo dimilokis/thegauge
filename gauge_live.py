@@ -359,13 +359,26 @@ def liquidity_tier(vol):
 
 def verdict(score, tier):
     """Verdict calibrado por tier — achado do backtest historico (400k
-    dias-moeda, 2020-2026): em tiers liquidas (A/B), score alto e sinal de
-    MOMENTUM (a moeda continua subindo), nao de reversao — chamar isso de
+    dias-moeda, 2020-2026): em tiers A/B/C, score alto e sinal de MOMENTUM
+    (a moeda continua subindo), nao de reversao — chamar isso de
     'Overbought' seria prometer uma reversao que os dados nao confirmam.
     So a faixa mais extrema do lado baixo (score<10) mostrou reversao real
-    e estatisticamente significativa nessas tiers. Tiers C/D mantem a
-    leitura tradicional, mais equilibrada nos dados."""
-    if tier in ("A", "B"):
+    e estatisticamente significativa nessas tiers.
+
+    CORRECAO 22/jul/2026: Tier C estava agrupado com D na leitura
+    tradicional (Overbought/Oversold<30), mas score puro por tier (sem
+    filtro de sigma/independencia) mostrou o mesmo padrao de momentum de
+    A/B, ROBUSTO nas duas metades do calendario: score 70-100 positivo
+    (1a metade t=+11.4, 2a metade t=+5.4) e score<10 positivo (t=+5.6 e
+    +7.2) -- achado do usuario ('90% dos cards sao C/D, sinto que o
+    algoritmo esta errado'), verificado em bot/research/gauge/. Tier D
+    fica de fora por ora: N insuficiente na 1a metade do calendario nesses
+    bins (15-32 obs, moeda ilíquida era rara pre-2023) pra confiar em
+    qualquer recalibracao — mantem a leitura tradicional ate ter mais
+    historico. Faixa intermediaria (score 10-30) testada e NAO e' robusta
+    (inverte de sinal entre metades) — por isso continua Neutral, nao virou
+    um 'Strong Downtrend': dado nao sustenta esse estado em nenhum tier."""
+    if tier in ("A", "B", "C"):
         if score < 10:
             return "Oversold"
         if score > 70:
