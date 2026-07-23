@@ -1,6 +1,6 @@
 {
  "date": "2026-07-23",
- "generated_at": "2026-07-23T19:00:57.697961+00:00",
+ "generated_at": "2026-07-23T20:00:54.202111+00:00",
  "assets": [
   {
    "symbol": "ZKC",
@@ -51,6 +51,14 @@
    "file": "LA.png"
   },
   {
+   "symbol": "PROM",
+   "name": "Prom",
+   "sigma": 2.78,
+   "from_btc_pct": 0,
+   "verdict": "Overbought",
+   "file": "PROM.png"
+  },
+  {
    "symbol": "WLFI",
    "name": "World Liberty Financial",
    "sigma": 2.68,
@@ -73,14 +81,6 @@
    "from_btc_pct": 0,
    "verdict": "Strong Uptrend",
    "file": "ZAMA.png"
-  },
-  {
-   "symbol": "PROM",
-   "name": "Prom",
-   "sigma": 2.54,
-   "from_btc_pct": 0,
-   "verdict": "Neutral",
-   "file": "PROM.png"
   },
   {
    "symbol": "ERA",
