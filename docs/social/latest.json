@@ -1,7 +1,15 @@
 {
  "date": "2026-07-23",
- "generated_at": "2026-07-23T04:30:52.607847+00:00",
+ "generated_at": "2026-07-23T07:15:52.660178+00:00",
  "assets": [
+  {
+   "symbol": "ZKC",
+   "name": "Boundless",
+   "sigma": 4.44,
+   "from_btc_pct": 13,
+   "verdict": "Neutral",
+   "file": "ZKC.png"
+  },
   {
    "symbol": "ERA",
    "name": "Caldera",
