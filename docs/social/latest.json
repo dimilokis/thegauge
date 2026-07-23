@@ -1,6 +1,6 @@
 {
  "date": "2026-07-23",
- "generated_at": "2026-07-23T22:45:50.514888+00:00",
+ "generated_at": "2026-07-23T23:15:48.495676+00:00",
  "assets": [
   {
    "symbol": "ZKC",
@@ -67,6 +67,14 @@
    "file": "DEXE.png"
   },
   {
+   "symbol": "PROM",
+   "name": "Prom",
+   "sigma": 2.67,
+   "from_btc_pct": 0,
+   "verdict": "Neutral",
+   "file": "PROM.png"
+  },
+  {
    "symbol": "BMT",
    "name": "Bubblemaps",
    "sigma": 2.6,
@@ -81,14 +89,6 @@
    "from_btc_pct": 0,
    "verdict": "Strong Uptrend",
    "file": "ZAMA.png"
-  },
-  {
-   "symbol": "PROM",
-   "name": "Prom",
-   "sigma": 2.54,
-   "from_btc_pct": 0,
-   "verdict": "Neutral",
-   "file": "PROM.png"
   },
   {
    "symbol": "ERA",
