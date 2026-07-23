@@ -1,6 +1,6 @@
 {
  "date": "2026-07-23",
- "generated_at": "2026-07-23T20:00:54.202111+00:00",
+ "generated_at": "2026-07-23T20:45:49.193775+00:00",
  "assets": [
   {
    "symbol": "ZKC",
@@ -81,6 +81,14 @@
    "from_btc_pct": 0,
    "verdict": "Strong Uptrend",
    "file": "ZAMA.png"
+  },
+  {
+   "symbol": "BMT",
+   "name": "Bubblemaps",
+   "sigma": 2.6,
+   "from_btc_pct": 14,
+   "verdict": "Neutral",
+   "file": "BMT.png"
   },
   {
    "symbol": "ERA",
