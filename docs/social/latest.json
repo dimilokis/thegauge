@@ -1,6 +1,6 @@
 {
  "date": "2026-07-23",
- "generated_at": "2026-07-23T22:30:46.312406+00:00",
+ "generated_at": "2026-07-23T22:45:50.514888+00:00",
  "assets": [
   {
    "symbol": "ZKC",
@@ -77,7 +77,7 @@
   {
    "symbol": "ZAMA",
    "name": "Zama",
-   "sigma": 2.57,
+   "sigma": 2.55,
    "from_btc_pct": 0,
    "verdict": "Strong Uptrend",
    "file": "ZAMA.png"
