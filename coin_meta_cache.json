@@ -667,6 +667,10 @@
   "icon": "https://coin-images.coingecko.com/coins/images/26433/large/starknet.png?1696525507",
   "name": "Starknet"
  },
+ "STX": {
+  "icon": "https://coin-images.coingecko.com/coins/images/2069/large/Stacks_Logo_png.png",
+  "name": "Stacks"
+ },
  "SUI": {
   "icon": "https://coin-images.coingecko.com/coins/images/26375/large/sui-ocean-square.png?1727791290",
   "name": "Sui"

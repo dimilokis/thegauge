@@ -1,102 +1,14 @@
 {
- "date": "2026-07-23",
- "generated_at": "2026-07-24T02:30:47.118368+00:00",
+ "date": "2026-07-24",
+ "generated_at": "2026-07-24T03:30:53.892557+00:00",
  "assets": [
   {
-   "symbol": "ZKC",
-   "name": "Boundless",
-   "sigma": 4.44,
-   "from_btc_pct": 13,
-   "verdict": "Neutral",
-   "file": "ZKC.png"
-  },
-  {
-   "symbol": "ZIL",
-   "name": "Zilliqa",
-   "sigma": 4.42,
-   "from_btc_pct": 9,
+   "symbol": "STX",
+   "name": "Stacks",
+   "sigma": 3.15,
+   "from_btc_pct": 26,
    "verdict": "Oversold",
-   "file": "ZIL.png"
-  },
-  {
-   "symbol": "BARD",
-   "name": "Lombard",
-   "sigma": 3.58,
-   "from_btc_pct": 6,
-   "verdict": "Neutral",
-   "file": "BARD.png"
-  },
-  {
-   "symbol": "RIF",
-   "name": "Rootstock Infrastructure Framework",
-   "sigma": 3.54,
-   "from_btc_pct": 7,
-   "verdict": "Neutral",
-   "file": "RIF.png"
-  },
-  {
-   "symbol": "CHR",
-   "name": "Chromia",
-   "sigma": 2.95,
-   "from_btc_pct": 29,
-   "verdict": "Oversold",
-   "file": "CHR.png"
-  },
-  {
-   "symbol": "LA",
-   "name": "Lagrange",
-   "sigma": 2.81,
-   "from_btc_pct": 11,
-   "verdict": "Neutral",
-   "file": "LA.png"
-  },
-  {
-   "symbol": "WLFI",
-   "name": "World Liberty Financial",
-   "sigma": 2.68,
-   "from_btc_pct": 0,
-   "verdict": "Neutral",
-   "file": "WLFI.png"
-  },
-  {
-   "symbol": "DEXE",
-   "name": "DeXe",
-   "sigma": 2.67,
-   "from_btc_pct": 0,
-   "verdict": "Oversold",
-   "file": "DEXE.png"
-  },
-  {
-   "symbol": "PROM",
-   "name": "Prom",
-   "sigma": 2.64,
-   "from_btc_pct": 0,
-   "verdict": "Neutral",
-   "file": "PROM.png"
-  },
-  {
-   "symbol": "BMT",
-   "name": "Bubblemaps",
-   "sigma": 2.6,
-   "from_btc_pct": 14,
-   "verdict": "Neutral",
-   "file": "BMT.png"
-  },
-  {
-   "symbol": "ZAMA",
-   "name": "Zama",
-   "sigma": 2.55,
-   "from_btc_pct": 0,
-   "verdict": "Strong Uptrend",
-   "file": "ZAMA.png"
-  },
-  {
-   "symbol": "ERA",
-   "name": "Caldera",
-   "sigma": 2.53,
-   "from_btc_pct": 11,
-   "verdict": "Overbought",
-   "file": "ERA.png"
+   "file": "STX.png"
   }
  ]
 }
