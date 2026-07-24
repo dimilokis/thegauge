@@ -1,6 +1,6 @@
 {
  "date": "2026-07-24",
- "generated_at": "2026-07-24T08:15:48.999035+00:00",
+ "generated_at": "2026-07-24T09:01:04.598394+00:00",
  "assets": [
   {
    "symbol": "STX",
@@ -13,7 +13,7 @@
   {
    "symbol": "DEXE",
    "name": "DeXe",
-   "sigma": 2.52,
+   "sigma": 2.93,
    "from_btc_pct": 0,
    "verdict": "Oversold",
    "file": "DEXE.png"
