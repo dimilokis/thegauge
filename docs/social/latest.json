@@ -1,6 +1,6 @@
 {
  "date": "2026-07-24",
- "generated_at": "2026-07-24T18:30:54.743403+00:00",
+ "generated_at": "2026-07-24T20:30:50.616938+00:00",
  "assets": [
   {
    "symbol": "BEAMX",
@@ -9,14 +9,6 @@
    "from_btc_pct": 0,
    "verdict": "Neutral",
    "file": "BEAMX.png"
-  },
-  {
-   "symbol": "PYR",
-   "name": "Vulcan Forged",
-   "sigma": 5.03,
-   "from_btc_pct": 2,
-   "verdict": "Oversold",
-   "file": "PYR.png"
   },
   {
    "symbol": "ACE",
@@ -35,12 +27,28 @@
    "file": "STX.png"
   },
   {
+   "symbol": "TOWNS",
+   "name": "Towns",
+   "sigma": 3.1,
+   "from_btc_pct": 0,
+   "verdict": "Neutral",
+   "file": "TOWNS.png"
+  },
+  {
    "symbol": "DEXE",
    "name": "DeXe",
    "sigma": 2.93,
    "from_btc_pct": 0,
    "verdict": "Oversold",
    "file": "DEXE.png"
+  },
+  {
+   "symbol": "PYR",
+   "name": "Vulcan Forged",
+   "sigma": 2.89,
+   "from_btc_pct": 4,
+   "verdict": "Oversold",
+   "file": "PYR.png"
   },
   {
    "symbol": "LA",
