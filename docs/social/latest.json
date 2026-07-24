@@ -1,6 +1,6 @@
 {
  "date": "2026-07-24",
- "generated_at": "2026-07-24T09:01:04.598394+00:00",
+ "generated_at": "2026-07-24T13:01:02.241383+00:00",
  "assets": [
   {
    "symbol": "STX",
@@ -17,6 +17,14 @@
    "from_btc_pct": 0,
    "verdict": "Oversold",
    "file": "DEXE.png"
+  },
+  {
+   "symbol": "LA",
+   "name": "Lagrange",
+   "sigma": 2.84,
+   "from_btc_pct": 3,
+   "verdict": "Neutral",
+   "file": "LA.png"
   }
  ]
 }
