@@ -1,6 +1,6 @@
 {
  "date": "2026-07-24",
- "generated_at": "2026-07-24T16:30:58.664935+00:00",
+ "generated_at": "2026-07-24T18:30:54.743403+00:00",
  "assets": [
   {
    "symbol": "BEAMX",
@@ -9,6 +9,14 @@
    "from_btc_pct": 0,
    "verdict": "Neutral",
    "file": "BEAMX.png"
+  },
+  {
+   "symbol": "PYR",
+   "name": "Vulcan Forged",
+   "sigma": 5.03,
+   "from_btc_pct": 2,
+   "verdict": "Oversold",
+   "file": "PYR.png"
   },
   {
    "symbol": "ACE",
