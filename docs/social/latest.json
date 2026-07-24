@@ -1,7 +1,15 @@
 {
  "date": "2026-07-24",
- "generated_at": "2026-07-24T13:01:02.241383+00:00",
+ "generated_at": "2026-07-24T15:45:53.264652+00:00",
  "assets": [
+  {
+   "symbol": "BEAMX",
+   "name": null,
+   "sigma": 6.23,
+   "from_btc_pct": 0,
+   "verdict": "Neutral",
+   "file": "BEAMX.png"
+  },
   {
    "symbol": "STX",
    "name": "Stacks",
