@@ -1,6 +1,6 @@
 {
  "date": "2026-07-24",
- "generated_at": "2026-07-24T15:45:53.264652+00:00",
+ "generated_at": "2026-07-24T16:30:58.664935+00:00",
  "assets": [
   {
    "symbol": "BEAMX",
@@ -9,6 +9,14 @@
    "from_btc_pct": 0,
    "verdict": "Neutral",
    "file": "BEAMX.png"
+  },
+  {
+   "symbol": "ACE",
+   "name": "Fusionist",
+   "sigma": 3.57,
+   "from_btc_pct": 0,
+   "verdict": "Neutral",
+   "file": "ACE.png"
   },
   {
    "symbol": "STX",
