@@ -1,6 +1,6 @@
 {
  "date": "2026-07-25",
- "generated_at": "2026-07-25T20:02:30.915406+00:00",
+ "generated_at": "2026-07-25T20:15:44.117176+00:00",
  "assets": [
   {
    "symbol": "QI",
@@ -51,6 +51,14 @@
    "file": "DEXE.png"
   },
   {
+   "symbol": "EDU",
+   "name": "Open Campus",
+   "sigma": 2.94,
+   "from_btc_pct": 18,
+   "verdict": "Neutral",
+   "file": "EDU.png"
+  },
+  {
    "symbol": "SHIB",
    "name": "Shiba Inu",
    "sigma": 2.81,
@@ -73,14 +81,6 @@
    "from_btc_pct": 0,
    "verdict": "Oversold",
    "file": "VANA.png"
-  },
-  {
-   "symbol": "EDU",
-   "name": "Open Campus",
-   "sigma": 2.59,
-   "from_btc_pct": 19,
-   "verdict": "Neutral",
-   "file": "EDU.png"
   },
   {
    "symbol": "ZAMA",
