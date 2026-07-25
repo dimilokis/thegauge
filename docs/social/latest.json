@@ -1,6 +1,6 @@
 {
  "date": "2026-07-25",
- "generated_at": "2026-07-25T03:45:19.238295+00:00",
+ "generated_at": "2026-07-25T04:30:57.046196+00:00",
  "assets": [
   {
    "symbol": "EUL",
@@ -9,6 +9,14 @@
    "from_btc_pct": 7,
    "verdict": "Overbought",
    "file": "EUL.png"
+  },
+  {
+   "symbol": "ZAMA",
+   "name": "Zama",
+   "sigma": 2.5,
+   "from_btc_pct": 0,
+   "verdict": "Strong Uptrend",
+   "file": "ZAMA.png"
   }
  ]
 }
