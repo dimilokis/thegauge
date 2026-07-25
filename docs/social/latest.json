@@ -1,6 +1,6 @@
 {
  "date": "2026-07-25",
- "generated_at": "2026-07-25T04:30:57.046196+00:00",
+ "generated_at": "2026-07-25T07:45:49.221848+00:00",
  "assets": [
   {
    "symbol": "EUL",
@@ -9,6 +9,14 @@
    "from_btc_pct": 7,
    "verdict": "Overbought",
    "file": "EUL.png"
+  },
+  {
+   "symbol": "DEXE",
+   "name": "DeXe",
+   "sigma": 2.58,
+   "from_btc_pct": 2,
+   "verdict": "Neutral",
+   "file": "DEXE.png"
   },
   {
    "symbol": "ZAMA",
