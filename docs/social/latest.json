@@ -1,6 +1,6 @@
 {
  "date": "2026-07-25",
- "generated_at": "2026-07-25T20:15:44.117176+00:00",
+ "generated_at": "2026-07-25T20:30:52.396701+00:00",
  "assets": [
   {
    "symbol": "QI",
@@ -67,20 +67,20 @@
    "file": "SHIB.png"
   },
   {
-   "symbol": "WIF",
-   "name": "dogwifhat",
-   "sigma": 2.71,
-   "from_btc_pct": 10,
-   "verdict": "Neutral",
-   "file": "WIF.png"
-  },
-  {
    "symbol": "VANA",
    "name": "Vana",
    "sigma": 2.68,
    "from_btc_pct": 0,
    "verdict": "Oversold",
    "file": "VANA.png"
+  },
+  {
+   "symbol": "WIF",
+   "name": "dogwifhat",
+   "sigma": 2.52,
+   "from_btc_pct": 10,
+   "verdict": "Neutral",
+   "file": "WIF.png"
   },
   {
    "symbol": "ZAMA",
