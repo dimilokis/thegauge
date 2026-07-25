@@ -1,6 +1,6 @@
 {
  "date": "2026-07-25",
- "generated_at": "2026-07-25T18:15:48.268060+00:00",
+ "generated_at": "2026-07-25T19:00:50.083741+00:00",
  "assets": [
   {
    "symbol": "REQ",
@@ -35,14 +35,6 @@
    "file": "DEXE.png"
   },
   {
-   "symbol": "FLOKI",
-   "name": "FLOKI",
-   "sigma": 2.92,
-   "from_btc_pct": 24,
-   "verdict": "Neutral",
-   "file": "FLOKI.png"
-  },
-  {
    "symbol": "SHIB",
    "name": "Shiba Inu",
    "sigma": 2.81,
@@ -65,6 +57,14 @@
    "from_btc_pct": 0,
    "verdict": "Oversold",
    "file": "VANA.png"
+  },
+  {
+   "symbol": "FLOKI",
+   "name": "FLOKI",
+   "sigma": 2.54,
+   "from_btc_pct": 26,
+   "verdict": "Neutral",
+   "file": "FLOKI.png"
   },
   {
    "symbol": "ZAMA",
