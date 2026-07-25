@@ -1,6 +1,6 @@
 {
  "date": "2026-07-25",
- "generated_at": "2026-07-25T11:01:00.748816+00:00",
+ "generated_at": "2026-07-25T11:40:10.859158+00:00",
  "assets": [
   {
    "symbol": "EUL",
@@ -17,6 +17,14 @@
    "from_btc_pct": 2,
    "verdict": "Neutral",
    "file": "DEXE.png"
+  },
+  {
+   "symbol": "VANA",
+   "name": "Vana",
+   "sigma": 2.68,
+   "from_btc_pct": 0,
+   "verdict": "Oversold",
+   "file": "VANA.png"
   },
   {
    "symbol": "PROM",
