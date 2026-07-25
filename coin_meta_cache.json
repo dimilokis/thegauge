@@ -627,6 +627,10 @@
   "icon": "https://coin-images.coingecko.com/coins/images/68423/large/logo.png?1755710030",
   "name": "Sapien"
  },
+ "SCR": {
+  "icon": "https://coin-images.coingecko.com/coins/images/50571/large/scroll.jpg",
+  "name": "Scroll"
+ },
  "SEI": {
   "icon": "https://coin-images.coingecko.com/coins/images/28205/large/Sei_Logo_-_Transparent.png?1696527207",
   "name": "Sei"
