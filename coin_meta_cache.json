@@ -263,6 +263,10 @@
   "icon": "https://coin-images.coingecko.com/coins/images/35958/large/etherfi.jpeg?1710254562",
   "name": "Ether.fi"
  },
+ "EUL": {
+  "icon": "https://coin-images.coingecko.com/coins/images/26149/large/Coingecko_logo_%281%29.png",
+  "name": "Euler"
+ },
  "FET": {
   "icon": "https://coin-images.coingecko.com/coins/images/5681/large/ASI.png?1719827289",
   "name": "Artificial Superintelligence Alliance"
