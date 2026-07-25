@@ -1,6 +1,6 @@
 {
  "date": "2026-07-25",
- "generated_at": "2026-07-25T17:45:14.305142+00:00",
+ "generated_at": "2026-07-25T18:15:48.268060+00:00",
  "assets": [
   {
    "symbol": "REQ",
@@ -43,20 +43,20 @@
    "file": "FLOKI.png"
   },
   {
-   "symbol": "EDU",
-   "name": "Open Campus",
-   "sigma": 2.82,
-   "from_btc_pct": 17,
-   "verdict": "Neutral",
-   "file": "EDU.png"
-  },
-  {
    "symbol": "SHIB",
    "name": "Shiba Inu",
    "sigma": 2.81,
    "from_btc_pct": 27,
    "verdict": "Neutral",
    "file": "SHIB.png"
+  },
+  {
+   "symbol": "EDU",
+   "name": "Open Campus",
+   "sigma": 2.71,
+   "from_btc_pct": 19,
+   "verdict": "Neutral",
+   "file": "EDU.png"
   },
   {
    "symbol": "VANA",
