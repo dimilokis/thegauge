@@ -1,6 +1,6 @@
 {
  "date": "2026-07-25",
- "generated_at": "2026-07-25T19:15:52.107426+00:00",
+ "generated_at": "2026-07-25T20:00:50.750292+00:00",
  "assets": [
   {
    "symbol": "QI",
@@ -25,6 +25,14 @@
    "from_btc_pct": 7,
    "verdict": "Overbought",
    "file": "EUL.png"
+  },
+  {
+   "symbol": "FLOKI",
+   "name": "FLOKI",
+   "sigma": 3.05,
+   "from_btc_pct": 25,
+   "verdict": "Neutral",
+   "file": "FLOKI.png"
   },
   {
    "symbol": "PROM",
@@ -65,14 +73,6 @@
    "from_btc_pct": 19,
    "verdict": "Neutral",
    "file": "EDU.png"
-  },
-  {
-   "symbol": "FLOKI",
-   "name": "FLOKI",
-   "sigma": 2.54,
-   "from_btc_pct": 26,
-   "verdict": "Neutral",
-   "file": "FLOKI.png"
   },
   {
    "symbol": "ZAMA",
