@@ -1,6 +1,6 @@
 {
  "date": "2026-07-25",
- "generated_at": "2026-07-25T12:45:55.658111+00:00",
+ "generated_at": "2026-07-25T14:15:51.698556+00:00",
  "assets": [
   {
    "symbol": "EUL",
@@ -9,14 +9,6 @@
    "from_btc_pct": 7,
    "verdict": "Overbought",
    "file": "EUL.png"
-  },
-  {
-   "symbol": "EDU",
-   "name": "Open Campus",
-   "sigma": 3.28,
-   "from_btc_pct": 15,
-   "verdict": "Neutral",
-   "file": "EDU.png"
   },
   {
    "symbol": "PROM",
@@ -33,6 +25,14 @@
    "from_btc_pct": 2,
    "verdict": "Neutral",
    "file": "DEXE.png"
+  },
+  {
+   "symbol": "EDU",
+   "name": "Open Campus",
+   "sigma": 2.82,
+   "from_btc_pct": 17,
+   "verdict": "Neutral",
+   "file": "EDU.png"
   },
   {
    "symbol": "VANA",
