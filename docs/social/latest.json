@@ -1,6 +1,6 @@
 {
  "date": "2026-07-25",
- "generated_at": "2026-07-25T08:27:56.362000+00:00",
+ "generated_at": "2026-07-25T09:00:59.783488+00:00",
  "assets": [
   {
    "symbol": "EUL",
@@ -13,7 +13,7 @@
   {
    "symbol": "DEXE",
    "name": "DeXe",
-   "sigma": 2.58,
+   "sigma": 3.02,
    "from_btc_pct": 2,
    "verdict": "Neutral",
    "file": "DEXE.png"
