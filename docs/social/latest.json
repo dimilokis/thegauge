@@ -1,7 +1,15 @@
 {
  "date": "2026-07-25",
- "generated_at": "2026-07-25T14:45:50.481140+00:00",
+ "generated_at": "2026-07-25T16:15:49.206486+00:00",
  "assets": [
+  {
+   "symbol": "REQ",
+   "name": "Request",
+   "sigma": 13.69,
+   "from_btc_pct": 2,
+   "verdict": "Overbought",
+   "file": "REQ.png"
+  },
   {
    "symbol": "EUL",
    "name": "Euler",

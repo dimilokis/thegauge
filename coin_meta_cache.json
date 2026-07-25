@@ -591,6 +591,10 @@
   "icon": "https://coin-images.coingecko.com/coins/images/11636/large/rndr.png?1696511529",
   "name": "Render"
  },
+ "REQ": {
+  "icon": "https://coin-images.coingecko.com/coins/images/1031/large/Request_icon_green.png",
+  "name": "Request"
+ },
  "RESOLV": {
   "icon": "https://coin-images.coingecko.com/coins/images/56092/large/resolv_token.png?1749800512",
   "name": "Resolv"
