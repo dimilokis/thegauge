@@ -1,6 +1,6 @@
 {
  "date": "2026-07-24",
- "generated_at": "2026-07-24T22:15:47.030436+00:00",
+ "generated_at": "2026-07-25T01:45:46.888857+00:00",
  "assets": [
   {
    "symbol": "BEAMX",
@@ -57,6 +57,14 @@
    "from_btc_pct": 4,
    "verdict": "Oversold",
    "file": "PYR.png"
+  },
+  {
+   "symbol": "MIRA",
+   "name": "Mira",
+   "sigma": 2.5,
+   "from_btc_pct": 13,
+   "verdict": "Neutral",
+   "file": "MIRA.png"
   }
  ]
 }
