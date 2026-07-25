@@ -1,6 +1,6 @@
 {
  "date": "2026-07-25",
- "generated_at": "2026-07-25T20:30:52.396701+00:00",
+ "generated_at": "2026-07-25T20:45:44.530074+00:00",
  "assets": [
   {
    "symbol": "QI",
@@ -49,6 +49,14 @@
    "from_btc_pct": 2,
    "verdict": "Neutral",
    "file": "DEXE.png"
+  },
+  {
+   "symbol": "LISTA",
+   "name": "Lista DAO",
+   "sigma": 3.0,
+   "from_btc_pct": 27,
+   "verdict": "Neutral",
+   "file": "LISTA.png"
   },
   {
    "symbol": "EDU",
