@@ -1,6 +1,6 @@
 {
  "date": "2026-07-25",
- "generated_at": "2026-07-25T21:00:48.970490+00:00",
+ "generated_at": "2026-07-25T21:06:51.513950+00:00",
  "assets": [
   {
    "symbol": "QI",
@@ -59,20 +59,20 @@
    "file": "LISTA.png"
   },
   {
-   "symbol": "EDU",
-   "name": "Open Campus",
-   "sigma": 2.94,
-   "from_btc_pct": 18,
-   "verdict": "Neutral",
-   "file": "EDU.png"
-  },
-  {
    "symbol": "SHIB",
    "name": "Shiba Inu",
    "sigma": 2.81,
    "from_btc_pct": 27,
    "verdict": "Neutral",
    "file": "SHIB.png"
+  },
+  {
+   "symbol": "AVAX",
+   "name": "Avalanche",
+   "sigma": 2.77,
+   "from_btc_pct": 29,
+   "verdict": "Neutral",
+   "file": "AVAX.png"
   },
   {
    "symbol": "VANA",
@@ -91,12 +91,12 @@
    "file": "WIF.png"
   },
   {
-   "symbol": "ZAMA",
-   "name": "Zama",
-   "sigma": 2.5,
-   "from_btc_pct": 0,
-   "verdict": "Strong Uptrend",
-   "file": "ZAMA.png"
+   "symbol": "EDU",
+   "name": "Open Campus",
+   "sigma": 2.59,
+   "from_btc_pct": 18,
+   "verdict": "Neutral",
+   "file": "EDU.png"
   }
  ]
 }
