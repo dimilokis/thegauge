@@ -1,6 +1,6 @@
 {
  "date": "2026-07-25",
- "generated_at": "2026-07-25T07:45:49.221848+00:00",
+ "generated_at": "2026-07-25T08:27:56.362000+00:00",
  "assets": [
   {
    "symbol": "EUL",
@@ -17,6 +17,14 @@
    "from_btc_pct": 2,
    "verdict": "Neutral",
    "file": "DEXE.png"
+  },
+  {
+   "symbol": "PROM",
+   "name": "Prom",
+   "sigma": 2.57,
+   "from_btc_pct": 0,
+   "verdict": "Overbought",
+   "file": "PROM.png"
   },
   {
    "symbol": "ZAMA",
