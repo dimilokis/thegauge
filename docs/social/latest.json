@@ -1,6 +1,6 @@
 {
  "date": "2026-07-25",
- "generated_at": "2026-07-25T09:00:59.783488+00:00",
+ "generated_at": "2026-07-25T09:15:54.026843+00:00",
  "assets": [
   {
    "symbol": "EUL",
@@ -21,7 +21,7 @@
   {
    "symbol": "PROM",
    "name": "Prom",
-   "sigma": 2.57,
+   "sigma": 2.92,
    "from_btc_pct": 0,
    "verdict": "Overbought",
    "file": "PROM.png"
