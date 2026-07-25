@@ -1,6 +1,6 @@
 {
  "date": "2026-07-25",
- "generated_at": "2026-07-25T16:15:49.206486+00:00",
+ "generated_at": "2026-07-25T16:30:55.060139+00:00",
  "assets": [
   {
    "symbol": "REQ",
@@ -57,6 +57,14 @@
    "from_btc_pct": 0,
    "verdict": "Oversold",
    "file": "VANA.png"
+  },
+  {
+   "symbol": "FLOKI",
+   "name": "FLOKI",
+   "sigma": 2.51,
+   "from_btc_pct": 24,
+   "verdict": "Neutral",
+   "file": "FLOKI.png"
   },
   {
    "symbol": "ZAMA",
