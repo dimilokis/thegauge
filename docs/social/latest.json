@@ -1,6 +1,6 @@
 {
  "date": "2026-07-25",
- "generated_at": "2026-07-25T20:45:44.530074+00:00",
+ "generated_at": "2026-07-25T21:00:48.970490+00:00",
  "assets": [
   {
    "symbol": "QI",
@@ -85,7 +85,7 @@
   {
    "symbol": "WIF",
    "name": "dogwifhat",
-   "sigma": 2.52,
+   "sigma": 2.6,
    "from_btc_pct": 10,
    "verdict": "Neutral",
    "file": "WIF.png"
