@@ -1,6 +1,6 @@
 {
  "date": "2026-07-25",
- "generated_at": "2026-07-25T21:15:51.296881+00:00",
+ "generated_at": "2026-07-25T21:45:48.550170+00:00",
  "assets": [
   {
    "symbol": "QI",
@@ -51,28 +51,12 @@
    "file": "DEXE.png"
   },
   {
-   "symbol": "LISTA",
-   "name": "Lista DAO",
-   "sigma": 3.0,
-   "from_btc_pct": 27,
-   "verdict": "Neutral",
-   "file": "LISTA.png"
-  },
-  {
    "symbol": "SHIB",
    "name": "Shiba Inu",
    "sigma": 2.81,
    "from_btc_pct": 27,
    "verdict": "Neutral",
    "file": "SHIB.png"
-  },
-  {
-   "symbol": "AVAX",
-   "name": "Avalanche",
-   "sigma": 2.77,
-   "from_btc_pct": 29,
-   "verdict": "Neutral",
-   "file": "AVAX.png"
   },
   {
    "symbol": "WIF",
@@ -97,6 +81,22 @@
    "from_btc_pct": 18,
    "verdict": "Neutral",
    "file": "EDU.png"
+  },
+  {
+   "symbol": "AVAX",
+   "name": "Avalanche",
+   "sigma": 2.55,
+   "from_btc_pct": 30,
+   "verdict": "Neutral",
+   "file": "AVAX.png"
+  },
+  {
+   "symbol": "LISTA",
+   "name": "Lista DAO",
+   "sigma": 2.5,
+   "from_btc_pct": 29,
+   "verdict": "Oversold",
+   "file": "LISTA.png"
   }
  ]
 }

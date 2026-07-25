@@ -207,6 +207,10 @@
   "icon": "https://coin-images.coingecko.com/coins/images/5/large/dogecoin.png?1696501409",
   "name": "Dogecoin"
  },
+ "DOGS": {
+  "icon": "https://coin-images.coingecko.com/coins/images/39699/large/dogs_logo_200x200.png",
+  "name": "Dogs"
+ },
  "DOT": {
   "icon": "https://coin-images.coingecko.com/coins/images/12171/large/polkadot.jpg?1766533446",
   "name": "Polkadot"
