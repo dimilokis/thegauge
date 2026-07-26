@@ -1,6 +1,6 @@
 {
  "date": "2026-07-26",
- "generated_at": "2026-07-26T11:15:47.844755+00:00",
+ "generated_at": "2026-07-26T14:00:53.231445+00:00",
  "assets": [
   {
    "symbol": "LPT",
@@ -33,6 +33,14 @@
    "from_btc_pct": 15,
    "verdict": "Neutral",
    "file": "PEOPLE.png"
+  },
+  {
+   "symbol": "ESP",
+   "name": "Espresso",
+   "sigma": 3.28,
+   "from_btc_pct": 1,
+   "verdict": "Overbought",
+   "file": "ESP.png"
   },
   {
    "symbol": "REQ",
