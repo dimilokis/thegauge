@@ -1,6 +1,6 @@
 {
  "date": "2026-07-26",
- "generated_at": "2026-07-26T17:15:47.975605+00:00",
+ "generated_at": "2026-07-26T17:42:00.112011+00:00",
  "assets": [
   {
    "symbol": "LPT",
@@ -27,14 +27,6 @@
    "file": "BOME.png"
   },
   {
-   "symbol": "ETC",
-   "name": "Ethereum Classic",
-   "sigma": 3.72,
-   "from_btc_pct": 35,
-   "verdict": "Neutral",
-   "file": "ETC.png"
-  },
-  {
    "symbol": "ESP",
    "name": "Espresso",
    "sigma": 3.28,
@@ -49,6 +41,14 @@
    "from_btc_pct": 6,
    "verdict": "Overbought",
    "file": "REQ.png"
+  },
+  {
+   "symbol": "ETC",
+   "name": "Ethereum Classic",
+   "sigma": 3.02,
+   "from_btc_pct": 39,
+   "verdict": "Neutral",
+   "file": "ETC.png"
   },
   {
    "symbol": "PEOPLE",
