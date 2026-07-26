@@ -1,6 +1,6 @@
 {
  "date": "2026-07-26",
- "generated_at": "2026-07-26T05:16:13.339240+00:00",
+ "generated_at": "2026-07-26T05:45:47.497164+00:00",
  "assets": [
   {
    "symbol": "DIA",
@@ -25,6 +25,14 @@
    "from_btc_pct": 1,
    "verdict": "Overbought",
    "file": "EUL.png"
+  },
+  {
+   "symbol": "PEPE",
+   "name": "Pepe",
+   "sigma": 2.61,
+   "from_btc_pct": 23,
+   "verdict": "Neutral",
+   "file": "PEPE.png"
   }
  ]
 }
