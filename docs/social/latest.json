@@ -1,7 +1,15 @@
 {
  "date": "2026-07-26",
- "generated_at": "2026-07-26T08:15:43.730878+00:00",
+ "generated_at": "2026-07-26T10:00:55.845885+00:00",
  "assets": [
+  {
+   "symbol": "LPT",
+   "name": "Livepeer",
+   "sigma": 8.41,
+   "from_btc_pct": 14,
+   "verdict": "Neutral",
+   "file": "LPT.png"
+  },
   {
    "symbol": "DIA",
    "name": "DIA",
