@@ -1,7 +1,15 @@
 {
  "date": "2026-07-26",
- "generated_at": "2026-07-26T03:00:56.392734+00:00",
+ "generated_at": "2026-07-26T03:15:53.772619+00:00",
  "assets": [
+  {
+   "symbol": "DIA",
+   "name": "DIA",
+   "sigma": 3.5,
+   "from_btc_pct": 25,
+   "verdict": "Neutral",
+   "file": "DIA.png"
+  },
   {
    "symbol": "REQ",
    "name": "Request",
