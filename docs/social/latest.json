@@ -1,6 +1,6 @@
 {
  "date": "2026-07-26",
- "generated_at": "2026-07-26T18:30:48.220004+00:00",
+ "generated_at": "2026-07-26T19:00:50.340316+00:00",
  "assets": [
   {
    "symbol": "LPT",
@@ -67,6 +67,14 @@
    "file": "KAITO.png"
   },
   {
+   "symbol": "SHIB",
+   "name": "Shiba Inu",
+   "sigma": 2.66,
+   "from_btc_pct": 9,
+   "verdict": "Neutral",
+   "file": "SHIB.png"
+  },
+  {
    "symbol": "PEPE",
    "name": "Pepe",
    "sigma": 2.61,
@@ -81,14 +89,6 @@
    "from_btc_pct": 3,
    "verdict": "Neutral",
    "file": "LA.png"
-  },
-  {
-   "symbol": "SHIB",
-   "name": "Shiba Inu",
-   "sigma": 2.56,
-   "from_btc_pct": 9,
-   "verdict": "Neutral",
-   "file": "SHIB.png"
   },
   {
    "symbol": "EUL",
