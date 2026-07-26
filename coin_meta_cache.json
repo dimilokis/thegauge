@@ -199,6 +199,10 @@
   "icon": "https://coin-images.coingecko.com/coins/images/63/large/digibyte.png?1696501454",
   "name": "DigiByte"
  },
+ "DIA": {
+  "icon": "https://coin-images.coingecko.com/coins/images/11955/large/Company_avatar_%28400x400%29.png",
+  "name": "DIA"
+ },
  "DODO": {
   "icon": "https://coin-images.coingecko.com/coins/images/12651/large/dodo_logo.png?1696512458",
   "name": "DODO"
