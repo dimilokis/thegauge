@@ -571,6 +571,10 @@
   "icon": "https://coin-images.coingecko.com/coins/images/53623/large/plume-token.png?1736896935",
   "name": "Plume"
  },
+ "PNUT": {
+  "icon": "https://coin-images.coingecko.com/coins/images/51301/large/Peanut_the_Squirrel.png",
+  "name": "Peanut the Squirrel"
+ },
  "POL": {
   "icon": "https://coin-images.coingecko.com/coins/images/32440/large/pol.png?1759114181",
   "name": "POL (ex-MATIC)"
