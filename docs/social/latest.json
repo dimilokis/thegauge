@@ -1,6 +1,6 @@
 {
  "date": "2026-07-26",
- "generated_at": "2026-07-26T20:30:54.019373+00:00",
+ "generated_at": "2026-07-26T21:30:49.728166+00:00",
  "assets": [
   {
    "symbol": "DIA",
@@ -75,14 +75,6 @@
    "file": "PEPE.png"
   },
   {
-   "symbol": "LPT",
-   "name": "Livepeer",
-   "sigma": 2.6,
-   "from_btc_pct": 34,
-   "verdict": "Oversold",
-   "file": "LPT.png"
-  },
-  {
    "symbol": "LA",
    "name": "Lagrange",
    "sigma": 2.58,
@@ -97,6 +89,14 @@
    "from_btc_pct": 1,
    "verdict": "Overbought",
    "file": "EUL.png"
+  },
+  {
+   "symbol": "LPT",
+   "name": "Livepeer",
+   "sigma": 2.52,
+   "from_btc_pct": 36,
+   "verdict": "Oversold",
+   "file": "LPT.png"
   }
  ]
 }
