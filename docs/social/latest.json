@@ -1,6 +1,6 @@
 {
  "date": "2026-07-26",
- "generated_at": "2026-07-26T10:30:51.533184+00:00",
+ "generated_at": "2026-07-26T11:15:47.844755+00:00",
  "assets": [
   {
    "symbol": "LPT",
@@ -43,20 +43,28 @@
    "file": "REQ.png"
   },
   {
+   "symbol": "KAITO",
+   "name": "KAITO",
+   "sigma": 2.71,
+   "from_btc_pct": 4,
+   "verdict": "Overbought",
+   "file": "KAITO.png"
+  },
+  {
+   "symbol": "EUL",
+   "name": "Euler",
+   "sigma": 2.64,
+   "from_btc_pct": 1,
+   "verdict": "Overbought",
+   "file": "EUL.png"
+  },
+  {
    "symbol": "PEPE",
    "name": "Pepe",
    "sigma": 2.61,
    "from_btc_pct": 23,
    "verdict": "Neutral",
    "file": "PEPE.png"
-  },
-  {
-   "symbol": "EUL",
-   "name": "Euler",
-   "sigma": 2.55,
-   "from_btc_pct": 1,
-   "verdict": "Overbought",
-   "file": "EUL.png"
   }
  ]
 }
