@@ -1,6 +1,6 @@
 {
  "date": "2026-07-26",
- "generated_at": "2026-07-26T10:00:55.845885+00:00",
+ "generated_at": "2026-07-26T10:15:48.163571+00:00",
  "assets": [
   {
    "symbol": "LPT",
@@ -43,20 +43,20 @@
    "file": "EUL.png"
   },
   {
-   "symbol": "PEPE",
-   "name": "Pepe",
-   "sigma": 3.26,
-   "from_btc_pct": 21,
-   "verdict": "Neutral",
-   "file": "PEPE.png"
-  },
-  {
    "symbol": "REQ",
    "name": "Request",
    "sigma": 3.08,
    "from_btc_pct": 6,
    "verdict": "Overbought",
    "file": "REQ.png"
+  },
+  {
+   "symbol": "PEPE",
+   "name": "Pepe",
+   "sigma": 2.61,
+   "from_btc_pct": 23,
+   "verdict": "Neutral",
+   "file": "PEPE.png"
   }
  ]
 }
