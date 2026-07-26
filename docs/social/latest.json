@@ -1,6 +1,6 @@
 {
  "date": "2026-07-26",
- "generated_at": "2026-07-26T22:45:52.147873+00:00",
+ "generated_at": "2026-07-26T23:45:47.805737+00:00",
  "assets": [
   {
    "symbol": "DIA",
@@ -51,14 +51,6 @@
    "file": "ETC.png"
   },
   {
-   "symbol": "PUMP",
-   "name": "Pump.fun",
-   "sigma": 2.78,
-   "from_btc_pct": 6,
-   "verdict": "Strong Uptrend",
-   "file": "PUMP.png"
-  },
-  {
    "symbol": "PEPE",
    "name": "Pepe",
    "sigma": 2.77,
@@ -81,6 +73,14 @@
    "from_btc_pct": 4,
    "verdict": "Overbought",
    "file": "KAITO.png"
+  },
+  {
+   "symbol": "PUMP",
+   "name": "Pump.fun",
+   "sigma": 2.65,
+   "from_btc_pct": 7,
+   "verdict": "Strong Uptrend",
+   "file": "PUMP.png"
   },
   {
    "symbol": "QI",
