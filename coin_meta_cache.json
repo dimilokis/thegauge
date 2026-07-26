@@ -779,6 +779,10 @@
   "icon": "https://coin-images.coingecko.com/coins/images/54299/large/image_2025-02-08_18-56-13.png?1739165439",
   "name": "Tutorial"
  },
+ "TWT": {
+  "icon": "https://coin-images.coingecko.com/coins/images/11085/large/Trust.png",
+  "name": "Trust Wallet"
+ },
  "U": {
   "icon": "https://coin-images.coingecko.com/coins/images/71157/large/united-stables-logo.jpg?1766061640",
   "name": "United Stables"
