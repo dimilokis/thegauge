@@ -1,102 +1,14 @@
 {
- "date": "2026-07-25",
- "generated_at": "2026-07-26T02:30:48.350338+00:00",
+ "date": "2026-07-26",
+ "generated_at": "2026-07-26T03:00:56.392734+00:00",
  "assets": [
-  {
-   "symbol": "QI",
-   "name": "BENQI",
-   "sigma": 22.19,
-   "from_btc_pct": 7,
-   "verdict": "Overbought",
-   "file": "QI.png"
-  },
   {
    "symbol": "REQ",
    "name": "Request",
-   "sigma": 13.69,
-   "from_btc_pct": 2,
+   "sigma": 3.08,
+   "from_btc_pct": 6,
    "verdict": "Overbought",
    "file": "REQ.png"
-  },
-  {
-   "symbol": "EUL",
-   "name": "Euler",
-   "sigma": 4.9,
-   "from_btc_pct": 7,
-   "verdict": "Overbought",
-   "file": "EUL.png"
-  },
-  {
-   "symbol": "SHIB",
-   "name": "Shiba Inu",
-   "sigma": 3.31,
-   "from_btc_pct": 7,
-   "verdict": "Strong Uptrend",
-   "file": "SHIB.png"
-  },
-  {
-   "symbol": "FLOKI",
-   "name": "FLOKI",
-   "sigma": 3.05,
-   "from_btc_pct": 25,
-   "verdict": "Neutral",
-   "file": "FLOKI.png"
-  },
-  {
-   "symbol": "PROM",
-   "name": "Prom",
-   "sigma": 3.03,
-   "from_btc_pct": 0,
-   "verdict": "Overbought",
-   "file": "PROM.png"
-  },
-  {
-   "symbol": "DEXE",
-   "name": "DeXe",
-   "sigma": 3.02,
-   "from_btc_pct": 2,
-   "verdict": "Neutral",
-   "file": "DEXE.png"
-  },
-  {
-   "symbol": "WIF",
-   "name": "dogwifhat",
-   "sigma": 2.77,
-   "from_btc_pct": 10,
-   "verdict": "Neutral",
-   "file": "WIF.png"
-  },
-  {
-   "symbol": "VANA",
-   "name": "Vana",
-   "sigma": 2.68,
-   "from_btc_pct": 0,
-   "verdict": "Oversold",
-   "file": "VANA.png"
-  },
-  {
-   "symbol": "DIA",
-   "name": "DIA",
-   "sigma": 2.66,
-   "from_btc_pct": 26,
-   "verdict": "Neutral",
-   "file": "DIA.png"
-  },
-  {
-   "symbol": "EDU",
-   "name": "Open Campus",
-   "sigma": 2.59,
-   "from_btc_pct": 18,
-   "verdict": "Neutral",
-   "file": "EDU.png"
-  },
-  {
-   "symbol": "AVAX",
-   "name": "Avalanche",
-   "sigma": 2.55,
-   "from_btc_pct": 30,
-   "verdict": "Neutral",
-   "file": "AVAX.png"
   }
  ]
 }
