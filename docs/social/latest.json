@@ -1,6 +1,6 @@
 {
  "date": "2026-07-26",
- "generated_at": "2026-07-26T14:30:51.230377+00:00",
+ "generated_at": "2026-07-26T15:30:50.156202+00:00",
  "assets": [
   {
    "symbol": "LPT",
@@ -25,14 +25,6 @@
    "from_btc_pct": 10,
    "verdict": "Overbought",
    "file": "BOME.png"
-  },
-  {
-   "symbol": "LA",
-   "name": "Lagrange",
-   "sigma": 4.74,
-   "from_btc_pct": 3,
-   "verdict": "Neutral",
-   "file": "LA.png"
   },
   {
    "symbol": "PEOPLE",
@@ -81,6 +73,14 @@
    "from_btc_pct": 23,
    "verdict": "Neutral",
    "file": "PEPE.png"
+  },
+  {
+   "symbol": "LA",
+   "name": "Lagrange",
+   "sigma": 2.58,
+   "from_btc_pct": 3,
+   "verdict": "Neutral",
+   "file": "LA.png"
   }
  ]
 }
