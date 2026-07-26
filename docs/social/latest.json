@@ -1,6 +1,6 @@
 {
  "date": "2026-07-26",
- "generated_at": "2026-07-26T21:45:45.725809+00:00",
+ "generated_at": "2026-07-26T22:00:55.700774+00:00",
  "assets": [
   {
    "symbol": "DIA",
@@ -51,6 +51,14 @@
    "file": "ETC.png"
   },
   {
+   "symbol": "SHIB",
+   "name": "Shiba Inu",
+   "sigma": 2.75,
+   "from_btc_pct": 10,
+   "verdict": "Neutral",
+   "file": "SHIB.png"
+  },
+  {
    "symbol": "KAITO",
    "name": "KAITO",
    "sigma": 2.71,
@@ -59,20 +67,20 @@
    "file": "KAITO.png"
   },
   {
-   "symbol": "SHIB",
-   "name": "Shiba Inu",
-   "sigma": 2.66,
-   "from_btc_pct": 9,
-   "verdict": "Neutral",
-   "file": "SHIB.png"
-  },
-  {
    "symbol": "PEPE",
    "name": "Pepe",
    "sigma": 2.61,
-   "from_btc_pct": 23,
+   "from_btc_pct": 27,
    "verdict": "Neutral",
    "file": "PEPE.png"
+  },
+  {
+   "symbol": "QI",
+   "name": "BENQI",
+   "sigma": 2.6,
+   "from_btc_pct": 7,
+   "verdict": "Neutral",
+   "file": "QI.png"
   },
   {
    "symbol": "LA",
@@ -89,14 +97,6 @@
    "from_btc_pct": 1,
    "verdict": "Overbought",
    "file": "EUL.png"
-  },
-  {
-   "symbol": "LPT",
-   "name": "Livepeer",
-   "sigma": 2.52,
-   "from_btc_pct": 36,
-   "verdict": "Oversold",
-   "file": "LPT.png"
   }
  ]
 }
