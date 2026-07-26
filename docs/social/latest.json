@@ -1,6 +1,6 @@
 {
  "date": "2026-07-26",
- "generated_at": "2026-07-26T15:45:52.414514+00:00",
+ "generated_at": "2026-07-26T16:30:52.868235+00:00",
  "assets": [
   {
    "symbol": "LPT",
@@ -33,14 +33,6 @@
    "from_btc_pct": 15,
    "verdict": "Neutral",
    "file": "PEOPLE.png"
-  },
-  {
-   "symbol": "EUL",
-   "name": "Euler",
-   "sigma": 3.36,
-   "from_btc_pct": 1,
-   "verdict": "Overbought",
-   "file": "EUL.png"
   },
   {
    "symbol": "ESP",
@@ -81,6 +73,14 @@
    "from_btc_pct": 3,
    "verdict": "Neutral",
    "file": "LA.png"
+  },
+  {
+   "symbol": "EUL",
+   "name": "Euler",
+   "sigma": 2.53,
+   "from_btc_pct": 1,
+   "verdict": "Overbought",
+   "file": "EUL.png"
   }
  ]
 }
