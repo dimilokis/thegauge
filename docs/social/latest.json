@@ -1,6 +1,6 @@
 {
  "date": "2026-07-26",
- "generated_at": "2026-07-26T05:45:47.497164+00:00",
+ "generated_at": "2026-07-26T06:00:58.084404+00:00",
  "assets": [
   {
    "symbol": "DIA",
@@ -9,6 +9,14 @@
    "from_btc_pct": 15,
    "verdict": "Neutral",
    "file": "DIA.png"
+  },
+  {
+   "symbol": "BOME",
+   "name": "BOOK OF MEME",
+   "sigma": 4.89,
+   "from_btc_pct": 10,
+   "verdict": "Overbought",
+   "file": "BOME.png"
   },
   {
    "symbol": "REQ",
