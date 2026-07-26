@@ -1,6 +1,6 @@
 {
  "date": "2026-07-26",
- "generated_at": "2026-07-26T16:30:52.868235+00:00",
+ "generated_at": "2026-07-26T17:00:57.280648+00:00",
  "assets": [
   {
    "symbol": "LPT",
@@ -25,6 +25,14 @@
    "from_btc_pct": 10,
    "verdict": "Overbought",
    "file": "BOME.png"
+  },
+  {
+   "symbol": "ETC",
+   "name": "Ethereum Classic",
+   "sigma": 3.72,
+   "from_btc_pct": 35,
+   "verdict": "Neutral",
+   "file": "ETC.png"
   },
   {
    "symbol": "PEOPLE",
