@@ -491,6 +491,10 @@
   "icon": "https://coin-images.coingecko.com/coins/images/10365/large/near.jpg?1696510367",
   "name": "NEAR Protocol"
  },
+ "NEIRO": {
+  "icon": "https://coin-images.coingecko.com/coins/images/39488/large/neiro.jpg",
+  "name": "Neiro"
+ },
  "NEO": {
   "icon": "https://coin-images.coingecko.com/coins/images/480/large/NEO_512_512.png?1696501735",
   "name": "NEO"
