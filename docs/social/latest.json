@@ -1,6 +1,6 @@
 {
  "date": "2026-07-26",
- "generated_at": "2026-07-26T04:45:46.667021+00:00",
+ "generated_at": "2026-07-26T05:16:13.339240+00:00",
  "assets": [
   {
    "symbol": "DIA",
@@ -17,6 +17,14 @@
    "from_btc_pct": 6,
    "verdict": "Overbought",
    "file": "REQ.png"
+  },
+  {
+   "symbol": "EUL",
+   "name": "Euler",
+   "sigma": 2.9,
+   "from_btc_pct": 1,
+   "verdict": "Overbought",
+   "file": "EUL.png"
   }
  ]
 }
