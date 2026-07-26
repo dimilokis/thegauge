@@ -208,7 +208,7 @@
   "name": "Dogecoin"
  },
  "DOGS": {
-  "icon": "https://coin-images.coingecko.com/coins/images/39699/large/dogs_logo_200x200.png",
+  "icon": "https://coin-images.coingecko.com/coins/images/39699/large/dogs_logo_200x200.png?1723687163",
   "name": "Dogs"
  },
  "DOT": {
@@ -252,7 +252,7 @@
   "name": "Caldera"
  },
  "ESP": {
-  "icon": "https://coin-images.coingecko.com/coins/images/67626/large/espresso.jpg",
+  "icon": "https://coin-images.coingecko.com/coins/images/67626/large/espresso.jpg?1753324525",
   "name": "Espresso"
  },
  "ETC": {
@@ -268,7 +268,7 @@
   "name": "Ether.fi"
  },
  "EUL": {
-  "icon": "https://coin-images.coingecko.com/coins/images/26149/large/Coingecko_logo_%281%29.png",
+  "icon": "https://coin-images.coingecko.com/coins/images/26149/large/Coingecko_logo_%281%29.png?1706026067",
   "name": "Euler"
  },
  "FET": {
@@ -584,7 +584,7 @@
   "name": "Pyth Network"
  },
  "QI": {
-  "icon": "https://coin-images.coingecko.com/coins/images/16362/large/GergDDN3_400x400.jpg",
+  "icon": "https://coin-images.coingecko.com/coins/images/16362/large/GergDDN3_400x400.jpg?1696515961",
   "name": "BENQI"
  },
  "QTUM": {
@@ -600,7 +600,7 @@
   "name": "Render"
  },
  "REQ": {
-  "icon": "https://coin-images.coingecko.com/coins/images/1031/large/Request_icon_green.png",
+  "icon": "https://coin-images.coingecko.com/coins/images/1031/large/Request_icon_green.png?1696502140",
   "name": "Request"
  },
  "RESOLV": {
@@ -628,7 +628,7 @@
   "name": "Saga"
  },
  "SAHARA": {
-  "icon": "https://coin-images.coingecko.com/coins/images/66681/large/Token_Logo_3x.png",
+  "icon": "https://coin-images.coingecko.com/coins/images/66681/large/Token_Logo_3x.png?1750362133",
   "name": "Sahara AI"
  },
  "SANTOS": {
@@ -788,7 +788,7 @@
   "name": "Vanar Chain"
  },
  "VET": {
-  "icon": "https://coin-images.coingecko.com/coins/images/1167/large/VET.png",
+  "icon": "https://coin-images.coingecko.com/coins/images/1167/large/VET.png?1742383283",
   "name": "VeChain"
  },
  "VIRTUAL": {
