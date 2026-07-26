@@ -1,6 +1,6 @@
 {
  "date": "2026-07-26",
- "generated_at": "2026-07-26T17:00:57.280648+00:00",
+ "generated_at": "2026-07-26T17:15:47.975605+00:00",
  "assets": [
   {
    "symbol": "LPT",
@@ -35,14 +35,6 @@
    "file": "ETC.png"
   },
   {
-   "symbol": "PEOPLE",
-   "name": "ConstitutionDAO",
-   "sigma": 3.52,
-   "from_btc_pct": 15,
-   "verdict": "Neutral",
-   "file": "PEOPLE.png"
-  },
-  {
    "symbol": "ESP",
    "name": "Espresso",
    "sigma": 3.28,
@@ -57,6 +49,14 @@
    "from_btc_pct": 6,
    "verdict": "Overbought",
    "file": "REQ.png"
+  },
+  {
+   "symbol": "PEOPLE",
+   "name": "ConstitutionDAO",
+   "sigma": 2.75,
+   "from_btc_pct": 19,
+   "verdict": "Neutral",
+   "file": "PEOPLE.png"
   },
   {
    "symbol": "KAITO",
