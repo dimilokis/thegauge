@@ -1,6 +1,6 @@
 {
  "date": "2026-07-26",
- "generated_at": "2026-07-26T21:30:49.728166+00:00",
+ "generated_at": "2026-07-26T21:45:45.725809+00:00",
  "assets": [
   {
    "symbol": "DIA",
@@ -27,6 +27,14 @@
    "file": "ESP.png"
   },
   {
+   "symbol": "PEOPLE",
+   "name": "ConstitutionDAO",
+   "sigma": 3.23,
+   "from_btc_pct": 18,
+   "verdict": "Neutral",
+   "file": "PEOPLE.png"
+  },
+  {
    "symbol": "REQ",
    "name": "Request",
    "sigma": 3.08,
@@ -41,14 +49,6 @@
    "from_btc_pct": 39,
    "verdict": "Neutral",
    "file": "ETC.png"
-  },
-  {
-   "symbol": "PEOPLE",
-   "name": "ConstitutionDAO",
-   "sigma": 2.75,
-   "from_btc_pct": 19,
-   "verdict": "Neutral",
-   "file": "PEOPLE.png"
   },
   {
    "symbol": "KAITO",
