@@ -1,6 +1,6 @@
 {
  "date": "2026-07-26",
- "generated_at": "2026-07-26T22:00:55.700774+00:00",
+ "generated_at": "2026-07-26T22:25:56.892059+00:00",
  "assets": [
   {
    "symbol": "DIA",
@@ -51,6 +51,14 @@
    "file": "ETC.png"
   },
   {
+   "symbol": "PUMP",
+   "name": "Pump.fun",
+   "sigma": 2.78,
+   "from_btc_pct": 6,
+   "verdict": "Strong Uptrend",
+   "file": "PUMP.png"
+  },
+  {
    "symbol": "SHIB",
    "name": "Shiba Inu",
    "sigma": 2.75,
@@ -89,14 +97,6 @@
    "from_btc_pct": 3,
    "verdict": "Neutral",
    "file": "LA.png"
-  },
-  {
-   "symbol": "EUL",
-   "name": "Euler",
-   "sigma": 2.53,
-   "from_btc_pct": 1,
-   "verdict": "Overbought",
-   "file": "EUL.png"
   }
  ]
 }
