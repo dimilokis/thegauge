@@ -383,6 +383,10 @@
   "icon": "https://coin-images.coingecko.com/coins/images/12882/large/Other_200x200.png?1738782212",
   "name": "Injective"
  },
+ "IO": {
+  "icon": "https://coin-images.coingecko.com/coins/images/37754/large/io_blackbg.png",
+  "name": "io.net"
+ },
  "JASMY": {
   "icon": "https://coin-images.coingecko.com/coins/images/13876/large/JASMY200x200.jpg?1696513620",
   "name": "JasmyCoin"
