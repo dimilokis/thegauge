@@ -1,15 +1,7 @@
 {
  "date": "2026-07-26",
- "generated_at": "2026-07-26T19:00:50.340316+00:00",
+ "generated_at": "2026-07-26T20:30:54.019373+00:00",
  "assets": [
-  {
-   "symbol": "LPT",
-   "name": "Livepeer",
-   "sigma": 8.41,
-   "from_btc_pct": 14,
-   "verdict": "Neutral",
-   "file": "LPT.png"
-  },
   {
    "symbol": "DIA",
    "name": "DIA",
@@ -81,6 +73,14 @@
    "from_btc_pct": 23,
    "verdict": "Neutral",
    "file": "PEPE.png"
+  },
+  {
+   "symbol": "LPT",
+   "name": "Livepeer",
+   "sigma": 2.6,
+   "from_btc_pct": 34,
+   "verdict": "Oversold",
+   "file": "LPT.png"
   },
   {
    "symbol": "LA",
