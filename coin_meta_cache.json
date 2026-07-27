@@ -187,6 +187,10 @@
   "icon": "https://coin-images.coingecko.com/coins/images/8834/large/CHZ_Token_updated.png?1696508986",
   "name": "Chiliz"
  },
+ "COTI": {
+  "icon": "https://coin-images.coingecko.com/coins/images/2962/large/Coti.png",
+  "name": "COTI"
+ },
  "CRV": {
   "icon": "https://coin-images.coingecko.com/coins/images/12124/large/Curve.png?1696511967",
   "name": "Curve DAO"
