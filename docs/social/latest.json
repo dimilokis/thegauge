@@ -1,6 +1,6 @@
 {
  "date": "2026-07-27",
- "generated_at": "2026-07-27T18:55:11.971393+00:00",
+ "generated_at": "2026-07-27T19:15:46.001924+00:00",
  "assets": [
   {
    "symbol": "LA",
@@ -69,8 +69,8 @@
   {
    "symbol": "LPT",
    "name": "Livepeer",
-   "sigma": 2.52,
-   "from_btc_pct": 40,
+   "sigma": 2.56,
+   "from_btc_pct": 39,
    "verdict": "Oversold",
    "file": "LPT.png"
   }
