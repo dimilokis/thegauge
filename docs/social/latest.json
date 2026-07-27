@@ -1,6 +1,6 @@
 {
  "date": "2026-07-27",
- "generated_at": "2026-07-27T22:45:48.167394+00:00",
+ "generated_at": "2026-07-27T23:01:01.677046+00:00",
  "assets": [
   {
    "symbol": "COTI",
@@ -41,6 +41,14 @@
    "from_btc_pct": 25,
    "verdict": "Neutral",
    "file": "API3.png"
+  },
+  {
+   "symbol": "FLOKI",
+   "name": "FLOKI",
+   "sigma": 3.1,
+   "from_btc_pct": 36,
+   "verdict": "Oversold",
+   "file": "FLOKI.png"
   },
   {
    "symbol": "LA",
@@ -89,14 +97,6 @@
    "from_btc_pct": 39,
    "verdict": "Oversold",
    "file": "LPT.png"
-  },
-  {
-   "symbol": "DOT",
-   "name": "Polkadot",
-   "sigma": 2.51,
-   "from_btc_pct": 39,
-   "verdict": "Neutral",
-   "file": "DOT.png"
   }
  ]
 }
