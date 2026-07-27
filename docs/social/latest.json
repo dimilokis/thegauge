@@ -1,6 +1,6 @@
 {
  "date": "2026-07-27",
- "generated_at": "2026-07-27T20:01:06.073049+00:00",
+ "generated_at": "2026-07-27T21:16:00.361999+00:00",
  "assets": [
   {
    "symbol": "COTI",
@@ -25,6 +25,14 @@
    "from_btc_pct": 0,
    "verdict": "Overbought",
    "file": "DGB.png"
+  },
+  {
+   "symbol": "REZ",
+   "name": "Renzo",
+   "sigma": 5.73,
+   "from_btc_pct": 4,
+   "verdict": "Neutral",
+   "file": "REZ.png"
   },
   {
    "symbol": "STORJ",

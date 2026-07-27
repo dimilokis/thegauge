@@ -659,6 +659,10 @@
   "icon": "https://coin-images.coingecko.com/coins/images/56092/large/resolv_token.png?1749800512",
   "name": "Resolv"
  },
+ "REZ": {
+  "icon": "https://coin-images.coingecko.com/coins/images/37327/large/renzo_200x200.png",
+  "name": "Renzo"
+ },
  "RIF": {
   "icon": "https://coin-images.coingecko.com/coins/images/7460/large/8befc44a46c247e8a3f7fc8abba586b1_%283%29.png?1705501867",
   "name": "Rootstock Infrastructure Framework"
