@@ -1,6 +1,6 @@
 {
  "date": "2026-07-27",
- "generated_at": "2026-07-27T17:16:00.018491+00:00",
+ "generated_at": "2026-07-27T18:01:04.048178+00:00",
  "assets": [
   {
    "symbol": "LA",
@@ -33,6 +33,14 @@
    "from_btc_pct": 12,
    "verdict": "Overbought",
    "file": "PEOPLE.png"
+  },
+  {
+   "symbol": "API3",
+   "name": "Api3",
+   "sigma": 3.47,
+   "from_btc_pct": 25,
+   "verdict": "Neutral",
+   "file": "API3.png"
   },
   {
    "symbol": "APE",
