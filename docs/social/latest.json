@@ -1,7 +1,15 @@
 {
  "date": "2026-07-27",
- "generated_at": "2026-07-27T17:01:03.043922+00:00",
+ "generated_at": "2026-07-27T17:16:00.018491+00:00",
  "assets": [
+  {
+   "symbol": "LA",
+   "name": "Lagrange",
+   "sigma": 6.97,
+   "from_btc_pct": 1,
+   "verdict": "Neutral",
+   "file": "LA.png"
+  },
   {
    "symbol": "DGB",
    "name": "DigiByte",
