@@ -919,6 +919,10 @@
   "icon": "https://coin-images.coingecko.com/coins/images/68462/large/boundless.png?1755826792",
   "name": "Boundless"
  },
+ "ZKP": {
+  "icon": "https://coin-images.coingecko.com/coins/images/70273/large/zkpass.png",
+  "name": "zkPass"
+ },
  "ZRO": {
   "icon": "https://coin-images.coingecko.com/coins/images/28206/large/ftxG9_TJ_400x400.jpeg?1696527208",
   "name": "LayerZero"
