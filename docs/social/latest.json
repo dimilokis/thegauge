@@ -1,6 +1,6 @@
 {
  "date": "2026-07-27",
- "generated_at": "2026-07-27T07:30:53.792439+00:00",
+ "generated_at": "2026-07-27T08:30:54.497902+00:00",
  "assets": [
   {
    "symbol": "STORJ",
@@ -9,6 +9,14 @@
    "from_btc_pct": 8,
    "verdict": "Oversold",
    "file": "STORJ.png"
+  },
+  {
+   "symbol": "ESP",
+   "name": "Espresso",
+   "sigma": 2.64,
+   "from_btc_pct": 4,
+   "verdict": "Neutral",
+   "file": "ESP.png"
   }
  ]
 }
