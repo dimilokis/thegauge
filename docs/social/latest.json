@@ -1,6 +1,6 @@
 {
  "date": "2026-07-27",
- "generated_at": "2026-07-27T23:01:01.677046+00:00",
+ "generated_at": "2026-07-27T23:15:52.770442+00:00",
  "assets": [
   {
    "symbol": "COTI",
@@ -25,6 +25,14 @@
    "from_btc_pct": 4,
    "verdict": "Neutral",
    "file": "REZ.png"
+  },
+  {
+   "symbol": "DOT",
+   "name": "Polkadot",
+   "sigma": 4.13,
+   "from_btc_pct": 40,
+   "verdict": "Neutral",
+   "file": "DOT.png"
   },
   {
    "symbol": "STORJ",
@@ -83,20 +91,12 @@
    "file": "ESP.png"
   },
   {
-   "symbol": "ZAMA",
-   "name": "Zama",
-   "sigma": 2.56,
-   "from_btc_pct": 0,
-   "verdict": "Strong Uptrend",
-   "file": "ZAMA.png"
-  },
-  {
-   "symbol": "LPT",
-   "name": "Livepeer",
-   "sigma": 2.56,
-   "from_btc_pct": 39,
-   "verdict": "Oversold",
-   "file": "LPT.png"
+   "symbol": "SHIB",
+   "name": "Shiba Inu",
+   "sigma": 2.57,
+   "from_btc_pct": 17,
+   "verdict": "Neutral",
+   "file": "SHIB.png"
   }
  ]
 }
