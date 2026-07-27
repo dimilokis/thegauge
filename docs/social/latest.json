@@ -1,6 +1,6 @@
 {
  "date": "2026-07-27",
- "generated_at": "2026-07-27T23:18:22.336412+00:00",
+ "generated_at": "2026-07-27T23:31:00.202138+00:00",
  "assets": [
   {
    "symbol": "COTI",
@@ -11,14 +11,6 @@
    "file": "COTI.png"
   },
   {
-   "symbol": "DGB",
-   "name": "DigiByte",
-   "sigma": 6.55,
-   "from_btc_pct": 0,
-   "verdict": "Overbought",
-   "file": "DGB.png"
-  },
-  {
    "symbol": "REZ",
    "name": "Renzo",
    "sigma": 5.73,
@@ -27,20 +19,28 @@
    "file": "REZ.png"
   },
   {
-   "symbol": "DOT",
-   "name": "Polkadot",
-   "sigma": 4.13,
-   "from_btc_pct": 40,
-   "verdict": "Neutral",
-   "file": "DOT.png"
-  },
-  {
    "symbol": "STORJ",
    "name": "Storj",
    "sigma": 4.09,
    "from_btc_pct": 8,
    "verdict": "Oversold",
    "file": "STORJ.png"
+  },
+  {
+   "symbol": "DOT",
+   "name": "Polkadot",
+   "sigma": 3.91,
+   "from_btc_pct": 40,
+   "verdict": "Neutral",
+   "file": "DOT.png"
+  },
+  {
+   "symbol": "DGB",
+   "name": "DigiByte",
+   "sigma": 3.54,
+   "from_btc_pct": 1,
+   "verdict": "Overbought",
+   "file": "DGB.png"
   },
   {
    "symbol": "API3",
