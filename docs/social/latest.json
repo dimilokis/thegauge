@@ -1,6 +1,6 @@
 {
  "date": "2026-07-27",
- "generated_at": "2026-07-27T16:31:02.903854+00:00",
+ "generated_at": "2026-07-27T17:01:03.043922+00:00",
  "assets": [
   {
    "symbol": "DGB",
@@ -41,6 +41,14 @@
    "from_btc_pct": 3,
    "verdict": "Neutral",
    "file": "ESP.png"
+  },
+  {
+   "symbol": "ZAMA",
+   "name": "Zama",
+   "sigma": 2.56,
+   "from_btc_pct": 0,
+   "verdict": "Strong Uptrend",
+   "file": "ZAMA.png"
   }
  ]
 }
