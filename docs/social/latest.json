@@ -1,6 +1,6 @@
 {
  "date": "2026-07-27",
- "generated_at": "2026-07-27T14:15:55.433822+00:00",
+ "generated_at": "2026-07-27T15:30:59.827887+00:00",
  "assets": [
   {
    "symbol": "DGB",
@@ -19,6 +19,14 @@
    "file": "STORJ.png"
   },
   {
+   "symbol": "PEOPLE",
+   "name": "ConstitutionDAO",
+   "sigma": 3.09,
+   "from_btc_pct": 12,
+   "verdict": "Neutral",
+   "file": "PEOPLE.png"
+  },
+  {
    "symbol": "APE",
    "name": "ApeCoin",
    "sigma": 2.79,
@@ -33,14 +41,6 @@
    "from_btc_pct": 3,
    "verdict": "Neutral",
    "file": "ESP.png"
-  },
-  {
-   "symbol": "PEOPLE",
-   "name": "ConstitutionDAO",
-   "sigma": 2.61,
-   "from_btc_pct": 16,
-   "verdict": "Neutral",
-   "file": "PEOPLE.png"
   }
  ]
 }
