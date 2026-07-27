@@ -1,6 +1,6 @@
 {
  "date": "2026-07-27",
- "generated_at": "2026-07-27T23:15:52.770442+00:00",
+ "generated_at": "2026-07-27T23:18:22.336412+00:00",
  "assets": [
   {
    "symbol": "COTI",
@@ -67,14 +67,6 @@
    "file": "LA.png"
   },
   {
-   "symbol": "PEOPLE",
-   "name": "ConstitutionDAO",
-   "sigma": 2.85,
-   "from_btc_pct": 15,
-   "verdict": "Neutral",
-   "file": "PEOPLE.png"
-  },
-  {
    "symbol": "APE",
    "name": "ApeCoin",
    "sigma": 2.79,
@@ -97,6 +89,14 @@
    "from_btc_pct": 17,
    "verdict": "Neutral",
    "file": "SHIB.png"
+  },
+  {
+   "symbol": "PEOPLE",
+   "name": "ConstitutionDAO",
+   "sigma": 2.53,
+   "from_btc_pct": 9,
+   "verdict": "Neutral",
+   "file": "PEOPLE.png"
   }
  ]
 }
