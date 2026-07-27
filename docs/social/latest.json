@@ -1,6 +1,6 @@
 {
  "date": "2026-07-27",
- "generated_at": "2026-07-27T08:30:54.497902+00:00",
+ "generated_at": "2026-07-27T11:30:52.456791+00:00",
  "assets": [
   {
    "symbol": "STORJ",
@@ -17,6 +17,14 @@
    "from_btc_pct": 4,
    "verdict": "Neutral",
    "file": "ESP.png"
+  },
+  {
+   "symbol": "PEOPLE",
+   "name": "ConstitutionDAO",
+   "sigma": 2.61,
+   "from_btc_pct": 16,
+   "verdict": "Neutral",
+   "file": "PEOPLE.png"
   }
  ]
 }
