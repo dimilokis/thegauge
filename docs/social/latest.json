@@ -1,6 +1,6 @@
 {
  "date": "2026-07-27",
- "generated_at": "2026-07-27T22:00:57.953432+00:00",
+ "generated_at": "2026-07-27T22:31:04.500572+00:00",
  "assets": [
   {
    "symbol": "COTI",
@@ -9,14 +9,6 @@
    "from_btc_pct": 4,
    "verdict": "Neutral",
    "file": "COTI.png"
-  },
-  {
-   "symbol": "LA",
-   "name": "Lagrange",
-   "sigma": 6.97,
-   "from_btc_pct": 1,
-   "verdict": "Neutral",
-   "file": "LA.png"
   },
   {
    "symbol": "DGB",
@@ -49,6 +41,14 @@
    "from_btc_pct": 25,
    "verdict": "Neutral",
    "file": "API3.png"
+  },
+  {
+   "symbol": "LA",
+   "name": "Lagrange",
+   "sigma": 2.92,
+   "from_btc_pct": 8,
+   "verdict": "Neutral",
+   "file": "LA.png"
   },
   {
    "symbol": "PEOPLE",
