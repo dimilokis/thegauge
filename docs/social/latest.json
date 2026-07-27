@@ -1,102 +1,14 @@
 {
- "date": "2026-07-26",
- "generated_at": "2026-07-27T02:30:49.462472+00:00",
+ "date": "2026-07-27",
+ "generated_at": "2026-07-27T07:30:53.792439+00:00",
  "assets": [
   {
-   "symbol": "BOME",
-   "name": "BOOK OF MEME",
-   "sigma": 4.89,
-   "from_btc_pct": 10,
-   "verdict": "Overbought",
-   "file": "BOME.png"
-  },
-  {
-   "symbol": "DIA",
-   "name": "DIA",
-   "sigma": 4.03,
-   "from_btc_pct": 12,
-   "verdict": "Overbought",
-   "file": "DIA.png"
-  },
-  {
-   "symbol": "ESP",
-   "name": "Espresso",
-   "sigma": 3.28,
-   "from_btc_pct": 1,
-   "verdict": "Overbought",
-   "file": "ESP.png"
-  },
-  {
-   "symbol": "PEOPLE",
-   "name": "ConstitutionDAO",
-   "sigma": 3.23,
-   "from_btc_pct": 18,
-   "verdict": "Neutral",
-   "file": "PEOPLE.png"
-  },
-  {
-   "symbol": "REQ",
-   "name": "Request",
-   "sigma": 3.08,
-   "from_btc_pct": 6,
-   "verdict": "Overbought",
-   "file": "REQ.png"
-  },
-  {
-   "symbol": "ETC",
-   "name": "Ethereum Classic",
-   "sigma": 3.02,
-   "from_btc_pct": 39,
-   "verdict": "Neutral",
-   "file": "ETC.png"
-  },
-  {
-   "symbol": "PEPE",
-   "name": "Pepe",
-   "sigma": 2.77,
-   "from_btc_pct": 29,
-   "verdict": "Neutral",
-   "file": "PEPE.png"
-  },
-  {
-   "symbol": "SHIB",
-   "name": "Shiba Inu",
-   "sigma": 2.75,
-   "from_btc_pct": 10,
-   "verdict": "Neutral",
-   "file": "SHIB.png"
-  },
-  {
-   "symbol": "KAITO",
-   "name": "KAITO",
-   "sigma": 2.71,
-   "from_btc_pct": 4,
-   "verdict": "Overbought",
-   "file": "KAITO.png"
-  },
-  {
-   "symbol": "PUMP",
-   "name": "Pump.fun",
-   "sigma": 2.65,
-   "from_btc_pct": 7,
-   "verdict": "Strong Uptrend",
-   "file": "PUMP.png"
-  },
-  {
-   "symbol": "QI",
-   "name": "BENQI",
-   "sigma": 2.6,
-   "from_btc_pct": 7,
-   "verdict": "Neutral",
-   "file": "QI.png"
-  },
-  {
-   "symbol": "LA",
-   "name": "Lagrange",
-   "sigma": 2.58,
-   "from_btc_pct": 3,
-   "verdict": "Neutral",
-   "file": "LA.png"
+   "symbol": "STORJ",
+   "name": "Storj",
+   "sigma": 4.09,
+   "from_btc_pct": 8,
+   "verdict": "Oversold",
+   "file": "STORJ.png"
   }
  ]
 }
