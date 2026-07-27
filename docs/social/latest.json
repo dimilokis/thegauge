@@ -1,6 +1,6 @@
 {
  "date": "2026-07-27",
- "generated_at": "2026-07-27T13:15:49.537305+00:00",
+ "generated_at": "2026-07-27T14:15:55.433822+00:00",
  "assets": [
   {
    "symbol": "DGB",
@@ -29,8 +29,8 @@
   {
    "symbol": "ESP",
    "name": "Espresso",
-   "sigma": 2.64,
-   "from_btc_pct": 4,
+   "sigma": 2.69,
+   "from_btc_pct": 3,
    "verdict": "Neutral",
    "file": "ESP.png"
   },
