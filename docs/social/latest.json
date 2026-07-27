@@ -1,6 +1,6 @@
 {
  "date": "2026-07-27",
- "generated_at": "2026-07-27T21:16:00.361999+00:00",
+ "generated_at": "2026-07-27T22:00:57.953432+00:00",
  "assets": [
   {
    "symbol": "COTI",
@@ -89,6 +89,14 @@
    "from_btc_pct": 39,
    "verdict": "Oversold",
    "file": "LPT.png"
+  },
+  {
+   "symbol": "EUL",
+   "name": "Euler",
+   "sigma": 2.5,
+   "from_btc_pct": 3,
+   "verdict": "Neutral",
+   "file": "EUL.png"
   }
  ]
 }
