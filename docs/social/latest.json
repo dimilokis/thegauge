@@ -1,6 +1,6 @@
 {
  "date": "2026-07-27",
- "generated_at": "2026-07-27T15:30:59.827887+00:00",
+ "generated_at": "2026-07-27T16:31:02.903854+00:00",
  "assets": [
   {
    "symbol": "DGB",
@@ -21,9 +21,9 @@
   {
    "symbol": "PEOPLE",
    "name": "ConstitutionDAO",
-   "sigma": 3.09,
+   "sigma": 3.57,
    "from_btc_pct": 12,
-   "verdict": "Neutral",
+   "verdict": "Overbought",
    "file": "PEOPLE.png"
   },
   {
