@@ -1,6 +1,6 @@
 {
  "date": "2026-07-27",
- "generated_at": "2026-07-27T11:30:52.456791+00:00",
+ "generated_at": "2026-07-27T13:01:01.687140+00:00",
  "assets": [
   {
    "symbol": "STORJ",
@@ -9,6 +9,14 @@
    "from_btc_pct": 8,
    "verdict": "Oversold",
    "file": "STORJ.png"
+  },
+  {
+   "symbol": "APE",
+   "name": "ApeCoin",
+   "sigma": 2.79,
+   "from_btc_pct": 1,
+   "verdict": "Overbought",
+   "file": "APE.png"
   },
   {
    "symbol": "ESP",
