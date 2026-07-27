@@ -1,7 +1,15 @@
 {
  "date": "2026-07-27",
- "generated_at": "2026-07-27T13:01:01.687140+00:00",
+ "generated_at": "2026-07-27T13:15:49.537305+00:00",
  "assets": [
+  {
+   "symbol": "DGB",
+   "name": "DigiByte",
+   "sigma": 6.55,
+   "from_btc_pct": 0,
+   "verdict": "Overbought",
+   "file": "DGB.png"
+  },
   {
    "symbol": "STORJ",
    "name": "Storj",
