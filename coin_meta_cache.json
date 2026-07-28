@@ -831,6 +831,10 @@
   "icon": "https://coin-images.coingecko.com/coins/images/71157/large/united-stables-logo.jpg?1766061640",
   "name": "United Stables"
  },
+ "UMA": {
+  "icon": "https://coin-images.coingecko.com/coins/images/10951/large/UMA.png",
+  "name": "UMA"
+ },
  "UNI": {
   "icon": "https://coin-images.coingecko.com/coins/images/12504/large/uniswap-logo.png?1720676669",
   "name": "Uniswap"

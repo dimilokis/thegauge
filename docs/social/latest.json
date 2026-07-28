@@ -1,6 +1,6 @@
 {
  "date": "2026-07-28",
- "generated_at": "2026-07-28T06:45:48.420180+00:00",
+ "generated_at": "2026-07-28T07:45:51.262655+00:00",
  "assets": [
   {
    "symbol": "ACH",
@@ -17,6 +17,14 @@
    "from_btc_pct": 5,
    "verdict": "Neutral",
    "file": "REZ.png"
+  },
+  {
+   "symbol": "UMA",
+   "name": "UMA",
+   "sigma": 4.2,
+   "from_btc_pct": 20,
+   "verdict": "Neutral",
+   "file": "UMA.png"
   },
   {
    "symbol": "COTI",
