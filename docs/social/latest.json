@@ -1,102 +1,14 @@
 {
- "date": "2026-07-27",
- "generated_at": "2026-07-28T02:15:45.486719+00:00",
+ "date": "2026-07-28",
+ "generated_at": "2026-07-28T03:15:56.874170+00:00",
  "assets": [
   {
    "symbol": "REZ",
    "name": "Renzo",
-   "sigma": 5.73,
-   "from_btc_pct": 4,
+   "sigma": 2.91,
+   "from_btc_pct": 7,
    "verdict": "Neutral",
    "file": "REZ.png"
-  },
-  {
-   "symbol": "STORJ",
-   "name": "Storj",
-   "sigma": 4.09,
-   "from_btc_pct": 8,
-   "verdict": "Oversold",
-   "file": "STORJ.png"
-  },
-  {
-   "symbol": "DOT",
-   "name": "Polkadot",
-   "sigma": 3.91,
-   "from_btc_pct": 40,
-   "verdict": "Neutral",
-   "file": "DOT.png"
-  },
-  {
-   "symbol": "DGB",
-   "name": "DigiByte",
-   "sigma": 3.54,
-   "from_btc_pct": 1,
-   "verdict": "Overbought",
-   "file": "DGB.png"
-  },
-  {
-   "symbol": "API3",
-   "name": "Api3",
-   "sigma": 3.47,
-   "from_btc_pct": 25,
-   "verdict": "Neutral",
-   "file": "API3.png"
-  },
-  {
-   "symbol": "COTI",
-   "name": "COTI",
-   "sigma": 3.37,
-   "from_btc_pct": 3,
-   "verdict": "Overbought",
-   "file": "COTI.png"
-  },
-  {
-   "symbol": "FLOKI",
-   "name": "FLOKI",
-   "sigma": 3.1,
-   "from_btc_pct": 36,
-   "verdict": "Oversold",
-   "file": "FLOKI.png"
-  },
-  {
-   "symbol": "LA",
-   "name": "Lagrange",
-   "sigma": 2.92,
-   "from_btc_pct": 8,
-   "verdict": "Neutral",
-   "file": "LA.png"
-  },
-  {
-   "symbol": "APE",
-   "name": "ApeCoin",
-   "sigma": 2.79,
-   "from_btc_pct": 1,
-   "verdict": "Overbought",
-   "file": "APE.png"
-  },
-  {
-   "symbol": "ESP",
-   "name": "Espresso",
-   "sigma": 2.69,
-   "from_btc_pct": 3,
-   "verdict": "Neutral",
-   "file": "ESP.png"
-  },
-  {
-   "symbol": "SHIB",
-   "name": "Shiba Inu",
-   "sigma": 2.57,
-   "from_btc_pct": 17,
-   "verdict": "Neutral",
-   "file": "SHIB.png"
-  },
-  {
-   "symbol": "PEOPLE",
-   "name": "ConstitutionDAO",
-   "sigma": 2.53,
-   "from_btc_pct": 9,
-   "verdict": "Neutral",
-   "file": "PEOPLE.png"
   }
  ]
 }
