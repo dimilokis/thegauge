@@ -1,6 +1,6 @@
 {
  "date": "2026-07-28",
- "generated_at": "2026-07-28T17:46:01.461665+00:00",
+ "generated_at": "2026-07-28T18:00:56.397871+00:00",
  "assets": [
   {
    "symbol": "ACH",
@@ -43,14 +43,6 @@
    "file": "ZIL.png"
   },
   {
-   "symbol": "VANRY",
-   "name": "Vanar Chain",
-   "sigma": 3.25,
-   "from_btc_pct": 1,
-   "verdict": "Neutral",
-   "file": "VANRY.png"
-  },
-  {
    "symbol": "DIA",
    "name": "DIA",
    "sigma": 2.79,
@@ -73,6 +65,14 @@
    "from_btc_pct": 4,
    "verdict": "Overbought",
    "file": "KAITO.png"
+  },
+  {
+   "symbol": "VANRY",
+   "name": "Vanar Chain",
+   "sigma": 2.54,
+   "from_btc_pct": 1,
+   "verdict": "Neutral",
+   "file": "VANRY.png"
   }
  ]
 }
