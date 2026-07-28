@@ -1,6 +1,6 @@
 {
  "date": "2026-07-28",
- "generated_at": "2026-07-28T17:30:55.091670+00:00",
+ "generated_at": "2026-07-28T17:46:01.461665+00:00",
  "assets": [
   {
    "symbol": "ACH",
@@ -51,6 +51,14 @@
    "file": "VANRY.png"
   },
   {
+   "symbol": "DIA",
+   "name": "DIA",
+   "sigma": 2.79,
+   "from_btc_pct": 20,
+   "verdict": "Neutral",
+   "file": "DIA.png"
+  },
+  {
    "symbol": "BOME",
    "name": "BOOK OF MEME",
    "sigma": 2.76,
@@ -65,14 +73,6 @@
    "from_btc_pct": 4,
    "verdict": "Overbought",
    "file": "KAITO.png"
-  },
-  {
-   "symbol": "DIA",
-   "name": "DIA",
-   "sigma": 2.5,
-   "from_btc_pct": 24,
-   "verdict": "Neutral",
-   "file": "DIA.png"
   }
  ]
 }
