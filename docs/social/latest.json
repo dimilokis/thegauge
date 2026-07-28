@@ -1,7 +1,15 @@
 {
  "date": "2026-07-28",
- "generated_at": "2026-07-28T06:15:59.187774+00:00",
+ "generated_at": "2026-07-28T06:45:48.420180+00:00",
  "assets": [
+  {
+   "symbol": "ACH",
+   "name": null,
+   "sigma": 7.16,
+   "from_btc_pct": 6,
+   "verdict": "Neutral",
+   "file": "ACH.png"
+  },
   {
    "symbol": "REZ",
    "name": "Renzo",
