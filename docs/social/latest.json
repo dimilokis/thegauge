@@ -1,6 +1,6 @@
 {
  "date": "2026-07-28",
- "generated_at": "2026-07-28T18:45:58.379007+00:00",
+ "generated_at": "2026-07-28T19:15:57.714078+00:00",
  "assets": [
   {
    "symbol": "ACH",
@@ -9,14 +9,6 @@
    "from_btc_pct": 6,
    "verdict": "Neutral",
    "file": "ACH.png"
-  },
-  {
-   "symbol": "COTI",
-   "name": "COTI",
-   "sigma": 5.51,
-   "from_btc_pct": 2,
-   "verdict": "Overbought",
-   "file": "COTI.png"
   },
   {
    "symbol": "REZ",
@@ -41,6 +33,14 @@
    "from_btc_pct": 8,
    "verdict": "Oversold",
    "file": "ZIL.png"
+  },
+  {
+   "symbol": "COTI",
+   "name": "COTI",
+   "sigma": 3.02,
+   "from_btc_pct": 2,
+   "verdict": "Overbought",
+   "file": "COTI.png"
   },
   {
    "symbol": "DIA",
