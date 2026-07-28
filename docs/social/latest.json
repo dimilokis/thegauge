@@ -1,6 +1,6 @@
 {
  "date": "2026-07-28",
- "generated_at": "2026-07-28T16:01:03.565191+00:00",
+ "generated_at": "2026-07-28T16:15:54.535965+00:00",
  "assets": [
   {
    "symbol": "ACH",
@@ -45,7 +45,7 @@
   {
    "symbol": "VANRY",
    "name": "Vanar Chain",
-   "sigma": 2.54,
+   "sigma": 3.25,
    "from_btc_pct": 1,
    "verdict": "Neutral",
    "file": "VANRY.png"
@@ -53,8 +53,8 @@
   {
    "symbol": "BOME",
    "name": "BOOK OF MEME",
-   "sigma": 2.51,
-   "from_btc_pct": 18,
+   "sigma": 2.67,
+   "from_btc_pct": 17,
    "verdict": "Overbought",
    "file": "BOME.png"
   },
