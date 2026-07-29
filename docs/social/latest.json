@@ -1,86 +1,14 @@
 {
- "date": "2026-07-28",
- "generated_at": "2026-07-28T23:15:45.193821+00:00",
+ "date": "2026-07-29",
+ "generated_at": "2026-07-29T07:31:04.019651+00:00",
  "assets": [
-  {
-   "symbol": "ACH",
-   "name": null,
-   "sigma": 7.16,
-   "from_btc_pct": 6,
-   "verdict": "Neutral",
-   "file": "ACH.png"
-  },
-  {
-   "symbol": "REZ",
-   "name": "Renzo",
-   "sigma": 4.47,
-   "from_btc_pct": 5,
-   "verdict": "Neutral",
-   "file": "REZ.png"
-  },
-  {
-   "symbol": "UMA",
-   "name": "UMA",
-   "sigma": 4.2,
-   "from_btc_pct": 20,
-   "verdict": "Neutral",
-   "file": "UMA.png"
-  },
-  {
-   "symbol": "ZIL",
-   "name": "Zilliqa",
-   "sigma": 3.38,
-   "from_btc_pct": 8,
-   "verdict": "Oversold",
-   "file": "ZIL.png"
-  },
-  {
-   "symbol": "DIA",
-   "name": "DIA",
-   "sigma": 2.79,
-   "from_btc_pct": 20,
-   "verdict": "Neutral",
-   "file": "DIA.png"
-  },
-  {
-   "symbol": "BOME",
-   "name": "BOOK OF MEME",
-   "sigma": 2.76,
-   "from_btc_pct": 17,
-   "verdict": "Overbought",
-   "file": "BOME.png"
-  },
-  {
-   "symbol": "KAITO",
-   "name": "KAITO",
-   "sigma": 2.6,
-   "from_btc_pct": 4,
-   "verdict": "Overbought",
-   "file": "KAITO.png"
-  },
   {
    "symbol": "COTI",
    "name": "COTI",
-   "sigma": 2.58,
-   "from_btc_pct": 2,
+   "sigma": 2.72,
+   "from_btc_pct": 1,
    "verdict": "Overbought",
    "file": "COTI.png"
-  },
-  {
-   "symbol": "VANRY",
-   "name": "Vanar Chain",
-   "sigma": 2.54,
-   "from_btc_pct": 1,
-   "verdict": "Neutral",
-   "file": "VANRY.png"
-  },
-  {
-   "symbol": "0G",
-   "name": "0G",
-   "sigma": 2.53,
-   "from_btc_pct": 12,
-   "verdict": "Oversold",
-   "file": "0G.png"
   }
  ]
 }
