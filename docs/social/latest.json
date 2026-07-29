@@ -1,6 +1,6 @@
 {
  "date": "2026-07-29",
- "generated_at": "2026-07-29T11:45:47.031818+00:00",
+ "generated_at": "2026-07-29T12:15:56.720948+00:00",
  "assets": [
   {
    "symbol": "VANA",
@@ -17,6 +17,14 @@
    "from_btc_pct": 26,
    "verdict": "Neutral",
    "file": "ACH.png"
+  },
+  {
+   "symbol": "LA",
+   "name": "Lagrange",
+   "sigma": 2.75,
+   "from_btc_pct": 8,
+   "verdict": "Oversold",
+   "file": "LA.png"
   },
   {
    "symbol": "ZIL",
