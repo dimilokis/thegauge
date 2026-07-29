@@ -555,6 +555,10 @@
   "icon": "https://coin-images.coingecko.com/coins/images/25244/large/Token.png?1774456081",
   "name": "Optimism"
  },
+ "OPEN": {
+  "icon": "https://coin-images.coingecko.com/coins/images/67482/large/open.png",
+  "name": "OpenLedger"
+ },
  "OPG": {
   "icon": "https://coin-images.coingecko.com/coins/images/102172863/large/coingecko_logo.png?1776349115",
   "name": "OpenGradient"
