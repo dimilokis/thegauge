@@ -1,6 +1,6 @@
 {
  "date": "2026-07-29",
- "generated_at": "2026-07-29T16:01:06.572263+00:00",
+ "generated_at": "2026-07-29T16:38:06.569052+00:00",
  "assets": [
   {
    "symbol": "VANA",
@@ -9,14 +9,6 @@
    "from_btc_pct": 0,
    "verdict": "Oversold",
    "file": "VANA.png"
-  },
-  {
-   "symbol": "ACH",
-   "name": null,
-   "sigma": 3.28,
-   "from_btc_pct": 21,
-   "verdict": "Neutral",
-   "file": "ACH.png"
   },
   {
    "symbol": "FLOW",
@@ -49,6 +41,14 @@
    "from_btc_pct": 2,
    "verdict": "Neutral",
    "file": "OGN.png"
+  },
+  {
+   "symbol": "ACH",
+   "name": null,
+   "sigma": 2.69,
+   "from_btc_pct": 20,
+   "verdict": "Neutral",
+   "file": "ACH.png"
   },
   {
    "symbol": "0G",
