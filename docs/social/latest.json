@@ -1,6 +1,6 @@
 {
  "date": "2026-07-29",
- "generated_at": "2026-07-29T20:30:55.015338+00:00",
+ "generated_at": "2026-07-29T21:00:57.006901+00:00",
  "assets": [
   {
    "symbol": "BFUSD",
@@ -85,8 +85,8 @@
   {
    "symbol": "HOLO",
    "name": "Holoworld",
-   "sigma": 2.55,
-   "from_btc_pct": 22,
+   "sigma": 2.5,
+   "from_btc_pct": 19,
    "verdict": "Overbought",
    "file": "HOLO.png"
   }
