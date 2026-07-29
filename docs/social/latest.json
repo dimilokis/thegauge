@@ -1,6 +1,6 @@
 {
  "date": "2026-07-29",
- "generated_at": "2026-07-29T21:30:52.449821+00:00",
+ "generated_at": "2026-07-29T22:15:48.287431+00:00",
  "assets": [
   {
    "symbol": "BFUSD",
@@ -70,7 +70,7 @@
    "symbol": "0G",
    "name": "0G",
    "sigma": 2.61,
-   "from_btc_pct": 11,
+   "from_btc_pct": 10,
    "verdict": "Oversold",
    "file": "0G.png"
   },
