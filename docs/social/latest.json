@@ -1,7 +1,15 @@
 {
  "date": "2026-07-29",
- "generated_at": "2026-07-29T19:45:51.046465+00:00",
+ "generated_at": "2026-07-29T20:30:55.015338+00:00",
  "assets": [
+  {
+   "symbol": "BFUSD",
+   "name": "BFUSD",
+   "sigma": 6.56,
+   "from_btc_pct": 0,
+   "verdict": "Oversold",
+   "file": "BFUSD.png"
+  },
   {
    "symbol": "VANA",
    "name": "Vana",
