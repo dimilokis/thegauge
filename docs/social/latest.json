@@ -1,7 +1,15 @@
 {
  "date": "2026-07-29",
- "generated_at": "2026-07-29T07:31:04.019651+00:00",
+ "generated_at": "2026-07-29T09:00:56.288765+00:00",
  "assets": [
+  {
+   "symbol": "VANA",
+   "name": "Vana",
+   "sigma": 3.31,
+   "from_btc_pct": 0,
+   "verdict": "Oversold",
+   "file": "VANA.png"
+  },
   {
    "symbol": "COTI",
    "name": "COTI",
