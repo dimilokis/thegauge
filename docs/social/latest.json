@@ -1,6 +1,6 @@
 {
  "date": "2026-07-29",
- "generated_at": "2026-07-29T17:00:58.634404+00:00",
+ "generated_at": "2026-07-29T17:46:01.211695+00:00",
  "assets": [
   {
    "symbol": "VANA",
@@ -51,12 +51,12 @@
    "file": "ACH.png"
   },
   {
-   "symbol": "HOLO",
-   "name": "Holoworld",
-   "sigma": 2.64,
-   "from_btc_pct": 21,
-   "verdict": "Overbought",
-   "file": "HOLO.png"
+   "symbol": "MANTRA",
+   "name": "MANTRA",
+   "sigma": 2.68,
+   "from_btc_pct": 12,
+   "verdict": "Oversold",
+   "file": "MANTRA.png"
   },
   {
    "symbol": "0G",
@@ -73,6 +73,14 @@
    "from_btc_pct": 1,
    "verdict": "Overbought",
    "file": "COTI.png"
+  },
+  {
+   "symbol": "HOLO",
+   "name": "Holoworld",
+   "sigma": 2.55,
+   "from_btc_pct": 22,
+   "verdict": "Overbought",
+   "file": "HOLO.png"
   }
  ]
 }
