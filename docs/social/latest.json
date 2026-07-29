@@ -1,6 +1,6 @@
 {
  "date": "2026-07-29",
- "generated_at": "2026-07-29T09:46:00.375400+00:00",
+ "generated_at": "2026-07-29T11:45:47.031818+00:00",
  "assets": [
   {
    "symbol": "VANA",
@@ -17,6 +17,14 @@
    "from_btc_pct": 26,
    "verdict": "Neutral",
    "file": "ACH.png"
+  },
+  {
+   "symbol": "ZIL",
+   "name": "Zilliqa",
+   "sigma": 2.72,
+   "from_btc_pct": 2,
+   "verdict": "Oversold",
+   "file": "ZIL.png"
   },
   {
    "symbol": "COTI",
