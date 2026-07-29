@@ -1,6 +1,6 @@
 {
  "date": "2026-07-29",
- "generated_at": "2026-07-29T09:15:50.335209+00:00",
+ "generated_at": "2026-07-29T09:46:00.375400+00:00",
  "assets": [
   {
    "symbol": "VANA",
@@ -9,6 +9,14 @@
    "from_btc_pct": 0,
    "verdict": "Oversold",
    "file": "VANA.png"
+  },
+  {
+   "symbol": "ACH",
+   "name": null,
+   "sigma": 2.98,
+   "from_btc_pct": 26,
+   "verdict": "Neutral",
+   "file": "ACH.png"
   },
   {
    "symbol": "COTI",
