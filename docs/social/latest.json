@@ -1,6 +1,6 @@
 {
  "date": "2026-07-29",
- "generated_at": "2026-07-29T14:31:04.850544+00:00",
+ "generated_at": "2026-07-29T15:09:03.808912+00:00",
  "assets": [
   {
    "symbol": "VANA",
@@ -41,6 +41,14 @@
    "from_btc_pct": 2,
    "verdict": "Oversold",
    "file": "ZIL.png"
+  },
+  {
+   "symbol": "OGN",
+   "name": "Origin Token",
+   "sigma": 2.71,
+   "from_btc_pct": 2,
+   "verdict": "Neutral",
+   "file": "OGN.png"
   },
   {
    "symbol": "COTI",
