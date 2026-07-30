@@ -1,6 +1,6 @@
 {
  "date": "2026-07-30",
- "generated_at": "2026-07-30T12:45:58.138083+00:00",
+ "generated_at": "2026-07-30T13:15:55.029433+00:00",
  "assets": [
   {
    "symbol": "ESP",
@@ -33,6 +33,14 @@
    "from_btc_pct": 18,
    "verdict": "Overbought",
    "file": "BOME.png"
+  },
+  {
+   "symbol": "GIGGLE",
+   "name": "Giggle Fund",
+   "sigma": 2.5,
+   "from_btc_pct": 22,
+   "verdict": "Neutral",
+   "file": "GIGGLE.png"
   }
  ]
 }
