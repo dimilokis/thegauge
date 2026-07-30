@@ -1,7 +1,15 @@
 {
  "date": "2026-07-30",
- "generated_at": "2026-07-30T17:30:54.164581+00:00",
+ "generated_at": "2026-07-30T17:45:54.709153+00:00",
  "assets": [
+  {
+   "symbol": "RLC",
+   "name": "iExec RLC",
+   "sigma": 7.88,
+   "from_btc_pct": 27,
+   "verdict": "Neutral",
+   "file": "RLC.png"
+  },
   {
    "symbol": "ROBO",
    "name": "Fabric Protocol",
@@ -65,6 +73,14 @@
    "from_btc_pct": 0,
    "verdict": "Overbought",
    "file": "MMT.png"
+  },
+  {
+   "symbol": "CAKE",
+   "name": "PancakeSwap",
+   "sigma": 2.56,
+   "from_btc_pct": 26,
+   "verdict": "Neutral",
+   "file": "CAKE.png"
   },
   {
    "symbol": "GIGGLE",

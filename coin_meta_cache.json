@@ -679,6 +679,10 @@
   "icon": "https://coin-images.coingecko.com/coins/images/7460/large/8befc44a46c247e8a3f7fc8abba586b1_%283%29.png?1705501867",
   "name": "Rootstock Infrastructure Framework"
  },
+ "RLC": {
+  "icon": "https://coin-images.coingecko.com/coins/images/646/large/pL1VuXm.png",
+  "name": "iExec RLC"
+ },
  "RLUSD": {
   "icon": "https://coin-images.coingecko.com/coins/images/39651/large/RLUSD_200x200_%281%29.png?1727376633",
   "name": "Ripple USD"
