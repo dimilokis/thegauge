@@ -1,6 +1,6 @@
 {
  "date": "2026-07-30",
- "generated_at": "2026-07-30T10:45:51.886898+00:00",
+ "generated_at": "2026-07-30T11:15:50.473481+00:00",
  "assets": [
   {
    "symbol": "ESP",
@@ -17,6 +17,14 @@
    "from_btc_pct": 1,
    "verdict": "Oversold",
    "file": "BANK.png"
+  },
+  {
+   "symbol": "KAITO",
+   "name": "KAITO",
+   "sigma": 2.74,
+   "from_btc_pct": 1,
+   "verdict": "Overbought",
+   "file": "KAITO.png"
   }
  ]
 }
