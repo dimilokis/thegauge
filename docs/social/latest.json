@@ -1,6 +1,6 @@
 {
  "date": "2026-07-30",
- "generated_at": "2026-07-30T13:30:53.020076+00:00",
+ "generated_at": "2026-07-30T14:00:59.846347+00:00",
  "assets": [
   {
    "symbol": "ESP",
@@ -33,6 +33,14 @@
    "from_btc_pct": 1,
    "verdict": "Overbought",
    "file": "KAITO.png"
+  },
+  {
+   "symbol": "ROBO",
+   "name": "Fabric Protocol",
+   "sigma": 2.57,
+   "from_btc_pct": 1,
+   "verdict": "Oversold",
+   "file": "ROBO.png"
   },
   {
    "symbol": "GIGGLE",
