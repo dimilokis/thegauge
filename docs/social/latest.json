@@ -1,6 +1,6 @@
 {
  "date": "2026-07-30",
- "generated_at": "2026-07-30T23:15:54.196555+00:00",
+ "generated_at": "2026-07-30T23:45:50.022476+00:00",
  "assets": [
   {
    "symbol": "RLC",
@@ -75,6 +75,14 @@
    "file": "KAITO.png"
   },
   {
+   "symbol": "HOLO",
+   "name": "Holoworld",
+   "sigma": 2.59,
+   "from_btc_pct": 11,
+   "verdict": "Neutral",
+   "file": "HOLO.png"
+  },
+  {
    "symbol": "MMT",
    "name": "Momentum",
    "sigma": 2.58,
@@ -89,14 +97,6 @@
    "from_btc_pct": 14,
    "verdict": "Oversold",
    "file": "DIA.png"
-  },
-  {
-   "symbol": "HOLO",
-   "name": "Holoworld",
-   "sigma": 2.51,
-   "from_btc_pct": 10,
-   "verdict": "Neutral",
-   "file": "HOLO.png"
   }
  ]
 }
