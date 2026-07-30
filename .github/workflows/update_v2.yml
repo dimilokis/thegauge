@@ -28,10 +28,22 @@ jobs:
         env:
           TG_BOT_TOKEN: ${{ secrets.TG_BOT_TOKEN }}
           TG_CHAT_ID: ${{ secrets.TG_CHAT_ID }}
-          X_API_KEY: ${{ secrets.X_API_KEY }}
-          X_API_SECRET: ${{ secrets.X_API_SECRET }}
-          X_ACCESS_TOKEN: ${{ secrets.X_ACCESS_TOKEN }}
-          X_ACCESS_SECRET: ${{ secrets.X_ACCESS_SECRET }}
+          # POSTAGEM NO X DESLIGADA em 30/jul/2026, por decisao do usuario.
+          # Motivo: apos um periodo medindo, os posts vinham recebendo ~2
+          # visualizacoes. Leitura do usuario: a conta esta sendo suprimida, e
+          # continuar publicando queima o pouco de alcance restante em vez de
+          # construir alguma coisa. Melhor guardar a conta pra um uso futuro.
+          #
+          # Sem as 4 secrets abaixo, x_poster.post_card() cai no caminho de
+          # "nao configurado": loga e sai, sem derrubar o resto do pipeline.
+          # O SITE E O TELEGRAM CONTINUAM NORMAIS -- so a publicacao no X para.
+          #
+          # Pra religar: descomentar as 4 linhas.
+          # X_API_KEY: ${{ secrets.X_API_KEY }}
+          # X_API_SECRET: ${{ secrets.X_API_SECRET }}
+          # X_ACCESS_TOKEN: ${{ secrets.X_ACCESS_TOKEN }}
+          # X_ACCESS_SECRET: ${{ secrets.X_ACCESS_SECRET }}
+          X_THREAD_DRY_RUN: "1"
         run: python gauge_live.py
 
       - name: Commit updated snapshot

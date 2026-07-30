@@ -377,7 +377,24 @@ def verdict(score, tier):
     qualquer recalibracao — mantem a leitura tradicional ate ter mais
     historico. Faixa intermediaria (score 10-30) testada e NAO e' robusta
     (inverte de sinal entre metades) — por isso continua Neutral, nao virou
-    um 'Strong Downtrend': dado nao sustenta esse estado em nenhum tier."""
+    um 'Strong Downtrend': dado nao sustenta esse estado em nenhum tier.
+
+    ============================ LEIA ISTO ============================
+    RESSALVA CRITICA (30/jul/2026) -- os t-stats acima sao de EVENTO, nao de
+    ESTRATEGIA. A simulacao de PORTFOLIO do mesmo sinal (score>70 como regra de
+    compra, desde 2023) deu **MaxDD -68% e CAGR -9,9%**. O sinal e' real no
+    sentido estatistico e FALSO no sentido tradavel: concentracao, drawdown e
+    custo comem tudo.
+
+    Logo: 'Strong Uptrend' aqui e' DESCRICAO DE ESTADO ("esta moeda vem subindo
+    e, na media, segue subindo no dia seguinte"), NAO recomendacao de compra. O
+    produto nunca deve sugerir o contrario.
+
+    Licao generalizavel deste projeto: t-stat de evento alto NAO e' achado
+    enquanto nao passar por simulacao de portfolio com capital, slots e custo.
+    Ja produziu falso positivo aqui mais de uma vez.
+    ===================================================================
+    """
     if tier in ("A", "B", "C"):
         if score < 10:
             return "Oversold"
@@ -487,6 +504,7 @@ def build_snapshot():
             len(still_missing), still_missing))
 
     rows.sort(key=lambda r: -r["sigma"])
+
     snapshot = {
         "generated_at": datetime.now(timezone.utc).isoformat(),
         "universe_size": len(rows),

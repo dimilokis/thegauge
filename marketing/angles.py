@@ -39,6 +39,12 @@ def pick_angles(d):
         if len(tide) >= max(3, len(movers) // 2):
             angles.append(("tide", {"btc": btc, "movers": movers, "tide": tide}))
 
+    # ANGULO DE CARRY REMOVIDO DA ROTACAO (30/jul/2026, decisao do usuario).
+    # Motivo: funding negativo em mercado com posicionamento vendido pesado e'
+    # CONSEQUENCIA MECANICA, nao descoberta -- quem acompanha o mercado ja sabe.
+    # Enquadrar como "most people think longs always pay" vendia o obvio como
+    # insight. A funcao gen_carry fica no arquivo mas fora do GEN/WEIGHT.
+
     if not hits:
         angles.append(("quiet", {"n": d["universe_size"]}))
 
@@ -105,6 +111,47 @@ def gen_quiet(p, rng, url):
          "No unusual volume, no independent breakouts, nothing.",
          "The honest read: there's nothing to do. That's information too."],
     ])
+    return fit280(lines, url)
+
+
+def gen_carry(p, rng, url):
+    """Angulo do CUSTO DE CARREGAR -- o que nenhum outro screener mostra.
+
+    Por que este angulo existe: praticamente todo mundo no varejo assume que
+    'funding positivo, comprado paga' e a regra permanente do mercado. Em 2026
+    isso INVERTEU: medido sobre 2,17M pagamentos (696 moedas, 2022-2026), a
+    media e -2,96% a.a. e 17 dos ultimos 18 meses foram negativos. Ou seja: em
+    boa parte do mercado hoje, quem esta comprado e PAGO pra estar.
+
+    Todo numero abaixo sai do snapshot real -- regra da casa."""
+    c = p["carry"]
+    pay = p["pagam"]
+    mes = c["reference_month"]
+    # NAO citar o maior pagador isolado. Verificado em 30/jul/2026: HOME pagou
+    # +116% de funding em junho -- e CAIU 62,8% no mesmo mes. Funding extremo e'
+    # quase sempre COMPENSACAO por segurar um ativo em colapso, nao dinheiro
+    # gratis. Citar so o numero grande seria tecnicamente verdadeiro e
+    # substancialmente enganoso -- e o produto inteiro se apoia em nao fazer
+    # isso. Lidera-se com a estatistica robusta (mediana/proporcao).
+    if pay:
+        lines = rng.choice([
+            ["Most people think being long always costs you funding. In {} it didn't:".format(mes),
+             "{}% of the {} perp-listed assets PAID longs to hold.".format(
+                 c["share_paying_longs_pct"], c["coins_with_perp"]),
+             "Usually that's compensation for holding something falling — not free money.",
+             "Every screener shows the signal. None show what holding it costs."],
+            ["The cost of holding is the number nobody shows you.",
+             "{} of {} perp assets paid longs in {} — median {:+.2f}% for the month.".format(
+                 int(round(c["share_paying_longs_pct"] * c["coins_with_perp"] / 100)),
+                 c["coins_with_perp"], mes, c["median_hold_cost_pct"]),
+             "Measured payments, not an annualized projection.",
+             "High funding is a warning label, not a yield."],
+        ])
+    else:
+        lines = ["In {}, the median perp asset charged longs {:+.2f}% to hold.".format(
+            mes, c["median_hold_cost_pct"]),
+            "Small number. It still compounds against every position you leave open.",
+            "The signal is free. The holding isn't."]
     return fit280(lines, url)
 
 
