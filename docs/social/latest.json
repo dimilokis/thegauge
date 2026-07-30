@@ -1,6 +1,6 @@
 {
  "date": "2026-07-30",
- "generated_at": "2026-07-30T14:00:59.846347+00:00",
+ "generated_at": "2026-07-30T14:45:56.969389+00:00",
  "assets": [
   {
    "symbol": "ESP",
@@ -11,20 +11,20 @@
    "file": "ESP.png"
   },
   {
+   "symbol": "BOME",
+   "name": "BOOK OF MEME",
+   "sigma": 3.01,
+   "from_btc_pct": 17,
+   "verdict": "Overbought",
+   "file": "BOME.png"
+  },
+  {
    "symbol": "BANK",
    "name": "Lorenzo Protocol",
    "sigma": 2.74,
    "from_btc_pct": 1,
    "verdict": "Oversold",
    "file": "BANK.png"
-  },
-  {
-   "symbol": "BOME",
-   "name": "BOOK OF MEME",
-   "sigma": 2.72,
-   "from_btc_pct": 18,
-   "verdict": "Overbought",
-   "file": "BOME.png"
   },
   {
    "symbol": "KAITO",
