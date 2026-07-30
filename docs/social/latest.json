@@ -1,6 +1,6 @@
 {
  "date": "2026-07-30",
- "generated_at": "2026-07-30T11:15:50.473481+00:00",
+ "generated_at": "2026-07-30T12:00:53.472581+00:00",
  "assets": [
   {
    "symbol": "ESP",
@@ -25,6 +25,14 @@
    "from_btc_pct": 1,
    "verdict": "Overbought",
    "file": "KAITO.png"
+  },
+  {
+   "symbol": "BOME",
+   "name": "BOOK OF MEME",
+   "sigma": 2.7,
+   "from_btc_pct": 17,
+   "verdict": "Overbought",
+   "file": "BOME.png"
   }
  ]
 }
