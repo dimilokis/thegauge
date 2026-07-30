@@ -1,6 +1,6 @@
 {
  "date": "2026-07-30",
- "generated_at": "2026-07-30T21:15:54.829235+00:00",
+ "generated_at": "2026-07-30T22:15:54.687875+00:00",
  "assets": [
   {
    "symbol": "RLC",
@@ -93,8 +93,8 @@
   {
    "symbol": "HOLO",
    "name": "Holoworld",
-   "sigma": 2.55,
-   "from_btc_pct": 11,
+   "sigma": 2.51,
+   "from_btc_pct": 10,
    "verdict": "Neutral",
    "file": "HOLO.png"
   }
