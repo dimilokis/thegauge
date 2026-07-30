@@ -1,6 +1,6 @@
 {
  "date": "2026-07-30",
- "generated_at": "2026-07-30T18:30:52.040969+00:00",
+ "generated_at": "2026-07-30T18:45:58.136449+00:00",
  "assets": [
   {
    "symbol": "RLC",
@@ -73,6 +73,14 @@
    "from_btc_pct": 1,
    "verdict": "Overbought",
    "file": "KAITO.png"
+  },
+  {
+   "symbol": "HOLO",
+   "name": "Holoworld",
+   "sigma": 2.59,
+   "from_btc_pct": 11,
+   "verdict": "Neutral",
+   "file": "HOLO.png"
   },
   {
    "symbol": "MMT",
