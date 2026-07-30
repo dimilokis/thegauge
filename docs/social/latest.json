@@ -1,6 +1,6 @@
 {
  "date": "2026-07-30",
- "generated_at": "2026-07-30T09:56:39.929960+00:00",
+ "generated_at": "2026-07-30T10:15:50.862422+00:00",
  "assets": [
   {
    "symbol": "ESP",
@@ -13,9 +13,9 @@
   {
    "symbol": "BANK",
    "name": "Lorenzo Protocol",
-   "sigma": 2.68,
+   "sigma": 2.52,
    "from_btc_pct": 1,
-   "verdict": "Oversold",
+   "verdict": "Neutral",
    "file": "BANK.png"
   }
  ]
