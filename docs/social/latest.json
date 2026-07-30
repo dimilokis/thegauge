@@ -1,6 +1,6 @@
 {
  "date": "2026-07-30",
- "generated_at": "2026-07-30T21:00:56.218783+00:00",
+ "generated_at": "2026-07-30T21:15:54.829235+00:00",
  "assets": [
   {
    "symbol": "RLC",
@@ -75,6 +75,14 @@
    "file": "KAITO.png"
   },
   {
+   "symbol": "DIA",
+   "name": "DIA",
+   "sigma": 2.59,
+   "from_btc_pct": 15,
+   "verdict": "Oversold",
+   "file": "DIA.png"
+  },
+  {
    "symbol": "MMT",
    "name": "Momentum",
    "sigma": 2.58,
@@ -89,14 +97,6 @@
    "from_btc_pct": 11,
    "verdict": "Neutral",
    "file": "HOLO.png"
-  },
-  {
-   "symbol": "GIGGLE",
-   "name": "Giggle Fund",
-   "sigma": 2.5,
-   "from_btc_pct": 22,
-   "verdict": "Neutral",
-   "file": "GIGGLE.png"
   }
  ]
 }
