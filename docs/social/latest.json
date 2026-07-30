@@ -1,94 +1,14 @@
 {
- "date": "2026-07-29",
- "generated_at": "2026-07-29T23:30:52.841354+00:00",
+ "date": "2026-07-30",
+ "generated_at": "2026-07-30T07:15:57.366602+00:00",
  "assets": [
   {
-   "symbol": "BFUSD",
-   "name": "BFUSD",
-   "sigma": 6.56,
-   "from_btc_pct": 0,
-   "verdict": "Oversold",
-   "file": "BFUSD.png"
-  },
-  {
-   "symbol": "VANA",
-   "name": "Vana",
-   "sigma": 3.31,
-   "from_btc_pct": 0,
-   "verdict": "Oversold",
-   "file": "VANA.png"
-  },
-  {
-   "symbol": "ACH",
-   "name": null,
-   "sigma": 2.88,
-   "from_btc_pct": 16,
+   "symbol": "ESP",
+   "name": "Espresso",
+   "sigma": 2.7,
+   "from_btc_pct": 7,
    "verdict": "Neutral",
-   "file": "ACH.png"
-  },
-  {
-   "symbol": "LA",
-   "name": "Lagrange",
-   "sigma": 2.75,
-   "from_btc_pct": 8,
-   "verdict": "Oversold",
-   "file": "LA.png"
-  },
-  {
-   "symbol": "ZIL",
-   "name": "Zilliqa",
-   "sigma": 2.72,
-   "from_btc_pct": 2,
-   "verdict": "Oversold",
-   "file": "ZIL.png"
-  },
-  {
-   "symbol": "OGN",
-   "name": "Origin Token",
-   "sigma": 2.71,
-   "from_btc_pct": 2,
-   "verdict": "Neutral",
-   "file": "OGN.png"
-  },
-  {
-   "symbol": "MANTRA",
-   "name": "MANTRA",
-   "sigma": 2.68,
-   "from_btc_pct": 12,
-   "verdict": "Oversold",
-   "file": "MANTRA.png"
-  },
-  {
-   "symbol": "FLOW",
-   "name": "Flow",
-   "sigma": 2.65,
-   "from_btc_pct": 23,
-   "verdict": "Neutral",
-   "file": "FLOW.png"
-  },
-  {
-   "symbol": "0G",
-   "name": "0G",
-   "sigma": 2.61,
-   "from_btc_pct": 10,
-   "verdict": "Oversold",
-   "file": "0G.png"
-  },
-  {
-   "symbol": "COTI",
-   "name": "COTI",
-   "sigma": 2.58,
-   "from_btc_pct": 1,
-   "verdict": "Overbought",
-   "file": "COTI.png"
-  },
-  {
-   "symbol": "HOLO",
-   "name": "Holoworld",
-   "sigma": 2.5,
-   "from_btc_pct": 19,
-   "verdict": "Overbought",
-   "file": "HOLO.png"
+   "file": "ESP.png"
   }
  ]
 }
