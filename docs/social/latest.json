@@ -1,6 +1,6 @@
 {
  "date": "2026-07-30",
- "generated_at": "2026-07-30T15:45:52.748511+00:00",
+ "generated_at": "2026-07-30T16:13:12.914908+00:00",
  "assets": [
   {
    "symbol": "ESP",
@@ -19,12 +19,28 @@
    "file": "BOME.png"
   },
   {
+   "symbol": "ACH",
+   "name": null,
+   "sigma": 2.86,
+   "from_btc_pct": 5,
+   "verdict": "Oversold",
+   "file": "ACH.png"
+  },
+  {
    "symbol": "BANK",
    "name": "Lorenzo Protocol",
    "sigma": 2.74,
    "from_btc_pct": 1,
    "verdict": "Oversold",
    "file": "BANK.png"
+  },
+  {
+   "symbol": "UNI",
+   "name": "Uniswap",
+   "sigma": 2.68,
+   "from_btc_pct": 24,
+   "verdict": "Strong Uptrend",
+   "file": "UNI.png"
   },
   {
    "symbol": "MMT",
