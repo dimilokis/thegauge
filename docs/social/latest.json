@@ -1,6 +1,6 @@
 {
  "date": "2026-07-31",
- "generated_at": "2026-07-31T14:15:53.976653+00:00",
+ "generated_at": "2026-07-31T14:45:53.519652+00:00",
  "assets": [
   {
    "symbol": "BROCCOLI714",
@@ -59,20 +59,20 @@
    "file": "MUBARAK.png"
   },
   {
+   "symbol": "XEC",
+   "name": "eCash",
+   "sigma": 2.78,
+   "from_btc_pct": 14,
+   "verdict": "Neutral",
+   "file": "XEC.png"
+  },
+  {
    "symbol": "DIA",
    "name": "DIA",
    "sigma": 2.69,
    "from_btc_pct": 3,
    "verdict": "Neutral",
    "file": "DIA.png"
-  },
-  {
-   "symbol": "XEC",
-   "name": "eCash",
-   "sigma": 2.55,
-   "from_btc_pct": 13,
-   "verdict": "Neutral",
-   "file": "XEC.png"
   },
   {
    "symbol": "RLC",
