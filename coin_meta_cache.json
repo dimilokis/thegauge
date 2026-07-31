@@ -11,6 +11,10 @@
   "icon": "https://coin-images.coingecko.com/coins/images/52984/large/1000chems.jpg",
   "name": "1000CHEMS"
  },
+ "1000SATS": {
+  "icon": "https://coin-images.coingecko.com/coins/images/33713/large/sats.png",
+  "name": "1000SATS (Ordinals)"
+ },
  "1INCH": {
   "icon": "https://coin-images.coingecko.com/coins/images/13469/large/1inch-logo.jpeg?1759404663",
   "name": "1INCH"
