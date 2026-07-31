@@ -1,6 +1,6 @@
 {
  "date": "2026-07-31",
- "generated_at": "2026-07-31T05:01:01.910066+00:00",
+ "generated_at": "2026-07-31T06:30:52.775189+00:00",
  "assets": [
   {
    "symbol": "CFX",
@@ -17,6 +17,14 @@
    "from_btc_pct": 0,
    "verdict": "Oversold",
    "file": "VANA.png"
+  },
+  {
+   "symbol": "MMT",
+   "name": "Momentum",
+   "sigma": 2.69,
+   "from_btc_pct": 0,
+   "verdict": "Overbought",
+   "file": "MMT.png"
   },
   {
    "symbol": "RLC",
