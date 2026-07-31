@@ -1,6 +1,6 @@
 {
  "date": "2026-07-31",
- "generated_at": "2026-07-31T16:01:05.742114+00:00",
+ "generated_at": "2026-07-31T16:15:48.097847+00:00",
  "assets": [
   {
    "symbol": "BROCCOLI714",
@@ -85,7 +85,7 @@
   {
    "symbol": "DIA",
    "name": "DIA",
-   "sigma": 2.69,
+   "sigma": 2.58,
    "from_btc_pct": 3,
    "verdict": "Neutral",
    "file": "DIA.png"
