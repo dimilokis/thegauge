@@ -839,6 +839,10 @@
   "icon": "https://coin-images.coingecko.com/coins/images/1094/large/photo_2026-04-13_09-59-16.png?1776048311",
   "name": "TRON"
  },
+ "TST": {
+  "icon": "https://coin-images.coingecko.com/coins/images/54274/large/Test.png",
+  "name": "Test"
+ },
  "TURTLE": {
   "icon": "https://coin-images.coingecko.com/coins/images/69595/large/OUDzqTkE_400x400.png",
   "name": "Turtle"
