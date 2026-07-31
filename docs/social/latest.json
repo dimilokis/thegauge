@@ -1,6 +1,6 @@
 {
  "date": "2026-07-31",
- "generated_at": "2026-07-31T10:15:56.056674+00:00",
+ "generated_at": "2026-07-31T10:45:58.131879+00:00",
  "assets": [
   {
    "symbol": "BROCCOLI714",
@@ -9,6 +9,14 @@
    "from_btc_pct": 0,
    "verdict": "Neutral",
    "file": "BROCCOLI714.png"
+  },
+  {
+   "symbol": "ERA",
+   "name": "Caldera",
+   "sigma": 5.07,
+   "from_btc_pct": 4,
+   "verdict": "Neutral",
+   "file": "ERA.png"
   },
   {
    "symbol": "GIGGLE",
@@ -37,8 +45,8 @@
   {
    "symbol": "MUBARAK",
    "name": "Mubarak",
-   "sigma": 2.72,
-   "from_btc_pct": 7,
+   "sigma": 2.63,
+   "from_btc_pct": 6,
    "verdict": "Neutral",
    "file": "MUBARAK.png"
   },
