@@ -1,15 +1,7 @@
 {
  "date": "2026-07-30",
- "generated_at": "2026-07-30T23:45:50.022476+00:00",
+ "generated_at": "2026-07-31T02:45:50.909849+00:00",
  "assets": [
-  {
-   "symbol": "RLC",
-   "name": "iExec RLC",
-   "sigma": 7.88,
-   "from_btc_pct": 27,
-   "verdict": "Neutral",
-   "file": "RLC.png"
-  },
   {
    "symbol": "ROBO",
    "name": "Fabric Protocol",
@@ -97,6 +89,14 @@
    "from_btc_pct": 14,
    "verdict": "Oversold",
    "file": "DIA.png"
+  },
+  {
+   "symbol": "RLC",
+   "name": "iExec RLC",
+   "sigma": 2.53,
+   "from_btc_pct": 17,
+   "verdict": "Neutral",
+   "file": "RLC.png"
   }
  ]
 }
