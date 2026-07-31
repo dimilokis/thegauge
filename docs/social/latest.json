@@ -1,6 +1,6 @@
 {
  "date": "2026-07-31",
- "generated_at": "2026-07-31T16:15:48.097847+00:00",
+ "generated_at": "2026-07-31T16:45:56.090102+00:00",
  "assets": [
   {
    "symbol": "BROCCOLI714",
@@ -17,14 +17,6 @@
    "from_btc_pct": 4,
    "verdict": "Neutral",
    "file": "ERA.png"
-  },
-  {
-   "symbol": "1000SATS",
-   "name": "1000SATS (Ordinals)",
-   "sigma": 4.29,
-   "from_btc_pct": 0,
-   "verdict": "Neutral",
-   "file": "1000SATS.png"
   },
   {
    "symbol": "COTI",
@@ -81,6 +73,14 @@
    "from_btc_pct": 14,
    "verdict": "Neutral",
    "file": "XEC.png"
+  },
+  {
+   "symbol": "1000SATS",
+   "name": "1000SATS (Ordinals)",
+   "sigma": 2.74,
+   "from_btc_pct": 1,
+   "verdict": "Neutral",
+   "file": "1000SATS.png"
   },
   {
    "symbol": "DIA",
