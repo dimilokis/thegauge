@@ -1,6 +1,6 @@
 {
  "date": "2026-07-31",
- "generated_at": "2026-07-31T14:01:08.405932+00:00",
+ "generated_at": "2026-07-31T14:15:53.976653+00:00",
  "assets": [
   {
    "symbol": "BROCCOLI714",
@@ -57,6 +57,14 @@
    "from_btc_pct": 7,
    "verdict": "Neutral",
    "file": "MUBARAK.png"
+  },
+  {
+   "symbol": "DIA",
+   "name": "DIA",
+   "sigma": 2.69,
+   "from_btc_pct": 3,
+   "verdict": "Neutral",
+   "file": "DIA.png"
   },
   {
    "symbol": "XEC",
