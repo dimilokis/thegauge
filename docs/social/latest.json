@@ -1,6 +1,6 @@
 {
  "date": "2026-07-31",
- "generated_at": "2026-07-31T11:45:59.169569+00:00",
+ "generated_at": "2026-07-31T12:01:06.351256+00:00",
  "assets": [
   {
    "symbol": "BROCCOLI714",
@@ -49,6 +49,14 @@
    "from_btc_pct": 7,
    "verdict": "Neutral",
    "file": "MUBARAK.png"
+  },
+  {
+   "symbol": "COTI",
+   "name": "COTI",
+   "sigma": 2.67,
+   "from_btc_pct": 5,
+   "verdict": "Overbought",
+   "file": "COTI.png"
   },
   {
    "symbol": "XEC",
