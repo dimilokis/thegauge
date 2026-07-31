@@ -1,7 +1,15 @@
 {
  "date": "2026-07-31",
- "generated_at": "2026-07-31T03:15:53.941428+00:00",
+ "generated_at": "2026-07-31T05:01:01.910066+00:00",
  "assets": [
+  {
+   "symbol": "CFX",
+   "name": "Conflux",
+   "sigma": 3.35,
+   "from_btc_pct": 20,
+   "verdict": "Neutral",
+   "file": "CFX.png"
+  },
   {
    "symbol": "VANA",
    "name": "Vana",
