@@ -1,15 +1,7 @@
 {
  "date": "2026-07-31",
- "generated_at": "2026-07-31T07:00:56.185319+00:00",
+ "generated_at": "2026-07-31T07:45:53.039278+00:00",
  "assets": [
-  {
-   "symbol": "CFX",
-   "name": "Conflux",
-   "sigma": 3.35,
-   "from_btc_pct": 20,
-   "verdict": "Neutral",
-   "file": "CFX.png"
-  },
   {
    "symbol": "GIGGLE",
    "name": "Giggle Fund",
@@ -17,6 +9,14 @@
    "from_btc_pct": 10,
    "verdict": "Strong Uptrend",
    "file": "GIGGLE.png"
+  },
+  {
+   "symbol": "CFX",
+   "name": "Conflux",
+   "sigma": 3.03,
+   "from_btc_pct": 17,
+   "verdict": "Neutral",
+   "file": "CFX.png"
   },
   {
    "symbol": "VANA",
