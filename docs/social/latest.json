@@ -1,99 +1,19 @@
 {
- "date": "2026-07-30",
- "generated_at": "2026-07-31T02:45:50.909849+00:00",
+ "date": "2026-07-31",
+ "generated_at": "2026-07-31T03:15:53.941428+00:00",
  "assets": [
   {
-   "symbol": "ROBO",
-   "name": "Fabric Protocol",
-   "sigma": 3.21,
-   "from_btc_pct": 1,
-   "verdict": "Neutral",
-   "file": "ROBO.png"
-  },
-  {
-   "symbol": "ESP",
-   "name": "Espresso",
-   "sigma": 3.17,
-   "from_btc_pct": 8,
-   "verdict": "Neutral",
-   "file": "ESP.png"
-  },
-  {
-   "symbol": "BOME",
-   "name": "BOOK OF MEME",
-   "sigma": 3.01,
-   "from_btc_pct": 17,
-   "verdict": "Overbought",
-   "file": "BOME.png"
-  },
-  {
-   "symbol": "CAKE",
-   "name": "PancakeSwap",
-   "sigma": 2.93,
-   "from_btc_pct": 25,
-   "verdict": "Overbought",
-   "file": "CAKE.png"
-  },
-  {
-   "symbol": "ACH",
-   "name": null,
-   "sigma": 2.86,
-   "from_btc_pct": 5,
-   "verdict": "Oversold",
-   "file": "ACH.png"
-  },
-  {
-   "symbol": "BANK",
-   "name": "Lorenzo Protocol",
-   "sigma": 2.74,
-   "from_btc_pct": 1,
-   "verdict": "Oversold",
-   "file": "BANK.png"
-  },
-  {
-   "symbol": "UNI",
-   "name": "Uniswap",
-   "sigma": 2.68,
-   "from_btc_pct": 24,
-   "verdict": "Strong Uptrend",
-   "file": "UNI.png"
-  },
-  {
-   "symbol": "KAITO",
-   "name": "KAITO",
-   "sigma": 2.62,
-   "from_btc_pct": 1,
-   "verdict": "Overbought",
-   "file": "KAITO.png"
-  },
-  {
-   "symbol": "HOLO",
-   "name": "Holoworld",
-   "sigma": 2.59,
-   "from_btc_pct": 11,
-   "verdict": "Neutral",
-   "file": "HOLO.png"
-  },
-  {
-   "symbol": "MMT",
-   "name": "Momentum",
-   "sigma": 2.58,
+   "symbol": "VANA",
+   "name": "Vana",
+   "sigma": 2.98,
    "from_btc_pct": 0,
-   "verdict": "Overbought",
-   "file": "MMT.png"
-  },
-  {
-   "symbol": "DIA",
-   "name": "DIA",
-   "sigma": 2.54,
-   "from_btc_pct": 14,
    "verdict": "Oversold",
-   "file": "DIA.png"
+   "file": "VANA.png"
   },
   {
    "symbol": "RLC",
    "name": "iExec RLC",
-   "sigma": 2.53,
+   "sigma": 2.57,
    "from_btc_pct": 17,
    "verdict": "Neutral",
    "file": "RLC.png"
