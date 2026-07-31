@@ -1,6 +1,6 @@
 {
  "date": "2026-07-31",
- "generated_at": "2026-07-31T18:42:44.005430+00:00",
+ "generated_at": "2026-07-31T21:02:57.208198+00:00",
  "assets": [
   {
    "symbol": "BROCCOLI714",
@@ -17,14 +17,6 @@
    "from_btc_pct": 4,
    "verdict": "Neutral",
    "file": "ERA.png"
-  },
-  {
-   "symbol": "COTI",
-   "name": "COTI",
-   "sigma": 3.65,
-   "from_btc_pct": 7,
-   "verdict": "Overbought",
-   "file": "COTI.png"
   },
   {
    "symbol": "GIGGLE",
@@ -81,6 +73,14 @@
    "from_btc_pct": 13,
    "verdict": "Neutral",
    "file": "XEC.png"
+  },
+  {
+   "symbol": "COTI",
+   "name": "COTI",
+   "sigma": 2.67,
+   "from_btc_pct": 7,
+   "verdict": "Overbought",
+   "file": "COTI.png"
   },
   {
    "symbol": "DIA",
