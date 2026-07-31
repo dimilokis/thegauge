@@ -1,6 +1,6 @@
 {
  "date": "2026-07-31",
- "generated_at": "2026-07-31T15:45:58.732846+00:00",
+ "generated_at": "2026-07-31T16:01:05.742114+00:00",
  "assets": [
   {
    "symbol": "BROCCOLI714",
@@ -41,6 +41,14 @@
    "from_btc_pct": 10,
    "verdict": "Strong Uptrend",
    "file": "GIGGLE.png"
+  },
+  {
+   "symbol": "MMT",
+   "name": "Momentum",
+   "sigma": 3.1,
+   "from_btc_pct": 6,
+   "verdict": "Neutral",
+   "file": "MMT.png"
   },
   {
    "symbol": "CFX",
@@ -89,14 +97,6 @@
    "from_btc_pct": 14,
    "verdict": "Neutral",
    "file": "RLC.png"
-  },
-  {
-   "symbol": "MMT",
-   "name": "Momentum",
-   "sigma": 2.52,
-   "from_btc_pct": 0,
-   "verdict": "Overbought",
-   "file": "MMT.png"
   }
  ]
 }
