@@ -1,6 +1,6 @@
 {
  "date": "2026-07-31",
- "generated_at": "2026-07-31T09:16:00.800653+00:00",
+ "generated_at": "2026-07-31T10:15:56.056674+00:00",
  "assets": [
   {
    "symbol": "BROCCOLI714",
@@ -37,8 +37,8 @@
   {
    "symbol": "MUBARAK",
    "name": "Mubarak",
-   "sigma": 2.76,
-   "from_btc_pct": 6,
+   "sigma": 2.72,
+   "from_btc_pct": 7,
    "verdict": "Neutral",
    "file": "MUBARAK.png"
   },
