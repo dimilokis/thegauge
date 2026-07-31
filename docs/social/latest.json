@@ -1,6 +1,6 @@
 {
  "date": "2026-07-31",
- "generated_at": "2026-07-31T11:30:58.244829+00:00",
+ "generated_at": "2026-07-31T11:45:59.169569+00:00",
  "assets": [
   {
    "symbol": "BROCCOLI714",
@@ -49,6 +49,14 @@
    "from_btc_pct": 7,
    "verdict": "Neutral",
    "file": "MUBARAK.png"
+  },
+  {
+   "symbol": "XEC",
+   "name": "eCash",
+   "sigma": 2.55,
+   "from_btc_pct": 11,
+   "verdict": "Neutral",
+   "file": "XEC.png"
   },
   {
    "symbol": "RLC",
