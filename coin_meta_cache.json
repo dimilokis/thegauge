@@ -707,6 +707,10 @@
   "icon": "https://coin-images.coingecko.com/coins/images/66681/large/Token_Logo_3x.png?1750362133",
   "name": "Sahara AI"
  },
+ "SAND": {
+  "icon": "https://coin-images.coingecko.com/coins/images/12129/large/sandbox_logo.jpg",
+  "name": "The Sandbox"
+ },
  "SANTOS": {
   "icon": "https://coin-images.coingecko.com/coins/images/21132/large/santos.png",
   "name": "Santos FC Fan Token"

@@ -1,6 +1,6 @@
 {
  "date": "2026-07-31",
- "generated_at": "2026-07-31T08:15:52.984019+00:00",
+ "generated_at": "2026-07-31T09:16:00.800653+00:00",
  "assets": [
   {
    "symbol": "BROCCOLI714",
@@ -35,14 +35,6 @@
    "file": "VANA.png"
   },
   {
-   "symbol": "MMT",
-   "name": "Momentum",
-   "sigma": 2.8,
-   "from_btc_pct": 0,
-   "verdict": "Overbought",
-   "file": "MMT.png"
-  },
-  {
    "symbol": "MUBARAK",
    "name": "Mubarak",
    "sigma": 2.76,
@@ -53,10 +45,18 @@
   {
    "symbol": "RLC",
    "name": "iExec RLC",
-   "sigma": 2.57,
-   "from_btc_pct": 17,
+   "sigma": 2.54,
+   "from_btc_pct": 14,
    "verdict": "Neutral",
    "file": "RLC.png"
+  },
+  {
+   "symbol": "MMT",
+   "name": "Momentum",
+   "sigma": 2.52,
+   "from_btc_pct": 0,
+   "verdict": "Overbought",
+   "file": "MMT.png"
   }
  ]
 }
