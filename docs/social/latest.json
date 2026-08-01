@@ -1,6 +1,6 @@
 {
  "date": "2026-08-01",
- "generated_at": "2026-08-01T22:30:48.514456+00:00",
+ "generated_at": "2026-08-01T23:01:04.610202+00:00",
  "assets": [
   {
    "symbol": "LAZIO",
@@ -35,6 +35,14 @@
    "file": "KAITO.png"
   },
   {
+   "symbol": "ROSE",
+   "name": "Oasis",
+   "sigma": 2.77,
+   "from_btc_pct": 24,
+   "verdict": "Neutral",
+   "file": "ROSE.png"
+  },
+  {
    "symbol": "KSM",
    "name": "Kusama",
    "sigma": 2.69,
@@ -65,14 +73,6 @@
    "from_btc_pct": 5,
    "verdict": "Overbought",
    "file": "TUT.png"
-  },
-  {
-   "symbol": "ROSE",
-   "name": "Oasis",
-   "sigma": 2.52,
-   "from_btc_pct": 25,
-   "verdict": "Oversold",
-   "file": "ROSE.png"
   }
  ]
 }
