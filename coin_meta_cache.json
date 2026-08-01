@@ -855,6 +855,10 @@
   "icon": "https://coin-images.coingecko.com/coins/images/54274/large/Test.png?1738997629",
   "name": "Test"
  },
+ "TURBO": {
+  "icon": "https://coin-images.coingecko.com/coins/images/30117/large/TurboMark-QL_200.png",
+  "name": "Turbo"
+ },
  "TURTLE": {
   "icon": "https://coin-images.coingecko.com/coins/images/69595/large/OUDzqTkE_400x400.png",
   "name": "Turtle"
