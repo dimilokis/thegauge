@@ -1,6 +1,6 @@
 {
  "date": "2026-08-01",
- "generated_at": "2026-08-01T21:00:58.615180+00:00",
+ "generated_at": "2026-08-01T22:00:52.992236+00:00",
  "assets": [
   {
    "symbol": "LAZIO",
@@ -59,20 +59,20 @@
    "file": "1000SATS.png"
   },
   {
-   "symbol": "ROSE",
-   "name": "Oasis",
-   "sigma": 2.6,
-   "from_btc_pct": 22,
-   "verdict": "Oversold",
-   "file": "ROSE.png"
-  },
-  {
    "symbol": "TUT",
    "name": "Tutorial",
    "sigma": 2.56,
    "from_btc_pct": 5,
    "verdict": "Overbought",
    "file": "TUT.png"
+  },
+  {
+   "symbol": "ROSE",
+   "name": "Oasis",
+   "sigma": 2.52,
+   "from_btc_pct": 25,
+   "verdict": "Oversold",
+   "file": "ROSE.png"
   }
  ]
 }
