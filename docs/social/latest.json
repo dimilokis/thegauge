@@ -1,22 +1,22 @@
 {
  "date": "2026-08-01",
- "generated_at": "2026-08-01T15:30:57.114359+00:00",
+ "generated_at": "2026-08-01T16:00:58.452267+00:00",
  "assets": [
   {
    "symbol": "AEVO",
    "name": "Aevo",
-   "sigma": 3.65,
+   "sigma": 2.85,
    "from_btc_pct": 8,
    "verdict": "Neutral",
    "file": "AEVO.png"
   },
   {
-   "symbol": "ROSE",
-   "name": "Oasis",
-   "sigma": 2.69,
-   "from_btc_pct": 27,
-   "verdict": "Oversold",
-   "file": "ROSE.png"
+   "symbol": "SHIB",
+   "name": "Shiba Inu",
+   "sigma": 2.79,
+   "from_btc_pct": 15,
+   "verdict": "Neutral",
+   "file": "SHIB.png"
   },
   {
    "symbol": "1000SATS",
@@ -25,6 +25,14 @@
    "from_btc_pct": 1,
    "verdict": "Neutral",
    "file": "1000SATS.png"
+  },
+  {
+   "symbol": "ROSE",
+   "name": "Oasis",
+   "sigma": 2.6,
+   "from_btc_pct": 27,
+   "verdict": "Oversold",
+   "file": "ROSE.png"
   },
   {
    "symbol": "TUT",

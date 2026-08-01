@@ -887,6 +887,10 @@
   "icon": "https://coin-images.coingecko.com/coins/images/12504/large/uniswap-logo.png?1720676669",
   "name": "Uniswap"
  },
+ "USDS": {
+  "icon": "https://coin-images.coingecko.com/coins/images/39926/large/usds.webp",
+  "name": "USDS"
+ },
  "USUAL": {
   "icon": "https://coin-images.coingecko.com/coins/images/51091/large/USUAL.jpg?1730035787",
   "name": "Usual"
