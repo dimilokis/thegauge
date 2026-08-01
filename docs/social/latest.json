@@ -1,102 +1,22 @@
 {
- "date": "2026-07-31",
- "generated_at": "2026-08-01T01:00:58.988205+00:00",
+ "date": "2026-08-01",
+ "generated_at": "2026-08-01T10:30:55.093031+00:00",
  "assets": [
+  {
+   "symbol": "AEVO",
+   "name": "Aevo",
+   "sigma": 3.25,
+   "from_btc_pct": 8,
+   "verdict": "Neutral",
+   "file": "AEVO.png"
+  },
   {
    "symbol": "1000SATS",
    "name": "SATS (Ordinals)",
-   "sigma": 6.46,
-   "from_btc_pct": 0,
-   "verdict": "Overbought",
+   "sigma": 2.78,
+   "from_btc_pct": 1,
+   "verdict": "Neutral",
    "file": "1000SATS.png"
-  },
-  {
-   "symbol": "BROCCOLI714",
-   "name": null,
-   "sigma": 6.19,
-   "from_btc_pct": 0,
-   "verdict": "Neutral",
-   "file": "BROCCOLI714.png"
-  },
-  {
-   "symbol": "ERA",
-   "name": "Caldera",
-   "sigma": 5.07,
-   "from_btc_pct": 4,
-   "verdict": "Neutral",
-   "file": "ERA.png"
-  },
-  {
-   "symbol": "GIGGLE",
-   "name": "Giggle Fund",
-   "sigma": 3.27,
-   "from_btc_pct": 10,
-   "verdict": "Strong Uptrend",
-   "file": "GIGGLE.png"
-  },
-  {
-   "symbol": "MMT",
-   "name": "Momentum",
-   "sigma": 3.1,
-   "from_btc_pct": 6,
-   "verdict": "Neutral",
-   "file": "MMT.png"
-  },
-  {
-   "symbol": "CFX",
-   "name": "Conflux",
-   "sigma": 3.03,
-   "from_btc_pct": 17,
-   "verdict": "Neutral",
-   "file": "CFX.png"
-  },
-  {
-   "symbol": "VANA",
-   "name": "Vana",
-   "sigma": 2.98,
-   "from_btc_pct": 0,
-   "verdict": "Oversold",
-   "file": "VANA.png"
-  },
-  {
-   "symbol": "MUBARAK",
-   "name": "Mubarak",
-   "sigma": 2.79,
-   "from_btc_pct": 7,
-   "verdict": "Neutral",
-   "file": "MUBARAK.png"
-  },
-  {
-   "symbol": "XEC",
-   "name": "eCash",
-   "sigma": 2.68,
-   "from_btc_pct": 13,
-   "verdict": "Neutral",
-   "file": "XEC.png"
-  },
-  {
-   "symbol": "COTI",
-   "name": "COTI",
-   "sigma": 2.67,
-   "from_btc_pct": 7,
-   "verdict": "Overbought",
-   "file": "COTI.png"
-  },
-  {
-   "symbol": "DIA",
-   "name": "DIA",
-   "sigma": 2.58,
-   "from_btc_pct": 3,
-   "verdict": "Neutral",
-   "file": "DIA.png"
-  },
-  {
-   "symbol": "RLC",
-   "name": "iExec RLC",
-   "sigma": 2.54,
-   "from_btc_pct": 14,
-   "verdict": "Neutral",
-   "file": "RLC.png"
   }
  ]
 }
