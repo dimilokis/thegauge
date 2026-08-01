@@ -1,15 +1,7 @@
 {
  "date": "2026-08-01",
- "generated_at": "2026-08-01T11:01:04.548388+00:00",
+ "generated_at": "2026-08-01T12:15:52.479418+00:00",
  "assets": [
-  {
-   "symbol": "1000SATS",
-   "name": "SATS (Ordinals)",
-   "sigma": 4.91,
-   "from_btc_pct": 0,
-   "verdict": "Overbought",
-   "file": "1000SATS.png"
-  },
   {
    "symbol": "AEVO",
    "name": "Aevo",
@@ -17,6 +9,14 @@
    "from_btc_pct": 8,
    "verdict": "Neutral",
    "file": "AEVO.png"
+  },
+  {
+   "symbol": "1000SATS",
+   "name": "SATS (Ordinals)",
+   "sigma": 2.61,
+   "from_btc_pct": 1,
+   "verdict": "Neutral",
+   "file": "1000SATS.png"
   }
  ]
 }
