@@ -12,8 +12,8 @@
   "name": "1000CHEMS"
  },
  "1000SATS": {
-  "icon": "https://coin-images.coingecko.com/coins/images/33713/large/sats.png",
-  "name": "1000SATS (Ordinals)"
+  "icon": "https://coin-images.coingecko.com/coins/images/30666/large/_dD8qr3M_400x400.png?1702913020",
+  "name": "SATS (Ordinals)"
  },
  "1INCH": {
   "icon": "https://coin-images.coingecko.com/coins/images/13469/large/1inch-logo.jpeg?1759404663",
@@ -184,7 +184,7 @@
   "name": "Centrifuge"
  },
  "CFX": {
-  "icon": "https://coin-images.coingecko.com/coins/images/13079/large/3vuYMbjN.png",
+  "icon": "https://coin-images.coingecko.com/coins/images/13079/large/3vuYMbjN.png?1696512867",
   "name": "Conflux"
  },
  "CHIP": {
@@ -392,7 +392,7 @@
   "name": "Holo"
  },
  "HYPER": {
-  "icon": "https://coin-images.coingecko.com/coins/images/55298/large/Hyperlane.png",
+  "icon": "https://coin-images.coingecko.com/coins/images/55298/large/Hyperlane.png?1745248900",
   "name": "Hyperlane"
  },
  "ICP": {
@@ -524,7 +524,7 @@
   "name": "Morpho"
  },
  "MUBARAK": {
-  "icon": "https://coin-images.coingecko.com/coins/images/54857/large/DKjv3dc6_400x400.jpg",
+  "icon": "https://coin-images.coingecko.com/coins/images/54857/large/DKjv3dc6_400x400.jpg?1742107486",
   "name": "Mubarak"
  },
  "NEAR": {
@@ -712,7 +712,7 @@
   "name": "Sahara AI"
  },
  "SAND": {
-  "icon": "https://coin-images.coingecko.com/coins/images/12129/large/sandbox_logo.jpg",
+  "icon": "https://coin-images.coingecko.com/coins/images/12129/large/sandbox_logo.jpg?1696511971",
   "name": "The Sandbox"
  },
  "SANTOS": {
@@ -844,7 +844,7 @@
   "name": "TRON"
  },
  "TST": {
-  "icon": "https://coin-images.coingecko.com/coins/images/54274/large/Test.png",
+  "icon": "https://coin-images.coingecko.com/coins/images/54274/large/Test.png?1738997629",
   "name": "Test"
  },
  "TURTLE": {
