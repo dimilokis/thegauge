@@ -1,6 +1,6 @@
 {
  "date": "2026-08-01",
- "generated_at": "2026-08-01T23:01:04.610202+00:00",
+ "generated_at": "2026-08-01T23:24:33.213929+00:00",
  "assets": [
   {
    "symbol": "LAZIO",
@@ -46,7 +46,7 @@
    "symbol": "KSM",
    "name": "Kusama",
    "sigma": 2.69,
-   "from_btc_pct": 17,
+   "from_btc_pct": 16,
    "verdict": "Neutral",
    "file": "KSM.png"
   },
