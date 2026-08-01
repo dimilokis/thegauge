@@ -1,7 +1,15 @@
 {
  "date": "2026-07-31",
- "generated_at": "2026-07-31T21:02:57.208198+00:00",
+ "generated_at": "2026-08-01T01:00:58.988205+00:00",
  "assets": [
+  {
+   "symbol": "1000SATS",
+   "name": "SATS (Ordinals)",
+   "sigma": 6.46,
+   "from_btc_pct": 0,
+   "verdict": "Overbought",
+   "file": "1000SATS.png"
+  },
   {
    "symbol": "BROCCOLI714",
    "name": null,
@@ -57,14 +65,6 @@
    "from_btc_pct": 7,
    "verdict": "Neutral",
    "file": "MUBARAK.png"
-  },
-  {
-   "symbol": "1000SATS",
-   "name": "1000SATS (Ordinals)",
-   "sigma": 2.74,
-   "from_btc_pct": 1,
-   "verdict": "Neutral",
-   "file": "1000SATS.png"
   },
   {
    "symbol": "XEC",
