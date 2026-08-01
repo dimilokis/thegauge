@@ -123,6 +123,10 @@
   "icon": "https://coin-images.coingecko.com/coins/images/13029/large/axie_infinity_logo.png?1696512817",
   "name": "Axie Infinity"
  },
+ "BABY": {
+  "icon": "https://coin-images.coingecko.com/coins/images/55092/large/Baby-Symbol-Mint_%281%29.png",
+  "name": "Babylon"
+ },
  "BANK": {
   "icon": "https://coin-images.coingecko.com/coins/images/55250/large/lorenzo.jpg?1744963693",
   "name": "Lorenzo Protocol"
