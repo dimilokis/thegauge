@@ -455,6 +455,10 @@
   "icon": "https://coin-images.coingecko.com/coins/images/70426/large/KITE-ICON.png?1762328605",
   "name": "Kite"
  },
+ "KSM": {
+  "icon": "https://coin-images.coingecko.com/coins/images/9568/large/m4zRhP5e_400x400.jpg",
+  "name": "Kusama"
+ },
  "LA": {
   "icon": "https://coin-images.coingecko.com/coins/images/55550/large/Lagrange-logo-png-gradient.png?1746637731",
   "name": "Lagrange"
