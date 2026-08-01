@@ -1,6 +1,6 @@
 {
  "date": "2026-08-01",
- "generated_at": "2026-08-01T18:30:48.315948+00:00",
+ "generated_at": "2026-08-01T20:15:47.519515+00:00",
  "assets": [
   {
    "symbol": "LAZIO",
@@ -54,7 +54,7 @@
    "symbol": "ROSE",
    "name": "Oasis",
    "sigma": 2.6,
-   "from_btc_pct": 27,
+   "from_btc_pct": 22,
    "verdict": "Oversold",
    "file": "ROSE.png"
   },
