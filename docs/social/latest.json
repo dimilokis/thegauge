@@ -1,7 +1,15 @@
 {
  "date": "2026-08-01",
- "generated_at": "2026-08-01T16:00:58.452267+00:00",
+ "generated_at": "2026-08-01T16:45:57.045522+00:00",
  "assets": [
+  {
+   "symbol": "OGN",
+   "name": "Origin Token",
+   "sigma": 4.0,
+   "from_btc_pct": 0,
+   "verdict": "Neutral",
+   "file": "OGN.png"
+  },
   {
    "symbol": "AEVO",
    "name": "Aevo",
@@ -13,7 +21,7 @@
   {
    "symbol": "SHIB",
    "name": "Shiba Inu",
-   "sigma": 2.79,
+   "sigma": 2.62,
    "from_btc_pct": 15,
    "verdict": "Neutral",
    "file": "SHIB.png"
