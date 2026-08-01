@@ -43,6 +43,10 @@
   "icon": "https://coin-images.coingecko.com/coins/images/975/large/cardano.png?1696502090",
   "name": "Cardano"
  },
+ "AEVO": {
+  "icon": "https://coin-images.coingecko.com/coins/images/35893/large/aevo.png",
+  "name": "Aevo"
+ },
  "AGLD": {
   "icon": "https://coin-images.coingecko.com/coins/images/18125/large/lpgblc4h_400x400.jpg?1696517628",
   "name": "Adventure Gold"
