@@ -1,6 +1,6 @@
 {
  "date": "2026-08-01",
- "generated_at": "2026-08-01T20:15:47.519515+00:00",
+ "generated_at": "2026-08-01T21:00:58.615180+00:00",
  "assets": [
   {
    "symbol": "LAZIO",
@@ -33,6 +33,14 @@
    "from_btc_pct": 3,
    "verdict": "Overbought",
    "file": "KAITO.png"
+  },
+  {
+   "symbol": "KSM",
+   "name": "Kusama",
+   "sigma": 2.69,
+   "from_btc_pct": 15,
+   "verdict": "Neutral",
+   "file": "KSM.png"
   },
   {
    "symbol": "SHIB",
