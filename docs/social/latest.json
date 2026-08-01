@@ -1,6 +1,6 @@
 {
  "date": "2026-08-01",
- "generated_at": "2026-08-01T23:24:33.213929+00:00",
+ "generated_at": "2026-08-01T23:30:51.081661+00:00",
  "assets": [
   {
    "symbol": "LAZIO",
@@ -49,6 +49,14 @@
    "from_btc_pct": 16,
    "verdict": "Neutral",
    "file": "KSM.png"
+  },
+  {
+   "symbol": "PROM",
+   "name": "Prom",
+   "sigma": 2.68,
+   "from_btc_pct": 0,
+   "verdict": "Overbought",
+   "file": "PROM.png"
   },
   {
    "symbol": "SHIB",
