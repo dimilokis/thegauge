@@ -1,6 +1,6 @@
 {
  "date": "2026-08-01",
- "generated_at": "2026-08-01T14:30:52.283512+00:00",
+ "generated_at": "2026-08-01T15:30:57.114359+00:00",
  "assets": [
   {
    "symbol": "AEVO",
@@ -9,6 +9,14 @@
    "from_btc_pct": 8,
    "verdict": "Neutral",
    "file": "AEVO.png"
+  },
+  {
+   "symbol": "ROSE",
+   "name": "Oasis",
+   "sigma": 2.69,
+   "from_btc_pct": 27,
+   "verdict": "Oversold",
+   "file": "ROSE.png"
   },
   {
    "symbol": "1000SATS",

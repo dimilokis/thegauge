@@ -707,6 +707,10 @@
   "icon": "https://coin-images.coingecko.com/coins/images/102172005/large/fab.png?1772080701",
   "name": "Fabric Protocol"
  },
+ "ROSE": {
+  "icon": "https://coin-images.coingecko.com/coins/images/13162/large/200x200_%28Rounded%29.png",
+  "name": "Oasis"
+ },
  "RUNE": {
   "icon": "https://coin-images.coingecko.com/coins/images/6595/large/THORChain_RUNE_Token.png?1782452363",
   "name": "THORChain"
