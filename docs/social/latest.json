@@ -1,6 +1,6 @@
 {
  "date": "2026-08-02",
- "generated_at": "2026-08-02T09:15:56.107281+00:00",
+ "generated_at": "2026-08-02T10:00:55.811878+00:00",
  "assets": [
   {
    "symbol": "HOME",
@@ -13,8 +13,8 @@
   {
    "symbol": "ENA",
    "name": "Ethena",
-   "sigma": 2.59,
-   "from_btc_pct": 39,
+   "sigma": 2.62,
+   "from_btc_pct": 37,
    "verdict": "Neutral",
    "file": "ENA.png"
   },
