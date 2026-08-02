@@ -1,6 +1,6 @@
 {
  "date": "2026-08-02",
- "generated_at": "2026-08-02T21:01:05.486511+00:00",
+ "generated_at": "2026-08-02T21:15:50.628190+00:00",
  "assets": [
   {
    "symbol": "MANTRA",
@@ -25,14 +25,6 @@
    "from_btc_pct": 0,
    "verdict": "Neutral",
    "file": "HOME.png"
-  },
-  {
-   "symbol": "KAITO",
-   "name": "KAITO",
-   "sigma": 2.61,
-   "from_btc_pct": 1,
-   "verdict": "Neutral",
-   "file": "KAITO.png"
   },
   {
    "symbol": "ALGO",
@@ -65,6 +57,14 @@
    "from_btc_pct": 40,
    "verdict": "Neutral",
    "file": "ENA.png"
+  },
+  {
+   "symbol": "KAITO",
+   "name": "KAITO",
+   "sigma": 2.51,
+   "from_btc_pct": 1,
+   "verdict": "Neutral",
+   "file": "KAITO.png"
   }
  ]
 }

@@ -155,6 +155,10 @@
   "icon": "https://coin-images.coingecko.com/coins/images/68227/large/bfusd.png?1755132827",
   "name": "BFUSD"
  },
+ "BICO": {
+  "icon": "https://coin-images.coingecko.com/coins/images/21061/large/biconomy_logo.jpg",
+  "name": "Biconomy"
+ },
  "BIO": {
   "icon": "https://coin-images.coingecko.com/coins/images/53022/large/bio.jpg?1735011002",
   "name": "Bio Protocol"
