@@ -1,6 +1,6 @@
 {
  "date": "2026-08-02",
- "generated_at": "2026-08-02T21:15:50.628190+00:00",
+ "generated_at": "2026-08-02T21:45:47.533642+00:00",
  "assets": [
   {
    "symbol": "MANTRA",
@@ -49,6 +49,14 @@
    "from_btc_pct": 37,
    "verdict": "Neutral",
    "file": "ADA.png"
+  },
+  {
+   "symbol": "AVAX",
+   "name": "Avalanche",
+   "sigma": 2.52,
+   "from_btc_pct": 29,
+   "verdict": "Neutral",
+   "file": "AVAX.png"
   },
   {
    "symbol": "ENA",
