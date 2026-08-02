@@ -1,94 +1,14 @@
 {
- "date": "2026-08-01",
- "generated_at": "2026-08-02T02:45:47.186537+00:00",
+ "date": "2026-08-02",
+ "generated_at": "2026-08-02T07:25:31.266193+00:00",
  "assets": [
   {
-   "symbol": "LAZIO",
-   "name": "Lazio Fan Token",
-   "sigma": 8.26,
-   "from_btc_pct": 12,
+   "symbol": "ENA",
+   "name": "Ethena",
+   "sigma": 2.59,
+   "from_btc_pct": 39,
    "verdict": "Neutral",
-   "file": "LAZIO.png"
-  },
-  {
-   "symbol": "HYPER",
-   "name": "Hyperlane",
-   "sigma": 4.47,
-   "from_btc_pct": 24,
-   "verdict": "Neutral",
-   "file": "HYPER.png"
-  },
-  {
-   "symbol": "OGN",
-   "name": "Origin Token",
-   "sigma": 4.0,
-   "from_btc_pct": 0,
-   "verdict": "Neutral",
-   "file": "OGN.png"
-  },
-  {
-   "symbol": "AEVO",
-   "name": "Aevo",
-   "sigma": 3.63,
-   "from_btc_pct": 4,
-   "verdict": "Neutral",
-   "file": "AEVO.png"
-  },
-  {
-   "symbol": "KAITO",
-   "name": "KAITO",
-   "sigma": 2.82,
-   "from_btc_pct": 3,
-   "verdict": "Overbought",
-   "file": "KAITO.png"
-  },
-  {
-   "symbol": "ROSE",
-   "name": "Oasis",
-   "sigma": 2.77,
-   "from_btc_pct": 24,
-   "verdict": "Neutral",
-   "file": "ROSE.png"
-  },
-  {
-   "symbol": "KSM",
-   "name": "Kusama",
-   "sigma": 2.69,
-   "from_btc_pct": 16,
-   "verdict": "Neutral",
-   "file": "KSM.png"
-  },
-  {
-   "symbol": "PROM",
-   "name": "Prom",
-   "sigma": 2.68,
-   "from_btc_pct": 0,
-   "verdict": "Overbought",
-   "file": "PROM.png"
-  },
-  {
-   "symbol": "SHIB",
-   "name": "Shiba Inu",
-   "sigma": 2.62,
-   "from_btc_pct": 15,
-   "verdict": "Neutral",
-   "file": "SHIB.png"
-  },
-  {
-   "symbol": "1000SATS",
-   "name": "SATS (Ordinals)",
-   "sigma": 2.61,
-   "from_btc_pct": 1,
-   "verdict": "Neutral",
-   "file": "1000SATS.png"
-  },
-  {
-   "symbol": "TUT",
-   "name": "Tutorial",
-   "sigma": 2.56,
-   "from_btc_pct": 5,
-   "verdict": "Overbought",
-   "file": "TUT.png"
+   "file": "ENA.png"
   }
  ]
 }
