@@ -1,6 +1,6 @@
 {
  "date": "2026-08-02",
- "generated_at": "2026-08-02T18:30:53.413038+00:00",
+ "generated_at": "2026-08-02T18:45:58.524201+00:00",
  "assets": [
   {
    "symbol": "MANTRA",
@@ -27,22 +27,6 @@
    "file": "HOME.png"
   },
   {
-   "symbol": "ENA",
-   "name": "Ethena",
-   "sigma": 2.77,
-   "from_btc_pct": 35,
-   "verdict": "Neutral",
-   "file": "ENA.png"
-  },
-  {
-   "symbol": "BOME",
-   "name": "BOOK OF MEME",
-   "sigma": 2.58,
-   "from_btc_pct": 11,
-   "verdict": "Overbought",
-   "file": "BOME.png"
-  },
-  {
    "symbol": "ALGO",
    "name": "Algorand",
    "sigma": 2.56,
@@ -57,6 +41,22 @@
    "from_btc_pct": 37,
    "verdict": "Neutral",
    "file": "ADA.png"
+  },
+  {
+   "symbol": "BOME",
+   "name": "BOOK OF MEME",
+   "sigma": 2.52,
+   "from_btc_pct": 11,
+   "verdict": "Overbought",
+   "file": "BOME.png"
+  },
+  {
+   "symbol": "ENA",
+   "name": "Ethena",
+   "sigma": 2.51,
+   "from_btc_pct": 40,
+   "verdict": "Neutral",
+   "file": "ENA.png"
   }
  ]
 }
