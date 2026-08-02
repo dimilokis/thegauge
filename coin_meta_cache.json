@@ -639,6 +639,10 @@
   "icon": "https://coin-images.coingecko.com/coins/images/32440/large/pol.png?1759114181",
   "name": "POL (ex-MATIC)"
  },
+ "PORTAL": {
+  "icon": "https://coin-images.coingecko.com/coins/images/35436/large/portal.jpeg",
+  "name": "Portal"
+ },
  "PORTO": {
   "icon": "https://coin-images.coingecko.com/coins/images/20459/large/fcp.jpg?1696519864",
   "name": "FC Porto"
