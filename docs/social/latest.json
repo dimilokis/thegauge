@@ -1,6 +1,6 @@
 {
  "date": "2026-08-02",
- "generated_at": "2026-08-02T13:15:48.954381+00:00",
+ "generated_at": "2026-08-02T14:00:53.789736+00:00",
  "assets": [
   {
    "symbol": "MANTRA",
@@ -29,7 +29,7 @@
   {
    "symbol": "BOME",
    "name": "BOOK OF MEME",
-   "sigma": 2.68,
+   "sigma": 2.67,
    "from_btc_pct": 10,
    "verdict": "Overbought",
    "file": "BOME.png"
