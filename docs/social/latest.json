@@ -1,6 +1,6 @@
 {
  "date": "2026-08-01",
- "generated_at": "2026-08-01T23:30:51.081661+00:00",
+ "generated_at": "2026-08-02T00:16:00.859844+00:00",
  "assets": [
   {
    "symbol": "LAZIO",
@@ -25,6 +25,14 @@
    "from_btc_pct": 4,
    "verdict": "Neutral",
    "file": "AEVO.png"
+  },
+  {
+   "symbol": "HYPER",
+   "name": "Hyperlane",
+   "sigma": 3.04,
+   "from_btc_pct": 24,
+   "verdict": "Oversold",
+   "file": "HYPER.png"
   },
   {
    "symbol": "KAITO",
