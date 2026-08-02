@@ -1,6 +1,6 @@
 {
  "date": "2026-08-02",
- "generated_at": "2026-08-02T14:00:53.789736+00:00",
+ "generated_at": "2026-08-02T14:45:50.081816+00:00",
  "assets": [
   {
    "symbol": "MANTRA",
@@ -11,17 +11,9 @@
    "file": "MANTRA.png"
   },
   {
-   "symbol": "ADA",
-   "name": "Cardano",
-   "sigma": 2.73,
-   "from_btc_pct": 35,
-   "verdict": "Neutral",
-   "file": "ADA.png"
-  },
-  {
    "symbol": "HOME",
    "name": "HOME",
-   "sigma": 2.7,
+   "sigma": 2.84,
    "from_btc_pct": 0,
    "verdict": "Neutral",
    "file": "HOME.png"
@@ -41,6 +33,14 @@
    "from_btc_pct": 36,
    "verdict": "Neutral",
    "file": "ENA.png"
+  },
+  {
+   "symbol": "ADA",
+   "name": "Cardano",
+   "sigma": 2.56,
+   "from_btc_pct": 36,
+   "verdict": "Neutral",
+   "file": "ADA.png"
   }
  ]
 }
