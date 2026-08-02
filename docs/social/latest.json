@@ -1,6 +1,6 @@
 {
  "date": "2026-08-02",
- "generated_at": "2026-08-02T16:45:52.805532+00:00",
+ "generated_at": "2026-08-02T17:00:55.400498+00:00",
  "assets": [
   {
    "symbol": "MANTRA",
@@ -25,6 +25,14 @@
    "from_btc_pct": 0,
    "verdict": "Neutral",
    "file": "HOME.png"
+  },
+  {
+   "symbol": "ALGO",
+   "name": "Algorand",
+   "sigma": 2.81,
+   "from_btc_pct": 15,
+   "verdict": "Neutral",
+   "file": "ALGO.png"
   },
   {
    "symbol": "ENA",
