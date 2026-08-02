@@ -1,6 +1,6 @@
 {
  "date": "2026-08-02",
- "generated_at": "2026-08-02T22:30:49.077396+00:00",
+ "generated_at": "2026-08-02T22:45:45.198727+00:00",
  "assets": [
   {
    "symbol": "MANTRA",
@@ -27,12 +27,28 @@
    "file": "HOME.png"
   },
   {
+   "symbol": "ADA",
+   "name": "Cardano",
+   "sigma": 2.68,
+   "from_btc_pct": 40,
+   "verdict": "Neutral",
+   "file": "ADA.png"
+  },
+  {
    "symbol": "ENA",
    "name": "Ethena",
    "sigma": 2.66,
    "from_btc_pct": 40,
    "verdict": "Neutral",
    "file": "ENA.png"
+  },
+  {
+   "symbol": "AEVO",
+   "name": "Aevo",
+   "sigma": 2.65,
+   "from_btc_pct": 2,
+   "verdict": "Neutral",
+   "file": "AEVO.png"
   },
   {
    "symbol": "KAITO",
@@ -57,14 +73,6 @@
    "from_btc_pct": 19,
    "verdict": "Neutral",
    "file": "ALGO.png"
-  },
-  {
-   "symbol": "ADA",
-   "name": "Cardano",
-   "sigma": 2.54,
-   "from_btc_pct": 37,
-   "verdict": "Neutral",
-   "file": "ADA.png"
   },
   {
    "symbol": "AVAX",
