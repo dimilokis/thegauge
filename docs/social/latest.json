@@ -1,6 +1,6 @@
 {
  "date": "2026-08-02",
- "generated_at": "2026-08-02T17:41:49.071043+00:00",
+ "generated_at": "2026-08-02T18:30:53.413038+00:00",
  "assets": [
   {
    "symbol": "MANTRA",
@@ -27,14 +27,6 @@
    "file": "HOME.png"
   },
   {
-   "symbol": "ALGO",
-   "name": "Algorand",
-   "sigma": 2.81,
-   "from_btc_pct": 15,
-   "verdict": "Neutral",
-   "file": "ALGO.png"
-  },
-  {
    "symbol": "ENA",
    "name": "Ethena",
    "sigma": 2.77,
@@ -49,6 +41,14 @@
    "from_btc_pct": 11,
    "verdict": "Overbought",
    "file": "BOME.png"
+  },
+  {
+   "symbol": "ALGO",
+   "name": "Algorand",
+   "sigma": 2.56,
+   "from_btc_pct": 16,
+   "verdict": "Neutral",
+   "file": "ALGO.png"
   },
   {
    "symbol": "ADA",
