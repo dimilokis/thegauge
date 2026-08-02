@@ -1,7 +1,23 @@
 {
  "date": "2026-08-02",
- "generated_at": "2026-08-02T10:00:55.811878+00:00",
+ "generated_at": "2026-08-02T10:15:54.712604+00:00",
  "assets": [
+  {
+   "symbol": "MANTRA",
+   "name": "MANTRA",
+   "sigma": 6.43,
+   "from_btc_pct": 4,
+   "verdict": "Oversold",
+   "file": "MANTRA.png"
+  },
+  {
+   "symbol": "BOME",
+   "name": "BOOK OF MEME",
+   "sigma": 2.99,
+   "from_btc_pct": 10,
+   "verdict": "Overbought",
+   "file": "BOME.png"
+  },
   {
    "symbol": "HOME",
    "name": "HOME",
@@ -17,14 +33,6 @@
    "from_btc_pct": 37,
    "verdict": "Neutral",
    "file": "ENA.png"
-  },
-  {
-   "symbol": "BOME",
-   "name": "BOOK OF MEME",
-   "sigma": 2.5,
-   "from_btc_pct": 10,
-   "verdict": "Overbought",
-   "file": "BOME.png"
   }
  ]
 }
