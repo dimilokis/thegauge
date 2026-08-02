@@ -1,7 +1,15 @@
 {
  "date": "2026-08-02",
- "generated_at": "2026-08-02T07:25:31.266193+00:00",
+ "generated_at": "2026-08-02T08:00:51.532165+00:00",
  "assets": [
+  {
+   "symbol": "BOME",
+   "name": "BOOK OF MEME",
+   "sigma": 2.8,
+   "from_btc_pct": 11,
+   "verdict": "Overbought",
+   "file": "BOME.png"
+  },
   {
    "symbol": "ENA",
    "name": "Ethena",
