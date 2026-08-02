@@ -1,6 +1,6 @@
 {
  "date": "2026-08-02",
- "generated_at": "2026-08-02T20:30:54.583717+00:00",
+ "generated_at": "2026-08-02T21:01:05.486511+00:00",
  "assets": [
   {
    "symbol": "MANTRA",
@@ -35,14 +35,6 @@
    "file": "KAITO.png"
   },
   {
-   "symbol": "ENA",
-   "name": "Ethena",
-   "sigma": 2.59,
-   "from_btc_pct": 38,
-   "verdict": "Neutral",
-   "file": "ENA.png"
-  },
-  {
    "symbol": "ALGO",
    "name": "Algorand",
    "sigma": 2.56,
@@ -65,6 +57,14 @@
    "from_btc_pct": 37,
    "verdict": "Neutral",
    "file": "ADA.png"
+  },
+  {
+   "symbol": "ENA",
+   "name": "Ethena",
+   "sigma": 2.51,
+   "from_btc_pct": 40,
+   "verdict": "Neutral",
+   "file": "ENA.png"
   }
  ]
 }
