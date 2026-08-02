@@ -1,6 +1,6 @@
 {
  "date": "2026-08-02",
- "generated_at": "2026-08-02T08:00:51.532165+00:00",
+ "generated_at": "2026-08-02T08:45:58.002902+00:00",
  "assets": [
   {
    "symbol": "BOME",
@@ -9,6 +9,14 @@
    "from_btc_pct": 11,
    "verdict": "Overbought",
    "file": "BOME.png"
+  },
+  {
+   "symbol": "HOME",
+   "name": "HOME",
+   "sigma": 2.7,
+   "from_btc_pct": 0,
+   "verdict": "Neutral",
+   "file": "HOME.png"
   },
   {
    "symbol": "ENA",
