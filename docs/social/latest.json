@@ -1,6 +1,6 @@
 {
  "date": "2026-08-02",
- "generated_at": "2026-08-02T14:45:50.081816+00:00",
+ "generated_at": "2026-08-02T15:15:53.863380+00:00",
  "assets": [
   {
    "symbol": "MANTRA",
@@ -27,20 +27,20 @@
    "file": "BOME.png"
   },
   {
-   "symbol": "ENA",
-   "name": "Ethena",
-   "sigma": 2.59,
-   "from_btc_pct": 36,
-   "verdict": "Neutral",
-   "file": "ENA.png"
-  },
-  {
    "symbol": "ADA",
    "name": "Cardano",
    "sigma": 2.56,
    "from_btc_pct": 36,
    "verdict": "Neutral",
    "file": "ADA.png"
+  },
+  {
+   "symbol": "ENA",
+   "name": "Ethena",
+   "sigma": 2.55,
+   "from_btc_pct": 35,
+   "verdict": "Neutral",
+   "file": "ENA.png"
   }
  ]
 }
