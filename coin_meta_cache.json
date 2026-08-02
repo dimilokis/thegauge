@@ -259,6 +259,10 @@
   "icon": "https://coin-images.coingecko.com/coins/images/32594/large/dydx.png?1698673495",
   "name": "dYdX"
  },
+ "EDEN": {
+  "icon": "https://coin-images.coingecko.com/coins/images/68283/large/eden.png",
+  "name": "OpenEden"
+ },
  "EDU": {
   "icon": "https://coin-images.coingecko.com/coins/images/29948/large/EDU_Logo.png?1696528874",
   "name": "Open Campus"
