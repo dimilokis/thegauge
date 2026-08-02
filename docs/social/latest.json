@@ -1,6 +1,6 @@
 {
  "date": "2026-08-02",
- "generated_at": "2026-08-02T15:15:53.863380+00:00",
+ "generated_at": "2026-08-02T15:45:52.506020+00:00",
  "assets": [
   {
    "symbol": "MANTRA",
@@ -9,6 +9,14 @@
    "from_btc_pct": 4,
    "verdict": "Oversold",
    "file": "MANTRA.png"
+  },
+  {
+   "symbol": "PEOPLE",
+   "name": "ConstitutionDAO",
+   "sigma": 4.53,
+   "from_btc_pct": 4,
+   "verdict": "Overbought",
+   "file": "PEOPLE.png"
   },
   {
    "symbol": "HOME",
