@@ -1,15 +1,7 @@
 {
  "date": "2026-08-02",
- "generated_at": "2026-08-02T08:45:58.002902+00:00",
+ "generated_at": "2026-08-02T09:15:56.107281+00:00",
  "assets": [
-  {
-   "symbol": "BOME",
-   "name": "BOOK OF MEME",
-   "sigma": 2.8,
-   "from_btc_pct": 11,
-   "verdict": "Overbought",
-   "file": "BOME.png"
-  },
   {
    "symbol": "HOME",
    "name": "HOME",
@@ -25,6 +17,14 @@
    "from_btc_pct": 39,
    "verdict": "Neutral",
    "file": "ENA.png"
+  },
+  {
+   "symbol": "BOME",
+   "name": "BOOK OF MEME",
+   "sigma": 2.5,
+   "from_btc_pct": 10,
+   "verdict": "Overbought",
+   "file": "BOME.png"
   }
  ]
 }
