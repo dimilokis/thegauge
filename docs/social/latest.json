@@ -1,6 +1,6 @@
 {
  "date": "2026-08-03",
- "generated_at": "2026-08-03T06:15:49.370802+00:00",
+ "generated_at": "2026-08-03T08:00:54.496786+00:00",
  "assets": [
   {
    "symbol": "ACX",
@@ -17,6 +17,14 @@
    "from_btc_pct": 6,
    "verdict": "Neutral",
    "file": "WAXP.png"
+  },
+  {
+   "symbol": "TUT",
+   "name": "Tutorial",
+   "sigma": 3.0,
+   "from_btc_pct": 1,
+   "verdict": "Overbought",
+   "file": "TUT.png"
   },
   {
    "symbol": "VIC",
