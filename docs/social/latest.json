@@ -1,6 +1,6 @@
 {
  "date": "2026-08-03",
- "generated_at": "2026-08-03T20:15:54.771377+00:00",
+ "generated_at": "2026-08-03T21:01:06.766795+00:00",
  "assets": [
   {
    "symbol": "ACX",
@@ -49,6 +49,14 @@
    "from_btc_pct": 38,
    "verdict": "Neutral",
    "file": "ATOM.png"
+  },
+  {
+   "symbol": "ROBO",
+   "name": "Fabric Protocol",
+   "sigma": 2.65,
+   "from_btc_pct": 10,
+   "verdict": "Neutral",
+   "file": "ROBO.png"
   },
   {
    "symbol": "VIC",
