@@ -1,6 +1,6 @@
 {
  "date": "2026-08-03",
- "generated_at": "2026-08-03T19:15:53.518504+00:00",
+ "generated_at": "2026-08-03T20:15:54.771377+00:00",
  "assets": [
   {
    "symbol": "ACX",
@@ -21,7 +21,7 @@
   {
    "symbol": "TOWNS",
    "name": "Towns",
-   "sigma": 3.03,
+   "sigma": 3.18,
    "from_btc_pct": 1,
    "verdict": "Neutral",
    "file": "TOWNS.png"
