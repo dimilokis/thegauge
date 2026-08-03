@@ -923,6 +923,10 @@
   "icon": "https://coin-images.coingecko.com/coins/images/1167/large/VET.png?1742383283",
   "name": "VeChain"
  },
+ "VIC": {
+  "icon": "https://coin-images.coingecko.com/coins/images/3416/large/viction.jpeg",
+  "name": "Viction"
+ },
  "VIRTUAL": {
   "icon": "https://coin-images.coingecko.com/coins/images/34057/large/LOGOMARK.png?1708356054",
   "name": "Virtuals Protocol"

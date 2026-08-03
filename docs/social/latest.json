@@ -1,86 +1,14 @@
 {
- "date": "2026-08-02",
- "generated_at": "2026-08-02T22:45:45.198727+00:00",
+ "date": "2026-08-03",
+ "generated_at": "2026-08-03T04:15:57.778312+00:00",
  "assets": [
   {
-   "symbol": "MANTRA",
-   "name": "MANTRA",
-   "sigma": 6.43,
-   "from_btc_pct": 4,
+   "symbol": "VIC",
+   "name": "Viction",
+   "sigma": 2.54,
+   "from_btc_pct": 17,
    "verdict": "Oversold",
-   "file": "MANTRA.png"
-  },
-  {
-   "symbol": "PEOPLE",
-   "name": "ConstitutionDAO",
-   "sigma": 4.53,
-   "from_btc_pct": 4,
-   "verdict": "Overbought",
-   "file": "PEOPLE.png"
-  },
-  {
-   "symbol": "HOME",
-   "name": "HOME",
-   "sigma": 2.84,
-   "from_btc_pct": 0,
-   "verdict": "Neutral",
-   "file": "HOME.png"
-  },
-  {
-   "symbol": "ADA",
-   "name": "Cardano",
-   "sigma": 2.68,
-   "from_btc_pct": 40,
-   "verdict": "Neutral",
-   "file": "ADA.png"
-  },
-  {
-   "symbol": "ENA",
-   "name": "Ethena",
-   "sigma": 2.66,
-   "from_btc_pct": 40,
-   "verdict": "Neutral",
-   "file": "ENA.png"
-  },
-  {
-   "symbol": "AEVO",
-   "name": "Aevo",
-   "sigma": 2.65,
-   "from_btc_pct": 2,
-   "verdict": "Neutral",
-   "file": "AEVO.png"
-  },
-  {
-   "symbol": "KAITO",
-   "name": "KAITO",
-   "sigma": 2.57,
-   "from_btc_pct": 1,
-   "verdict": "Neutral",
-   "file": "KAITO.png"
-  },
-  {
-   "symbol": "BOME",
-   "name": "BOOK OF MEME",
-   "sigma": 2.56,
-   "from_btc_pct": 11,
-   "verdict": "Overbought",
-   "file": "BOME.png"
-  },
-  {
-   "symbol": "ALGO",
-   "name": "Algorand",
-   "sigma": 2.56,
-   "from_btc_pct": 19,
-   "verdict": "Neutral",
-   "file": "ALGO.png"
-  },
-  {
-   "symbol": "AVAX",
-   "name": "Avalanche",
-   "sigma": 2.52,
-   "from_btc_pct": 29,
-   "verdict": "Neutral",
-   "file": "AVAX.png"
+   "file": "VIC.png"
   }
  ]
 }
