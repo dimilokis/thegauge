@@ -391,6 +391,10 @@
   "icon": "https://coin-images.coingecko.com/coins/images/68469/large/hemi.png?1755838145",
   "name": "Hemi"
  },
+ "HFT": {
+  "icon": "https://coin-images.coingecko.com/coins/images/26136/large/200x200_360.png",
+  "name": "Hashflow"
+ },
  "HMSTR": {
   "icon": "https://coin-images.coingecko.com/coins/images/39102/large/hamster-removebg-preview.png?1720514486",
   "name": "Hamster Kombat"

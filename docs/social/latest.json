@@ -1,7 +1,15 @@
 {
  "date": "2026-08-03",
- "generated_at": "2026-08-03T08:00:54.496786+00:00",
+ "generated_at": "2026-08-03T08:16:07.514734+00:00",
  "assets": [
+  {
+   "symbol": "HFT",
+   "name": "Hashflow",
+   "sigma": 4.06,
+   "from_btc_pct": 17,
+   "verdict": "Oversold",
+   "file": "HFT.png"
+  },
   {
    "symbol": "ACX",
    "name": "Across Protocol",
