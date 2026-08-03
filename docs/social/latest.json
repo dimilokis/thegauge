@@ -1,6 +1,6 @@
 {
  "date": "2026-08-03",
- "generated_at": "2026-08-03T21:01:06.766795+00:00",
+ "generated_at": "2026-08-03T21:31:00.420592+00:00",
  "assets": [
   {
    "symbol": "ACX",
@@ -19,14 +19,6 @@
    "file": "WAXP.png"
   },
   {
-   "symbol": "TOWNS",
-   "name": "Towns",
-   "sigma": 3.18,
-   "from_btc_pct": 1,
-   "verdict": "Neutral",
-   "file": "TOWNS.png"
-  },
-  {
    "symbol": "TUT",
    "name": "Tutorial",
    "sigma": 3.0,
@@ -43,20 +35,28 @@
    "file": "HFT.png"
   },
   {
+   "symbol": "TOWNS",
+   "name": "Towns",
+   "sigma": 2.72,
+   "from_btc_pct": 1,
+   "verdict": "Neutral",
+   "file": "TOWNS.png"
+  },
+  {
+   "symbol": "ROBO",
+   "name": "Fabric Protocol",
+   "sigma": 2.67,
+   "from_btc_pct": 10,
+   "verdict": "Neutral",
+   "file": "ROBO.png"
+  },
+  {
    "symbol": "ATOM",
    "name": "Cosmos Hub",
    "sigma": 2.66,
    "from_btc_pct": 38,
    "verdict": "Neutral",
    "file": "ATOM.png"
-  },
-  {
-   "symbol": "ROBO",
-   "name": "Fabric Protocol",
-   "sigma": 2.65,
-   "from_btc_pct": 10,
-   "verdict": "Neutral",
-   "file": "ROBO.png"
   },
   {
    "symbol": "VIC",
