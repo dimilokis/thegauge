@@ -1,6 +1,6 @@
 {
  "date": "2026-08-03",
- "generated_at": "2026-08-03T11:15:57.506560+00:00",
+ "generated_at": "2026-08-03T13:30:55.516509+00:00",
  "assets": [
   {
    "symbol": "HFT",
@@ -37,9 +37,9 @@
   {
    "symbol": "VIC",
    "name": "Viction",
-   "sigma": 2.54,
-   "from_btc_pct": 17,
-   "verdict": "Oversold",
+   "sigma": 2.59,
+   "from_btc_pct": 2,
+   "verdict": "Neutral",
    "file": "VIC.png"
   },
   {
