@@ -1,6 +1,6 @@
 {
  "date": "2026-08-03",
- "generated_at": "2026-08-03T18:45:54.328215+00:00",
+ "generated_at": "2026-08-03T19:15:53.518504+00:00",
  "assets": [
   {
    "symbol": "ACX",
@@ -41,6 +41,14 @@
    "from_btc_pct": 13,
    "verdict": "Neutral",
    "file": "HFT.png"
+  },
+  {
+   "symbol": "ATOM",
+   "name": "Cosmos Hub",
+   "sigma": 2.66,
+   "from_btc_pct": 38,
+   "verdict": "Neutral",
+   "file": "ATOM.png"
   },
   {
    "symbol": "VIC",
