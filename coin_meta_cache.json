@@ -931,6 +931,10 @@
   "icon": "https://coin-images.coingecko.com/coins/images/34057/large/LOGOMARK.png?1708356054",
   "name": "Virtuals Protocol"
  },
+ "WAXP": {
+  "icon": "https://coin-images.coingecko.com/coins/images/1372/large/WAX_Coin_Tickers_P_512px.png",
+  "name": "WAX"
+ },
  "WIF": {
   "icon": "https://coin-images.coingecko.com/coins/images/33566/large/dogwifhat.jpg?1702499428",
   "name": "dogwifhat"

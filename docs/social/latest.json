@@ -1,7 +1,15 @@
 {
  "date": "2026-08-03",
- "generated_at": "2026-08-03T05:15:49.003637+00:00",
+ "generated_at": "2026-08-03T06:01:07.692158+00:00",
  "assets": [
+  {
+   "symbol": "WAXP",
+   "name": "WAX",
+   "sigma": 3.75,
+   "from_btc_pct": 6,
+   "verdict": "Neutral",
+   "file": "WAXP.png"
+  },
   {
    "symbol": "ACX",
    "name": "Across Protocol",
