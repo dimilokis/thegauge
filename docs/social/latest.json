@@ -1,6 +1,6 @@
 {
  "date": "2026-08-03",
- "generated_at": "2026-08-03T08:16:07.514734+00:00",
+ "generated_at": "2026-08-03T09:16:10.415643+00:00",
  "assets": [
   {
    "symbol": "HFT",
@@ -41,6 +41,14 @@
    "from_btc_pct": 17,
    "verdict": "Oversold",
    "file": "VIC.png"
+  },
+  {
+   "symbol": "PYR",
+   "name": "Vulcan Forged",
+   "sigma": 2.5,
+   "from_btc_pct": 4,
+   "verdict": "Oversold",
+   "file": "PYR.png"
   }
  ]
 }
