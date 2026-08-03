@@ -371,6 +371,10 @@
   "icon": "https://coin-images.coingecko.com/coins/images/662/large/logo_square_simple_300px.png?1696501854",
   "name": "Gnosis"
  },
+ "GPS": {
+  "icon": "https://coin-images.coingecko.com/coins/images/53686/large/Separate_logo%EF%BC%88green%EF%BC%89.png",
+  "name": "GoPlus Security"
+ },
  "GUN": {
   "icon": "https://coin-images.coingecko.com/coins/images/55027/large/gunz.jpg?1743262298",
   "name": "Gunz"
