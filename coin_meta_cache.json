@@ -156,7 +156,7 @@
   "name": "BFUSD"
  },
  "BICO": {
-  "icon": "https://coin-images.coingecko.com/coins/images/21061/large/biconomy_logo.jpg",
+  "icon": "https://coin-images.coingecko.com/coins/images/21061/large/biconomy_logo.jpg?1696520444",
   "name": "Biconomy"
  },
  "BIO": {
@@ -264,7 +264,7 @@
   "name": "dYdX"
  },
  "EDEN": {
-  "icon": "https://coin-images.coingecko.com/coins/images/68283/large/eden.png",
+  "icon": "https://coin-images.coingecko.com/coins/images/68283/large/eden.png?1755242478",
   "name": "OpenEden"
  },
  "EDU": {
@@ -648,7 +648,7 @@
   "name": "POL (ex-MATIC)"
  },
  "PORTAL": {
-  "icon": "https://coin-images.coingecko.com/coins/images/35436/large/portal.jpeg",
+  "icon": "https://coin-images.coingecko.com/coins/images/35436/large/portal.jpeg?1708590254",
   "name": "Portal"
  },
  "PORTO": {
@@ -996,7 +996,7 @@
   "name": "Zilliqa"
  },
  "ZK": {
-  "icon": "https://coin-images.coingecko.com/coins/images/38043/large/ZKTokenBlack.png",
+  "icon": "https://coin-images.coingecko.com/coins/images/38043/large/ZKTokenBlack.png?1718614502",
   "name": "ZKsync"
  },
  "ZKC": {
