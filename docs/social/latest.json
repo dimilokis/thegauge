@@ -1,7 +1,15 @@
 {
  "date": "2026-08-03",
- "generated_at": "2026-08-03T06:01:07.692158+00:00",
+ "generated_at": "2026-08-03T06:15:49.370802+00:00",
  "assets": [
+  {
+   "symbol": "ACX",
+   "name": "Across Protocol",
+   "sigma": 3.76,
+   "from_btc_pct": 14,
+   "verdict": "Oversold",
+   "file": "ACX.png"
+  },
   {
    "symbol": "WAXP",
    "name": "WAX",
@@ -9,14 +17,6 @@
    "from_btc_pct": 6,
    "verdict": "Neutral",
    "file": "WAXP.png"
-  },
-  {
-   "symbol": "ACX",
-   "name": "Across Protocol",
-   "sigma": 2.93,
-   "from_btc_pct": 15,
-   "verdict": "Oversold",
-   "file": "ACX.png"
   },
   {
    "symbol": "VIC",
