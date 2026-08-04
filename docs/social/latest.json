@@ -1,6 +1,6 @@
 {
  "date": "2026-08-04",
- "generated_at": "2026-08-04T22:15:51.601572+00:00",
+ "generated_at": "2026-08-04T22:45:57.026606+00:00",
  "assets": [
   {
    "symbol": "PUMP",
@@ -25,14 +25,6 @@
    "from_btc_pct": 15,
    "verdict": "Neutral",
    "file": "HFT.png"
-  },
-  {
-   "symbol": "ACX",
-   "name": "Across Protocol",
-   "sigma": 2.91,
-   "from_btc_pct": 7,
-   "verdict": "Oversold",
-   "file": "ACX.png"
   },
   {
    "symbol": "HEI",
@@ -65,6 +57,14 @@
    "from_btc_pct": 11,
    "verdict": "Neutral",
    "file": "BICO.png"
+  },
+  {
+   "symbol": "ACX",
+   "name": "Across Protocol",
+   "sigma": 2.64,
+   "from_btc_pct": 7,
+   "verdict": "Oversold",
+   "file": "ACX.png"
   },
   {
    "symbol": "TUT",
