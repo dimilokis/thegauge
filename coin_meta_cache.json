@@ -423,6 +423,10 @@
   "icon": "https://coin-images.coingecko.com/coins/images/14495/large/Internet_Computer_logo.png?1696514180",
   "name": "Internet Computer"
  },
+ "IMX": {
+  "icon": "https://coin-images.coingecko.com/coins/images/17233/large/immutableX-symbol-BLK-RGB.png",
+  "name": "Immutable"
+ },
  "INIT": {
   "icon": "https://coin-images.coingecko.com/coins/images/40138/large/initia_symbol_white.png",
   "name": "Initia"
