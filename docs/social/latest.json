@@ -1,7 +1,15 @@
 {
  "date": "2026-08-04",
- "generated_at": "2026-08-04T20:00:59.472679+00:00",
+ "generated_at": "2026-08-04T20:15:51.621283+00:00",
  "assets": [
+  {
+   "symbol": "PUMP",
+   "name": "Pump.fun",
+   "sigma": 3.25,
+   "from_btc_pct": 1,
+   "verdict": "Strong Uptrend",
+   "file": "PUMP.png"
+  },
   {
    "symbol": "HOME",
    "name": "HOME",
@@ -19,6 +27,14 @@
    "file": "HFT.png"
   },
   {
+   "symbol": "HEI",
+   "name": "Heima",
+   "sigma": 2.98,
+   "from_btc_pct": 0,
+   "verdict": "Neutral",
+   "file": "HEI.png"
+  },
+  {
    "symbol": "STO",
    "name": null,
    "sigma": 2.94,
@@ -33,14 +49,6 @@
    "from_btc_pct": 7,
    "verdict": "Oversold",
    "file": "ACX.png"
-  },
-  {
-   "symbol": "HEI",
-   "name": "Heima",
-   "sigma": 2.77,
-   "from_btc_pct": 0,
-   "verdict": "Neutral",
-   "file": "HEI.png"
   },
   {
    "symbol": "LDO",
