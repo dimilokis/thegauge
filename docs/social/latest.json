@@ -1,6 +1,6 @@
 {
  "date": "2026-08-04",
- "generated_at": "2026-08-04T20:30:54.852108+00:00",
+ "generated_at": "2026-08-04T21:45:47.499813+00:00",
  "assets": [
   {
    "symbol": "PUMP",
@@ -27,20 +27,20 @@
    "file": "HFT.png"
   },
   {
-   "symbol": "HEI",
-   "name": "Heima",
-   "sigma": 2.98,
-   "from_btc_pct": 0,
-   "verdict": "Neutral",
-   "file": "HEI.png"
-  },
-  {
    "symbol": "ACX",
    "name": "Across Protocol",
    "sigma": 2.91,
    "from_btc_pct": 7,
    "verdict": "Oversold",
    "file": "ACX.png"
+  },
+  {
+   "symbol": "HEI",
+   "name": "Heima",
+   "sigma": 2.74,
+   "from_btc_pct": 0,
+   "verdict": "Neutral",
+   "file": "HEI.png"
   },
   {
    "symbol": "LDO",
