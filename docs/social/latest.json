@@ -1,7 +1,15 @@
 {
  "date": "2026-08-04",
- "generated_at": "2026-08-04T05:15:47.138379+00:00",
+ "generated_at": "2026-08-04T05:30:55.216112+00:00",
  "assets": [
+  {
+   "symbol": "ACX",
+   "name": "Across Protocol",
+   "sigma": 3.79,
+   "from_btc_pct": 7,
+   "verdict": "Oversold",
+   "file": "ACX.png"
+  },
   {
    "symbol": "TUT",
    "name": "Tutorial",
