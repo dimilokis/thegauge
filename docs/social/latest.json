@@ -1,6 +1,6 @@
 {
  "date": "2026-08-04",
- "generated_at": "2026-08-04T10:45:55.046764+00:00",
+ "generated_at": "2026-08-04T11:00:59.954865+00:00",
  "assets": [
   {
    "symbol": "ACX",
@@ -9,6 +9,14 @@
    "from_btc_pct": 7,
    "verdict": "Oversold",
    "file": "ACX.png"
+  },
+  {
+   "symbol": "LDO",
+   "name": "Lido DAO",
+   "sigma": 2.69,
+   "from_btc_pct": 0,
+   "verdict": "Neutral",
+   "file": "LDO.png"
   },
   {
    "symbol": "HFT",
