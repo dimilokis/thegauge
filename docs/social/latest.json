@@ -1,6 +1,6 @@
 {
  "date": "2026-08-04",
- "generated_at": "2026-08-04T19:45:59.839387+00:00",
+ "generated_at": "2026-08-04T20:00:59.472679+00:00",
  "assets": [
   {
    "symbol": "HOME",
@@ -9,6 +9,14 @@
    "from_btc_pct": 1,
    "verdict": "Neutral",
    "file": "HOME.png"
+  },
+  {
+   "symbol": "HFT",
+   "name": "Hashflow",
+   "sigma": 3.08,
+   "from_btc_pct": 15,
+   "verdict": "Neutral",
+   "file": "HFT.png"
   },
   {
    "symbol": "STO",
@@ -25,14 +33,6 @@
    "from_btc_pct": 7,
    "verdict": "Oversold",
    "file": "ACX.png"
-  },
-  {
-   "symbol": "HFT",
-   "name": "Hashflow",
-   "sigma": 2.84,
-   "from_btc_pct": 17,
-   "verdict": "Neutral",
-   "file": "HFT.png"
   },
   {
    "symbol": "HEI",
