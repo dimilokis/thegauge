@@ -1,6 +1,6 @@
 {
  "date": "2026-08-04",
- "generated_at": "2026-08-04T17:01:04.102970+00:00",
+ "generated_at": "2026-08-04T18:45:48.410905+00:00",
  "assets": [
   {
    "symbol": "HOME",
@@ -19,6 +19,14 @@
    "file": "ACX.png"
   },
   {
+   "symbol": "HFT",
+   "name": "Hashflow",
+   "sigma": 2.84,
+   "from_btc_pct": 17,
+   "verdict": "Neutral",
+   "file": "HFT.png"
+  },
+  {
    "symbol": "LDO",
    "name": "Lido DAO",
    "sigma": 2.69,
@@ -35,20 +43,20 @@
    "file": "STO.png"
   },
   {
-   "symbol": "HFT",
-   "name": "Hashflow",
-   "sigma": 2.63,
-   "from_btc_pct": 14,
-   "verdict": "Neutral",
-   "file": "HFT.png"
-  },
-  {
    "symbol": "TUT",
    "name": "Tutorial",
    "sigma": 2.55,
    "from_btc_pct": 4,
    "verdict": "Overbought",
    "file": "TUT.png"
+  },
+  {
+   "symbol": "HEI",
+   "name": "Heima",
+   "sigma": 2.52,
+   "from_btc_pct": 0,
+   "verdict": "Neutral",
+   "file": "HEI.png"
   }
  ]
 }
