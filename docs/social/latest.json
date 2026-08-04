@@ -1,6 +1,6 @@
 {
  "date": "2026-08-04",
- "generated_at": "2026-08-04T18:45:48.410905+00:00",
+ "generated_at": "2026-08-04T19:15:57.004293+00:00",
  "assets": [
   {
    "symbol": "HOME",
@@ -41,6 +41,14 @@
    "from_btc_pct": 33,
    "verdict": "Neutral",
    "file": "STO.png"
+  },
+  {
+   "symbol": "COTI",
+   "name": "COTI",
+   "sigma": 2.68,
+   "from_btc_pct": 5,
+   "verdict": "Overbought",
+   "file": "COTI.png"
   },
   {
    "symbol": "TUT",
