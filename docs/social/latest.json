@@ -1,6 +1,6 @@
 {
  "date": "2026-08-04",
- "generated_at": "2026-08-04T14:01:07.604594+00:00",
+ "generated_at": "2026-08-04T15:08:48.987742+00:00",
  "assets": [
   {
    "symbol": "HOME",
@@ -25,6 +25,14 @@
    "from_btc_pct": 13,
    "verdict": "Neutral",
    "file": "HFT.png"
+  },
+  {
+   "symbol": "STO",
+   "name": null,
+   "sigma": 2.68,
+   "from_btc_pct": 33,
+   "verdict": "Neutral",
+   "file": "STO.png"
   },
   {
    "symbol": "ACX",
