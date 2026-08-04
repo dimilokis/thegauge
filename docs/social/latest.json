@@ -1,6 +1,6 @@
 {
  "date": "2026-08-04",
- "generated_at": "2026-08-04T20:15:51.621283+00:00",
+ "generated_at": "2026-08-04T20:30:54.852108+00:00",
  "assets": [
   {
    "symbol": "PUMP",
@@ -35,14 +35,6 @@
    "file": "HEI.png"
   },
   {
-   "symbol": "STO",
-   "name": null,
-   "sigma": 2.94,
-   "from_btc_pct": 35,
-   "verdict": "Neutral",
-   "file": "STO.png"
-  },
-  {
    "symbol": "ACX",
    "name": "Across Protocol",
    "sigma": 2.91,
@@ -73,6 +65,14 @@
    "from_btc_pct": 4,
    "verdict": "Overbought",
    "file": "TUT.png"
+  },
+  {
+   "symbol": "STO",
+   "name": null,
+   "sigma": 2.55,
+   "from_btc_pct": 34,
+   "verdict": "Neutral",
+   "file": "STO.png"
   }
  ]
 }
