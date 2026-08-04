@@ -36,7 +36,7 @@
   "name": "Act I The AI Prophecy"
  },
  "ACX": {
-  "icon": "https://coin-images.coingecko.com/coins/images/28161/large/across-200x200.png",
+  "icon": "https://coin-images.coingecko.com/coins/images/28161/large/across-200x200.png?1696527165",
   "name": "Across Protocol"
  },
  "ADA": {
@@ -372,7 +372,7 @@
   "name": "Gnosis"
  },
  "GPS": {
-  "icon": "https://coin-images.coingecko.com/coins/images/53686/large/Separate_logo%EF%BC%88green%EF%BC%89.png",
+  "icon": "https://coin-images.coingecko.com/coins/images/53686/large/Separate_logo%EF%BC%88green%EF%BC%89.png?1737033911",
   "name": "GoPlus Security"
  },
  "GUN": {
@@ -396,7 +396,7 @@
   "name": "Hemi"
  },
  "HFT": {
-  "icon": "https://coin-images.coingecko.com/coins/images/26136/large/200x200_360.png",
+  "icon": "https://coin-images.coingecko.com/coins/images/26136/large/200x200_360.png?1728551257",
   "name": "Hashflow"
  },
  "HMSTR": {
@@ -739,6 +739,10 @@
   "icon": "https://coin-images.coingecko.com/coins/images/6595/large/THORChain_RUNE_Token.png?1782452363",
   "name": "THORChain"
  },
+ "S": {
+  "icon": "https://coin-images.coingecko.com/coins/images/38108/large/200x200_Sonic_Logo.png?1734679256",
+  "name": "Sonic"
+ },
  "SAGA": {
   "icon": "https://coin-images.coingecko.com/coins/images/25691/large/zcPXETKs_400x400.jpg?1696524818",
   "name": "Saga"
@@ -932,7 +936,7 @@
   "name": "VeChain"
  },
  "VIC": {
-  "icon": "https://coin-images.coingecko.com/coins/images/3416/large/viction.jpeg",
+  "icon": "https://coin-images.coingecko.com/coins/images/3416/large/viction.jpeg?1698894318",
   "name": "Viction"
  },
  "VIRTUAL": {
@@ -940,7 +944,7 @@
   "name": "Virtuals Protocol"
  },
  "WAXP": {
-  "icon": "https://coin-images.coingecko.com/coins/images/1372/large/WAX_Coin_Tickers_P_512px.png",
+  "icon": "https://coin-images.coingecko.com/coins/images/1372/large/WAX_Coin_Tickers_P_512px.png?1696502430",
   "name": "WAX"
  },
  "WIF": {
@@ -1000,7 +1004,7 @@
   "name": "ZEROBASE"
  },
  "ZEC": {
-  "icon": "https://coin-images.coingecko.com/coins/images/486/large/circle-zcash-color.png?1696501740",
+  "icon": "https://coin-images.coingecko.com/coins/images/486/large/Brandmark-Yellow.png?1785772578",
   "name": "Zcash"
  },
  "ZEN": {
