@@ -639,6 +639,10 @@
   "icon": "https://coin-images.coingecko.com/coins/images/12451/large/phala.png?1696512270",
   "name": "PHALA"
  },
+ "PIVX": {
+  "icon": "https://coin-images.coingecko.com/coins/images/548/large/PIVX-Shield.png",
+  "name": "PIVX"
+ },
  "PIXEL": {
   "icon": "https://coin-images.coingecko.com/coins/images/35100/large/pixel-icon.png?1708339519",
   "name": "Pixels"
