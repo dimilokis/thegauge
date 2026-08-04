@@ -1,78 +1,14 @@
 {
- "date": "2026-08-03",
- "generated_at": "2026-08-04T02:30:55.123984+00:00",
+ "date": "2026-08-04",
+ "generated_at": "2026-08-04T03:46:02.305703+00:00",
  "assets": [
   {
    "symbol": "HFT",
    "name": "Hashflow",
-   "sigma": 8.12,
-   "from_btc_pct": 4,
-   "verdict": "Overbought",
+   "sigma": 2.68,
+   "from_btc_pct": 13,
+   "verdict": "Neutral",
    "file": "HFT.png"
-  },
-  {
-   "symbol": "ACX",
-   "name": "Across Protocol",
-   "sigma": 3.76,
-   "from_btc_pct": 14,
-   "verdict": "Oversold",
-   "file": "ACX.png"
-  },
-  {
-   "symbol": "WAXP",
-   "name": "WAX",
-   "sigma": 3.75,
-   "from_btc_pct": 6,
-   "verdict": "Neutral",
-   "file": "WAXP.png"
-  },
-  {
-   "symbol": "TUT",
-   "name": "Tutorial",
-   "sigma": 3.0,
-   "from_btc_pct": 1,
-   "verdict": "Overbought",
-   "file": "TUT.png"
-  },
-  {
-   "symbol": "TOWNS",
-   "name": "Towns",
-   "sigma": 2.72,
-   "from_btc_pct": 1,
-   "verdict": "Neutral",
-   "file": "TOWNS.png"
-  },
-  {
-   "symbol": "ROBO",
-   "name": "Fabric Protocol",
-   "sigma": 2.67,
-   "from_btc_pct": 10,
-   "verdict": "Neutral",
-   "file": "ROBO.png"
-  },
-  {
-   "symbol": "ATOM",
-   "name": "Cosmos Hub",
-   "sigma": 2.66,
-   "from_btc_pct": 38,
-   "verdict": "Neutral",
-   "file": "ATOM.png"
-  },
-  {
-   "symbol": "VIC",
-   "name": "Viction",
-   "sigma": 2.59,
-   "from_btc_pct": 2,
-   "verdict": "Neutral",
-   "file": "VIC.png"
-  },
-  {
-   "symbol": "PYR",
-   "name": "Vulcan Forged",
-   "sigma": 2.5,
-   "from_btc_pct": 4,
-   "verdict": "Oversold",
-   "file": "PYR.png"
   }
  ]
 }
