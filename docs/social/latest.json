@@ -1,6 +1,6 @@
 {
  "date": "2026-08-04",
- "generated_at": "2026-08-04T21:45:47.499813+00:00",
+ "generated_at": "2026-08-04T22:15:51.601572+00:00",
  "assets": [
   {
    "symbol": "PUMP",
@@ -57,6 +57,14 @@
    "from_btc_pct": 5,
    "verdict": "Overbought",
    "file": "COTI.png"
+  },
+  {
+   "symbol": "BICO",
+   "name": "Biconomy",
+   "sigma": 2.66,
+   "from_btc_pct": 11,
+   "verdict": "Neutral",
+   "file": "BICO.png"
   },
   {
    "symbol": "TUT",
