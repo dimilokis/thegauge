@@ -1,7 +1,15 @@
 {
  "date": "2026-08-04",
- "generated_at": "2026-08-04T03:46:02.305703+00:00",
+ "generated_at": "2026-08-04T05:15:47.138379+00:00",
  "assets": [
+  {
+   "symbol": "TUT",
+   "name": "Tutorial",
+   "sigma": 2.79,
+   "from_btc_pct": 4,
+   "verdict": "Overbought",
+   "file": "TUT.png"
+  },
   {
    "symbol": "HFT",
    "name": "Hashflow",
