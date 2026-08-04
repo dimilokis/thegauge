@@ -1,7 +1,15 @@
 {
  "date": "2026-08-03",
- "generated_at": "2026-08-03T21:31:00.420592+00:00",
+ "generated_at": "2026-08-04T02:30:55.123984+00:00",
  "assets": [
+  {
+   "symbol": "HFT",
+   "name": "Hashflow",
+   "sigma": 8.12,
+   "from_btc_pct": 4,
+   "verdict": "Overbought",
+   "file": "HFT.png"
+  },
   {
    "symbol": "ACX",
    "name": "Across Protocol",
@@ -25,14 +33,6 @@
    "from_btc_pct": 1,
    "verdict": "Overbought",
    "file": "TUT.png"
-  },
-  {
-   "symbol": "HFT",
-   "name": "Hashflow",
-   "sigma": 2.76,
-   "from_btc_pct": 13,
-   "verdict": "Neutral",
-   "file": "HFT.png"
   },
   {
    "symbol": "TOWNS",
