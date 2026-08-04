@@ -1,6 +1,6 @@
 {
  "date": "2026-08-04",
- "generated_at": "2026-08-04T15:08:48.987742+00:00",
+ "generated_at": "2026-08-04T15:45:52.210330+00:00",
  "assets": [
   {
    "symbol": "HOME",
@@ -9,6 +9,14 @@
    "from_btc_pct": 1,
    "verdict": "Neutral",
    "file": "HOME.png"
+  },
+  {
+   "symbol": "ACX",
+   "name": "Across Protocol",
+   "sigma": 2.91,
+   "from_btc_pct": 7,
+   "verdict": "Oversold",
+   "file": "ACX.png"
   },
   {
    "symbol": "LDO",
@@ -33,14 +41,6 @@
    "from_btc_pct": 33,
    "verdict": "Neutral",
    "file": "STO.png"
-  },
-  {
-   "symbol": "ACX",
-   "name": "Across Protocol",
-   "sigma": 2.56,
-   "from_btc_pct": 10,
-   "verdict": "Oversold",
-   "file": "ACX.png"
   },
   {
    "symbol": "TUT",
