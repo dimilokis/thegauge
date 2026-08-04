@@ -1,7 +1,15 @@
 {
  "date": "2026-08-04",
- "generated_at": "2026-08-04T12:15:51.407365+00:00",
+ "generated_at": "2026-08-04T12:45:51.996815+00:00",
  "assets": [
+  {
+   "symbol": "HOME",
+   "name": "HOME",
+   "sigma": 3.22,
+   "from_btc_pct": 1,
+   "verdict": "Neutral",
+   "file": "HOME.png"
+  },
   {
    "symbol": "ACX",
    "name": "Across Protocol",
