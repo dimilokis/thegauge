@@ -1,6 +1,6 @@
 {
  "date": "2026-08-04",
- "generated_at": "2026-08-04T19:30:51.411950+00:00",
+ "generated_at": "2026-08-04T19:45:59.839387+00:00",
  "assets": [
   {
    "symbol": "HOME",
@@ -9,6 +9,14 @@
    "from_btc_pct": 1,
    "verdict": "Neutral",
    "file": "HOME.png"
+  },
+  {
+   "symbol": "STO",
+   "name": null,
+   "sigma": 2.94,
+   "from_btc_pct": 35,
+   "verdict": "Neutral",
+   "file": "STO.png"
   },
   {
    "symbol": "ACX",
@@ -41,14 +49,6 @@
    "from_btc_pct": 0,
    "verdict": "Neutral",
    "file": "LDO.png"
-  },
-  {
-   "symbol": "STO",
-   "name": null,
-   "sigma": 2.68,
-   "from_btc_pct": 33,
-   "verdict": "Neutral",
-   "file": "STO.png"
   },
   {
    "symbol": "COTI",
