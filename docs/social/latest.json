@@ -1,7 +1,15 @@
 {
  "date": "2026-08-05",
- "generated_at": "2026-08-05T04:45:48.131478+00:00",
+ "generated_at": "2026-08-05T07:15:49.850784+00:00",
  "assets": [
+  {
+   "symbol": "ACX",
+   "name": "Across Protocol",
+   "sigma": 3.95,
+   "from_btc_pct": 4,
+   "verdict": "Neutral",
+   "file": "ACX.png"
+  },
   {
    "symbol": "HFT",
    "name": "Hashflow",
