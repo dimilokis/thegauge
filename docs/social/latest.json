@@ -1,6 +1,6 @@
 {
  "date": "2026-08-05",
- "generated_at": "2026-08-05T21:30:51.354291+00:00",
+ "generated_at": "2026-08-05T22:15:56.370824+00:00",
  "assets": [
   {
    "symbol": "DODO",
@@ -43,6 +43,14 @@
    "file": "SYN.png"
   },
   {
+   "symbol": "ZBT",
+   "name": "ZEROBASE",
+   "sigma": 2.75,
+   "from_btc_pct": 3,
+   "verdict": "Neutral",
+   "file": "ZBT.png"
+  },
+  {
    "symbol": "VANRY",
    "name": "Vanar Chain",
    "sigma": 2.68,
@@ -65,14 +73,6 @@
    "from_btc_pct": 5,
    "verdict": "Overbought",
    "file": "TUT.png"
-  },
-  {
-   "symbol": "ZBT",
-   "name": "ZEROBASE",
-   "sigma": 2.51,
-   "from_btc_pct": 3,
-   "verdict": "Neutral",
-   "file": "ZBT.png"
   }
  ]
 }
