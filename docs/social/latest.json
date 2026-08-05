@@ -1,6 +1,6 @@
 {
  "date": "2026-08-05",
- "generated_at": "2026-08-05T12:15:50.644807+00:00",
+ "generated_at": "2026-08-05T13:45:51.295846+00:00",
  "assets": [
   {
    "symbol": "ACX",
@@ -25,6 +25,14 @@
    "from_btc_pct": 0,
    "verdict": "Strong Uptrend",
    "file": "HEI.png"
+  },
+  {
+   "symbol": "VANRY",
+   "name": "Vanar Chain",
+   "sigma": 2.68,
+   "from_btc_pct": 0,
+   "verdict": "Neutral",
+   "file": "VANRY.png"
   },
   {
    "symbol": "FIDA",
