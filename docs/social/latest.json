@@ -1,6 +1,6 @@
 {
  "date": "2026-08-05",
- "generated_at": "2026-08-05T07:15:49.850784+00:00",
+ "generated_at": "2026-08-05T09:45:52.832879+00:00",
  "assets": [
   {
    "symbol": "ACX",
@@ -17,6 +17,14 @@
    "from_btc_pct": 7,
    "verdict": "Overbought",
    "file": "HFT.png"
+  },
+  {
+   "symbol": "FIDA",
+   "name": "Bonfida",
+   "sigma": 3.04,
+   "from_btc_pct": 4,
+   "verdict": "Neutral",
+   "file": "FIDA.png"
   },
   {
    "symbol": "HEI",
