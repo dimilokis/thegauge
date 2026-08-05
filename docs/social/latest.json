@@ -1,7 +1,15 @@
 {
  "date": "2026-08-05",
- "generated_at": "2026-08-05T03:45:45.796303+00:00",
+ "generated_at": "2026-08-05T03:59:04.987344+00:00",
  "assets": [
+  {
+   "symbol": "TUT",
+   "name": "Tutorial",
+   "sigma": 2.54,
+   "from_btc_pct": 5,
+   "verdict": "Overbought",
+   "file": "TUT.png"
+  },
   {
    "symbol": "HEI",
    "name": "Heima",
