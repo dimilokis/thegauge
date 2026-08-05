@@ -1,7 +1,15 @@
 {
  "date": "2026-08-05",
- "generated_at": "2026-08-05T03:59:04.987344+00:00",
+ "generated_at": "2026-08-05T04:15:47.979582+00:00",
  "assets": [
+  {
+   "symbol": "HEI",
+   "name": "Heima",
+   "sigma": 2.66,
+   "from_btc_pct": 0,
+   "verdict": "Strong Uptrend",
+   "file": "HEI.png"
+  },
   {
    "symbol": "TUT",
    "name": "Tutorial",
@@ -9,14 +17,6 @@
    "from_btc_pct": 5,
    "verdict": "Overbought",
    "file": "TUT.png"
-  },
-  {
-   "symbol": "HEI",
-   "name": "Heima",
-   "sigma": 2.53,
-   "from_btc_pct": 0,
-   "verdict": "Strong Uptrend",
-   "file": "HEI.png"
   }
  ]
 }
