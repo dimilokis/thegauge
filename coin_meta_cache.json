@@ -815,6 +815,10 @@
   "icon": "https://coin-images.coingecko.com/coins/images/38637/large/Spark-Logomark-RGB.png?1744878896",
   "name": "Spark"
  },
+ "STO": {
+  "icon": "https://coin-images.coingecko.com/coins/images/55050/large/STO-white-bg.png?1743437541",
+  "name": "StakeStone"
+ },
  "STORJ": {
   "icon": "https://coin-images.coingecko.com/coins/images/949/large/storj.png?1696502065",
   "name": "Storj"
@@ -1012,7 +1016,7 @@
   "name": "ZEROBASE"
  },
  "ZEC": {
-  "icon": "https://coin-images.coingecko.com/coins/images/486/large/Brandmark-Yellow.png?1785772578",
+  "icon": "https://coin-images.coingecko.com/coins/images/486/large/Brandmark-Yellow_%281%29.png?1785810558",
   "name": "Zcash"
  },
  "ZEN": {
