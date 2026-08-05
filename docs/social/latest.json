@@ -1,6 +1,6 @@
 {
  "date": "2026-08-05",
- "generated_at": "2026-08-05T10:15:55.525923+00:00",
+ "generated_at": "2026-08-05T11:00:58.333559+00:00",
  "assets": [
   {
    "symbol": "ACX",
@@ -29,7 +29,7 @@
   {
    "symbol": "HEI",
    "name": "Heima",
-   "sigma": 2.74,
+   "sigma": 2.59,
    "from_btc_pct": 0,
    "verdict": "Strong Uptrend",
    "file": "HEI.png"
