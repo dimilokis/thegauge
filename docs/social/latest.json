@@ -1,6 +1,6 @@
 {
  "date": "2026-08-05",
- "generated_at": "2026-08-05T12:00:56.326279+00:00",
+ "generated_at": "2026-08-05T12:15:50.644807+00:00",
  "assets": [
   {
    "symbol": "ACX",
@@ -19,20 +19,20 @@
    "file": "HFT.png"
   },
   {
-   "symbol": "FIDA",
-   "name": "Bonfida",
-   "sigma": 2.77,
-   "from_btc_pct": 4,
-   "verdict": "Neutral",
-   "file": "FIDA.png"
-  },
-  {
    "symbol": "HEI",
    "name": "Heima",
    "sigma": 2.74,
    "from_btc_pct": 0,
    "verdict": "Strong Uptrend",
    "file": "HEI.png"
+  },
+  {
+   "symbol": "FIDA",
+   "name": "Bonfida",
+   "sigma": 2.6,
+   "from_btc_pct": 5,
+   "verdict": "Neutral",
+   "file": "FIDA.png"
   },
   {
    "symbol": "TUT",
