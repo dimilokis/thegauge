@@ -1,7 +1,15 @@
 {
  "date": "2026-08-05",
- "generated_at": "2026-08-05T19:01:04.283059+00:00",
+ "generated_at": "2026-08-05T19:30:57.657275+00:00",
  "assets": [
+  {
+   "symbol": "DODO",
+   "name": "DODO",
+   "sigma": 7.06,
+   "from_btc_pct": 1,
+   "verdict": "Overbought",
+   "file": "DODO.png"
+  },
   {
    "symbol": "ACX",
    "name": "Across Protocol",
