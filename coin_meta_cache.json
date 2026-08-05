@@ -327,6 +327,10 @@
   "icon": "https://coin-images.coingecko.com/coins/images/69121/large/ff.png?1757573403",
   "name": "Falcon Finance"
  },
+ "FIDA": {
+  "icon": "https://coin-images.coingecko.com/coins/images/13395/large/bonfida.png",
+  "name": "Bonfida"
+ },
  "FIL": {
   "icon": "https://coin-images.coingecko.com/coins/images/12817/large/filecoin.png?1696512609",
   "name": "Filecoin"
@@ -786,6 +790,10 @@
  "SHIB": {
   "icon": "https://coin-images.coingecko.com/coins/images/11939/large/shiba.png?1696511800",
   "name": "Shiba Inu"
+ },
+ "SIGN": {
+  "icon": "https://coin-images.coingecko.com/coins/images/55303/large/sign.jpg",
+  "name": "Sign"
  },
  "SKL": {
   "icon": "https://coin-images.coingecko.com/coins/images/13245/large/SKALE_token_300x300.png?1696513021",
