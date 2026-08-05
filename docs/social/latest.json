@@ -1,6 +1,6 @@
 {
  "date": "2026-08-05",
- "generated_at": "2026-08-05T15:15:50.926621+00:00",
+ "generated_at": "2026-08-05T19:01:04.283059+00:00",
  "assets": [
   {
    "symbol": "ACX",
@@ -37,8 +37,8 @@
   {
    "symbol": "FIDA",
    "name": "Bonfida",
-   "sigma": 2.59,
-   "from_btc_pct": 7,
+   "sigma": 2.67,
+   "from_btc_pct": 10,
    "verdict": "Neutral",
    "file": "FIDA.png"
   },
