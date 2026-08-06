@@ -1,78 +1,14 @@
 {
- "date": "2026-08-05",
- "generated_at": "2026-08-05T22:15:56.370824+00:00",
+ "date": "2026-08-06",
+ "generated_at": "2026-08-06T05:30:54.116901+00:00",
  "assets": [
-  {
-   "symbol": "DODO",
-   "name": "DODO",
-   "sigma": 7.06,
-   "from_btc_pct": 1,
-   "verdict": "Overbought",
-   "file": "DODO.png"
-  },
-  {
-   "symbol": "ACX",
-   "name": "Across Protocol",
-   "sigma": 3.95,
-   "from_btc_pct": 4,
-   "verdict": "Neutral",
-   "file": "ACX.png"
-  },
-  {
-   "symbol": "HFT",
-   "name": "Hashflow",
-   "sigma": 3.77,
-   "from_btc_pct": 7,
-   "verdict": "Overbought",
-   "file": "HFT.png"
-  },
   {
    "symbol": "HEI",
    "name": "Heima",
-   "sigma": 3.23,
-   "from_btc_pct": 0,
+   "sigma": 3.16,
+   "from_btc_pct": 1,
    "verdict": "Strong Uptrend",
    "file": "HEI.png"
-  },
-  {
-   "symbol": "SYN",
-   "name": "Synapse",
-   "sigma": 2.79,
-   "from_btc_pct": 11,
-   "verdict": "Neutral",
-   "file": "SYN.png"
-  },
-  {
-   "symbol": "ZBT",
-   "name": "ZEROBASE",
-   "sigma": 2.75,
-   "from_btc_pct": 3,
-   "verdict": "Neutral",
-   "file": "ZBT.png"
-  },
-  {
-   "symbol": "VANRY",
-   "name": "Vanar Chain",
-   "sigma": 2.68,
-   "from_btc_pct": 0,
-   "verdict": "Neutral",
-   "file": "VANRY.png"
-  },
-  {
-   "symbol": "FIDA",
-   "name": "Bonfida",
-   "sigma": 2.67,
-   "from_btc_pct": 10,
-   "verdict": "Neutral",
-   "file": "FIDA.png"
-  },
-  {
-   "symbol": "TUT",
-   "name": "Tutorial",
-   "sigma": 2.54,
-   "from_btc_pct": 5,
-   "verdict": "Overbought",
-   "file": "TUT.png"
   }
  ]
 }
