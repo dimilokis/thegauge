@@ -1,6 +1,6 @@
 {
  "date": "2026-08-06",
- "generated_at": "2026-08-06T10:45:53.474817+00:00",
+ "generated_at": "2026-08-06T11:01:02.619872+00:00",
  "assets": [
   {
    "symbol": "CTSI",
@@ -27,20 +27,20 @@
    "file": "OGN.png"
   },
   {
-   "symbol": "HFT",
-   "name": "Hashflow",
-   "sigma": 3.29,
-   "from_btc_pct": 5,
-   "verdict": "Overbought",
-   "file": "HFT.png"
-  },
-  {
    "symbol": "HEI",
    "name": "Heima",
    "sigma": 2.83,
    "from_btc_pct": 0,
    "verdict": "Strong Uptrend",
    "file": "HEI.png"
+  },
+  {
+   "symbol": "HFT",
+   "name": "Hashflow",
+   "sigma": 2.83,
+   "from_btc_pct": 4,
+   "verdict": "Overbought",
+   "file": "HFT.png"
   },
   {
    "symbol": "COOKIE",
