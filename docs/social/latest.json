@@ -1,6 +1,6 @@
 {
  "date": "2026-08-06",
- "generated_at": "2026-08-06T20:15:48.147244+00:00",
+ "generated_at": "2026-08-06T21:56:50.708208+00:00",
  "assets": [
   {
    "symbol": "CTSI",
@@ -9,6 +9,14 @@
    "from_btc_pct": 2,
    "verdict": "Overbought",
    "file": "CTSI.png"
+  },
+  {
+   "symbol": "ENSO",
+   "name": "Enso",
+   "sigma": 3.75,
+   "from_btc_pct": 18,
+   "verdict": "Overbought",
+   "file": "ENSO.png"
   },
   {
    "symbol": "DIA",
@@ -41,6 +49,14 @@
    "from_btc_pct": 0,
    "verdict": "Neutral",
    "file": "OGN.png"
+  },
+  {
+   "symbol": "RESOLV",
+   "name": "Resolv",
+   "sigma": 2.96,
+   "from_btc_pct": 0,
+   "verdict": "Neutral",
+   "file": "RESOLV.png"
   },
   {
    "symbol": "ROBO",
@@ -81,22 +97,6 @@
    "from_btc_pct": 6,
    "verdict": "Overbought",
    "file": "BICO.png"
-  },
-  {
-   "symbol": "GLMR",
-   "name": "Moonbeam",
-   "sigma": 2.66,
-   "from_btc_pct": 6,
-   "verdict": "Neutral",
-   "file": "GLMR.png"
-  },
-  {
-   "symbol": "ACT",
-   "name": "Act I The AI Prophecy",
-   "sigma": 2.66,
-   "from_btc_pct": 1,
-   "verdict": "Neutral",
-   "file": "ACT.png"
   }
  ]
 }
