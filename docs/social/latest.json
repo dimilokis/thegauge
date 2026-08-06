@@ -1,6 +1,6 @@
 {
  "date": "2026-08-06",
- "generated_at": "2026-08-06T19:01:07.771815+00:00",
+ "generated_at": "2026-08-06T19:45:53.986013+00:00",
  "assets": [
   {
    "symbol": "CTSI",
@@ -67,20 +67,20 @@
    "file": "HFT.png"
   },
   {
-   "symbol": "BICO",
-   "name": "Biconomy",
-   "sigma": 2.76,
-   "from_btc_pct": 6,
-   "verdict": "Overbought",
-   "file": "BICO.png"
-  },
-  {
    "symbol": "COOKIE",
    "name": "Cookie DAO",
    "sigma": 2.74,
    "from_btc_pct": 0,
    "verdict": "Neutral",
    "file": "COOKIE.png"
+  },
+  {
+   "symbol": "BICO",
+   "name": "Biconomy",
+   "sigma": 2.73,
+   "from_btc_pct": 6,
+   "verdict": "Overbought",
+   "file": "BICO.png"
   },
   {
    "symbol": "GLMR",
