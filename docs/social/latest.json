@@ -1,6 +1,6 @@
 {
  "date": "2026-08-06",
- "generated_at": "2026-08-06T09:45:56.269253+00:00",
+ "generated_at": "2026-08-06T10:15:58.814120+00:00",
  "assets": [
   {
    "symbol": "CTSI",
@@ -45,8 +45,8 @@
   {
    "symbol": "HEI",
    "name": "Heima",
-   "sigma": 3.16,
-   "from_btc_pct": 1,
+   "sigma": 2.83,
+   "from_btc_pct": 0,
    "verdict": "Strong Uptrend",
    "file": "HEI.png"
   }
