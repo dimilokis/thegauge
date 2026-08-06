@@ -1,6 +1,6 @@
 {
  "date": "2026-08-06",
- "generated_at": "2026-08-06T12:00:57.069614+00:00",
+ "generated_at": "2026-08-06T12:45:55.904484+00:00",
  "assets": [
   {
    "symbol": "CTSI",
@@ -17,6 +17,14 @@
    "from_btc_pct": 9,
    "verdict": "Neutral",
    "file": "POWR.png"
+  },
+  {
+   "symbol": "ZBT",
+   "name": "ZEROBASE",
+   "sigma": 3.49,
+   "from_btc_pct": 4,
+   "verdict": "Strong Uptrend",
+   "file": "ZBT.png"
   },
   {
    "symbol": "OGN",
