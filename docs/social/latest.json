@@ -1,6 +1,6 @@
 {
  "date": "2026-08-06",
- "generated_at": "2026-08-06T17:17:57.149842+00:00",
+ "generated_at": "2026-08-06T17:31:18.917123+00:00",
  "assets": [
   {
    "symbol": "CTSI",
@@ -45,8 +45,8 @@
   {
    "symbol": "ROBO",
    "name": "Fabric Protocol",
-   "sigma": 3.16,
-   "from_btc_pct": 8,
+   "sigma": 2.86,
+   "from_btc_pct": 9,
    "verdict": "Neutral",
    "file": "ROBO.png"
   },
