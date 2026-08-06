@@ -1,6 +1,6 @@
 {
  "date": "2026-08-06",
- "generated_at": "2026-08-06T12:45:55.904484+00:00",
+ "generated_at": "2026-08-06T13:45:49.120247+00:00",
  "assets": [
   {
    "symbol": "CTSI",
@@ -65,6 +65,14 @@
    "from_btc_pct": 0,
    "verdict": "Neutral",
    "file": "COOKIE.png"
+  },
+  {
+   "symbol": "ACE",
+   "name": "Fusionist",
+   "sigma": 2.53,
+   "from_btc_pct": 1,
+   "verdict": "Neutral",
+   "file": "ACE.png"
   }
  ]
 }
