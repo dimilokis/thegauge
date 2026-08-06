@@ -1,6 +1,6 @@
 {
  "date": "2026-08-06",
- "generated_at": "2026-08-06T21:56:50.708208+00:00",
+ "generated_at": "2026-08-06T22:30:59.216153+00:00",
  "assets": [
   {
    "symbol": "CTSI",
@@ -59,14 +59,6 @@
    "file": "RESOLV.png"
   },
   {
-   "symbol": "ROBO",
-   "name": "Fabric Protocol",
-   "sigma": 2.86,
-   "from_btc_pct": 9,
-   "verdict": "Neutral",
-   "file": "ROBO.png"
-  },
-  {
    "symbol": "HEI",
    "name": "Heima",
    "sigma": 2.83,
@@ -97,6 +89,14 @@
    "from_btc_pct": 6,
    "verdict": "Overbought",
    "file": "BICO.png"
+  },
+  {
+   "symbol": "ROBO",
+   "name": "Fabric Protocol",
+   "sigma": 2.58,
+   "from_btc_pct": 8,
+   "verdict": "Neutral",
+   "file": "ROBO.png"
   }
  ]
 }
