@@ -1,6 +1,6 @@
 {
  "date": "2026-08-06",
- "generated_at": "2026-08-06T10:15:58.814120+00:00",
+ "generated_at": "2026-08-06T10:45:53.474817+00:00",
  "assets": [
   {
    "symbol": "CTSI",
@@ -9,14 +9,6 @@
    "from_btc_pct": 2,
    "verdict": "Overbought",
    "file": "CTSI.png"
-  },
-  {
-   "symbol": "COOKIE",
-   "name": "Cookie DAO",
-   "sigma": 3.58,
-   "from_btc_pct": 0,
-   "verdict": "Neutral",
-   "file": "COOKIE.png"
   },
   {
    "symbol": "POWR",
@@ -49,6 +41,14 @@
    "from_btc_pct": 0,
    "verdict": "Strong Uptrend",
    "file": "HEI.png"
+  },
+  {
+   "symbol": "COOKIE",
+   "name": "Cookie DAO",
+   "sigma": 2.74,
+   "from_btc_pct": 0,
+   "verdict": "Neutral",
+   "file": "COOKIE.png"
   }
  ]
 }
