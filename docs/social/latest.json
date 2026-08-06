@@ -1,7 +1,15 @@
 {
  "date": "2026-08-06",
- "generated_at": "2026-08-06T05:45:50.260086+00:00",
+ "generated_at": "2026-08-06T07:15:47.144099+00:00",
  "assets": [
+  {
+   "symbol": "HFT",
+   "name": "Hashflow",
+   "sigma": 3.29,
+   "from_btc_pct": 5,
+   "verdict": "Overbought",
+   "file": "HFT.png"
+  },
   {
    "symbol": "HEI",
    "name": "Heima",
@@ -9,14 +17,6 @@
    "from_btc_pct": 1,
    "verdict": "Strong Uptrend",
    "file": "HEI.png"
-  },
-  {
-   "symbol": "HFT",
-   "name": "Hashflow",
-   "sigma": 2.82,
-   "from_btc_pct": 5,
-   "verdict": "Overbought",
-   "file": "HFT.png"
   }
  ]
 }
