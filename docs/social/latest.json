@@ -1,6 +1,6 @@
 {
  "date": "2026-08-06",
- "generated_at": "2026-08-06T13:45:49.120247+00:00",
+ "generated_at": "2026-08-06T14:15:54.055051+00:00",
  "assets": [
   {
    "symbol": "CTSI",
@@ -35,14 +35,6 @@
    "file": "OGN.png"
   },
   {
-   "symbol": "RESOLV",
-   "name": "Resolv",
-   "sigma": 2.94,
-   "from_btc_pct": 0,
-   "verdict": "Neutral",
-   "file": "RESOLV.png"
-  },
-  {
    "symbol": "HEI",
    "name": "Heima",
    "sigma": 2.83,
@@ -65,6 +57,14 @@
    "from_btc_pct": 0,
    "verdict": "Neutral",
    "file": "COOKIE.png"
+  },
+  {
+   "symbol": "RESOLV",
+   "name": "Resolv",
+   "sigma": 2.74,
+   "from_btc_pct": 0,
+   "verdict": "Neutral",
+   "file": "RESOLV.png"
   },
   {
    "symbol": "ACE",
