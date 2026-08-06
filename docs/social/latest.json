@@ -1,6 +1,6 @@
 {
  "date": "2026-08-06",
- "generated_at": "2026-08-06T11:01:02.619872+00:00",
+ "generated_at": "2026-08-06T11:30:50.828910+00:00",
  "assets": [
   {
    "symbol": "CTSI",
@@ -25,6 +25,14 @@
    "from_btc_pct": 0,
    "verdict": "Neutral",
    "file": "OGN.png"
+  },
+  {
+   "symbol": "RESOLV",
+   "name": "Resolv",
+   "sigma": 2.94,
+   "from_btc_pct": 0,
+   "verdict": "Neutral",
+   "file": "RESOLV.png"
   },
   {
    "symbol": "HEI",
