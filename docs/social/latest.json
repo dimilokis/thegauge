@@ -1,6 +1,6 @@
 {
  "date": "2026-08-06",
- "generated_at": "2026-08-06T19:45:53.986013+00:00",
+ "generated_at": "2026-08-06T20:15:48.147244+00:00",
  "assets": [
   {
    "symbol": "CTSI",
@@ -91,12 +91,12 @@
    "file": "GLMR.png"
   },
   {
-   "symbol": "PLUME",
-   "name": "Plume",
-   "sigma": 2.64,
-   "from_btc_pct": 16,
+   "symbol": "ACT",
+   "name": "Act I The AI Prophecy",
+   "sigma": 2.66,
+   "from_btc_pct": 1,
    "verdict": "Neutral",
-   "file": "PLUME.png"
+   "file": "ACT.png"
   }
  ]
 }
