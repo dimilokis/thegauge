@@ -1,6 +1,6 @@
 {
  "date": "2026-08-06",
- "generated_at": "2026-08-06T16:48:40.341603+00:00",
+ "generated_at": "2026-08-06T17:17:57.149842+00:00",
  "assets": [
   {
    "symbol": "CTSI",
@@ -75,12 +75,12 @@
    "file": "COOKIE.png"
   },
   {
-   "symbol": "RESOLV",
-   "name": "Resolv",
-   "sigma": 2.74,
-   "from_btc_pct": 0,
+   "symbol": "GLMR",
+   "name": "Moonbeam",
+   "sigma": 2.66,
+   "from_btc_pct": 6,
    "verdict": "Neutral",
-   "file": "RESOLV.png"
+   "file": "GLMR.png"
   },
   {
    "symbol": "PLUME",
@@ -91,12 +91,12 @@
    "file": "PLUME.png"
   },
   {
-   "symbol": "ACE",
-   "name": "Fusionist",
-   "sigma": 2.53,
-   "from_btc_pct": 1,
+   "symbol": "RESOLV",
+   "name": "Resolv",
+   "sigma": 2.57,
+   "from_btc_pct": 0,
    "verdict": "Neutral",
-   "file": "ACE.png"
+   "file": "RESOLV.png"
   }
  ]
 }
