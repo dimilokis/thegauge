@@ -1,6 +1,6 @@
 {
  "date": "2026-08-06",
- "generated_at": "2026-08-06T08:15:54.710428+00:00",
+ "generated_at": "2026-08-06T08:45:49.215401+00:00",
  "assets": [
   {
    "symbol": "CTSI",
@@ -9,6 +9,14 @@
    "from_btc_pct": 2,
    "verdict": "Overbought",
    "file": "CTSI.png"
+  },
+  {
+   "symbol": "POWR",
+   "name": "Powerledger",
+   "sigma": 3.68,
+   "from_btc_pct": 10,
+   "verdict": "Neutral",
+   "file": "POWR.png"
   },
   {
    "symbol": "HFT",
@@ -25,6 +33,14 @@
    "from_btc_pct": 1,
    "verdict": "Strong Uptrend",
    "file": "HEI.png"
+  },
+  {
+   "symbol": "OGN",
+   "name": "Origin Token",
+   "sigma": 3.09,
+   "from_btc_pct": 0,
+   "verdict": "Neutral",
+   "file": "OGN.png"
   }
  ]
 }
