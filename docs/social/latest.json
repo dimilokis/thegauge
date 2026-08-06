@@ -1,6 +1,6 @@
 {
  "date": "2026-08-06",
- "generated_at": "2026-08-06T14:15:54.055051+00:00",
+ "generated_at": "2026-08-06T15:00:56.501894+00:00",
  "assets": [
   {
    "symbol": "CTSI",
@@ -65,6 +65,22 @@
    "from_btc_pct": 0,
    "verdict": "Neutral",
    "file": "RESOLV.png"
+  },
+  {
+   "symbol": "PLUME",
+   "name": "Plume",
+   "sigma": 2.64,
+   "from_btc_pct": 16,
+   "verdict": "Neutral",
+   "file": "PLUME.png"
+  },
+  {
+   "symbol": "BICO",
+   "name": "Biconomy",
+   "sigma": 2.56,
+   "from_btc_pct": 8,
+   "verdict": "Overbought",
+   "file": "BICO.png"
   },
   {
    "symbol": "ACE",
