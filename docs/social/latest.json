@@ -1,7 +1,15 @@
 {
  "date": "2026-08-06",
- "generated_at": "2026-08-06T07:15:47.144099+00:00",
+ "generated_at": "2026-08-06T08:15:54.710428+00:00",
  "assets": [
+  {
+   "symbol": "CTSI",
+   "name": "Cartesi",
+   "sigma": 24.51,
+   "from_btc_pct": 2,
+   "verdict": "Overbought",
+   "file": "CTSI.png"
+  },
   {
    "symbol": "HFT",
    "name": "Hashflow",

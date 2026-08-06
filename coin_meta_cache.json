@@ -223,6 +223,10 @@
   "icon": "https://coin-images.coingecko.com/coins/images/12124/large/Curve.png?1696511967",
   "name": "Curve DAO"
  },
+ "CTSI": {
+  "icon": "https://coin-images.coingecko.com/coins/images/11038/large/Cartesi_Logo.png",
+  "name": "Cartesi"
+ },
  "CVX": {
   "icon": "https://coin-images.coingecko.com/coins/images/15585/large/convex.png?1696515221",
   "name": "Convex Finance"
@@ -678,6 +682,10 @@
  "PORTO": {
   "icon": "https://coin-images.coingecko.com/coins/images/20459/large/fcp.jpg?1696519864",
   "name": "FC Porto"
+ },
+ "POWR": {
+  "icon": "https://coin-images.coingecko.com/coins/images/1104/large/Powerledger_Token_logo_%281%29.png",
+  "name": "Powerledger"
  },
  "PROM": {
   "icon": "https://coin-images.coingecko.com/coins/images/8825/large/Ticker.png?1696508978",
