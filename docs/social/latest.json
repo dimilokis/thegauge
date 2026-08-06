@@ -1,6 +1,6 @@
 {
  "date": "2026-08-06",
- "generated_at": "2026-08-06T17:31:18.917123+00:00",
+ "generated_at": "2026-08-06T19:01:07.771815+00:00",
  "assets": [
   {
    "symbol": "CTSI",
@@ -9,6 +9,14 @@
    "from_btc_pct": 2,
    "verdict": "Overbought",
    "file": "CTSI.png"
+  },
+  {
+   "symbol": "DIA",
+   "name": "DIA",
+   "sigma": 3.61,
+   "from_btc_pct": 1,
+   "verdict": "Neutral",
+   "file": "DIA.png"
   },
   {
    "symbol": "POWR",
@@ -35,14 +43,6 @@
    "file": "OGN.png"
   },
   {
-   "symbol": "BICO",
-   "name": "Biconomy",
-   "sigma": 3.18,
-   "from_btc_pct": 7,
-   "verdict": "Overbought",
-   "file": "BICO.png"
-  },
-  {
    "symbol": "ROBO",
    "name": "Fabric Protocol",
    "sigma": 2.86,
@@ -67,6 +67,14 @@
    "file": "HFT.png"
   },
   {
+   "symbol": "BICO",
+   "name": "Biconomy",
+   "sigma": 2.76,
+   "from_btc_pct": 6,
+   "verdict": "Overbought",
+   "file": "BICO.png"
+  },
+  {
    "symbol": "COOKIE",
    "name": "Cookie DAO",
    "sigma": 2.74,
@@ -89,14 +97,6 @@
    "from_btc_pct": 16,
    "verdict": "Neutral",
    "file": "PLUME.png"
-  },
-  {
-   "symbol": "RESOLV",
-   "name": "Resolv",
-   "sigma": 2.57,
-   "from_btc_pct": 0,
-   "verdict": "Neutral",
-   "file": "RESOLV.png"
   }
  ]
 }
