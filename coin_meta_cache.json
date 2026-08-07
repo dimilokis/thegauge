@@ -839,6 +839,10 @@
   "icon": "https://coin-images.coingecko.com/coins/images/38637/large/Spark-Logomark-RGB.png?1744878896",
   "name": "Spark"
  },
+ "STG": {
+  "icon": "https://coin-images.coingecko.com/coins/images/24413/large/STG_LOGO.png",
+  "name": "Stargate Finance"
+ },
  "STO": {
   "icon": "https://coin-images.coingecko.com/coins/images/55050/large/STO-white-bg.png?1743437541",
   "name": "StakeStone"
