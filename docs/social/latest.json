@@ -1,15 +1,7 @@
 {
  "date": "2026-08-07",
- "generated_at": "2026-08-07T04:30:51.566368+00:00",
+ "generated_at": "2026-08-07T05:00:55.367977+00:00",
  "assets": [
-  {
-   "symbol": "TUT",
-   "name": "Tutorial",
-   "sigma": 3.16,
-   "from_btc_pct": 4,
-   "verdict": "Overbought",
-   "file": "TUT.png"
-  },
   {
    "symbol": "ZBT",
    "name": "ZEROBASE",
@@ -25,6 +17,14 @@
    "from_btc_pct": 5,
    "verdict": "Oversold",
    "file": "ZKP.png"
+  },
+  {
+   "symbol": "TUT",
+   "name": "Tutorial",
+   "sigma": 2.79,
+   "from_btc_pct": 4,
+   "verdict": "Overbought",
+   "file": "TUT.png"
   }
  ]
 }
