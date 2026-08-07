@@ -1,6 +1,6 @@
 {
  "date": "2026-08-07",
- "generated_at": "2026-08-07T07:45:46.619360+00:00",
+ "generated_at": "2026-08-07T08:45:45.893807+00:00",
  "assets": [
   {
    "symbol": "XAI",
@@ -17,6 +17,14 @@
    "from_btc_pct": 2,
    "verdict": "Overbought",
    "file": "ACE.png"
+  },
+  {
+   "symbol": "ACX",
+   "name": "Across Protocol",
+   "sigma": 3.94,
+   "from_btc_pct": 7,
+   "verdict": "Neutral",
+   "file": "ACX.png"
   },
   {
    "symbol": "TUT",
@@ -43,12 +51,12 @@
    "file": "ZKP.png"
   },
   {
-   "symbol": "ACX",
-   "name": "Across Protocol",
-   "sigma": 2.74,
-   "from_btc_pct": 7,
+   "symbol": "HFT",
+   "name": "Hashflow",
+   "sigma": 2.8,
+   "from_btc_pct": 0,
    "verdict": "Neutral",
-   "file": "ACX.png"
+   "file": "HFT.png"
   },
   {
    "symbol": "KMNO",
@@ -57,14 +65,6 @@
    "from_btc_pct": 0,
    "verdict": "Neutral",
    "file": "KMNO.png"
-  },
-  {
-   "symbol": "HFT",
-   "name": "Hashflow",
-   "sigma": 2.56,
-   "from_btc_pct": 1,
-   "verdict": "Neutral",
-   "file": "HFT.png"
   }
  ]
 }
