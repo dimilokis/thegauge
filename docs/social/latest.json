@@ -1,6 +1,6 @@
 {
  "date": "2026-08-06",
- "generated_at": "2026-08-06T23:01:03.281702+00:00",
+ "generated_at": "2026-08-07T01:00:58.380379+00:00",
  "assets": [
   {
    "symbol": "CTSI",
@@ -91,12 +91,12 @@
    "file": "BICO.png"
   },
   {
-   "symbol": "ROBO",
-   "name": "Fabric Protocol",
-   "sigma": 2.58,
-   "from_btc_pct": 8,
+   "symbol": "HYPER",
+   "name": "Hyperlane",
+   "sigma": 2.61,
+   "from_btc_pct": 21,
    "verdict": "Neutral",
-   "file": "ROBO.png"
+   "file": "HYPER.png"
   }
  ]
 }
