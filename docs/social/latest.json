@@ -1,6 +1,6 @@
 {
  "date": "2026-08-07",
- "generated_at": "2026-08-07T06:30:47.861240+00:00",
+ "generated_at": "2026-08-07T06:45:50.646318+00:00",
  "assets": [
   {
    "symbol": "XAI",
@@ -41,6 +41,14 @@
    "from_btc_pct": 5,
    "verdict": "Oversold",
    "file": "ZKP.png"
+  },
+  {
+   "symbol": "ACX",
+   "name": "Across Protocol",
+   "sigma": 2.74,
+   "from_btc_pct": 7,
+   "verdict": "Neutral",
+   "file": "ACX.png"
   },
   {
    "symbol": "KMNO",
