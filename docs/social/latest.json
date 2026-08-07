@@ -1,102 +1,14 @@
 {
- "date": "2026-08-06",
- "generated_at": "2026-08-07T02:30:56.391237+00:00",
+ "date": "2026-08-07",
+ "generated_at": "2026-08-07T03:15:53.904702+00:00",
  "assets": [
-  {
-   "symbol": "CTSI",
-   "name": "Cartesi",
-   "sigma": 24.51,
-   "from_btc_pct": 2,
-   "verdict": "Overbought",
-   "file": "CTSI.png"
-  },
-  {
-   "symbol": "KMNO",
-   "name": "Kamino",
-   "sigma": 4.43,
-   "from_btc_pct": 0,
-   "verdict": "Overbought",
-   "file": "KMNO.png"
-  },
-  {
-   "symbol": "ENSO",
-   "name": "Enso",
-   "sigma": 3.75,
-   "from_btc_pct": 18,
-   "verdict": "Overbought",
-   "file": "ENSO.png"
-  },
-  {
-   "symbol": "DIA",
-   "name": "DIA",
-   "sigma": 3.61,
-   "from_btc_pct": 1,
-   "verdict": "Neutral",
-   "file": "DIA.png"
-  },
-  {
-   "symbol": "POWR",
-   "name": "Powerledger",
-   "sigma": 3.51,
-   "from_btc_pct": 9,
-   "verdict": "Neutral",
-   "file": "POWR.png"
-  },
   {
    "symbol": "ZBT",
    "name": "ZEROBASE",
-   "sigma": 3.49,
+   "sigma": 2.61,
    "from_btc_pct": 4,
-   "verdict": "Strong Uptrend",
+   "verdict": "Neutral",
    "file": "ZBT.png"
-  },
-  {
-   "symbol": "OGN",
-   "name": "Origin Token",
-   "sigma": 3.4,
-   "from_btc_pct": 0,
-   "verdict": "Neutral",
-   "file": "OGN.png"
-  },
-  {
-   "symbol": "RESOLV",
-   "name": "Resolv",
-   "sigma": 2.96,
-   "from_btc_pct": 0,
-   "verdict": "Neutral",
-   "file": "RESOLV.png"
-  },
-  {
-   "symbol": "HEI",
-   "name": "Heima",
-   "sigma": 2.83,
-   "from_btc_pct": 0,
-   "verdict": "Strong Uptrend",
-   "file": "HEI.png"
-  },
-  {
-   "symbol": "HFT",
-   "name": "Hashflow",
-   "sigma": 2.83,
-   "from_btc_pct": 4,
-   "verdict": "Overbought",
-   "file": "HFT.png"
-  },
-  {
-   "symbol": "COOKIE",
-   "name": "Cookie DAO",
-   "sigma": 2.74,
-   "from_btc_pct": 0,
-   "verdict": "Neutral",
-   "file": "COOKIE.png"
-  },
-  {
-   "symbol": "BICO",
-   "name": "Biconomy",
-   "sigma": 2.73,
-   "from_btc_pct": 6,
-   "verdict": "Overbought",
-   "file": "BICO.png"
   }
  ]
 }
