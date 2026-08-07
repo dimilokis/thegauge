@@ -191,6 +191,10 @@
   "icon": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400",
   "name": "Bitcoin"
  },
+ "C98": {
+  "icon": "https://coin-images.coingecko.com/coins/images/17117/large/logo.png",
+  "name": "Coin98"
+ },
  "CAKE": {
   "icon": "https://coin-images.coingecko.com/coins/images/12632/large/pancakeswap-cake-logo_%281%29.png?1696512440",
   "name": "PancakeSwap"
