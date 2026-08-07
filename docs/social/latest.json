@@ -1,6 +1,6 @@
 {
  "date": "2026-08-07",
- "generated_at": "2026-08-07T18:30:59.578287+00:00",
+ "generated_at": "2026-08-07T19:00:56.825840+00:00",
  "assets": [
   {
    "symbol": "C98",
@@ -83,20 +83,20 @@
    "file": "ACE.png"
   },
   {
+   "symbol": "CTSI",
+   "name": "Cartesi",
+   "sigma": 2.69,
+   "from_btc_pct": 0,
+   "verdict": "Neutral",
+   "file": "CTSI.png"
+  },
+  {
    "symbol": "MUBARAK",
    "name": "Mubarak",
    "sigma": 2.65,
    "from_btc_pct": 3,
    "verdict": "Neutral",
    "file": "MUBARAK.png"
-  },
-  {
-   "symbol": "KMNO",
-   "name": "Kamino",
-   "sigma": 2.63,
-   "from_btc_pct": 0,
-   "verdict": "Neutral",
-   "file": "KMNO.png"
   }
  ]
 }
