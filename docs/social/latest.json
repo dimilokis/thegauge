@@ -1,7 +1,15 @@
 {
  "date": "2026-08-07",
- "generated_at": "2026-08-07T05:45:54.775710+00:00",
+ "generated_at": "2026-08-07T06:00:52.257524+00:00",
  "assets": [
+  {
+   "symbol": "XAI",
+   "name": "Xai",
+   "sigma": 8.91,
+   "from_btc_pct": 4,
+   "verdict": "Neutral",
+   "file": "XAI.png"
+  },
   {
    "symbol": "ACE",
    "name": "Fusionist",
