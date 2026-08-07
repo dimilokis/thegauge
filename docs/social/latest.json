@@ -1,6 +1,6 @@
 {
  "date": "2026-08-07",
- "generated_at": "2026-08-07T19:26:09.540540+00:00",
+ "generated_at": "2026-08-07T19:45:51.730749+00:00",
  "assets": [
   {
    "symbol": "C98",
@@ -91,12 +91,12 @@
    "file": "MUBARAK.png"
   },
   {
-   "symbol": "CTSI",
-   "name": "Cartesi",
-   "sigma": 2.56,
-   "from_btc_pct": 0,
-   "verdict": "Neutral",
-   "file": "CTSI.png"
+   "symbol": "BICO",
+   "name": "Biconomy",
+   "sigma": 2.57,
+   "from_btc_pct": 6,
+   "verdict": "Overbought",
+   "file": "BICO.png"
   }
  ]
 }
