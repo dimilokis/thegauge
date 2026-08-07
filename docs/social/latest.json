@@ -1,7 +1,15 @@
 {
  "date": "2026-08-07",
- "generated_at": "2026-08-07T03:30:59.847656+00:00",
+ "generated_at": "2026-08-07T03:45:49.089833+00:00",
  "assets": [
+  {
+   "symbol": "TUT",
+   "name": "Tutorial",
+   "sigma": 3.23,
+   "from_btc_pct": 4,
+   "verdict": "Overbought",
+   "file": "TUT.png"
+  },
   {
    "symbol": "ZKP",
    "name": "zkPass",
