@@ -1,6 +1,6 @@
 {
  "date": "2026-08-07",
- "generated_at": "2026-08-07T18:15:53.170346+00:00",
+ "generated_at": "2026-08-07T18:30:59.578287+00:00",
  "assets": [
   {
    "symbol": "C98",
@@ -43,6 +43,14 @@
    "file": "BROCCOLI714.png"
   },
   {
+   "symbol": "NIL",
+   "name": "Nillion",
+   "sigma": 3.05,
+   "from_btc_pct": 16,
+   "verdict": "Neutral",
+   "file": "NIL.png"
+  },
+  {
    "symbol": "ZBT",
    "name": "ZEROBASE",
    "sigma": 2.88,
@@ -81,14 +89,6 @@
    "from_btc_pct": 3,
    "verdict": "Neutral",
    "file": "MUBARAK.png"
-  },
-  {
-   "symbol": "NIL",
-   "name": "Nillion",
-   "sigma": 2.65,
-   "from_btc_pct": 17,
-   "verdict": "Neutral",
-   "file": "NIL.png"
   },
   {
    "symbol": "KMNO",
