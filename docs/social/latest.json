@@ -1,6 +1,6 @@
 {
  "date": "2026-08-07",
- "generated_at": "2026-08-07T06:00:52.257524+00:00",
+ "generated_at": "2026-08-07T06:30:47.861240+00:00",
  "assets": [
   {
    "symbol": "XAI",
@@ -9,6 +9,14 @@
    "from_btc_pct": 4,
    "verdict": "Neutral",
    "file": "XAI.png"
+  },
+  {
+   "symbol": "TUT",
+   "name": "Tutorial",
+   "sigma": 3.16,
+   "from_btc_pct": 4,
+   "verdict": "Overbought",
+   "file": "TUT.png"
   },
   {
    "symbol": "ACE",
@@ -33,14 +41,6 @@
    "from_btc_pct": 5,
    "verdict": "Oversold",
    "file": "ZKP.png"
-  },
-  {
-   "symbol": "TUT",
-   "name": "Tutorial",
-   "sigma": 2.79,
-   "from_btc_pct": 4,
-   "verdict": "Overbought",
-   "file": "TUT.png"
   },
   {
    "symbol": "KMNO",
