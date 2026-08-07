@@ -1,6 +1,6 @@
 {
  "date": "2026-08-07",
- "generated_at": "2026-08-07T14:15:49.491559+00:00",
+ "generated_at": "2026-08-07T15:45:49.035444+00:00",
  "assets": [
   {
    "symbol": "C98",
@@ -33,6 +33,14 @@
    "from_btc_pct": 4,
    "verdict": "Overbought",
    "file": "TUT.png"
+  },
+  {
+   "symbol": "BROCCOLI714",
+   "name": null,
+   "sigma": 3.11,
+   "from_btc_pct": 2,
+   "verdict": "Overbought",
+   "file": "BROCCOLI714.png"
   },
   {
    "symbol": "ZBT",
@@ -89,14 +97,6 @@
    "from_btc_pct": 8,
    "verdict": "Oversold",
    "file": "BONK.png"
-  },
-  {
-   "symbol": "ESP",
-   "name": "Espresso",
-   "sigma": 2.53,
-   "from_btc_pct": 13,
-   "verdict": "Neutral",
-   "file": "ESP.png"
   }
  ]
 }
