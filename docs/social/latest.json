@@ -1,6 +1,6 @@
 {
  "date": "2026-08-07",
- "generated_at": "2026-08-07T21:00:58.153942+00:00",
+ "generated_at": "2026-08-07T21:55:50.897290+00:00",
  "assets": [
   {
    "symbol": "C98",
@@ -83,20 +83,20 @@
    "file": "HFT.png"
   },
   {
+   "symbol": "VIC",
+   "name": "Viction",
+   "sigma": 2.8,
+   "from_btc_pct": 1,
+   "verdict": "Neutral",
+   "file": "VIC.png"
+  },
+  {
    "symbol": "ACE",
    "name": "Fusionist",
    "sigma": 2.76,
    "from_btc_pct": 1,
    "verdict": "Overbought",
    "file": "ACE.png"
-  },
-  {
-   "symbol": "VIC",
-   "name": "Viction",
-   "sigma": 2.76,
-   "from_btc_pct": 1,
-   "verdict": "Neutral",
-   "file": "VIC.png"
   }
  ]
 }
