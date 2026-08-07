@@ -1,6 +1,6 @@
 {
  "date": "2026-08-07",
- "generated_at": "2026-08-07T13:15:51.380859+00:00",
+ "generated_at": "2026-08-07T14:15:49.491559+00:00",
  "assets": [
   {
    "symbol": "C98",
@@ -67,14 +67,6 @@
    "file": "ACE.png"
   },
   {
-   "symbol": "BONK",
-   "name": "Bonk",
-   "sigma": 2.71,
-   "from_btc_pct": 6,
-   "verdict": "Oversold",
-   "file": "BONK.png"
-  },
-  {
    "symbol": "KMNO",
    "name": "Kamino",
    "sigma": 2.63,
@@ -89,6 +81,14 @@
    "from_btc_pct": 0,
    "verdict": "Neutral",
    "file": "TST.png"
+  },
+  {
+   "symbol": "BONK",
+   "name": "Bonk",
+   "sigma": 2.59,
+   "from_btc_pct": 8,
+   "verdict": "Oversold",
+   "file": "BONK.png"
   },
   {
    "symbol": "ESP",
