@@ -1,6 +1,6 @@
 {
  "date": "2026-08-07",
- "generated_at": "2026-08-07T16:09:05.297123+00:00",
+ "generated_at": "2026-08-07T16:15:55.571840+00:00",
  "assets": [
   {
    "symbol": "C98",
@@ -35,14 +35,6 @@
    "file": "TUT.png"
   },
   {
-   "symbol": "BROCCOLI714",
-   "name": null,
-   "sigma": 3.11,
-   "from_btc_pct": 2,
-   "verdict": "Overbought",
-   "file": "BROCCOLI714.png"
-  },
-  {
    "symbol": "ZBT",
    "name": "ZEROBASE",
    "sigma": 2.88,
@@ -57,6 +49,14 @@
    "from_btc_pct": 5,
    "verdict": "Oversold",
    "file": "ZKP.png"
+  },
+  {
+   "symbol": "BROCCOLI714",
+   "name": null,
+   "sigma": 2.85,
+   "from_btc_pct": 2,
+   "verdict": "Overbought",
+   "file": "BROCCOLI714.png"
   },
   {
    "symbol": "HFT",
