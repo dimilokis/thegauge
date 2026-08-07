@@ -1,6 +1,6 @@
 {
  "date": "2026-08-07",
- "generated_at": "2026-08-07T12:26:33.281876+00:00",
+ "generated_at": "2026-08-07T13:15:51.380859+00:00",
  "assets": [
   {
    "symbol": "C98",
@@ -65,6 +65,14 @@
    "from_btc_pct": 1,
    "verdict": "Overbought",
    "file": "ACE.png"
+  },
+  {
+   "symbol": "BONK",
+   "name": "Bonk",
+   "sigma": 2.71,
+   "from_btc_pct": 6,
+   "verdict": "Oversold",
+   "file": "BONK.png"
   },
   {
    "symbol": "KMNO",
