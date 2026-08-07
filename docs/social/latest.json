@@ -1,6 +1,6 @@
 {
  "date": "2026-08-07",
- "generated_at": "2026-08-07T20:15:52.118136+00:00",
+ "generated_at": "2026-08-07T20:45:54.851923+00:00",
  "assets": [
   {
    "symbol": "C98",
@@ -93,7 +93,7 @@
   {
    "symbol": "VIC",
    "name": "Viction",
-   "sigma": 2.66,
+   "sigma": 2.76,
    "from_btc_pct": 1,
    "verdict": "Neutral",
    "file": "VIC.png"
