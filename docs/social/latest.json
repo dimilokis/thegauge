@@ -1,6 +1,6 @@
 {
  "date": "2026-08-07",
- "generated_at": "2026-08-07T10:00:56.362101+00:00",
+ "generated_at": "2026-08-07T11:45:51.820219+00:00",
  "assets": [
   {
    "symbol": "C98",
@@ -81,6 +81,14 @@
    "from_btc_pct": 0,
    "verdict": "Neutral",
    "file": "TST.png"
+  },
+  {
+   "symbol": "ESP",
+   "name": "Espresso",
+   "sigma": 2.53,
+   "from_btc_pct": 13,
+   "verdict": "Neutral",
+   "file": "ESP.png"
   }
  ]
 }
