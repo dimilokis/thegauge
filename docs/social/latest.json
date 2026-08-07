@@ -1,6 +1,6 @@
 {
  "date": "2026-08-07",
- "generated_at": "2026-08-07T06:45:50.646318+00:00",
+ "generated_at": "2026-08-07T07:45:46.619360+00:00",
  "assets": [
   {
    "symbol": "XAI",
@@ -11,20 +11,20 @@
    "file": "XAI.png"
   },
   {
+   "symbol": "ACE",
+   "name": "Fusionist",
+   "sigma": 3.94,
+   "from_btc_pct": 2,
+   "verdict": "Overbought",
+   "file": "ACE.png"
+  },
+  {
    "symbol": "TUT",
    "name": "Tutorial",
    "sigma": 3.16,
    "from_btc_pct": 4,
    "verdict": "Overbought",
    "file": "TUT.png"
-  },
-  {
-   "symbol": "ACE",
-   "name": "Fusionist",
-   "sigma": 2.91,
-   "from_btc_pct": 2,
-   "verdict": "Overbought",
-   "file": "ACE.png"
   },
   {
    "symbol": "ZBT",
