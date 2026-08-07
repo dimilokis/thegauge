@@ -1,6 +1,6 @@
 {
  "date": "2026-08-06",
- "generated_at": "2026-08-07T01:00:58.380379+00:00",
+ "generated_at": "2026-08-07T02:30:56.391237+00:00",
  "assets": [
   {
    "symbol": "CTSI",
@@ -9,6 +9,14 @@
    "from_btc_pct": 2,
    "verdict": "Overbought",
    "file": "CTSI.png"
+  },
+  {
+   "symbol": "KMNO",
+   "name": "Kamino",
+   "sigma": 4.43,
+   "from_btc_pct": 0,
+   "verdict": "Overbought",
+   "file": "KMNO.png"
   },
   {
    "symbol": "ENSO",
@@ -89,14 +97,6 @@
    "from_btc_pct": 6,
    "verdict": "Overbought",
    "file": "BICO.png"
-  },
-  {
-   "symbol": "HYPER",
-   "name": "Hyperlane",
-   "sigma": 2.61,
-   "from_btc_pct": 21,
-   "verdict": "Neutral",
-   "file": "HYPER.png"
   }
  ]
 }
