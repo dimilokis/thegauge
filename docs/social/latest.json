@@ -1,6 +1,6 @@
 {
  "date": "2026-08-07",
- "generated_at": "2026-08-07T16:15:55.571840+00:00",
+ "generated_at": "2026-08-07T16:46:00.439780+00:00",
  "assets": [
   {
    "symbol": "C98",
@@ -75,6 +75,14 @@
    "file": "ACE.png"
   },
   {
+   "symbol": "MUBARAK",
+   "name": "Mubarak",
+   "sigma": 2.65,
+   "from_btc_pct": 2,
+   "verdict": "Neutral",
+   "file": "MUBARAK.png"
+  },
+  {
    "symbol": "KMNO",
    "name": "Kamino",
    "sigma": 2.63,
@@ -83,20 +91,12 @@
    "file": "KMNO.png"
   },
   {
-   "symbol": "TST",
-   "name": "Test",
-   "sigma": 2.62,
-   "from_btc_pct": 0,
-   "verdict": "Neutral",
-   "file": "TST.png"
-  },
-  {
-   "symbol": "BONK",
-   "name": "Bonk",
-   "sigma": 2.59,
-   "from_btc_pct": 8,
-   "verdict": "Oversold",
-   "file": "BONK.png"
+   "symbol": "BICO",
+   "name": "Biconomy",
+   "sigma": 2.63,
+   "from_btc_pct": 5,
+   "verdict": "Overbought",
+   "file": "BICO.png"
   }
  ]
 }
