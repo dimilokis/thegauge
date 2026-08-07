@@ -1,6 +1,6 @@
 {
  "date": "2026-08-07",
- "generated_at": "2026-08-07T17:30:49.220178+00:00",
+ "generated_at": "2026-08-07T18:08:13.626677+00:00",
  "assets": [
   {
    "symbol": "C98",
@@ -83,20 +83,20 @@
    "file": "MUBARAK.png"
   },
   {
+   "symbol": "NIL",
+   "name": "Nillion",
+   "sigma": 2.65,
+   "from_btc_pct": 17,
+   "verdict": "Neutral",
+   "file": "NIL.png"
+  },
+  {
    "symbol": "KMNO",
    "name": "Kamino",
    "sigma": 2.63,
    "from_btc_pct": 0,
    "verdict": "Neutral",
    "file": "KMNO.png"
-  },
-  {
-   "symbol": "BICO",
-   "name": "Biconomy",
-   "sigma": 2.63,
-   "from_btc_pct": 5,
-   "verdict": "Overbought",
-   "file": "BICO.png"
   }
  ]
 }
