@@ -1,6 +1,6 @@
 {
  "date": "2026-08-08",
- "generated_at": "2026-08-08T20:45:47.489390+00:00",
+ "generated_at": "2026-08-08T20:54:05.239246+00:00",
  "assets": [
   {
    "symbol": "GLMR",
@@ -53,7 +53,7 @@
   {
    "symbol": "CATI",
    "name": "Catizen",
-   "sigma": 2.85,
+   "sigma": 2.8,
    "from_btc_pct": 2,
    "verdict": "Neutral",
    "file": "CATI.png"
