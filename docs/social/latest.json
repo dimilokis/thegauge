@@ -1,102 +1,14 @@
 {
- "date": "2026-08-07",
- "generated_at": "2026-08-07T23:32:55.298682+00:00",
+ "date": "2026-08-08",
+ "generated_at": "2026-08-08T03:15:57.139140+00:00",
  "assets": [
   {
    "symbol": "C98",
    "name": "Coin98",
-   "sigma": 9.1,
-   "from_btc_pct": 5,
+   "sigma": 2.77,
+   "from_btc_pct": 4,
    "verdict": "Neutral",
    "file": "C98.png"
-  },
-  {
-   "symbol": "XAI",
-   "name": "Xai",
-   "sigma": 8.91,
-   "from_btc_pct": 4,
-   "verdict": "Neutral",
-   "file": "XAI.png"
-  },
-  {
-   "symbol": "ACX",
-   "name": "Across Protocol",
-   "sigma": 3.94,
-   "from_btc_pct": 7,
-   "verdict": "Neutral",
-   "file": "ACX.png"
-  },
-  {
-   "symbol": "TUT",
-   "name": "Tutorial",
-   "sigma": 3.16,
-   "from_btc_pct": 4,
-   "verdict": "Overbought",
-   "file": "TUT.png"
-  },
-  {
-   "symbol": "BROCCOLI714",
-   "name": null,
-   "sigma": 3.14,
-   "from_btc_pct": 3,
-   "verdict": "Overbought",
-   "file": "BROCCOLI714.png"
-  },
-  {
-   "symbol": "NIL",
-   "name": "Nillion",
-   "sigma": 3.05,
-   "from_btc_pct": 16,
-   "verdict": "Neutral",
-   "file": "NIL.png"
-  },
-  {
-   "symbol": "ZBT",
-   "name": "ZEROBASE",
-   "sigma": 2.88,
-   "from_btc_pct": 3,
-   "verdict": "Neutral",
-   "file": "ZBT.png"
-  },
-  {
-   "symbol": "BICO",
-   "name": "Biconomy",
-   "sigma": 2.87,
-   "from_btc_pct": 6,
-   "verdict": "Overbought",
-   "file": "BICO.png"
-  },
-  {
-   "symbol": "ZKP",
-   "name": "zkPass",
-   "sigma": 2.85,
-   "from_btc_pct": 5,
-   "verdict": "Oversold",
-   "file": "ZKP.png"
-  },
-  {
-   "symbol": "HFT",
-   "name": "Hashflow",
-   "sigma": 2.8,
-   "from_btc_pct": 0,
-   "verdict": "Neutral",
-   "file": "HFT.png"
-  },
-  {
-   "symbol": "VIC",
-   "name": "Viction",
-   "sigma": 2.8,
-   "from_btc_pct": 1,
-   "verdict": "Neutral",
-   "file": "VIC.png"
-  },
-  {
-   "symbol": "ACE",
-   "name": "Fusionist",
-   "sigma": 2.76,
-   "from_btc_pct": 1,
-   "verdict": "Overbought",
-   "file": "ACE.png"
   }
  ]
 }
