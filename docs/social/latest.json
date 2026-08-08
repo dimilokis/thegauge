@@ -1,6 +1,6 @@
 {
  "date": "2026-08-08",
- "generated_at": "2026-08-08T18:30:53.442584+00:00",
+ "generated_at": "2026-08-08T18:45:59.416284+00:00",
  "assets": [
   {
    "symbol": "PIXEL",
@@ -43,20 +43,20 @@
    "file": "MUBARAK.png"
   },
   {
+   "symbol": "CATI",
+   "name": "Catizen",
+   "sigma": 2.85,
+   "from_btc_pct": 2,
+   "verdict": "Neutral",
+   "file": "CATI.png"
+  },
+  {
    "symbol": "CETUS",
    "name": "Cetus Protocol",
    "sigma": 2.84,
    "from_btc_pct": 32,
    "verdict": "Neutral",
    "file": "CETUS.png"
-  },
-  {
-   "symbol": "CATI",
-   "name": "Catizen",
-   "sigma": 2.78,
-   "from_btc_pct": 2,
-   "verdict": "Neutral",
-   "file": "CATI.png"
   },
   {
    "symbol": "ACE",
