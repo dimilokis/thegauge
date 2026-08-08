@@ -1,6 +1,6 @@
 {
  "date": "2026-08-08",
- "generated_at": "2026-08-08T16:00:51.389627+00:00",
+ "generated_at": "2026-08-08T16:15:53.192913+00:00",
  "assets": [
   {
    "symbol": "CETUS",
@@ -9,6 +9,14 @@
    "from_btc_pct": 11,
    "verdict": "Neutral",
    "file": "CETUS.png"
+  },
+  {
+   "symbol": "TST",
+   "name": "Test",
+   "sigma": 3.92,
+   "from_btc_pct": 0,
+   "verdict": "Overbought",
+   "file": "TST.png"
   },
   {
    "symbol": "1000CAT",
@@ -49,14 +57,6 @@
    "from_btc_pct": 2,
    "verdict": "Overbought",
    "file": "ACE.png"
-  },
-  {
-   "symbol": "TST",
-   "name": "Test",
-   "sigma": 2.65,
-   "from_btc_pct": 0,
-   "verdict": "Neutral",
-   "file": "TST.png"
   },
   {
    "symbol": "C98",
