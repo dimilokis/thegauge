@@ -1,6 +1,6 @@
 {
  "date": "2026-08-08",
- "generated_at": "2026-08-08T17:15:59.841616+00:00",
+ "generated_at": "2026-08-08T17:30:59.866447+00:00",
  "assets": [
   {
    "symbol": "PIXEL",
@@ -17,14 +17,6 @@
    "from_btc_pct": 0,
    "verdict": "Neutral",
    "file": "COOKIE.png"
-  },
-  {
-   "symbol": "TST",
-   "name": "Test",
-   "sigma": 3.92,
-   "from_btc_pct": 0,
-   "verdict": "Overbought",
-   "file": "TST.png"
   },
   {
    "symbol": "1000CAT",
@@ -73,6 +65,14 @@
    "from_btc_pct": 2,
    "verdict": "Overbought",
    "file": "ACE.png"
+  },
+  {
+   "symbol": "TST",
+   "name": "Test",
+   "sigma": 2.69,
+   "from_btc_pct": 0,
+   "verdict": "Overbought",
+   "file": "TST.png"
   },
   {
    "symbol": "C98",
