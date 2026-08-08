@@ -1,6 +1,6 @@
 {
  "date": "2026-08-08",
- "generated_at": "2026-08-08T21:00:58.353408+00:00",
+ "generated_at": "2026-08-08T21:15:51.696454+00:00",
  "assets": [
   {
    "symbol": "GLMR",
@@ -27,6 +27,14 @@
    "file": "1000CAT.png"
   },
   {
+   "symbol": "XAI",
+   "name": "Xai",
+   "sigma": 3.33,
+   "from_btc_pct": 10,
+   "verdict": "Neutral",
+   "file": "XAI.png"
+  },
+  {
    "symbol": "DODO",
    "name": "DODO",
    "sigma": 3.29,
@@ -41,14 +49,6 @@
    "from_btc_pct": 6,
    "verdict": "Overbought",
    "file": "MMT.png"
-  },
-  {
-   "symbol": "MUBARAK",
-   "name": "Mubarak",
-   "sigma": 2.85,
-   "from_btc_pct": 2,
-   "verdict": "Overbought",
-   "file": "MUBARAK.png"
   },
   {
    "symbol": "CATI",
@@ -91,12 +91,12 @@
    "file": "CETUS.png"
   },
   {
-   "symbol": "C98",
-   "name": "Coin98",
-   "sigma": 2.52,
-   "from_btc_pct": 4,
-   "verdict": "Neutral",
-   "file": "C98.png"
+   "symbol": "MUBARAK",
+   "name": "Mubarak",
+   "sigma": 2.63,
+   "from_btc_pct": 2,
+   "verdict": "Overbought",
+   "file": "MUBARAK.png"
   }
  ]
 }
