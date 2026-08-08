@@ -1,11 +1,11 @@
 {
  "date": "2026-08-08",
- "generated_at": "2026-08-08T03:15:57.139140+00:00",
+ "generated_at": "2026-08-08T05:31:04.532473+00:00",
  "assets": [
   {
    "symbol": "C98",
    "name": "Coin98",
-   "sigma": 2.77,
+   "sigma": 2.71,
    "from_btc_pct": 4,
    "verdict": "Neutral",
    "file": "C98.png"
