@@ -1,6 +1,6 @@
 {
  "date": "2026-08-08",
- "generated_at": "2026-08-08T20:54:05.239246+00:00",
+ "generated_at": "2026-08-08T21:00:58.353408+00:00",
  "assets": [
   {
    "symbol": "GLMR",
@@ -85,7 +85,7 @@
   {
    "symbol": "CETUS",
    "name": "Cetus Protocol",
-   "sigma": 2.55,
+   "sigma": 2.63,
    "from_btc_pct": 32,
    "verdict": "Neutral",
    "file": "CETUS.png"
