@@ -1,6 +1,6 @@
 {
  "date": "2026-08-08",
- "generated_at": "2026-08-08T17:43:54.539812+00:00",
+ "generated_at": "2026-08-08T17:45:52.322809+00:00",
  "assets": [
   {
    "symbol": "PIXEL",
@@ -9,14 +9,6 @@
    "from_btc_pct": 3,
    "verdict": "Neutral",
    "file": "PIXEL.png"
-  },
-  {
-   "symbol": "COOKIE",
-   "name": "Cookie DAO",
-   "sigma": 4.02,
-   "from_btc_pct": 0,
-   "verdict": "Neutral",
-   "file": "COOKIE.png"
   },
   {
    "symbol": "1000CAT",
@@ -73,6 +65,14 @@
    "from_btc_pct": 0,
    "verdict": "Overbought",
    "file": "TST.png"
+  },
+  {
+   "symbol": "COOKIE",
+   "name": "Cookie DAO",
+   "sigma": 2.69,
+   "from_btc_pct": 1,
+   "verdict": "Neutral",
+   "file": "COOKIE.png"
   },
   {
    "symbol": "C98",
