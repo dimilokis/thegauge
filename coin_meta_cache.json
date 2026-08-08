@@ -151,6 +151,10 @@
   "icon": "https://coin-images.coingecko.com/coins/images/780/large/bitcoin-cash-circle.png?1696501932",
   "name": "Bitcoin Cash"
  },
+ "BEL": {
+  "icon": "https://coin-images.coingecko.com/coins/images/12478/large/Bella.png",
+  "name": "Bella Protocol"
+ },
  "BERA": {
   "icon": "https://coin-images.coingecko.com/coins/images/25235/large/BERA.png?1738822008",
   "name": "Berachain"
@@ -546,6 +550,10 @@
  "LUNC": {
   "icon": "https://coin-images.coingecko.com/coins/images/8284/large/01_LunaClassic_color.png?1696508486",
   "name": "Terra Luna Classic"
+ },
+ "MAGIC": {
+  "icon": "https://coin-images.coingecko.com/coins/images/18623/large/magic.png",
+  "name": "Treasure"
  },
  "MANTRA": {
   "icon": "https://coin-images.coingecko.com/coins/images/102172151/large/OM_Token_Primary-1K.png?1771922964",
