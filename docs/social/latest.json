@@ -1,6 +1,6 @@
 {
  "date": "2026-08-08",
- "generated_at": "2026-08-08T19:30:52.258994+00:00",
+ "generated_at": "2026-08-08T20:30:52.707917+00:00",
  "assets": [
   {
    "symbol": "PIXEL",
@@ -51,14 +51,6 @@
    "file": "CATI.png"
   },
   {
-   "symbol": "CETUS",
-   "name": "Cetus Protocol",
-   "sigma": 2.84,
-   "from_btc_pct": 32,
-   "verdict": "Neutral",
-   "file": "CETUS.png"
-  },
-  {
    "symbol": "TST",
    "name": "Test",
    "sigma": 2.79,
@@ -81,6 +73,14 @@
    "from_btc_pct": 1,
    "verdict": "Neutral",
    "file": "COOKIE.png"
+  },
+  {
+   "symbol": "CETUS",
+   "name": "Cetus Protocol",
+   "sigma": 2.55,
+   "from_btc_pct": 32,
+   "verdict": "Neutral",
+   "file": "CETUS.png"
   },
   {
    "symbol": "C98",
