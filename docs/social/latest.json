@@ -1,6 +1,6 @@
 {
  "date": "2026-08-08",
- "generated_at": "2026-08-08T10:45:49.412548+00:00",
+ "generated_at": "2026-08-08T11:52:16.870363+00:00",
  "assets": [
   {
    "symbol": "DODO",
@@ -17,6 +17,14 @@
    "from_btc_pct": 6,
    "verdict": "Overbought",
    "file": "MMT.png"
+  },
+  {
+   "symbol": "TST",
+   "name": "Test",
+   "sigma": 2.8,
+   "from_btc_pct": 0,
+   "verdict": "Overbought",
+   "file": "TST.png"
   },
   {
    "symbol": "C98",
