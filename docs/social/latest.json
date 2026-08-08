@@ -1,6 +1,6 @@
 {
  "date": "2026-08-08",
- "generated_at": "2026-08-08T11:52:16.870363+00:00",
+ "generated_at": "2026-08-08T13:00:58.928970+00:00",
  "assets": [
   {
    "symbol": "DODO",
@@ -29,7 +29,7 @@
   {
    "symbol": "C98",
    "name": "Coin98",
-   "sigma": 2.62,
+   "sigma": 2.54,
    "from_btc_pct": 4,
    "verdict": "Neutral",
    "file": "C98.png"
