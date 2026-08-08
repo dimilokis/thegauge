@@ -1,7 +1,15 @@
 {
  "date": "2026-08-08",
- "generated_at": "2026-08-08T20:30:52.707917+00:00",
+ "generated_at": "2026-08-08T20:45:47.489390+00:00",
  "assets": [
+  {
+   "symbol": "GLMR",
+   "name": "Moonbeam",
+   "sigma": 7.74,
+   "from_btc_pct": 5,
+   "verdict": "Neutral",
+   "file": "GLMR.png"
+  },
   {
    "symbol": "PIXEL",
    "name": "Pixels",
@@ -89,14 +97,6 @@
    "from_btc_pct": 4,
    "verdict": "Neutral",
    "file": "C98.png"
-  },
-  {
-   "symbol": "TUT",
-   "name": "Tutorial",
-   "sigma": 2.51,
-   "from_btc_pct": 4,
-   "verdict": "Overbought",
-   "file": "TUT.png"
   }
  ]
 }
