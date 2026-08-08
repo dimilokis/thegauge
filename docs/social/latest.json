@@ -1,7 +1,15 @@
 {
  "date": "2026-08-08",
- "generated_at": "2026-08-08T14:15:47.528612+00:00",
+ "generated_at": "2026-08-08T14:54:58.466917+00:00",
  "assets": [
+  {
+   "symbol": "CETUS",
+   "name": "Cetus Protocol",
+   "sigma": 10.25,
+   "from_btc_pct": 11,
+   "verdict": "Neutral",
+   "file": "CETUS.png"
+  },
   {
    "symbol": "1000CAT",
    "name": "1000CAT",

@@ -199,6 +199,10 @@
   "icon": "https://coin-images.coingecko.com/coins/images/12632/large/pancakeswap-cake-logo_%281%29.png?1696512440",
   "name": "PancakeSwap"
  },
+ "CETUS": {
+  "icon": "https://coin-images.coingecko.com/coins/images/30256/large/cetus.png",
+  "name": "Cetus Protocol"
+ },
  "CFG": {
   "icon": "https://coin-images.coingecko.com/coins/images/55913/large/centrifuge.jpg?1747707741",
   "name": "Centrifuge"
