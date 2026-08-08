@@ -1,6 +1,6 @@
 {
  "date": "2026-08-08",
- "generated_at": "2026-08-08T22:45:51.175093+00:00",
+ "generated_at": "2026-08-08T23:41:49.800051+00:00",
  "assets": [
   {
    "symbol": "GLMR",
@@ -93,7 +93,7 @@
   {
    "symbol": "C98",
    "name": "Coin98",
-   "sigma": 2.56,
+   "sigma": 2.54,
    "from_btc_pct": 4,
    "verdict": "Neutral",
    "file": "C98.png"
