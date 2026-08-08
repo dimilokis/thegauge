@@ -1,6 +1,6 @@
 {
  "date": "2026-08-08",
- "generated_at": "2026-08-08T18:15:51.769358+00:00",
+ "generated_at": "2026-08-08T18:30:53.442584+00:00",
  "assets": [
   {
    "symbol": "PIXEL",
@@ -37,8 +37,8 @@
   {
    "symbol": "MUBARAK",
    "name": "Mubarak",
-   "sigma": 2.93,
-   "from_btc_pct": 1,
+   "sigma": 2.85,
+   "from_btc_pct": 2,
    "verdict": "Overbought",
    "file": "MUBARAK.png"
   },
