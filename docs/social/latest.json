@@ -1,6 +1,6 @@
 {
  "date": "2026-08-08",
- "generated_at": "2026-08-08T21:43:15.741274+00:00",
+ "generated_at": "2026-08-08T22:01:05.749065+00:00",
  "assets": [
   {
    "symbol": "GLMR",
@@ -43,6 +43,14 @@
    "file": "DODO.png"
   },
   {
+   "symbol": "TST",
+   "name": "Test",
+   "sigma": 3.29,
+   "from_btc_pct": 0,
+   "verdict": "Overbought",
+   "file": "TST.png"
+  },
+  {
    "symbol": "MMT",
    "name": "Momentum",
    "sigma": 3.18,
@@ -57,14 +65,6 @@
    "from_btc_pct": 2,
    "verdict": "Neutral",
    "file": "CATI.png"
-  },
-  {
-   "symbol": "TST",
-   "name": "Test",
-   "sigma": 2.79,
-   "from_btc_pct": 0,
-   "verdict": "Overbought",
-   "file": "TST.png"
   },
   {
    "symbol": "ACE",
