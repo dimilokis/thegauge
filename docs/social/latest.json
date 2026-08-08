@@ -1,6 +1,6 @@
 {
  "date": "2026-08-08",
- "generated_at": "2026-08-08T16:45:51.073316+00:00",
+ "generated_at": "2026-08-08T16:58:14.079301+00:00",
  "assets": [
   {
    "symbol": "CETUS",
@@ -61,8 +61,8 @@
   {
    "symbol": "MUBARAK",
    "name": "Mubarak",
-   "sigma": 2.95,
-   "from_btc_pct": 2,
+   "sigma": 2.93,
+   "from_btc_pct": 1,
    "verdict": "Overbought",
    "file": "MUBARAK.png"
   },
