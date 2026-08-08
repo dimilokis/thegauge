@@ -287,6 +287,10 @@
   "icon": "https://coin-images.coingecko.com/coins/images/12171/large/polkadot.jpg?1766533446",
   "name": "Polkadot"
  },
+ "DUSK": {
+  "icon": "https://coin-images.coingecko.com/coins/images/5217/large/image_widget_biddfvxd454b1.png",
+  "name": "DUSK"
+ },
  "DYDX": {
   "icon": "https://coin-images.coingecko.com/coins/images/32594/large/dydx.png?1698673495",
   "name": "dYdX"
