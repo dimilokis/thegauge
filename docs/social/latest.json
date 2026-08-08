@@ -1,7 +1,15 @@
 {
  "date": "2026-08-08",
- "generated_at": "2026-08-08T13:00:58.928970+00:00",
+ "generated_at": "2026-08-08T14:15:47.528612+00:00",
  "assets": [
+  {
+   "symbol": "1000CAT",
+   "name": "1000CAT",
+   "sigma": 3.45,
+   "from_btc_pct": 4,
+   "verdict": "Overbought",
+   "file": "1000CAT.png"
+  },
   {
    "symbol": "DODO",
    "name": "DODO",
@@ -21,9 +29,9 @@
   {
    "symbol": "TST",
    "name": "Test",
-   "sigma": 2.8,
+   "sigma": 2.65,
    "from_btc_pct": 0,
-   "verdict": "Overbought",
+   "verdict": "Neutral",
    "file": "TST.png"
   },
   {
