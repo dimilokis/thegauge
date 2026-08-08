@@ -1,6 +1,6 @@
 {
  "date": "2026-08-08",
- "generated_at": "2026-08-08T21:15:51.696454+00:00",
+ "generated_at": "2026-08-08T21:43:15.741274+00:00",
  "assets": [
   {
    "symbol": "GLMR",
@@ -83,20 +83,20 @@
    "file": "COOKIE.png"
   },
   {
-   "symbol": "CETUS",
-   "name": "Cetus Protocol",
-   "sigma": 2.63,
-   "from_btc_pct": 32,
-   "verdict": "Neutral",
-   "file": "CETUS.png"
-  },
-  {
    "symbol": "MUBARAK",
    "name": "Mubarak",
    "sigma": 2.63,
    "from_btc_pct": 2,
    "verdict": "Overbought",
    "file": "MUBARAK.png"
+  },
+  {
+   "symbol": "CETUS",
+   "name": "Cetus Protocol",
+   "sigma": 2.52,
+   "from_btc_pct": 32,
+   "verdict": "Neutral",
+   "file": "CETUS.png"
   }
  ]
 }
