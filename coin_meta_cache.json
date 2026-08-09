@@ -299,6 +299,10 @@
   "icon": "https://coin-images.coingecko.com/coins/images/32594/large/dydx.png?1698673495",
   "name": "dYdX"
  },
+ "DYM": {
+  "icon": "https://coin-images.coingecko.com/coins/images/34182/large/dym.png",
+  "name": "Dymension"
+ },
  "EDEN": {
   "icon": "https://coin-images.coingecko.com/coins/images/68283/large/eden.png?1755242478",
   "name": "OpenEden"
