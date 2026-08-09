@@ -155,6 +155,10 @@
   "icon": "https://coin-images.coingecko.com/coins/images/68404/large/bard.png?1755657543",
   "name": "Lombard"
  },
+ "BB": {
+  "icon": "https://coin-images.coingecko.com/coins/images/37144/large/bb.jpeg",
+  "name": "BounceBit"
+ },
  "BCH": {
   "icon": "https://coin-images.coingecko.com/coins/images/780/large/bitcoin-cash-circle.png?1696501932",
   "name": "Bitcoin Cash"
