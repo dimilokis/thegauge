@@ -1,6 +1,6 @@
 {
  "date": "2026-08-09",
- "generated_at": "2026-08-09T09:15:47.631611+00:00",
+ "generated_at": "2026-08-09T10:00:58.191138+00:00",
  "assets": [
   {
    "symbol": "BMT",
@@ -67,20 +67,20 @@
    "file": "XAI.png"
   },
   {
-   "symbol": "GLMR",
-   "name": "Moonbeam",
-   "sigma": 2.65,
-   "from_btc_pct": 4,
-   "verdict": "Neutral",
-   "file": "GLMR.png"
-  },
-  {
    "symbol": "1000CAT",
    "name": "Simon's Cat",
    "sigma": 2.65,
    "from_btc_pct": 1,
    "verdict": "Overbought",
    "file": "1000CAT.png"
+  },
+  {
+   "symbol": "GLMR",
+   "name": "Moonbeam",
+   "sigma": 2.5,
+   "from_btc_pct": 3,
+   "verdict": "Neutral",
+   "file": "GLMR.png"
   }
  ]
 }
