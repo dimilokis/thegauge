@@ -4,8 +4,8 @@
   "name": "0G"
  },
  "1000CAT": {
-  "icon": "https://coin-images.coingecko.com/coins/images/52824/large/cat.jpg",
-  "name": "1000CAT"
+  "icon": "https://coin-images.coingecko.com/coins/images/39765/large/Dv9GheV0_400x400.jpg?1756951559",
+  "name": "Simon's Cat"
  },
  "1000CHEEMS": {
   "icon": "https://coin-images.coingecko.com/coins/images/52984/large/1000chems.jpg",
@@ -195,6 +195,10 @@
   "icon": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400",
   "name": "Bitcoin"
  },
+ "C": {
+  "icon": "https://coin-images.coingecko.com/coins/images/67281/large/chainbase.jpg?1752294319",
+  "name": "Chainbase"
+ },
  "C98": {
   "icon": "https://coin-images.coingecko.com/coins/images/17117/large/logo.png?1696516677",
   "name": "Coin98"
@@ -204,11 +208,11 @@
   "name": "PancakeSwap"
  },
  "CATI": {
-  "icon": "https://coin-images.coingecko.com/coins/images/50236/large/cati.png",
+  "icon": "https://coin-images.coingecko.com/coins/images/50236/large/cati.png?1726638258",
   "name": "Catizen"
  },
  "CETUS": {
-  "icon": "https://coin-images.coingecko.com/coins/images/30256/large/cetus.png",
+  "icon": "https://coin-images.coingecko.com/coins/images/30256/large/cetus.png?1696529165",
   "name": "Cetus Protocol"
  },
  "CFG": {
@@ -232,7 +236,7 @@
   "name": "Chiliz"
  },
  "COOKIE": {
-  "icon": "https://coin-images.coingecko.com/coins/images/38450/large/cookie_token_logo_200x200.png",
+  "icon": "https://coin-images.coingecko.com/coins/images/38450/large/cookie_token_logo_200x200.png?1733194528",
   "name": "Cookie DAO"
  },
  "COTI": {
@@ -288,7 +292,7 @@
   "name": "Polkadot"
  },
  "DUSK": {
-  "icon": "https://coin-images.coingecko.com/coins/images/5217/large/image_widget_biddfvxd454b1.png",
+  "icon": "https://coin-images.coingecko.com/coins/images/5217/large/image_widget_biddfvxd454b1.png?1696505726",
   "name": "DUSK"
  },
  "DYDX": {
@@ -476,7 +480,7 @@
   "name": "io.net"
  },
  "IOTA": {
-  "icon": "https://coin-images.coingecko.com/coins/images/692/large/IOTA_Thumbnail_%281%29.png",
+  "icon": "https://coin-images.coingecko.com/coins/images/692/large/IOTA_Thumbnail_%281%29.png?1743772896",
   "name": "IOTA"
  },
  "JASMY": {
@@ -564,7 +568,7 @@
   "name": "Terra Luna Classic"
  },
  "MAGIC": {
-  "icon": "https://coin-images.coingecko.com/coins/images/18623/large/magic.png",
+  "icon": "https://coin-images.coingecko.com/coins/images/18623/large/magic.png?1696518095",
   "name": "Treasure"
  },
  "MANTRA": {
