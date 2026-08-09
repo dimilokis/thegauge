@@ -1,6 +1,6 @@
 {
  "date": "2026-08-09",
- "generated_at": "2026-08-09T12:15:52.549121+00:00",
+ "generated_at": "2026-08-09T12:45:52.612153+00:00",
  "assets": [
   {
    "symbol": "BMT",
@@ -25,6 +25,14 @@
    "from_btc_pct": 1,
    "verdict": "Neutral",
    "file": "THE.png"
+  },
+  {
+   "symbol": "PEOPLE",
+   "name": "ConstitutionDAO",
+   "sigma": 3.0,
+   "from_btc_pct": 5,
+   "verdict": "Overbought",
+   "file": "PEOPLE.png"
   },
   {
    "symbol": "MUBARAK",
@@ -89,14 +97,6 @@
    "from_btc_pct": 1,
    "verdict": "Overbought",
    "file": "1000CAT.png"
-  },
-  {
-   "symbol": "SOLV",
-   "name": "Solv Protocol",
-   "sigma": 2.62,
-   "from_btc_pct": 12,
-   "verdict": "Neutral",
-   "file": "SOLV.png"
   }
  ]
 }
