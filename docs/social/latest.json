@@ -1,6 +1,6 @@
 {
  "date": "2026-08-09",
- "generated_at": "2026-08-09T07:00:58.425574+00:00",
+ "generated_at": "2026-08-09T07:39:14.783460+00:00",
  "assets": [
   {
    "symbol": "BMT",
@@ -13,7 +13,7 @@
   {
    "symbol": "MUBARAK",
    "name": "Mubarak",
-   "sigma": 3.68,
+   "sigma": 2.99,
    "from_btc_pct": 2,
    "verdict": "Overbought",
    "file": "MUBARAK.png"
