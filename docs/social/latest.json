@@ -1,6 +1,6 @@
 {
  "date": "2026-08-09",
- "generated_at": "2026-08-09T22:00:58.064874+00:00",
+ "generated_at": "2026-08-09T22:30:56.177807+00:00",
  "assets": [
   {
    "symbol": "BMT",
@@ -33,6 +33,14 @@
    "from_btc_pct": 15,
    "verdict": "Neutral",
    "file": "BB.png"
+  },
+  {
+   "symbol": "PNUT",
+   "name": "Peanut the Squirrel",
+   "sigma": 4.33,
+   "from_btc_pct": 4,
+   "verdict": "Neutral",
+   "file": "PNUT.png"
   },
   {
    "symbol": "CATI",
@@ -89,14 +97,6 @@
    "from_btc_pct": 1,
    "verdict": "Overbought",
    "file": "BROCCOLI714.png"
-  },
-  {
-   "symbol": "CTSI",
-   "name": "Cartesi",
-   "sigma": 2.68,
-   "from_btc_pct": 0,
-   "verdict": "Neutral",
-   "file": "CTSI.png"
   }
  ]
 }
