@@ -1,6 +1,6 @@
 {
  "date": "2026-08-09",
- "generated_at": "2026-08-09T16:01:09.860334+00:00",
+ "generated_at": "2026-08-09T16:15:50.325222+00:00",
  "assets": [
   {
    "symbol": "BMT",
@@ -9,14 +9,6 @@
    "from_btc_pct": 1,
    "verdict": "Overbought",
    "file": "BMT.png"
-  },
-  {
-   "symbol": "SHELL",
-   "name": "MyShell",
-   "sigma": 10.9,
-   "from_btc_pct": 9,
-   "verdict": "Neutral",
-   "file": "SHELL.png"
   },
   {
    "symbol": "JOE",
@@ -97,6 +89,14 @@
    "from_btc_pct": 3,
    "verdict": "Overbought",
    "file": "MMT.png"
+  },
+  {
+   "symbol": "SHELL",
+   "name": "MyShell",
+   "sigma": 2.69,
+   "from_btc_pct": 23,
+   "verdict": "Neutral",
+   "file": "SHELL.png"
   }
  ]
 }
