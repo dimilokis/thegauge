@@ -1,6 +1,6 @@
 {
  "date": "2026-08-09",
- "generated_at": "2026-08-09T15:01:00.096648+00:00",
+ "generated_at": "2026-08-09T15:25:54.367055+00:00",
  "assets": [
   {
    "symbol": "BMT",
@@ -19,14 +19,6 @@
    "file": "SHELL.png"
   },
   {
-   "symbol": "BROCCOLI714",
-   "name": null,
-   "sigma": 5.72,
-   "from_btc_pct": 1,
-   "verdict": "Overbought",
-   "file": "BROCCOLI714.png"
-  },
-  {
    "symbol": "CATI",
    "name": "Catizen",
    "sigma": 4.32,
@@ -43,12 +35,36 @@
    "file": "BOME.png"
   },
   {
+   "symbol": "BROCCOLI714",
+   "name": null,
+   "sigma": 3.6,
+   "from_btc_pct": 1,
+   "verdict": "Overbought",
+   "file": "BROCCOLI714.png"
+  },
+  {
+   "symbol": "PEOPLE",
+   "name": "ConstitutionDAO",
+   "sigma": 3.48,
+   "from_btc_pct": 6,
+   "verdict": "Overbought",
+   "file": "PEOPLE.png"
+  },
+  {
    "symbol": "MUBARAK",
    "name": "Mubarak",
    "sigma": 2.99,
    "from_btc_pct": 2,
    "verdict": "Overbought",
    "file": "MUBARAK.png"
+  },
+  {
+   "symbol": "SOLV",
+   "name": "Solv Protocol",
+   "sigma": 2.99,
+   "from_btc_pct": 14,
+   "verdict": "Neutral",
+   "file": "SOLV.png"
   },
   {
    "symbol": "IOTX",
@@ -67,28 +83,12 @@
    "file": "SAGA.png"
   },
   {
-   "symbol": "SOLV",
-   "name": "Solv Protocol",
-   "sigma": 2.81,
-   "from_btc_pct": 13,
-   "verdict": "Neutral",
-   "file": "SOLV.png"
-  },
-  {
    "symbol": "MMT",
    "name": "Momentum",
    "sigma": 2.76,
    "from_btc_pct": 3,
    "verdict": "Overbought",
    "file": "MMT.png"
-  },
-  {
-   "symbol": "PEOPLE",
-   "name": "ConstitutionDAO",
-   "sigma": 2.7,
-   "from_btc_pct": 6,
-   "verdict": "Overbought",
-   "file": "PEOPLE.png"
   },
   {
    "symbol": "DYM",
