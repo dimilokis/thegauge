@@ -135,6 +135,10 @@
   "icon": "https://coin-images.coingecko.com/coins/images/55092/large/Baby-Symbol-Mint_%281%29.png?1744788866",
   "name": "Babylon"
  },
+ "BANANAS31": {
+  "icon": "https://coin-images.coingecko.com/coins/images/52230/large/Banana_token_image.png",
+  "name": "Banana For Scale"
+ },
  "BANK": {
   "icon": "https://coin-images.coingecko.com/coins/images/55250/large/lorenzo.jpg?1744963693",
   "name": "Lorenzo Protocol"
