@@ -1,6 +1,6 @@
 {
  "date": "2026-08-08",
- "generated_at": "2026-08-08T23:41:49.800051+00:00",
+ "generated_at": "2026-08-09T01:15:50.734892+00:00",
  "assets": [
   {
    "symbol": "GLMR",
@@ -17,6 +17,14 @@
    "from_btc_pct": 3,
    "verdict": "Neutral",
    "file": "PIXEL.png"
+  },
+  {
+   "symbol": "IOTX",
+   "name": "IoTeX",
+   "sigma": 5.08,
+   "from_btc_pct": 3,
+   "verdict": "Neutral",
+   "file": "IOTX.png"
   },
   {
    "symbol": "1000CAT",
@@ -89,14 +97,6 @@
    "from_btc_pct": 2,
    "verdict": "Overbought",
    "file": "MUBARAK.png"
-  },
-  {
-   "symbol": "C98",
-   "name": "Coin98",
-   "sigma": 2.54,
-   "from_btc_pct": 4,
-   "verdict": "Neutral",
-   "file": "C98.png"
   }
  ]
 }
