@@ -1,6 +1,6 @@
 {
  "date": "2026-08-09",
- "generated_at": "2026-08-09T19:15:49.695694+00:00",
+ "generated_at": "2026-08-09T20:00:50.629886+00:00",
  "assets": [
   {
    "symbol": "BMT",
@@ -51,6 +51,14 @@
    "file": "MAV.png"
   },
   {
+   "symbol": "CTSI",
+   "name": "Cartesi",
+   "sigma": 3.82,
+   "from_btc_pct": 1,
+   "verdict": "Overbought",
+   "file": "CTSI.png"
+  },
+  {
    "symbol": "BOME",
    "name": "BOOK OF MEME",
    "sigma": 3.67,
@@ -89,14 +97,6 @@
    "from_btc_pct": 1,
    "verdict": "Neutral",
    "file": "BANANAS31.png"
-  },
-  {
-   "symbol": "COOKIE",
-   "name": "Cookie DAO",
-   "sigma": 3.02,
-   "from_btc_pct": 0,
-   "verdict": "Overbought",
-   "file": "COOKIE.png"
   }
  ]
 }
