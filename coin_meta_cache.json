@@ -859,6 +859,10 @@
   "icon": "https://coin-images.coingecko.com/coins/images/70508/large/SENTIENT-Icon-BlushForce-L.png?1762267532",
   "name": "Sentient"
  },
+ "SHELL": {
+  "icon": "https://coin-images.coingecko.com/coins/images/54374/large/myshell.jpg",
+  "name": "MyShell"
+ },
  "SHIB": {
   "icon": "https://coin-images.coingecko.com/coins/images/11939/large/shiba.png?1696511800",
   "name": "Shiba Inu"
