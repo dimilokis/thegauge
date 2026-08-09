@@ -1,6 +1,6 @@
 {
  "date": "2026-08-09",
- "generated_at": "2026-08-09T10:15:54.574634+00:00",
+ "generated_at": "2026-08-09T11:00:58.147086+00:00",
  "assets": [
   {
    "symbol": "BMT",
@@ -19,14 +19,6 @@
    "file": "DYM.png"
   },
   {
-   "symbol": "TUT",
-   "name": "Tutorial",
-   "sigma": 3.15,
-   "from_btc_pct": 0,
-   "verdict": "Overbought",
-   "file": "TUT.png"
-  },
-  {
    "symbol": "MUBARAK",
    "name": "Mubarak",
    "sigma": 2.99,
@@ -41,6 +33,14 @@
    "from_btc_pct": 1,
    "verdict": "Neutral",
    "file": "SAGA.png"
+  },
+  {
+   "symbol": "TUT",
+   "name": "Tutorial",
+   "sigma": 2.8,
+   "from_btc_pct": 0,
+   "verdict": "Overbought",
+   "file": "TUT.png"
   },
   {
    "symbol": "MMT",
