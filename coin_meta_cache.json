@@ -47,6 +47,10 @@
   "icon": "https://coin-images.coingecko.com/coins/images/975/large/cardano.png?1696502090",
   "name": "Cardano"
  },
+ "ADX": {
+  "icon": "https://coin-images.coingecko.com/coins/images/847/large/token.png",
+  "name": "heyAura"
+ },
  "AEVO": {
   "icon": "https://coin-images.coingecko.com/coins/images/35893/large/aevo.png?1710138340",
   "name": "Aevo"
