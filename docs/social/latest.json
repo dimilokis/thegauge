@@ -1,6 +1,6 @@
 {
  "date": "2026-08-09",
- "generated_at": "2026-08-09T05:45:45.194622+00:00",
+ "generated_at": "2026-08-09T06:27:16.314337+00:00",
  "assets": [
   {
    "symbol": "BMT",
@@ -25,6 +25,14 @@
    "from_btc_pct": 1,
    "verdict": "Neutral",
    "file": "SAGA.png"
+  },
+  {
+   "symbol": "MMT",
+   "name": "Momentum",
+   "sigma": 2.76,
+   "from_btc_pct": 3,
+   "verdict": "Overbought",
+   "file": "MMT.png"
   },
   {
    "symbol": "TST",
