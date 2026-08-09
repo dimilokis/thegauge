@@ -1,6 +1,6 @@
 {
  "date": "2026-08-09",
- "generated_at": "2026-08-09T14:00:53.201935+00:00",
+ "generated_at": "2026-08-09T14:15:55.966744+00:00",
  "assets": [
   {
    "symbol": "BMT",
@@ -83,20 +83,20 @@
    "file": "DYM.png"
   },
   {
+   "symbol": "TUT",
+   "name": "Tutorial",
+   "sigma": 2.65,
+   "from_btc_pct": 1,
+   "verdict": "Overbought",
+   "file": "TUT.png"
+  },
+  {
    "symbol": "PEOPLE",
    "name": "ConstitutionDAO",
    "sigma": 2.64,
    "from_btc_pct": 6,
    "verdict": "Overbought",
    "file": "PEOPLE.png"
-  },
-  {
-   "symbol": "THE",
-   "name": null,
-   "sigma": 2.61,
-   "from_btc_pct": 0,
-   "verdict": "Neutral",
-   "file": "THE.png"
   }
  ]
 }
