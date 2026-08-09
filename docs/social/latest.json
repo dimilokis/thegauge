@@ -1,6 +1,6 @@
 {
  "date": "2026-08-09",
- "generated_at": "2026-08-09T21:45:46.814626+00:00",
+ "generated_at": "2026-08-09T22:00:58.064874+00:00",
  "assets": [
   {
    "symbol": "BMT",
@@ -75,20 +75,20 @@
    "file": "PEOPLE.png"
   },
   {
-   "symbol": "BROCCOLI714",
-   "name": null,
-   "sigma": 3.06,
-   "from_btc_pct": 1,
-   "verdict": "Overbought",
-   "file": "BROCCOLI714.png"
-  },
-  {
    "symbol": "BANANAS31",
    "name": "Banana For Scale",
    "sigma": 3.04,
    "from_btc_pct": 1,
    "verdict": "Neutral",
    "file": "BANANAS31.png"
+  },
+  {
+   "symbol": "BROCCOLI714",
+   "name": null,
+   "sigma": 2.83,
+   "from_btc_pct": 1,
+   "verdict": "Overbought",
+   "file": "BROCCOLI714.png"
   },
   {
    "symbol": "CTSI",
