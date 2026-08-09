@@ -1,6 +1,6 @@
 {
  "date": "2026-08-09",
- "generated_at": "2026-08-09T11:00:58.147086+00:00",
+ "generated_at": "2026-08-09T11:15:52.079769+00:00",
  "assets": [
   {
    "symbol": "BMT",
@@ -9,14 +9,6 @@
    "from_btc_pct": 1,
    "verdict": "Overbought",
    "file": "BMT.png"
-  },
-  {
-   "symbol": "DYM",
-   "name": "Dymension",
-   "sigma": 3.59,
-   "from_btc_pct": 9,
-   "verdict": "Neutral",
-   "file": "DYM.png"
   },
   {
    "symbol": "MUBARAK",
@@ -51,6 +43,14 @@
    "file": "MMT.png"
   },
   {
+   "symbol": "DYM",
+   "name": "Dymension",
+   "sigma": 2.69,
+   "from_btc_pct": 12,
+   "verdict": "Neutral",
+   "file": "DYM.png"
+  },
+  {
    "symbol": "TST",
    "name": "Test",
    "sigma": 2.67,
@@ -78,7 +78,7 @@
    "symbol": "SOLV",
    "name": "Solv Protocol",
    "sigma": 2.62,
-   "from_btc_pct": 12,
+   "from_btc_pct": 13,
    "verdict": "Neutral",
    "file": "SOLV.png"
   },
