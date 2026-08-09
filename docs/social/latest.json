@@ -1,6 +1,6 @@
 {
  "date": "2026-08-09",
- "generated_at": "2026-08-09T20:57:59.837147+00:00",
+ "generated_at": "2026-08-09T21:15:53.012385+00:00",
  "assets": [
   {
    "symbol": "BMT",
@@ -27,6 +27,14 @@
    "file": "TST.png"
   },
   {
+   "symbol": "BB",
+   "name": "BounceBit",
+   "sigma": 4.88,
+   "from_btc_pct": 15,
+   "verdict": "Neutral",
+   "file": "BB.png"
+  },
+  {
    "symbol": "CATI",
    "name": "Catizen",
    "sigma": 4.32,
@@ -49,14 +57,6 @@
    "from_btc_pct": 10,
    "verdict": "Neutral",
    "file": "MAV.png"
-  },
-  {
-   "symbol": "CTSI",
-   "name": "Cartesi",
-   "sigma": 3.82,
-   "from_btc_pct": 1,
-   "verdict": "Overbought",
-   "file": "CTSI.png"
   },
   {
    "symbol": "BOME",
@@ -91,12 +91,12 @@
    "file": "BANANAS31.png"
   },
   {
-   "symbol": "IOTX",
-   "name": "IoTeX",
-   "sigma": 2.67,
-   "from_btc_pct": 4,
+   "symbol": "CTSI",
+   "name": "Cartesi",
+   "sigma": 2.68,
+   "from_btc_pct": 0,
    "verdict": "Neutral",
-   "file": "IOTX.png"
+   "file": "CTSI.png"
   }
  ]
 }
