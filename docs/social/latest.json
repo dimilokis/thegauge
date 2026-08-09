@@ -1,6 +1,6 @@
 {
  "date": "2026-08-09",
- "generated_at": "2026-08-09T15:45:50.904003+00:00",
+ "generated_at": "2026-08-09T16:01:09.860334+00:00",
  "assets": [
   {
    "symbol": "BMT",
@@ -17,6 +17,14 @@
    "from_btc_pct": 9,
    "verdict": "Neutral",
    "file": "SHELL.png"
+  },
+  {
+   "symbol": "JOE",
+   "name": "JOE",
+   "sigma": 10.43,
+   "from_btc_pct": 6,
+   "verdict": "Neutral",
+   "file": "JOE.png"
   },
   {
    "symbol": "CATI",
@@ -89,14 +97,6 @@
    "from_btc_pct": 3,
    "verdict": "Overbought",
    "file": "MMT.png"
-  },
-  {
-   "symbol": "1000CAT",
-   "name": "Simon's Cat",
-   "sigma": 2.75,
-   "from_btc_pct": 1,
-   "verdict": "Neutral",
-   "file": "1000CAT.png"
   }
  ]
 }
