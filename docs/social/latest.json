@@ -1,6 +1,6 @@
 {
  "date": "2026-08-09",
- "generated_at": "2026-08-09T07:45:51.968051+00:00",
+ "generated_at": "2026-08-09T08:45:56.089844+00:00",
  "assets": [
   {
    "symbol": "BMT",
@@ -11,20 +11,28 @@
    "file": "BMT.png"
   },
   {
+   "symbol": "SOLV",
+   "name": "Solv Protocol",
+   "sigma": 4.1,
+   "from_btc_pct": 8,
+   "verdict": "Neutral",
+   "file": "SOLV.png"
+  },
+  {
+   "symbol": "TUT",
+   "name": "Tutorial",
+   "sigma": 3.15,
+   "from_btc_pct": 0,
+   "verdict": "Overbought",
+   "file": "TUT.png"
+  },
+  {
    "symbol": "MUBARAK",
    "name": "Mubarak",
    "sigma": 2.99,
    "from_btc_pct": 2,
    "verdict": "Overbought",
    "file": "MUBARAK.png"
-  },
-  {
-   "symbol": "TUT",
-   "name": "Tutorial",
-   "sigma": 2.87,
-   "from_btc_pct": 0,
-   "verdict": "Overbought",
-   "file": "TUT.png"
   },
   {
    "symbol": "SAGA",
