@@ -1,6 +1,6 @@
 {
  "date": "2026-08-09",
- "generated_at": "2026-08-09T06:27:16.314337+00:00",
+ "generated_at": "2026-08-09T07:00:58.425574+00:00",
  "assets": [
   {
    "symbol": "BMT",
@@ -41,6 +41,14 @@
    "from_btc_pct": 0,
    "verdict": "Overbought",
    "file": "TST.png"
+  },
+  {
+   "symbol": "XAI",
+   "name": "Xai",
+   "sigma": 2.67,
+   "from_btc_pct": 8,
+   "verdict": "Neutral",
+   "file": "XAI.png"
   },
   {
    "symbol": "TUT",
