@@ -1,6 +1,6 @@
 {
  "date": "2026-08-10",
- "generated_at": "2026-08-10T19:15:56.996192+00:00",
+ "generated_at": "2026-08-10T19:30:58.139259+00:00",
  "assets": [
   {
    "symbol": "VELODROME",
@@ -59,6 +59,14 @@
    "file": "LISTA.png"
   },
   {
+   "symbol": "DODO",
+   "name": "DODO",
+   "sigma": 2.92,
+   "from_btc_pct": 0,
+   "verdict": "Overbought",
+   "file": "DODO.png"
+  },
+  {
    "symbol": "THE",
    "name": null,
    "sigma": 2.74,
@@ -89,14 +97,6 @@
    "from_btc_pct": 0,
    "verdict": "Neutral",
    "file": "ME.png"
-  },
-  {
-   "symbol": "MUBARAK",
-   "name": "Mubarak",
-   "sigma": 2.53,
-   "from_btc_pct": 1,
-   "verdict": "Overbought",
-   "file": "MUBARAK.png"
   }
  ]
 }
