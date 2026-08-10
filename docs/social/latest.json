@@ -1,6 +1,6 @@
 {
  "date": "2026-08-10",
- "generated_at": "2026-08-10T16:00:57.651046+00:00",
+ "generated_at": "2026-08-10T18:01:00.311969+00:00",
  "assets": [
   {
    "symbol": "VELODROME",
@@ -81,6 +81,14 @@
    "from_btc_pct": 0,
    "verdict": "Overbought",
    "file": "TST.png"
+  },
+  {
+   "symbol": "ME",
+   "name": "Magic Eden",
+   "sigma": 2.59,
+   "from_btc_pct": 1,
+   "verdict": "Neutral",
+   "file": "ME.png"
   },
   {
    "symbol": "MUBARAK",
