@@ -1,6 +1,6 @@
 {
  "date": "2026-08-10",
- "generated_at": "2026-08-10T20:15:59.889223+00:00",
+ "generated_at": "2026-08-10T20:45:55.209462+00:00",
  "assets": [
   {
    "symbol": "VELODROME",
@@ -61,7 +61,7 @@
   {
    "symbol": "DODO",
    "name": "DODO",
-   "sigma": 2.92,
+   "sigma": 2.88,
    "from_btc_pct": 0,
    "verdict": "Overbought",
    "file": "DODO.png"
