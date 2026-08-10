@@ -1,6 +1,6 @@
 {
  "date": "2026-08-10",
- "generated_at": "2026-08-10T18:38:02.455646+00:00",
+ "generated_at": "2026-08-10T19:01:00.596232+00:00",
  "assets": [
   {
    "symbol": "VELODROME",
@@ -85,8 +85,8 @@
   {
    "symbol": "ME",
    "name": "Magic Eden",
-   "sigma": 2.59,
-   "from_btc_pct": 1,
+   "sigma": 2.61,
+   "from_btc_pct": 0,
    "verdict": "Neutral",
    "file": "ME.png"
   },
