@@ -1,6 +1,6 @@
 {
  "date": "2026-08-10",
- "generated_at": "2026-08-10T07:30:58.919705+00:00",
+ "generated_at": "2026-08-10T07:45:51.245898+00:00",
  "assets": [
   {
    "symbol": "C98",
@@ -11,20 +11,20 @@
    "file": "C98.png"
   },
   {
+   "symbol": "ACT",
+   "name": "Act I The AI Prophecy",
+   "sigma": 3.13,
+   "from_btc_pct": 0,
+   "verdict": "Overbought",
+   "file": "ACT.png"
+  },
+  {
    "symbol": "LISTA",
    "name": "Lista DAO",
    "sigma": 2.97,
    "from_btc_pct": 0,
    "verdict": "Overbought",
    "file": "LISTA.png"
-  },
-  {
-   "symbol": "ACT",
-   "name": "Act I The AI Prophecy",
-   "sigma": 2.94,
-   "from_btc_pct": 0,
-   "verdict": "Overbought",
-   "file": "ACT.png"
   },
   {
    "symbol": "THE",
