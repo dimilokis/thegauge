@@ -1,6 +1,6 @@
 {
  "date": "2026-08-10",
- "generated_at": "2026-08-10T13:46:00.536453+00:00",
+ "generated_at": "2026-08-10T14:30:57.956756+00:00",
  "assets": [
   {
    "symbol": "VELODROME",
@@ -57,6 +57,14 @@
    "from_btc_pct": 1,
    "verdict": "Overbought",
    "file": "THE.png"
+  },
+  {
+   "symbol": "COOKIE",
+   "name": "Cookie DAO",
+   "sigma": 2.69,
+   "from_btc_pct": 0,
+   "verdict": "Neutral",
+   "file": "COOKIE.png"
   },
   {
    "symbol": "TST",
