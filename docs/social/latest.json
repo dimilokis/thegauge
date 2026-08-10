@@ -1,7 +1,15 @@
 {
  "date": "2026-08-10",
- "generated_at": "2026-08-10T21:31:14.996200+00:00",
+ "generated_at": "2026-08-10T22:15:52.828399+00:00",
  "assets": [
+  {
+   "symbol": "RAD",
+   "name": "Radworks",
+   "sigma": 8.4,
+   "from_btc_pct": 0,
+   "verdict": "Overbought",
+   "file": "RAD.png"
+  },
   {
    "symbol": "VELODROME",
    "name": null,
@@ -77,7 +85,7 @@
   {
    "symbol": "CRV",
    "name": "Curve DAO",
-   "sigma": 2.68,
+   "sigma": 2.65,
    "from_btc_pct": 1,
    "verdict": "Strong Uptrend",
    "file": "CRV.png"
@@ -89,14 +97,6 @@
    "from_btc_pct": 0,
    "verdict": "Overbought",
    "file": "TST.png"
-  },
-  {
-   "symbol": "DODO",
-   "name": "DODO",
-   "sigma": 2.6,
-   "from_btc_pct": 0,
-   "verdict": "Overbought",
-   "file": "DODO.png"
   }
  ]
 }
