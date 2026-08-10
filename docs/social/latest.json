@@ -1,6 +1,6 @@
 {
  "date": "2026-08-10",
- "generated_at": "2026-08-10T20:45:55.209462+00:00",
+ "generated_at": "2026-08-10T21:31:14.996200+00:00",
  "assets": [
   {
    "symbol": "VELODROME",
@@ -59,14 +59,6 @@
    "file": "LISTA.png"
   },
   {
-   "symbol": "DODO",
-   "name": "DODO",
-   "sigma": 2.88,
-   "from_btc_pct": 0,
-   "verdict": "Overbought",
-   "file": "DODO.png"
-  },
-  {
    "symbol": "THE",
    "name": null,
    "sigma": 2.74,
@@ -85,7 +77,7 @@
   {
    "symbol": "CRV",
    "name": "Curve DAO",
-   "sigma": 2.63,
+   "sigma": 2.68,
    "from_btc_pct": 1,
    "verdict": "Strong Uptrend",
    "file": "CRV.png"
@@ -97,6 +89,14 @@
    "from_btc_pct": 0,
    "verdict": "Overbought",
    "file": "TST.png"
+  },
+  {
+   "symbol": "DODO",
+   "name": "DODO",
+   "sigma": 2.6,
+   "from_btc_pct": 0,
+   "verdict": "Overbought",
+   "file": "DODO.png"
   }
  ]
 }
