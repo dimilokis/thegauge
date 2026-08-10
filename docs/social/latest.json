@@ -1,6 +1,6 @@
 {
  "date": "2026-08-09",
- "generated_at": "2026-08-09T23:45:50.463822+00:00",
+ "generated_at": "2026-08-10T02:15:49.009031+00:00",
  "assets": [
   {
    "symbol": "BMT",
@@ -83,20 +83,20 @@
    "file": "PNUT.png"
   },
   {
+   "symbol": "THE",
+   "name": null,
+   "sigma": 2.74,
+   "from_btc_pct": 1,
+   "verdict": "Overbought",
+   "file": "THE.png"
+  },
+  {
    "symbol": "BROCCOLI714",
    "name": null,
    "sigma": 2.66,
    "from_btc_pct": 1,
    "verdict": "Overbought",
    "file": "BROCCOLI714.png"
-  },
-  {
-   "symbol": "THE",
-   "name": null,
-   "sigma": 2.53,
-   "from_btc_pct": 1,
-   "verdict": "Neutral",
-   "file": "THE.png"
   }
  ]
 }
