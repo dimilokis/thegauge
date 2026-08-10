@@ -1,12 +1,12 @@
 {
  "date": "2026-08-10",
- "generated_at": "2026-08-10T10:45:54.263637+00:00",
+ "generated_at": "2026-08-10T11:15:52.847302+00:00",
  "assets": [
   {
    "symbol": "GUN",
    "name": "Gunz",
-   "sigma": 3.74,
-   "from_btc_pct": 10,
+   "sigma": 4.49,
+   "from_btc_pct": 9,
    "verdict": "Neutral",
    "file": "GUN.png"
   },
