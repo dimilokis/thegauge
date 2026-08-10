@@ -1,7 +1,15 @@
 {
  "date": "2026-08-10",
- "generated_at": "2026-08-10T11:15:52.847302+00:00",
+ "generated_at": "2026-08-10T12:31:13.137397+00:00",
  "assets": [
+  {
+   "symbol": "VELODROME",
+   "name": null,
+   "sigma": 6.44,
+   "from_btc_pct": 7,
+   "verdict": "Overbought",
+   "file": "VELODROME.png"
+  },
   {
    "symbol": "GUN",
    "name": "Gunz",
