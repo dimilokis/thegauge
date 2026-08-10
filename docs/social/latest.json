@@ -1,6 +1,6 @@
 {
  "date": "2026-08-10",
- "generated_at": "2026-08-10T04:15:54.501489+00:00",
+ "generated_at": "2026-08-10T04:31:00.744148+00:00",
  "assets": [
   {
    "symbol": "C98",
@@ -9,6 +9,14 @@
    "from_btc_pct": 4,
    "verdict": "Overbought",
    "file": "C98.png"
+  },
+  {
+   "symbol": "LISTA",
+   "name": "Lista DAO",
+   "sigma": 2.97,
+   "from_btc_pct": 0,
+   "verdict": "Overbought",
+   "file": "LISTA.png"
   },
   {
    "symbol": "THE",
