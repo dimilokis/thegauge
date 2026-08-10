@@ -1,6 +1,6 @@
 {
  "date": "2026-08-10",
- "generated_at": "2026-08-10T19:30:58.139259+00:00",
+ "generated_at": "2026-08-10T20:15:59.889223+00:00",
  "assets": [
   {
    "symbol": "VELODROME",
@@ -83,20 +83,20 @@
    "file": "COOKIE.png"
   },
   {
+   "symbol": "CRV",
+   "name": "Curve DAO",
+   "sigma": 2.63,
+   "from_btc_pct": 1,
+   "verdict": "Strong Uptrend",
+   "file": "CRV.png"
+  },
+  {
    "symbol": "TST",
    "name": "Test",
    "sigma": 2.61,
    "from_btc_pct": 0,
    "verdict": "Overbought",
    "file": "TST.png"
-  },
-  {
-   "symbol": "ME",
-   "name": "Magic Eden",
-   "sigma": 2.61,
-   "from_btc_pct": 0,
-   "verdict": "Neutral",
-   "file": "ME.png"
   }
  ]
 }
