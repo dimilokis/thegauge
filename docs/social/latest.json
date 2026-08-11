@@ -1,6 +1,6 @@
 {
  "date": "2026-08-11",
- "generated_at": "2026-08-11T14:15:56.330251+00:00",
+ "generated_at": "2026-08-11T18:41:29.692033+00:00",
  "assets": [
   {
    "symbol": "RVN",
@@ -33,6 +33,14 @@
    "from_btc_pct": 12,
    "verdict": "Oversold",
    "file": "MOVR.png"
+  },
+  {
+   "symbol": "HOLO",
+   "name": "Holoworld",
+   "sigma": 4.64,
+   "from_btc_pct": 3,
+   "verdict": "Overbought",
+   "file": "HOLO.png"
   },
   {
    "symbol": "MITO",
