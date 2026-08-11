@@ -847,6 +847,10 @@
   "icon": "https://coin-images.coingecko.com/coins/images/6595/large/THORChain_RUNE_Token.png?1782452363",
   "name": "THORChain"
  },
+ "RVN": {
+  "icon": "https://coin-images.coingecko.com/coins/images/3412/large/ravencoin.png",
+  "name": "Ravencoin"
+ },
  "S": {
   "icon": "https://coin-images.coingecko.com/coins/images/38108/large/200x200_Sonic_Logo.png?1734679256",
   "name": "Sonic"
