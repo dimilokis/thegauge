@@ -1,6 +1,6 @@
 {
  "date": "2026-08-10",
- "generated_at": "2026-08-11T02:15:54.702472+00:00",
+ "generated_at": "2026-08-11T02:45:52.193398+00:00",
  "assets": [
   {
    "symbol": "VELODROME",
@@ -25,6 +25,14 @@
    "from_btc_pct": 4,
    "verdict": "Overbought",
    "file": "C98.png"
+  },
+  {
+   "symbol": "RAD",
+   "name": "Radworks",
+   "sigma": 3.34,
+   "from_btc_pct": 0,
+   "verdict": "Neutral",
+   "file": "RAD.png"
   },
   {
    "symbol": "ROBO",
@@ -65,14 +73,6 @@
    "from_btc_pct": 0,
    "verdict": "Overbought",
    "file": "LISTA.png"
-  },
-  {
-   "symbol": "RAD",
-   "name": "Radworks",
-   "sigma": 2.76,
-   "from_btc_pct": 0,
-   "verdict": "Neutral",
-   "file": "RAD.png"
   },
   {
    "symbol": "THE",
