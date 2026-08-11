@@ -1,6 +1,6 @@
 {
  "date": "2026-08-11",
- "generated_at": "2026-08-11T18:41:29.692033+00:00",
+ "generated_at": "2026-08-11T22:45:53.212571+00:00",
  "assets": [
   {
    "symbol": "RVN",
@@ -89,6 +89,14 @@
    "from_btc_pct": 1,
    "verdict": "Overbought",
    "file": "BANANAS31.png"
+  },
+  {
+   "symbol": "PROM",
+   "name": "Prom",
+   "sigma": 2.51,
+   "from_btc_pct": 0,
+   "verdict": "Neutral",
+   "file": "PROM.png"
   }
  ]
 }
