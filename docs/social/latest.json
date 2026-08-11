@@ -1,6 +1,6 @@
 {
  "date": "2026-08-11",
- "generated_at": "2026-08-11T08:45:53.738649+00:00",
+ "generated_at": "2026-08-11T09:45:51.588971+00:00",
  "assets": [
   {
    "symbol": "RVN",
@@ -17,6 +17,14 @@
    "from_btc_pct": 18,
    "verdict": "Neutral",
    "file": "AUDIO.png"
+  },
+  {
+   "symbol": "MOVR",
+   "name": "Moonriver",
+   "sigma": 5.46,
+   "from_btc_pct": 12,
+   "verdict": "Oversold",
+   "file": "MOVR.png"
   },
   {
    "symbol": "MAV",

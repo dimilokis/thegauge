@@ -647,6 +647,10 @@
   "icon": "https://coin-images.coingecko.com/coins/images/29837/large/Morpho-token-icon.png?1726771230",
   "name": "Morpho"
  },
+ "MOVR": {
+  "icon": "https://coin-images.coingecko.com/coins/images/17984/large/Moonriver_MOVR_ICON.png",
+  "name": "Moonriver"
+ },
  "MUBARAK": {
   "icon": "https://coin-images.coingecko.com/coins/images/54857/large/DKjv3dc6_400x400.jpg?1742107486",
   "name": "Mubarak"
