@@ -1,6 +1,6 @@
 {
  "date": "2026-08-11",
- "generated_at": "2026-08-11T11:15:55.492207+00:00",
+ "generated_at": "2026-08-11T11:30:57.249002+00:00",
  "assets": [
   {
    "symbol": "RVN",
@@ -45,7 +45,7 @@
   {
    "symbol": "TST",
    "name": "Test",
-   "sigma": 2.68,
+   "sigma": 2.65,
    "from_btc_pct": 0,
    "verdict": "Neutral",
    "file": "TST.png"
