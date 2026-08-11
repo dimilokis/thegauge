@@ -599,6 +599,10 @@
   "icon": "https://coin-images.coingecko.com/coins/images/50867/large/lumia.jpg?1729321993",
   "name": "Lumia"
  },
+ "LUNA": {
+  "icon": "https://coin-images.coingecko.com/coins/images/25767/large/01_Luna_color.png",
+  "name": "Terra"
+ },
  "LUNC": {
   "icon": "https://coin-images.coingecko.com/coins/images/8284/large/01_LunaClassic_color.png?1696508486",
   "name": "Terra Luna Classic"
