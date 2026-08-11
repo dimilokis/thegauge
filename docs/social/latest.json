@@ -1,102 +1,14 @@
 {
- "date": "2026-08-10",
- "generated_at": "2026-08-11T02:45:52.193398+00:00",
+ "date": "2026-08-11",
+ "generated_at": "2026-08-11T06:16:00.562825+00:00",
  "assets": [
   {
-   "symbol": "VELODROME",
-   "name": null,
-   "sigma": 6.44,
-   "from_btc_pct": 7,
-   "verdict": "Overbought",
-   "file": "VELODROME.png"
-  },
-  {
-   "symbol": "GUN",
-   "name": "Gunz",
-   "sigma": 4.49,
-   "from_btc_pct": 9,
-   "verdict": "Neutral",
-   "file": "GUN.png"
-  },
-  {
-   "symbol": "C98",
-   "name": "Coin98",
-   "sigma": 3.65,
-   "from_btc_pct": 4,
-   "verdict": "Overbought",
-   "file": "C98.png"
-  },
-  {
-   "symbol": "RAD",
-   "name": "Radworks",
-   "sigma": 3.34,
+   "symbol": "TST",
+   "name": "Test",
+   "sigma": 2.68,
    "from_btc_pct": 0,
    "verdict": "Neutral",
-   "file": "RAD.png"
-  },
-  {
-   "symbol": "ROBO",
-   "name": "Fabric Protocol",
-   "sigma": 3.3,
-   "from_btc_pct": 3,
-   "verdict": "Neutral",
-   "file": "ROBO.png"
-  },
-  {
-   "symbol": "ACT",
-   "name": "Act I The AI Prophecy",
-   "sigma": 3.13,
-   "from_btc_pct": 0,
-   "verdict": "Overbought",
-   "file": "ACT.png"
-  },
-  {
-   "symbol": "HOME",
-   "name": "HOME",
-   "sigma": 3.1,
-   "from_btc_pct": 0,
-   "verdict": "Neutral",
-   "file": "HOME.png"
-  },
-  {
-   "symbol": "PROM",
-   "name": "Prom",
-   "sigma": 2.98,
-   "from_btc_pct": 1,
-   "verdict": "Overbought",
-   "file": "PROM.png"
-  },
-  {
-   "symbol": "LISTA",
-   "name": "Lista DAO",
-   "sigma": 2.97,
-   "from_btc_pct": 0,
-   "verdict": "Overbought",
-   "file": "LISTA.png"
-  },
-  {
-   "symbol": "THE",
-   "name": null,
-   "sigma": 2.74,
-   "from_btc_pct": 1,
-   "verdict": "Overbought",
-   "file": "THE.png"
-  },
-  {
-   "symbol": "COOKIE",
-   "name": "Cookie DAO",
-   "sigma": 2.69,
-   "from_btc_pct": 0,
-   "verdict": "Neutral",
-   "file": "COOKIE.png"
-  },
-  {
-   "symbol": "CRV",
-   "name": "Curve DAO",
-   "sigma": 2.65,
-   "from_btc_pct": 1,
-   "verdict": "Strong Uptrend",
-   "file": "CRV.png"
+   "file": "TST.png"
   }
  ]
 }
