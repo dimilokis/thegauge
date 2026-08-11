@@ -1,6 +1,6 @@
 {
  "date": "2026-08-11",
- "generated_at": "2026-08-11T12:00:55.634586+00:00",
+ "generated_at": "2026-08-11T12:15:53.263486+00:00",
  "assets": [
   {
    "symbol": "RVN",
@@ -27,20 +27,20 @@
    "file": "MOVR.png"
   },
   {
-   "symbol": "COOKIE",
-   "name": "Cookie DAO",
-   "sigma": 3.13,
-   "from_btc_pct": 0,
-   "verdict": "Overbought",
-   "file": "COOKIE.png"
-  },
-  {
    "symbol": "MAV",
    "name": "Maverick Protocol",
    "sigma": 2.98,
    "from_btc_pct": 6,
    "verdict": "Neutral",
    "file": "MAV.png"
+  },
+  {
+   "symbol": "COOKIE",
+   "name": "Cookie DAO",
+   "sigma": 2.74,
+   "from_btc_pct": 0,
+   "verdict": "Neutral",
+   "file": "COOKIE.png"
   },
   {
    "symbol": "TST",
