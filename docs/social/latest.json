@@ -1,6 +1,6 @@
 {
  "date": "2026-08-11",
- "generated_at": "2026-08-11T11:30:57.249002+00:00",
+ "generated_at": "2026-08-11T11:46:00.880164+00:00",
  "assets": [
   {
    "symbol": "RVN",
@@ -33,6 +33,14 @@
    "from_btc_pct": 1,
    "verdict": "Overbought",
    "file": "BANANAS31.png"
+  },
+  {
+   "symbol": "COOKIE",
+   "name": "Cookie DAO",
+   "sigma": 3.13,
+   "from_btc_pct": 0,
+   "verdict": "Overbought",
+   "file": "COOKIE.png"
   },
   {
    "symbol": "MAV",
