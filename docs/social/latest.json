@@ -1,6 +1,6 @@
 {
  "date": "2026-08-11",
- "generated_at": "2026-08-11T11:10:56.822606+00:00",
+ "generated_at": "2026-08-11T11:15:55.492207+00:00",
  "assets": [
   {
    "symbol": "RVN",
@@ -57,6 +57,14 @@
    "from_btc_pct": 0,
    "verdict": "Overbought",
    "file": "RAD.png"
+  },
+  {
+   "symbol": "MITO",
+   "name": "Mitosis",
+   "sigma": 2.54,
+   "from_btc_pct": 10,
+   "verdict": "Neutral",
+   "file": "MITO.png"
   }
  ]
 }
