@@ -1,7 +1,15 @@
 {
  "date": "2026-08-12",
- "generated_at": "2026-08-12T06:45:57.516849+00:00",
+ "generated_at": "2026-08-12T07:49:07.897673+00:00",
  "assets": [
+  {
+   "symbol": "STORJ",
+   "name": "Storj",
+   "sigma": 7.6,
+   "from_btc_pct": 6,
+   "verdict": "Oversold",
+   "file": "STORJ.png"
+  },
   {
    "symbol": "ONE",
    "name": "Harmony",
