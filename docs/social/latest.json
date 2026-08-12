@@ -1,6 +1,6 @@
 {
  "date": "2026-08-12",
- "generated_at": "2026-08-12T17:46:17.727804+00:00",
+ "generated_at": "2026-08-12T18:30:58.081607+00:00",
  "assets": [
   {
    "symbol": "RARE",
@@ -33,6 +33,14 @@
    "from_btc_pct": 4,
    "verdict": "Oversold",
    "file": "ONE.png"
+  },
+  {
+   "symbol": "2Z",
+   "name": "DoubleZero",
+   "sigma": 3.63,
+   "from_btc_pct": 5,
+   "verdict": "Neutral",
+   "file": "2Z.png"
   },
   {
    "symbol": "KAITO",
