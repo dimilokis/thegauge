@@ -1,6 +1,6 @@
 {
  "date": "2026-08-12",
- "generated_at": "2026-08-12T12:45:52.386334+00:00",
+ "generated_at": "2026-08-12T13:15:52.772846+00:00",
  "assets": [
   {
    "symbol": "RARE",
@@ -49,6 +49,14 @@
    "from_btc_pct": 2,
    "verdict": "Overbought",
    "file": "HOLO.png"
+  },
+  {
+   "symbol": "NIL",
+   "name": "Nillion",
+   "sigma": 2.67,
+   "from_btc_pct": 10,
+   "verdict": "Neutral",
+   "file": "NIL.png"
   },
   {
    "symbol": "LUNA",
