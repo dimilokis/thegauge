@@ -1,6 +1,6 @@
 {
  "date": "2026-08-12",
- "generated_at": "2026-08-12T04:30:36.082796+00:00",
+ "generated_at": "2026-08-12T05:15:52.570901+00:00",
  "assets": [
   {
    "symbol": "ONE",
@@ -17,6 +17,14 @@
    "from_btc_pct": 2,
    "verdict": "Overbought",
    "file": "HOLO.png"
+  },
+  {
+   "symbol": "LUNA",
+   "name": "Terra",
+   "sigma": 2.69,
+   "from_btc_pct": 6,
+   "verdict": "Neutral",
+   "file": "LUNA.png"
   }
  ]
 }
