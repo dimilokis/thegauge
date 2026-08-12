@@ -1,7 +1,15 @@
 {
  "date": "2026-08-11",
- "generated_at": "2026-08-12T01:15:56.293366+00:00",
+ "generated_at": "2026-08-12T01:30:56.700689+00:00",
  "assets": [
+  {
+   "symbol": "ONE",
+   "name": "Harmony",
+   "sigma": 10.4,
+   "from_btc_pct": 2,
+   "verdict": "Oversold",
+   "file": "ONE.png"
+  },
   {
    "symbol": "RVN",
    "name": "Ravencoin",
@@ -89,14 +97,6 @@
    "from_btc_pct": 0,
    "verdict": "Overbought",
    "file": "RAD.png"
-  },
-  {
-   "symbol": "BANANAS31",
-   "name": "Banana For Scale",
-   "sigma": 2.52,
-   "from_btc_pct": 1,
-   "verdict": "Overbought",
-   "file": "BANANAS31.png"
   }
  ]
 }
