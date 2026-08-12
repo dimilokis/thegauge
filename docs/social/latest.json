@@ -1,6 +1,6 @@
 {
  "date": "2026-08-12",
- "generated_at": "2026-08-12T10:45:53.839249+00:00",
+ "generated_at": "2026-08-12T12:15:50.869995+00:00",
  "assets": [
   {
    "symbol": "RARE",
@@ -46,7 +46,7 @@
    "symbol": "LUNA",
    "name": "Terra",
    "sigma": 2.6,
-   "from_btc_pct": 5,
+   "from_btc_pct": 4,
    "verdict": "Neutral",
    "file": "LUNA.png"
   }
