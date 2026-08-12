@@ -1,6 +1,6 @@
 {
  "date": "2026-08-11",
- "generated_at": "2026-08-11T22:45:53.212571+00:00",
+ "generated_at": "2026-08-12T01:00:58.869137+00:00",
  "assets": [
   {
    "symbol": "RVN",
@@ -37,8 +37,8 @@
   {
    "symbol": "HOLO",
    "name": "Holoworld",
-   "sigma": 4.64,
-   "from_btc_pct": 3,
+   "sigma": 3.61,
+   "from_btc_pct": 2,
    "verdict": "Overbought",
    "file": "HOLO.png"
   },
