@@ -591,6 +591,10 @@
   "icon": "https://coin-images.coingecko.com/coins/images/7137/large/badge-logo-circuit-green.png?1719357686",
   "name": "Livepeer"
  },
+ "LSK": {
+  "icon": "https://coin-images.coingecko.com/coins/images/385/large/Logo_-_Black_with_White_Outline_on_Transparent.png",
+  "name": "Lisk"
+ },
  "LTC": {
   "icon": "https://coin-images.coingecko.com/coins/images/2/large/litecoin.png?1696501400",
   "name": "Litecoin"
