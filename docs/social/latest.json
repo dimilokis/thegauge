@@ -1,6 +1,6 @@
 {
  "date": "2026-08-11",
- "generated_at": "2026-08-12T01:30:56.700689+00:00",
+ "generated_at": "2026-08-12T02:00:58.396963+00:00",
  "assets": [
   {
    "symbol": "ONE",
@@ -51,6 +51,14 @@
    "file": "HOLO.png"
   },
   {
+   "symbol": "LSK",
+   "name": "Lisk",
+   "sigma": 3.41,
+   "from_btc_pct": 14,
+   "verdict": "Neutral",
+   "file": "LSK.png"
+  },
+  {
    "symbol": "PROM",
    "name": "Prom",
    "sigma": 3.28,
@@ -89,14 +97,6 @@
    "from_btc_pct": 0,
    "verdict": "Neutral",
    "file": "TST.png"
-  },
-  {
-   "symbol": "RAD",
-   "name": "Radworks",
-   "sigma": 2.56,
-   "from_btc_pct": 0,
-   "verdict": "Overbought",
-   "file": "RAD.png"
   }
  ]
 }
