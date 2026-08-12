@@ -1,6 +1,6 @@
 {
  "date": "2026-08-12",
- "generated_at": "2026-08-12T18:30:58.081607+00:00",
+ "generated_at": "2026-08-12T18:45:57.494707+00:00",
  "assets": [
   {
    "symbol": "RARE",
@@ -53,7 +53,7 @@
   {
    "symbol": "NIL",
    "name": "Nillion",
-   "sigma": 3.01,
+   "sigma": 3.1,
    "from_btc_pct": 7,
    "verdict": "Neutral",
    "file": "NIL.png"
@@ -75,6 +75,14 @@
    "file": "HOLO.png"
   },
   {
+   "symbol": "BABY",
+   "name": "Babylon",
+   "sigma": 2.62,
+   "from_btc_pct": 6,
+   "verdict": "Oversold",
+   "file": "BABY.png"
+  },
+  {
    "symbol": "LUNA",
    "name": "Terra",
    "sigma": 2.6,
@@ -89,14 +97,6 @@
    "from_btc_pct": 9,
    "verdict": "Neutral",
    "file": "COTI.png"
-  },
-  {
-   "symbol": "BABY",
-   "name": "Babylon",
-   "sigma": 2.56,
-   "from_btc_pct": 6,
-   "verdict": "Oversold",
-   "file": "BABY.png"
   }
  ]
 }
