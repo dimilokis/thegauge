@@ -1,6 +1,6 @@
 {
  "date": "2026-08-12",
- "generated_at": "2026-08-12T07:49:07.897673+00:00",
+ "generated_at": "2026-08-12T10:15:59.169585+00:00",
  "assets": [
   {
    "symbol": "STORJ",
@@ -30,7 +30,7 @@
    "symbol": "LUNA",
    "name": "Terra",
    "sigma": 2.6,
-   "from_btc_pct": 7,
+   "from_btc_pct": 5,
    "verdict": "Neutral",
    "file": "LUNA.png"
   }
