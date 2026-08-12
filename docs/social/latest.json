@@ -1,6 +1,6 @@
 {
  "date": "2026-08-12",
- "generated_at": "2026-08-12T18:45:57.494707+00:00",
+ "generated_at": "2026-08-12T19:17:06.395308+00:00",
  "assets": [
   {
    "symbol": "RARE",
@@ -33,14 +33,6 @@
    "from_btc_pct": 4,
    "verdict": "Oversold",
    "file": "ONE.png"
-  },
-  {
-   "symbol": "2Z",
-   "name": "DoubleZero",
-   "sigma": 3.63,
-   "from_btc_pct": 5,
-   "verdict": "Neutral",
-   "file": "2Z.png"
   },
   {
    "symbol": "KAITO",
@@ -97,6 +89,14 @@
    "from_btc_pct": 9,
    "verdict": "Neutral",
    "file": "COTI.png"
+  },
+  {
+   "symbol": "2Z",
+   "name": "DoubleZero",
+   "sigma": 2.52,
+   "from_btc_pct": 7,
+   "verdict": "Oversold",
+   "file": "2Z.png"
   }
  ]
 }
