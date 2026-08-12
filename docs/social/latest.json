@@ -1,6 +1,6 @@
 {
  "date": "2026-08-12",
- "generated_at": "2026-08-12T13:42:58.042896+00:00",
+ "generated_at": "2026-08-12T15:30:55.642521+00:00",
  "assets": [
   {
    "symbol": "RARE",
@@ -41,6 +41,14 @@
    "from_btc_pct": 1,
    "verdict": "Neutral",
    "file": "KAITO.png"
+  },
+  {
+   "symbol": "VIRTUAL",
+   "name": "Virtuals Protocol",
+   "sigma": 2.98,
+   "from_btc_pct": 35,
+   "verdict": "Neutral",
+   "file": "VIRTUAL.png"
   },
   {
    "symbol": "HOLO",
