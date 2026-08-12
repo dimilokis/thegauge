@@ -1,6 +1,6 @@
 {
  "date": "2026-08-12",
- "generated_at": "2026-08-12T15:30:55.642521+00:00",
+ "generated_at": "2026-08-12T17:15:54.037354+00:00",
  "assets": [
   {
    "symbol": "RARE",
@@ -65,6 +65,14 @@
    "from_btc_pct": 4,
    "verdict": "Neutral",
    "file": "LUNA.png"
+  },
+  {
+   "symbol": "COTI",
+   "name": "COTI",
+   "sigma": 2.57,
+   "from_btc_pct": 9,
+   "verdict": "Neutral",
+   "file": "COTI.png"
   },
   {
    "symbol": "NIL",
