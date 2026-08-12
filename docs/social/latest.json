@@ -1,6 +1,6 @@
 {
  "date": "2026-08-12",
- "generated_at": "2026-08-12T19:46:10.276061+00:00",
+ "generated_at": "2026-08-12T20:45:55.244315+00:00",
  "assets": [
   {
    "symbol": "RARE",
@@ -51,14 +51,6 @@
    "file": "VIRTUAL.png"
   },
   {
-   "symbol": "HOLO",
-   "name": "Holoworld",
-   "sigma": 2.73,
-   "from_btc_pct": 2,
-   "verdict": "Overbought",
-   "file": "HOLO.png"
-  },
-  {
    "symbol": "NIL",
    "name": "Nillion",
    "sigma": 2.66,
@@ -89,6 +81,14 @@
    "from_btc_pct": 9,
    "verdict": "Neutral",
    "file": "COTI.png"
+  },
+  {
+   "symbol": "HOLO",
+   "name": "Holoworld",
+   "sigma": 2.55,
+   "from_btc_pct": 2,
+   "verdict": "Neutral",
+   "file": "HOLO.png"
   },
   {
    "symbol": "2Z",
