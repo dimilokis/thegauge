@@ -1,6 +1,6 @@
 {
  "date": "2026-08-12",
- "generated_at": "2026-08-12T17:15:54.037354+00:00",
+ "generated_at": "2026-08-12T17:46:17.727804+00:00",
  "assets": [
   {
    "symbol": "RARE",
@@ -43,6 +43,14 @@
    "file": "KAITO.png"
   },
   {
+   "symbol": "NIL",
+   "name": "Nillion",
+   "sigma": 3.01,
+   "from_btc_pct": 7,
+   "verdict": "Neutral",
+   "file": "NIL.png"
+  },
+  {
    "symbol": "VIRTUAL",
    "name": "Virtuals Protocol",
    "sigma": 2.98,
@@ -75,12 +83,12 @@
    "file": "COTI.png"
   },
   {
-   "symbol": "NIL",
-   "name": "Nillion",
-   "sigma": 2.5,
-   "from_btc_pct": 10,
-   "verdict": "Neutral",
-   "file": "NIL.png"
+   "symbol": "BABY",
+   "name": "Babylon",
+   "sigma": 2.56,
+   "from_btc_pct": 6,
+   "verdict": "Oversold",
+   "file": "BABY.png"
   }
  ]
 }
