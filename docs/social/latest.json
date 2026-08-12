@@ -1,102 +1,14 @@
 {
- "date": "2026-08-11",
- "generated_at": "2026-08-12T02:00:58.396963+00:00",
+ "date": "2026-08-12",
+ "generated_at": "2026-08-12T04:15:54.647189+00:00",
  "assets": [
   {
    "symbol": "ONE",
    "name": "Harmony",
-   "sigma": 10.4,
-   "from_btc_pct": 2,
+   "sigma": 4.44,
+   "from_btc_pct": 4,
    "verdict": "Oversold",
    "file": "ONE.png"
-  },
-  {
-   "symbol": "RVN",
-   "name": "Ravencoin",
-   "sigma": 8.1,
-   "from_btc_pct": 6,
-   "verdict": "Oversold",
-   "file": "RVN.png"
-  },
-  {
-   "symbol": "LUNA",
-   "name": "Terra",
-   "sigma": 6.82,
-   "from_btc_pct": 21,
-   "verdict": "Neutral",
-   "file": "LUNA.png"
-  },
-  {
-   "symbol": "AUDIO",
-   "name": "Audius",
-   "sigma": 6.42,
-   "from_btc_pct": 18,
-   "verdict": "Neutral",
-   "file": "AUDIO.png"
-  },
-  {
-   "symbol": "MOVR",
-   "name": "Moonriver",
-   "sigma": 5.46,
-   "from_btc_pct": 12,
-   "verdict": "Oversold",
-   "file": "MOVR.png"
-  },
-  {
-   "symbol": "HOLO",
-   "name": "Holoworld",
-   "sigma": 3.61,
-   "from_btc_pct": 2,
-   "verdict": "Overbought",
-   "file": "HOLO.png"
-  },
-  {
-   "symbol": "LSK",
-   "name": "Lisk",
-   "sigma": 3.41,
-   "from_btc_pct": 14,
-   "verdict": "Neutral",
-   "file": "LSK.png"
-  },
-  {
-   "symbol": "PROM",
-   "name": "Prom",
-   "sigma": 3.28,
-   "from_btc_pct": 1,
-   "verdict": "Overbought",
-   "file": "PROM.png"
-  },
-  {
-   "symbol": "MITO",
-   "name": "Mitosis",
-   "sigma": 3.08,
-   "from_btc_pct": 9,
-   "verdict": "Neutral",
-   "file": "MITO.png"
-  },
-  {
-   "symbol": "MAV",
-   "name": "Maverick Protocol",
-   "sigma": 2.98,
-   "from_btc_pct": 6,
-   "verdict": "Neutral",
-   "file": "MAV.png"
-  },
-  {
-   "symbol": "COOKIE",
-   "name": "Cookie DAO",
-   "sigma": 2.74,
-   "from_btc_pct": 0,
-   "verdict": "Neutral",
-   "file": "COOKIE.png"
-  },
-  {
-   "symbol": "TST",
-   "name": "Test",
-   "sigma": 2.61,
-   "from_btc_pct": 0,
-   "verdict": "Neutral",
-   "file": "TST.png"
   }
  ]
 }
