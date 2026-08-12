@@ -1,6 +1,6 @@
 {
  "date": "2026-08-12",
- "generated_at": "2026-08-12T10:15:59.169585+00:00",
+ "generated_at": "2026-08-12T10:31:01.803078+00:00",
  "assets": [
   {
    "symbol": "STORJ",
@@ -17,6 +17,14 @@
    "from_btc_pct": 4,
    "verdict": "Oversold",
    "file": "ONE.png"
+  },
+  {
+   "symbol": "KAITO",
+   "name": "KAITO",
+   "sigma": 3.54,
+   "from_btc_pct": 1,
+   "verdict": "Neutral",
+   "file": "KAITO.png"
   },
   {
    "symbol": "HOLO",
