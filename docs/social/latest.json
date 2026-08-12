@@ -1,7 +1,15 @@
 {
  "date": "2026-08-12",
- "generated_at": "2026-08-12T10:31:01.803078+00:00",
+ "generated_at": "2026-08-12T10:45:53.839249+00:00",
  "assets": [
+  {
+   "symbol": "RARE",
+   "name": "SuperRare",
+   "sigma": 8.73,
+   "from_btc_pct": 6,
+   "verdict": "Overbought",
+   "file": "RARE.png"
+  },
   {
    "symbol": "STORJ",
    "name": "Storj",
