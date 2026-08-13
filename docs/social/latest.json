@@ -1,6 +1,6 @@
 {
  "date": "2026-08-13",
- "generated_at": "2026-08-13T11:15:49.615512+00:00",
+ "generated_at": "2026-08-13T11:45:49.934084+00:00",
  "assets": [
   {
    "symbol": "AVNT",
@@ -9,14 +9,6 @@
    "from_btc_pct": 20,
    "verdict": "Neutral",
    "file": "AVNT.png"
-  },
-  {
-   "symbol": "ATM",
-   "name": "Atletico Madrid Fan Token",
-   "sigma": 2.7,
-   "from_btc_pct": 0,
-   "verdict": "Neutral",
-   "file": "ATM.png"
   },
   {
    "symbol": "TST",
@@ -33,6 +25,14 @@
    "from_btc_pct": 6,
    "verdict": "Overbought",
    "file": "GPS.png"
+  },
+  {
+   "symbol": "ATM",
+   "name": "Atletico Madrid Fan Token",
+   "sigma": 2.5,
+   "from_btc_pct": 0,
+   "verdict": "Neutral",
+   "file": "ATM.png"
   }
  ]
 }
