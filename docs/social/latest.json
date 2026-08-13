@@ -1,102 +1,14 @@
 {
- "date": "2026-08-12",
- "generated_at": "2026-08-12T22:45:59.247512+00:00",
+ "date": "2026-08-13",
+ "generated_at": "2026-08-13T05:00:58.602263+00:00",
  "assets": [
   {
-   "symbol": "RARE",
-   "name": "SuperRare",
-   "sigma": 8.73,
-   "from_btc_pct": 6,
-   "verdict": "Overbought",
-   "file": "RARE.png"
-  },
-  {
-   "symbol": "STORJ",
-   "name": "Storj",
-   "sigma": 7.6,
-   "from_btc_pct": 6,
-   "verdict": "Oversold",
-   "file": "STORJ.png"
-  },
-  {
-   "symbol": "LSK",
-   "name": "Lisk",
-   "sigma": 4.88,
-   "from_btc_pct": 14,
-   "verdict": "Neutral",
-   "file": "LSK.png"
-  },
-  {
-   "symbol": "ONE",
-   "name": "Harmony",
-   "sigma": 4.44,
-   "from_btc_pct": 4,
-   "verdict": "Oversold",
-   "file": "ONE.png"
-  },
-  {
-   "symbol": "NXPC",
-   "name": "Nexpace",
-   "sigma": 3.59,
-   "from_btc_pct": 0,
-   "verdict": "Oversold",
-   "file": "NXPC.png"
-  },
-  {
-   "symbol": "KAITO",
-   "name": "KAITO",
-   "sigma": 3.54,
+   "symbol": "TST",
+   "name": "Test",
+   "sigma": 2.67,
    "from_btc_pct": 1,
    "verdict": "Neutral",
-   "file": "KAITO.png"
-  },
-  {
-   "symbol": "COTI",
-   "name": "COTI",
-   "sigma": 3.01,
-   "from_btc_pct": 9,
-   "verdict": "Neutral",
-   "file": "COTI.png"
-  },
-  {
-   "symbol": "NIL",
-   "name": "Nillion",
-   "sigma": 2.66,
-   "from_btc_pct": 7,
-   "verdict": "Neutral",
-   "file": "NIL.png"
-  },
-  {
-   "symbol": "BABY",
-   "name": "Babylon",
-   "sigma": 2.62,
-   "from_btc_pct": 6,
-   "verdict": "Oversold",
-   "file": "BABY.png"
-  },
-  {
-   "symbol": "LUNA",
-   "name": "Terra",
-   "sigma": 2.6,
-   "from_btc_pct": 4,
-   "verdict": "Neutral",
-   "file": "LUNA.png"
-  },
-  {
-   "symbol": "HOLO",
-   "name": "Holoworld",
-   "sigma": 2.55,
-   "from_btc_pct": 2,
-   "verdict": "Neutral",
-   "file": "HOLO.png"
-  },
-  {
-   "symbol": "VIRTUAL",
-   "name": "Virtuals Protocol",
-   "sigma": 2.5,
-   "from_btc_pct": 37,
-   "verdict": "Neutral",
-   "file": "VIRTUAL.png"
+   "file": "TST.png"
   }
  ]
 }
