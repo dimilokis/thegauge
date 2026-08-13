@@ -1,7 +1,15 @@
 {
  "date": "2026-08-13",
- "generated_at": "2026-08-13T12:15:52.466929+00:00",
+ "generated_at": "2026-08-13T13:45:54.451892+00:00",
  "assets": [
+  {
+   "symbol": "NOT",
+   "name": "Notcoin",
+   "sigma": 3.42,
+   "from_btc_pct": 14,
+   "verdict": "Neutral",
+   "file": "NOT.png"
+  },
   {
    "symbol": "AVNT",
    "name": "Avantis",
@@ -11,20 +19,20 @@
    "file": "AVNT.png"
   },
   {
+   "symbol": "ATM",
+   "name": "Atletico Madrid Fan Token",
+   "sigma": 2.74,
+   "from_btc_pct": 1,
+   "verdict": "Neutral",
+   "file": "ATM.png"
+  },
+  {
    "symbol": "TST",
    "name": "Test",
    "sigma": 2.67,
    "from_btc_pct": 1,
    "verdict": "Neutral",
    "file": "TST.png"
-  },
-  {
-   "symbol": "ATM",
-   "name": "Atletico Madrid Fan Token",
-   "sigma": 2.65,
-   "from_btc_pct": 0,
-   "verdict": "Neutral",
-   "file": "ATM.png"
   },
   {
    "symbol": "GPS",

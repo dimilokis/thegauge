@@ -711,6 +711,10 @@
   "icon": "https://coin-images.coingecko.com/coins/images/69687/large/nomina_400x400.jpg?1759312531",
   "name": "Nomina"
  },
+ "NOT": {
+  "icon": "https://coin-images.coingecko.com/coins/images/33453/large/rFmThDiD_400x400.jpg",
+  "name": "Notcoin"
+ },
  "NXPC": {
   "icon": "https://coin-images.coingecko.com/coins/images/55703/large/wk63iOZz_400x400.png?1747126039",
   "name": "Nexpace"
