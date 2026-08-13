@@ -1,7 +1,15 @@
 {
  "date": "2026-08-13",
- "generated_at": "2026-08-13T14:15:54.447099+00:00",
+ "generated_at": "2026-08-13T16:01:00.511883+00:00",
  "assets": [
+  {
+   "symbol": "ENSO",
+   "name": "Enso",
+   "sigma": 4.34,
+   "from_btc_pct": 11,
+   "verdict": "Neutral",
+   "file": "ENSO.png"
+  },
   {
    "symbol": "NOT",
    "name": "Notcoin",
@@ -45,8 +53,8 @@
   {
    "symbol": "GPS",
    "name": "GoPlus Security",
-   "sigma": 2.51,
-   "from_btc_pct": 6,
+   "sigma": 2.57,
+   "from_btc_pct": 4,
    "verdict": "Overbought",
    "file": "GPS.png"
   }
