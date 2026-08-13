@@ -1,6 +1,6 @@
 {
  "date": "2026-08-13",
- "generated_at": "2026-08-13T11:45:49.934084+00:00",
+ "generated_at": "2026-08-13T12:15:52.466929+00:00",
  "assets": [
   {
    "symbol": "AVNT",
@@ -19,20 +19,20 @@
    "file": "TST.png"
   },
   {
+   "symbol": "ATM",
+   "name": "Atletico Madrid Fan Token",
+   "sigma": 2.65,
+   "from_btc_pct": 0,
+   "verdict": "Neutral",
+   "file": "ATM.png"
+  },
+  {
    "symbol": "GPS",
    "name": "GoPlus Security",
    "sigma": 2.51,
    "from_btc_pct": 6,
    "verdict": "Overbought",
    "file": "GPS.png"
-  },
-  {
-   "symbol": "ATM",
-   "name": "Atletico Madrid Fan Token",
-   "sigma": 2.5,
-   "from_btc_pct": 0,
-   "verdict": "Neutral",
-   "file": "ATM.png"
   }
  ]
 }
