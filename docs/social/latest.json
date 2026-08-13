@@ -1,6 +1,6 @@
 {
  "date": "2026-08-13",
- "generated_at": "2026-08-13T23:30:54.440081+00:00",
+ "generated_at": "2026-08-13T23:45:51.251999+00:00",
  "assets": [
   {
    "symbol": "SCRT",
@@ -35,6 +35,14 @@
    "file": "AVNT.png"
   },
   {
+   "symbol": "STORJ",
+   "name": "Storj",
+   "sigma": 2.72,
+   "from_btc_pct": 12,
+   "verdict": "Oversold",
+   "file": "STORJ.png"
+  },
+  {
    "symbol": "NOT",
    "name": "Notcoin",
    "sigma": 2.68,
@@ -57,14 +65,6 @@
    "from_btc_pct": 0,
    "verdict": "Neutral",
    "file": "ATM.png"
-  },
-  {
-   "symbol": "STORJ",
-   "name": "Storj",
-   "sigma": 2.59,
-   "from_btc_pct": 13,
-   "verdict": "Oversold",
-   "file": "STORJ.png"
   },
   {
    "symbol": "RARE",
