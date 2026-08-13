@@ -1,6 +1,6 @@
 {
  "date": "2026-08-13",
- "generated_at": "2026-08-13T13:45:54.451892+00:00",
+ "generated_at": "2026-08-13T14:15:54.447099+00:00",
  "assets": [
   {
    "symbol": "NOT",
@@ -33,6 +33,14 @@
    "from_btc_pct": 1,
    "verdict": "Neutral",
    "file": "TST.png"
+  },
+  {
+   "symbol": "ATOM",
+   "name": "Cosmos Hub",
+   "sigma": 2.65,
+   "from_btc_pct": 21,
+   "verdict": "Neutral",
+   "file": "ATOM.png"
   },
   {
    "symbol": "GPS",
