@@ -671,6 +671,10 @@
   "icon": "https://coin-images.coingecko.com/coins/images/29837/large/Morpho-token-icon.png?1726771230",
   "name": "Morpho"
  },
+ "MOVE": {
+  "icon": "https://coin-images.coingecko.com/coins/images/39345/large/movement-testnet-token.png",
+  "name": "Movement"
+ },
  "MOVR": {
   "icon": "https://coin-images.coingecko.com/coins/images/17984/large/Moonriver_MOVR_ICON.png?1716647589",
   "name": "Moonriver"
