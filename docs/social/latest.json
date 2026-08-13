@@ -1,7 +1,15 @@
 {
  "date": "2026-08-13",
- "generated_at": "2026-08-13T05:00:58.602263+00:00",
+ "generated_at": "2026-08-13T07:45:51.443519+00:00",
  "assets": [
+  {
+   "symbol": "ATM",
+   "name": "Atletico Madrid Fan Token",
+   "sigma": 3.36,
+   "from_btc_pct": 1,
+   "verdict": "Neutral",
+   "file": "ATM.png"
+  },
   {
    "symbol": "TST",
    "name": "Test",
