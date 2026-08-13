@@ -1,6 +1,6 @@
 {
  "date": "2026-08-13",
- "generated_at": "2026-08-13T20:30:57.580869+00:00",
+ "generated_at": "2026-08-13T21:45:46.087581+00:00",
  "assets": [
   {
    "symbol": "ENSO",
@@ -67,6 +67,14 @@
    "file": "GPS.png"
   },
   {
+   "symbol": "RARE",
+   "name": "SuperRare",
+   "sigma": 2.56,
+   "from_btc_pct": 3,
+   "verdict": "Oversold",
+   "file": "RARE.png"
+  },
+  {
    "symbol": "PLUME",
    "name": "Plume",
    "sigma": 2.52,
@@ -81,14 +89,6 @@
    "from_btc_pct": 2,
    "verdict": "Strong Uptrend",
    "file": "ETHFI.png"
-  },
-  {
-   "symbol": "RARE",
-   "name": "SuperRare",
-   "sigma": 2.5,
-   "from_btc_pct": 3,
-   "verdict": "Oversold",
-   "file": "RARE.png"
   }
  ]
 }
