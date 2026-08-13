@@ -1,6 +1,6 @@
 {
  "date": "2026-08-13",
- "generated_at": "2026-08-13T23:00:58.868519+00:00",
+ "generated_at": "2026-08-13T23:30:54.440081+00:00",
  "assets": [
   {
    "symbol": "SCRT",
@@ -33,14 +33,6 @@
    "from_btc_pct": 20,
    "verdict": "Neutral",
    "file": "AVNT.png"
-  },
-  {
-   "symbol": "ATOM",
-   "name": "Cosmos Hub",
-   "sigma": 2.72,
-   "from_btc_pct": 19,
-   "verdict": "Neutral",
-   "file": "ATOM.png"
   },
   {
    "symbol": "NOT",
@@ -83,6 +75,14 @@
    "file": "RARE.png"
   },
   {
+   "symbol": "GPS",
+   "name": "GoPlus Security",
+   "sigma": 2.54,
+   "from_btc_pct": 5,
+   "verdict": "Overbought",
+   "file": "GPS.png"
+  },
+  {
    "symbol": "PLUME",
    "name": "Plume",
    "sigma": 2.52,
@@ -91,12 +91,12 @@
    "file": "PLUME.png"
   },
   {
-   "symbol": "GPS",
-   "name": "GoPlus Security",
-   "sigma": 2.51,
-   "from_btc_pct": 5,
-   "verdict": "Overbought",
-   "file": "GPS.png"
+   "symbol": "ATOM",
+   "name": "Cosmos Hub",
+   "sigma": 2.52,
+   "from_btc_pct": 18,
+   "verdict": "Neutral",
+   "file": "ATOM.png"
   }
  ]
 }
