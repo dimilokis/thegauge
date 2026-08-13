@@ -1,7 +1,15 @@
 {
  "date": "2026-08-13",
- "generated_at": "2026-08-13T07:45:51.443519+00:00",
+ "generated_at": "2026-08-13T09:45:53.560638+00:00",
  "assets": [
+  {
+   "symbol": "AVNT",
+   "name": "Avantis",
+   "sigma": 6.58,
+   "from_btc_pct": 14,
+   "verdict": "Neutral",
+   "file": "AVNT.png"
+  },
   {
    "symbol": "ATM",
    "name": "Atletico Madrid Fan Token",
