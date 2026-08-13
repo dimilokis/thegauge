@@ -1,6 +1,6 @@
 {
  "date": "2026-08-13",
- "generated_at": "2026-08-13T22:15:53.681601+00:00",
+ "generated_at": "2026-08-13T22:30:50.855135+00:00",
  "assets": [
   {
    "symbol": "ENSO",
@@ -57,6 +57,14 @@
    "from_btc_pct": 0,
    "verdict": "Neutral",
    "file": "ATM.png"
+  },
+  {
+   "symbol": "STORJ",
+   "name": "Storj",
+   "sigma": 2.59,
+   "from_btc_pct": 13,
+   "verdict": "Oversold",
+   "file": "STORJ.png"
   },
   {
    "symbol": "RARE",
