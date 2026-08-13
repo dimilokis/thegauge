@@ -1,6 +1,6 @@
 {
  "date": "2026-08-13",
- "generated_at": "2026-08-13T16:30:58.033174+00:00",
+ "generated_at": "2026-08-13T17:15:53.838942+00:00",
  "assets": [
   {
    "symbol": "ENSO",
@@ -29,8 +29,8 @@
   {
    "symbol": "ATOM",
    "name": "Cosmos Hub",
-   "sigma": 2.65,
-   "from_btc_pct": 21,
+   "sigma": 2.62,
+   "from_btc_pct": 14,
    "verdict": "Neutral",
    "file": "ATOM.png"
   },
