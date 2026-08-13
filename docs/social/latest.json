@@ -1,6 +1,6 @@
 {
  "date": "2026-08-13",
- "generated_at": "2026-08-13T17:15:53.838942+00:00",
+ "generated_at": "2026-08-13T17:24:58.662306+00:00",
  "assets": [
   {
    "symbol": "ENSO",
@@ -9,6 +9,14 @@
    "from_btc_pct": 11,
    "verdict": "Neutral",
    "file": "ENSO.png"
+  },
+  {
+   "symbol": "ATM",
+   "name": "Atletico Madrid Fan Token",
+   "sigma": 3.72,
+   "from_btc_pct": 0,
+   "verdict": "Neutral",
+   "file": "ATM.png"
   },
   {
    "symbol": "AVNT",
@@ -51,12 +59,12 @@
    "file": "NOT.png"
   },
   {
-   "symbol": "ATM",
-   "name": "Atletico Madrid Fan Token",
-   "sigma": 2.53,
-   "from_btc_pct": 0,
+   "symbol": "PLUME",
+   "name": "Plume",
+   "sigma": 2.52,
+   "from_btc_pct": 2,
    "verdict": "Neutral",
-   "file": "ATM.png"
+   "file": "PLUME.png"
   }
  ]
 }
