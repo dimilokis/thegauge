@@ -71,6 +71,10 @@
   "icon": "https://coin-images.coingecko.com/coins/images/71027/large/gensyn.png?1765331043",
   "name": "Gensyn"
  },
+ "AIXBT": {
+  "icon": "https://coin-images.coingecko.com/coins/images/51784/large/3.png",
+  "name": "aixbt"
+ },
  "ALGO": {
   "icon": "https://coin-images.coingecko.com/coins/images/4380/large/download.png?1696504978",
   "name": "Algorand"
