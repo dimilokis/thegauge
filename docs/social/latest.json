@@ -1,6 +1,6 @@
 {
  "date": "2026-08-13",
- "generated_at": "2026-08-13T19:01:03.983966+00:00",
+ "generated_at": "2026-08-13T19:16:07.805060+00:00",
  "assets": [
   {
    "symbol": "ENSO",
@@ -9,6 +9,14 @@
    "from_btc_pct": 11,
    "verdict": "Neutral",
    "file": "ENSO.png"
+  },
+  {
+   "symbol": "EDEN",
+   "name": "OpenEden",
+   "sigma": 2.99,
+   "from_btc_pct": 1,
+   "verdict": "Neutral",
+   "file": "EDEN.png"
   },
   {
    "symbol": "AVNT",
