@@ -1,12 +1,12 @@
 {
  "date": "2026-08-13",
- "generated_at": "2026-08-13T10:36:24.127350+00:00",
+ "generated_at": "2026-08-13T11:15:49.615512+00:00",
  "assets": [
   {
    "symbol": "AVNT",
    "name": "Avantis",
-   "sigma": 6.58,
-   "from_btc_pct": 14,
+   "sigma": 2.91,
+   "from_btc_pct": 20,
    "verdict": "Neutral",
    "file": "AVNT.png"
   },
@@ -25,6 +25,14 @@
    "from_btc_pct": 1,
    "verdict": "Neutral",
    "file": "TST.png"
+  },
+  {
+   "symbol": "GPS",
+   "name": "GoPlus Security",
+   "sigma": 2.51,
+   "from_btc_pct": 6,
+   "verdict": "Overbought",
+   "file": "GPS.png"
   }
  ]
 }
