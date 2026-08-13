@@ -1,6 +1,6 @@
 {
  "date": "2026-08-13",
- "generated_at": "2026-08-13T20:00:58.583119+00:00",
+ "generated_at": "2026-08-13T20:30:57.580869+00:00",
  "assets": [
   {
    "symbol": "ENSO",
@@ -51,20 +51,20 @@
    "file": "ATOM.png"
   },
   {
+   "symbol": "ATM",
+   "name": "Atletico Madrid Fan Token",
+   "sigma": 2.6,
+   "from_btc_pct": 0,
+   "verdict": "Neutral",
+   "file": "ATM.png"
+  },
+  {
    "symbol": "GPS",
    "name": "GoPlus Security",
    "sigma": 2.57,
    "from_btc_pct": 4,
    "verdict": "Overbought",
    "file": "GPS.png"
-  },
-  {
-   "symbol": "ATM",
-   "name": "Atletico Madrid Fan Token",
-   "sigma": 2.54,
-   "from_btc_pct": 0,
-   "verdict": "Neutral",
-   "file": "ATM.png"
   },
   {
    "symbol": "PLUME",
