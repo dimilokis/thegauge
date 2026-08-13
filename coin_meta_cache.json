@@ -24,7 +24,7 @@
   "name": "Baby Doge Coin"
  },
  "2Z": {
-  "icon": "https://coin-images.coingecko.com/coins/images/68339/large/Coingecko_-_PFP.png",
+  "icon": "https://coin-images.coingecko.com/coins/images/68339/large/Coingecko_-_PFP.png?1755694420",
   "name": "DoubleZero"
  },
  "AAVE": {
@@ -122,6 +122,10 @@
  "ASTER": {
   "icon": "https://coin-images.coingecko.com/coins/images/69040/large/_ASTER.png?1757326782",
   "name": "Aster"
+ },
+ "AT": {
+  "icon": "https://coin-images.coingecko.com/coins/images/70222/large/apro.png?1761119633",
+  "name": "Apro"
  },
  "ATM": {
   "icon": "https://coin-images.coingecko.com/coins/images/11689/large/ATM.png?1741425591",
@@ -495,6 +499,10 @@
   "icon": "https://coin-images.coingecko.com/coins/images/14495/large/Internet_Computer_logo.png?1696514180",
   "name": "Internet Computer"
  },
+ "ID": {
+  "icon": "https://coin-images.coingecko.com/coins/images/29468/large/sid_token_logo_%28green2%29.png?1696528413",
+  "name": "SPACE ID"
+ },
  "IMX": {
   "icon": "https://coin-images.coingecko.com/coins/images/17233/large/immutableX-symbol-BLK-RGB.png",
   "name": "Immutable"
@@ -596,7 +604,7 @@
   "name": "Livepeer"
  },
  "LSK": {
-  "icon": "https://coin-images.coingecko.com/coins/images/385/large/Logo_-_Black_with_White_Outline_on_Transparent.png",
+  "icon": "https://coin-images.coingecko.com/coins/images/385/large/Logo_-_Black_with_White_Outline_on_Transparent.png?1769242213",
   "name": "Lisk"
  },
  "LTC": {
@@ -692,7 +700,7 @@
   "name": "Nomina"
  },
  "NXPC": {
-  "icon": "https://coin-images.coingecko.com/coins/images/55703/large/wk63iOZz_400x400.png",
+  "icon": "https://coin-images.coingecko.com/coins/images/55703/large/wk63iOZz_400x400.png?1747126039",
   "name": "Nexpace"
  },
  "OGN": {
@@ -820,7 +828,7 @@
   "name": "Radworks"
  },
  "RARE": {
-  "icon": "https://coin-images.coingecko.com/coins/images/17753/large/RARE.png",
+  "icon": "https://coin-images.coingecko.com/coins/images/17753/large/RARE.png?1709598473",
   "name": "SuperRare"
  },
  "RE": {
@@ -904,7 +912,7 @@
   "name": "Scroll"
  },
  "SCRT": {
-  "icon": "https://coin-images.coingecko.com/coins/images/11871/large/scrt_200.png",
+  "icon": "https://coin-images.coingecko.com/coins/images/11871/large/scrt_200.png?1733344413",
   "name": "Secret"
  },
  "SEI": {
@@ -1024,7 +1032,7 @@
   "name": "Towns"
  },
  "TRB": {
-  "icon": "https://coin-images.coingecko.com/coins/images/9644/large/TRB-New_Logo.png",
+  "icon": "https://coin-images.coingecko.com/coins/images/9644/large/TRB-New_Logo.png?1737722143",
   "name": "Tellor Tributes"
  },
  "TREE": {
