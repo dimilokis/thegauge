@@ -1,6 +1,6 @@
 {
  "date": "2026-08-13",
- "generated_at": "2026-08-13T21:45:46.087581+00:00",
+ "generated_at": "2026-08-13T22:15:53.681601+00:00",
  "assets": [
   {
    "symbol": "ENSO",
@@ -27,6 +27,14 @@
    "file": "AVNT.png"
   },
   {
+   "symbol": "ATOM",
+   "name": "Cosmos Hub",
+   "sigma": 2.72,
+   "from_btc_pct": 19,
+   "verdict": "Neutral",
+   "file": "ATOM.png"
+  },
+  {
    "symbol": "NOT",
    "name": "Notcoin",
    "sigma": 2.68,
@@ -43,14 +51,6 @@
    "file": "TST.png"
   },
   {
-   "symbol": "ATOM",
-   "name": "Cosmos Hub",
-   "sigma": 2.62,
-   "from_btc_pct": 17,
-   "verdict": "Neutral",
-   "file": "ATOM.png"
-  },
-  {
    "symbol": "ATM",
    "name": "Atletico Madrid Fan Token",
    "sigma": 2.6,
@@ -59,20 +59,20 @@
    "file": "ATM.png"
   },
   {
-   "symbol": "GPS",
-   "name": "GoPlus Security",
-   "sigma": 2.57,
-   "from_btc_pct": 4,
-   "verdict": "Overbought",
-   "file": "GPS.png"
-  },
-  {
    "symbol": "RARE",
    "name": "SuperRare",
    "sigma": 2.56,
    "from_btc_pct": 3,
    "verdict": "Oversold",
    "file": "RARE.png"
+  },
+  {
+   "symbol": "GPS",
+   "name": "GoPlus Security",
+   "sigma": 2.54,
+   "from_btc_pct": 6,
+   "verdict": "Overbought",
+   "file": "GPS.png"
   },
   {
    "symbol": "PLUME",
