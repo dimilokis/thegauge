@@ -1,6 +1,6 @@
 {
  "date": "2026-08-13",
- "generated_at": "2026-08-13T18:31:00.061097+00:00",
+ "generated_at": "2026-08-13T19:01:03.983966+00:00",
  "assets": [
   {
    "symbol": "ENSO",
@@ -9,14 +9,6 @@
    "from_btc_pct": 11,
    "verdict": "Neutral",
    "file": "ENSO.png"
-  },
-  {
-   "symbol": "ATM",
-   "name": "Atletico Madrid Fan Token",
-   "sigma": 3.72,
-   "from_btc_pct": 0,
-   "verdict": "Neutral",
-   "file": "ATM.png"
   },
   {
    "symbol": "AVNT",
@@ -59,6 +51,14 @@
    "file": "GPS.png"
   },
   {
+   "symbol": "ATM",
+   "name": "Atletico Madrid Fan Token",
+   "sigma": 2.54,
+   "from_btc_pct": 0,
+   "verdict": "Neutral",
+   "file": "ATM.png"
+  },
+  {
    "symbol": "PLUME",
    "name": "Plume",
    "sigma": 2.52,
@@ -73,6 +73,14 @@
    "from_btc_pct": 2,
    "verdict": "Strong Uptrend",
    "file": "ETHFI.png"
+  },
+  {
+   "symbol": "RARE",
+   "name": "SuperRare",
+   "sigma": 2.5,
+   "from_btc_pct": 3,
+   "verdict": "Oversold",
+   "file": "RARE.png"
   }
  ]
 }
