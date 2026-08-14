@@ -1,7 +1,15 @@
 {
  "date": "2026-08-14",
- "generated_at": "2026-08-14T15:45:48.208855+00:00",
+ "generated_at": "2026-08-14T16:01:03.347606+00:00",
  "assets": [
+  {
+   "symbol": "ALICE",
+   "name": "My Neighbor Alice",
+   "sigma": 4.94,
+   "from_btc_pct": 0,
+   "verdict": "Overbought",
+   "file": "ALICE.png"
+  },
   {
    "symbol": "RVN",
    "name": "Ravencoin",
@@ -27,6 +35,14 @@
    "file": "XAI.png"
   },
   {
+   "symbol": "MOVE",
+   "name": "Movement",
+   "sigma": 3.36,
+   "from_btc_pct": 15,
+   "verdict": "Oversold",
+   "file": "MOVE.png"
+  },
+  {
    "symbol": "PIXEL",
    "name": "Pixels",
    "sigma": 3.26,
@@ -41,14 +57,6 @@
    "from_btc_pct": 14,
    "verdict": "Oversold",
    "file": "MOVR.png"
-  },
-  {
-   "symbol": "ALICE",
-   "name": "My Neighbor Alice",
-   "sigma": 2.82,
-   "from_btc_pct": 1,
-   "verdict": "Neutral",
-   "file": "ALICE.png"
   },
   {
    "symbol": "SCRT",
