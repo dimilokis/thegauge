@@ -1,6 +1,6 @@
 {
  "date": "2026-08-14",
- "generated_at": "2026-08-14T21:45:58.812773+00:00",
+ "generated_at": "2026-08-14T22:00:54.312402+00:00",
  "assets": [
   {
    "symbol": "DOLO",
@@ -59,6 +59,14 @@
    "file": "ALICE.png"
   },
   {
+   "symbol": "XAI",
+   "name": "Xai",
+   "sigma": 2.7,
+   "from_btc_pct": 2,
+   "verdict": "Neutral",
+   "file": "XAI.png"
+  },
+  {
    "symbol": "MOVR",
    "name": "Moonriver",
    "sigma": 2.59,
@@ -73,14 +81,6 @@
    "from_btc_pct": 2,
    "verdict": "Oversold",
    "file": "SCRT.png"
-  },
-  {
-   "symbol": "XAI",
-   "name": "Xai",
-   "sigma": 2.56,
-   "from_btc_pct": 2,
-   "verdict": "Neutral",
-   "file": "XAI.png"
   },
   {
    "symbol": "ACE",
