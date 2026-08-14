@@ -1,6 +1,6 @@
 {
  "date": "2026-08-14",
- "generated_at": "2026-08-14T15:01:01.119984+00:00",
+ "generated_at": "2026-08-14T15:05:18.553536+00:00",
  "assets": [
   {
    "symbol": "RVN",
@@ -41,6 +41,14 @@
    "from_btc_pct": 14,
    "verdict": "Oversold",
    "file": "MOVR.png"
+  },
+  {
+   "symbol": "ALICE",
+   "name": "My Neighbor Alice",
+   "sigma": 2.82,
+   "from_btc_pct": 1,
+   "verdict": "Neutral",
+   "file": "ALICE.png"
   },
   {
    "symbol": "SCRT",
