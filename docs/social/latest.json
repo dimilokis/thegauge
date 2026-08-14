@@ -1,7 +1,15 @@
 {
  "date": "2026-08-14",
- "generated_at": "2026-08-14T09:45:50.635647+00:00",
+ "generated_at": "2026-08-14T10:37:27.356110+00:00",
  "assets": [
+  {
+   "symbol": "XAI",
+   "name": "Xai",
+   "sigma": 4.26,
+   "from_btc_pct": 1,
+   "verdict": "Neutral",
+   "file": "XAI.png"
+  },
   {
    "symbol": "2Z",
    "name": "DoubleZero",
