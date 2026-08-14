@@ -1,7 +1,15 @@
 {
  "date": "2026-08-14",
- "generated_at": "2026-08-14T13:00:59.012855+00:00",
+ "generated_at": "2026-08-14T14:15:52.479171+00:00",
  "assets": [
+  {
+   "symbol": "RVN",
+   "name": "Ravencoin",
+   "sigma": 4.31,
+   "from_btc_pct": 2,
+   "verdict": "Oversold",
+   "file": "RVN.png"
+  },
   {
    "symbol": "XAI",
    "name": "Xai",
