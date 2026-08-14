@@ -1,6 +1,6 @@
 {
  "date": "2026-08-14",
- "generated_at": "2026-08-14T18:01:00.786931+00:00",
+ "generated_at": "2026-08-14T20:15:52.606682+00:00",
  "assets": [
   {
    "symbol": "DOLO",
@@ -61,8 +61,8 @@
   {
    "symbol": "MOVR",
    "name": "Moonriver",
-   "sigma": 2.9,
-   "from_btc_pct": 14,
+   "sigma": 2.59,
+   "from_btc_pct": 12,
    "verdict": "Oversold",
    "file": "MOVR.png"
   },
