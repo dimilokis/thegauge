@@ -327,6 +327,10 @@
   "icon": "https://coin-images.coingecko.com/coins/images/39699/large/dogs_logo_200x200.png?1723687163",
   "name": "Dogs"
  },
+ "DOLO": {
+  "icon": "https://coin-images.coingecko.com/coins/images/54710/large/DOLO-small.png",
+  "name": "Dolomite"
+ },
  "DOT": {
   "icon": "https://coin-images.coingecko.com/coins/images/12171/large/polkadot.jpg?1766533446",
   "name": "Polkadot"
