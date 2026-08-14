@@ -1,6 +1,6 @@
 {
  "date": "2026-08-14",
- "generated_at": "2026-08-14T12:45:51.111647+00:00",
+ "generated_at": "2026-08-14T13:00:59.012855+00:00",
  "assets": [
   {
    "symbol": "XAI",
@@ -27,6 +27,14 @@
    "file": "MOVR.png"
   },
   {
+   "symbol": "PIXEL",
+   "name": "Pixels",
+   "sigma": 2.89,
+   "from_btc_pct": 1,
+   "verdict": "Neutral",
+   "file": "PIXEL.png"
+  },
+  {
    "symbol": "SCRT",
    "name": "Secret",
    "sigma": 2.56,
@@ -41,14 +49,6 @@
    "from_btc_pct": 4,
    "verdict": "Overbought",
    "file": "ACE.png"
-  },
-  {
-   "symbol": "PIXEL",
-   "name": "Pixels",
-   "sigma": 2.51,
-   "from_btc_pct": 2,
-   "verdict": "Neutral",
-   "file": "PIXEL.png"
   }
  ]
 }
