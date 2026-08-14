@@ -1,6 +1,6 @@
 {
  "date": "2026-08-14",
- "generated_at": "2026-08-14T14:30:58.070202+00:00",
+ "generated_at": "2026-08-14T15:01:01.119984+00:00",
  "assets": [
   {
    "symbol": "RVN",
@@ -27,20 +27,20 @@
    "file": "2Z.png"
   },
   {
+   "symbol": "PIXEL",
+   "name": "Pixels",
+   "sigma": 3.26,
+   "from_btc_pct": 1,
+   "verdict": "Neutral",
+   "file": "PIXEL.png"
+  },
+  {
    "symbol": "MOVR",
    "name": "Moonriver",
    "sigma": 2.9,
    "from_btc_pct": 14,
    "verdict": "Oversold",
    "file": "MOVR.png"
-  },
-  {
-   "symbol": "PIXEL",
-   "name": "Pixels",
-   "sigma": 2.79,
-   "from_btc_pct": 1,
-   "verdict": "Neutral",
-   "file": "PIXEL.png"
   },
   {
    "symbol": "SCRT",
