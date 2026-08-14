@@ -1,102 +1,14 @@
 {
- "date": "2026-08-13",
- "generated_at": "2026-08-13T23:45:51.251999+00:00",
+ "date": "2026-08-14",
+ "generated_at": "2026-08-14T05:30:55.422685+00:00",
  "assets": [
   {
-   "symbol": "SCRT",
-   "name": "Secret",
-   "sigma": 6.43,
-   "from_btc_pct": 2,
-   "verdict": "Neutral",
-   "file": "SCRT.png"
-  },
-  {
-   "symbol": "ENSO",
-   "name": "Enso",
-   "sigma": 4.34,
-   "from_btc_pct": 11,
-   "verdict": "Neutral",
-   "file": "ENSO.png"
-  },
-  {
-   "symbol": "EDEN",
-   "name": "OpenEden",
-   "sigma": 2.99,
-   "from_btc_pct": 1,
-   "verdict": "Neutral",
-   "file": "EDEN.png"
-  },
-  {
-   "symbol": "AVNT",
-   "name": "Avantis",
-   "sigma": 2.91,
-   "from_btc_pct": 20,
-   "verdict": "Neutral",
-   "file": "AVNT.png"
-  },
-  {
-   "symbol": "STORJ",
-   "name": "Storj",
-   "sigma": 2.72,
-   "from_btc_pct": 12,
-   "verdict": "Oversold",
-   "file": "STORJ.png"
-  },
-  {
-   "symbol": "NOT",
-   "name": "Notcoin",
-   "sigma": 2.68,
-   "from_btc_pct": 8,
-   "verdict": "Neutral",
-   "file": "NOT.png"
-  },
-  {
-   "symbol": "TST",
-   "name": "Test",
-   "sigma": 2.67,
-   "from_btc_pct": 1,
-   "verdict": "Neutral",
-   "file": "TST.png"
-  },
-  {
-   "symbol": "ATM",
-   "name": "Atletico Madrid Fan Token",
-   "sigma": 2.6,
-   "from_btc_pct": 0,
-   "verdict": "Neutral",
-   "file": "ATM.png"
-  },
-  {
-   "symbol": "RARE",
-   "name": "SuperRare",
-   "sigma": 2.56,
-   "from_btc_pct": 3,
-   "verdict": "Oversold",
-   "file": "RARE.png"
-  },
-  {
-   "symbol": "GPS",
-   "name": "GoPlus Security",
-   "sigma": 2.54,
+   "symbol": "2Z",
+   "name": "DoubleZero",
+   "sigma": 3.71,
    "from_btc_pct": 5,
-   "verdict": "Overbought",
-   "file": "GPS.png"
-  },
-  {
-   "symbol": "PLUME",
-   "name": "Plume",
-   "sigma": 2.52,
-   "from_btc_pct": 2,
-   "verdict": "Neutral",
-   "file": "PLUME.png"
-  },
-  {
-   "symbol": "ATOM",
-   "name": "Cosmos Hub",
-   "sigma": 2.52,
-   "from_btc_pct": 18,
-   "verdict": "Neutral",
-   "file": "ATOM.png"
+   "verdict": "Oversold",
+   "file": "2Z.png"
   }
  ]
 }
