@@ -1,6 +1,6 @@
 {
  "date": "2026-08-14",
- "generated_at": "2026-08-14T15:15:47.478188+00:00",
+ "generated_at": "2026-08-14T15:45:48.208855+00:00",
  "assets": [
   {
    "symbol": "RVN",
@@ -19,10 +19,18 @@
    "file": "2Z.png"
   },
   {
+   "symbol": "XAI",
+   "name": "Xai",
+   "sigma": 3.55,
+   "from_btc_pct": 2,
+   "verdict": "Neutral",
+   "file": "XAI.png"
+  },
+  {
    "symbol": "PIXEL",
    "name": "Pixels",
    "sigma": 3.26,
-   "from_btc_pct": 1,
+   "from_btc_pct": 2,
    "verdict": "Neutral",
    "file": "PIXEL.png"
   },
@@ -41,14 +49,6 @@
    "from_btc_pct": 1,
    "verdict": "Neutral",
    "file": "ALICE.png"
-  },
-  {
-   "symbol": "XAI",
-   "name": "Xai",
-   "sigma": 2.77,
-   "from_btc_pct": 1,
-   "verdict": "Neutral",
-   "file": "XAI.png"
   },
   {
    "symbol": "SCRT",
