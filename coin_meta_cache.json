@@ -215,6 +215,10 @@
   "icon": "https://coin-images.coingecko.com/coins/images/825/large/bnb-icon2_2x.png?1696501970",
   "name": "BNB"
  },
+ "BNSOL": {
+  "icon": "https://coin-images.coingecko.com/coins/images/40132/large/bnsol.png",
+  "name": "Binance Staked SOL"
+ },
  "BOME": {
   "icon": "https://coin-images.coingecko.com/coins/images/36071/large/bome.png?1710407255",
   "name": "BOOK OF MEME"

@@ -1,6 +1,6 @@
 {
  "date": "2026-08-14",
- "generated_at": "2026-08-14T05:30:55.422685+00:00",
+ "generated_at": "2026-08-14T08:30:57.376478+00:00",
  "assets": [
   {
    "symbol": "2Z",
@@ -9,6 +9,14 @@
    "from_btc_pct": 5,
    "verdict": "Oversold",
    "file": "2Z.png"
+  },
+  {
+   "symbol": "MOVR",
+   "name": "Moonriver",
+   "sigma": 2.55,
+   "from_btc_pct": 14,
+   "verdict": "Oversold",
+   "file": "MOVR.png"
   }
  ]
 }
