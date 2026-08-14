@@ -1,6 +1,6 @@
 {
  "date": "2026-08-14",
- "generated_at": "2026-08-14T12:27:23.470862+00:00",
+ "generated_at": "2026-08-14T12:45:51.111647+00:00",
  "assets": [
   {
    "symbol": "XAI",
@@ -21,7 +21,7 @@
   {
    "symbol": "MOVR",
    "name": "Moonriver",
-   "sigma": 2.62,
+   "sigma": 2.9,
    "from_btc_pct": 14,
    "verdict": "Oversold",
    "file": "MOVR.png"
