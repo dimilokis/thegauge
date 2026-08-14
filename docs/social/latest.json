@@ -1,6 +1,6 @@
 {
  "date": "2026-08-14",
- "generated_at": "2026-08-14T22:00:54.312402+00:00",
+ "generated_at": "2026-08-14T22:30:59.323817+00:00",
  "assets": [
   {
    "symbol": "DOLO",
@@ -43,20 +43,20 @@
    "file": "MOVE.png"
   },
   {
-   "symbol": "PIXEL",
-   "name": "Pixels",
-   "sigma": 3.26,
-   "from_btc_pct": 2,
-   "verdict": "Neutral",
-   "file": "PIXEL.png"
-  },
-  {
    "symbol": "ALICE",
    "name": "My Neighbor Alice",
    "sigma": 3.16,
    "from_btc_pct": 0,
    "verdict": "Overbought",
    "file": "ALICE.png"
+  },
+  {
+   "symbol": "PIXEL",
+   "name": "Pixels",
+   "sigma": 3.16,
+   "from_btc_pct": 2,
+   "verdict": "Neutral",
+   "file": "PIXEL.png"
   },
   {
    "symbol": "XAI",
