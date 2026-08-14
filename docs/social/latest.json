@@ -1,6 +1,6 @@
 {
  "date": "2026-08-14",
- "generated_at": "2026-08-14T14:15:52.479171+00:00",
+ "generated_at": "2026-08-14T14:30:58.070202+00:00",
  "assets": [
   {
    "symbol": "RVN",
@@ -37,7 +37,7 @@
   {
    "symbol": "PIXEL",
    "name": "Pixels",
-   "sigma": 2.89,
+   "sigma": 2.79,
    "from_btc_pct": 1,
    "verdict": "Neutral",
    "file": "PIXEL.png"
