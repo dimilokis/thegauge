@@ -1,6 +1,6 @@
 {
  "date": "2026-08-14",
- "generated_at": "2026-08-14T20:30:53.851338+00:00",
+ "generated_at": "2026-08-14T21:45:58.812773+00:00",
  "assets": [
   {
    "symbol": "DOLO",
@@ -33,14 +33,6 @@
    "from_btc_pct": 1,
    "verdict": "Oversold",
    "file": "GUN.png"
-  },
-  {
-   "symbol": "XAI",
-   "name": "Xai",
-   "sigma": 3.55,
-   "from_btc_pct": 2,
-   "verdict": "Neutral",
-   "file": "XAI.png"
   },
   {
    "symbol": "MOVE",
@@ -81,6 +73,14 @@
    "from_btc_pct": 2,
    "verdict": "Oversold",
    "file": "SCRT.png"
+  },
+  {
+   "symbol": "XAI",
+   "name": "Xai",
+   "sigma": 2.56,
+   "from_btc_pct": 2,
+   "verdict": "Neutral",
+   "file": "XAI.png"
   },
   {
    "symbol": "ACE",
