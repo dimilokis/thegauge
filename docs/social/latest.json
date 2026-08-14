@@ -1,6 +1,6 @@
 {
  "date": "2026-08-14",
- "generated_at": "2026-08-14T20:15:52.606682+00:00",
+ "generated_at": "2026-08-14T20:30:53.851338+00:00",
  "assets": [
   {
    "symbol": "DOLO",
@@ -25,6 +25,14 @@
    "from_btc_pct": 5,
    "verdict": "Oversold",
    "file": "2Z.png"
+  },
+  {
+   "symbol": "GUN",
+   "name": "Gunz",
+   "sigma": 3.61,
+   "from_btc_pct": 1,
+   "verdict": "Oversold",
+   "file": "GUN.png"
   },
   {
    "symbol": "XAI",
