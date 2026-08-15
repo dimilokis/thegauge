@@ -1,6 +1,6 @@
 {
  "date": "2026-08-15",
- "generated_at": "2026-08-15T10:30:54.255095+00:00",
+ "generated_at": "2026-08-15T11:45:51.737166+00:00",
  "assets": [
   {
    "symbol": "COW",
@@ -77,7 +77,7 @@
   {
    "symbol": "PLUME",
    "name": "Plume",
-   "sigma": 2.63,
+   "sigma": 2.6,
    "from_btc_pct": 3,
    "verdict": "Overbought",
    "file": "PLUME.png"
