@@ -1,6 +1,6 @@
 {
  "date": "2026-08-15",
- "generated_at": "2026-08-15T12:30:58.283861+00:00",
+ "generated_at": "2026-08-15T12:45:52.029030+00:00",
  "assets": [
   {
    "symbol": "COW",
@@ -35,12 +35,28 @@
    "file": "ONG.png"
   },
   {
+   "symbol": "HUMA",
+   "name": "Huma Finance",
+   "sigma": 3.35,
+   "from_btc_pct": 0,
+   "verdict": "Neutral",
+   "file": "HUMA.png"
+  },
+  {
    "symbol": "BFUSD",
    "name": "BFUSD",
    "sigma": 3.15,
    "from_btc_pct": 2,
    "verdict": "Overbought",
    "file": "BFUSD.png"
+  },
+  {
+   "symbol": "ILV",
+   "name": "Illuvium",
+   "sigma": 2.92,
+   "from_btc_pct": 8,
+   "verdict": "Oversold",
+   "file": "ILV.png"
   },
   {
    "symbol": "PLUME",
