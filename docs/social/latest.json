@@ -1,6 +1,6 @@
 {
  "date": "2026-08-15",
- "generated_at": "2026-08-15T21:54:25.560284+00:00",
+ "generated_at": "2026-08-15T22:30:52.055288+00:00",
  "assets": [
   {
    "symbol": "COW",
@@ -67,6 +67,14 @@
    "file": "BOME.png"
   },
   {
+   "symbol": "DOLO",
+   "name": "Dolomite",
+   "sigma": 2.77,
+   "from_btc_pct": 4,
+   "verdict": "Oversold",
+   "file": "DOLO.png"
+  },
+  {
    "symbol": "ALICE",
    "name": "My Neighbor Alice",
    "sigma": 2.73,
@@ -89,14 +97,6 @@
    "from_btc_pct": 26,
    "verdict": "Strong Uptrend",
    "file": "LINK.png"
-  },
-  {
-   "symbol": "DOLO",
-   "name": "Dolomite",
-   "sigma": 2.66,
-   "from_btc_pct": 5,
-   "verdict": "Oversold",
-   "file": "DOLO.png"
   }
  ]
 }
