@@ -1,7 +1,15 @@
 {
  "date": "2026-08-15",
- "generated_at": "2026-08-15T04:30:57.663987+00:00",
+ "generated_at": "2026-08-15T06:45:50.480074+00:00",
  "assets": [
+  {
+   "symbol": "ONG",
+   "name": "Ontology Gas",
+   "sigma": 3.41,
+   "from_btc_pct": 8,
+   "verdict": "Neutral",
+   "file": "ONG.png"
+  },
   {
    "symbol": "BFUSD",
    "name": "BFUSD",
@@ -17,6 +25,14 @@
    "from_btc_pct": 5,
    "verdict": "Overbought",
    "file": "ROBO.png"
+  },
+  {
+   "symbol": "MOVR",
+   "name": "Moonriver",
+   "sigma": 2.78,
+   "from_btc_pct": 9,
+   "verdict": "Oversold",
+   "file": "MOVR.png"
   }
  ]
 }
