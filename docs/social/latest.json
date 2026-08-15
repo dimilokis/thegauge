@@ -1,6 +1,6 @@
 {
  "date": "2026-08-15",
- "generated_at": "2026-08-15T10:12:01.944810+00:00",
+ "generated_at": "2026-08-15T10:30:54.255095+00:00",
  "assets": [
   {
    "symbol": "COW",
@@ -73,6 +73,14 @@
    "from_btc_pct": 5,
    "verdict": "Oversold",
    "file": "DOLO.png"
+  },
+  {
+   "symbol": "PLUME",
+   "name": "Plume",
+   "sigma": 2.63,
+   "from_btc_pct": 3,
+   "verdict": "Overbought",
+   "file": "PLUME.png"
   }
  ]
 }
