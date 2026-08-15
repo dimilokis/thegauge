@@ -1,6 +1,6 @@
 {
  "date": "2026-08-15",
- "generated_at": "2026-08-15T12:45:52.029030+00:00",
+ "generated_at": "2026-08-15T13:15:51.013156+00:00",
  "assets": [
   {
    "symbol": "COW",
@@ -17,6 +17,14 @@
    "from_btc_pct": 4,
    "verdict": "Neutral",
    "file": "WAL.png"
+  },
+  {
+   "symbol": "MOVR",
+   "name": "Moonriver",
+   "sigma": 8.09,
+   "from_btc_pct": 5,
+   "verdict": "Oversold",
+   "file": "MOVR.png"
   },
   {
    "symbol": "HEMI",
@@ -65,14 +73,6 @@
    "from_btc_pct": 2,
    "verdict": "Overbought",
    "file": "PLUME.png"
-  },
-  {
-   "symbol": "MOVR",
-   "name": "Moonriver",
-   "sigma": 2.78,
-   "from_btc_pct": 9,
-   "verdict": "Oversold",
-   "file": "MOVR.png"
   },
   {
    "symbol": "ALICE",
