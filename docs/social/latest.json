@@ -1,6 +1,6 @@
 {
  "date": "2026-08-15",
- "generated_at": "2026-08-15T17:30:49.822510+00:00",
+ "generated_at": "2026-08-15T19:15:48.702116+00:00",
  "assets": [
   {
    "symbol": "COW",
@@ -51,6 +51,14 @@
    "file": "PLUME.png"
   },
   {
+   "symbol": "CHIP",
+   "name": "USD.AI",
+   "sigma": 2.85,
+   "from_btc_pct": 2,
+   "verdict": "Neutral",
+   "file": "CHIP.png"
+  },
+  {
    "symbol": "BOME",
    "name": "BOOK OF MEME",
    "sigma": 2.83,
@@ -89,14 +97,6 @@
    "from_btc_pct": 0,
    "verdict": "Neutral",
    "file": "HUMA.png"
-  },
-  {
-   "symbol": "ROBO",
-   "name": "Fabric Protocol",
-   "sigma": 2.62,
-   "from_btc_pct": 5,
-   "verdict": "Neutral",
-   "file": "ROBO.png"
   }
  ]
 }
