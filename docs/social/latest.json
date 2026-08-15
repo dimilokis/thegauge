@@ -1,7 +1,15 @@
 {
  "date": "2026-08-15",
- "generated_at": "2026-08-15T08:45:50.402092+00:00",
+ "generated_at": "2026-08-15T09:15:54.095056+00:00",
  "assets": [
+  {
+   "symbol": "COW",
+   "name": "CoW Protocol",
+   "sigma": 24.11,
+   "from_btc_pct": 1,
+   "verdict": "Overbought",
+   "file": "COW.png"
+  },
   {
    "symbol": "HEMI",
    "name": "Hemi",
@@ -33,6 +41,14 @@
    "from_btc_pct": 9,
    "verdict": "Oversold",
    "file": "MOVR.png"
+  },
+  {
+   "symbol": "ALICE",
+   "name": "My Neighbor Alice",
+   "sigma": 2.73,
+   "from_btc_pct": 0,
+   "verdict": "Neutral",
+   "file": "ALICE.png"
   },
   {
    "symbol": "ROBO",

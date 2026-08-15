@@ -283,6 +283,10 @@
   "icon": "https://coin-images.coingecko.com/coins/images/2962/large/Coti.png?1696503705",
   "name": "COTI"
  },
+ "COW": {
+  "icon": "https://coin-images.coingecko.com/coins/images/24384/large/CoW-token_logo.png",
+  "name": "CoW Protocol"
+ },
  "CRV": {
   "icon": "https://coin-images.coingecko.com/coins/images/12124/large/Curve.png?1696511967",
   "name": "Curve DAO"
