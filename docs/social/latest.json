@@ -1,6 +1,6 @@
 {
  "date": "2026-08-15",
- "generated_at": "2026-08-15T07:40:32.010238+00:00",
+ "generated_at": "2026-08-15T08:30:56.538382+00:00",
  "assets": [
   {
    "symbol": "ONG",
@@ -9,14 +9,6 @@
    "from_btc_pct": 8,
    "verdict": "Neutral",
    "file": "ONG.png"
-  },
-  {
-   "symbol": "ROBO",
-   "name": "Fabric Protocol",
-   "sigma": 3.31,
-   "from_btc_pct": 5,
-   "verdict": "Overbought",
-   "file": "ROBO.png"
   },
   {
    "symbol": "BFUSD",
@@ -33,6 +25,14 @@
    "from_btc_pct": 9,
    "verdict": "Oversold",
    "file": "MOVR.png"
+  },
+  {
+   "symbol": "ROBO",
+   "name": "Fabric Protocol",
+   "sigma": 2.68,
+   "from_btc_pct": 5,
+   "verdict": "Overbought",
+   "file": "ROBO.png"
   }
  ]
 }
