@@ -1,7 +1,15 @@
 {
  "date": "2026-08-15",
- "generated_at": "2026-08-15T08:30:56.538382+00:00",
+ "generated_at": "2026-08-15T08:45:50.402092+00:00",
  "assets": [
+  {
+   "symbol": "HEMI",
+   "name": "Hemi",
+   "sigma": 3.51,
+   "from_btc_pct": 0,
+   "verdict": "Neutral",
+   "file": "HEMI.png"
+  },
   {
    "symbol": "ONG",
    "name": "Ontology Gas",
@@ -33,6 +41,14 @@
    "from_btc_pct": 5,
    "verdict": "Overbought",
    "file": "ROBO.png"
+  },
+  {
+   "symbol": "DOLO",
+   "name": "Dolomite",
+   "sigma": 2.66,
+   "from_btc_pct": 5,
+   "verdict": "Oversold",
+   "file": "DOLO.png"
   }
  ]
 }
