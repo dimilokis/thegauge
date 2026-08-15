@@ -1,6 +1,6 @@
 {
  "date": "2026-08-15",
- "generated_at": "2026-08-15T19:43:43.476572+00:00",
+ "generated_at": "2026-08-15T20:00:55.141753+00:00",
  "assets": [
   {
    "symbol": "COW",
@@ -59,6 +59,14 @@
    "file": "BOME.png"
   },
   {
+   "symbol": "ONG",
+   "name": "Ontology Gas",
+   "sigma": 2.81,
+   "from_btc_pct": 9,
+   "verdict": "Neutral",
+   "file": "ONG.png"
+  },
+  {
    "symbol": "ALICE",
    "name": "My Neighbor Alice",
    "sigma": 2.73,
@@ -89,14 +97,6 @@
    "from_btc_pct": 0,
    "verdict": "Neutral",
    "file": "HUMA.png"
-  },
-  {
-   "symbol": "ONG",
-   "name": "Ontology Gas",
-   "sigma": 2.52,
-   "from_btc_pct": 9,
-   "verdict": "Neutral",
-   "file": "ONG.png"
   }
  ]
 }
