@@ -1,6 +1,6 @@
 {
  "date": "2026-08-15",
- "generated_at": "2026-08-15T17:09:36.469572+00:00",
+ "generated_at": "2026-08-15T17:30:49.822510+00:00",
  "assets": [
   {
    "symbol": "COW",
@@ -33,14 +33,6 @@
    "from_btc_pct": 8,
    "verdict": "Neutral",
    "file": "ONG.png"
-  },
-  {
-   "symbol": "HUMA",
-   "name": "Huma Finance",
-   "sigma": 3.35,
-   "from_btc_pct": 0,
-   "verdict": "Neutral",
-   "file": "HUMA.png"
   },
   {
    "symbol": "BFUSD",
@@ -89,6 +81,14 @@
    "from_btc_pct": 5,
    "verdict": "Oversold",
    "file": "DOLO.png"
+  },
+  {
+   "symbol": "HUMA",
+   "name": "Huma Finance",
+   "sigma": 2.66,
+   "from_btc_pct": 0,
+   "verdict": "Neutral",
+   "file": "HUMA.png"
   },
   {
    "symbol": "ROBO",
