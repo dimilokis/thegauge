@@ -1,6 +1,6 @@
 {
  "date": "2026-08-15",
- "generated_at": "2026-08-15T16:30:50.647545+00:00",
+ "generated_at": "2026-08-15T17:00:57.418036+00:00",
  "assets": [
   {
    "symbol": "COW",
@@ -59,6 +59,14 @@
    "file": "PLUME.png"
   },
   {
+   "symbol": "BOME",
+   "name": "BOOK OF MEME",
+   "sigma": 2.83,
+   "from_btc_pct": 3,
+   "verdict": "Overbought",
+   "file": "BOME.png"
+  },
+  {
    "symbol": "ALICE",
    "name": "My Neighbor Alice",
    "sigma": 2.73,
@@ -89,14 +97,6 @@
    "from_btc_pct": 5,
    "verdict": "Oversold",
    "file": "DOLO.png"
-  },
-  {
-   "symbol": "ILV",
-   "name": "Illuvium",
-   "sigma": 2.61,
-   "from_btc_pct": 8,
-   "verdict": "Neutral",
-   "file": "ILV.png"
   }
  ]
 }
