@@ -1,6 +1,6 @@
 {
  "date": "2026-08-15",
- "generated_at": "2026-08-15T11:45:51.737166+00:00",
+ "generated_at": "2026-08-15T12:30:58.283861+00:00",
  "assets": [
   {
    "symbol": "COW",
@@ -43,6 +43,14 @@
    "file": "BFUSD.png"
   },
   {
+   "symbol": "PLUME",
+   "name": "Plume",
+   "sigma": 2.86,
+   "from_btc_pct": 2,
+   "verdict": "Overbought",
+   "file": "PLUME.png"
+  },
+  {
    "symbol": "MOVR",
    "name": "Moonriver",
    "sigma": 2.78,
@@ -73,14 +81,6 @@
    "from_btc_pct": 5,
    "verdict": "Oversold",
    "file": "DOLO.png"
-  },
-  {
-   "symbol": "PLUME",
-   "name": "Plume",
-   "sigma": 2.6,
-   "from_btc_pct": 3,
-   "verdict": "Overbought",
-   "file": "PLUME.png"
   }
  ]
 }
