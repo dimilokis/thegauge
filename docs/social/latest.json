@@ -1,6 +1,6 @@
 {
  "date": "2026-08-15",
- "generated_at": "2026-08-15T15:00:53.341339+00:00",
+ "generated_at": "2026-08-15T16:30:50.647545+00:00",
  "assets": [
   {
    "symbol": "COW",
@@ -75,6 +75,14 @@
    "file": "ROBO.png"
   },
   {
+   "symbol": "LINK",
+   "name": "Chainlink",
+   "sigma": 2.7,
+   "from_btc_pct": 26,
+   "verdict": "Strong Uptrend",
+   "file": "LINK.png"
+  },
+  {
    "symbol": "DOLO",
    "name": "Dolomite",
    "sigma": 2.66,
@@ -89,14 +97,6 @@
    "from_btc_pct": 8,
    "verdict": "Neutral",
    "file": "ILV.png"
-  },
-  {
-   "symbol": "MOVR",
-   "name": "Moonriver",
-   "sigma": 2.55,
-   "from_btc_pct": 9,
-   "verdict": "Oversold",
-   "file": "MOVR.png"
   }
  ]
 }
