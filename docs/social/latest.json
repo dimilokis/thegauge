@@ -1,6 +1,6 @@
 {
  "date": "2026-08-15",
- "generated_at": "2026-08-15T22:30:52.055288+00:00",
+ "generated_at": "2026-08-15T22:57:03.710291+00:00",
  "assets": [
   {
    "symbol": "COW",
@@ -33,6 +33,14 @@
    "from_btc_pct": 2,
    "verdict": "Overbought",
    "file": "BFUSD.png"
+  },
+  {
+   "symbol": "VANRY",
+   "name": "Vanar Chain",
+   "sigma": 2.91,
+   "from_btc_pct": 0,
+   "verdict": "Oversold",
+   "file": "VANRY.png"
   },
   {
    "symbol": "RED",
@@ -89,14 +97,6 @@
    "from_btc_pct": 9,
    "verdict": "Neutral",
    "file": "ONG.png"
-  },
-  {
-   "symbol": "LINK",
-   "name": "Chainlink",
-   "sigma": 2.7,
-   "from_btc_pct": 26,
-   "verdict": "Strong Uptrend",
-   "file": "LINK.png"
   }
  ]
 }
