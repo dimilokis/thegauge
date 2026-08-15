@@ -1,6 +1,6 @@
 {
  "date": "2026-08-15",
- "generated_at": "2026-08-15T17:00:57.418036+00:00",
+ "generated_at": "2026-08-15T17:09:36.469572+00:00",
  "assets": [
   {
    "symbol": "COW",
@@ -75,14 +75,6 @@
    "file": "ALICE.png"
   },
   {
-   "symbol": "ROBO",
-   "name": "Fabric Protocol",
-   "sigma": 2.72,
-   "from_btc_pct": 5,
-   "verdict": "Neutral",
-   "file": "ROBO.png"
-  },
-  {
    "symbol": "LINK",
    "name": "Chainlink",
    "sigma": 2.7,
@@ -97,6 +89,14 @@
    "from_btc_pct": 5,
    "verdict": "Oversold",
    "file": "DOLO.png"
+  },
+  {
+   "symbol": "ROBO",
+   "name": "Fabric Protocol",
+   "sigma": 2.62,
+   "from_btc_pct": 5,
+   "verdict": "Neutral",
+   "file": "ROBO.png"
   }
  ]
 }
