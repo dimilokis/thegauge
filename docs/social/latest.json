@@ -1,6 +1,6 @@
 {
  "date": "2026-08-15",
- "generated_at": "2026-08-15T09:15:54.095056+00:00",
+ "generated_at": "2026-08-15T10:12:01.944810+00:00",
  "assets": [
   {
    "symbol": "COW",
@@ -9,6 +9,14 @@
    "from_btc_pct": 1,
    "verdict": "Overbought",
    "file": "COW.png"
+  },
+  {
+   "symbol": "WAL",
+   "name": "Walrus",
+   "sigma": 11.55,
+   "from_btc_pct": 4,
+   "verdict": "Neutral",
+   "file": "WAL.png"
   },
   {
    "symbol": "HEMI",
