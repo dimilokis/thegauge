@@ -519,6 +519,10 @@
   "icon": "https://coin-images.coingecko.com/coins/images/29468/large/sid_token_logo_%28green2%29.png?1696528413",
   "name": "SPACE ID"
  },
+ "ILV": {
+  "icon": "https://coin-images.coingecko.com/coins/images/14468/large/logo-200x200.png",
+  "name": "Illuvium"
+ },
  "IMX": {
   "icon": "https://coin-images.coingecko.com/coins/images/17233/large/immutableX-symbol-BLK-RGB.png",
   "name": "Immutable"
