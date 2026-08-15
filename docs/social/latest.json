@@ -1,6 +1,6 @@
 {
  "date": "2026-08-15",
- "generated_at": "2026-08-15T21:45:51.705855+00:00",
+ "generated_at": "2026-08-15T21:54:25.560284+00:00",
  "assets": [
   {
    "symbol": "COW",
@@ -33,14 +33,6 @@
    "from_btc_pct": 2,
    "verdict": "Overbought",
    "file": "BFUSD.png"
-  },
-  {
-   "symbol": "ONG",
-   "name": "Ontology Gas",
-   "sigma": 3.07,
-   "from_btc_pct": 9,
-   "verdict": "Neutral",
-   "file": "ONG.png"
   },
   {
    "symbol": "RED",
@@ -81,6 +73,14 @@
    "from_btc_pct": 0,
    "verdict": "Neutral",
    "file": "ALICE.png"
+  },
+  {
+   "symbol": "ONG",
+   "name": "Ontology Gas",
+   "sigma": 2.72,
+   "from_btc_pct": 9,
+   "verdict": "Neutral",
+   "file": "ONG.png"
   },
   {
    "symbol": "LINK",
