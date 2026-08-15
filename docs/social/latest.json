@@ -1,6 +1,6 @@
 {
  "date": "2026-08-15",
- "generated_at": "2026-08-15T14:44:04.614031+00:00",
+ "generated_at": "2026-08-15T15:00:53.341339+00:00",
  "assets": [
   {
    "symbol": "COW",
@@ -21,9 +21,9 @@
   {
    "symbol": "HEMI",
    "name": "Hemi",
-   "sigma": 3.51,
+   "sigma": 4.57,
    "from_btc_pct": 0,
-   "verdict": "Neutral",
+   "verdict": "Overbought",
    "file": "HEMI.png"
   },
   {
