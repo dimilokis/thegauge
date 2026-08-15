@@ -1,102 +1,14 @@
 {
- "date": "2026-08-14",
- "generated_at": "2026-08-15T02:15:51.191544+00:00",
+ "date": "2026-08-15",
+ "generated_at": "2026-08-15T03:51:04.950020+00:00",
  "assets": [
-  {
-   "symbol": "DOLO",
-   "name": "Dolomite",
-   "sigma": 13.41,
-   "from_btc_pct": 0,
-   "verdict": "Overbought",
-   "file": "DOLO.png"
-  },
-  {
-   "symbol": "RVN",
-   "name": "Ravencoin",
-   "sigma": 4.31,
-   "from_btc_pct": 2,
-   "verdict": "Oversold",
-   "file": "RVN.png"
-  },
-  {
-   "symbol": "2Z",
-   "name": "DoubleZero",
-   "sigma": 3.71,
-   "from_btc_pct": 5,
-   "verdict": "Oversold",
-   "file": "2Z.png"
-  },
-  {
-   "symbol": "GUN",
-   "name": "Gunz",
-   "sigma": 3.61,
-   "from_btc_pct": 1,
-   "verdict": "Oversold",
-   "file": "GUN.png"
-  },
-  {
-   "symbol": "MOVE",
-   "name": "Movement",
-   "sigma": 3.36,
-   "from_btc_pct": 15,
-   "verdict": "Oversold",
-   "file": "MOVE.png"
-  },
-  {
-   "symbol": "ALICE",
-   "name": "My Neighbor Alice",
-   "sigma": 3.16,
-   "from_btc_pct": 0,
-   "verdict": "Overbought",
-   "file": "ALICE.png"
-  },
-  {
-   "symbol": "PIXEL",
-   "name": "Pixels",
-   "sigma": 3.16,
-   "from_btc_pct": 2,
-   "verdict": "Neutral",
-   "file": "PIXEL.png"
-  },
-  {
-   "symbol": "XAI",
-   "name": "Xai",
-   "sigma": 2.7,
-   "from_btc_pct": 2,
-   "verdict": "Neutral",
-   "file": "XAI.png"
-  },
-  {
-   "symbol": "ONG",
-   "name": "Ontology Gas",
-   "sigma": 2.66,
-   "from_btc_pct": 10,
-   "verdict": "Neutral",
-   "file": "ONG.png"
-  },
-  {
-   "symbol": "MOVR",
-   "name": "Moonriver",
-   "sigma": 2.59,
-   "from_btc_pct": 12,
-   "verdict": "Oversold",
-   "file": "MOVR.png"
-  },
   {
    "symbol": "ROBO",
    "name": "Fabric Protocol",
-   "sigma": 2.59,
+   "sigma": 3.0,
    "from_btc_pct": 5,
    "verdict": "Overbought",
    "file": "ROBO.png"
-  },
-  {
-   "symbol": "LINK",
-   "name": "Chainlink",
-   "sigma": 2.58,
-   "from_btc_pct": 26,
-   "verdict": "Strong Uptrend",
-   "file": "LINK.png"
   }
  ]
 }
