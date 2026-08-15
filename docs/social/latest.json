@@ -1,6 +1,6 @@
 {
  "date": "2026-08-15",
- "generated_at": "2026-08-15T14:30:56.709011+00:00",
+ "generated_at": "2026-08-15T14:44:04.614031+00:00",
  "assets": [
   {
    "symbol": "COW",
@@ -51,14 +51,6 @@
    "file": "BFUSD.png"
   },
   {
-   "symbol": "ILV",
-   "name": "Illuvium",
-   "sigma": 2.92,
-   "from_btc_pct": 8,
-   "verdict": "Oversold",
-   "file": "ILV.png"
-  },
-  {
    "symbol": "PLUME",
    "name": "Plume",
    "sigma": 2.86,
@@ -89,6 +81,14 @@
    "from_btc_pct": 5,
    "verdict": "Oversold",
    "file": "DOLO.png"
+  },
+  {
+   "symbol": "ILV",
+   "name": "Illuvium",
+   "sigma": 2.61,
+   "from_btc_pct": 8,
+   "verdict": "Neutral",
+   "file": "ILV.png"
   },
   {
    "symbol": "MOVR",
