@@ -1,6 +1,6 @@
 {
  "date": "2026-08-14",
- "generated_at": "2026-08-14T23:30:53.967452+00:00",
+ "generated_at": "2026-08-15T02:15:51.191544+00:00",
  "assets": [
   {
    "symbol": "DOLO",
@@ -83,20 +83,20 @@
    "file": "MOVR.png"
   },
   {
-   "symbol": "SCRT",
-   "name": "Secret",
-   "sigma": 2.56,
-   "from_btc_pct": 2,
-   "verdict": "Oversold",
-   "file": "SCRT.png"
+   "symbol": "ROBO",
+   "name": "Fabric Protocol",
+   "sigma": 2.59,
+   "from_btc_pct": 5,
+   "verdict": "Overbought",
+   "file": "ROBO.png"
   },
   {
-   "symbol": "ACE",
-   "name": "Fusionist",
-   "sigma": 2.53,
-   "from_btc_pct": 4,
-   "verdict": "Overbought",
-   "file": "ACE.png"
+   "symbol": "LINK",
+   "name": "Chainlink",
+   "sigma": 2.58,
+   "from_btc_pct": 26,
+   "verdict": "Strong Uptrend",
+   "file": "LINK.png"
   }
  ]
 }
