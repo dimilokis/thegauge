@@ -1,6 +1,6 @@
 {
  "date": "2026-08-16",
- "generated_at": "2026-08-16T20:58:02.545617+00:00",
+ "generated_at": "2026-08-16T21:15:48.354779+00:00",
  "assets": [
   {
    "symbol": "PIXEL",
@@ -43,20 +43,20 @@
    "file": "BIGTIME.png"
   },
   {
-   "symbol": "PORTAL",
-   "name": "Portal",
-   "sigma": 2.89,
-   "from_btc_pct": 1,
-   "verdict": "Neutral",
-   "file": "PORTAL.png"
-  },
-  {
    "symbol": "XAI",
    "name": "Xai",
    "sigma": 2.71,
    "from_btc_pct": 2,
    "verdict": "Neutral",
    "file": "XAI.png"
+  },
+  {
+   "symbol": "PORTAL",
+   "name": "Portal",
+   "sigma": 2.63,
+   "from_btc_pct": 1,
+   "verdict": "Neutral",
+   "file": "PORTAL.png"
   },
   {
    "symbol": "WAL",
