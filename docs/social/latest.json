@@ -1,6 +1,6 @@
 {
  "date": "2026-08-16",
- "generated_at": "2026-08-16T12:45:45.500209+00:00",
+ "generated_at": "2026-08-16T13:30:50.318401+00:00",
  "assets": [
   {
    "symbol": "PIXEL",
@@ -9,6 +9,14 @@
    "from_btc_pct": 2,
    "verdict": "Overbought",
    "file": "PIXEL.png"
+  },
+  {
+   "symbol": "DOLO",
+   "name": "Dolomite",
+   "sigma": 4.35,
+   "from_btc_pct": 3,
+   "verdict": "Neutral",
+   "file": "DOLO.png"
   },
   {
    "symbol": "ONG",
@@ -33,14 +41,6 @@
    "from_btc_pct": 5,
    "verdict": "Strong Uptrend",
    "file": "WLFI.png"
-  },
-  {
-   "symbol": "DOLO",
-   "name": "Dolomite",
-   "sigma": 2.67,
-   "from_btc_pct": 4,
-   "verdict": "Neutral",
-   "file": "DOLO.png"
   },
   {
    "symbol": "XAI",
