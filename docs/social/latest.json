@@ -1,6 +1,6 @@
 {
  "date": "2026-08-16",
- "generated_at": "2026-08-16T16:15:50.719243+00:00",
+ "generated_at": "2026-08-16T16:30:52.979785+00:00",
  "assets": [
   {
    "symbol": "PIXEL",
@@ -35,14 +35,6 @@
    "file": "BIGTIME.png"
   },
   {
-   "symbol": "WAL",
-   "name": "Walrus",
-   "sigma": 2.69,
-   "from_btc_pct": 7,
-   "verdict": "Oversold",
-   "file": "WAL.png"
-  },
-  {
    "symbol": "XAI",
    "name": "Xai",
    "sigma": 2.64,
@@ -65,6 +57,14 @@
    "from_btc_pct": 2,
    "verdict": "Neutral",
    "file": "COW.png"
+  },
+  {
+   "symbol": "WAL",
+   "name": "Walrus",
+   "sigma": 2.58,
+   "from_btc_pct": 6,
+   "verdict": "Oversold",
+   "file": "WAL.png"
   },
   {
    "symbol": "WLFI",
