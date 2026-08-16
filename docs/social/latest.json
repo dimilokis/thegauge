@@ -1,6 +1,6 @@
 {
  "date": "2026-08-16",
- "generated_at": "2026-08-16T10:45:01.707944+00:00",
+ "generated_at": "2026-08-16T11:08:55.486034+00:00",
  "assets": [
   {
    "symbol": "PIXEL",
@@ -19,6 +19,14 @@
    "file": "XAI.png"
   },
   {
+   "symbol": "DOLO",
+   "name": "Dolomite",
+   "sigma": 3.15,
+   "from_btc_pct": 3,
+   "verdict": "Neutral",
+   "file": "DOLO.png"
+  },
+  {
    "symbol": "ONG",
    "name": "Ontology Gas",
    "sigma": 3.02,
@@ -27,17 +35,9 @@
    "file": "ONG.png"
   },
   {
-   "symbol": "DOLO",
-   "name": "Dolomite",
-   "sigma": 2.97,
-   "from_btc_pct": 4,
-   "verdict": "Neutral",
-   "file": "DOLO.png"
-  },
-  {
    "symbol": "COW",
    "name": "CoW Protocol",
-   "sigma": 2.5,
+   "sigma": 2.59,
    "from_btc_pct": 2,
    "verdict": "Neutral",
    "file": "COW.png"
