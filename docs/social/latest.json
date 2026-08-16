@@ -1,6 +1,6 @@
 {
  "date": "2026-08-16",
- "generated_at": "2026-08-16T21:15:48.354779+00:00",
+ "generated_at": "2026-08-16T21:30:55.221864+00:00",
  "assets": [
   {
    "symbol": "PIXEL",
@@ -45,7 +45,7 @@
   {
    "symbol": "XAI",
    "name": "Xai",
-   "sigma": 2.71,
+   "sigma": 2.64,
    "from_btc_pct": 2,
    "verdict": "Neutral",
    "file": "XAI.png"
