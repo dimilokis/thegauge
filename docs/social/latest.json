@@ -1,6 +1,6 @@
 {
  "date": "2026-08-16",
- "generated_at": "2026-08-16T23:15:48.040807+00:00",
+ "generated_at": "2026-08-16T23:31:49.875594+00:00",
  "assets": [
   {
    "symbol": "SOPH",
@@ -33,14 +33,6 @@
    "from_btc_pct": 0,
    "verdict": "Neutral",
    "file": "HFT.png"
-  },
-  {
-   "symbol": "XAI",
-   "name": "Xai",
-   "sigma": 3.04,
-   "from_btc_pct": 2,
-   "verdict": "Neutral",
-   "file": "XAI.png"
   },
   {
    "symbol": "BIGTIME",
@@ -97,6 +89,14 @@
    "from_btc_pct": 1,
    "verdict": "Neutral",
    "file": "CHIP.png"
+  },
+  {
+   "symbol": "XAI",
+   "name": "Xai",
+   "sigma": 2.51,
+   "from_btc_pct": 2,
+   "verdict": "Neutral",
+   "file": "XAI.png"
   }
  ]
 }
