@@ -1,7 +1,15 @@
 {
  "date": "2026-08-16",
- "generated_at": "2026-08-16T22:30:50.611493+00:00",
+ "generated_at": "2026-08-16T23:15:48.040807+00:00",
  "assets": [
+  {
+   "symbol": "SOPH",
+   "name": "Sophon",
+   "sigma": 8.14,
+   "from_btc_pct": 6,
+   "verdict": "Neutral",
+   "file": "SOPH.png"
+  },
   {
    "symbol": "PIXEL",
    "name": "Pixels",
@@ -45,9 +53,9 @@
   {
    "symbol": "ONG",
    "name": "Ontology Gas",
-   "sigma": 2.9,
-   "from_btc_pct": 5,
-   "verdict": "Overbought",
+   "sigma": 2.89,
+   "from_btc_pct": 6,
+   "verdict": "Neutral",
    "file": "ONG.png"
   },
   {
@@ -89,14 +97,6 @@
    "from_btc_pct": 1,
    "verdict": "Neutral",
    "file": "CHIP.png"
-  },
-  {
-   "symbol": "COW",
-   "name": "CoW Protocol",
-   "sigma": 2.52,
-   "from_btc_pct": 1,
-   "verdict": "Neutral",
-   "file": "COW.png"
   }
  ]
 }
