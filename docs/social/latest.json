@@ -1,6 +1,6 @@
 {
  "date": "2026-08-16",
- "generated_at": "2026-08-16T11:08:55.486034+00:00",
+ "generated_at": "2026-08-16T11:30:55.511607+00:00",
  "assets": [
   {
    "symbol": "PIXEL",
@@ -41,6 +41,14 @@
    "from_btc_pct": 2,
    "verdict": "Neutral",
    "file": "COW.png"
+  },
+  {
+   "symbol": "CHIP",
+   "name": "USD.AI",
+   "sigma": 2.54,
+   "from_btc_pct": 1,
+   "verdict": "Neutral",
+   "file": "CHIP.png"
   }
  ]
 }

@@ -767,6 +767,10 @@
   "icon": "https://coin-images.coingecko.com/coins/images/5716/large/ONG_logo.png?1696506172",
   "name": "Ontology Gas"
  },
+ "ONT": {
+  "icon": "https://coin-images.coingecko.com/coins/images/3447/large/ONT.png",
+  "name": "Ontology"
+ },
  "OP": {
   "icon": "https://coin-images.coingecko.com/coins/images/25244/large/Token.png?1774456081",
   "name": "Optimism"
