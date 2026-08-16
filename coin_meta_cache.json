@@ -467,6 +467,10 @@
   "icon": "https://coin-images.coingecko.com/coins/images/22459/large/Moonbeam_GLMR_ICON.png?1716647586",
   "name": "Moonbeam"
  },
+ "GMT": {
+  "icon": "https://coin-images.coingecko.com/coins/images/23597/large/token-gmt-200x200.png",
+  "name": "GMT"
+ },
  "GNO": {
   "icon": "https://coin-images.coingecko.com/coins/images/662/large/logo_square_simple_300px.png?1696501854",
   "name": "Gnosis"
