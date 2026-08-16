@@ -1,6 +1,6 @@
 {
  "date": "2026-08-16",
- "generated_at": "2026-08-16T20:15:44.357591+00:00",
+ "generated_at": "2026-08-16T20:30:53.967510+00:00",
  "assets": [
   {
    "symbol": "PIXEL",
@@ -19,18 +19,10 @@
    "file": "HFT.png"
   },
   {
-   "symbol": "PORTAL",
-   "name": "Portal",
-   "sigma": 3.03,
-   "from_btc_pct": 1,
-   "verdict": "Neutral",
-   "file": "PORTAL.png"
-  },
-  {
    "symbol": "ONG",
    "name": "Ontology Gas",
-   "sigma": 3.02,
-   "from_btc_pct": 6,
+   "sigma": 3.13,
+   "from_btc_pct": 7,
    "verdict": "Overbought",
    "file": "ONG.png"
   },
@@ -41,6 +33,14 @@
    "from_btc_pct": 14,
    "verdict": "Oversold",
    "file": "BIGTIME.png"
+  },
+  {
+   "symbol": "PORTAL",
+   "name": "Portal",
+   "sigma": 2.89,
+   "from_btc_pct": 1,
+   "verdict": "Neutral",
+   "file": "PORTAL.png"
   },
   {
    "symbol": "XAI",
