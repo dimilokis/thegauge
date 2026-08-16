@@ -1,7 +1,15 @@
 {
  "date": "2026-08-16",
- "generated_at": "2026-08-16T06:00:53.128849+00:00",
+ "generated_at": "2026-08-16T07:15:47.706308+00:00",
  "assets": [
+  {
+   "symbol": "PIXEL",
+   "name": "Pixels",
+   "sigma": 5.63,
+   "from_btc_pct": 2,
+   "verdict": "Overbought",
+   "file": "PIXEL.png"
+  },
   {
    "symbol": "XAI",
    "name": "Xai",
