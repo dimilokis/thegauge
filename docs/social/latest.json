@@ -1,6 +1,6 @@
 {
  "date": "2026-08-16",
- "generated_at": "2026-08-16T21:32:18.998212+00:00",
+ "generated_at": "2026-08-16T22:30:50.611493+00:00",
  "assets": [
   {
    "symbol": "PIXEL",
@@ -27,6 +27,14 @@
    "file": "HFT.png"
   },
   {
+   "symbol": "XAI",
+   "name": "Xai",
+   "sigma": 3.04,
+   "from_btc_pct": 2,
+   "verdict": "Neutral",
+   "file": "XAI.png"
+  },
+  {
    "symbol": "BIGTIME",
    "name": "Big Time",
    "sigma": 2.93,
@@ -35,12 +43,12 @@
    "file": "BIGTIME.png"
   },
   {
-   "symbol": "XAI",
-   "name": "Xai",
-   "sigma": 2.64,
-   "from_btc_pct": 2,
-   "verdict": "Neutral",
-   "file": "XAI.png"
+   "symbol": "ONG",
+   "name": "Ontology Gas",
+   "sigma": 2.9,
+   "from_btc_pct": 5,
+   "verdict": "Overbought",
+   "file": "ONG.png"
   },
   {
    "symbol": "PORTAL",
@@ -57,14 +65,6 @@
    "from_btc_pct": 6,
    "verdict": "Oversold",
    "file": "WAL.png"
-  },
-  {
-   "symbol": "ONG",
-   "name": "Ontology Gas",
-   "sigma": 2.56,
-   "from_btc_pct": 6,
-   "verdict": "Neutral",
-   "file": "ONG.png"
   },
   {
    "symbol": "WLFI",
