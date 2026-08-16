@@ -1,6 +1,6 @@
 {
  "date": "2026-08-16",
- "generated_at": "2026-08-16T16:45:48.906439+00:00",
+ "generated_at": "2026-08-16T17:00:56.760878+00:00",
  "assets": [
   {
    "symbol": "PIXEL",
@@ -11,20 +11,20 @@
    "file": "PIXEL.png"
   },
   {
-   "symbol": "DOLO",
-   "name": "Dolomite",
-   "sigma": 4.35,
-   "from_btc_pct": 3,
-   "verdict": "Neutral",
-   "file": "DOLO.png"
-  },
-  {
    "symbol": "ONT",
    "name": "Ontology",
    "sigma": 3.5,
    "from_btc_pct": 16,
    "verdict": "Neutral",
    "file": "ONT.png"
+  },
+  {
+   "symbol": "DOLO",
+   "name": "Dolomite",
+   "sigma": 3.2,
+   "from_btc_pct": 5,
+   "verdict": "Neutral",
+   "file": "DOLO.png"
   },
   {
    "symbol": "ONG",
