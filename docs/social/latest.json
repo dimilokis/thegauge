@@ -1,6 +1,6 @@
 {
  "date": "2026-08-16",
- "generated_at": "2026-08-16T16:30:52.979785+00:00",
+ "generated_at": "2026-08-16T16:45:48.906439+00:00",
  "assets": [
   {
    "symbol": "PIXEL",
@@ -17,6 +17,14 @@
    "from_btc_pct": 3,
    "verdict": "Neutral",
    "file": "DOLO.png"
+  },
+  {
+   "symbol": "ONT",
+   "name": "Ontology",
+   "sigma": 3.5,
+   "from_btc_pct": 16,
+   "verdict": "Neutral",
+   "file": "ONT.png"
   },
   {
    "symbol": "ONG",
@@ -41,14 +49,6 @@
    "from_btc_pct": 2,
    "verdict": "Neutral",
    "file": "XAI.png"
-  },
-  {
-   "symbol": "ONT",
-   "name": "Ontology",
-   "sigma": 2.64,
-   "from_btc_pct": 16,
-   "verdict": "Neutral",
-   "file": "ONT.png"
   },
   {
    "symbol": "COW",
@@ -81,6 +81,14 @@
    "from_btc_pct": 1,
    "verdict": "Neutral",
    "file": "CHIP.png"
+  },
+  {
+   "symbol": "DUSK",
+   "name": "DUSK",
+   "sigma": 2.51,
+   "from_btc_pct": 24,
+   "verdict": "Neutral",
+   "file": "DUSK.png"
   }
  ]
 }
