@@ -1,6 +1,6 @@
 {
  "date": "2026-08-16",
- "generated_at": "2026-08-16T15:00:59.278880+00:00",
+ "generated_at": "2026-08-16T16:09:02.054706+00:00",
  "assets": [
   {
    "symbol": "PIXEL",
@@ -27,22 +27,6 @@
    "file": "ONG.png"
   },
   {
-   "symbol": "ONT",
-   "name": "Ontology",
-   "sigma": 2.79,
-   "from_btc_pct": 14,
-   "verdict": "Neutral",
-   "file": "ONT.png"
-  },
-  {
-   "symbol": "WLFI",
-   "name": "World Liberty Financial",
-   "sigma": 2.77,
-   "from_btc_pct": 5,
-   "verdict": "Strong Uptrend",
-   "file": "WLFI.png"
-  },
-  {
    "symbol": "WAL",
    "name": "Walrus",
    "sigma": 2.69,
@@ -59,12 +43,28 @@
    "file": "XAI.png"
   },
   {
+   "symbol": "ONT",
+   "name": "Ontology",
+   "sigma": 2.64,
+   "from_btc_pct": 16,
+   "verdict": "Neutral",
+   "file": "ONT.png"
+  },
+  {
    "symbol": "COW",
    "name": "CoW Protocol",
    "sigma": 2.59,
    "from_btc_pct": 2,
    "verdict": "Neutral",
    "file": "COW.png"
+  },
+  {
+   "symbol": "WLFI",
+   "name": "World Liberty Financial",
+   "sigma": 2.55,
+   "from_btc_pct": 4,
+   "verdict": "Strong Uptrend",
+   "file": "WLFI.png"
   },
   {
    "symbol": "CHIP",
