@@ -1,6 +1,6 @@
 {
  "date": "2026-08-16",
- "generated_at": "2026-08-16T07:45:50.214429+00:00",
+ "generated_at": "2026-08-16T08:00:56.395288+00:00",
  "assets": [
   {
    "symbol": "PIXEL",
@@ -11,20 +11,20 @@
    "file": "PIXEL.png"
   },
   {
-   "symbol": "DOLO",
-   "name": "Dolomite",
-   "sigma": 4.8,
-   "from_btc_pct": 3,
-   "verdict": "Neutral",
-   "file": "DOLO.png"
-  },
-  {
    "symbol": "XAI",
    "name": "Xai",
    "sigma": 4.21,
    "from_btc_pct": 2,
    "verdict": "Neutral",
    "file": "XAI.png"
+  },
+  {
+   "symbol": "DOLO",
+   "name": "Dolomite",
+   "sigma": 2.69,
+   "from_btc_pct": 4,
+   "verdict": "Neutral",
+   "file": "DOLO.png"
   }
  ]
 }
