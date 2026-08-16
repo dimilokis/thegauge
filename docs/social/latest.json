@@ -1,6 +1,6 @@
 {
  "date": "2026-08-16",
- "generated_at": "2026-08-16T18:09:14.932730+00:00",
+ "generated_at": "2026-08-16T18:30:55.567066+00:00",
  "assets": [
   {
    "symbol": "PIXEL",
@@ -25,6 +25,14 @@
    "from_btc_pct": 5,
    "verdict": "Neutral",
    "file": "DOLO.png"
+  },
+  {
+   "symbol": "PORTAL",
+   "name": "Portal",
+   "sigma": 3.03,
+   "from_btc_pct": 1,
+   "verdict": "Neutral",
+   "file": "PORTAL.png"
   },
   {
    "symbol": "ONG",
@@ -75,20 +83,20 @@
    "file": "CHIP.png"
   },
   {
+   "symbol": "COW",
+   "name": "CoW Protocol",
+   "sigma": 2.52,
+   "from_btc_pct": 1,
+   "verdict": "Neutral",
+   "file": "COW.png"
+  },
+  {
    "symbol": "DUSK",
    "name": "DUSK",
    "sigma": 2.51,
    "from_btc_pct": 24,
    "verdict": "Neutral",
    "file": "DUSK.png"
-  },
-  {
-   "symbol": "COW",
-   "name": "CoW Protocol",
-   "sigma": 2.5,
-   "from_btc_pct": 1,
-   "verdict": "Neutral",
-   "file": "COW.png"
   }
  ]
 }
