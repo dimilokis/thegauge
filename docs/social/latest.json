@@ -1,15 +1,7 @@
 {
  "date": "2026-08-15",
- "generated_at": "2026-08-15T23:45:46.457027+00:00",
+ "generated_at": "2026-08-16T02:15:42.715422+00:00",
  "assets": [
-  {
-   "symbol": "COW",
-   "name": "CoW Protocol",
-   "sigma": 24.11,
-   "from_btc_pct": 1,
-   "verdict": "Overbought",
-   "file": "COW.png"
-  },
   {
    "symbol": "WAL",
    "name": "Walrus",
@@ -89,6 +81,14 @@
    "from_btc_pct": 9,
    "verdict": "Neutral",
    "file": "ONG.png"
+  },
+  {
+   "symbol": "COW",
+   "name": "CoW Protocol",
+   "sigma": 2.57,
+   "from_btc_pct": 2,
+   "verdict": "Neutral",
+   "file": "COW.png"
   },
   {
    "symbol": "DOLO",
