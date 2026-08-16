@@ -1,6 +1,6 @@
 {
  "date": "2026-08-16",
- "generated_at": "2026-08-16T17:00:56.760878+00:00",
+ "generated_at": "2026-08-16T17:30:49.397138+00:00",
  "assets": [
   {
    "symbol": "PIXEL",
@@ -51,14 +51,6 @@
    "file": "XAI.png"
   },
   {
-   "symbol": "COW",
-   "name": "CoW Protocol",
-   "sigma": 2.59,
-   "from_btc_pct": 2,
-   "verdict": "Neutral",
-   "file": "COW.png"
-  },
-  {
    "symbol": "WAL",
    "name": "Walrus",
    "sigma": 2.58,
@@ -89,6 +81,14 @@
    "from_btc_pct": 24,
    "verdict": "Neutral",
    "file": "DUSK.png"
+  },
+  {
+   "symbol": "COW",
+   "name": "CoW Protocol",
+   "sigma": 2.5,
+   "from_btc_pct": 1,
+   "verdict": "Neutral",
+   "file": "COW.png"
   }
  ]
 }
