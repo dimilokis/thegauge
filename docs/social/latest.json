@@ -1,6 +1,6 @@
 {
  "date": "2026-08-16",
- "generated_at": "2026-08-16T20:04:31.982881+00:00",
+ "generated_at": "2026-08-16T20:15:44.357591+00:00",
  "assets": [
   {
    "symbol": "PIXEL",
@@ -17,14 +17,6 @@
    "from_btc_pct": 0,
    "verdict": "Neutral",
    "file": "HFT.png"
-  },
-  {
-   "symbol": "DOLO",
-   "name": "Dolomite",
-   "sigma": 3.2,
-   "from_btc_pct": 5,
-   "verdict": "Neutral",
-   "file": "DOLO.png"
   },
   {
    "symbol": "PORTAL",
@@ -97,6 +89,14 @@
    "from_btc_pct": 1,
    "verdict": "Neutral",
    "file": "COW.png"
+  },
+  {
+   "symbol": "DOLO",
+   "name": "Dolomite",
+   "sigma": 2.51,
+   "from_btc_pct": 4,
+   "verdict": "Neutral",
+   "file": "DOLO.png"
   }
  ]
 }
