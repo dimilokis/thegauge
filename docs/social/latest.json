@@ -1,6 +1,6 @@
 {
  "date": "2026-08-16",
- "generated_at": "2026-08-16T18:45:50.270273+00:00",
+ "generated_at": "2026-08-16T19:15:50.645181+00:00",
  "assets": [
   {
    "symbol": "PIXEL",
@@ -67,6 +67,14 @@
    "file": "WAL.png"
   },
   {
+   "symbol": "ONT",
+   "name": "Ontology",
+   "sigma": 2.58,
+   "from_btc_pct": 16,
+   "verdict": "Neutral",
+   "file": "ONT.png"
+  },
+  {
    "symbol": "WLFI",
    "name": "World Liberty Financial",
    "sigma": 2.55,
@@ -89,14 +97,6 @@
    "from_btc_pct": 1,
    "verdict": "Neutral",
    "file": "COW.png"
-  },
-  {
-   "symbol": "ONT",
-   "name": "Ontology",
-   "sigma": 2.51,
-   "from_btc_pct": 16,
-   "verdict": "Neutral",
-   "file": "ONT.png"
   }
  ]
 }
