@@ -1,6 +1,6 @@
 {
  "date": "2026-08-16",
- "generated_at": "2026-08-16T23:31:49.875594+00:00",
+ "generated_at": "2026-08-17T01:15:50.058405+00:00",
  "assets": [
   {
    "symbol": "SOPH",
@@ -9,6 +9,14 @@
    "from_btc_pct": 6,
    "verdict": "Neutral",
    "file": "SOPH.png"
+  },
+  {
+   "symbol": "ONG",
+   "name": "Ontology Gas",
+   "sigma": 6.22,
+   "from_btc_pct": 5,
+   "verdict": "Overbought",
+   "file": "ONG.png"
   },
   {
    "symbol": "PIXEL",
@@ -41,14 +49,6 @@
    "from_btc_pct": 14,
    "verdict": "Oversold",
    "file": "BIGTIME.png"
-  },
-  {
-   "symbol": "ONG",
-   "name": "Ontology Gas",
-   "sigma": 2.89,
-   "from_btc_pct": 6,
-   "verdict": "Neutral",
-   "file": "ONG.png"
   },
   {
    "symbol": "PORTAL",
