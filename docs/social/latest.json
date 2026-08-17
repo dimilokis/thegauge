@@ -1,6 +1,6 @@
 {
  "date": "2026-08-17",
- "generated_at": "2026-08-17T06:45:48.216611+00:00",
+ "generated_at": "2026-08-17T07:15:47.478269+00:00",
  "assets": [
   {
    "symbol": "GPS",
@@ -11,20 +11,20 @@
    "file": "GPS.png"
   },
   {
+   "symbol": "CHIP",
+   "name": "USD.AI",
+   "sigma": 3.1,
+   "from_btc_pct": 3,
+   "verdict": "Neutral",
+   "file": "CHIP.png"
+  },
+  {
    "symbol": "SOPH",
    "name": "Sophon",
    "sigma": 2.77,
    "from_btc_pct": 9,
    "verdict": "Oversold",
    "file": "SOPH.png"
-  },
-  {
-   "symbol": "CHIP",
-   "name": "USD.AI",
-   "sigma": 2.56,
-   "from_btc_pct": 3,
-   "verdict": "Neutral",
-   "file": "CHIP.png"
   },
   {
    "symbol": "DIA",
