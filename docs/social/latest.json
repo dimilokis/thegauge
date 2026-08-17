@@ -1,6 +1,6 @@
 {
  "date": "2026-08-17",
- "generated_at": "2026-08-17T11:00:54.777792+00:00",
+ "generated_at": "2026-08-17T12:15:12.888034+00:00",
  "assets": [
   {
    "symbol": "GPS",
@@ -19,20 +19,20 @@
    "file": "CHIP.png"
   },
   {
-   "symbol": "ACE",
-   "name": "Fusionist",
-   "sigma": 2.71,
-   "from_btc_pct": 1,
-   "verdict": "Overbought",
-   "file": "ACE.png"
-  },
-  {
    "symbol": "SOPH",
    "name": "Sophon",
    "sigma": 2.65,
    "from_btc_pct": 9,
    "verdict": "Oversold",
    "file": "SOPH.png"
+  },
+  {
+   "symbol": "ACE",
+   "name": "Fusionist",
+   "sigma": 2.6,
+   "from_btc_pct": 1,
+   "verdict": "Overbought",
+   "file": "ACE.png"
   },
   {
    "symbol": "DIA",
