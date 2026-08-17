@@ -1,6 +1,6 @@
 {
  "date": "2026-08-17",
- "generated_at": "2026-08-17T12:15:12.888034+00:00",
+ "generated_at": "2026-08-17T15:00:56.994615+00:00",
  "assets": [
   {
    "symbol": "GPS",
@@ -29,7 +29,7 @@
   {
    "symbol": "ACE",
    "name": "Fusionist",
-   "sigma": 2.6,
+   "sigma": 2.55,
    "from_btc_pct": 1,
    "verdict": "Overbought",
    "file": "ACE.png"
