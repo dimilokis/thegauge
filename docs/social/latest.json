@@ -1,6 +1,6 @@
 {
  "date": "2026-08-17",
- "generated_at": "2026-08-17T05:15:45.072114+00:00",
+ "generated_at": "2026-08-17T06:15:49.260874+00:00",
  "assets": [
   {
    "symbol": "GPS",
@@ -11,9 +11,17 @@
    "file": "GPS.png"
   },
   {
+   "symbol": "SOPH",
+   "name": "Sophon",
+   "sigma": 2.77,
+   "from_btc_pct": 9,
+   "verdict": "Oversold",
+   "file": "SOPH.png"
+  },
+  {
    "symbol": "DIA",
    "name": "DIA",
-   "sigma": 2.69,
+   "sigma": 2.51,
    "from_btc_pct": 1,
    "verdict": "Neutral",
    "file": "DIA.png"
