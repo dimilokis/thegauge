@@ -283,6 +283,10 @@
   "icon": "https://coin-images.coingecko.com/coins/images/8834/large/CHZ_Token_updated.png?1696508986",
   "name": "Chiliz"
  },
+ "COMP": {
+  "icon": "https://coin-images.coingecko.com/coins/images/10775/large/COMP.png",
+  "name": "Compound"
+ },
  "COOKIE": {
   "icon": "https://coin-images.coingecko.com/coins/images/38450/large/cookie_token_logo_200x200.png?1733194528",
   "name": "Cookie DAO"
