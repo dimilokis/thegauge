@@ -1,102 +1,14 @@
 {
- "date": "2026-08-16",
- "generated_at": "2026-08-17T01:15:50.058405+00:00",
+ "date": "2026-08-17",
+ "generated_at": "2026-08-17T03:15:50.436992+00:00",
  "assets": [
   {
-   "symbol": "SOPH",
-   "name": "Sophon",
-   "sigma": 8.14,
-   "from_btc_pct": 6,
-   "verdict": "Neutral",
-   "file": "SOPH.png"
-  },
-  {
-   "symbol": "ONG",
-   "name": "Ontology Gas",
-   "sigma": 6.22,
-   "from_btc_pct": 5,
-   "verdict": "Overbought",
-   "file": "ONG.png"
-  },
-  {
-   "symbol": "PIXEL",
-   "name": "Pixels",
-   "sigma": 5.63,
-   "from_btc_pct": 2,
-   "verdict": "Overbought",
-   "file": "PIXEL.png"
-  },
-  {
-   "symbol": "RARE",
-   "name": "SuperRare",
-   "sigma": 3.63,
-   "from_btc_pct": 2,
-   "verdict": "Neutral",
-   "file": "RARE.png"
-  },
-  {
-   "symbol": "HFT",
-   "name": "Hashflow",
-   "sigma": 3.35,
-   "from_btc_pct": 0,
-   "verdict": "Neutral",
-   "file": "HFT.png"
-  },
-  {
-   "symbol": "BIGTIME",
-   "name": "Big Time",
-   "sigma": 2.93,
-   "from_btc_pct": 14,
-   "verdict": "Oversold",
-   "file": "BIGTIME.png"
-  },
-  {
-   "symbol": "PORTAL",
-   "name": "Portal",
-   "sigma": 2.63,
-   "from_btc_pct": 1,
-   "verdict": "Neutral",
-   "file": "PORTAL.png"
-  },
-  {
-   "symbol": "WAL",
-   "name": "Walrus",
-   "sigma": 2.58,
-   "from_btc_pct": 6,
-   "verdict": "Oversold",
-   "file": "WAL.png"
-  },
-  {
-   "symbol": "WLFI",
-   "name": "World Liberty Financial",
-   "sigma": 2.55,
-   "from_btc_pct": 4,
-   "verdict": "Strong Uptrend",
-   "file": "WLFI.png"
-  },
-  {
-   "symbol": "ONT",
-   "name": "Ontology",
-   "sigma": 2.55,
-   "from_btc_pct": 16,
-   "verdict": "Neutral",
-   "file": "ONT.png"
-  },
-  {
-   "symbol": "CHIP",
-   "name": "USD.AI",
+   "symbol": "GPS",
+   "name": "GoPlus Security",
    "sigma": 2.54,
-   "from_btc_pct": 1,
-   "verdict": "Neutral",
-   "file": "CHIP.png"
-  },
-  {
-   "symbol": "XAI",
-   "name": "Xai",
-   "sigma": 2.51,
-   "from_btc_pct": 2,
-   "verdict": "Neutral",
-   "file": "XAI.png"
+   "from_btc_pct": 3,
+   "verdict": "Overbought",
+   "file": "GPS.png"
   }
  ]
 }
