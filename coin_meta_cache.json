@@ -188,7 +188,7 @@
   "name": "Bitcoin Cash"
  },
  "BEL": {
-  "icon": "https://coin-images.coingecko.com/coins/images/12478/large/Bella.png",
+  "icon": "https://coin-images.coingecko.com/coins/images/12478/large/Bella.png?1696512296",
   "name": "Bella Protocol"
  },
  "BERA": {
@@ -204,7 +204,7 @@
   "name": "Biconomy"
  },
  "BIGTIME": {
-  "icon": "https://coin-images.coingecko.com/coins/images/32251/large/-6136155493475923781_121.jpg",
+  "icon": "https://coin-images.coingecko.com/coins/images/32251/large/-6136155493475923781_121.jpg?1696998691",
   "name": "Big Time"
  },
  "BIO": {
@@ -768,7 +768,7 @@
   "name": "Ontology Gas"
  },
  "ONT": {
-  "icon": "https://coin-images.coingecko.com/coins/images/3447/large/ONT.png",
+  "icon": "https://coin-images.coingecko.com/coins/images/3447/large/ONT.png?1696504138",
   "name": "Ontology"
  },
  "OP": {
@@ -1008,7 +1008,7 @@
   "name": "Solv Protocol"
  },
  "SOPH": {
-  "icon": "https://coin-images.coingecko.com/coins/images/38680/large/sophon_logo_200.png",
+  "icon": "https://coin-images.coingecko.com/coins/images/38680/large/sophon_logo_200.png?1747898236",
   "name": "Sophon"
  },
  "SPELL": {
@@ -1064,7 +1064,7 @@
   "name": "Synapse"
  },
  "SYRUP": {
-  "icon": "https://coin-images.coingecko.com/coins/images/51232/large/_syrup_token_logo.png",
+  "icon": "https://coin-images.coingecko.com/coins/images/51232/large/_syrup_token_logo.png?1747292046",
   "name": "Maple Finance"
  },
  "T": {
@@ -1156,8 +1156,8 @@
   "name": "Vana"
  },
  "VANRY": {
-  "icon": "https://coin-images.coingecko.com/coins/images/33466/large/apple-touch-icon.png?1701942541",
-  "name": "Vanar Chain"
+  "icon": "https://coin-images.coingecko.com/coins/images/102175459/large/Profile_Photo.png?1786370609",
+  "name": "Vanar"
  },
  "VET": {
   "icon": "https://coin-images.coingecko.com/coins/images/1167/large/VET.png?1742383283",
