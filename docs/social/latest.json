@@ -1,6 +1,6 @@
 {
  "date": "2026-08-17",
- "generated_at": "2026-08-17T03:45:50.765382+00:00",
+ "generated_at": "2026-08-17T05:15:45.072114+00:00",
  "assets": [
   {
    "symbol": "GPS",
@@ -9,6 +9,14 @@
    "from_btc_pct": 3,
    "verdict": "Overbought",
    "file": "GPS.png"
+  },
+  {
+   "symbol": "DIA",
+   "name": "DIA",
+   "sigma": 2.69,
+   "from_btc_pct": 1,
+   "verdict": "Neutral",
+   "file": "DIA.png"
   }
  ]
 }
