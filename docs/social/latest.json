@@ -1,6 +1,6 @@
 {
  "date": "2026-08-17",
- "generated_at": "2026-08-17T18:00:53.933702+00:00",
+ "generated_at": "2026-08-17T18:30:55.624876+00:00",
  "assets": [
   {
    "symbol": "GPS",
@@ -27,20 +27,20 @@
    "file": "TUT.png"
   },
   {
+   "symbol": "POL",
+   "name": "POL (ex-MATIC)",
+   "sigma": 2.8,
+   "from_btc_pct": 36,
+   "verdict": "Neutral",
+   "file": "POL.png"
+  },
+  {
    "symbol": "SOPH",
    "name": "Sophon",
    "sigma": 2.65,
    "from_btc_pct": 9,
    "verdict": "Oversold",
    "file": "SOPH.png"
-  },
-  {
-   "symbol": "POL",
-   "name": "POL (ex-MATIC)",
-   "sigma": 2.56,
-   "from_btc_pct": 34,
-   "verdict": "Neutral",
-   "file": "POL.png"
   },
   {
    "symbol": "ACE",
