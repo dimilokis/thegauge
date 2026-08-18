@@ -1,6 +1,6 @@
 {
  "date": "2026-08-18",
- "generated_at": "2026-08-18T22:08:35.868684+00:00",
+ "generated_at": "2026-08-18T22:30:50.048618+00:00",
  "assets": [
   {
    "symbol": "ACM",
@@ -59,6 +59,14 @@
    "file": "LA.png"
   },
   {
+   "symbol": "SUN",
+   "name": "Sun Token",
+   "sigma": 2.76,
+   "from_btc_pct": 5,
+   "verdict": "Oversold",
+   "file": "SUN.png"
+  },
+  {
    "symbol": "ACE",
    "name": "Fusionist",
    "sigma": 2.7,
@@ -81,14 +89,6 @@
    "from_btc_pct": 23,
    "verdict": "Oversold",
    "file": "FIL.png"
-  },
-  {
-   "symbol": "SUN",
-   "name": "Sun Token",
-   "sigma": 2.51,
-   "from_btc_pct": 5,
-   "verdict": "Oversold",
-   "file": "SUN.png"
   }
  ]
 }
