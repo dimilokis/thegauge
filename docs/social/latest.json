@@ -1,70 +1,14 @@
 {
- "date": "2026-08-17",
- "generated_at": "2026-08-17T19:30:54.975574+00:00",
+ "date": "2026-08-18",
+ "generated_at": "2026-08-18T03:07:36.245477+00:00",
  "assets": [
   {
-   "symbol": "GPS",
-   "name": "GoPlus Security",
-   "sigma": 5.32,
-   "from_btc_pct": 3,
-   "verdict": "Overbought",
-   "file": "GPS.png"
-  },
-  {
-   "symbol": "COMP",
-   "name": "Compound",
-   "sigma": 4.99,
-   "from_btc_pct": 38,
-   "verdict": "Neutral",
-   "file": "COMP.png"
-  },
-  {
-   "symbol": "CHIP",
-   "name": "USD.AI",
-   "sigma": 3.1,
-   "from_btc_pct": 3,
-   "verdict": "Neutral",
-   "file": "CHIP.png"
-  },
-  {
-   "symbol": "TUT",
-   "name": "Tutorial",
-   "sigma": 2.93,
-   "from_btc_pct": 6,
-   "verdict": "Neutral",
-   "file": "TUT.png"
-  },
-  {
-   "symbol": "POL",
-   "name": "POL (ex-MATIC)",
-   "sigma": 2.8,
-   "from_btc_pct": 36,
-   "verdict": "Neutral",
-   "file": "POL.png"
-  },
-  {
-   "symbol": "SOPH",
-   "name": "Sophon",
-   "sigma": 2.65,
-   "from_btc_pct": 9,
+   "symbol": "GALA",
+   "name": "GALA",
+   "sigma": 3.03,
+   "from_btc_pct": 4,
    "verdict": "Oversold",
-   "file": "SOPH.png"
-  },
-  {
-   "symbol": "ACE",
-   "name": "Fusionist",
-   "sigma": 2.55,
-   "from_btc_pct": 1,
-   "verdict": "Overbought",
-   "file": "ACE.png"
-  },
-  {
-   "symbol": "DIA",
-   "name": "DIA",
-   "sigma": 2.51,
-   "from_btc_pct": 1,
-   "verdict": "Neutral",
-   "file": "DIA.png"
+   "file": "GALA.png"
   }
  ]
 }
