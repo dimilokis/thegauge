@@ -1,6 +1,6 @@
 {
  "date": "2026-08-18",
- "generated_at": "2026-08-18T06:45:48.224142+00:00",
+ "generated_at": "2026-08-18T07:15:47.588244+00:00",
  "assets": [
   {
    "symbol": "RED",
@@ -25,6 +25,14 @@
    "from_btc_pct": 4,
    "verdict": "Oversold",
    "file": "GALA.png"
+  },
+  {
+   "symbol": "BFUSD",
+   "name": "BFUSD",
+   "sigma": 2.96,
+   "from_btc_pct": 3,
+   "verdict": "Overbought",
+   "file": "BFUSD.png"
   },
   {
    "symbol": "FIL",
