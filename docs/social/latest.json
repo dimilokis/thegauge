@@ -1,7 +1,15 @@
 {
  "date": "2026-08-18",
- "generated_at": "2026-08-18T14:15:53.355714+00:00",
+ "generated_at": "2026-08-18T15:46:23.636601+00:00",
  "assets": [
+  {
+   "symbol": "ALPINE",
+   "name": "Alpine F1 Team Fan Token",
+   "sigma": 11.21,
+   "from_btc_pct": 2,
+   "verdict": "Overbought",
+   "file": "ALPINE.png"
+  },
   {
    "symbol": "RED",
    "name": "RedStone",
@@ -29,8 +37,8 @@
   {
    "symbol": "ACE",
    "name": "Fusionist",
-   "sigma": 2.83,
-   "from_btc_pct": 2,
+   "sigma": 2.75,
+   "from_btc_pct": 1,
    "verdict": "Overbought",
    "file": "ACE.png"
   },
