@@ -1,6 +1,6 @@
 {
  "date": "2026-08-18",
- "generated_at": "2026-08-18T19:45:50.083137+00:00",
+ "generated_at": "2026-08-18T20:44:49.852912+00:00",
  "assets": [
   {
    "symbol": "ALPINE",
@@ -9,6 +9,14 @@
    "from_btc_pct": 2,
    "verdict": "Overbought",
    "file": "ALPINE.png"
+  },
+  {
+   "symbol": "RED",
+   "name": "RedStone",
+   "sigma": 3.44,
+   "from_btc_pct": 5,
+   "verdict": "Neutral",
+   "file": "RED.png"
   },
   {
    "symbol": "GALA",
@@ -33,14 +41,6 @@
    "from_btc_pct": 6,
    "verdict": "Neutral",
    "file": "LA.png"
-  },
-  {
-   "symbol": "RED",
-   "name": "RedStone",
-   "sigma": 2.8,
-   "from_btc_pct": 7,
-   "verdict": "Neutral",
-   "file": "RED.png"
   },
   {
    "symbol": "ACE",
