@@ -1,6 +1,6 @@
 {
  "date": "2026-08-18",
- "generated_at": "2026-08-18T13:55:30.475987+00:00",
+ "generated_at": "2026-08-18T14:15:53.355714+00:00",
  "assets": [
   {
    "symbol": "RED",
@@ -29,7 +29,7 @@
   {
    "symbol": "ACE",
    "name": "Fusionist",
-   "sigma": 2.79,
+   "sigma": 2.83,
    "from_btc_pct": 2,
    "verdict": "Overbought",
    "file": "ACE.png"
