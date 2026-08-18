@@ -1,6 +1,6 @@
 {
  "date": "2026-08-18",
- "generated_at": "2026-08-18T05:00:57.398574+00:00",
+ "generated_at": "2026-08-18T06:45:48.224142+00:00",
  "assets": [
   {
    "symbol": "RED",
@@ -9,6 +9,14 @@
    "from_btc_pct": 0,
    "verdict": "Neutral",
    "file": "RED.png"
+  },
+  {
+   "symbol": "ONG",
+   "name": "Ontology Gas",
+   "sigma": 3.41,
+   "from_btc_pct": 6,
+   "verdict": "Overbought",
+   "file": "ONG.png"
   },
   {
    "symbol": "GALA",
