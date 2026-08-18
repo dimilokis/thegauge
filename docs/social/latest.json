@@ -1,6 +1,6 @@
 {
  "date": "2026-08-18",
- "generated_at": "2026-08-18T22:30:50.048618+00:00",
+ "generated_at": "2026-08-18T23:42:17.704769+00:00",
  "assets": [
   {
    "symbol": "ACM",
@@ -51,14 +51,6 @@
    "file": "BFUSD.png"
   },
   {
-   "symbol": "LA",
-   "name": "Lagrange",
-   "sigma": 2.81,
-   "from_btc_pct": 6,
-   "verdict": "Neutral",
-   "file": "LA.png"
-  },
-  {
    "symbol": "SUN",
    "name": "Sun Token",
    "sigma": 2.76,
@@ -81,6 +73,14 @@
    "from_btc_pct": 5,
    "verdict": "Overbought",
    "file": "ONG.png"
+  },
+  {
+   "symbol": "LA",
+   "name": "Lagrange",
+   "sigma": 2.55,
+   "from_btc_pct": 6,
+   "verdict": "Neutral",
+   "file": "LA.png"
   },
   {
    "symbol": "FIL",
