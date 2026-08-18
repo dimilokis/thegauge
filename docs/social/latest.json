@@ -1,6 +1,6 @@
 {
  "date": "2026-08-18",
- "generated_at": "2026-08-18T03:07:36.245477+00:00",
+ "generated_at": "2026-08-18T04:00:59.653794+00:00",
  "assets": [
   {
    "symbol": "GALA",
@@ -9,6 +9,14 @@
    "from_btc_pct": 4,
    "verdict": "Oversold",
    "file": "GALA.png"
+  },
+  {
+   "symbol": "FIL",
+   "name": "Filecoin",
+   "sigma": 2.54,
+   "from_btc_pct": 23,
+   "verdict": "Oversold",
+   "file": "FIL.png"
   }
  ]
 }
