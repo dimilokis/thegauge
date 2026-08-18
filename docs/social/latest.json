@@ -1,7 +1,15 @@
 {
  "date": "2026-08-18",
- "generated_at": "2026-08-18T04:00:59.653794+00:00",
+ "generated_at": "2026-08-18T05:00:57.398574+00:00",
  "assets": [
+  {
+   "symbol": "RED",
+   "name": "RedStone",
+   "sigma": 10.73,
+   "from_btc_pct": 0,
+   "verdict": "Neutral",
+   "file": "RED.png"
+  },
   {
    "symbol": "GALA",
    "name": "GALA",
