@@ -1,6 +1,6 @@
 {
  "date": "2026-08-18",
- "generated_at": "2026-08-18T21:30:56.635179+00:00",
+ "generated_at": "2026-08-18T21:43:43.127350+00:00",
  "assets": [
   {
    "symbol": "ACM",
@@ -17,6 +17,14 @@
    "from_btc_pct": 2,
    "verdict": "Overbought",
    "file": "ALPINE.png"
+  },
+  {
+   "symbol": "GNO",
+   "name": "Gnosis",
+   "sigma": 3.73,
+   "from_btc_pct": 38,
+   "verdict": "Overbought",
+   "file": "GNO.png"
   },
   {
    "symbol": "RED",
