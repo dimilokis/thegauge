@@ -1,6 +1,6 @@
 {
  "date": "2026-08-18",
- "generated_at": "2026-08-18T08:52:51.438894+00:00",
+ "generated_at": "2026-08-18T09:15:46.971863+00:00",
  "assets": [
   {
    "symbol": "RED",
@@ -27,20 +27,20 @@
    "file": "BFUSD.png"
   },
   {
+   "symbol": "ONG",
+   "name": "Ontology Gas",
+   "sigma": 2.77,
+   "from_btc_pct": 6,
+   "verdict": "Overbought",
+   "file": "ONG.png"
+  },
+  {
    "symbol": "FIL",
    "name": "Filecoin",
    "sigma": 2.54,
    "from_btc_pct": 23,
    "verdict": "Oversold",
    "file": "FIL.png"
-  },
-  {
-   "symbol": "ONG",
-   "name": "Ontology Gas",
-   "sigma": 2.53,
-   "from_btc_pct": 6,
-   "verdict": "Overbought",
-   "file": "ONG.png"
   }
  ]
 }
