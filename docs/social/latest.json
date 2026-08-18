@@ -1,6 +1,6 @@
 {
  "date": "2026-08-18",
- "generated_at": "2026-08-18T13:45:52.873376+00:00",
+ "generated_at": "2026-08-18T13:55:30.475987+00:00",
  "assets": [
   {
    "symbol": "RED",
@@ -41,6 +41,14 @@
    "from_btc_pct": 5,
    "verdict": "Overbought",
    "file": "ONG.png"
+  },
+  {
+   "symbol": "LA",
+   "name": "Lagrange",
+   "sigma": 2.6,
+   "from_btc_pct": 4,
+   "verdict": "Neutral",
+   "file": "LA.png"
   },
   {
    "symbol": "FIL",
