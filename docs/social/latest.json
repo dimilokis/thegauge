@@ -1,6 +1,6 @@
 {
  "date": "2026-08-18",
- "generated_at": "2026-08-18T19:01:53.154481+00:00",
+ "generated_at": "2026-08-18T19:45:50.083137+00:00",
  "assets": [
   {
    "symbol": "ALPINE",
@@ -43,20 +43,20 @@
    "file": "RED.png"
   },
   {
+   "symbol": "ACE",
+   "name": "Fusionist",
+   "sigma": 2.7,
+   "from_btc_pct": 1,
+   "verdict": "Overbought",
+   "file": "ACE.png"
+  },
+  {
    "symbol": "ONG",
    "name": "Ontology Gas",
    "sigma": 2.68,
    "from_btc_pct": 5,
    "verdict": "Overbought",
    "file": "ONG.png"
-  },
-  {
-   "symbol": "ACE",
-   "name": "Fusionist",
-   "sigma": 2.65,
-   "from_btc_pct": 1,
-   "verdict": "Overbought",
-   "file": "ACE.png"
   },
   {
    "symbol": "FIL",
