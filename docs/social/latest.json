@@ -1,7 +1,15 @@
 {
  "date": "2026-08-18",
- "generated_at": "2026-08-18T20:44:49.852912+00:00",
+ "generated_at": "2026-08-18T21:30:56.635179+00:00",
  "assets": [
+  {
+   "symbol": "ACM",
+   "name": "AC Milan Fan Token",
+   "sigma": 16.44,
+   "from_btc_pct": 1,
+   "verdict": "Neutral",
+   "file": "ACM.png"
+  },
   {
    "symbol": "ALPINE",
    "name": "Alpine F1 Team Fan Token",
