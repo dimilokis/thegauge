@@ -1,6 +1,6 @@
 {
  "date": "2026-08-19",
- "generated_at": "2026-08-19T08:15:51.483666+00:00",
+ "generated_at": "2026-08-19T08:45:52.414830+00:00",
  "assets": [
   {
    "symbol": "ACM",
@@ -29,7 +29,7 @@
   {
    "symbol": "ONG",
    "name": "Ontology Gas",
-   "sigma": 2.67,
+   "sigma": 2.73,
    "from_btc_pct": 7,
    "verdict": "Overbought",
    "file": "ONG.png"
