@@ -1,11 +1,11 @@
 {
  "date": "2026-08-19",
- "generated_at": "2026-08-19T04:00:56.122473+00:00",
+ "generated_at": "2026-08-19T04:30:53.693630+00:00",
  "assets": [
   {
    "symbol": "GNO",
    "name": "Gnosis",
-   "sigma": 2.9,
+   "sigma": 3.01,
    "from_btc_pct": 32,
    "verdict": "Overbought",
    "file": "GNO.png"
