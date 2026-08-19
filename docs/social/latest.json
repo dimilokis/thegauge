@@ -1,6 +1,6 @@
 {
  "date": "2026-08-19",
- "generated_at": "2026-08-19T11:12:40.082457+00:00",
+ "generated_at": "2026-08-19T11:45:46.664487+00:00",
  "assets": [
   {
    "symbol": "ACM",
@@ -33,6 +33,14 @@
    "from_btc_pct": 7,
    "verdict": "Overbought",
    "file": "ONG.png"
+  },
+  {
+   "symbol": "HEMI",
+   "name": "Hemi",
+   "sigma": 2.71,
+   "from_btc_pct": 0,
+   "verdict": "Overbought",
+   "file": "HEMI.png"
   },
   {
    "symbol": "CFG",
