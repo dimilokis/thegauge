@@ -1,6 +1,6 @@
 {
  "date": "2026-08-19",
- "generated_at": "2026-08-19T19:15:52.584491+00:00",
+ "generated_at": "2026-08-19T19:30:52.974974+00:00",
  "assets": [
   {
    "symbol": "TREE",
@@ -17,6 +17,14 @@
    "from_btc_pct": 39,
    "verdict": "Neutral",
    "file": "BIO.png"
+  },
+  {
+   "symbol": "ARB",
+   "name": "Arbitrum",
+   "sigma": 3.25,
+   "from_btc_pct": 32,
+   "verdict": "Neutral",
+   "file": "ARB.png"
   },
   {
    "symbol": "RED",
@@ -89,14 +97,6 @@
    "from_btc_pct": 39,
    "verdict": "Oversold",
    "file": "SIGN.png"
-  },
-  {
-   "symbol": "MUBARAK",
-   "name": "Mubarak",
-   "sigma": 2.56,
-   "from_btc_pct": 5,
-   "verdict": "Overbought",
-   "file": "MUBARAK.png"
   }
  ]
 }
