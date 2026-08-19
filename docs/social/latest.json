@@ -1,6 +1,6 @@
 {
  "date": "2026-08-19",
- "generated_at": "2026-08-19T15:16:42.734442+00:00",
+ "generated_at": "2026-08-19T15:23:51.541762+00:00",
  "assets": [
   {
    "symbol": "TREE",
@@ -43,6 +43,14 @@
    "file": "ALPINE.png"
   },
   {
+   "symbol": "CFG",
+   "name": "Centrifuge",
+   "sigma": 2.74,
+   "from_btc_pct": 6,
+   "verdict": "Oversold",
+   "file": "CFG.png"
+  },
+  {
    "symbol": "HEMI",
    "name": "Hemi",
    "sigma": 2.71,
@@ -70,17 +78,9 @@
    "symbol": "SIGN",
    "name": "Sign",
    "sigma": 2.6,
-   "from_btc_pct": 22,
+   "from_btc_pct": 39,
    "verdict": "Oversold",
    "file": "SIGN.png"
-  },
-  {
-   "symbol": "CFG",
-   "name": "Centrifuge",
-   "sigma": 2.53,
-   "from_btc_pct": 32,
-   "verdict": "Oversold",
-   "file": "CFG.png"
   }
  ]
 }
