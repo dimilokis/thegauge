@@ -1,6 +1,6 @@
 {
  "date": "2026-08-19",
- "generated_at": "2026-08-19T22:11:27.925863+00:00",
+ "generated_at": "2026-08-19T22:30:47.911033+00:00",
  "assets": [
   {
    "symbol": "TREE",
@@ -9,14 +9,6 @@
    "from_btc_pct": 38,
    "verdict": "Neutral",
    "file": "TREE.png"
-  },
-  {
-   "symbol": "BIO",
-   "name": "Bio Protocol",
-   "sigma": 3.6,
-   "from_btc_pct": 39,
-   "verdict": "Neutral",
-   "file": "BIO.png"
   },
   {
    "symbol": "UNI",
@@ -57,6 +49,14 @@
    "from_btc_pct": 11,
    "verdict": "Overbought",
    "file": "HEMI.png"
+  },
+  {
+   "symbol": "BIO",
+   "name": "Bio Protocol",
+   "sigma": 2.95,
+   "from_btc_pct": 38,
+   "verdict": "Neutral",
+   "file": "BIO.png"
   },
   {
    "symbol": "ACM",
