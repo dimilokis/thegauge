@@ -1,6 +1,6 @@
 {
  "date": "2026-08-19",
- "generated_at": "2026-08-19T18:14:01.623862+00:00",
+ "generated_at": "2026-08-19T18:58:35.423239+00:00",
  "assets": [
   {
    "symbol": "TREE",
@@ -75,14 +75,6 @@
    "file": "HEMI.png"
   },
   {
-   "symbol": "MUBARAK",
-   "name": "Mubarak",
-   "sigma": 2.65,
-   "from_btc_pct": 5,
-   "verdict": "Overbought",
-   "file": "MUBARAK.png"
-  },
-  {
    "symbol": "RUNE",
    "name": "THORChain",
    "sigma": 2.62,
@@ -97,6 +89,14 @@
    "from_btc_pct": 39,
    "verdict": "Oversold",
    "file": "SIGN.png"
+  },
+  {
+   "symbol": "MUBARAK",
+   "name": "Mubarak",
+   "sigma": 2.56,
+   "from_btc_pct": 5,
+   "verdict": "Overbought",
+   "file": "MUBARAK.png"
   }
  ]
 }
