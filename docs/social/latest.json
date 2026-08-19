@@ -1,6 +1,6 @@
 {
  "date": "2026-08-19",
- "generated_at": "2026-08-19T22:30:47.911033+00:00",
+ "generated_at": "2026-08-19T22:45:51.421815+00:00",
  "assets": [
   {
    "symbol": "TREE",
@@ -9,6 +9,14 @@
    "from_btc_pct": 38,
    "verdict": "Neutral",
    "file": "TREE.png"
+  },
+  {
+   "symbol": "BB",
+   "name": "BounceBit",
+   "sigma": 3.57,
+   "from_btc_pct": 2,
+   "verdict": "Oversold",
+   "file": "BB.png"
   },
   {
    "symbol": "UNI",
@@ -41,14 +49,6 @@
    "from_btc_pct": 32,
    "verdict": "Overbought",
    "file": "GNO.png"
-  },
-  {
-   "symbol": "HEMI",
-   "name": "Hemi",
-   "sigma": 2.95,
-   "from_btc_pct": 11,
-   "verdict": "Overbought",
-   "file": "HEMI.png"
   },
   {
    "symbol": "BIO",
@@ -91,12 +91,12 @@
    "file": "LINK.png"
   },
   {
-   "symbol": "HBAR",
-   "name": "Hedera",
-   "sigma": 2.65,
-   "from_btc_pct": 39,
-   "verdict": "Neutral",
-   "file": "HBAR.png"
+   "symbol": "HEMI",
+   "name": "Hemi",
+   "sigma": 2.5,
+   "from_btc_pct": 9,
+   "verdict": "Overbought",
+   "file": "HEMI.png"
   }
  ]
 }
