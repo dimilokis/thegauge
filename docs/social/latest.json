@@ -1,7 +1,15 @@
 {
  "date": "2026-08-19",
- "generated_at": "2026-08-19T06:30:54.023168+00:00",
+ "generated_at": "2026-08-19T07:30:55.643376+00:00",
  "assets": [
+  {
+   "symbol": "ONG",
+   "name": "Ontology Gas",
+   "sigma": 3.06,
+   "from_btc_pct": 6,
+   "verdict": "Overbought",
+   "file": "ONG.png"
+  },
   {
    "symbol": "GNO",
    "name": "Gnosis",
