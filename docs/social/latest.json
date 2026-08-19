@@ -1,6 +1,6 @@
 {
  "date": "2026-08-19",
- "generated_at": "2026-08-19T15:23:51.541762+00:00",
+ "generated_at": "2026-08-19T15:30:54.714329+00:00",
  "assets": [
   {
    "symbol": "TREE",
@@ -9,6 +9,14 @@
    "from_btc_pct": 2,
    "verdict": "Neutral",
    "file": "TREE.png"
+  },
+  {
+   "symbol": "MUBARAK",
+   "name": "Mubarak",
+   "sigma": 3.53,
+   "from_btc_pct": 7,
+   "verdict": "Overbought",
+   "file": "MUBARAK.png"
   },
   {
    "symbol": "ACM",
@@ -35,6 +43,14 @@
    "file": "BIO.png"
   },
   {
+   "symbol": "ONG",
+   "name": "Ontology Gas",
+   "sigma": 2.86,
+   "from_btc_pct": 21,
+   "verdict": "Overbought",
+   "file": "ONG.png"
+  },
+  {
    "symbol": "ALPINE",
    "name": "Alpine F1 Team Fan Token",
    "sigma": 2.83,
@@ -57,14 +73,6 @@
    "from_btc_pct": 0,
    "verdict": "Overbought",
    "file": "HEMI.png"
-  },
-  {
-   "symbol": "ONG",
-   "name": "Ontology Gas",
-   "sigma": 2.68,
-   "from_btc_pct": 15,
-   "verdict": "Overbought",
-   "file": "ONG.png"
   },
   {
    "symbol": "RUNE",
