@@ -1,7 +1,15 @@
 {
  "date": "2026-08-19",
- "generated_at": "2026-08-19T07:30:55.643376+00:00",
+ "generated_at": "2026-08-19T07:45:49.413992+00:00",
  "assets": [
+  {
+   "symbol": "ACM",
+   "name": "AC Milan Fan Token",
+   "sigma": 6.7,
+   "from_btc_pct": 1,
+   "verdict": "Neutral",
+   "file": "ACM.png"
+  },
   {
    "symbol": "ONG",
    "name": "Ontology Gas",
