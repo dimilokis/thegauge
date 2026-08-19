@@ -1,6 +1,6 @@
 {
  "date": "2026-08-19",
- "generated_at": "2026-08-19T19:45:46.118251+00:00",
+ "generated_at": "2026-08-19T20:15:51.081305+00:00",
  "assets": [
   {
    "symbol": "TREE",
@@ -83,20 +83,20 @@
    "file": "HEMI.png"
   },
   {
-   "symbol": "RUNE",
-   "name": "THORChain",
-   "sigma": 2.62,
-   "from_btc_pct": 12,
-   "verdict": "Overbought",
-   "file": "RUNE.png"
+   "symbol": "LINK",
+   "name": "Chainlink",
+   "sigma": 2.67,
+   "from_btc_pct": 39,
+   "verdict": "Strong Uptrend",
+   "file": "LINK.png"
   },
   {
-   "symbol": "SIGN",
-   "name": "Sign",
-   "sigma": 2.6,
-   "from_btc_pct": 39,
-   "verdict": "Oversold",
-   "file": "SIGN.png"
+   "symbol": "BOME",
+   "name": "BOOK OF MEME",
+   "sigma": 2.63,
+   "from_btc_pct": 6,
+   "verdict": "Overbought",
+   "file": "BOME.png"
   }
  ]
 }
