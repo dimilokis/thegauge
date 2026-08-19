@@ -1,12 +1,12 @@
 {
  "date": "2026-08-19",
- "generated_at": "2026-08-19T16:15:50.080020+00:00",
+ "generated_at": "2026-08-19T16:44:14.180133+00:00",
  "assets": [
   {
    "symbol": "TREE",
    "name": "Treehouse",
-   "sigma": 10.12,
-   "from_btc_pct": 2,
+   "sigma": 12.0,
+   "from_btc_pct": 36,
    "verdict": "Neutral",
    "file": "TREE.png"
   },
@@ -61,8 +61,8 @@
   {
    "symbol": "CFG",
    "name": "Centrifuge",
-   "sigma": 2.74,
-   "from_btc_pct": 6,
+   "sigma": 2.78,
+   "from_btc_pct": 0,
    "verdict": "Oversold",
    "file": "CFG.png"
   },
