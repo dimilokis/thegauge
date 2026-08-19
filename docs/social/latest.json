@@ -1,6 +1,6 @@
 {
  "date": "2026-08-19",
- "generated_at": "2026-08-19T12:00:54.967104+00:00",
+ "generated_at": "2026-08-19T13:01:01.679446+00:00",
  "assets": [
   {
    "symbol": "SIGN",
@@ -49,6 +49,14 @@
    "from_btc_pct": 0,
    "verdict": "Overbought",
    "file": "HEMI.png"
+  },
+  {
+   "symbol": "RUNE",
+   "name": "THORChain",
+   "sigma": 2.62,
+   "from_btc_pct": 12,
+   "verdict": "Overbought",
+   "file": "RUNE.png"
   },
   {
    "symbol": "CFG",
