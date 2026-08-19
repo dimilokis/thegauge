@@ -1,6 +1,6 @@
 {
  "date": "2026-08-19",
- "generated_at": "2026-08-19T18:58:35.423239+00:00",
+ "generated_at": "2026-08-19T19:15:52.584491+00:00",
  "assets": [
   {
    "symbol": "TREE",
@@ -13,8 +13,8 @@
   {
    "symbol": "BIO",
    "name": "Bio Protocol",
-   "sigma": 3.26,
-   "from_btc_pct": 36,
+   "sigma": 3.6,
+   "from_btc_pct": 39,
    "verdict": "Neutral",
    "file": "BIO.png"
   },
