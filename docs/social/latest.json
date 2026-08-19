@@ -1,6 +1,6 @@
 {
  "date": "2026-08-19",
- "generated_at": "2026-08-19T16:44:14.180133+00:00",
+ "generated_at": "2026-08-19T17:14:30.920386+00:00",
  "assets": [
   {
    "symbol": "TREE",
@@ -25,6 +25,14 @@
    "from_btc_pct": 4,
    "verdict": "Neutral",
    "file": "ACM.png"
+  },
+  {
+   "symbol": "RED",
+   "name": "RedStone",
+   "sigma": 3.03,
+   "from_btc_pct": 31,
+   "verdict": "Neutral",
+   "file": "RED.png"
   },
   {
    "symbol": "GNO",
@@ -89,14 +97,6 @@
    "from_btc_pct": 39,
    "verdict": "Oversold",
    "file": "SIGN.png"
-  },
-  {
-   "symbol": "ZAMA",
-   "name": "Zama",
-   "sigma": 2.55,
-   "from_btc_pct": 0,
-   "verdict": "Neutral",
-   "file": "ZAMA.png"
   }
  ]
 }
