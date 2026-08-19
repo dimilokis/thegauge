@@ -1,6 +1,6 @@
 {
  "date": "2026-08-19",
- "generated_at": "2026-08-19T07:45:49.413992+00:00",
+ "generated_at": "2026-08-19T07:51:09.242822+00:00",
  "assets": [
   {
    "symbol": "ACM",
@@ -29,8 +29,8 @@
   {
    "symbol": "ALPINE",
    "name": "Alpine F1 Team Fan Token",
-   "sigma": 2.93,
-   "from_btc_pct": 3,
+   "sigma": 2.63,
+   "from_btc_pct": 2,
    "verdict": "Neutral",
    "file": "ALPINE.png"
   }
