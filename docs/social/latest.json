@@ -1,6 +1,6 @@
 {
  "date": "2026-08-19",
- "generated_at": "2026-08-19T21:14:40.972900+00:00",
+ "generated_at": "2026-08-19T21:30:49.903449+00:00",
  "assets": [
   {
    "symbol": "TREE",
@@ -75,6 +75,14 @@
    "file": "CFG.png"
   },
   {
+   "symbol": "HBAR",
+   "name": "Hedera",
+   "sigma": 2.76,
+   "from_btc_pct": 40,
+   "verdict": "Neutral",
+   "file": "HBAR.png"
+  },
+  {
    "symbol": "LINK",
    "name": "Chainlink",
    "sigma": 2.67,
@@ -83,20 +91,12 @@
    "file": "LINK.png"
   },
   {
-   "symbol": "BOME",
-   "name": "BOOK OF MEME",
-   "sigma": 2.63,
-   "from_btc_pct": 6,
+   "symbol": "CAKE",
+   "name": "PancakeSwap",
+   "sigma": 2.66,
+   "from_btc_pct": 37,
    "verdict": "Overbought",
-   "file": "BOME.png"
-  },
-  {
-   "symbol": "ONG",
-   "name": "Ontology Gas",
-   "sigma": 2.54,
-   "from_btc_pct": 21,
-   "verdict": "Overbought",
-   "file": "ONG.png"
+   "file": "CAKE.png"
   }
  ]
 }
