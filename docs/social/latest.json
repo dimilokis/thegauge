@@ -1,6 +1,6 @@
 {
  "date": "2026-08-19",
- "generated_at": "2026-08-19T21:45:54.123544+00:00",
+ "generated_at": "2026-08-19T22:00:58.253054+00:00",
  "assets": [
   {
    "symbol": "TREE",
@@ -17,6 +17,14 @@
    "from_btc_pct": 39,
    "verdict": "Neutral",
    "file": "BIO.png"
+  },
+  {
+   "symbol": "UNI",
+   "name": "Uniswap",
+   "sigma": 3.43,
+   "from_btc_pct": 40,
+   "verdict": "Neutral",
+   "file": "UNI.png"
   },
   {
    "symbol": "ARB",
@@ -89,14 +97,6 @@
    "from_btc_pct": 39,
    "verdict": "Strong Uptrend",
    "file": "LINK.png"
-  },
-  {
-   "symbol": "CAKE",
-   "name": "PancakeSwap",
-   "sigma": 2.66,
-   "from_btc_pct": 37,
-   "verdict": "Overbought",
-   "file": "CAKE.png"
   }
  ]
 }
