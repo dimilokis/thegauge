@@ -1,15 +1,7 @@
 {
  "date": "2026-08-19",
- "generated_at": "2026-08-19T13:01:01.679446+00:00",
+ "generated_at": "2026-08-19T13:45:53.535118+00:00",
  "assets": [
-  {
-   "symbol": "SIGN",
-   "name": "Sign",
-   "sigma": 3.42,
-   "from_btc_pct": 14,
-   "verdict": "Neutral",
-   "file": "SIGN.png"
-  },
   {
    "symbol": "ACM",
    "name": "AC Milan Fan Token",
@@ -57,6 +49,14 @@
    "from_btc_pct": 12,
    "verdict": "Overbought",
    "file": "RUNE.png"
+  },
+  {
+   "symbol": "SIGN",
+   "name": "Sign",
+   "sigma": 2.6,
+   "from_btc_pct": 22,
+   "verdict": "Oversold",
+   "file": "SIGN.png"
   },
   {
    "symbol": "CFG",
