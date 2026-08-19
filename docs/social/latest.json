@@ -1,7 +1,15 @@
 {
  "date": "2026-08-19",
- "generated_at": "2026-08-19T13:45:53.535118+00:00",
+ "generated_at": "2026-08-19T14:30:51.112274+00:00",
  "assets": [
+  {
+   "symbol": "TREE",
+   "name": "Treehouse",
+   "sigma": 10.12,
+   "from_btc_pct": 2,
+   "verdict": "Neutral",
+   "file": "TREE.png"
+  },
   {
    "symbol": "ACM",
    "name": "AC Milan Fan Token",
