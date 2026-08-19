@@ -1,6 +1,6 @@
 {
  "date": "2026-08-19",
- "generated_at": "2026-08-19T08:00:56.769071+00:00",
+ "generated_at": "2026-08-19T08:15:51.483666+00:00",
  "assets": [
   {
    "symbol": "ACM",
@@ -19,20 +19,20 @@
    "file": "GNO.png"
   },
   {
+   "symbol": "ALPINE",
+   "name": "Alpine F1 Team Fan Token",
+   "sigma": 2.83,
+   "from_btc_pct": 3,
+   "verdict": "Neutral",
+   "file": "ALPINE.png"
+  },
+  {
    "symbol": "ONG",
    "name": "Ontology Gas",
    "sigma": 2.67,
    "from_btc_pct": 7,
    "verdict": "Overbought",
    "file": "ONG.png"
-  },
-  {
-   "symbol": "ALPINE",
-   "name": "Alpine F1 Team Fan Token",
-   "sigma": 2.63,
-   "from_btc_pct": 2,
-   "verdict": "Neutral",
-   "file": "ALPINE.png"
   }
  ]
 }
