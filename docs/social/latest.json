@@ -1,6 +1,6 @@
 {
  "date": "2026-08-19",
- "generated_at": "2026-08-19T07:51:09.242822+00:00",
+ "generated_at": "2026-08-19T08:00:56.769071+00:00",
  "assets": [
   {
    "symbol": "ACM",
@@ -11,20 +11,20 @@
    "file": "ACM.png"
   },
   {
-   "symbol": "ONG",
-   "name": "Ontology Gas",
-   "sigma": 3.06,
-   "from_btc_pct": 6,
-   "verdict": "Overbought",
-   "file": "ONG.png"
-  },
-  {
    "symbol": "GNO",
    "name": "Gnosis",
    "sigma": 3.01,
    "from_btc_pct": 32,
    "verdict": "Overbought",
    "file": "GNO.png"
+  },
+  {
+   "symbol": "ONG",
+   "name": "Ontology Gas",
+   "sigma": 2.67,
+   "from_btc_pct": 7,
+   "verdict": "Overbought",
+   "file": "ONG.png"
   },
   {
    "symbol": "ALPINE",
