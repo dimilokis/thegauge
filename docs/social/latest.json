@@ -1,6 +1,6 @@
 {
  "date": "2026-08-19",
- "generated_at": "2026-08-19T09:31:14.794644+00:00",
+ "generated_at": "2026-08-19T10:30:48.245963+00:00",
  "assets": [
   {
    "symbol": "ACM",
@@ -33,6 +33,14 @@
    "from_btc_pct": 7,
    "verdict": "Overbought",
    "file": "ONG.png"
+  },
+  {
+   "symbol": "CFG",
+   "name": "Centrifuge",
+   "sigma": 2.53,
+   "from_btc_pct": 32,
+   "verdict": "Oversold",
+   "file": "CFG.png"
   }
  ]
 }
