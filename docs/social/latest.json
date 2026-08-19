@@ -1,6 +1,6 @@
 {
  "date": "2026-08-19",
- "generated_at": "2026-08-19T15:00:59.635623+00:00",
+ "generated_at": "2026-08-19T15:16:42.734442+00:00",
  "assets": [
   {
    "symbol": "TREE",
@@ -25,6 +25,14 @@
    "from_btc_pct": 32,
    "verdict": "Overbought",
    "file": "GNO.png"
+  },
+  {
+   "symbol": "BIO",
+   "name": "Bio Protocol",
+   "sigma": 2.93,
+   "from_btc_pct": 29,
+   "verdict": "Neutral",
+   "file": "BIO.png"
   },
   {
    "symbol": "ALPINE",
