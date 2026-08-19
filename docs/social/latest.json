@@ -1,6 +1,6 @@
 {
  "date": "2026-08-19",
- "generated_at": "2026-08-19T17:30:54.067577+00:00",
+ "generated_at": "2026-08-19T18:14:01.623862+00:00",
  "assets": [
   {
    "symbol": "TREE",
@@ -9,14 +9,6 @@
    "from_btc_pct": 36,
    "verdict": "Neutral",
    "file": "TREE.png"
-  },
-  {
-   "symbol": "MUBARAK",
-   "name": "Mubarak",
-   "sigma": 3.53,
-   "from_btc_pct": 7,
-   "verdict": "Overbought",
-   "file": "MUBARAK.png"
   },
   {
    "symbol": "BIO",
@@ -67,20 +59,28 @@
    "file": "ALPINE.png"
   },
   {
-   "symbol": "HEMI",
-   "name": "Hemi",
-   "sigma": 2.82,
-   "from_btc_pct": 7,
-   "verdict": "Overbought",
-   "file": "HEMI.png"
-  },
-  {
    "symbol": "CFG",
    "name": "Centrifuge",
    "sigma": 2.78,
    "from_btc_pct": 0,
    "verdict": "Oversold",
    "file": "CFG.png"
+  },
+  {
+   "symbol": "HEMI",
+   "name": "Hemi",
+   "sigma": 2.76,
+   "from_btc_pct": 8,
+   "verdict": "Overbought",
+   "file": "HEMI.png"
+  },
+  {
+   "symbol": "MUBARAK",
+   "name": "Mubarak",
+   "sigma": 2.65,
+   "from_btc_pct": 5,
+   "verdict": "Overbought",
+   "file": "MUBARAK.png"
   },
   {
    "symbol": "RUNE",
