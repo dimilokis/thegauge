@@ -1,102 +1,14 @@
 {
- "date": "2026-08-18",
- "generated_at": "2026-08-19T02:00:57.590791+00:00",
+ "date": "2026-08-19",
+ "generated_at": "2026-08-19T04:00:56.122473+00:00",
  "assets": [
-  {
-   "symbol": "ACM",
-   "name": "AC Milan Fan Token",
-   "sigma": 16.44,
-   "from_btc_pct": 1,
-   "verdict": "Neutral",
-   "file": "ACM.png"
-  },
-  {
-   "symbol": "ALPINE",
-   "name": "Alpine F1 Team Fan Token",
-   "sigma": 11.21,
-   "from_btc_pct": 2,
-   "verdict": "Overbought",
-   "file": "ALPINE.png"
-  },
   {
    "symbol": "GNO",
    "name": "Gnosis",
-   "sigma": 3.73,
-   "from_btc_pct": 38,
+   "sigma": 2.9,
+   "from_btc_pct": 32,
    "verdict": "Overbought",
    "file": "GNO.png"
-  },
-  {
-   "symbol": "RED",
-   "name": "RedStone",
-   "sigma": 3.44,
-   "from_btc_pct": 5,
-   "verdict": "Neutral",
-   "file": "RED.png"
-  },
-  {
-   "symbol": "GALA",
-   "name": "GALA",
-   "sigma": 3.03,
-   "from_btc_pct": 4,
-   "verdict": "Oversold",
-   "file": "GALA.png"
-  },
-  {
-   "symbol": "BFUSD",
-   "name": "BFUSD",
-   "sigma": 2.96,
-   "from_btc_pct": 4,
-   "verdict": "Overbought",
-   "file": "BFUSD.png"
-  },
-  {
-   "symbol": "SUN",
-   "name": "Sun Token",
-   "sigma": 2.76,
-   "from_btc_pct": 5,
-   "verdict": "Oversold",
-   "file": "SUN.png"
-  },
-  {
-   "symbol": "ACE",
-   "name": "Fusionist",
-   "sigma": 2.7,
-   "from_btc_pct": 1,
-   "verdict": "Overbought",
-   "file": "ACE.png"
-  },
-  {
-   "symbol": "GPS",
-   "name": "GoPlus Security",
-   "sigma": 2.69,
-   "from_btc_pct": 17,
-   "verdict": "Overbought",
-   "file": "GPS.png"
-  },
-  {
-   "symbol": "ONG",
-   "name": "Ontology Gas",
-   "sigma": 2.68,
-   "from_btc_pct": 5,
-   "verdict": "Overbought",
-   "file": "ONG.png"
-  },
-  {
-   "symbol": "LA",
-   "name": "Lagrange",
-   "sigma": 2.55,
-   "from_btc_pct": 6,
-   "verdict": "Neutral",
-   "file": "LA.png"
-  },
-  {
-   "symbol": "FIL",
-   "name": "Filecoin",
-   "sigma": 2.54,
-   "from_btc_pct": 23,
-   "verdict": "Oversold",
-   "file": "FIL.png"
   }
  ]
 }
