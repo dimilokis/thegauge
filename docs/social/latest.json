@@ -1,12 +1,12 @@
 {
  "date": "2026-08-19",
- "generated_at": "2026-08-19T10:30:48.245963+00:00",
+ "generated_at": "2026-08-19T11:12:40.082457+00:00",
  "assets": [
   {
    "symbol": "ACM",
    "name": "AC Milan Fan Token",
-   "sigma": 5.63,
-   "from_btc_pct": 2,
+   "sigma": 3.05,
+   "from_btc_pct": 4,
    "verdict": "Neutral",
    "file": "ACM.png"
   },
