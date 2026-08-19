@@ -1,6 +1,6 @@
 {
  "date": "2026-08-19",
- "generated_at": "2026-08-19T17:14:30.920386+00:00",
+ "generated_at": "2026-08-19T17:30:54.067577+00:00",
  "assets": [
   {
    "symbol": "TREE",
@@ -19,12 +19,12 @@
    "file": "MUBARAK.png"
   },
   {
-   "symbol": "ACM",
-   "name": "AC Milan Fan Token",
-   "sigma": 3.05,
-   "from_btc_pct": 4,
+   "symbol": "BIO",
+   "name": "Bio Protocol",
+   "sigma": 3.26,
+   "from_btc_pct": 36,
    "verdict": "Neutral",
-   "file": "ACM.png"
+   "file": "BIO.png"
   },
   {
    "symbol": "RED",
@@ -43,20 +43,20 @@
    "file": "GNO.png"
   },
   {
-   "symbol": "BIO",
-   "name": "Bio Protocol",
-   "sigma": 2.93,
-   "from_btc_pct": 29,
-   "verdict": "Neutral",
-   "file": "BIO.png"
-  },
-  {
    "symbol": "ONG",
    "name": "Ontology Gas",
    "sigma": 2.86,
    "from_btc_pct": 21,
    "verdict": "Overbought",
    "file": "ONG.png"
+  },
+  {
+   "symbol": "ACM",
+   "name": "AC Milan Fan Token",
+   "sigma": 2.84,
+   "from_btc_pct": 24,
+   "verdict": "Neutral",
+   "file": "ACM.png"
   },
   {
    "symbol": "ALPINE",
@@ -67,20 +67,20 @@
    "file": "ALPINE.png"
   },
   {
+   "symbol": "HEMI",
+   "name": "Hemi",
+   "sigma": 2.82,
+   "from_btc_pct": 7,
+   "verdict": "Overbought",
+   "file": "HEMI.png"
+  },
+  {
    "symbol": "CFG",
    "name": "Centrifuge",
    "sigma": 2.78,
    "from_btc_pct": 0,
    "verdict": "Oversold",
    "file": "CFG.png"
-  },
-  {
-   "symbol": "HEMI",
-   "name": "Hemi",
-   "sigma": 2.71,
-   "from_btc_pct": 0,
-   "verdict": "Overbought",
-   "file": "HEMI.png"
   },
   {
    "symbol": "RUNE",
