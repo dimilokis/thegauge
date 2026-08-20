@@ -1,6 +1,6 @@
 {
  "date": "2026-08-20",
- "generated_at": "2026-08-20T08:15:48.676485+00:00",
+ "generated_at": "2026-08-20T08:30:52.387998+00:00",
  "assets": [
   {
    "symbol": "RED",
@@ -9,6 +9,14 @@
    "from_btc_pct": 4,
    "verdict": "Overbought",
    "file": "RED.png"
+  },
+  {
+   "symbol": "SCRT",
+   "name": "Secret",
+   "sigma": 2.9,
+   "from_btc_pct": 1,
+   "verdict": "Oversold",
+   "file": "SCRT.png"
   },
   {
    "symbol": "ASTER",
