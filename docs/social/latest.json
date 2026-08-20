@@ -1,6 +1,6 @@
 {
  "date": "2026-08-20",
- "generated_at": "2026-08-20T16:57:59.044179+00:00",
+ "generated_at": "2026-08-20T17:15:48.481080+00:00",
  "assets": [
   {
    "symbol": "ONG",
@@ -9,6 +9,14 @@
    "from_btc_pct": 25,
    "verdict": "Overbought",
    "file": "ONG.png"
+  },
+  {
+   "symbol": "PNUT",
+   "name": "Peanut the Squirrel",
+   "sigma": 4.98,
+   "from_btc_pct": 40,
+   "verdict": "Overbought",
+   "file": "PNUT.png"
   },
   {
    "symbol": "PEOPLE",
@@ -89,14 +97,6 @@
    "from_btc_pct": 33,
    "verdict": "Strong Uptrend",
    "file": "BIO.png"
-  },
-  {
-   "symbol": "ROBO",
-   "name": "Fabric Protocol",
-   "sigma": 2.55,
-   "from_btc_pct": 6,
-   "verdict": "Neutral",
-   "file": "ROBO.png"
   }
  ]
 }
