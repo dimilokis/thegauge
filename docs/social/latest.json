@@ -1,6 +1,6 @@
 {
  "date": "2026-08-20",
- "generated_at": "2026-08-20T17:42:29.615484+00:00",
+ "generated_at": "2026-08-20T18:30:50.404998+00:00",
  "assets": [
   {
    "symbol": "ONG",
@@ -75,14 +75,6 @@
    "file": "WIF.png"
   },
   {
-   "symbol": "ACE",
-   "name": "Fusionist",
-   "sigma": 2.74,
-   "from_btc_pct": 0,
-   "verdict": "Overbought",
-   "file": "ACE.png"
-  },
-  {
    "symbol": "PUMP",
    "name": "Pump.fun",
    "sigma": 2.67,
@@ -97,6 +89,14 @@
    "from_btc_pct": 33,
    "verdict": "Strong Uptrend",
    "file": "BIO.png"
+  },
+  {
+   "symbol": "ACE",
+   "name": "Fusionist",
+   "sigma": 2.52,
+   "from_btc_pct": 0,
+   "verdict": "Overbought",
+   "file": "ACE.png"
   }
  ]
 }
