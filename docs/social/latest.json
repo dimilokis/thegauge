@@ -1,6 +1,6 @@
 {
  "date": "2026-08-20",
- "generated_at": "2026-08-20T10:45:46.543269+00:00",
+ "generated_at": "2026-08-20T11:00:52.582904+00:00",
  "assets": [
   {
    "symbol": "RED",
@@ -19,20 +19,20 @@
    "file": "ORDI.png"
   },
   {
+   "symbol": "SCRT",
+   "name": "Secret",
+   "sigma": 3.14,
+   "from_btc_pct": 2,
+   "verdict": "Oversold",
+   "file": "SCRT.png"
+  },
+  {
    "symbol": "ASTER",
    "name": "Aster",
    "sigma": 3.03,
    "from_btc_pct": 40,
    "verdict": "Neutral",
    "file": "ASTER.png"
-  },
-  {
-   "symbol": "SCRT",
-   "name": "Secret",
-   "sigma": 2.9,
-   "from_btc_pct": 1,
-   "verdict": "Oversold",
-   "file": "SCRT.png"
   },
   {
    "symbol": "NEIRO",
