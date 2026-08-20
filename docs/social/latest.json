@@ -1,6 +1,6 @@
 {
  "date": "2026-08-20",
- "generated_at": "2026-08-20T22:13:09.032530+00:00",
+ "generated_at": "2026-08-20T22:15:51.083702+00:00",
  "assets": [
   {
    "symbol": "ONT",
@@ -41,6 +41,14 @@
    "from_btc_pct": 10,
    "verdict": "Overbought",
    "file": "PEOPLE.png"
+  },
+  {
+   "symbol": "MANTRA",
+   "name": "MANTRA",
+   "sigma": 3.31,
+   "from_btc_pct": 1,
+   "verdict": "Oversold",
+   "file": "MANTRA.png"
   },
   {
    "symbol": "SCRT",
@@ -89,14 +97,6 @@
    "from_btc_pct": 13,
    "verdict": "Strong Uptrend",
    "file": "CRV.png"
-  },
-  {
-   "symbol": "PUMP",
-   "name": "Pump.fun",
-   "sigma": 2.67,
-   "from_btc_pct": 1,
-   "verdict": "Strong Uptrend",
-   "file": "PUMP.png"
   }
  ]
 }
