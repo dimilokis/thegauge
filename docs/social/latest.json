@@ -1,6 +1,6 @@
 {
  "date": "2026-08-20",
- "generated_at": "2026-08-20T21:30:55.523596+00:00",
+ "generated_at": "2026-08-20T21:39:15.860257+00:00",
  "assets": [
   {
    "symbol": "ONT",
@@ -59,14 +59,6 @@
    "file": "GALA.png"
   },
   {
-   "symbol": "ORDI",
-   "name": "ORDI",
-   "sigma": 2.97,
-   "from_btc_pct": 16,
-   "verdict": "Strong Uptrend",
-   "file": "ORDI.png"
-  },
-  {
    "symbol": "NEIRO",
    "name": "Neiro",
    "sigma": 2.88,
@@ -97,6 +89,14 @@
    "from_btc_pct": 1,
    "verdict": "Strong Uptrend",
    "file": "PUMP.png"
+  },
+  {
+   "symbol": "ORDI",
+   "name": "ORDI",
+   "sigma": 2.55,
+   "from_btc_pct": 15,
+   "verdict": "Strong Uptrend",
+   "file": "ORDI.png"
   }
  ]
 }
