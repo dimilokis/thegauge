@@ -803,6 +803,10 @@
   "icon": "https://coin-images.coingecko.com/coins/images/30162/large/ordi.png?1696529082",
   "name": "ORDI"
  },
+ "OSMO": {
+  "icon": "https://coin-images.coingecko.com/coins/images/16724/large/osmo.png",
+  "name": "Osmosis"
+ },
  "PARTI": {
   "icon": "https://coin-images.coingecko.com/coins/images/54955/large/parti-token-200.png?1742822558",
   "name": "Particle Network"

@@ -1,6 +1,6 @@
 {
  "date": "2026-08-20",
- "generated_at": "2026-08-20T22:15:51.083702+00:00",
+ "generated_at": "2026-08-20T22:45:52.103254+00:00",
  "assets": [
   {
    "symbol": "ONT",
@@ -25,6 +25,14 @@
    "from_btc_pct": 25,
    "verdict": "Overbought",
    "file": "ONG.png"
+  },
+  {
+   "symbol": "OSMO",
+   "name": "Osmosis",
+   "sigma": 7.26,
+   "from_btc_pct": 35,
+   "verdict": "Neutral",
+   "file": "OSMO.png"
   },
   {
    "symbol": "PNUT",
@@ -89,14 +97,6 @@
    "from_btc_pct": 37,
    "verdict": "Neutral",
    "file": "WIF.png"
-  },
-  {
-   "symbol": "CRV",
-   "name": "Curve DAO",
-   "sigma": 2.74,
-   "from_btc_pct": 13,
-   "verdict": "Strong Uptrend",
-   "file": "CRV.png"
   }
  ]
 }
