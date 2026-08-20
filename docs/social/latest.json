@@ -1,6 +1,6 @@
 {
  "date": "2026-08-19",
- "generated_at": "2026-08-19T23:42:55.281060+00:00",
+ "generated_at": "2026-08-20T01:45:49.787622+00:00",
  "assets": [
   {
    "symbol": "TREE",
@@ -13,8 +13,8 @@
   {
    "symbol": "BB",
    "name": "BounceBit",
-   "sigma": 3.57,
-   "from_btc_pct": 2,
+   "sigma": 4.17,
+   "from_btc_pct": 0,
    "verdict": "Oversold",
    "file": "BB.png"
   },
