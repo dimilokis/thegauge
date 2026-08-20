@@ -1,6 +1,6 @@
 {
  "date": "2026-08-20",
- "generated_at": "2026-08-20T22:45:52.103254+00:00",
+ "generated_at": "2026-08-20T23:01:09.469008+00:00",
  "assets": [
   {
    "symbol": "ONT",
@@ -83,20 +83,20 @@
    "file": "GALA.png"
   },
   {
+   "symbol": "CRV",
+   "name": "Curve DAO",
+   "sigma": 2.92,
+   "from_btc_pct": 13,
+   "verdict": "Strong Uptrend",
+   "file": "CRV.png"
+  },
+  {
    "symbol": "NEIRO",
    "name": "Neiro",
    "sigma": 2.88,
    "from_btc_pct": 18,
    "verdict": "Neutral",
    "file": "NEIRO.png"
-  },
-  {
-   "symbol": "WIF",
-   "name": "dogwifhat",
-   "sigma": 2.78,
-   "from_btc_pct": 37,
-   "verdict": "Neutral",
-   "file": "WIF.png"
   }
  ]
 }
