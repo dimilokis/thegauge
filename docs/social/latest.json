@@ -1,6 +1,6 @@
 {
  "date": "2026-08-20",
- "generated_at": "2026-08-20T07:00:54.310434+00:00",
+ "generated_at": "2026-08-20T07:15:49.710923+00:00",
  "assets": [
   {
    "symbol": "RED",
@@ -17,6 +17,14 @@
    "from_btc_pct": 7,
    "verdict": "Overbought",
    "file": "BOME.png"
+  },
+  {
+   "symbol": "BB",
+   "name": "BounceBit",
+   "sigma": 2.53,
+   "from_btc_pct": 0,
+   "verdict": "Oversold",
+   "file": "BB.png"
   }
  ]
 }
