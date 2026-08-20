@@ -1,6 +1,6 @@
 {
  "date": "2026-08-20",
- "generated_at": "2026-08-20T09:15:49.672905+00:00",
+ "generated_at": "2026-08-20T10:00:57.057367+00:00",
  "assets": [
   {
    "symbol": "RED",
@@ -13,7 +13,7 @@
   {
    "symbol": "ASTER",
    "name": "Aster",
-   "sigma": 3.11,
+   "sigma": 3.03,
    "from_btc_pct": 40,
    "verdict": "Neutral",
    "file": "ASTER.png"
