@@ -739,6 +739,10 @@
   "icon": "https://coin-images.coingecko.com/coins/images/480/large/NEO_512_512.png?1696501735",
   "name": "NEO"
  },
+ "NEXO": {
+  "icon": "https://coin-images.coingecko.com/coins/images/3695/large/CG-nexo-token-200x200_2x.png",
+  "name": "NEXO"
+ },
  "NIGHT": {
   "icon": "https://coin-images.coingecko.com/coins/images/71015/large/midnight.png?1765193080",
   "name": "Midnight"
