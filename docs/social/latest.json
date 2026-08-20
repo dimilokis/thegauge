@@ -1,7 +1,15 @@
 {
  "date": "2026-08-20",
- "generated_at": "2026-08-20T13:25:32.387786+00:00",
+ "generated_at": "2026-08-20T13:45:51.674171+00:00",
  "assets": [
+  {
+   "symbol": "ONG",
+   "name": "Ontology Gas",
+   "sigma": 11.4,
+   "from_btc_pct": 25,
+   "verdict": "Overbought",
+   "file": "ONG.png"
+  },
   {
    "symbol": "RED",
    "name": "RedStone",
@@ -43,6 +51,14 @@
    "file": "NEIRO.png"
   },
   {
+   "symbol": "PUMP",
+   "name": "Pump.fun",
+   "sigma": 2.67,
+   "from_btc_pct": 1,
+   "verdict": "Strong Uptrend",
+   "file": "PUMP.png"
+  },
+  {
    "symbol": "BIO",
    "name": "Bio Protocol",
    "sigma": 2.64,
@@ -73,14 +89,6 @@
    "from_btc_pct": 2,
    "verdict": "Oversold",
    "file": "BB.png"
-  },
-  {
-   "symbol": "PUMP",
-   "name": "Pump.fun",
-   "sigma": 2.57,
-   "from_btc_pct": 1,
-   "verdict": "Strong Uptrend",
-   "file": "PUMP.png"
   },
   {
    "symbol": "WIF",
