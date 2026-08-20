@@ -1,6 +1,6 @@
 {
  "date": "2026-08-20",
- "generated_at": "2026-08-20T16:00:53.321894+00:00",
+ "generated_at": "2026-08-20T16:18:15.129682+00:00",
  "assets": [
   {
    "symbol": "ONG",
@@ -9,14 +9,6 @@
    "from_btc_pct": 25,
    "verdict": "Overbought",
    "file": "ONG.png"
-  },
-  {
-   "symbol": "RED",
-   "name": "RedStone",
-   "sigma": 6.54,
-   "from_btc_pct": 4,
-   "verdict": "Overbought",
-   "file": "RED.png"
   },
   {
    "symbol": "PEOPLE",
@@ -97,6 +89,14 @@
    "from_btc_pct": 33,
    "verdict": "Strong Uptrend",
    "file": "BIO.png"
+  },
+  {
+   "symbol": "RED",
+   "name": "RedStone",
+   "sigma": 2.51,
+   "from_btc_pct": 25,
+   "verdict": "Neutral",
+   "file": "RED.png"
   }
  ]
 }
