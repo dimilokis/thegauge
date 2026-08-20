@@ -1,6 +1,6 @@
 {
  "date": "2026-08-20",
- "generated_at": "2026-08-20T14:19:36.237216+00:00",
+ "generated_at": "2026-08-20T14:31:33.863206+00:00",
  "assets": [
   {
    "symbol": "ONG",
@@ -19,20 +19,20 @@
    "file": "RED.png"
   },
   {
-   "symbol": "ORDI",
-   "name": "ORDI",
-   "sigma": 3.19,
-   "from_btc_pct": 15,
-   "verdict": "Strong Uptrend",
-   "file": "ORDI.png"
-  },
-  {
    "symbol": "SCRT",
    "name": "Secret",
    "sigma": 3.14,
    "from_btc_pct": 2,
    "verdict": "Oversold",
    "file": "SCRT.png"
+  },
+  {
+   "symbol": "ORDI",
+   "name": "ORDI",
+   "sigma": 3.07,
+   "from_btc_pct": 11,
+   "verdict": "Strong Uptrend",
+   "file": "ORDI.png"
   },
   {
    "symbol": "ASTER",
@@ -43,6 +43,14 @@
    "file": "ASTER.png"
   },
   {
+   "symbol": "GALA",
+   "name": "GALA",
+   "sigma": 2.98,
+   "from_btc_pct": 8,
+   "verdict": "Oversold",
+   "file": "GALA.png"
+  },
+  {
    "symbol": "NEIRO",
    "name": "Neiro",
    "sigma": 2.88,
@@ -51,20 +59,20 @@
    "file": "NEIRO.png"
   },
   {
+   "symbol": "WIF",
+   "name": "dogwifhat",
+   "sigma": 2.78,
+   "from_btc_pct": 37,
+   "verdict": "Neutral",
+   "file": "WIF.png"
+  },
+  {
    "symbol": "PUMP",
    "name": "Pump.fun",
    "sigma": 2.67,
    "from_btc_pct": 1,
    "verdict": "Strong Uptrend",
    "file": "PUMP.png"
-  },
-  {
-   "symbol": "WIF",
-   "name": "dogwifhat",
-   "sigma": 2.67,
-   "from_btc_pct": 39,
-   "verdict": "Neutral",
-   "file": "WIF.png"
   },
   {
    "symbol": "BIO",
@@ -89,14 +97,6 @@
    "from_btc_pct": 33,
    "verdict": "Overbought",
    "file": "PNUT.png"
-  },
-  {
-   "symbol": "ROBO",
-   "name": "Fabric Protocol",
-   "sigma": 2.58,
-   "from_btc_pct": 5,
-   "verdict": "Neutral",
-   "file": "ROBO.png"
   }
  ]
 }
