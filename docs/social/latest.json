@@ -1,6 +1,6 @@
 {
  "date": "2026-08-20",
- "generated_at": "2026-08-20T16:18:15.129682+00:00",
+ "generated_at": "2026-08-20T16:57:59.044179+00:00",
  "assets": [
   {
    "symbol": "ONG",
@@ -91,12 +91,12 @@
    "file": "BIO.png"
   },
   {
-   "symbol": "RED",
-   "name": "RedStone",
-   "sigma": 2.51,
-   "from_btc_pct": 25,
+   "symbol": "ROBO",
+   "name": "Fabric Protocol",
+   "sigma": 2.55,
+   "from_btc_pct": 6,
    "verdict": "Neutral",
-   "file": "RED.png"
+   "file": "ROBO.png"
   }
  ]
 }
