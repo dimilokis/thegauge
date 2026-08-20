@@ -1,6 +1,6 @@
 {
  "date": "2026-08-20",
- "generated_at": "2026-08-20T20:45:46.311887+00:00",
+ "generated_at": "2026-08-20T21:30:55.523596+00:00",
  "assets": [
   {
    "symbol": "ONT",
@@ -21,7 +21,7 @@
   {
    "symbol": "PNUT",
    "name": "Peanut the Squirrel",
-   "sigma": 4.98,
+   "sigma": 5.07,
    "from_btc_pct": 40,
    "verdict": "Overbought",
    "file": "PNUT.png"
