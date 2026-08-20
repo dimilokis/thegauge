@@ -1,6 +1,6 @@
 {
  "date": "2026-08-20",
- "generated_at": "2026-08-20T10:00:57.057367+00:00",
+ "generated_at": "2026-08-20T10:15:55.616084+00:00",
  "assets": [
   {
    "symbol": "RED",
@@ -9,6 +9,14 @@
    "from_btc_pct": 4,
    "verdict": "Overbought",
    "file": "RED.png"
+  },
+  {
+   "symbol": "ORDI",
+   "name": "ORDI",
+   "sigma": 3.19,
+   "from_btc_pct": 15,
+   "verdict": "Strong Uptrend",
+   "file": "ORDI.png"
   },
   {
    "symbol": "ASTER",
@@ -25,6 +33,14 @@
    "from_btc_pct": 1,
    "verdict": "Oversold",
    "file": "SCRT.png"
+  },
+  {
+   "symbol": "NEIRO",
+   "name": "Neiro",
+   "sigma": 2.78,
+   "from_btc_pct": 19,
+   "verdict": "Neutral",
+   "file": "NEIRO.png"
   },
   {
    "symbol": "BIO",
