@@ -1,7 +1,15 @@
 {
  "date": "2026-08-20",
- "generated_at": "2026-08-20T20:23:46.953838+00:00",
+ "generated_at": "2026-08-20T20:30:51.355631+00:00",
  "assets": [
+  {
+   "symbol": "ONT",
+   "name": "Ontology",
+   "sigma": 28.65,
+   "from_btc_pct": 31,
+   "verdict": "Overbought",
+   "file": "ONT.png"
+  },
   {
    "symbol": "ONG",
    "name": "Ontology Gas",
@@ -89,14 +97,6 @@
    "from_btc_pct": 1,
    "verdict": "Strong Uptrend",
    "file": "PUMP.png"
-  },
-  {
-   "symbol": "BIO",
-   "name": "Bio Protocol",
-   "sigma": 2.64,
-   "from_btc_pct": 33,
-   "verdict": "Strong Uptrend",
-   "file": "BIO.png"
   }
  ]
 }
