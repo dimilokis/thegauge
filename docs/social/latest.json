@@ -1,6 +1,6 @@
 {
  "date": "2026-08-20",
- "generated_at": "2026-08-20T07:15:49.710923+00:00",
+ "generated_at": "2026-08-20T08:00:57.056766+00:00",
  "assets": [
   {
    "symbol": "RED",
@@ -9,6 +9,14 @@
    "from_btc_pct": 4,
    "verdict": "Overbought",
    "file": "RED.png"
+  },
+  {
+   "symbol": "BIO",
+   "name": "Bio Protocol",
+   "sigma": 2.64,
+   "from_btc_pct": 33,
+   "verdict": "Strong Uptrend",
+   "file": "BIO.png"
   },
   {
    "symbol": "BOME",
