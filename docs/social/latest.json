@@ -1,6 +1,6 @@
 {
  "date": "2026-08-20",
- "generated_at": "2026-08-20T15:31:48.193290+00:00",
+ "generated_at": "2026-08-20T16:00:53.321894+00:00",
  "assets": [
   {
    "symbol": "ONG",
@@ -17,6 +17,14 @@
    "from_btc_pct": 4,
    "verdict": "Overbought",
    "file": "RED.png"
+  },
+  {
+   "symbol": "PEOPLE",
+   "name": "ConstitutionDAO",
+   "sigma": 4.07,
+   "from_btc_pct": 10,
+   "verdict": "Overbought",
+   "file": "PEOPLE.png"
   },
   {
    "symbol": "SCRT",
@@ -89,14 +97,6 @@
    "from_btc_pct": 33,
    "verdict": "Strong Uptrend",
    "file": "BIO.png"
-  },
-  {
-   "symbol": "BOME",
-   "name": "BOOK OF MEME",
-   "sigma": 2.63,
-   "from_btc_pct": 7,
-   "verdict": "Overbought",
-   "file": "BOME.png"
   }
  ]
 }
