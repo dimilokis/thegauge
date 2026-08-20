@@ -1,6 +1,6 @@
 {
  "date": "2026-08-20",
- "generated_at": "2026-08-20T21:45:50.871002+00:00",
+ "generated_at": "2026-08-20T22:00:52.458514+00:00",
  "assets": [
   {
    "symbol": "ONT",
@@ -9,6 +9,14 @@
    "from_btc_pct": 31,
    "verdict": "Overbought",
    "file": "ONT.png"
+  },
+  {
+   "symbol": "SANTOS",
+   "name": "Santos FC Fan Token",
+   "sigma": 15.98,
+   "from_btc_pct": 25,
+   "verdict": "Overbought",
+   "file": "SANTOS.png"
   },
   {
    "symbol": "ONG",
@@ -89,14 +97,6 @@
    "from_btc_pct": 1,
    "verdict": "Strong Uptrend",
    "file": "PUMP.png"
-  },
-  {
-   "symbol": "ORDI",
-   "name": "ORDI",
-   "sigma": 2.55,
-   "from_btc_pct": 15,
-   "verdict": "Strong Uptrend",
-   "file": "ORDI.png"
   }
  ]
 }
