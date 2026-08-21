@@ -1,6 +1,6 @@
 {
  "date": "2026-08-21",
- "generated_at": "2026-08-21T19:55:29.127019+00:00",
+ "generated_at": "2026-08-21T20:00:56.791485+00:00",
  "assets": [
   {
    "symbol": "BCH",
@@ -21,8 +21,8 @@
   {
    "symbol": "RED",
    "name": "RedStone",
-   "sigma": 7.26,
-   "from_btc_pct": 38,
+   "sigma": 5.36,
+   "from_btc_pct": 40,
    "verdict": "Overbought",
    "file": "RED.png"
   },
