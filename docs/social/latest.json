@@ -1,6 +1,6 @@
 {
  "date": "2026-08-21",
- "generated_at": "2026-08-21T06:00:54.450622+00:00",
+ "generated_at": "2026-08-21T07:00:55.970323+00:00",
  "assets": [
   {
    "symbol": "SPK",
@@ -9,6 +9,22 @@
    "from_btc_pct": 34,
    "verdict": "Neutral",
    "file": "SPK.png"
+  },
+  {
+   "symbol": "POL",
+   "name": "POL (ex-MATIC)",
+   "sigma": 3.86,
+   "from_btc_pct": 18,
+   "verdict": "Strong Uptrend",
+   "file": "POL.png"
+  },
+  {
+   "symbol": "CRV",
+   "name": "Curve DAO",
+   "sigma": 2.78,
+   "from_btc_pct": 21,
+   "verdict": "Strong Uptrend",
+   "file": "CRV.png"
   },
   {
    "symbol": "HEMI",
@@ -25,14 +41,6 @@
    "from_btc_pct": 34,
    "verdict": "Overbought",
    "file": "NEIRO.png"
-  },
-  {
-   "symbol": "CRV",
-   "name": "Curve DAO",
-   "sigma": 2.66,
-   "from_btc_pct": 19,
-   "verdict": "Strong Uptrend",
-   "file": "CRV.png"
   },
   {
    "symbol": "ONG",
