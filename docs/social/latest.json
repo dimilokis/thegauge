@@ -1,6 +1,6 @@
 {
  "date": "2026-08-21",
- "generated_at": "2026-08-21T03:26:43.547405+00:00",
+ "generated_at": "2026-08-21T03:30:49.493874+00:00",
  "assets": [
   {
    "symbol": "HEMI",
@@ -9,6 +9,14 @@
    "from_btc_pct": 12,
    "verdict": "Overbought",
    "file": "HEMI.png"
+  },
+  {
+   "symbol": "CRV",
+   "name": "Curve DAO",
+   "sigma": 2.8,
+   "from_btc_pct": 17,
+   "verdict": "Strong Uptrend",
+   "file": "CRV.png"
   }
  ]
 }
