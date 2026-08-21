@@ -1,6 +1,6 @@
 {
  "date": "2026-08-21",
- "generated_at": "2026-08-21T07:23:15.459198+00:00",
+ "generated_at": "2026-08-21T07:45:50.400873+00:00",
  "assets": [
   {
    "symbol": "SPK",
@@ -17,6 +17,14 @@
    "from_btc_pct": 18,
    "verdict": "Strong Uptrend",
    "file": "POL.png"
+  },
+  {
+   "symbol": "BOME",
+   "name": "BOOK OF MEME",
+   "sigma": 3.79,
+   "from_btc_pct": 29,
+   "verdict": "Overbought",
+   "file": "BOME.png"
   },
   {
    "symbol": "CRV",
@@ -41,6 +49,14 @@
    "from_btc_pct": 32,
    "verdict": "Overbought",
    "file": "ONG.png"
+  },
+  {
+   "symbol": "GALA",
+   "name": "GALA",
+   "sigma": 2.6,
+   "from_btc_pct": 24,
+   "verdict": "Neutral",
+   "file": "GALA.png"
   },
   {
    "symbol": "NEIRO",
