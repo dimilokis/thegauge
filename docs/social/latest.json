@@ -1,6 +1,6 @@
 {
  "date": "2026-08-21",
- "generated_at": "2026-08-21T08:15:53.910136+00:00",
+ "generated_at": "2026-08-21T08:30:54.594275+00:00",
  "assets": [
   {
    "symbol": "SPK",
@@ -43,20 +43,20 @@
    "file": "HEMI.png"
   },
   {
-   "symbol": "ONG",
-   "name": "Ontology Gas",
-   "sigma": 2.63,
-   "from_btc_pct": 32,
-   "verdict": "Overbought",
-   "file": "ONG.png"
-  },
-  {
    "symbol": "GALA",
    "name": "GALA",
    "sigma": 2.6,
    "from_btc_pct": 24,
    "verdict": "Neutral",
    "file": "GALA.png"
+  },
+  {
+   "symbol": "ONG",
+   "name": "Ontology Gas",
+   "sigma": 2.55,
+   "from_btc_pct": 10,
+   "verdict": "Neutral",
+   "file": "ONG.png"
   },
   {
    "symbol": "NEIRO",
