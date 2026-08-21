@@ -1,6 +1,6 @@
 {
  "date": "2026-08-21",
- "generated_at": "2026-08-21T21:59:03.805708+00:00",
+ "generated_at": "2026-08-21T22:15:49.153681+00:00",
  "assets": [
   {
    "symbol": "GALA",
@@ -91,12 +91,12 @@
    "file": "PLUME.png"
   },
   {
-   "symbol": "ZRO",
-   "name": "LayerZero",
-   "sigma": 2.84,
-   "from_btc_pct": 23,
-   "verdict": "Neutral",
-   "file": "ZRO.png"
+   "symbol": "ETHFI",
+   "name": "Ether.fi",
+   "sigma": 2.85,
+   "from_btc_pct": 21,
+   "verdict": "Strong Uptrend",
+   "file": "ETHFI.png"
   }
  ]
 }
