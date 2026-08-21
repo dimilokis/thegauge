@@ -1,6 +1,6 @@
 {
  "date": "2026-08-21",
- "generated_at": "2026-08-21T20:00:56.791485+00:00",
+ "generated_at": "2026-08-21T20:15:48.950306+00:00",
  "assets": [
   {
    "symbol": "BCH",
@@ -25,14 +25,6 @@
    "from_btc_pct": 40,
    "verdict": "Overbought",
    "file": "RED.png"
-  },
-  {
-   "symbol": "NEIRO",
-   "name": "Neiro",
-   "sigma": 4.13,
-   "from_btc_pct": 39,
-   "verdict": "Overbought",
-   "file": "NEIRO.png"
   },
   {
    "symbol": "COTI",
@@ -65,6 +57,14 @@
    "from_btc_pct": 22,
    "verdict": "Neutral",
    "file": "ZRO.png"
+  },
+  {
+   "symbol": "NEIRO",
+   "name": "Neiro",
+   "sigma": 3.27,
+   "from_btc_pct": 38,
+   "verdict": "Overbought",
+   "file": "NEIRO.png"
   },
   {
    "symbol": "BB",
