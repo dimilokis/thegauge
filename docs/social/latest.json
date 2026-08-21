@@ -1,6 +1,6 @@
 {
  "date": "2026-08-21",
- "generated_at": "2026-08-21T10:15:59.212254+00:00",
+ "generated_at": "2026-08-21T10:45:53.889872+00:00",
  "assets": [
   {
    "symbol": "SPK",
@@ -51,20 +51,20 @@
    "file": "BB.png"
   },
   {
-   "symbol": "CRV",
-   "name": "Curve DAO",
-   "sigma": 2.86,
-   "from_btc_pct": 27,
-   "verdict": "Strong Uptrend",
-   "file": "CRV.png"
-  },
-  {
    "symbol": "\u5e01\u5b89\u4eba\u751f",
    "name": "\u5e01\u5b89\u4eba\u751f (BinanceLife)",
    "sigma": 2.8,
    "from_btc_pct": 6,
    "verdict": "Neutral",
    "file": "\u5e01\u5b89\u4eba\u751f.png"
+  },
+  {
+   "symbol": "ROBO",
+   "name": "Fabric Protocol",
+   "sigma": 2.8,
+   "from_btc_pct": 7,
+   "verdict": "Neutral",
+   "file": "ROBO.png"
   },
   {
    "symbol": "PEOPLE",
@@ -75,12 +75,20 @@
    "file": "PEOPLE.png"
   },
   {
-   "symbol": "ROBO",
-   "name": "Fabric Protocol",
-   "sigma": 2.62,
-   "from_btc_pct": 7,
-   "verdict": "Neutral",
-   "file": "ROBO.png"
+   "symbol": "PLUME",
+   "name": "Plume",
+   "sigma": 2.69,
+   "from_btc_pct": 12,
+   "verdict": "Overbought",
+   "file": "PLUME.png"
+  },
+  {
+   "symbol": "CRV",
+   "name": "Curve DAO",
+   "sigma": 2.65,
+   "from_btc_pct": 26,
+   "verdict": "Strong Uptrend",
+   "file": "CRV.png"
   },
   {
    "symbol": "GALA",
@@ -89,14 +97,6 @@
    "from_btc_pct": 24,
    "verdict": "Neutral",
    "file": "GALA.png"
-  },
-  {
-   "symbol": "ONG",
-   "name": "Ontology Gas",
-   "sigma": 2.55,
-   "from_btc_pct": 10,
-   "verdict": "Neutral",
-   "file": "ONG.png"
   }
  ]
 }
