@@ -1,6 +1,6 @@
 {
  "date": "2026-08-20",
- "generated_at": "2026-08-21T02:15:08.848361+00:00",
+ "generated_at": "2026-08-21T02:45:51.572993+00:00",
  "assets": [
   {
    "symbol": "OSMO",
@@ -75,6 +75,14 @@
    "file": "CRV.png"
   },
   {
+   "symbol": "ONT",
+   "name": "Ontology",
+   "sigma": 2.92,
+   "from_btc_pct": 40,
+   "verdict": "Overbought",
+   "file": "ONT.png"
+  },
+  {
    "symbol": "NEIRO",
    "name": "Neiro",
    "sigma": 2.88,
@@ -89,14 +97,6 @@
    "from_btc_pct": 15,
    "verdict": "Neutral",
    "file": "SANTOS.png"
-  },
-  {
-   "symbol": "ONT",
-   "name": "Ontology",
-   "sigma": 2.56,
-   "from_btc_pct": 40,
-   "verdict": "Overbought",
-   "file": "ONT.png"
   }
  ]
 }
