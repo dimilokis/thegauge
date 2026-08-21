@@ -1,6 +1,6 @@
 {
  "date": "2026-08-21",
- "generated_at": "2026-08-21T17:20:01.757233+00:00",
+ "generated_at": "2026-08-21T17:30:50.253794+00:00",
  "assets": [
   {
    "symbol": "SPK",
@@ -51,14 +51,6 @@
    "file": "ZRO.png"
   },
   {
-   "symbol": "MANTRA",
-   "name": "MANTRA",
-   "sigma": 3.11,
-   "from_btc_pct": 9,
-   "verdict": "Oversold",
-   "file": "MANTRA.png"
-  },
-  {
    "symbol": "BB",
    "name": "BounceBit",
    "sigma": 3.09,
@@ -97,6 +89,14 @@
    "from_btc_pct": 6,
    "verdict": "Neutral",
    "file": "\u5e01\u5b89\u4eba\u751f.png"
+  },
+  {
+   "symbol": "MANTRA",
+   "name": "MANTRA",
+   "sigma": 2.52,
+   "from_btc_pct": 8,
+   "verdict": "Oversold",
+   "file": "MANTRA.png"
   }
  ]
 }
