@@ -1,6 +1,6 @@
 {
  "date": "2026-08-21",
- "generated_at": "2026-08-21T16:01:26.875472+00:00",
+ "generated_at": "2026-08-21T16:15:53.463496+00:00",
  "assets": [
   {
    "symbol": "SPK",
@@ -9,6 +9,22 @@
    "from_btc_pct": 34,
    "verdict": "Neutral",
    "file": "SPK.png"
+  },
+  {
+   "symbol": "RED",
+   "name": "RedStone",
+   "sigma": 6.02,
+   "from_btc_pct": 40,
+   "verdict": "Overbought",
+   "file": "RED.png"
+  },
+  {
+   "symbol": "NEIRO",
+   "name": "Neiro",
+   "sigma": 4.69,
+   "from_btc_pct": 40,
+   "verdict": "Overbought",
+   "file": "NEIRO.png"
   },
   {
    "symbol": "POL",
@@ -35,28 +51,12 @@
    "file": "ZRO.png"
   },
   {
-   "symbol": "NEIRO",
-   "name": "Neiro",
-   "sigma": 3.15,
-   "from_btc_pct": 38,
-   "verdict": "Overbought",
-   "file": "NEIRO.png"
-  },
-  {
    "symbol": "BB",
    "name": "BounceBit",
    "sigma": 3.09,
    "from_btc_pct": 5,
    "verdict": "Oversold",
    "file": "BB.png"
-  },
-  {
-   "symbol": "PROM",
-   "name": "Prom",
-   "sigma": 3.06,
-   "from_btc_pct": 3,
-   "verdict": "Overbought",
-   "file": "PROM.png"
   },
   {
    "symbol": "TRUMP",
@@ -91,12 +91,12 @@
    "file": "\u5e01\u5b89\u4eba\u751f.png"
   },
   {
-   "symbol": "PEOPLE",
-   "name": "ConstitutionDAO",
-   "sigma": 2.67,
-   "from_btc_pct": 24,
+   "symbol": "PROM",
+   "name": "Prom",
+   "sigma": 2.58,
+   "from_btc_pct": 2,
    "verdict": "Overbought",
-   "file": "PEOPLE.png"
+   "file": "PROM.png"
   }
  ]
 }
