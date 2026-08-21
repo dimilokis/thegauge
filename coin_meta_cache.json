@@ -804,7 +804,7 @@
   "name": "ORDI"
  },
  "OSMO": {
-  "icon": "https://coin-images.coingecko.com/coins/images/16724/large/osmo.png",
+  "icon": "https://coin-images.coingecko.com/coins/images/16724/large/osmo.png?1696516298",
   "name": "Osmosis"
  },
  "PARTI": {
@@ -968,7 +968,7 @@
   "name": "The Sandbox"
  },
  "SANTOS": {
-  "icon": "https://coin-images.coingecko.com/coins/images/21132/large/santos.png",
+  "icon": "https://coin-images.coingecko.com/coins/images/21132/large/santos.png?1696520511",
   "name": "Santos FC Fan Token"
  },
  "SAPIEN": {
@@ -980,7 +980,7 @@
   "name": "Scroll"
  },
  "SCRT": {
-  "icon": "https://coin-images.coingecko.com/coins/images/11871/large/scrt_200.png?1733344413",
+  "icon": "https://coin-images.coingecko.com/coins/images/11871/large/Untitled_design_%284%29.png?1787211441",
   "name": "Secret"
  },
  "SEI": {
@@ -1002,6 +1002,10 @@
  "SIGN": {
   "icon": "https://coin-images.coingecko.com/coins/images/55303/large/sign.jpg?1745303393",
   "name": "Sign"
+ },
+ "SKHYB": {
+  "icon": "https://coin-images.coingecko.com/coins/images/102174549/large/skhynix.png?1784001947",
+  "name": "SK Hynix (bStocks Tokenized Stock)"
  },
  "SKL": {
   "icon": "https://coin-images.coingecko.com/coins/images/13245/large/SKALE_token_300x300.png?1696513021",
