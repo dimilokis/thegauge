@@ -1,12 +1,12 @@
 {
  "date": "2026-08-21",
- "generated_at": "2026-08-21T04:30:50.466535+00:00",
+ "generated_at": "2026-08-21T05:03:43.818853+00:00",
  "assets": [
   {
    "symbol": "CRV",
    "name": "Curve DAO",
-   "sigma": 2.8,
-   "from_btc_pct": 17,
+   "sigma": 2.66,
+   "from_btc_pct": 19,
    "verdict": "Strong Uptrend",
    "file": "CRV.png"
   },
@@ -17,6 +17,14 @@
    "from_btc_pct": 13,
    "verdict": "Overbought",
    "file": "HEMI.png"
+  },
+  {
+   "symbol": "ONG",
+   "name": "Ontology Gas",
+   "sigma": 2.63,
+   "from_btc_pct": 32,
+   "verdict": "Overbought",
+   "file": "ONG.png"
   }
  ]
 }
