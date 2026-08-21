@@ -1,6 +1,6 @@
 {
  "date": "2026-08-20",
- "generated_at": "2026-08-21T01:45:48.018954+00:00",
+ "generated_at": "2026-08-21T02:15:08.848361+00:00",
  "assets": [
   {
    "symbol": "OSMO",
@@ -35,14 +35,6 @@
    "file": "MANTRA.png"
   },
   {
-   "symbol": "ONG",
-   "name": "Ontology Gas",
-   "sigma": 3.2,
-   "from_btc_pct": 31,
-   "verdict": "Overbought",
-   "file": "ONG.png"
-  },
-  {
    "symbol": "SCRT",
    "name": "Secret",
    "sigma": 3.14,
@@ -65,6 +57,14 @@
    "from_btc_pct": 8,
    "verdict": "Oversold",
    "file": "GALA.png"
+  },
+  {
+   "symbol": "ONG",
+   "name": "Ontology Gas",
+   "sigma": 2.93,
+   "from_btc_pct": 32,
+   "verdict": "Overbought",
+   "file": "ONG.png"
   },
   {
    "symbol": "CRV",
