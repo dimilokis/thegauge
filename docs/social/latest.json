@@ -1,6 +1,6 @@
 {
  "date": "2026-08-21",
- "generated_at": "2026-08-21T11:45:46.413061+00:00",
+ "generated_at": "2026-08-21T12:00:55.929317+00:00",
  "assets": [
   {
    "symbol": "SPK",
@@ -67,14 +67,6 @@
    "file": "PEOPLE.png"
   },
   {
-   "symbol": "PLUME",
-   "name": "Plume",
-   "sigma": 2.69,
-   "from_btc_pct": 12,
-   "verdict": "Overbought",
-   "file": "PLUME.png"
-  },
-  {
    "symbol": "CRV",
    "name": "Curve DAO",
    "sigma": 2.65,
@@ -89,6 +81,14 @@
    "from_btc_pct": 36,
    "verdict": "Overbought",
    "file": "NEIRO.png"
+  },
+  {
+   "symbol": "PLUME",
+   "name": "Plume",
+   "sigma": 2.61,
+   "from_btc_pct": 10,
+   "verdict": "Overbought",
+   "file": "PLUME.png"
   },
   {
    "symbol": "GALA",
