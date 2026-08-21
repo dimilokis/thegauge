@@ -1,15 +1,7 @@
 {
  "date": "2026-08-20",
- "generated_at": "2026-08-21T01:31:00.377147+00:00",
+ "generated_at": "2026-08-21T01:45:48.018954+00:00",
  "assets": [
-  {
-   "symbol": "SANTOS",
-   "name": "Santos FC Fan Token",
-   "sigma": 15.98,
-   "from_btc_pct": 25,
-   "verdict": "Overbought",
-   "file": "SANTOS.png"
-  },
   {
    "symbol": "OSMO",
    "name": "Osmosis",
@@ -89,6 +81,14 @@
    "from_btc_pct": 18,
    "verdict": "Neutral",
    "file": "NEIRO.png"
+  },
+  {
+   "symbol": "SANTOS",
+   "name": "Santos FC Fan Token",
+   "sigma": 2.59,
+   "from_btc_pct": 15,
+   "verdict": "Neutral",
+   "file": "SANTOS.png"
   },
   {
    "symbol": "ONT",
