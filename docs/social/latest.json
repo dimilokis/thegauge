@@ -1,7 +1,15 @@
 {
  "date": "2026-08-21",
- "generated_at": "2026-08-21T21:35:55.820426+00:00",
+ "generated_at": "2026-08-21T21:45:50.553335+00:00",
  "assets": [
+  {
+   "symbol": "GALA",
+   "name": "GALA",
+   "sigma": 11.74,
+   "from_btc_pct": 40,
+   "verdict": "Neutral",
+   "file": "GALA.png"
+  },
   {
    "symbol": "BCH",
    "name": "Bitcoin Cash",
@@ -89,14 +97,6 @@
    "from_btc_pct": 23,
    "verdict": "Neutral",
    "file": "ZRO.png"
-  },
-  {
-   "symbol": "FF",
-   "name": "Falcon Finance",
-   "sigma": 2.81,
-   "from_btc_pct": 6,
-   "verdict": "Neutral",
-   "file": "FF.png"
   }
  ]
 }
