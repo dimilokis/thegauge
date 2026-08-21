@@ -1,6 +1,6 @@
 {
  "date": "2026-08-21",
- "generated_at": "2026-08-21T11:30:54.322401+00:00",
+ "generated_at": "2026-08-21T11:37:45.307255+00:00",
  "assets": [
   {
    "symbol": "SPK",
@@ -51,14 +51,6 @@
    "file": "\u5e01\u5b89\u4eba\u751f.png"
   },
   {
-   "symbol": "ROBO",
-   "name": "Fabric Protocol",
-   "sigma": 2.8,
-   "from_btc_pct": 7,
-   "verdict": "Neutral",
-   "file": "ROBO.png"
-  },
-  {
    "symbol": "PEOPLE",
    "name": "ConstitutionDAO",
    "sigma": 2.79,
@@ -97,6 +89,14 @@
    "from_btc_pct": 24,
    "verdict": "Neutral",
    "file": "GALA.png"
+  },
+  {
+   "symbol": "ROBO",
+   "name": "Fabric Protocol",
+   "sigma": 2.6,
+   "from_btc_pct": 6,
+   "verdict": "Neutral",
+   "file": "ROBO.png"
   }
  ]
 }
