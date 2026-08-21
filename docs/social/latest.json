@@ -1,6 +1,6 @@
 {
  "date": "2026-08-21",
- "generated_at": "2026-08-21T15:28:05.024304+00:00",
+ "generated_at": "2026-08-21T15:45:49.616732+00:00",
  "assets": [
   {
    "symbol": "SPK",
@@ -59,6 +59,14 @@
    "file": "PROM.png"
   },
   {
+   "symbol": "TRUMP",
+   "name": "Official Trump",
+   "sigma": 3.05,
+   "from_btc_pct": 40,
+   "verdict": "Strong Uptrend",
+   "file": "TRUMP.png"
+  },
+  {
    "symbol": "PLUME",
    "name": "Plume",
    "sigma": 2.85,
@@ -89,14 +97,6 @@
    "from_btc_pct": 24,
    "verdict": "Overbought",
    "file": "PEOPLE.png"
-  },
-  {
-   "symbol": "HEMI",
-   "name": "Hemi",
-   "sigma": 2.58,
-   "from_btc_pct": 19,
-   "verdict": "Overbought",
-   "file": "HEMI.png"
   }
  ]
 }
