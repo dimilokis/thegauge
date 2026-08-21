@@ -1,6 +1,6 @@
 {
  "date": "2026-08-21",
- "generated_at": "2026-08-21T12:45:49.643434+00:00",
+ "generated_at": "2026-08-21T13:00:55.537122+00:00",
  "assets": [
   {
    "symbol": "SPK",
@@ -75,6 +75,14 @@
    "file": "CRV.png"
   },
   {
+   "symbol": "TRUMP",
+   "name": "Official Trump",
+   "sigma": 2.63,
+   "from_btc_pct": 38,
+   "verdict": "Strong Uptrend",
+   "file": "TRUMP.png"
+  },
+  {
    "symbol": "PLUME",
    "name": "Plume",
    "sigma": 2.61,
@@ -89,14 +97,6 @@
    "from_btc_pct": 24,
    "verdict": "Neutral",
    "file": "GALA.png"
-  },
-  {
-   "symbol": "NEIRO",
-   "name": "Neiro",
-   "sigma": 2.56,
-   "from_btc_pct": 36,
-   "verdict": "Overbought",
-   "file": "NEIRO.png"
   }
  ]
 }
