@@ -1,6 +1,6 @@
 {
  "date": "2026-08-21",
- "generated_at": "2026-08-21T12:15:48.187913+00:00",
+ "generated_at": "2026-08-21T12:45:49.643434+00:00",
  "assets": [
   {
    "symbol": "SPK",
@@ -67,14 +67,6 @@
    "file": "PEOPLE.png"
   },
   {
-   "symbol": "NEIRO",
-   "name": "Neiro",
-   "sigma": 2.72,
-   "from_btc_pct": 36,
-   "verdict": "Overbought",
-   "file": "NEIRO.png"
-  },
-  {
    "symbol": "CRV",
    "name": "Curve DAO",
    "sigma": 2.65,
@@ -97,6 +89,14 @@
    "from_btc_pct": 24,
    "verdict": "Neutral",
    "file": "GALA.png"
+  },
+  {
+   "symbol": "NEIRO",
+   "name": "Neiro",
+   "sigma": 2.56,
+   "from_btc_pct": 36,
+   "verdict": "Overbought",
+   "file": "NEIRO.png"
   }
  ]
 }
