@@ -1,11 +1,11 @@
 {
  "date": "2026-08-21",
- "generated_at": "2026-08-21T23:30:53.695097+00:00",
+ "generated_at": "2026-08-21T23:43:57.686251+00:00",
  "assets": [
   {
    "symbol": "GALA",
    "name": "GALA",
-   "sigma": 11.74,
+   "sigma": 13.13,
    "from_btc_pct": 40,
    "verdict": "Neutral",
    "file": "GALA.png"
@@ -25,6 +25,14 @@
    "from_btc_pct": 34,
    "verdict": "Neutral",
    "file": "SPK.png"
+  },
+  {
+   "symbol": "SHIB",
+   "name": "Shiba Inu",
+   "sigma": 6.44,
+   "from_btc_pct": 39,
+   "verdict": "Strong Uptrend",
+   "file": "SHIB.png"
   },
   {
    "symbol": "RED",
@@ -61,8 +69,8 @@
   {
    "symbol": "NEIRO",
    "name": "Neiro",
-   "sigma": 3.27,
-   "from_btc_pct": 38,
+   "sigma": 3.37,
+   "from_btc_pct": 39,
    "verdict": "Overbought",
    "file": "NEIRO.png"
   },
@@ -89,14 +97,6 @@
    "from_btc_pct": 11,
    "verdict": "Overbought",
    "file": "PLUME.png"
-  },
-  {
-   "symbol": "TRUMP",
-   "name": "Official Trump",
-   "sigma": 2.71,
-   "from_btc_pct": 40,
-   "verdict": "Strong Uptrend",
-   "file": "TRUMP.png"
   }
  ]
 }
