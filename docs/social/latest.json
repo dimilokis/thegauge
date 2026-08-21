@@ -1,7 +1,23 @@
 {
  "date": "2026-08-21",
- "generated_at": "2026-08-21T05:45:49.796092+00:00",
+ "generated_at": "2026-08-21T06:00:54.450622+00:00",
  "assets": [
+  {
+   "symbol": "SPK",
+   "name": "Spark",
+   "sigma": 9.87,
+   "from_btc_pct": 34,
+   "verdict": "Neutral",
+   "file": "SPK.png"
+  },
+  {
+   "symbol": "HEMI",
+   "name": "Hemi",
+   "sigma": 2.76,
+   "from_btc_pct": 14,
+   "verdict": "Overbought",
+   "file": "HEMI.png"
+  },
   {
    "symbol": "NEIRO",
    "name": "Neiro",
@@ -17,14 +33,6 @@
    "from_btc_pct": 19,
    "verdict": "Strong Uptrend",
    "file": "CRV.png"
-  },
-  {
-   "symbol": "HEMI",
-   "name": "Hemi",
-   "sigma": 2.64,
-   "from_btc_pct": 13,
-   "verdict": "Overbought",
-   "file": "HEMI.png"
   },
   {
    "symbol": "ONG",
