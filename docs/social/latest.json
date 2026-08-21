@@ -1,6 +1,6 @@
 {
  "date": "2026-08-21",
- "generated_at": "2026-08-21T08:45:51.417688+00:00",
+ "generated_at": "2026-08-21T09:01:02.050765+00:00",
  "assets": [
   {
    "symbol": "SPK",
@@ -35,12 +35,28 @@
    "file": "PEOPLE.png"
   },
   {
+   "symbol": "BB",
+   "name": "BounceBit",
+   "sigma": 3.09,
+   "from_btc_pct": 5,
+   "verdict": "Oversold",
+   "file": "BB.png"
+  },
+  {
    "symbol": "CRV",
    "name": "Curve DAO",
    "sigma": 2.82,
    "from_btc_pct": 26,
    "verdict": "Strong Uptrend",
    "file": "CRV.png"
+  },
+  {
+   "symbol": "\u5e01\u5b89\u4eba\u751f",
+   "name": "\u5e01\u5b89\u4eba\u751f (BinanceLife)",
+   "sigma": 2.8,
+   "from_btc_pct": 6,
+   "verdict": "Neutral",
+   "file": "\u5e01\u5b89\u4eba\u751f.png"
   },
   {
    "symbol": "HEMI",
