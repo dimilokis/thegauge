@@ -1,6 +1,6 @@
 {
  "date": "2026-08-21",
- "generated_at": "2026-08-21T13:15:44.172127+00:00",
+ "generated_at": "2026-08-21T13:30:52.007224+00:00",
  "assets": [
   {
    "symbol": "SPK",
@@ -75,6 +75,14 @@
    "file": "PEOPLE.png"
   },
   {
+   "symbol": "FF",
+   "name": "Falcon Finance",
+   "sigma": 2.79,
+   "from_btc_pct": 5,
+   "verdict": "Neutral",
+   "file": "FF.png"
+  },
+  {
    "symbol": "CRV",
    "name": "Curve DAO",
    "sigma": 2.65,
@@ -89,14 +97,6 @@
    "from_btc_pct": 38,
    "verdict": "Strong Uptrend",
    "file": "TRUMP.png"
-  },
-  {
-   "symbol": "GALA",
-   "name": "GALA",
-   "sigma": 2.6,
-   "from_btc_pct": 24,
-   "verdict": "Neutral",
-   "file": "GALA.png"
   }
  ]
 }
