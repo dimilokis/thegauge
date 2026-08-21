@@ -1,6 +1,6 @@
 {
  "date": "2026-08-21",
- "generated_at": "2026-08-21T18:45:50.996439+00:00",
+ "generated_at": "2026-08-21T19:45:52.912936+00:00",
  "assets": [
   {
    "symbol": "BCH",
@@ -33,6 +33,14 @@
    "from_btc_pct": 39,
    "verdict": "Overbought",
    "file": "NEIRO.png"
+  },
+  {
+   "symbol": "COTI",
+   "name": "COTI",
+   "sigma": 3.98,
+   "from_btc_pct": 0,
+   "verdict": "Overbought",
+   "file": "COTI.png"
   },
   {
    "symbol": "POL",
@@ -89,14 +97,6 @@
    "from_btc_pct": 6,
    "verdict": "Neutral",
    "file": "FF.png"
-  },
-  {
-   "symbol": "\u5e01\u5b89\u4eba\u751f",
-   "name": "\u5e01\u5b89\u4eba\u751f (BinanceLife)",
-   "sigma": 2.8,
-   "from_btc_pct": 6,
-   "verdict": "Neutral",
-   "file": "\u5e01\u5b89\u4eba\u751f.png"
   }
  ]
 }
