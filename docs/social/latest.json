@@ -1,6 +1,6 @@
 {
  "date": "2026-08-21",
- "generated_at": "2026-08-21T13:30:52.007224+00:00",
+ "generated_at": "2026-08-21T13:45:47.385721+00:00",
  "assets": [
   {
    "symbol": "SPK",
@@ -35,6 +35,14 @@
    "file": "ZRO.png"
   },
   {
+   "symbol": "NEIRO",
+   "name": "Neiro",
+   "sigma": 3.15,
+   "from_btc_pct": 38,
+   "verdict": "Overbought",
+   "file": "NEIRO.png"
+  },
+  {
    "symbol": "HEMI",
    "name": "Hemi",
    "sigma": 3.12,
@@ -67,14 +75,6 @@
    "file": "\u5e01\u5b89\u4eba\u751f.png"
   },
   {
-   "symbol": "PEOPLE",
-   "name": "ConstitutionDAO",
-   "sigma": 2.79,
-   "from_btc_pct": 25,
-   "verdict": "Overbought",
-   "file": "PEOPLE.png"
-  },
-  {
    "symbol": "FF",
    "name": "Falcon Finance",
    "sigma": 2.79,
@@ -91,12 +91,12 @@
    "file": "CRV.png"
   },
   {
-   "symbol": "TRUMP",
-   "name": "Official Trump",
-   "sigma": 2.63,
-   "from_btc_pct": 38,
-   "verdict": "Strong Uptrend",
-   "file": "TRUMP.png"
+   "symbol": "PEOPLE",
+   "name": "ConstitutionDAO",
+   "sigma": 2.51,
+   "from_btc_pct": 24,
+   "verdict": "Overbought",
+   "file": "PEOPLE.png"
   }
  ]
 }
