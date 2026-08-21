@@ -1,6 +1,6 @@
 {
  "date": "2026-08-21",
- "generated_at": "2026-08-21T22:15:49.153681+00:00",
+ "generated_at": "2026-08-21T22:30:53.683468+00:00",
  "assets": [
   {
    "symbol": "GALA",
@@ -67,6 +67,14 @@
    "file": "NEIRO.png"
   },
   {
+   "symbol": "WLFI",
+   "name": "World Liberty Financial",
+   "sigma": 3.17,
+   "from_btc_pct": 4,
+   "verdict": "Strong Uptrend",
+   "file": "WLFI.png"
+  },
+  {
    "symbol": "BB",
    "name": "BounceBit",
    "sigma": 3.09,
@@ -89,14 +97,6 @@
    "from_btc_pct": 11,
    "verdict": "Overbought",
    "file": "PLUME.png"
-  },
-  {
-   "symbol": "ETHFI",
-   "name": "Ether.fi",
-   "sigma": 2.85,
-   "from_btc_pct": 21,
-   "verdict": "Strong Uptrend",
-   "file": "ETHFI.png"
   }
  ]
 }
