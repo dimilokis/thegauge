@@ -1,6 +1,6 @@
 {
  "date": "2026-08-21",
- "generated_at": "2026-08-21T07:00:55.970323+00:00",
+ "generated_at": "2026-08-21T07:23:15.459198+00:00",
  "assets": [
   {
    "symbol": "SPK",
@@ -35,20 +35,20 @@
    "file": "HEMI.png"
   },
   {
-   "symbol": "NEIRO",
-   "name": "Neiro",
-   "sigma": 2.72,
-   "from_btc_pct": 34,
-   "verdict": "Overbought",
-   "file": "NEIRO.png"
-  },
-  {
    "symbol": "ONG",
    "name": "Ontology Gas",
    "sigma": 2.63,
    "from_btc_pct": 32,
    "verdict": "Overbought",
    "file": "ONG.png"
+  },
+  {
+   "symbol": "NEIRO",
+   "name": "Neiro",
+   "sigma": 2.51,
+   "from_btc_pct": 35,
+   "verdict": "Overbought",
+   "file": "NEIRO.png"
   }
  ]
 }
