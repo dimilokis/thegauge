@@ -1,6 +1,6 @@
 {
  "date": "2026-08-21",
- "generated_at": "2026-08-21T14:45:47.850563+00:00",
+ "generated_at": "2026-08-21T15:00:56.695462+00:00",
  "assets": [
   {
    "symbol": "SPK",
@@ -67,20 +67,20 @@
    "file": "PLUME.png"
   },
   {
+   "symbol": "FF",
+   "name": "Falcon Finance",
+   "sigma": 2.81,
+   "from_btc_pct": 6,
+   "verdict": "Neutral",
+   "file": "FF.png"
+  },
+  {
    "symbol": "\u5e01\u5b89\u4eba\u751f",
    "name": "\u5e01\u5b89\u4eba\u751f (BinanceLife)",
    "sigma": 2.8,
    "from_btc_pct": 6,
    "verdict": "Neutral",
    "file": "\u5e01\u5b89\u4eba\u751f.png"
-  },
-  {
-   "symbol": "FF",
-   "name": "Falcon Finance",
-   "sigma": 2.79,
-   "from_btc_pct": 5,
-   "verdict": "Neutral",
-   "file": "FF.png"
   },
   {
    "symbol": "CRV",
