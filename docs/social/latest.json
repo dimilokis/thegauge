@@ -1,6 +1,6 @@
 {
  "date": "2026-08-21",
- "generated_at": "2026-08-21T09:01:02.050765+00:00",
+ "generated_at": "2026-08-21T09:05:22.445243+00:00",
  "assets": [
   {
    "symbol": "SPK",
@@ -33,6 +33,14 @@
    "from_btc_pct": 26,
    "verdict": "Overbought",
    "file": "PEOPLE.png"
+  },
+  {
+   "symbol": "NEIRO",
+   "name": "Neiro",
+   "sigma": 3.2,
+   "from_btc_pct": 38,
+   "verdict": "Overbought",
+   "file": "NEIRO.png"
   },
   {
    "symbol": "BB",
@@ -81,14 +89,6 @@
    "from_btc_pct": 10,
    "verdict": "Neutral",
    "file": "ONG.png"
-  },
-  {
-   "symbol": "NEIRO",
-   "name": "Neiro",
-   "sigma": 2.51,
-   "from_btc_pct": 35,
-   "verdict": "Overbought",
-   "file": "NEIRO.png"
   }
  ]
 }
