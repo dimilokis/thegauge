@@ -1,102 +1,14 @@
 {
- "date": "2026-08-20",
- "generated_at": "2026-08-21T02:45:51.572993+00:00",
+ "date": "2026-08-21",
+ "generated_at": "2026-08-21T03:26:43.547405+00:00",
  "assets": [
   {
-   "symbol": "OSMO",
-   "name": "Osmosis",
-   "sigma": 7.26,
-   "from_btc_pct": 35,
-   "verdict": "Neutral",
-   "file": "OSMO.png"
-  },
-  {
-   "symbol": "PNUT",
-   "name": "Peanut the Squirrel",
-   "sigma": 5.07,
-   "from_btc_pct": 40,
+   "symbol": "HEMI",
+   "name": "Hemi",
+   "sigma": 3.01,
+   "from_btc_pct": 12,
    "verdict": "Overbought",
-   "file": "PNUT.png"
-  },
-  {
-   "symbol": "PEOPLE",
-   "name": "ConstitutionDAO",
-   "sigma": 4.07,
-   "from_btc_pct": 10,
-   "verdict": "Overbought",
-   "file": "PEOPLE.png"
-  },
-  {
-   "symbol": "MANTRA",
-   "name": "MANTRA",
-   "sigma": 3.31,
-   "from_btc_pct": 1,
-   "verdict": "Oversold",
-   "file": "MANTRA.png"
-  },
-  {
-   "symbol": "SCRT",
-   "name": "Secret",
-   "sigma": 3.14,
-   "from_btc_pct": 2,
-   "verdict": "Oversold",
-   "file": "SCRT.png"
-  },
-  {
-   "symbol": "ASTER",
-   "name": "Aster",
-   "sigma": 3.03,
-   "from_btc_pct": 40,
-   "verdict": "Neutral",
-   "file": "ASTER.png"
-  },
-  {
-   "symbol": "GALA",
-   "name": "GALA",
-   "sigma": 2.98,
-   "from_btc_pct": 8,
-   "verdict": "Oversold",
-   "file": "GALA.png"
-  },
-  {
-   "symbol": "ONG",
-   "name": "Ontology Gas",
-   "sigma": 2.93,
-   "from_btc_pct": 32,
-   "verdict": "Overbought",
-   "file": "ONG.png"
-  },
-  {
-   "symbol": "CRV",
-   "name": "Curve DAO",
-   "sigma": 2.92,
-   "from_btc_pct": 13,
-   "verdict": "Strong Uptrend",
-   "file": "CRV.png"
-  },
-  {
-   "symbol": "ONT",
-   "name": "Ontology",
-   "sigma": 2.92,
-   "from_btc_pct": 40,
-   "verdict": "Overbought",
-   "file": "ONT.png"
-  },
-  {
-   "symbol": "NEIRO",
-   "name": "Neiro",
-   "sigma": 2.88,
-   "from_btc_pct": 18,
-   "verdict": "Neutral",
-   "file": "NEIRO.png"
-  },
-  {
-   "symbol": "SANTOS",
-   "name": "Santos FC Fan Token",
-   "sigma": 2.59,
-   "from_btc_pct": 15,
-   "verdict": "Neutral",
-   "file": "SANTOS.png"
+   "file": "HEMI.png"
   }
  ]
 }
