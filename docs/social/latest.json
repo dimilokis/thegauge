@@ -1,6 +1,6 @@
 {
  "date": "2026-08-20",
- "generated_at": "2026-08-20T23:45:48.004617+00:00",
+ "generated_at": "2026-08-21T00:30:54.261757+00:00",
  "assets": [
   {
    "symbol": "ONT",
@@ -17,14 +17,6 @@
    "from_btc_pct": 25,
    "verdict": "Overbought",
    "file": "SANTOS.png"
-  },
-  {
-   "symbol": "ONG",
-   "name": "Ontology Gas",
-   "sigma": 11.4,
-   "from_btc_pct": 25,
-   "verdict": "Overbought",
-   "file": "ONG.png"
   },
   {
    "symbol": "OSMO",
@@ -97,6 +89,14 @@
    "from_btc_pct": 18,
    "verdict": "Neutral",
    "file": "NEIRO.png"
+  },
+  {
+   "symbol": "ONG",
+   "name": "Ontology Gas",
+   "sigma": 2.69,
+   "from_btc_pct": 29,
+   "verdict": "Overbought",
+   "file": "ONG.png"
   }
  ]
 }
