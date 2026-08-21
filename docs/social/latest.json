@@ -1,6 +1,6 @@
 {
  "date": "2026-08-21",
- "generated_at": "2026-08-21T11:37:45.307255+00:00",
+ "generated_at": "2026-08-21T11:45:46.413061+00:00",
  "assets": [
   {
    "symbol": "SPK",
@@ -25,6 +25,14 @@
    "from_btc_pct": 29,
    "verdict": "Overbought",
    "file": "BOME.png"
+  },
+  {
+   "symbol": "ZRO",
+   "name": "LayerZero",
+   "sigma": 3.3,
+   "from_btc_pct": 22,
+   "verdict": "Neutral",
+   "file": "ZRO.png"
   },
   {
    "symbol": "HEMI",
@@ -89,14 +97,6 @@
    "from_btc_pct": 24,
    "verdict": "Neutral",
    "file": "GALA.png"
-  },
-  {
-   "symbol": "ROBO",
-   "name": "Fabric Protocol",
-   "sigma": 2.6,
-   "from_btc_pct": 6,
-   "verdict": "Neutral",
-   "file": "ROBO.png"
   }
  ]
 }
