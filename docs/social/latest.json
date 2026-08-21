@@ -1,6 +1,6 @@
 {
  "date": "2026-08-21",
- "generated_at": "2026-08-21T15:00:56.695462+00:00",
+ "generated_at": "2026-08-21T15:15:52.481671+00:00",
  "assets": [
   {
    "symbol": "SPK",
@@ -83,20 +83,20 @@
    "file": "\u5e01\u5b89\u4eba\u751f.png"
   },
   {
+   "symbol": "PEOPLE",
+   "name": "ConstitutionDAO",
+   "sigma": 2.67,
+   "from_btc_pct": 24,
+   "verdict": "Overbought",
+   "file": "PEOPLE.png"
+  },
+  {
    "symbol": "CRV",
    "name": "Curve DAO",
    "sigma": 2.65,
    "from_btc_pct": 26,
    "verdict": "Strong Uptrend",
    "file": "CRV.png"
-  },
-  {
-   "symbol": "PEOPLE",
-   "name": "ConstitutionDAO",
-   "sigma": 2.56,
-   "from_btc_pct": 24,
-   "verdict": "Overbought",
-   "file": "PEOPLE.png"
   }
  ]
 }
