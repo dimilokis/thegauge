@@ -1,6 +1,6 @@
 {
  "date": "2026-08-21",
- "generated_at": "2026-08-21T07:45:50.400873+00:00",
+ "generated_at": "2026-08-21T08:15:53.910136+00:00",
  "assets": [
   {
    "symbol": "SPK",
@@ -29,8 +29,8 @@
   {
    "symbol": "CRV",
    "name": "Curve DAO",
-   "sigma": 2.78,
-   "from_btc_pct": 21,
+   "sigma": 2.88,
+   "from_btc_pct": 25,
    "verdict": "Strong Uptrend",
    "file": "CRV.png"
   },
