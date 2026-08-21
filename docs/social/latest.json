@@ -1,7 +1,15 @@
 {
  "date": "2026-08-21",
- "generated_at": "2026-08-21T18:15:45.775184+00:00",
+ "generated_at": "2026-08-21T18:45:50.996439+00:00",
  "assets": [
+  {
+   "symbol": "BCH",
+   "name": "Bitcoin Cash",
+   "sigma": 11.23,
+   "from_btc_pct": 40,
+   "verdict": "Strong Uptrend",
+   "file": "BCH.png"
+  },
   {
    "symbol": "SPK",
    "name": "Spark",
@@ -13,16 +21,16 @@
   {
    "symbol": "RED",
    "name": "RedStone",
-   "sigma": 6.02,
-   "from_btc_pct": 40,
+   "sigma": 7.26,
+   "from_btc_pct": 38,
    "verdict": "Overbought",
    "file": "RED.png"
   },
   {
    "symbol": "NEIRO",
    "name": "Neiro",
-   "sigma": 3.91,
-   "from_btc_pct": 40,
+   "sigma": 4.13,
+   "from_btc_pct": 39,
    "verdict": "Overbought",
    "file": "NEIRO.png"
   },
@@ -89,14 +97,6 @@
    "from_btc_pct": 6,
    "verdict": "Neutral",
    "file": "\u5e01\u5b89\u4eba\u751f.png"
-  },
-  {
-   "symbol": "SHIB",
-   "name": "Shiba Inu",
-   "sigma": 2.78,
-   "from_btc_pct": 29,
-   "verdict": "Strong Uptrend",
-   "file": "SHIB.png"
   }
  ]
 }
