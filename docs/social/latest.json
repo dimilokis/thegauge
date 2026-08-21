@@ -1,6 +1,6 @@
 {
  "date": "2026-08-21",
- "generated_at": "2026-08-21T22:45:50.055776+00:00",
+ "generated_at": "2026-08-21T23:11:14.881165+00:00",
  "assets": [
   {
    "symbol": "GALA",
@@ -83,20 +83,20 @@
    "file": "BB.png"
   },
   {
-   "symbol": "TRUMP",
-   "name": "Official Trump",
-   "sigma": 3.05,
-   "from_btc_pct": 40,
-   "verdict": "Strong Uptrend",
-   "file": "TRUMP.png"
-  },
-  {
    "symbol": "PLUME",
    "name": "Plume",
    "sigma": 2.85,
    "from_btc_pct": 11,
    "verdict": "Overbought",
    "file": "PLUME.png"
+  },
+  {
+   "symbol": "TRUMP",
+   "name": "Official Trump",
+   "sigma": 2.71,
+   "from_btc_pct": 40,
+   "verdict": "Strong Uptrend",
+   "file": "TRUMP.png"
   }
  ]
 }
