@@ -1,6 +1,6 @@
 {
  "date": "2026-08-21",
- "generated_at": "2026-08-21T17:30:50.253794+00:00",
+ "generated_at": "2026-08-21T18:15:45.775184+00:00",
  "assets": [
   {
    "symbol": "SPK",
@@ -91,12 +91,12 @@
    "file": "\u5e01\u5b89\u4eba\u751f.png"
   },
   {
-   "symbol": "MANTRA",
-   "name": "MANTRA",
-   "sigma": 2.52,
-   "from_btc_pct": 8,
-   "verdict": "Oversold",
-   "file": "MANTRA.png"
+   "symbol": "SHIB",
+   "name": "Shiba Inu",
+   "sigma": 2.78,
+   "from_btc_pct": 29,
+   "verdict": "Strong Uptrend",
+   "file": "SHIB.png"
   }
  ]
 }
