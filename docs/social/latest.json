@@ -1,6 +1,6 @@
 {
  "date": "2026-08-21",
- "generated_at": "2026-08-21T10:00:58.126325+00:00",
+ "generated_at": "2026-08-21T10:15:59.212254+00:00",
  "assets": [
   {
    "symbol": "SPK",
@@ -73,6 +73,14 @@
    "from_btc_pct": 25,
    "verdict": "Overbought",
    "file": "PEOPLE.png"
+  },
+  {
+   "symbol": "ROBO",
+   "name": "Fabric Protocol",
+   "sigma": 2.62,
+   "from_btc_pct": 7,
+   "verdict": "Neutral",
+   "file": "ROBO.png"
   },
   {
    "symbol": "GALA",
