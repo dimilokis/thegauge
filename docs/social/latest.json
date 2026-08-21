@@ -1,6 +1,6 @@
 {
  "date": "2026-08-21",
- "generated_at": "2026-08-21T15:15:52.481671+00:00",
+ "generated_at": "2026-08-21T15:28:05.024304+00:00",
  "assets": [
   {
    "symbol": "SPK",
@@ -43,20 +43,20 @@
    "file": "NEIRO.png"
   },
   {
-   "symbol": "HEMI",
-   "name": "Hemi",
-   "sigma": 3.12,
-   "from_btc_pct": 21,
-   "verdict": "Overbought",
-   "file": "HEMI.png"
-  },
-  {
    "symbol": "BB",
    "name": "BounceBit",
    "sigma": 3.09,
    "from_btc_pct": 5,
    "verdict": "Oversold",
    "file": "BB.png"
+  },
+  {
+   "symbol": "PROM",
+   "name": "Prom",
+   "sigma": 3.06,
+   "from_btc_pct": 3,
+   "verdict": "Overbought",
+   "file": "PROM.png"
   },
   {
    "symbol": "PLUME",
@@ -91,12 +91,12 @@
    "file": "PEOPLE.png"
   },
   {
-   "symbol": "CRV",
-   "name": "Curve DAO",
-   "sigma": 2.65,
-   "from_btc_pct": 26,
-   "verdict": "Strong Uptrend",
-   "file": "CRV.png"
+   "symbol": "HEMI",
+   "name": "Hemi",
+   "sigma": 2.58,
+   "from_btc_pct": 19,
+   "verdict": "Overbought",
+   "file": "HEMI.png"
   }
  ]
 }
