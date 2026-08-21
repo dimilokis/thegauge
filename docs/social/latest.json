@@ -1,6 +1,6 @@
 {
  "date": "2026-08-21",
- "generated_at": "2026-08-21T09:45:51.600561+00:00",
+ "generated_at": "2026-08-21T10:00:58.126325+00:00",
  "assets": [
   {
    "symbol": "SPK",
@@ -35,6 +35,14 @@
    "file": "NEIRO.png"
   },
   {
+   "symbol": "HEMI",
+   "name": "Hemi",
+   "sigma": 3.12,
+   "from_btc_pct": 21,
+   "verdict": "Overbought",
+   "file": "HEMI.png"
+  },
+  {
    "symbol": "BB",
    "name": "BounceBit",
    "sigma": 3.09,
@@ -65,14 +73,6 @@
    "from_btc_pct": 25,
    "verdict": "Overbought",
    "file": "PEOPLE.png"
-  },
-  {
-   "symbol": "HEMI",
-   "name": "Hemi",
-   "sigma": 2.76,
-   "from_btc_pct": 14,
-   "verdict": "Overbought",
-   "file": "HEMI.png"
   },
   {
    "symbol": "GALA",
