@@ -1,7 +1,15 @@
 {
  "date": "2026-08-21",
- "generated_at": "2026-08-21T05:03:43.818853+00:00",
+ "generated_at": "2026-08-21T05:45:49.796092+00:00",
  "assets": [
+  {
+   "symbol": "NEIRO",
+   "name": "Neiro",
+   "sigma": 2.72,
+   "from_btc_pct": 34,
+   "verdict": "Overbought",
+   "file": "NEIRO.png"
+  },
   {
    "symbol": "CRV",
    "name": "Curve DAO",
