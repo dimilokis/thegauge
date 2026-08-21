@@ -1,6 +1,6 @@
 {
  "date": "2026-08-21",
- "generated_at": "2026-08-21T13:00:55.537122+00:00",
+ "generated_at": "2026-08-21T13:15:44.172127+00:00",
  "assets": [
   {
    "symbol": "SPK",
@@ -51,6 +51,14 @@
    "file": "BB.png"
   },
   {
+   "symbol": "PLUME",
+   "name": "Plume",
+   "sigma": 2.85,
+   "from_btc_pct": 11,
+   "verdict": "Overbought",
+   "file": "PLUME.png"
+  },
+  {
    "symbol": "\u5e01\u5b89\u4eba\u751f",
    "name": "\u5e01\u5b89\u4eba\u751f (BinanceLife)",
    "sigma": 2.8,
@@ -81,14 +89,6 @@
    "from_btc_pct": 38,
    "verdict": "Strong Uptrend",
    "file": "TRUMP.png"
-  },
-  {
-   "symbol": "PLUME",
-   "name": "Plume",
-   "sigma": 2.61,
-   "from_btc_pct": 10,
-   "verdict": "Overbought",
-   "file": "PLUME.png"
   },
   {
    "symbol": "GALA",
