@@ -1,7 +1,15 @@
 {
  "date": "2026-08-22",
- "generated_at": "2026-08-22T15:15:45.915195+00:00",
+ "generated_at": "2026-08-22T16:30:55.577365+00:00",
  "assets": [
+  {
+   "symbol": "SC",
+   "name": "Siacoin",
+   "sigma": 10.8,
+   "from_btc_pct": 10,
+   "verdict": "Overbought",
+   "file": "SC.png"
+  },
   {
    "symbol": "DASH",
    "name": "Dash",
