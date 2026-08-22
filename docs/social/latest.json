@@ -1,6 +1,6 @@
 {
  "date": "2026-08-22",
- "generated_at": "2026-08-22T18:53:53.746412+00:00",
+ "generated_at": "2026-08-22T19:15:50.437526+00:00",
  "assets": [
   {
    "symbol": "SC",
@@ -17,14 +17,6 @@
    "from_btc_pct": 12,
    "verdict": "Strong Uptrend",
    "file": "ZAMA.png"
-  },
-  {
-   "symbol": "MOVE",
-   "name": "Movement",
-   "sigma": 3.77,
-   "from_btc_pct": 24,
-   "verdict": "Neutral",
-   "file": "MOVE.png"
   },
   {
    "symbol": "BONK",
@@ -49,6 +41,14 @@
    "from_btc_pct": 4,
    "verdict": "Neutral",
    "file": "WLFI.png"
+  },
+  {
+   "symbol": "MOVE",
+   "name": "Movement",
+   "sigma": 2.89,
+   "from_btc_pct": 29,
+   "verdict": "Neutral",
+   "file": "MOVE.png"
   },
   {
    "symbol": "PUMP",
