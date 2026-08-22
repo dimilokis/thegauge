@@ -1,6 +1,6 @@
 {
  "date": "2026-08-22",
- "generated_at": "2026-08-22T05:00:51.849775+00:00",
+ "generated_at": "2026-08-22T06:00:52.819199+00:00",
  "assets": [
   {
    "symbol": "DASH",
@@ -37,8 +37,8 @@
   {
    "symbol": "ZAMA",
    "name": "Zama",
-   "sigma": 2.97,
-   "from_btc_pct": 18,
+   "sigma": 2.93,
+   "from_btc_pct": 14,
    "verdict": "Strong Uptrend",
    "file": "ZAMA.png"
   },
