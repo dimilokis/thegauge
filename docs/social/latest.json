@@ -1,102 +1,14 @@
 {
- "date": "2026-08-21",
- "generated_at": "2026-08-22T02:30:53.435922+00:00",
+ "date": "2026-08-22",
+ "generated_at": "2026-08-22T03:00:55.488007+00:00",
  "assets": [
-  {
-   "symbol": "GALA",
-   "name": "GALA",
-   "sigma": 13.13,
-   "from_btc_pct": 40,
-   "verdict": "Neutral",
-   "file": "GALA.png"
-  },
-  {
-   "symbol": "BCH",
-   "name": "Bitcoin Cash",
-   "sigma": 11.23,
-   "from_btc_pct": 40,
-   "verdict": "Strong Uptrend",
-   "file": "BCH.png"
-  },
-  {
-   "symbol": "SPK",
-   "name": "Spark",
-   "sigma": 9.87,
-   "from_btc_pct": 34,
-   "verdict": "Neutral",
-   "file": "SPK.png"
-  },
-  {
-   "symbol": "SHIB",
-   "name": "Shiba Inu",
-   "sigma": 6.44,
-   "from_btc_pct": 39,
-   "verdict": "Strong Uptrend",
-   "file": "SHIB.png"
-  },
-  {
-   "symbol": "TRB",
-   "name": "Tellor Tributes",
-   "sigma": 6.43,
-   "from_btc_pct": 29,
-   "verdict": "Overbought",
-   "file": "TRB.png"
-  },
-  {
-   "symbol": "RED",
-   "name": "RedStone",
-   "sigma": 5.36,
-   "from_btc_pct": 40,
-   "verdict": "Overbought",
-   "file": "RED.png"
-  },
-  {
-   "symbol": "COTI",
-   "name": "COTI",
-   "sigma": 3.98,
-   "from_btc_pct": 0,
-   "verdict": "Overbought",
-   "file": "COTI.png"
-  },
-  {
-   "symbol": "POL",
-   "name": "POL (ex-MATIC)",
-   "sigma": 3.86,
-   "from_btc_pct": 18,
-   "verdict": "Strong Uptrend",
-   "file": "POL.png"
-  },
-  {
-   "symbol": "BOME",
-   "name": "BOOK OF MEME",
-   "sigma": 3.79,
-   "from_btc_pct": 29,
-   "verdict": "Overbought",
-   "file": "BOME.png"
-  },
   {
    "symbol": "DASH",
    "name": "Dash",
-   "sigma": 3.49,
-   "from_btc_pct": 39,
+   "sigma": 6.26,
+   "from_btc_pct": 27,
    "verdict": "Strong Uptrend",
    "file": "DASH.png"
-  },
-  {
-   "symbol": "NEIRO",
-   "name": "Neiro",
-   "sigma": 3.37,
-   "from_btc_pct": 39,
-   "verdict": "Overbought",
-   "file": "NEIRO.png"
-  },
-  {
-   "symbol": "WLFI",
-   "name": "World Liberty Financial",
-   "sigma": 3.17,
-   "from_btc_pct": 4,
-   "verdict": "Strong Uptrend",
-   "file": "WLFI.png"
   }
  ]
 }
