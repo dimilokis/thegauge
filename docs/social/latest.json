@@ -1,6 +1,6 @@
 {
  "date": "2026-08-22",
- "generated_at": "2026-08-22T03:30:56.482619+00:00",
+ "generated_at": "2026-08-22T03:45:49.711703+00:00",
  "assets": [
   {
    "symbol": "DASH",
@@ -17,6 +17,14 @@
    "from_btc_pct": 2,
    "verdict": "Overbought",
    "file": "MUBARAK.png"
+  },
+  {
+   "symbol": "POL",
+   "name": "POL (ex-MATIC)",
+   "sigma": 3.01,
+   "from_btc_pct": 28,
+   "verdict": "Strong Uptrend",
+   "file": "POL.png"
   }
  ]
 }
