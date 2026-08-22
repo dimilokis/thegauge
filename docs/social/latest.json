@@ -1,6 +1,6 @@
 {
  "date": "2026-08-22",
- "generated_at": "2026-08-22T04:45:48.070499+00:00",
+ "generated_at": "2026-08-22T05:00:51.849775+00:00",
  "assets": [
   {
    "symbol": "DASH",
@@ -49,6 +49,14 @@
    "from_btc_pct": 1,
    "verdict": "Strong Uptrend",
    "file": "WLFI.png"
+  },
+  {
+   "symbol": "PNUT",
+   "name": "Peanut the Squirrel",
+   "sigma": 2.74,
+   "from_btc_pct": 37,
+   "verdict": "Overbought",
+   "file": "PNUT.png"
   },
   {
    "symbol": "PYTH",
