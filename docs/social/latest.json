@@ -1,6 +1,6 @@
 {
  "date": "2026-08-22",
- "generated_at": "2026-08-22T16:45:46.893672+00:00",
+ "generated_at": "2026-08-22T18:30:53.027857+00:00",
  "assets": [
   {
    "symbol": "SC",
@@ -9,14 +9,6 @@
    "from_btc_pct": 10,
    "verdict": "Overbought",
    "file": "SC.png"
-  },
-  {
-   "symbol": "DASH",
-   "name": "Dash",
-   "sigma": 6.26,
-   "from_btc_pct": 27,
-   "verdict": "Strong Uptrend",
-   "file": "DASH.png"
   },
   {
    "symbol": "ZAMA",
@@ -51,14 +43,6 @@
    "file": "MUBARAK.png"
   },
   {
-   "symbol": "PUMP",
-   "name": "Pump.fun",
-   "sigma": 3.05,
-   "from_btc_pct": 3,
-   "verdict": "Strong Uptrend",
-   "file": "PUMP.png"
-  },
-  {
    "symbol": "POL",
    "name": "POL (ex-MATIC)",
    "sigma": 3.01,
@@ -73,6 +57,14 @@
    "from_btc_pct": 4,
    "verdict": "Neutral",
    "file": "WLFI.png"
+  },
+  {
+   "symbol": "PUMP",
+   "name": "Pump.fun",
+   "sigma": 2.82,
+   "from_btc_pct": 3,
+   "verdict": "Strong Uptrend",
+   "file": "PUMP.png"
   },
   {
    "symbol": "PNUT",
@@ -97,6 +89,14 @@
    "from_btc_pct": 39,
    "verdict": "Overbought",
    "file": "NEIRO.png"
+  },
+  {
+   "symbol": "DASH",
+   "name": "Dash",
+   "sigma": 2.5,
+   "from_btc_pct": 37,
+   "verdict": "Strong Uptrend",
+   "file": "DASH.png"
   }
  ]
 }
