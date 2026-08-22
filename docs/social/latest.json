@@ -1,6 +1,6 @@
 {
  "date": "2026-08-22",
- "generated_at": "2026-08-22T08:30:50.840679+00:00",
+ "generated_at": "2026-08-22T10:09:55.822157+00:00",
  "assets": [
   {
    "symbol": "DASH",
@@ -45,18 +45,10 @@
   {
    "symbol": "NEIRO",
    "name": "Neiro",
-   "sigma": 2.89,
-   "from_btc_pct": 38,
+   "sigma": 2.87,
+   "from_btc_pct": 40,
    "verdict": "Overbought",
    "file": "NEIRO.png"
-  },
-  {
-   "symbol": "WLFI",
-   "name": "World Liberty Financial",
-   "sigma": 2.74,
-   "from_btc_pct": 1,
-   "verdict": "Strong Uptrend",
-   "file": "WLFI.png"
   },
   {
    "symbol": "PNUT",
@@ -65,6 +57,14 @@
    "from_btc_pct": 37,
    "verdict": "Overbought",
    "file": "PNUT.png"
+  },
+  {
+   "symbol": "WLFI",
+   "name": "World Liberty Financial",
+   "sigma": 2.74,
+   "from_btc_pct": 5,
+   "verdict": "Neutral",
+   "file": "WLFI.png"
   },
   {
    "symbol": "PYTH",
