@@ -1,6 +1,6 @@
 {
  "date": "2026-08-22",
- "generated_at": "2026-08-22T03:45:49.711703+00:00",
+ "generated_at": "2026-08-22T04:15:52.843812+00:00",
  "assets": [
   {
    "symbol": "DASH",
@@ -25,6 +25,22 @@
    "from_btc_pct": 28,
    "verdict": "Strong Uptrend",
    "file": "POL.png"
+  },
+  {
+   "symbol": "WLFI",
+   "name": "World Liberty Financial",
+   "sigma": 2.74,
+   "from_btc_pct": 1,
+   "verdict": "Strong Uptrend",
+   "file": "WLFI.png"
+  },
+  {
+   "symbol": "PYTH",
+   "name": "Pyth Network",
+   "sigma": 2.66,
+   "from_btc_pct": 33,
+   "verdict": "Overbought",
+   "file": "PYTH.png"
   }
  ]
 }
