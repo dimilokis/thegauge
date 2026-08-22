@@ -1,6 +1,6 @@
 {
  "date": "2026-08-22",
- "generated_at": "2026-08-22T20:15:45.887688+00:00",
+ "generated_at": "2026-08-22T20:30:50.947417+00:00",
  "assets": [
   {
    "symbol": "SC",
@@ -41,6 +41,14 @@
    "from_btc_pct": 4,
    "verdict": "Neutral",
    "file": "WLFI.png"
+  },
+  {
+   "symbol": "MUBARAK",
+   "name": "Mubarak",
+   "sigma": 2.94,
+   "from_btc_pct": 1,
+   "verdict": "Overbought",
+   "file": "MUBARAK.png"
   },
   {
    "symbol": "MOVE",
@@ -89,14 +97,6 @@
    "from_btc_pct": 39,
    "verdict": "Overbought",
    "file": "NEIRO.png"
-  },
-  {
-   "symbol": "DASH",
-   "name": "Dash",
-   "sigma": 2.5,
-   "from_btc_pct": 37,
-   "verdict": "Strong Uptrend",
-   "file": "DASH.png"
   }
  ]
 }
