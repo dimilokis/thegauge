@@ -1,6 +1,6 @@
 {
  "date": "2026-08-22",
- "generated_at": "2026-08-22T14:08:31.220663+00:00",
+ "generated_at": "2026-08-22T14:15:48.435913+00:00",
  "assets": [
   {
    "symbol": "DASH",
@@ -43,14 +43,6 @@
    "file": "MUBARAK.png"
   },
   {
-   "symbol": "PUMP",
-   "name": "Pump.fun",
-   "sigma": 3.27,
-   "from_btc_pct": 3,
-   "verdict": "Strong Uptrend",
-   "file": "PUMP.png"
-  },
-  {
    "symbol": "POL",
    "name": "POL (ex-MATIC)",
    "sigma": 3.01,
@@ -89,6 +81,14 @@
    "from_btc_pct": 38,
    "verdict": "Overbought",
    "file": "NEIRO.png"
+  },
+  {
+   "symbol": "PUMP",
+   "name": "Pump.fun",
+   "sigma": 2.54,
+   "from_btc_pct": 3,
+   "verdict": "Strong Uptrend",
+   "file": "PUMP.png"
   }
  ]
 }
