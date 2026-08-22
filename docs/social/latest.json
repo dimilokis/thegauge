@@ -1,6 +1,6 @@
 {
  "date": "2026-08-22",
- "generated_at": "2026-08-22T19:15:50.437526+00:00",
+ "generated_at": "2026-08-22T20:15:45.887688+00:00",
  "assets": [
   {
    "symbol": "SC",
@@ -75,6 +75,14 @@
    "file": "PYTH.png"
   },
   {
+   "symbol": "ZRO",
+   "name": "LayerZero",
+   "sigma": 2.64,
+   "from_btc_pct": 15,
+   "verdict": "Strong Uptrend",
+   "file": "ZRO.png"
+  },
+  {
    "symbol": "NEIRO",
    "name": "Neiro",
    "sigma": 2.5,
@@ -89,14 +97,6 @@
    "from_btc_pct": 37,
    "verdict": "Strong Uptrend",
    "file": "DASH.png"
-  },
-  {
-   "symbol": "MUBARAK",
-   "name": "Mubarak",
-   "sigma": 2.5,
-   "from_btc_pct": 1,
-   "verdict": "Overbought",
-   "file": "MUBARAK.png"
   }
  ]
 }
