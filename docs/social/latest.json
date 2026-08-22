@@ -1,6 +1,6 @@
 {
  "date": "2026-08-22",
- "generated_at": "2026-08-22T03:00:55.488007+00:00",
+ "generated_at": "2026-08-22T03:05:53.462980+00:00",
  "assets": [
   {
    "symbol": "DASH",
@@ -9,6 +9,14 @@
    "from_btc_pct": 27,
    "verdict": "Strong Uptrend",
    "file": "DASH.png"
+  },
+  {
+   "symbol": "MUBARAK",
+   "name": "Mubarak",
+   "sigma": 3.02,
+   "from_btc_pct": 2,
+   "verdict": "Overbought",
+   "file": "MUBARAK.png"
   }
  ]
 }
