@@ -1,6 +1,6 @@
 {
  "date": "2026-08-22",
- "generated_at": "2026-08-22T21:55:36.627169+00:00",
+ "generated_at": "2026-08-22T22:15:46.403803+00:00",
  "assets": [
   {
    "symbol": "SC",
@@ -17,6 +17,14 @@
    "from_btc_pct": 40,
    "verdict": "Overbought",
    "file": "STX.png"
+  },
+  {
+   "symbol": "ZRO",
+   "name": "LayerZero",
+   "sigma": 4.02,
+   "from_btc_pct": 10,
+   "verdict": "Strong Uptrend",
+   "file": "ZRO.png"
   },
   {
    "symbol": "ZAMA",
@@ -65,14 +73,6 @@
    "from_btc_pct": 3,
    "verdict": "Strong Uptrend",
    "file": "PUMP.png"
-  },
-  {
-   "symbol": "ZRO",
-   "name": "LayerZero",
-   "sigma": 2.76,
-   "from_btc_pct": 14,
-   "verdict": "Strong Uptrend",
-   "file": "ZRO.png"
   },
   {
    "symbol": "PNUT",
