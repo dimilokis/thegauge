@@ -1,6 +1,6 @@
 {
  "date": "2026-08-22",
- "generated_at": "2026-08-22T14:43:38.080605+00:00",
+ "generated_at": "2026-08-22T14:45:43.076719+00:00",
  "assets": [
   {
    "symbol": "DASH",
@@ -67,20 +67,20 @@
    "file": "PNUT.png"
   },
   {
-   "symbol": "WLFI",
-   "name": "World Liberty Financial",
-   "sigma": 2.74,
-   "from_btc_pct": 4,
-   "verdict": "Neutral",
-   "file": "WLFI.png"
-  },
-  {
    "symbol": "PYTH",
    "name": "Pyth Network",
    "sigma": 2.66,
    "from_btc_pct": 33,
    "verdict": "Overbought",
    "file": "PYTH.png"
+  },
+  {
+   "symbol": "WLFI",
+   "name": "World Liberty Financial",
+   "sigma": 2.55,
+   "from_btc_pct": 4,
+   "verdict": "Neutral",
+   "file": "WLFI.png"
   },
   {
    "symbol": "NEIRO",
