@@ -1,6 +1,6 @@
 {
  "date": "2026-08-22",
- "generated_at": "2026-08-22T18:30:53.027857+00:00",
+ "generated_at": "2026-08-22T18:53:53.746412+00:00",
  "assets": [
   {
    "symbol": "SC",
@@ -33,14 +33,6 @@
    "from_btc_pct": 35,
    "verdict": "Neutral",
    "file": "BONK.png"
-  },
-  {
-   "symbol": "MUBARAK",
-   "name": "Mubarak",
-   "sigma": 3.41,
-   "from_btc_pct": 2,
-   "verdict": "Overbought",
-   "file": "MUBARAK.png"
   },
   {
    "symbol": "POL",
@@ -97,6 +89,14 @@
    "from_btc_pct": 37,
    "verdict": "Strong Uptrend",
    "file": "DASH.png"
+  },
+  {
+   "symbol": "MUBARAK",
+   "name": "Mubarak",
+   "sigma": 2.5,
+   "from_btc_pct": 1,
+   "verdict": "Overbought",
+   "file": "MUBARAK.png"
   }
  ]
 }
