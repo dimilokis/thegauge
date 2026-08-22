@@ -1,6 +1,6 @@
 {
  "date": "2026-08-22",
- "generated_at": "2026-08-22T13:15:50.324256+00:00",
+ "generated_at": "2026-08-22T13:30:55.755681+00:00",
  "assets": [
   {
    "symbol": "DASH",
@@ -51,6 +51,14 @@
    "file": "POL.png"
   },
   {
+   "symbol": "PUMP",
+   "name": "Pump.fun",
+   "sigma": 2.92,
+   "from_btc_pct": 3,
+   "verdict": "Strong Uptrend",
+   "file": "PUMP.png"
+  },
+  {
    "symbol": "PNUT",
    "name": "Peanut the Squirrel",
    "sigma": 2.74,
@@ -81,14 +89,6 @@
    "from_btc_pct": 38,
    "verdict": "Overbought",
    "file": "NEIRO.png"
-  },
-  {
-   "symbol": "PUMP",
-   "name": "Pump.fun",
-   "sigma": 2.52,
-   "from_btc_pct": 4,
-   "verdict": "Strong Uptrend",
-   "file": "PUMP.png"
   }
  ]
 }
