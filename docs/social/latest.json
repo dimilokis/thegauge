@@ -1,6 +1,6 @@
 {
  "date": "2026-08-22",
- "generated_at": "2026-08-22T04:30:53.267992+00:00",
+ "generated_at": "2026-08-22T04:45:48.070499+00:00",
  "assets": [
   {
    "symbol": "DASH",
@@ -9,6 +9,14 @@
    "from_btc_pct": 27,
    "verdict": "Strong Uptrend",
    "file": "DASH.png"
+  },
+  {
+   "symbol": "BONK",
+   "name": "Bonk",
+   "sigma": 3.46,
+   "from_btc_pct": 35,
+   "verdict": "Neutral",
+   "file": "BONK.png"
   },
   {
    "symbol": "MUBARAK",
