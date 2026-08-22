@@ -1,6 +1,6 @@
 {
  "date": "2026-08-21",
- "generated_at": "2026-08-21T23:43:57.686251+00:00",
+ "generated_at": "2026-08-22T02:30:53.435922+00:00",
  "assets": [
   {
    "symbol": "GALA",
@@ -35,6 +35,14 @@
    "file": "SHIB.png"
   },
   {
+   "symbol": "TRB",
+   "name": "Tellor Tributes",
+   "sigma": 6.43,
+   "from_btc_pct": 29,
+   "verdict": "Overbought",
+   "file": "TRB.png"
+  },
+  {
    "symbol": "RED",
    "name": "RedStone",
    "sigma": 5.36,
@@ -67,6 +75,14 @@
    "file": "BOME.png"
   },
   {
+   "symbol": "DASH",
+   "name": "Dash",
+   "sigma": 3.49,
+   "from_btc_pct": 39,
+   "verdict": "Strong Uptrend",
+   "file": "DASH.png"
+  },
+  {
    "symbol": "NEIRO",
    "name": "Neiro",
    "sigma": 3.37,
@@ -81,22 +97,6 @@
    "from_btc_pct": 4,
    "verdict": "Strong Uptrend",
    "file": "WLFI.png"
-  },
-  {
-   "symbol": "BB",
-   "name": "BounceBit",
-   "sigma": 3.09,
-   "from_btc_pct": 5,
-   "verdict": "Oversold",
-   "file": "BB.png"
-  },
-  {
-   "symbol": "PLUME",
-   "name": "Plume",
-   "sigma": 2.85,
-   "from_btc_pct": 11,
-   "verdict": "Overbought",
-   "file": "PLUME.png"
   }
  ]
 }
