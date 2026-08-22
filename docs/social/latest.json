@@ -1,6 +1,6 @@
 {
  "date": "2026-08-22",
- "generated_at": "2026-08-22T07:00:57.989140+00:00",
+ "generated_at": "2026-08-22T07:30:50.664478+00:00",
  "assets": [
   {
    "symbol": "DASH",
@@ -9,6 +9,14 @@
    "from_btc_pct": 27,
    "verdict": "Strong Uptrend",
    "file": "DASH.png"
+  },
+  {
+   "symbol": "ZAMA",
+   "name": "Zama",
+   "sigma": 3.83,
+   "from_btc_pct": 12,
+   "verdict": "Strong Uptrend",
+   "file": "ZAMA.png"
   },
   {
    "symbol": "BONK",
@@ -57,14 +65,6 @@
    "from_btc_pct": 33,
    "verdict": "Overbought",
    "file": "PYTH.png"
-  },
-  {
-   "symbol": "ZAMA",
-   "name": "Zama",
-   "sigma": 2.5,
-   "from_btc_pct": 15,
-   "verdict": "Strong Uptrend",
-   "file": "ZAMA.png"
   }
  ]
 }
