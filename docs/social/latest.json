@@ -1,6 +1,6 @@
 {
  "date": "2026-08-22",
- "generated_at": "2026-08-22T21:30:52.629545+00:00",
+ "generated_at": "2026-08-22T21:55:36.627169+00:00",
  "assets": [
   {
    "symbol": "SC",
@@ -43,14 +43,6 @@
    "file": "POL.png"
   },
   {
-   "symbol": "WLFI",
-   "name": "World Liberty Financial",
-   "sigma": 2.94,
-   "from_btc_pct": 4,
-   "verdict": "Neutral",
-   "file": "WLFI.png"
-  },
-  {
    "symbol": "MUBARAK",
    "name": "Mubarak",
    "sigma": 2.94,
@@ -89,6 +81,14 @@
    "from_btc_pct": 37,
    "verdict": "Overbought",
    "file": "PNUT.png"
+  },
+  {
+   "symbol": "WLFI",
+   "name": "World Liberty Financial",
+   "sigma": 2.74,
+   "from_btc_pct": 4,
+   "verdict": "Neutral",
+   "file": "WLFI.png"
   },
   {
    "symbol": "PYTH",
