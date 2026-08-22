@@ -1,6 +1,6 @@
 {
  "date": "2026-08-22",
- "generated_at": "2026-08-22T20:45:52.727532+00:00",
+ "generated_at": "2026-08-22T21:00:56.168495+00:00",
  "assets": [
   {
    "symbol": "SC",
@@ -33,14 +33,6 @@
    "from_btc_pct": 35,
    "verdict": "Neutral",
    "file": "BONK.png"
-  },
-  {
-   "symbol": "TUT",
-   "name": "Tutorial",
-   "sigma": 3.35,
-   "from_btc_pct": 0,
-   "verdict": "Neutral",
-   "file": "TUT.png"
   },
   {
    "symbol": "POL",
@@ -97,6 +89,14 @@
    "from_btc_pct": 33,
    "verdict": "Overbought",
    "file": "PYTH.png"
+  },
+  {
+   "symbol": "TUT",
+   "name": "Tutorial",
+   "sigma": 2.62,
+   "from_btc_pct": 0,
+   "verdict": "Neutral",
+   "file": "TUT.png"
   }
  ]
 }
