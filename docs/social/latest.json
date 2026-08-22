@@ -1,6 +1,6 @@
 {
  "date": "2026-08-22",
- "generated_at": "2026-08-22T21:00:56.168495+00:00",
+ "generated_at": "2026-08-22T21:30:52.629545+00:00",
  "assets": [
   {
    "symbol": "SC",
@@ -75,6 +75,14 @@
    "file": "PUMP.png"
   },
   {
+   "symbol": "ZRO",
+   "name": "LayerZero",
+   "sigma": 2.76,
+   "from_btc_pct": 14,
+   "verdict": "Strong Uptrend",
+   "file": "ZRO.png"
+  },
+  {
    "symbol": "PNUT",
    "name": "Peanut the Squirrel",
    "sigma": 2.74,
@@ -89,14 +97,6 @@
    "from_btc_pct": 33,
    "verdict": "Overbought",
    "file": "PYTH.png"
-  },
-  {
-   "symbol": "TUT",
-   "name": "Tutorial",
-   "sigma": 2.62,
-   "from_btc_pct": 0,
-   "verdict": "Neutral",
-   "file": "TUT.png"
   }
  ]
 }
