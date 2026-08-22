@@ -1,6 +1,6 @@
 {
  "date": "2026-08-22",
- "generated_at": "2026-08-22T04:15:52.843812+00:00",
+ "generated_at": "2026-08-22T04:30:53.267992+00:00",
  "assets": [
   {
    "symbol": "DASH",
@@ -25,6 +25,14 @@
    "from_btc_pct": 28,
    "verdict": "Strong Uptrend",
    "file": "POL.png"
+  },
+  {
+   "symbol": "ZAMA",
+   "name": "Zama",
+   "sigma": 2.97,
+   "from_btc_pct": 18,
+   "verdict": "Strong Uptrend",
+   "file": "ZAMA.png"
   },
   {
    "symbol": "WLFI",
