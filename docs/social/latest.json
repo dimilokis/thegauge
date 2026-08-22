@@ -1,6 +1,6 @@
 {
  "date": "2026-08-22",
- "generated_at": "2026-08-22T07:30:50.664478+00:00",
+ "generated_at": "2026-08-22T08:30:50.840679+00:00",
  "assets": [
   {
    "symbol": "DASH",
@@ -41,6 +41,14 @@
    "from_btc_pct": 28,
    "verdict": "Strong Uptrend",
    "file": "POL.png"
+  },
+  {
+   "symbol": "NEIRO",
+   "name": "Neiro",
+   "sigma": 2.89,
+   "from_btc_pct": 38,
+   "verdict": "Overbought",
+   "file": "NEIRO.png"
   },
   {
    "symbol": "WLFI",
