@@ -1,6 +1,6 @@
 {
  "date": "2026-08-23",
- "generated_at": "2026-08-23T15:09:08.204670+00:00",
+ "generated_at": "2026-08-23T15:30:48.105590+00:00",
  "assets": [
   {
    "symbol": "PENDLE",
@@ -45,7 +45,7 @@
   {
    "symbol": "DGB",
    "name": "DigiByte",
-   "sigma": 2.87,
+   "sigma": 2.71,
    "from_btc_pct": 1,
    "verdict": "Overbought",
    "file": "DGB.png"
