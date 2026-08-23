@@ -1,12 +1,12 @@
 {
  "date": "2026-08-23",
- "generated_at": "2026-08-23T11:00:56.535592+00:00",
+ "generated_at": "2026-08-23T13:45:46.104629+00:00",
  "assets": [
   {
    "symbol": "OG",
    "name": "OG Fan Token",
-   "sigma": 3.23,
-   "from_btc_pct": 10,
+   "sigma": 3.85,
+   "from_btc_pct": 13,
    "verdict": "Overbought",
    "file": "OG.png"
   },
