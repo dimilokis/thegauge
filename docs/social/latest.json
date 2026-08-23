@@ -1,6 +1,6 @@
 {
  "date": "2026-08-23",
- "generated_at": "2026-08-23T09:45:50.296463+00:00",
+ "generated_at": "2026-08-23T11:00:56.535592+00:00",
  "assets": [
   {
    "symbol": "OG",
@@ -14,7 +14,7 @@
    "symbol": "BFUSD",
    "name": "BFUSD",
    "sigma": 2.92,
-   "from_btc_pct": 3,
+   "from_btc_pct": 2,
    "verdict": "Neutral",
    "file": "BFUSD.png"
   }
