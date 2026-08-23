@@ -1,6 +1,6 @@
 {
  "date": "2026-08-23",
- "generated_at": "2026-08-23T19:15:47.737149+00:00",
+ "generated_at": "2026-08-23T19:32:00.289735+00:00",
  "assets": [
   {
    "symbol": "PENDLE",
@@ -35,14 +35,6 @@
    "file": "XPL.png"
   },
   {
-   "symbol": "DGB",
-   "name": "DigiByte",
-   "sigma": 2.93,
-   "from_btc_pct": 1,
-   "verdict": "Overbought",
-   "file": "DGB.png"
-  },
-  {
    "symbol": "BFUSD",
    "name": "BFUSD",
    "sigma": 2.92,
@@ -73,6 +65,14 @@
    "from_btc_pct": 39,
    "verdict": "Neutral",
    "file": "STRK.png"
+  },
+  {
+   "symbol": "DGB",
+   "name": "DigiByte",
+   "sigma": 2.76,
+   "from_btc_pct": 1,
+   "verdict": "Overbought",
+   "file": "DGB.png"
   },
   {
    "symbol": "MORPHO",
