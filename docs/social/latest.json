@@ -1,7 +1,15 @@
 {
  "date": "2026-08-23",
- "generated_at": "2026-08-23T13:46:35.144013+00:00",
+ "generated_at": "2026-08-23T14:00:50.994545+00:00",
  "assets": [
+  {
+   "symbol": "PENDLE",
+   "name": "Pendle",
+   "sigma": 5.36,
+   "from_btc_pct": 38,
+   "verdict": "Strong Uptrend",
+   "file": "PENDLE.png"
+  },
   {
    "symbol": "OG",
    "name": "OG Fan Token",
@@ -17,6 +25,14 @@
    "from_btc_pct": 2,
    "verdict": "Neutral",
    "file": "BFUSD.png"
+  },
+  {
+   "symbol": "DGB",
+   "name": "DigiByte",
+   "sigma": 2.87,
+   "from_btc_pct": 1,
+   "verdict": "Overbought",
+   "file": "DGB.png"
   },
   {
    "symbol": "MORPHO",
