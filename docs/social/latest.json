@@ -1,15 +1,7 @@
 {
  "date": "2026-08-22",
- "generated_at": "2026-08-22T22:35:21.138703+00:00",
+ "generated_at": "2026-08-23T00:15:52.915364+00:00",
  "assets": [
-  {
-   "symbol": "SC",
-   "name": "Siacoin",
-   "sigma": 10.8,
-   "from_btc_pct": 10,
-   "verdict": "Overbought",
-   "file": "SC.png"
-  },
   {
    "symbol": "STX",
    "name": "Stacks",
@@ -41,6 +33,14 @@
    "from_btc_pct": 35,
    "verdict": "Neutral",
    "file": "BONK.png"
+  },
+  {
+   "symbol": "SC",
+   "name": "Siacoin",
+   "sigma": 3.23,
+   "from_btc_pct": 5,
+   "verdict": "Overbought",
+   "file": "SC.png"
   },
   {
    "symbol": "POL",
