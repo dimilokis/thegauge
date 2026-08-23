@@ -1,12 +1,12 @@
 {
  "date": "2026-08-23",
- "generated_at": "2026-08-23T17:00:52.880233+00:00",
+ "generated_at": "2026-08-23T17:30:49.665455+00:00",
  "assets": [
   {
    "symbol": "PENDLE",
    "name": "Pendle",
-   "sigma": 4.87,
-   "from_btc_pct": 39,
+   "sigma": 4.51,
+   "from_btc_pct": 40,
    "verdict": "Strong Uptrend",
    "file": "PENDLE.png"
   },
@@ -65,6 +65,14 @@
    "from_btc_pct": 12,
    "verdict": "Strong Uptrend",
    "file": "TRUMP.png"
+  },
+  {
+   "symbol": "FF",
+   "name": "Falcon Finance",
+   "sigma": 2.53,
+   "from_btc_pct": 6,
+   "verdict": "Overbought",
+   "file": "FF.png"
   }
  ]
 }
