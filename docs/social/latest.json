@@ -1,6 +1,6 @@
 {
  "date": "2026-08-23",
- "generated_at": "2026-08-23T14:00:50.994545+00:00",
+ "generated_at": "2026-08-23T14:30:50.405321+00:00",
  "assets": [
   {
    "symbol": "PENDLE",
@@ -9,6 +9,14 @@
    "from_btc_pct": 38,
    "verdict": "Strong Uptrend",
    "file": "PENDLE.png"
+  },
+  {
+   "symbol": "TRUMP",
+   "name": "Official Trump",
+   "sigma": 3.87,
+   "from_btc_pct": 10,
+   "verdict": "Strong Uptrend",
+   "file": "TRUMP.png"
   },
   {
    "symbol": "OG",
