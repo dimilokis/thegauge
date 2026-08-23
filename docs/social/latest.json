@@ -1,12 +1,12 @@
 {
  "date": "2026-08-23",
- "generated_at": "2026-08-23T14:30:50.405321+00:00",
+ "generated_at": "2026-08-23T15:00:53.966250+00:00",
  "assets": [
   {
    "symbol": "PENDLE",
    "name": "Pendle",
-   "sigma": 5.36,
-   "from_btc_pct": 38,
+   "sigma": 5.27,
+   "from_btc_pct": 35,
    "verdict": "Strong Uptrend",
    "file": "PENDLE.png"
   },
