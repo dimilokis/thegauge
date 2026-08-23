@@ -1,6 +1,6 @@
 {
  "date": "2026-08-23",
- "generated_at": "2026-08-23T18:30:50.168586+00:00",
+ "generated_at": "2026-08-23T18:53:21.340516+00:00",
  "assets": [
   {
    "symbol": "PENDLE",
@@ -43,6 +43,14 @@
    "file": "BFUSD.png"
   },
   {
+   "symbol": "FF",
+   "name": "Falcon Finance",
+   "sigma": 2.89,
+   "from_btc_pct": 6,
+   "verdict": "Overbought",
+   "file": "FF.png"
+  },
+  {
    "symbol": "STRK",
    "name": "Starknet",
    "sigma": 2.79,
@@ -73,14 +81,6 @@
    "from_btc_pct": 12,
    "verdict": "Strong Uptrend",
    "file": "TRUMP.png"
-  },
-  {
-   "symbol": "FF",
-   "name": "Falcon Finance",
-   "sigma": 2.53,
-   "from_btc_pct": 6,
-   "verdict": "Overbought",
-   "file": "FF.png"
   }
  ]
 }
