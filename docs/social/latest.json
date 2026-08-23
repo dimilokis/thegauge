@@ -1,6 +1,6 @@
 {
  "date": "2026-08-23",
- "generated_at": "2026-08-23T15:00:53.966250+00:00",
+ "generated_at": "2026-08-23T15:09:08.204670+00:00",
  "assets": [
   {
    "symbol": "PENDLE",
@@ -9,6 +9,14 @@
    "from_btc_pct": 35,
    "verdict": "Strong Uptrend",
    "file": "PENDLE.png"
+  },
+  {
+   "symbol": "SPK",
+   "name": "Spark",
+   "sigma": 4.09,
+   "from_btc_pct": 40,
+   "verdict": "Overbought",
+   "file": "SPK.png"
   },
   {
    "symbol": "TRUMP",
