@@ -1,6 +1,6 @@
 {
  "date": "2026-08-23",
- "generated_at": "2026-08-23T13:45:46.104629+00:00",
+ "generated_at": "2026-08-23T13:46:35.144013+00:00",
  "assets": [
   {
    "symbol": "OG",
@@ -17,6 +17,14 @@
    "from_btc_pct": 2,
    "verdict": "Neutral",
    "file": "BFUSD.png"
+  },
+  {
+   "symbol": "MORPHO",
+   "name": "Morpho",
+   "sigma": 2.55,
+   "from_btc_pct": 20,
+   "verdict": "Overbought",
+   "file": "MORPHO.png"
   }
  ]
 }
