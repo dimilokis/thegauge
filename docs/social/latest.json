@@ -1,6 +1,6 @@
 {
  "date": "2026-08-23",
- "generated_at": "2026-08-23T18:53:21.340516+00:00",
+ "generated_at": "2026-08-23T19:15:47.737149+00:00",
  "assets": [
   {
    "symbol": "PENDLE",
@@ -35,6 +35,14 @@
    "file": "XPL.png"
   },
   {
+   "symbol": "DGB",
+   "name": "DigiByte",
+   "sigma": 2.93,
+   "from_btc_pct": 1,
+   "verdict": "Overbought",
+   "file": "DGB.png"
+  },
+  {
    "symbol": "BFUSD",
    "name": "BFUSD",
    "sigma": 2.92,
@@ -51,20 +59,20 @@
    "file": "FF.png"
   },
   {
+   "symbol": "ZAMA",
+   "name": "Zama",
+   "sigma": 2.82,
+   "from_btc_pct": 18,
+   "verdict": "Strong Uptrend",
+   "file": "ZAMA.png"
+  },
+  {
    "symbol": "STRK",
    "name": "Starknet",
    "sigma": 2.79,
    "from_btc_pct": 39,
    "verdict": "Neutral",
    "file": "STRK.png"
-  },
-  {
-   "symbol": "DGB",
-   "name": "DigiByte",
-   "sigma": 2.71,
-   "from_btc_pct": 1,
-   "verdict": "Overbought",
-   "file": "DGB.png"
   },
   {
    "symbol": "MORPHO",
