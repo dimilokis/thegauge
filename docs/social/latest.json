@@ -1,12 +1,12 @@
 {
  "date": "2026-08-23",
- "generated_at": "2026-08-23T15:30:48.105590+00:00",
+ "generated_at": "2026-08-23T15:43:01.910030+00:00",
  "assets": [
   {
    "symbol": "PENDLE",
    "name": "Pendle",
-   "sigma": 5.27,
-   "from_btc_pct": 35,
+   "sigma": 4.87,
+   "from_btc_pct": 39,
    "verdict": "Strong Uptrend",
    "file": "PENDLE.png"
   },
@@ -33,6 +33,14 @@
    "from_btc_pct": 13,
    "verdict": "Overbought",
    "file": "OG.png"
+  },
+  {
+   "symbol": "XPL",
+   "name": "Plasma",
+   "sigma": 3.02,
+   "from_btc_pct": 35,
+   "verdict": "Strong Uptrend",
+   "file": "XPL.png"
   },
   {
    "symbol": "BFUSD",
