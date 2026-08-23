@@ -1,6 +1,6 @@
 {
  "date": "2026-08-23",
- "generated_at": "2026-08-23T17:30:49.665455+00:00",
+ "generated_at": "2026-08-23T18:10:04.315894+00:00",
  "assets": [
   {
    "symbol": "PENDLE",
@@ -73,6 +73,14 @@
    "from_btc_pct": 6,
    "verdict": "Overbought",
    "file": "FF.png"
+  },
+  {
+   "symbol": "STRK",
+   "name": "Starknet",
+   "sigma": 2.5,
+   "from_btc_pct": 39,
+   "verdict": "Neutral",
+   "file": "STRK.png"
   }
  ]
 }
