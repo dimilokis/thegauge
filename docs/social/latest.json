@@ -1,6 +1,6 @@
 {
  "date": "2026-08-23",
- "generated_at": "2026-08-23T16:30:55.407989+00:00",
+ "generated_at": "2026-08-23T17:00:52.880233+00:00",
  "assets": [
   {
    "symbol": "PENDLE",
@@ -17,14 +17,6 @@
    "from_btc_pct": 40,
    "verdict": "Overbought",
    "file": "SPK.png"
-  },
-  {
-   "symbol": "TRUMP",
-   "name": "Official Trump",
-   "sigma": 3.87,
-   "from_btc_pct": 10,
-   "verdict": "Strong Uptrend",
-   "file": "TRUMP.png"
   },
   {
    "symbol": "OG",
@@ -65,6 +57,14 @@
    "from_btc_pct": 20,
    "verdict": "Overbought",
    "file": "MORPHO.png"
+  },
+  {
+   "symbol": "TRUMP",
+   "name": "Official Trump",
+   "sigma": 2.53,
+   "from_btc_pct": 12,
+   "verdict": "Strong Uptrend",
+   "file": "TRUMP.png"
   }
  ]
 }
