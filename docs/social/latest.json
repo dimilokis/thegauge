@@ -1,6 +1,6 @@
 {
  "date": "2026-08-22",
- "generated_at": "2026-08-23T00:15:52.915364+00:00",
+ "generated_at": "2026-08-23T01:00:56.860230+00:00",
  "assets": [
   {
    "symbol": "STX",
@@ -25,6 +25,14 @@
    "from_btc_pct": 12,
    "verdict": "Strong Uptrend",
    "file": "ZAMA.png"
+  },
+  {
+   "symbol": "MOVE",
+   "name": "Movement",
+   "sigma": 3.74,
+   "from_btc_pct": 24,
+   "verdict": "Neutral",
+   "file": "MOVE.png"
   },
   {
    "symbol": "BONK",
@@ -57,14 +65,6 @@
    "from_btc_pct": 1,
    "verdict": "Overbought",
    "file": "MUBARAK.png"
-  },
-  {
-   "symbol": "MOVE",
-   "name": "Movement",
-   "sigma": 2.89,
-   "from_btc_pct": 29,
-   "verdict": "Neutral",
-   "file": "MOVE.png"
   },
   {
    "symbol": "PUMP",
