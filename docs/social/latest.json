@@ -1,6 +1,6 @@
 {
  "date": "2026-08-23",
- "generated_at": "2026-08-23T19:45:48.214529+00:00",
+ "generated_at": "2026-08-23T22:45:47.113054+00:00",
  "assets": [
   {
    "symbol": "PENDLE",
@@ -67,20 +67,20 @@
    "file": "STRK.png"
   },
   {
-   "symbol": "DGB",
-   "name": "DigiByte",
-   "sigma": 2.76,
-   "from_btc_pct": 1,
-   "verdict": "Overbought",
-   "file": "DGB.png"
-  },
-  {
    "symbol": "LDO",
    "name": "Lido DAO",
    "sigma": 2.66,
    "from_btc_pct": 20,
    "verdict": "Strong Uptrend",
    "file": "LDO.png"
+  },
+  {
+   "symbol": "DGB",
+   "name": "DigiByte",
+   "sigma": 2.6,
+   "from_btc_pct": 1,
+   "verdict": "Overbought",
+   "file": "DGB.png"
   },
   {
    "symbol": "MORPHO",
