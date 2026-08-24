@@ -1,6 +1,6 @@
 {
  "date": "2026-08-24",
- "generated_at": "2026-08-24T12:30:59.558801+00:00",
+ "generated_at": "2026-08-24T14:00:58.174560+00:00",
  "assets": [
   {
    "symbol": "PROM",
@@ -9,6 +9,14 @@
    "from_btc_pct": 3,
    "verdict": "Overbought",
    "file": "PROM.png"
+  },
+  {
+   "symbol": "SPK",
+   "name": "Spark",
+   "sigma": 2.64,
+   "from_btc_pct": 17,
+   "verdict": "Overbought",
+   "file": "SPK.png"
   },
   {
    "symbol": "SUPER",
