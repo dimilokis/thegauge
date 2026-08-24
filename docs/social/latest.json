@@ -1,13 +1,13 @@
 {
  "date": "2026-08-24",
- "generated_at": "2026-08-24T18:45:48.174876+00:00",
+ "generated_at": "2026-08-24T19:16:02.208145+00:00",
  "assets": [
   {
    "symbol": "AMP",
    "name": "Amp",
-   "sigma": 18.57,
-   "from_btc_pct": 9,
-   "verdict": "Overbought",
+   "sigma": 5.23,
+   "from_btc_pct": 40,
+   "verdict": "Neutral",
    "file": "AMP.png"
   },
   {
