@@ -1,7 +1,15 @@
 {
  "date": "2026-08-24",
- "generated_at": "2026-08-24T16:30:54.336469+00:00",
+ "generated_at": "2026-08-24T18:00:59.718809+00:00",
  "assets": [
+  {
+   "symbol": "AMP",
+   "name": "Amp",
+   "sigma": 18.57,
+   "from_btc_pct": 9,
+   "verdict": "Overbought",
+   "file": "AMP.png"
+  },
   {
    "symbol": "PROM",
    "name": "Prom",
