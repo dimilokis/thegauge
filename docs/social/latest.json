@@ -1,6 +1,6 @@
 {
  "date": "2026-08-24",
- "generated_at": "2026-08-24T18:31:02.170547+00:00",
+ "generated_at": "2026-08-24T18:45:48.174876+00:00",
  "assets": [
   {
    "symbol": "AMP",
@@ -19,20 +19,20 @@
    "file": "STORJ.png"
   },
   {
+   "symbol": "SUPER",
+   "name": "SuperVerse",
+   "sigma": 3.26,
+   "from_btc_pct": 37,
+   "verdict": "Overbought",
+   "file": "SUPER.png"
+  },
+  {
    "symbol": "PROM",
    "name": "Prom",
    "sigma": 2.74,
    "from_btc_pct": 3,
    "verdict": "Overbought",
    "file": "PROM.png"
-  },
-  {
-   "symbol": "SUPER",
-   "name": "SuperVerse",
-   "sigma": 2.56,
-   "from_btc_pct": 37,
-   "verdict": "Overbought",
-   "file": "SUPER.png"
   },
   {
    "symbol": "SPK",
