@@ -1,6 +1,6 @@
 {
  "date": "2026-08-24",
- "generated_at": "2026-08-24T22:45:49.642521+00:00",
+ "generated_at": "2026-08-24T23:30:51.105796+00:00",
  "assets": [
   {
    "symbol": "AMP",
@@ -29,8 +29,8 @@
   {
    "symbol": "SUPER",
    "name": "SuperVerse",
-   "sigma": 2.52,
-   "from_btc_pct": 39,
+   "sigma": 2.6,
+   "from_btc_pct": 38,
    "verdict": "Overbought",
    "file": "SUPER.png"
   },
