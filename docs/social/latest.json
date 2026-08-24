@@ -1,6 +1,6 @@
 {
  "date": "2026-08-24",
- "generated_at": "2026-08-24T20:00:56.978700+00:00",
+ "generated_at": "2026-08-24T20:15:48.456627+00:00",
  "assets": [
   {
    "symbol": "AMP",
@@ -9,14 +9,6 @@
    "from_btc_pct": 40,
    "verdict": "Neutral",
    "file": "AMP.png"
-  },
-  {
-   "symbol": "STORJ",
-   "name": "Storj",
-   "sigma": 2.75,
-   "from_btc_pct": 16,
-   "verdict": "Neutral",
-   "file": "STORJ.png"
   },
   {
    "symbol": "PROM",
@@ -33,6 +25,14 @@
    "from_btc_pct": 37,
    "verdict": "Overbought",
    "file": "SUPER.png"
+  },
+  {
+   "symbol": "STORJ",
+   "name": "Storj",
+   "sigma": 2.61,
+   "from_btc_pct": 16,
+   "verdict": "Neutral",
+   "file": "STORJ.png"
   },
   {
    "symbol": "SPK",
