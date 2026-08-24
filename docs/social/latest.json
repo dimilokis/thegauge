@@ -1,12 +1,12 @@
 {
  "date": "2026-08-24",
- "generated_at": "2026-08-24T05:00:54.287768+00:00",
+ "generated_at": "2026-08-24T06:30:53.054493+00:00",
  "assets": [
   {
    "symbol": "PROM",
    "name": "Prom",
-   "sigma": 2.51,
-   "from_btc_pct": 2,
+   "sigma": 2.74,
+   "from_btc_pct": 3,
    "verdict": "Overbought",
    "file": "PROM.png"
   }
