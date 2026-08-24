@@ -1,6 +1,6 @@
 {
  "date": "2026-08-23",
- "generated_at": "2026-08-23T22:45:47.113054+00:00",
+ "generated_at": "2026-08-24T01:00:56.230549+00:00",
  "assets": [
   {
    "symbol": "PENDLE",
@@ -67,6 +67,14 @@
    "file": "STRK.png"
   },
   {
+   "symbol": "STORJ",
+   "name": "Storj",
+   "sigma": 2.68,
+   "from_btc_pct": 13,
+   "verdict": "Neutral",
+   "file": "STORJ.png"
+  },
+  {
    "symbol": "LDO",
    "name": "Lido DAO",
    "sigma": 2.66,
@@ -89,14 +97,6 @@
    "from_btc_pct": 20,
    "verdict": "Overbought",
    "file": "MORPHO.png"
-  },
-  {
-   "symbol": "TRUMP",
-   "name": "Official Trump",
-   "sigma": 2.53,
-   "from_btc_pct": 12,
-   "verdict": "Strong Uptrend",
-   "file": "TRUMP.png"
   }
  ]
 }
