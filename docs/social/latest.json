@@ -1,102 +1,14 @@
 {
- "date": "2026-08-23",
- "generated_at": "2026-08-24T01:00:56.230549+00:00",
+ "date": "2026-08-24",
+ "generated_at": "2026-08-24T05:00:54.287768+00:00",
  "assets": [
   {
-   "symbol": "PENDLE",
-   "name": "Pendle",
-   "sigma": 4.51,
-   "from_btc_pct": 40,
-   "verdict": "Strong Uptrend",
-   "file": "PENDLE.png"
-  },
-  {
-   "symbol": "SPK",
-   "name": "Spark",
-   "sigma": 4.09,
-   "from_btc_pct": 40,
-   "verdict": "Overbought",
-   "file": "SPK.png"
-  },
-  {
-   "symbol": "OG",
-   "name": "OG Fan Token",
-   "sigma": 3.85,
-   "from_btc_pct": 13,
-   "verdict": "Overbought",
-   "file": "OG.png"
-  },
-  {
-   "symbol": "XPL",
-   "name": "Plasma",
-   "sigma": 3.02,
-   "from_btc_pct": 35,
-   "verdict": "Strong Uptrend",
-   "file": "XPL.png"
-  },
-  {
-   "symbol": "BFUSD",
-   "name": "BFUSD",
-   "sigma": 2.92,
+   "symbol": "PROM",
+   "name": "Prom",
+   "sigma": 2.51,
    "from_btc_pct": 2,
-   "verdict": "Neutral",
-   "file": "BFUSD.png"
-  },
-  {
-   "symbol": "FF",
-   "name": "Falcon Finance",
-   "sigma": 2.89,
-   "from_btc_pct": 6,
    "verdict": "Overbought",
-   "file": "FF.png"
-  },
-  {
-   "symbol": "ZAMA",
-   "name": "Zama",
-   "sigma": 2.82,
-   "from_btc_pct": 18,
-   "verdict": "Strong Uptrend",
-   "file": "ZAMA.png"
-  },
-  {
-   "symbol": "STRK",
-   "name": "Starknet",
-   "sigma": 2.79,
-   "from_btc_pct": 39,
-   "verdict": "Neutral",
-   "file": "STRK.png"
-  },
-  {
-   "symbol": "STORJ",
-   "name": "Storj",
-   "sigma": 2.68,
-   "from_btc_pct": 13,
-   "verdict": "Neutral",
-   "file": "STORJ.png"
-  },
-  {
-   "symbol": "LDO",
-   "name": "Lido DAO",
-   "sigma": 2.66,
-   "from_btc_pct": 20,
-   "verdict": "Strong Uptrend",
-   "file": "LDO.png"
-  },
-  {
-   "symbol": "DGB",
-   "name": "DigiByte",
-   "sigma": 2.6,
-   "from_btc_pct": 1,
-   "verdict": "Overbought",
-   "file": "DGB.png"
-  },
-  {
-   "symbol": "MORPHO",
-   "name": "Morpho",
-   "sigma": 2.55,
-   "from_btc_pct": 20,
-   "verdict": "Overbought",
-   "file": "MORPHO.png"
+   "file": "PROM.png"
   }
  ]
 }
