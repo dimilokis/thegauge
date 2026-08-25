@@ -1,6 +1,6 @@
 {
  "date": "2026-08-25",
- "generated_at": "2026-08-25T18:45:53.729250+00:00",
+ "generated_at": "2026-08-25T19:45:11.325782+00:00",
  "assets": [
   {
    "symbol": "SOLV",
@@ -65,6 +65,14 @@
    "from_btc_pct": 8,
    "verdict": "Overbought",
    "file": "ONG.png"
+  },
+  {
+   "symbol": "BMT",
+   "name": "Bubblemaps",
+   "sigma": 2.55,
+   "from_btc_pct": 0,
+   "verdict": "Neutral",
+   "file": "BMT.png"
   },
   {
    "symbol": "FF",
