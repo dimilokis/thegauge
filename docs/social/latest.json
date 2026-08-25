@@ -1,6 +1,6 @@
 {
  "date": "2026-08-25",
- "generated_at": "2026-08-25T19:45:11.325782+00:00",
+ "generated_at": "2026-08-25T20:13:09.092393+00:00",
  "assets": [
   {
    "symbol": "SOLV",
@@ -33,6 +33,14 @@
    "from_btc_pct": 10,
    "verdict": "Strong Uptrend",
    "file": "ZRO.png"
+  },
+  {
+   "symbol": "AMP",
+   "name": "Amp",
+   "sigma": 2.82,
+   "from_btc_pct": 29,
+   "verdict": "Neutral",
+   "file": "AMP.png"
   },
   {
    "symbol": "PROM",
