@@ -1,6 +1,6 @@
 {
  "date": "2026-08-25",
- "generated_at": "2026-08-25T15:15:57.615175+00:00",
+ "generated_at": "2026-08-25T15:45:56.830060+00:00",
  "assets": [
   {
    "symbol": "SOLV",
@@ -17,6 +17,14 @@
    "from_btc_pct": 24,
    "verdict": "Overbought",
    "file": "ONT.png"
+  },
+  {
+   "symbol": "ZRO",
+   "name": "LayerZero",
+   "sigma": 2.93,
+   "from_btc_pct": 10,
+   "verdict": "Strong Uptrend",
+   "file": "ZRO.png"
   },
   {
    "symbol": "PROM",
