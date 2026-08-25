@@ -1,6 +1,6 @@
 {
  "date": "2026-08-25",
- "generated_at": "2026-08-25T17:15:47.649425+00:00",
+ "generated_at": "2026-08-25T17:30:52.415024+00:00",
  "assets": [
   {
    "symbol": "SOLV",
@@ -43,6 +43,14 @@
    "file": "PROM.png"
   },
   {
+   "symbol": "STX",
+   "name": "Stacks",
+   "sigma": 2.72,
+   "from_btc_pct": 36,
+   "verdict": "Overbought",
+   "file": "STX.png"
+  },
+  {
    "symbol": "STORJ",
    "name": "Storj",
    "sigma": 2.7,
@@ -73,14 +81,6 @@
    "from_btc_pct": 16,
    "verdict": "Neutral",
    "file": "PEOPLE.png"
-  },
-  {
-   "symbol": "STX",
-   "name": "Stacks",
-   "sigma": 2.5,
-   "from_btc_pct": 36,
-   "verdict": "Overbought",
-   "file": "STX.png"
   }
  ]
 }
