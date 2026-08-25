@@ -1,12 +1,12 @@
 {
  "date": "2026-08-25",
- "generated_at": "2026-08-25T07:15:48.869819+00:00",
+ "generated_at": "2026-08-25T07:57:05.780562+00:00",
  "assets": [
   {
    "symbol": "STX",
    "name": "Stacks",
-   "sigma": 4.52,
-   "from_btc_pct": 40,
+   "sigma": 3.19,
+   "from_btc_pct": 38,
    "verdict": "Overbought",
    "file": "STX.png"
   },
