@@ -1,6 +1,6 @@
 {
  "date": "2026-08-25",
- "generated_at": "2026-08-25T13:31:08.575615+00:00",
+ "generated_at": "2026-08-25T14:25:35.729712+00:00",
  "assets": [
   {
    "symbol": "SOLV",
@@ -27,14 +27,6 @@
    "file": "PROM.png"
   },
   {
-   "symbol": "ONG",
-   "name": "Ontology Gas",
-   "sigma": 2.74,
-   "from_btc_pct": 8,
-   "verdict": "Overbought",
-   "file": "ONG.png"
-  },
-  {
    "symbol": "STORJ",
    "name": "Storj",
    "sigma": 2.7,
@@ -49,6 +41,14 @@
    "from_btc_pct": 16,
    "verdict": "Neutral",
    "file": "PEOPLE.png"
+  },
+  {
+   "symbol": "ONG",
+   "name": "Ontology Gas",
+   "sigma": 2.52,
+   "from_btc_pct": 8,
+   "verdict": "Overbought",
+   "file": "ONG.png"
   },
   {
    "symbol": "STX",
