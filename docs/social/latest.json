@@ -1,6 +1,6 @@
 {
  "date": "2026-08-25",
- "generated_at": "2026-08-25T10:45:53.008842+00:00",
+ "generated_at": "2026-08-25T11:15:52.123418+00:00",
  "assets": [
   {
    "symbol": "STX",
@@ -25,6 +25,14 @@
    "from_btc_pct": 11,
    "verdict": "Oversold",
    "file": "STORJ.png"
+  },
+  {
+   "symbol": "PEOPLE",
+   "name": "ConstitutionDAO",
+   "sigma": 2.53,
+   "from_btc_pct": 16,
+   "verdict": "Neutral",
+   "file": "PEOPLE.png"
   }
  ]
 }
