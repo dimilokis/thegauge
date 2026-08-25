@@ -1,6 +1,6 @@
 {
  "date": "2026-08-25",
- "generated_at": "2026-08-25T07:57:05.780562+00:00",
+ "generated_at": "2026-08-25T08:15:55.335492+00:00",
  "assets": [
   {
    "symbol": "STX",
@@ -11,20 +11,20 @@
    "file": "STX.png"
   },
   {
-   "symbol": "STORJ",
-   "name": "Storj",
-   "sigma": 2.91,
-   "from_btc_pct": 9,
-   "verdict": "Oversold",
-   "file": "STORJ.png"
-  },
-  {
    "symbol": "PROM",
    "name": "Prom",
    "sigma": 2.75,
    "from_btc_pct": 6,
    "verdict": "Overbought",
    "file": "PROM.png"
+  },
+  {
+   "symbol": "STORJ",
+   "name": "Storj",
+   "sigma": 2.75,
+   "from_btc_pct": 10,
+   "verdict": "Oversold",
+   "file": "STORJ.png"
   }
  ]
 }
