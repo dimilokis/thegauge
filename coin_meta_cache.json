@@ -55,6 +55,10 @@
   "icon": "https://coin-images.coingecko.com/coins/images/847/large/token.png?1775296339",
   "name": "heyAura"
  },
+ "AERO": {
+  "icon": "https://coin-images.coingecko.com/coins/images/31745/large/token.png?1696530564",
+  "name": "Aerodrome Finance"
+ },
  "AEVO": {
   "icon": "https://coin-images.coingecko.com/coins/images/35893/large/aevo.png?1710138340",
   "name": "Aevo"
@@ -116,7 +120,7 @@
   "name": "Aptos"
  },
  "AR": {
-  "icon": "https://coin-images.coingecko.com/coins/images/4343/large/oRt6SiEN_400x400.jpg",
+  "icon": "https://coin-images.coingecko.com/coins/images/4343/large/oRt6SiEN_400x400.jpg?1696504946",
   "name": "Arweave"
  },
  "ARB": {
@@ -1080,7 +1084,7 @@
   "name": "Sun Token"
  },
  "SUPER": {
-  "icon": "https://coin-images.coingecko.com/coins/images/14040/large/SV-Logo-200x200.png",
+  "icon": "https://coin-images.coingecko.com/coins/images/14040/large/SV-Logo-200x200.png?1706880312",
   "name": "SuperVerse"
  },
  "SUSHI": {
