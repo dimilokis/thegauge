@@ -1,6 +1,6 @@
 {
  "date": "2026-08-25",
- "generated_at": "2026-08-25T22:00:58.359305+00:00",
+ "generated_at": "2026-08-25T23:30:49.296383+00:00",
  "assets": [
   {
    "symbol": "SOLV",
@@ -35,14 +35,6 @@
    "file": "ZRO.png"
   },
   {
-   "symbol": "AMP",
-   "name": "Amp",
-   "sigma": 2.82,
-   "from_btc_pct": 29,
-   "verdict": "Neutral",
-   "file": "AMP.png"
-  },
-  {
    "symbol": "PROM",
    "name": "Prom",
    "sigma": 2.75,
@@ -65,6 +57,14 @@
    "from_btc_pct": 8,
    "verdict": "Overbought",
    "file": "ONG.png"
+  },
+  {
+   "symbol": "AMP",
+   "name": "Amp",
+   "sigma": 2.59,
+   "from_btc_pct": 30,
+   "verdict": "Neutral",
+   "file": "AMP.png"
   },
   {
    "symbol": "BMT",
