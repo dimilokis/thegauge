@@ -1,6 +1,6 @@
 {
  "date": "2026-08-25",
- "generated_at": "2026-08-25T12:45:56.898896+00:00",
+ "generated_at": "2026-08-25T13:01:00.673203+00:00",
  "assets": [
   {
    "symbol": "SOLV",
@@ -11,12 +11,28 @@
    "file": "SOLV.png"
   },
   {
+   "symbol": "ONT",
+   "name": "Ontology",
+   "sigma": 3.37,
+   "from_btc_pct": 24,
+   "verdict": "Overbought",
+   "file": "ONT.png"
+  },
+  {
    "symbol": "PROM",
    "name": "Prom",
    "sigma": 2.75,
    "from_btc_pct": 6,
    "verdict": "Overbought",
    "file": "PROM.png"
+  },
+  {
+   "symbol": "ONG",
+   "name": "Ontology Gas",
+   "sigma": 2.74,
+   "from_btc_pct": 8,
+   "verdict": "Overbought",
+   "file": "ONG.png"
   },
   {
    "symbol": "STORJ",
