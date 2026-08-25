@@ -1,6 +1,6 @@
 {
  "date": "2026-08-25",
- "generated_at": "2026-08-25T09:00:56.523387+00:00",
+ "generated_at": "2026-08-25T09:45:51.488602+00:00",
  "assets": [
   {
    "symbol": "STX",
@@ -21,8 +21,8 @@
   {
    "symbol": "STORJ",
    "name": "Storj",
-   "sigma": 2.58,
-   "from_btc_pct": 10,
+   "sigma": 2.54,
+   "from_btc_pct": 11,
    "verdict": "Neutral",
    "file": "STORJ.png"
   }
