@@ -1,6 +1,6 @@
 {
  "date": "2026-08-25",
- "generated_at": "2026-08-25T15:45:56.830060+00:00",
+ "generated_at": "2026-08-25T17:15:47.649425+00:00",
  "assets": [
   {
    "symbol": "SOLV",
@@ -9,6 +9,14 @@
    "from_btc_pct": 15,
    "verdict": "Neutral",
    "file": "SOLV.png"
+  },
+  {
+   "symbol": "JASMY",
+   "name": "JasmyCoin",
+   "sigma": 3.55,
+   "from_btc_pct": 40,
+   "verdict": "Overbought",
+   "file": "JASMY.png"
   },
   {
    "symbol": "ONT",
