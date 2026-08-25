@@ -1,7 +1,15 @@
 {
  "date": "2026-08-25",
- "generated_at": "2026-08-25T03:30:52.114068+00:00",
+ "generated_at": "2026-08-25T05:15:45.723814+00:00",
  "assets": [
+  {
+   "symbol": "STORJ",
+   "name": "Storj",
+   "sigma": 2.91,
+   "from_btc_pct": 9,
+   "verdict": "Oversold",
+   "file": "STORJ.png"
+  },
   {
    "symbol": "PROM",
    "name": "Prom",
