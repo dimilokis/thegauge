@@ -1,7 +1,23 @@
 {
  "date": "2026-08-26",
- "generated_at": "2026-08-26T22:15:45.435001+00:00",
+ "generated_at": "2026-08-26T23:30:51.554105+00:00",
  "assets": [
+  {
+   "symbol": "VET",
+   "name": "VeChain",
+   "sigma": 5.56,
+   "from_btc_pct": 39,
+   "verdict": "Overbought",
+   "file": "VET.png"
+  },
+  {
+   "symbol": "GAS",
+   "name": "Gas",
+   "sigma": 5.32,
+   "from_btc_pct": 32,
+   "verdict": "Overbought",
+   "file": "GAS.png"
+  },
   {
    "symbol": "LSK",
    "name": "Lisk",
@@ -81,14 +97,6 @@
    "from_btc_pct": 1,
    "verdict": "Overbought",
    "file": "EDEN.png"
-  },
-  {
-   "symbol": "ONG",
-   "name": "Ontology Gas",
-   "sigma": 2.55,
-   "from_btc_pct": 5,
-   "verdict": "Overbought",
-   "file": "ONG.png"
   }
  ]
 }
