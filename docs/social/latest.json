@@ -1,15 +1,7 @@
 {
  "date": "2026-08-26",
- "generated_at": "2026-08-26T19:16:45.782225+00:00",
+ "generated_at": "2026-08-26T20:15:51.696490+00:00",
  "assets": [
-  {
-   "symbol": "EDEN",
-   "name": "OpenEden",
-   "sigma": 3.64,
-   "from_btc_pct": 1,
-   "verdict": "Overbought",
-   "file": "EDEN.png"
-  },
   {
    "symbol": "S",
    "name": "Sonic",
@@ -65,6 +57,14 @@
    "from_btc_pct": 12,
    "verdict": "Strong Uptrend",
    "file": "POL.png"
+  },
+  {
+   "symbol": "EDEN",
+   "name": "OpenEden",
+   "sigma": 2.57,
+   "from_btc_pct": 1,
+   "verdict": "Overbought",
+   "file": "EDEN.png"
   },
   {
    "symbol": "ONG",
