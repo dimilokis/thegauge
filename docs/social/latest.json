@@ -1,6 +1,6 @@
 {
  "date": "2026-08-26",
- "generated_at": "2026-08-26T18:30:49.771653+00:00",
+ "generated_at": "2026-08-26T19:16:45.782225+00:00",
  "assets": [
   {
    "symbol": "EDEN",
@@ -25,6 +25,14 @@
    "from_btc_pct": 4,
    "verdict": "Neutral",
    "file": "FF.png"
+  },
+  {
+   "symbol": "CVX",
+   "name": "Convex Finance",
+   "sigma": 3.04,
+   "from_btc_pct": 19,
+   "verdict": "Overbought",
+   "file": "CVX.png"
   },
   {
    "symbol": "ONT",
