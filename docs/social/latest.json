@@ -1,6 +1,6 @@
 {
  "date": "2026-08-26",
- "generated_at": "2026-08-26T16:00:51.689668+00:00",
+ "generated_at": "2026-08-26T16:15:54.148264+00:00",
  "assets": [
   {
    "symbol": "FF",
@@ -13,8 +13,8 @@
   {
    "symbol": "ONT",
    "name": "Ontology",
-   "sigma": 3.03,
-   "from_btc_pct": 19,
+   "sigma": 2.92,
+   "from_btc_pct": 18,
    "verdict": "Overbought",
    "file": "ONT.png"
   },
@@ -33,6 +33,14 @@
    "from_btc_pct": 25,
    "verdict": "Overbought",
    "file": "PYTH.png"
+  },
+  {
+   "symbol": "POL",
+   "name": "POL (ex-MATIC)",
+   "sigma": 2.69,
+   "from_btc_pct": 12,
+   "verdict": "Strong Uptrend",
+   "file": "POL.png"
   },
   {
    "symbol": "ONG",
