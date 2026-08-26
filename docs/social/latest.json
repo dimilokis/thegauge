@@ -1,15 +1,7 @@
 {
  "date": "2026-08-26",
- "generated_at": "2026-08-26T20:15:51.696490+00:00",
+ "generated_at": "2026-08-26T21:02:04.568880+00:00",
  "assets": [
-  {
-   "symbol": "S",
-   "name": "Sonic",
-   "sigma": 3.41,
-   "from_btc_pct": 38,
-   "verdict": "Overbought",
-   "file": "S.png"
-  },
   {
    "symbol": "FF",
    "name": "Falcon Finance",
@@ -25,6 +17,14 @@
    "from_btc_pct": 19,
    "verdict": "Overbought",
    "file": "CVX.png"
+  },
+  {
+   "symbol": "S",
+   "name": "Sonic",
+   "sigma": 3.03,
+   "from_btc_pct": 40,
+   "verdict": "Neutral",
+   "file": "S.png"
   },
   {
    "symbol": "ONT",
