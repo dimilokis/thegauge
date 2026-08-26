@@ -1,6 +1,6 @@
 {
  "date": "2026-08-26",
- "generated_at": "2026-08-26T17:16:35.424893+00:00",
+ "generated_at": "2026-08-26T18:30:49.771653+00:00",
  "assets": [
   {
    "symbol": "EDEN",
@@ -9,6 +9,14 @@
    "from_btc_pct": 1,
    "verdict": "Overbought",
    "file": "EDEN.png"
+  },
+  {
+   "symbol": "S",
+   "name": "Sonic",
+   "sigma": 3.41,
+   "from_btc_pct": 38,
+   "verdict": "Overbought",
+   "file": "S.png"
   },
   {
    "symbol": "FF",
