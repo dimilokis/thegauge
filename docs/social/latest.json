@@ -1,7 +1,15 @@
 {
  "date": "2026-08-26",
- "generated_at": "2026-08-26T21:02:04.568880+00:00",
+ "generated_at": "2026-08-26T21:31:35.929453+00:00",
  "assets": [
+  {
+   "symbol": "LSK",
+   "name": "Lisk",
+   "sigma": 4.53,
+   "from_btc_pct": 13,
+   "verdict": "Overbought",
+   "file": "LSK.png"
+  },
   {
    "symbol": "FF",
    "name": "Falcon Finance",
