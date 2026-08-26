@@ -1,7 +1,15 @@
 {
  "date": "2026-08-26",
- "generated_at": "2026-08-26T16:15:54.148264+00:00",
+ "generated_at": "2026-08-26T17:16:35.424893+00:00",
  "assets": [
+  {
+   "symbol": "EDEN",
+   "name": "OpenEden",
+   "sigma": 3.64,
+   "from_btc_pct": 1,
+   "verdict": "Overbought",
+   "file": "EDEN.png"
+  },
   {
    "symbol": "FF",
    "name": "Falcon Finance",
