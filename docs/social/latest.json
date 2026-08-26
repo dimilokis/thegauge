@@ -1,6 +1,6 @@
 {
  "date": "2026-08-26",
- "generated_at": "2026-08-26T13:30:56.882062+00:00",
+ "generated_at": "2026-08-26T14:15:57.753501+00:00",
  "assets": [
   {
    "symbol": "FF",
@@ -9,6 +9,14 @@
    "from_btc_pct": 4,
    "verdict": "Neutral",
    "file": "FF.png"
+  },
+  {
+   "symbol": "ONT",
+   "name": "Ontology",
+   "sigma": 3.03,
+   "from_btc_pct": 19,
+   "verdict": "Overbought",
+   "file": "ONT.png"
   },
   {
    "symbol": "PYTH",
