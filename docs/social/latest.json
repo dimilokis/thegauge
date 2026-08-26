@@ -1,6 +1,6 @@
 {
  "date": "2026-08-26",
- "generated_at": "2026-08-26T14:15:57.753501+00:00",
+ "generated_at": "2026-08-26T16:00:51.689668+00:00",
  "assets": [
   {
    "symbol": "FF",
@@ -17,6 +17,14 @@
    "from_btc_pct": 19,
    "verdict": "Overbought",
    "file": "ONT.png"
+  },
+  {
+   "symbol": "CATI",
+   "name": "Catizen",
+   "sigma": 2.91,
+   "from_btc_pct": 0,
+   "verdict": "Overbought",
+   "file": "CATI.png"
   },
   {
    "symbol": "PYTH",
