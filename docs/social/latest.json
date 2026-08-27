@@ -1,6 +1,6 @@
 {
  "date": "2026-08-26",
- "generated_at": "2026-08-27T00:30:52.207391+00:00",
+ "generated_at": "2026-08-27T02:15:52.471532+00:00",
  "assets": [
   {
    "symbol": "VET",
@@ -17,6 +17,14 @@
    "from_btc_pct": 13,
    "verdict": "Overbought",
    "file": "LSK.png"
+  },
+  {
+   "symbol": "RUNE",
+   "name": "THORChain",
+   "sigma": 3.83,
+   "from_btc_pct": 31,
+   "verdict": "Overbought",
+   "file": "RUNE.png"
   },
   {
    "symbol": "FF",
@@ -89,14 +97,6 @@
    "from_btc_pct": 18,
    "verdict": "Neutral",
    "file": "KITE.png"
-  },
-  {
-   "symbol": "EDEN",
-   "name": "OpenEden",
-   "sigma": 2.57,
-   "from_btc_pct": 1,
-   "verdict": "Overbought",
-   "file": "EDEN.png"
   }
  ]
 }
