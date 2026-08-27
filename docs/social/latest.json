@@ -1,6 +1,6 @@
 {
  "date": "2026-08-27",
- "generated_at": "2026-08-27T06:45:48.735104+00:00",
+ "generated_at": "2026-08-27T08:00:56.565757+00:00",
  "assets": [
   {
    "symbol": "MOVR",
@@ -13,7 +13,7 @@
   {
    "symbol": "ONT",
    "name": "Ontology",
-   "sigma": 2.7,
+   "sigma": 2.57,
    "from_btc_pct": 11,
    "verdict": "Overbought",
    "file": "ONT.png"
