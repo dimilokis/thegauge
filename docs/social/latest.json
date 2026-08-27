@@ -1,6 +1,6 @@
 {
  "date": "2026-08-27",
- "generated_at": "2026-08-27T09:15:46.738686+00:00",
+ "generated_at": "2026-08-27T09:45:49.123817+00:00",
  "assets": [
   {
    "symbol": "BEAMX",
@@ -21,8 +21,8 @@
   {
    "symbol": "ONT",
    "name": "Ontology",
-   "sigma": 2.6,
-   "from_btc_pct": 9,
+   "sigma": 2.52,
+   "from_btc_pct": 8,
    "verdict": "Overbought",
    "file": "ONT.png"
   },
