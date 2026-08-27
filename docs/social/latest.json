@@ -1,6 +1,6 @@
 {
  "date": "2026-08-27",
- "generated_at": "2026-08-27T18:01:00.042517+00:00",
+ "generated_at": "2026-08-27T19:15:53.530687+00:00",
  "assets": [
   {
    "symbol": "BEAMX",
@@ -25,6 +25,14 @@
    "from_btc_pct": 6,
    "verdict": "Oversold",
    "file": "MOVR.png"
+  },
+  {
+   "symbol": "HEMI",
+   "name": "Hemi",
+   "sigma": 2.98,
+   "from_btc_pct": 11,
+   "verdict": "Overbought",
+   "file": "HEMI.png"
   },
   {
    "symbol": "TRUMP",
