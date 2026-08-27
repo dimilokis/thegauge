@@ -1,7 +1,15 @@
 {
  "date": "2026-08-27",
- "generated_at": "2026-08-27T03:30:48.939033+00:00",
+ "generated_at": "2026-08-27T04:00:56.778393+00:00",
  "assets": [
+  {
+   "symbol": "MOVR",
+   "name": "Moonriver",
+   "sigma": 4.61,
+   "from_btc_pct": 6,
+   "verdict": "Oversold",
+   "file": "MOVR.png"
+  },
   {
    "symbol": "ONG",
    "name": "Ontology Gas",
