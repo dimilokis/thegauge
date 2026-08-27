@@ -1,6 +1,6 @@
 {
  "date": "2026-08-27",
- "generated_at": "2026-08-27T15:00:57.178455+00:00",
+ "generated_at": "2026-08-27T16:16:11.400749+00:00",
  "assets": [
   {
    "symbol": "BEAMX",
@@ -27,12 +27,28 @@
    "file": "MOVR.png"
   },
   {
+   "symbol": "TRUMP",
+   "name": "Official Trump",
+   "sigma": 2.82,
+   "from_btc_pct": 11,
+   "verdict": "Strong Uptrend",
+   "file": "TRUMP.png"
+  },
+  {
    "symbol": "CHIP",
    "name": "USD.AI",
    "sigma": 2.6,
    "from_btc_pct": 8,
    "verdict": "Strong Uptrend",
    "file": "CHIP.png"
+  },
+  {
+   "symbol": "VET",
+   "name": "VeChain",
+   "sigma": 2.6,
+   "from_btc_pct": 33,
+   "verdict": "Overbought",
+   "file": "VET.png"
   },
   {
    "symbol": "ONT",
