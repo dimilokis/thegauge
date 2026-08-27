@@ -1,102 +1,14 @@
 {
- "date": "2026-08-26",
- "generated_at": "2026-08-27T02:15:52.471532+00:00",
+ "date": "2026-08-27",
+ "generated_at": "2026-08-27T03:30:48.939033+00:00",
  "assets": [
   {
-   "symbol": "VET",
-   "name": "VeChain",
-   "sigma": 5.56,
-   "from_btc_pct": 39,
-   "verdict": "Overbought",
-   "file": "VET.png"
-  },
-  {
-   "symbol": "LSK",
-   "name": "Lisk",
-   "sigma": 4.53,
-   "from_btc_pct": 13,
-   "verdict": "Overbought",
-   "file": "LSK.png"
-  },
-  {
-   "symbol": "RUNE",
-   "name": "THORChain",
-   "sigma": 3.83,
-   "from_btc_pct": 31,
-   "verdict": "Overbought",
-   "file": "RUNE.png"
-  },
-  {
-   "symbol": "FF",
-   "name": "Falcon Finance",
-   "sigma": 3.4,
-   "from_btc_pct": 4,
+   "symbol": "ONG",
+   "name": "Ontology Gas",
+   "sigma": 2.54,
+   "from_btc_pct": 2,
    "verdict": "Neutral",
-   "file": "FF.png"
-  },
-  {
-   "symbol": "GAS",
-   "name": "Gas",
-   "sigma": 3.32,
-   "from_btc_pct": 25,
-   "verdict": "Overbought",
-   "file": "GAS.png"
-  },
-  {
-   "symbol": "CVX",
-   "name": "Convex Finance",
-   "sigma": 3.04,
-   "from_btc_pct": 19,
-   "verdict": "Overbought",
-   "file": "CVX.png"
-  },
-  {
-   "symbol": "S",
-   "name": "Sonic",
-   "sigma": 3.03,
-   "from_btc_pct": 40,
-   "verdict": "Neutral",
-   "file": "S.png"
-  },
-  {
-   "symbol": "ONT",
-   "name": "Ontology",
-   "sigma": 2.92,
-   "from_btc_pct": 18,
-   "verdict": "Overbought",
-   "file": "ONT.png"
-  },
-  {
-   "symbol": "CATI",
-   "name": "Catizen",
-   "sigma": 2.91,
-   "from_btc_pct": 0,
-   "verdict": "Overbought",
-   "file": "CATI.png"
-  },
-  {
-   "symbol": "PYTH",
-   "name": "Pyth Network",
-   "sigma": 2.7,
-   "from_btc_pct": 25,
-   "verdict": "Overbought",
-   "file": "PYTH.png"
-  },
-  {
-   "symbol": "POL",
-   "name": "POL (ex-MATIC)",
-   "sigma": 2.69,
-   "from_btc_pct": 12,
-   "verdict": "Strong Uptrend",
-   "file": "POL.png"
-  },
-  {
-   "symbol": "KITE",
-   "name": "Kite",
-   "sigma": 2.67,
-   "from_btc_pct": 18,
-   "verdict": "Neutral",
-   "file": "KITE.png"
+   "file": "ONG.png"
   }
  ]
 }
