@@ -1,6 +1,6 @@
 {
  "date": "2026-08-28",
- "generated_at": "2026-08-28T13:45:48.629541+00:00",
+ "generated_at": "2026-08-28T15:01:00.778998+00:00",
  "assets": [
   {
    "symbol": "MANTRA",
@@ -17,6 +17,14 @@
    "from_btc_pct": 4,
    "verdict": "Strong Uptrend",
    "file": "CHIP.png"
+  },
+  {
+   "symbol": "HEMI",
+   "name": "Hemi",
+   "sigma": 2.55,
+   "from_btc_pct": 7,
+   "verdict": "Overbought",
+   "file": "HEMI.png"
   }
  ]
 }
