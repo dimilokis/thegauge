@@ -287,6 +287,10 @@
   "icon": "https://coin-images.coingecko.com/coins/images/8834/large/CHZ_Token_updated.png?1696508986",
   "name": "Chiliz"
  },
+ "CITY": {
+  "icon": "https://coin-images.coingecko.com/coins/images/15799/large/CITY.png",
+  "name": "Manchester City Fan Token"
+ },
  "COMP": {
   "icon": "https://coin-images.coingecko.com/coins/images/10775/large/COMP.png?1696510737",
   "name": "Compound"
