@@ -451,6 +451,10 @@
   "icon": "https://coin-images.coingecko.com/coins/images/13446/large/5f6294c0c7a8cda55cb1c936_Flow_Wordmark.png?1696513210",
   "name": "Flow"
  },
+ "FOGO": {
+  "icon": "https://coin-images.coingecko.com/coins/images/68100/large/fogo_AppIcon.png",
+  "name": "Fogo"
+ },
  "FORM": {
   "icon": "https://coin-images.coingecko.com/coins/images/54912/large/four.jpg?1742461445",
   "name": "Four"

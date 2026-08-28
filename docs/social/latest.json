@@ -1,7 +1,15 @@
 {
  "date": "2026-08-28",
- "generated_at": "2026-08-28T22:01:00.540361+00:00",
+ "generated_at": "2026-08-28T22:45:49.897069+00:00",
  "assets": [
+  {
+   "symbol": "FOGO",
+   "name": "Fogo",
+   "sigma": 5.44,
+   "from_btc_pct": 35,
+   "verdict": "Oversold",
+   "file": "FOGO.png"
+  },
   {
    "symbol": "HUMA",
    "name": "Huma Finance",
