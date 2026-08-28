@@ -1,6 +1,6 @@
 {
  "date": "2026-08-28",
- "generated_at": "2026-08-28T13:00:57.001186+00:00",
+ "generated_at": "2026-08-28T13:45:48.629541+00:00",
  "assets": [
   {
    "symbol": "MANTRA",
@@ -13,8 +13,8 @@
   {
    "symbol": "CHIP",
    "name": "USD.AI",
-   "sigma": 2.61,
-   "from_btc_pct": 5,
+   "sigma": 2.77,
+   "from_btc_pct": 4,
    "verdict": "Strong Uptrend",
    "file": "CHIP.png"
   }
