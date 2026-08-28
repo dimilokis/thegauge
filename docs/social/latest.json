@@ -1,6 +1,6 @@
 {
  "date": "2026-08-28",
- "generated_at": "2026-08-28T19:30:50.199190+00:00",
+ "generated_at": "2026-08-28T19:45:50.338644+00:00",
  "assets": [
   {
    "symbol": "TURBO",
@@ -21,7 +21,7 @@
   {
    "symbol": "BEAMX",
    "name": null,
-   "sigma": 2.61,
+   "sigma": 2.57,
    "from_btc_pct": 33,
    "verdict": "Neutral",
    "file": "BEAMX.png"
