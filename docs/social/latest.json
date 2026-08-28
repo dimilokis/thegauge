@@ -1,7 +1,15 @@
 {
  "date": "2026-08-28",
- "generated_at": "2026-08-28T20:15:47.808968+00:00",
+ "generated_at": "2026-08-28T20:46:19.739514+00:00",
  "assets": [
+  {
+   "symbol": "MOVR",
+   "name": "Moonriver",
+   "sigma": 3.36,
+   "from_btc_pct": 12,
+   "verdict": "Oversold",
+   "file": "MOVR.png"
+  },
   {
    "symbol": "TURBO",
    "name": "Turbo",
