@@ -1,7 +1,15 @@
 {
  "date": "2026-08-28",
- "generated_at": "2026-08-28T17:45:53.828517+00:00",
+ "generated_at": "2026-08-28T19:30:50.199190+00:00",
  "assets": [
+  {
+   "symbol": "TURBO",
+   "name": "Turbo",
+   "sigma": 3.49,
+   "from_btc_pct": 17,
+   "verdict": "Overbought",
+   "file": "TURBO.png"
+  },
   {
    "symbol": "MANTRA",
    "name": "MANTRA",
