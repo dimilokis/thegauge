@@ -1,13 +1,13 @@
 {
  "date": "2026-08-28",
- "generated_at": "2026-08-28T07:45:45.065188+00:00",
+ "generated_at": "2026-08-28T09:45:52.784189+00:00",
  "assets": [
   {
    "symbol": "MANTRA",
    "name": "MANTRA",
-   "sigma": 5.3,
-   "from_btc_pct": 2,
-   "verdict": "Neutral",
+   "sigma": 3.0,
+   "from_btc_pct": 4,
+   "verdict": "Oversold",
    "file": "MANTRA.png"
   }
  ]
