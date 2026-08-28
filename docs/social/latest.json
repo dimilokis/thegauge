@@ -1,78 +1,14 @@
 {
- "date": "2026-08-27",
- "generated_at": "2026-08-27T23:00:52.781960+00:00",
+ "date": "2026-08-28",
+ "generated_at": "2026-08-28T07:45:45.065188+00:00",
  "assets": [
   {
-   "symbol": "BEAMX",
-   "name": null,
-   "sigma": 16.08,
-   "from_btc_pct": 12,
-   "verdict": "Overbought",
-   "file": "BEAMX.png"
-  },
-  {
-   "symbol": "KERNEL",
-   "name": "KernelDAO",
-   "sigma": 4.94,
-   "from_btc_pct": 22,
-   "verdict": "Neutral",
-   "file": "KERNEL.png"
-  },
-  {
-   "symbol": "MOVR",
-   "name": "Moonriver",
-   "sigma": 4.61,
-   "from_btc_pct": 6,
-   "verdict": "Oversold",
-   "file": "MOVR.png"
-  },
-  {
-   "symbol": "HEMI",
-   "name": "Hemi",
-   "sigma": 2.98,
-   "from_btc_pct": 11,
-   "verdict": "Overbought",
-   "file": "HEMI.png"
-  },
-  {
-   "symbol": "TRUMP",
-   "name": "Official Trump",
-   "sigma": 2.82,
-   "from_btc_pct": 11,
-   "verdict": "Strong Uptrend",
-   "file": "TRUMP.png"
-  },
-  {
-   "symbol": "VET",
-   "name": "VeChain",
-   "sigma": 2.6,
-   "from_btc_pct": 33,
-   "verdict": "Overbought",
-   "file": "VET.png"
-  },
-  {
-   "symbol": "CHIP",
-   "name": "USD.AI",
-   "sigma": 2.57,
-   "from_btc_pct": 8,
-   "verdict": "Strong Uptrend",
-   "file": "CHIP.png"
-  },
-  {
-   "symbol": "ONT",
-   "name": "Ontology",
-   "sigma": 2.53,
-   "from_btc_pct": 8,
-   "verdict": "Overbought",
-   "file": "ONT.png"
-  },
-  {
-   "symbol": "ONG",
-   "name": "Ontology Gas",
-   "sigma": 2.51,
+   "symbol": "MANTRA",
+   "name": "MANTRA",
+   "sigma": 5.3,
    "from_btc_pct": 2,
    "verdict": "Neutral",
-   "file": "ONG.png"
+   "file": "MANTRA.png"
   }
  ]
 }
