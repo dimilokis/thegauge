@@ -1,7 +1,15 @@
 {
  "date": "2026-08-29",
- "generated_at": "2026-08-29T16:15:47.609983+00:00",
+ "generated_at": "2026-08-29T16:30:50.394225+00:00",
  "assets": [
+  {
+   "symbol": "PROM",
+   "name": "Prom",
+   "sigma": 3.72,
+   "from_btc_pct": 3,
+   "verdict": "Overbought",
+   "file": "PROM.png"
+  },
   {
    "symbol": "BROCCOLI714",
    "name": null,
@@ -27,6 +35,14 @@
    "file": "BFUSD.png"
   },
   {
+   "symbol": "TWT",
+   "name": "Trust Wallet",
+   "sigma": 2.85,
+   "from_btc_pct": 8,
+   "verdict": "Overbought",
+   "file": "TWT.png"
+  },
+  {
    "symbol": "GIGGLE",
    "name": "Giggle Fund",
    "sigma": 2.67,
@@ -49,14 +65,6 @@
    "from_btc_pct": 31,
    "verdict": "Strong Uptrend",
    "file": "DASH.png"
-  },
-  {
-   "symbol": "TWT",
-   "name": "Trust Wallet",
-   "sigma": 2.5,
-   "from_btc_pct": 9,
-   "verdict": "Overbought",
-   "file": "TWT.png"
   }
  ]
 }
