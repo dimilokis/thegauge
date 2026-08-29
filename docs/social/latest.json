@@ -1,7 +1,15 @@
 {
  "date": "2026-08-29",
- "generated_at": "2026-08-29T15:00:56.611406+00:00",
+ "generated_at": "2026-08-29T15:30:51.398983+00:00",
  "assets": [
+  {
+   "symbol": "BROCCOLI714",
+   "name": null,
+   "sigma": 3.41,
+   "from_btc_pct": 0,
+   "verdict": "Overbought",
+   "file": "BROCCOLI714.png"
+  },
   {
    "symbol": "NIL",
    "name": "Nillion",
