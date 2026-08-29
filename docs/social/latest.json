@@ -1,7 +1,15 @@
 {
  "date": "2026-08-29",
- "generated_at": "2026-08-29T18:00:56.423474+00:00",
+ "generated_at": "2026-08-29T18:15:49.650575+00:00",
  "assets": [
+  {
+   "symbol": "BAND",
+   "name": "Band",
+   "sigma": 4.05,
+   "from_btc_pct": 26,
+   "verdict": "Overbought",
+   "file": "BAND.png"
+  },
   {
    "symbol": "BROCCOLI714",
    "name": null,
