@@ -1,6 +1,6 @@
 {
  "date": "2026-08-29",
- "generated_at": "2026-08-29T18:45:48.055043+00:00",
+ "generated_at": "2026-08-29T20:00:51.351259+00:00",
  "assets": [
   {
    "symbol": "BAND",
@@ -35,6 +35,14 @@
    "file": "NIL.png"
   },
   {
+   "symbol": "TWT",
+   "name": "Trust Wallet",
+   "sigma": 2.68,
+   "from_btc_pct": 9,
+   "verdict": "Overbought",
+   "file": "TWT.png"
+  },
+  {
    "symbol": "GIGGLE",
    "name": "Giggle Fund",
    "sigma": 2.67,
@@ -65,14 +73,6 @@
    "from_btc_pct": 31,
    "verdict": "Strong Uptrend",
    "file": "DASH.png"
-  },
-  {
-   "symbol": "TWT",
-   "name": "Trust Wallet",
-   "sigma": 2.52,
-   "from_btc_pct": 9,
-   "verdict": "Overbought",
-   "file": "TWT.png"
   }
  ]
 }
