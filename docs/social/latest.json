@@ -1,86 +1,14 @@
 {
- "date": "2026-08-28",
- "generated_at": "2026-08-28T23:15:51.510671+00:00",
+ "date": "2026-08-29",
+ "generated_at": "2026-08-29T09:15:46.999200+00:00",
  "assets": [
   {
-   "symbol": "FOGO",
-   "name": "Fogo",
-   "sigma": 5.44,
-   "from_btc_pct": 35,
-   "verdict": "Oversold",
-   "file": "FOGO.png"
-  },
-  {
-   "symbol": "HUMA",
-   "name": "Huma Finance",
-   "sigma": 3.66,
-   "from_btc_pct": 15,
+   "symbol": "BFUSD",
+   "name": "BFUSD",
+   "sigma": 2.9,
+   "from_btc_pct": 1,
    "verdict": "Neutral",
-   "file": "HUMA.png"
-  },
-  {
-   "symbol": "MOVR",
-   "name": "Moonriver",
-   "sigma": 3.36,
-   "from_btc_pct": 12,
-   "verdict": "Oversold",
-   "file": "MOVR.png"
-  },
-  {
-   "symbol": "MANTRA",
-   "name": "MANTRA",
-   "sigma": 3.0,
-   "from_btc_pct": 4,
-   "verdict": "Oversold",
-   "file": "MANTRA.png"
-  },
-  {
-   "symbol": "AMP",
-   "name": "Amp",
-   "sigma": 2.92,
-   "from_btc_pct": 12,
-   "verdict": "Neutral",
-   "file": "AMP.png"
-  },
-  {
-   "symbol": "TURBO",
-   "name": "Turbo",
-   "sigma": 2.73,
-   "from_btc_pct": 20,
-   "verdict": "Overbought",
-   "file": "TURBO.png"
-  },
-  {
-   "symbol": "BEAMX",
-   "name": null,
-   "sigma": 2.57,
-   "from_btc_pct": 33,
-   "verdict": "Neutral",
-   "file": "BEAMX.png"
-  },
-  {
-   "symbol": "HEMI",
-   "name": "Hemi",
-   "sigma": 2.55,
-   "from_btc_pct": 7,
-   "verdict": "Overbought",
-   "file": "HEMI.png"
-  },
-  {
-   "symbol": "CHIP",
-   "name": "USD.AI",
-   "sigma": 2.52,
-   "from_btc_pct": 4,
-   "verdict": "Strong Uptrend",
-   "file": "CHIP.png"
-  },
-  {
-   "symbol": "CFG",
-   "name": "Centrifuge",
-   "sigma": 2.51,
-   "from_btc_pct": 8,
-   "verdict": "Oversold",
-   "file": "CFG.png"
+   "file": "BFUSD.png"
   }
  ]
 }
