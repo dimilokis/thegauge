@@ -1,6 +1,6 @@
 {
  "date": "2026-08-29",
- "generated_at": "2026-08-29T13:30:55.855927+00:00",
+ "generated_at": "2026-08-29T14:45:51.086277+00:00",
  "assets": [
   {
    "symbol": "NIL",
@@ -21,8 +21,8 @@
   {
    "symbol": "TWT",
    "name": "Trust Wallet",
-   "sigma": 2.51,
-   "from_btc_pct": 8,
+   "sigma": 2.5,
+   "from_btc_pct": 9,
    "verdict": "Overbought",
    "file": "TWT.png"
   }
