@@ -635,6 +635,10 @@
   "icon": "https://coin-images.coingecko.com/coins/images/35801/large/Kamino_200x200.png?1767944671",
   "name": "Kamino"
  },
+ "KNC": {
+  "icon": "https://coin-images.coingecko.com/coins/images/14899/large/RwdVsGcw_400x400.jpg",
+  "name": "Kyber Network Crystal"
+ },
  "KSM": {
   "icon": "https://coin-images.coingecko.com/coins/images/9568/large/m4zRhP5e_400x400.jpg?1696509648",
   "name": "Kusama"
