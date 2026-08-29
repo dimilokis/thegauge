@@ -1,6 +1,6 @@
 {
  "date": "2026-08-29",
- "generated_at": "2026-08-29T16:00:55.106515+00:00",
+ "generated_at": "2026-08-29T16:15:47.609983+00:00",
  "assets": [
   {
    "symbol": "BROCCOLI714",
@@ -41,6 +41,14 @@
    "from_btc_pct": 11,
    "verdict": "Neutral",
    "file": "ZKP.png"
+  },
+  {
+   "symbol": "DASH",
+   "name": "Dash",
+   "sigma": 2.57,
+   "from_btc_pct": 31,
+   "verdict": "Strong Uptrend",
+   "file": "DASH.png"
   },
   {
    "symbol": "TWT",
