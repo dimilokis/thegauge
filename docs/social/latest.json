@@ -1,15 +1,7 @@
 {
  "date": "2026-08-29",
- "generated_at": "2026-08-29T20:00:51.351259+00:00",
+ "generated_at": "2026-08-29T21:45:51.561860+00:00",
  "assets": [
-  {
-   "symbol": "BAND",
-   "name": "Band",
-   "sigma": 4.05,
-   "from_btc_pct": 26,
-   "verdict": "Overbought",
-   "file": "BAND.png"
-  },
   {
    "symbol": "BROCCOLI714",
    "name": null,
@@ -17,6 +9,14 @@
    "from_btc_pct": 0,
    "verdict": "Overbought",
    "file": "BROCCOLI714.png"
+  },
+  {
+   "symbol": "BAND",
+   "name": "Band",
+   "sigma": 2.92,
+   "from_btc_pct": 28,
+   "verdict": "Overbought",
+   "file": "BAND.png"
   },
   {
    "symbol": "BFUSD",
