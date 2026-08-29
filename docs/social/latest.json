@@ -1,6 +1,6 @@
 {
  "date": "2026-08-29",
- "generated_at": "2026-08-29T14:45:51.086277+00:00",
+ "generated_at": "2026-08-29T15:00:56.611406+00:00",
  "assets": [
   {
    "symbol": "NIL",
@@ -17,6 +17,14 @@
    "from_btc_pct": 1,
    "verdict": "Neutral",
    "file": "BFUSD.png"
+  },
+  {
+   "symbol": "ZKP",
+   "name": "zkPass",
+   "sigma": 2.57,
+   "from_btc_pct": 11,
+   "verdict": "Neutral",
+   "file": "ZKP.png"
   },
   {
    "symbol": "TWT",
