@@ -1,6 +1,6 @@
 {
  "date": "2026-08-29",
- "generated_at": "2026-08-29T18:15:49.650575+00:00",
+ "generated_at": "2026-08-29T18:45:48.055043+00:00",
  "assets": [
   {
    "symbol": "BAND",
@@ -25,14 +25,6 @@
    "from_btc_pct": 1,
    "verdict": "Neutral",
    "file": "BFUSD.png"
-  },
-  {
-   "symbol": "TWT",
-   "name": "Trust Wallet",
-   "sigma": 2.85,
-   "from_btc_pct": 8,
-   "verdict": "Overbought",
-   "file": "TWT.png"
   },
   {
    "symbol": "NIL",
@@ -73,6 +65,14 @@
    "from_btc_pct": 31,
    "verdict": "Strong Uptrend",
    "file": "DASH.png"
+  },
+  {
+   "symbol": "TWT",
+   "name": "Trust Wallet",
+   "sigma": 2.52,
+   "from_btc_pct": 9,
+   "verdict": "Overbought",
+   "file": "TWT.png"
   }
  ]
 }
