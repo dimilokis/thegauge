@@ -1,7 +1,15 @@
 {
  "date": "2026-08-29",
- "generated_at": "2026-08-29T09:15:46.999200+00:00",
+ "generated_at": "2026-08-29T13:30:55.855927+00:00",
  "assets": [
+  {
+   "symbol": "NIL",
+   "name": "Nillion",
+   "sigma": 3.02,
+   "from_btc_pct": 0,
+   "verdict": "Overbought",
+   "file": "NIL.png"
+  },
   {
    "symbol": "BFUSD",
    "name": "BFUSD",
@@ -9,6 +17,14 @@
    "from_btc_pct": 1,
    "verdict": "Neutral",
    "file": "BFUSD.png"
+  },
+  {
+   "symbol": "TWT",
+   "name": "Trust Wallet",
+   "sigma": 2.51,
+   "from_btc_pct": 8,
+   "verdict": "Overbought",
+   "file": "TWT.png"
   }
  ]
 }
