@@ -1,6 +1,6 @@
 {
  "date": "2026-08-29",
- "generated_at": "2026-08-29T22:15:50.090333+00:00",
+ "generated_at": "2026-08-29T22:30:54.751174+00:00",
  "assets": [
   {
    "symbol": "BROCCOLI714",
@@ -9,14 +9,6 @@
    "from_btc_pct": 0,
    "verdict": "Overbought",
    "file": "BROCCOLI714.png"
-  },
-  {
-   "symbol": "BAND",
-   "name": "Band",
-   "sigma": 2.92,
-   "from_btc_pct": 28,
-   "verdict": "Overbought",
-   "file": "BAND.png"
   },
   {
    "symbol": "ZKP",
@@ -73,6 +65,14 @@
    "from_btc_pct": 31,
    "verdict": "Strong Uptrend",
    "file": "DASH.png"
+  },
+  {
+   "symbol": "BAND",
+   "name": "Band",
+   "sigma": 2.55,
+   "from_btc_pct": 29,
+   "verdict": "Overbought",
+   "file": "BAND.png"
   }
  ]
 }
