@@ -1,6 +1,6 @@
 {
  "date": "2026-08-29",
- "generated_at": "2026-08-29T23:45:51.891781+00:00",
+ "generated_at": "2026-08-30T01:00:54.228393+00:00",
  "assets": [
   {
    "symbol": "BROCCOLI714",
@@ -13,9 +13,9 @@
   {
    "symbol": "ZKP",
    "name": "zkPass",
-   "sigma": 2.92,
-   "from_btc_pct": 11,
-   "verdict": "Neutral",
+   "sigma": 3.13,
+   "from_btc_pct": 7,
+   "verdict": "Overbought",
    "file": "ZKP.png"
   },
   {
