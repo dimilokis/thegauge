@@ -1,6 +1,6 @@
 {
  "date": "2026-08-30",
- "generated_at": "2026-08-30T13:17:02.835831+00:00",
+ "generated_at": "2026-08-30T14:15:51.424347+00:00",
  "assets": [
   {
    "symbol": "MAGIC",
@@ -17,14 +17,6 @@
    "from_btc_pct": 31,
    "verdict": "Neutral",
    "file": "AUCTION.png"
-  },
-  {
-   "symbol": "ZKP",
-   "name": "zkPass",
-   "sigma": 4.59,
-   "from_btc_pct": 4,
-   "verdict": "Overbought",
-   "file": "ZKP.png"
   },
   {
    "symbol": "TNSR",
@@ -65,6 +57,14 @@
    "from_btc_pct": 25,
    "verdict": "Overbought",
    "file": "EGLD.png"
+  },
+  {
+   "symbol": "ZKP",
+   "name": "zkPass",
+   "sigma": 2.57,
+   "from_btc_pct": 10,
+   "verdict": "Overbought",
+   "file": "ZKP.png"
   },
   {
    "symbol": "LISTA",
