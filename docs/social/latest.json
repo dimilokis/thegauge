@@ -1,6 +1,6 @@
 {
  "date": "2026-08-30",
- "generated_at": "2026-08-30T20:07:58.888547+00:00",
+ "generated_at": "2026-08-30T21:15:47.442853+00:00",
  "assets": [
   {
    "symbol": "MAGIC",
@@ -75,14 +75,6 @@
    "file": "ERA.png"
   },
   {
-   "symbol": "TNSR",
-   "name": "Tensor",
-   "sigma": 2.72,
-   "from_btc_pct": 17,
-   "verdict": "Overbought",
-   "file": "TNSR.png"
-  },
-  {
    "symbol": "EGLD",
    "name": "MultiversX",
    "sigma": 2.59,
@@ -97,6 +89,14 @@
    "from_btc_pct": 10,
    "verdict": "Overbought",
    "file": "LISTA.png"
+  },
+  {
+   "symbol": "TNSR",
+   "name": "Tensor",
+   "sigma": 2.51,
+   "from_btc_pct": 16,
+   "verdict": "Overbought",
+   "file": "TNSR.png"
   }
  ]
 }
