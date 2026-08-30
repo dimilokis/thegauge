@@ -1,6 +1,6 @@
 {
  "date": "2026-08-30",
- "generated_at": "2026-08-30T11:15:46.772569+00:00",
+ "generated_at": "2026-08-30T12:15:47.813732+00:00",
  "assets": [
   {
    "symbol": "MAGIC",
@@ -33,6 +33,14 @@
    "from_btc_pct": 40,
    "verdict": "Neutral",
    "file": "ZK.png"
+  },
+  {
+   "symbol": "EGLD",
+   "name": "MultiversX",
+   "sigma": 3.53,
+   "from_btc_pct": 22,
+   "verdict": "Overbought",
+   "file": "EGLD.png"
   },
   {
    "symbol": "ZKC",
