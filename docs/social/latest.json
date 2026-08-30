@@ -1,7 +1,15 @@
 {
  "date": "2026-08-30",
- "generated_at": "2026-08-30T09:45:46.443243+00:00",
+ "generated_at": "2026-08-30T11:15:46.772569+00:00",
  "assets": [
+  {
+   "symbol": "MAGIC",
+   "name": "Treasure",
+   "sigma": 7.91,
+   "from_btc_pct": 11,
+   "verdict": "Overbought",
+   "file": "MAGIC.png"
+  },
   {
    "symbol": "AUCTION",
    "name": "Bounce",
