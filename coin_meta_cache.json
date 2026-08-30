@@ -143,6 +143,10 @@
   "icon": "https://coin-images.coingecko.com/coins/images/1481/large/cosmos_hub.png?1696502525",
   "name": "Cosmos Hub"
  },
+ "AUCTION": {
+  "icon": "https://coin-images.coingecko.com/coins/images/13860/large/1_KtgpRIJzuwfHe0Rl0avP_g.jpeg",
+  "name": "Bounce"
+ },
  "AUDIO": {
   "icon": "https://coin-images.coingecko.com/coins/images/12913/large/audio-token-asset_2x.png?1747243328",
   "name": "Audius"
