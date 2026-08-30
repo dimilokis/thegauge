@@ -1,6 +1,6 @@
 {
  "date": "2026-08-30",
- "generated_at": "2026-08-30T14:15:51.424347+00:00",
+ "generated_at": "2026-08-30T14:30:55.553046+00:00",
  "assets": [
   {
    "symbol": "MAGIC",
@@ -51,10 +51,18 @@
    "file": "UNI.png"
   },
   {
+   "symbol": "BFUSD",
+   "name": "BFUSD",
+   "sigma": 2.74,
+   "from_btc_pct": 0,
+   "verdict": "Overbought",
+   "file": "BFUSD.png"
+  },
+  {
    "symbol": "EGLD",
    "name": "MultiversX",
-   "sigma": 2.57,
-   "from_btc_pct": 25,
+   "sigma": 2.59,
+   "from_btc_pct": 26,
    "verdict": "Overbought",
    "file": "EGLD.png"
   },
