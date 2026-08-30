@@ -1,6 +1,6 @@
 {
  "date": "2026-08-30",
- "generated_at": "2026-08-30T15:45:44.191950+00:00",
+ "generated_at": "2026-08-30T16:00:56.274093+00:00",
  "assets": [
   {
    "symbol": "MAGIC",
@@ -41,6 +41,14 @@
    "from_btc_pct": 25,
    "verdict": "Neutral",
    "file": "ZKC.png"
+  },
+  {
+   "symbol": "ERA",
+   "name": "Caldera",
+   "sigma": 3.18,
+   "from_btc_pct": 12,
+   "verdict": "Neutral",
+   "file": "ERA.png"
   },
   {
    "symbol": "UNI",
