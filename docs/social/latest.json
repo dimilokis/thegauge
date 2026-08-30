@@ -1,6 +1,6 @@
 {
  "date": "2026-08-30",
- "generated_at": "2026-08-30T16:00:56.274093+00:00",
+ "generated_at": "2026-08-30T16:15:45.350974+00:00",
  "assets": [
   {
    "symbol": "MAGIC",
@@ -53,8 +53,8 @@
   {
    "symbol": "UNI",
    "name": "Uniswap",
-   "sigma": 2.92,
-   "from_btc_pct": 35,
+   "sigma": 2.93,
+   "from_btc_pct": 37,
    "verdict": "Strong Uptrend",
    "file": "UNI.png"
   },
