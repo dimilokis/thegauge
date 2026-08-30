@@ -1,6 +1,6 @@
 {
  "date": "2026-08-30",
- "generated_at": "2026-08-30T13:00:54.156863+00:00",
+ "generated_at": "2026-08-30T13:15:49.873671+00:00",
  "assets": [
   {
    "symbol": "MAGIC",
@@ -25,6 +25,14 @@
    "from_btc_pct": 4,
    "verdict": "Overbought",
    "file": "ZKP.png"
+  },
+  {
+   "symbol": "TNSR",
+   "name": "Tensor",
+   "sigma": 3.94,
+   "from_btc_pct": 9,
+   "verdict": "Overbought",
+   "file": "TNSR.png"
   },
   {
    "symbol": "ZK",
