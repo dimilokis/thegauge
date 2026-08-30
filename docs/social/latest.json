@@ -1,78 +1,14 @@
 {
- "date": "2026-08-29",
- "generated_at": "2026-08-30T01:00:54.228393+00:00",
+ "date": "2026-08-30",
+ "generated_at": "2026-08-30T03:15:48.736683+00:00",
  "assets": [
   {
-   "symbol": "BROCCOLI714",
-   "name": null,
-   "sigma": 3.41,
-   "from_btc_pct": 0,
-   "verdict": "Overbought",
-   "file": "BROCCOLI714.png"
-  },
-  {
-   "symbol": "ZKP",
-   "name": "zkPass",
-   "sigma": 3.13,
-   "from_btc_pct": 7,
-   "verdict": "Overbought",
-   "file": "ZKP.png"
-  },
-  {
-   "symbol": "BFUSD",
-   "name": "BFUSD",
-   "sigma": 2.9,
-   "from_btc_pct": 1,
+   "symbol": "ZKC",
+   "name": "Boundless",
+   "sigma": 3.49,
+   "from_btc_pct": 25,
    "verdict": "Neutral",
-   "file": "BFUSD.png"
-  },
-  {
-   "symbol": "NIL",
-   "name": "Nillion",
-   "sigma": 2.72,
-   "from_btc_pct": 0,
-   "verdict": "Overbought",
-   "file": "NIL.png"
-  },
-  {
-   "symbol": "GIGGLE",
-   "name": "Giggle Fund",
-   "sigma": 2.67,
-   "from_btc_pct": 1,
-   "verdict": "Strong Uptrend",
-   "file": "GIGGLE.png"
-  },
-  {
-   "symbol": "TWT",
-   "name": "Trust Wallet",
-   "sigma": 2.64,
-   "from_btc_pct": 10,
-   "verdict": "Overbought",
-   "file": "TWT.png"
-  },
-  {
-   "symbol": "PROM",
-   "name": "Prom",
-   "sigma": 2.6,
-   "from_btc_pct": 4,
-   "verdict": "Overbought",
-   "file": "PROM.png"
-  },
-  {
-   "symbol": "DASH",
-   "name": "Dash",
-   "sigma": 2.57,
-   "from_btc_pct": 31,
-   "verdict": "Strong Uptrend",
-   "file": "DASH.png"
-  },
-  {
-   "symbol": "BAND",
-   "name": "Band",
-   "sigma": 2.55,
-   "from_btc_pct": 29,
-   "verdict": "Overbought",
-   "file": "BAND.png"
+   "file": "ZKC.png"
   }
  ]
 }
