@@ -1,6 +1,6 @@
 {
  "date": "2026-08-30",
- "generated_at": "2026-08-30T16:15:45.350974+00:00",
+ "generated_at": "2026-08-30T18:00:53.085385+00:00",
  "assets": [
   {
    "symbol": "MAGIC",
@@ -43,14 +43,6 @@
    "file": "ZKC.png"
   },
   {
-   "symbol": "ERA",
-   "name": "Caldera",
-   "sigma": 3.18,
-   "from_btc_pct": 12,
-   "verdict": "Neutral",
-   "file": "ERA.png"
-  },
-  {
    "symbol": "UNI",
    "name": "Uniswap",
    "sigma": 2.93,
@@ -73,6 +65,14 @@
    "from_btc_pct": 0,
    "verdict": "Overbought",
    "file": "BFUSD.png"
+  },
+  {
+   "symbol": "ERA",
+   "name": "Caldera",
+   "sigma": 2.74,
+   "from_btc_pct": 15,
+   "verdict": "Neutral",
+   "file": "ERA.png"
   },
   {
    "symbol": "TNSR",
