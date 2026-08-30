@@ -1,6 +1,6 @@
 {
  "date": "2026-08-30",
- "generated_at": "2026-08-30T08:45:50.182370+00:00",
+ "generated_at": "2026-08-30T09:45:46.443243+00:00",
  "assets": [
   {
    "symbol": "AUCTION",
@@ -9,6 +9,22 @@
    "from_btc_pct": 31,
    "verdict": "Neutral",
    "file": "AUCTION.png"
+  },
+  {
+   "symbol": "ZKP",
+   "name": "zkPass",
+   "sigma": 4.59,
+   "from_btc_pct": 4,
+   "verdict": "Overbought",
+   "file": "ZKP.png"
+  },
+  {
+   "symbol": "ZK",
+   "name": "ZKsync",
+   "sigma": 3.72,
+   "from_btc_pct": 40,
+   "verdict": "Neutral",
+   "file": "ZK.png"
   },
   {
    "symbol": "ZKC",
