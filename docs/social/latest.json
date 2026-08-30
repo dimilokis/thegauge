@@ -1,6 +1,6 @@
 {
  "date": "2026-08-30",
- "generated_at": "2026-08-30T19:15:46.126733+00:00",
+ "generated_at": "2026-08-30T19:30:55.728290+00:00",
  "assets": [
   {
    "symbol": "MAGIC",
@@ -11,20 +11,20 @@
    "file": "MAGIC.png"
   },
   {
+   "symbol": "ZK",
+   "name": "ZKsync",
+   "sigma": 6.12,
+   "from_btc_pct": 35,
+   "verdict": "Neutral",
+   "file": "ZK.png"
+  },
+  {
    "symbol": "AUCTION",
    "name": "Bounce",
    "sigma": 5.18,
    "from_btc_pct": 31,
    "verdict": "Neutral",
    "file": "AUCTION.png"
-  },
-  {
-   "symbol": "ZK",
-   "name": "ZKsync",
-   "sigma": 4.75,
-   "from_btc_pct": 40,
-   "verdict": "Neutral",
-   "file": "ZK.png"
   },
   {
    "symbol": "CAKE",
