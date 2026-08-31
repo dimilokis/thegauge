@@ -1,6 +1,6 @@
 {
  "date": "2026-08-31",
- "generated_at": "2026-08-31T03:15:46.644657+00:00",
+ "generated_at": "2026-08-31T03:30:52.768700+00:00",
  "assets": [
   {
    "symbol": "ANIME",
@@ -9,6 +9,14 @@
    "from_btc_pct": 38,
    "verdict": "Neutral",
    "file": "ANIME.png"
+  },
+  {
+   "symbol": "TREE",
+   "name": "Treehouse",
+   "sigma": 2.62,
+   "from_btc_pct": 27,
+   "verdict": "Neutral",
+   "file": "TREE.png"
   }
  ]
 }
