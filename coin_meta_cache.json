@@ -1075,6 +1075,10 @@
   "icon": "https://coin-images.coingecko.com/coins/images/3406/large/SNX.png?1696504103",
   "name": "Synthetix"
  },
+ "SNXXB": {
+  "icon": "https://coin-images.coingecko.com/coins/images/102174764/large/SNXXB.png",
+  "name": "Tradr 2X Long SNDK ETF (bStocks Tokenized Stock)"
+ },
  "SOL": {
   "icon": "https://coin-images.coingecko.com/coins/images/4128/large/solana.png?1718769756",
   "name": "Solana"
