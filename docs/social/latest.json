@@ -1,6 +1,6 @@
 {
  "date": "2026-08-31",
- "generated_at": "2026-08-31T15:03:39.151010+00:00",
+ "generated_at": "2026-08-31T15:30:53.534866+00:00",
  "assets": [
   {
    "symbol": "AXL",
@@ -9,14 +9,6 @@
    "from_btc_pct": 34,
    "verdict": "Overbought",
    "file": "AXL.png"
-  },
-  {
-   "symbol": "DOGS",
-   "name": "Dogs",
-   "sigma": 3.84,
-   "from_btc_pct": 32,
-   "verdict": "Neutral",
-   "file": "DOGS.png"
   },
   {
    "symbol": "ANIME",
@@ -57,6 +49,14 @@
    "from_btc_pct": 0,
    "verdict": "Overbought",
    "file": "ENSO.png"
+  },
+  {
+   "symbol": "DOGS",
+   "name": "Dogs",
+   "sigma": 2.79,
+   "from_btc_pct": 39,
+   "verdict": "Neutral",
+   "file": "DOGS.png"
   },
   {
    "symbol": "NOT",
