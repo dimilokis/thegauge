@@ -1,6 +1,6 @@
 {
  "date": "2026-08-31",
- "generated_at": "2026-08-31T14:15:54.191138+00:00",
+ "generated_at": "2026-08-31T14:30:56.830515+00:00",
  "assets": [
   {
    "symbol": "AXL",
@@ -9,6 +9,14 @@
    "from_btc_pct": 34,
    "verdict": "Overbought",
    "file": "AXL.png"
+  },
+  {
+   "symbol": "DOGS",
+   "name": "Dogs",
+   "sigma": 3.84,
+   "from_btc_pct": 32,
+   "verdict": "Neutral",
+   "file": "DOGS.png"
   },
   {
    "symbol": "SOMI",
@@ -27,6 +35,14 @@
    "file": "ZK.png"
   },
   {
+   "symbol": "ANIME",
+   "name": "Animecoin",
+   "sigma": 2.95,
+   "from_btc_pct": 39,
+   "verdict": "Neutral",
+   "file": "ANIME.png"
+  },
+  {
    "symbol": "0G",
    "name": "0G",
    "sigma": 2.94,
@@ -41,14 +57,6 @@
    "from_btc_pct": 0,
    "verdict": "Overbought",
    "file": "ENSO.png"
-  },
-  {
-   "symbol": "ANIME",
-   "name": "Animecoin",
-   "sigma": 2.78,
-   "from_btc_pct": 40,
-   "verdict": "Neutral",
-   "file": "ANIME.png"
   },
   {
    "symbol": "NOT",
