@@ -1,6 +1,6 @@
 {
  "date": "2026-08-31",
- "generated_at": "2026-08-31T07:30:47.776325+00:00",
+ "generated_at": "2026-08-31T08:15:50.387629+00:00",
  "assets": [
   {
    "symbol": "AXL",
@@ -19,6 +19,14 @@
    "file": "NOT.png"
   },
   {
+   "symbol": "ANIME",
+   "name": "Animecoin",
+   "sigma": 3.62,
+   "from_btc_pct": 37,
+   "verdict": "Neutral",
+   "file": "ANIME.png"
+  },
+  {
    "symbol": "ZK",
    "name": "ZKsync",
    "sigma": 3.23,
@@ -33,14 +41,6 @@
    "from_btc_pct": 12,
    "verdict": "Neutral",
    "file": "0G.png"
-  },
-  {
-   "symbol": "ANIME",
-   "name": "Animecoin",
-   "sigma": 2.78,
-   "from_btc_pct": 38,
-   "verdict": "Neutral",
-   "file": "ANIME.png"
   },
   {
    "symbol": "TREE",
