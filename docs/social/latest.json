@@ -1,12 +1,12 @@
 {
  "date": "2026-08-31",
- "generated_at": "2026-08-31T13:45:49.901549+00:00",
+ "generated_at": "2026-08-31T14:00:59.901373+00:00",
  "assets": [
   {
    "symbol": "AXL",
    "name": "Axelar",
-   "sigma": 5.03,
-   "from_btc_pct": 38,
+   "sigma": 5.56,
+   "from_btc_pct": 34,
    "verdict": "Overbought",
    "file": "AXL.png"
   },
