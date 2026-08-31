@@ -1,6 +1,6 @@
 {
  "date": "2026-08-31",
- "generated_at": "2026-08-31T14:00:59.901373+00:00",
+ "generated_at": "2026-08-31T14:15:54.191138+00:00",
  "assets": [
   {
    "symbol": "AXL",
@@ -73,6 +73,14 @@
    "from_btc_pct": 27,
    "verdict": "Neutral",
    "file": "MIRA.png"
+  },
+  {
+   "symbol": "POL",
+   "name": "POL (ex-MATIC)",
+   "sigma": 2.53,
+   "from_btc_pct": 9,
+   "verdict": "Neutral",
+   "file": "POL.png"
   }
  ]
 }
