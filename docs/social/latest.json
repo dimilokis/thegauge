@@ -1,6 +1,6 @@
 {
  "date": "2026-08-31",
- "generated_at": "2026-08-31T16:45:50.131597+00:00",
+ "generated_at": "2026-08-31T17:00:58.293933+00:00",
  "assets": [
   {
    "symbol": "AXL",
@@ -41,6 +41,14 @@
    "from_btc_pct": 29,
    "verdict": "Neutral",
    "file": "ZK.png"
+  },
+  {
+   "symbol": "TWT",
+   "name": "Trust Wallet",
+   "sigma": 3.1,
+   "from_btc_pct": 6,
+   "verdict": "Overbought",
+   "file": "TWT.png"
   },
   {
    "symbol": "0G",
@@ -89,14 +97,6 @@
    "from_btc_pct": 27,
    "verdict": "Neutral",
    "file": "MIRA.png"
-  },
-  {
-   "symbol": "POL",
-   "name": "POL (ex-MATIC)",
-   "sigma": 2.53,
-   "from_btc_pct": 9,
-   "verdict": "Neutral",
-   "file": "POL.png"
   }
  ]
 }
