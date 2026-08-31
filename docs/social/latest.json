@@ -1,6 +1,6 @@
 {
  "date": "2026-08-31",
- "generated_at": "2026-08-31T17:00:58.293933+00:00",
+ "generated_at": "2026-08-31T18:15:52.082301+00:00",
  "assets": [
   {
    "symbol": "AXL",
@@ -83,20 +83,20 @@
    "file": "NOT.png"
   },
   {
+   "symbol": "HUMA",
+   "name": "Huma Finance",
+   "sigma": 2.7,
+   "from_btc_pct": 15,
+   "verdict": "Neutral",
+   "file": "HUMA.png"
+  },
+  {
    "symbol": "TREE",
    "name": "Treehouse",
    "sigma": 2.62,
    "from_btc_pct": 26,
    "verdict": "Neutral",
    "file": "TREE.png"
-  },
-  {
-   "symbol": "MIRA",
-   "name": "Mira",
-   "sigma": 2.59,
-   "from_btc_pct": 27,
-   "verdict": "Neutral",
-   "file": "MIRA.png"
   }
  ]
 }
