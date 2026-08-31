@@ -1,6 +1,6 @@
 {
  "date": "2026-08-31",
- "generated_at": "2026-08-31T03:45:51.397009+00:00",
+ "generated_at": "2026-08-31T04:45:52.339481+00:00",
  "assets": [
   {
    "symbol": "AXL",
@@ -9,6 +9,14 @@
    "from_btc_pct": 26,
    "verdict": "Overbought",
    "file": "AXL.png"
+  },
+  {
+   "symbol": "ZK",
+   "name": "ZKsync",
+   "sigma": 3.23,
+   "from_btc_pct": 29,
+   "verdict": "Neutral",
+   "file": "ZK.png"
   },
   {
    "symbol": "0G",
