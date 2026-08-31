@@ -1,6 +1,6 @@
 {
  "date": "2026-08-30",
- "generated_at": "2026-08-31T00:30:53.841824+00:00",
+ "generated_at": "2026-08-31T02:45:46.235621+00:00",
  "assets": [
   {
    "symbol": "MAGIC",
@@ -9,14 +9,6 @@
    "from_btc_pct": 11,
    "verdict": "Overbought",
    "file": "MAGIC.png"
-  },
-  {
-   "symbol": "ANIME",
-   "name": "Animecoin",
-   "sigma": 7.15,
-   "from_btc_pct": 21,
-   "verdict": "Overbought",
-   "file": "ANIME.png"
   },
   {
    "symbol": "AUCTION",
@@ -49,6 +41,14 @@
    "from_btc_pct": 25,
    "verdict": "Neutral",
    "file": "ZKC.png"
+  },
+  {
+   "symbol": "ANIME",
+   "name": "Animecoin",
+   "sigma": 2.95,
+   "from_btc_pct": 37,
+   "verdict": "Neutral",
+   "file": "ANIME.png"
   },
   {
    "symbol": "UNI",
