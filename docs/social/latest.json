@@ -1,6 +1,6 @@
 {
  "date": "2026-08-31",
- "generated_at": "2026-08-31T05:45:48.323012+00:00",
+ "generated_at": "2026-08-31T06:15:48.174365+00:00",
  "assets": [
   {
    "symbol": "AXL",
@@ -9,6 +9,14 @@
    "from_btc_pct": 26,
    "verdict": "Overbought",
    "file": "AXL.png"
+  },
+  {
+   "symbol": "NOT",
+   "name": "Notcoin",
+   "sigma": 4.66,
+   "from_btc_pct": 19,
+   "verdict": "Overbought",
+   "file": "NOT.png"
   },
   {
    "symbol": "MIRA",
