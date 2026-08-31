@@ -1,6 +1,6 @@
 {
  "date": "2026-08-31",
- "generated_at": "2026-08-31T11:45:55.511701+00:00",
+ "generated_at": "2026-08-31T12:01:01.712379+00:00",
  "assets": [
   {
    "symbol": "AXL",
@@ -13,7 +13,7 @@
   {
    "symbol": "ANIME",
    "name": "Animecoin",
-   "sigma": 3.62,
+   "sigma": 3.79,
    "from_btc_pct": 37,
    "verdict": "Neutral",
    "file": "ANIME.png"
