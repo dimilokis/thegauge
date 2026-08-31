@@ -1,6 +1,6 @@
 {
  "date": "2026-08-30",
- "generated_at": "2026-08-30T23:45:52.974345+00:00",
+ "generated_at": "2026-08-31T00:30:53.841824+00:00",
  "assets": [
   {
    "symbol": "MAGIC",
@@ -9,6 +9,14 @@
    "from_btc_pct": 11,
    "verdict": "Overbought",
    "file": "MAGIC.png"
+  },
+  {
+   "symbol": "ANIME",
+   "name": "Animecoin",
+   "sigma": 7.15,
+   "from_btc_pct": 21,
+   "verdict": "Overbought",
+   "file": "ANIME.png"
   },
   {
    "symbol": "AUCTION",
@@ -89,14 +97,6 @@
    "from_btc_pct": 9,
    "verdict": "Neutral",
    "file": "ERA.png"
-  },
-  {
-   "symbol": "LISTA",
-   "name": "Lista DAO",
-   "sigma": 2.53,
-   "from_btc_pct": 10,
-   "verdict": "Overbought",
-   "file": "LISTA.png"
   }
  ]
 }
