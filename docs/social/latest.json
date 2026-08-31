@@ -1,6 +1,6 @@
 {
  "date": "2026-08-31",
- "generated_at": "2026-08-31T04:45:52.339481+00:00",
+ "generated_at": "2026-08-31T05:00:56.831325+00:00",
  "assets": [
   {
    "symbol": "AXL",
@@ -38,7 +38,7 @@
    "symbol": "TREE",
    "name": "Treehouse",
    "sigma": 2.62,
-   "from_btc_pct": 27,
+   "from_btc_pct": 26,
    "verdict": "Neutral",
    "file": "TREE.png"
   }
