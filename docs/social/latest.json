@@ -1,6 +1,6 @@
 {
  "date": "2026-08-31",
- "generated_at": "2026-08-31T12:01:01.712379+00:00",
+ "generated_at": "2026-08-31T12:30:53.096834+00:00",
  "assets": [
   {
    "symbol": "AXL",
@@ -17,6 +17,14 @@
    "from_btc_pct": 37,
    "verdict": "Neutral",
    "file": "ANIME.png"
+  },
+  {
+   "symbol": "SOMI",
+   "name": "Somnia",
+   "sigma": 3.33,
+   "from_btc_pct": 17,
+   "verdict": "Overbought",
+   "file": "SOMI.png"
   },
   {
    "symbol": "ZK",
