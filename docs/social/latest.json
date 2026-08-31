@@ -1,6 +1,6 @@
 {
  "date": "2026-08-31",
- "generated_at": "2026-08-31T07:15:52.727096+00:00",
+ "generated_at": "2026-08-31T07:30:47.776325+00:00",
  "assets": [
   {
    "symbol": "AXL",
@@ -17,14 +17,6 @@
    "from_btc_pct": 19,
    "verdict": "Overbought",
    "file": "NOT.png"
-  },
-  {
-   "symbol": "MIRA",
-   "name": "Mira",
-   "sigma": 3.55,
-   "from_btc_pct": 22,
-   "verdict": "Neutral",
-   "file": "MIRA.png"
   },
   {
    "symbol": "ZK",
@@ -57,6 +49,14 @@
    "from_btc_pct": 26,
    "verdict": "Neutral",
    "file": "TREE.png"
+  },
+  {
+   "symbol": "MIRA",
+   "name": "Mira",
+   "sigma": 2.59,
+   "from_btc_pct": 27,
+   "verdict": "Neutral",
+   "file": "MIRA.png"
   }
  ]
 }
