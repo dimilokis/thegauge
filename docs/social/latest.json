@@ -1,7 +1,23 @@
 {
  "date": "2026-08-31",
- "generated_at": "2026-08-31T03:30:52.768700+00:00",
+ "generated_at": "2026-08-31T03:45:51.397009+00:00",
  "assets": [
+  {
+   "symbol": "AXL",
+   "name": "Axelar",
+   "sigma": 7.26,
+   "from_btc_pct": 26,
+   "verdict": "Overbought",
+   "file": "AXL.png"
+  },
+  {
+   "symbol": "0G",
+   "name": "0G",
+   "sigma": 2.94,
+   "from_btc_pct": 12,
+   "verdict": "Neutral",
+   "file": "0G.png"
+  },
   {
    "symbol": "ANIME",
    "name": "Animecoin",
