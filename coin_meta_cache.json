@@ -103,6 +103,10 @@
   "icon": "https://coin-images.coingecko.com/coins/images/12409/large/amp-200x200.png?1696512231",
   "name": "Amp"
  },
+ "ANIME": {
+  "icon": "https://coin-images.coingecko.com/coins/images/53575/large/anime.jpg",
+  "name": "Animecoin"
+ },
  "ANKR": {
   "icon": "https://coin-images.coingecko.com/coins/images/4324/large/Ankr_Blue_Symbol.png?1754623142",
   "name": "Ankr Network"
