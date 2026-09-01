@@ -1,6 +1,6 @@
 {
  "date": "2026-09-01",
- "generated_at": "2026-09-01T18:45:49.587482+00:00",
+ "generated_at": "2026-09-01T19:30:48.620652+00:00",
  "assets": [
   {
    "symbol": "IQ",
@@ -43,6 +43,14 @@
    "file": "UNI.png"
   },
   {
+   "symbol": "AR",
+   "name": "Arweave",
+   "sigma": 2.73,
+   "from_btc_pct": 36,
+   "verdict": "Overbought",
+   "file": "AR.png"
+  },
+  {
    "symbol": "TRX",
    "name": "TRON",
    "sigma": 2.66,
@@ -65,14 +73,6 @@
    "from_btc_pct": 26,
    "verdict": "Neutral",
    "file": "SOMI.png"
-  },
-  {
-   "symbol": "AR",
-   "name": "Arweave",
-   "sigma": 2.54,
-   "from_btc_pct": 37,
-   "verdict": "Overbought",
-   "file": "AR.png"
   }
  ]
 }
