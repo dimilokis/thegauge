@@ -1,6 +1,6 @@
 {
  "date": "2026-09-01",
- "generated_at": "2026-09-01T16:01:00.209178+00:00",
+ "generated_at": "2026-09-01T17:30:55.131048+00:00",
  "assets": [
   {
    "symbol": "IQ",
@@ -17,6 +17,14 @@
    "from_btc_pct": 2,
    "verdict": "Overbought",
    "file": "SC.png"
+  },
+  {
+   "symbol": "FIL",
+   "name": "Filecoin",
+   "sigma": 4.47,
+   "from_btc_pct": 28,
+   "verdict": "Neutral",
+   "file": "FIL.png"
   },
   {
    "symbol": "FF",
