@@ -1,6 +1,6 @@
 {
  "date": "2026-09-01",
- "generated_at": "2026-09-01T19:45:53.186428+00:00",
+ "generated_at": "2026-09-01T20:30:55.752016+00:00",
  "assets": [
   {
    "symbol": "IQ",
@@ -45,8 +45,8 @@
   {
    "symbol": "AR",
    "name": "Arweave",
-   "sigma": 2.73,
-   "from_btc_pct": 36,
+   "sigma": 2.69,
+   "from_btc_pct": 37,
    "verdict": "Overbought",
    "file": "AR.png"
   },
