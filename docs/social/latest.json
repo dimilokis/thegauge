@@ -1,6 +1,6 @@
 {
  "date": "2026-09-01",
- "generated_at": "2026-09-01T04:00:57.870514+00:00",
+ "generated_at": "2026-09-01T06:30:52.865110+00:00",
  "assets": [
   {
    "symbol": "SC",
@@ -9,6 +9,14 @@
    "from_btc_pct": 2,
    "verdict": "Overbought",
    "file": "SC.png"
+  },
+  {
+   "symbol": "UNI",
+   "name": "Uniswap",
+   "sigma": 2.95,
+   "from_btc_pct": 26,
+   "verdict": "Strong Uptrend",
+   "file": "UNI.png"
   }
  ]
 }
