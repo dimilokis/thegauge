@@ -1,6 +1,6 @@
 {
  "date": "2026-09-01",
- "generated_at": "2026-09-01T13:45:53.745187+00:00",
+ "generated_at": "2026-09-01T15:45:52.132653+00:00",
  "assets": [
   {
    "symbol": "IQ",
@@ -33,6 +33,14 @@
    "from_btc_pct": 23,
    "verdict": "Strong Uptrend",
    "file": "UNI.png"
+  },
+  {
+   "symbol": "TRX",
+   "name": "TRON",
+   "sigma": 2.66,
+   "from_btc_pct": 12,
+   "verdict": "Neutral",
+   "file": "TRX.png"
   }
  ]
 }
