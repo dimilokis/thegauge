@@ -1,6 +1,6 @@
 {
  "date": "2026-09-01",
- "generated_at": "2026-09-01T18:00:58.206612+00:00",
+ "generated_at": "2026-09-01T18:45:49.587482+00:00",
  "assets": [
   {
    "symbol": "IQ",
@@ -57,6 +57,14 @@
    "from_btc_pct": 4,
    "verdict": "Strong Uptrend",
    "file": "CHIP.png"
+  },
+  {
+   "symbol": "SOMI",
+   "name": "Somnia",
+   "sigma": 2.58,
+   "from_btc_pct": 26,
+   "verdict": "Neutral",
+   "file": "SOMI.png"
   },
   {
    "symbol": "AR",
