@@ -1,6 +1,6 @@
 {
  "date": "2026-09-01",
- "generated_at": "2026-09-01T19:30:48.620652+00:00",
+ "generated_at": "2026-09-01T19:45:53.186428+00:00",
  "assets": [
   {
    "symbol": "IQ",
@@ -59,20 +59,20 @@
    "file": "TRX.png"
   },
   {
-   "symbol": "CHIP",
-   "name": "USD.AI",
-   "sigma": 2.62,
-   "from_btc_pct": 4,
-   "verdict": "Strong Uptrend",
-   "file": "CHIP.png"
-  },
-  {
    "symbol": "SOMI",
    "name": "Somnia",
    "sigma": 2.58,
    "from_btc_pct": 26,
    "verdict": "Neutral",
    "file": "SOMI.png"
+  },
+  {
+   "symbol": "CHIP",
+   "name": "USD.AI",
+   "sigma": 2.55,
+   "from_btc_pct": 3,
+   "verdict": "Strong Uptrend",
+   "file": "CHIP.png"
   }
  ]
 }
