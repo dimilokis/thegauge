@@ -1,6 +1,6 @@
 {
  "date": "2026-09-01",
- "generated_at": "2026-09-01T20:30:55.752016+00:00",
+ "generated_at": "2026-09-01T22:45:49.313094+00:00",
  "assets": [
   {
    "symbol": "IQ",
@@ -59,12 +59,12 @@
    "file": "TRX.png"
   },
   {
-   "symbol": "SOMI",
-   "name": "Somnia",
-   "sigma": 2.58,
-   "from_btc_pct": 26,
-   "verdict": "Neutral",
-   "file": "SOMI.png"
+   "symbol": "RED",
+   "name": "RedStone",
+   "sigma": 2.66,
+   "from_btc_pct": 28,
+   "verdict": "Overbought",
+   "file": "RED.png"
   },
   {
    "symbol": "CHIP",
@@ -73,6 +73,14 @@
    "from_btc_pct": 3,
    "verdict": "Strong Uptrend",
    "file": "CHIP.png"
+  },
+  {
+   "symbol": "SOMI",
+   "name": "Somnia",
+   "sigma": 2.52,
+   "from_btc_pct": 23,
+   "verdict": "Neutral",
+   "file": "SOMI.png"
   }
  ]
 }
