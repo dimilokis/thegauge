@@ -551,6 +551,10 @@
   "icon": "https://coin-images.coingecko.com/coins/images/54873/large/defi-app.png?1742235743",
   "name": "HOME"
  },
+ "HOODB": {
+  "icon": "https://coin-images.coingecko.com/coins/images/102174591/large/hoodb-bstocks.png",
+  "name": "Robinhood (bStocks Tokenized Stock)"
+ },
  "HOT": {
   "icon": "https://coin-images.coingecko.com/coins/images/3348/large/hot-mark-med.png?1747766692",
   "name": "Holo"
