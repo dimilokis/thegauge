@@ -1,6 +1,6 @@
 {
  "date": "2026-09-01",
- "generated_at": "2026-09-01T22:45:49.313094+00:00",
+ "generated_at": "2026-09-01T23:00:56.005953+00:00",
  "assets": [
   {
    "symbol": "IQ",
@@ -35,14 +35,6 @@
    "file": "FF.png"
   },
   {
-   "symbol": "UNI",
-   "name": "Uniswap",
-   "sigma": 2.84,
-   "from_btc_pct": 23,
-   "verdict": "Strong Uptrend",
-   "file": "UNI.png"
-  },
-  {
    "symbol": "AR",
    "name": "Arweave",
    "sigma": 2.69,
@@ -73,6 +65,14 @@
    "from_btc_pct": 3,
    "verdict": "Strong Uptrend",
    "file": "CHIP.png"
+  },
+  {
+   "symbol": "UNI",
+   "name": "Uniswap",
+   "sigma": 2.53,
+   "from_btc_pct": 20,
+   "verdict": "Strong Uptrend",
+   "file": "UNI.png"
   },
   {
    "symbol": "SOMI",
