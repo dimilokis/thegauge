@@ -1,6 +1,6 @@
 {
  "date": "2026-09-01",
- "generated_at": "2026-09-01T13:15:50.798320+00:00",
+ "generated_at": "2026-09-01T13:45:53.745187+00:00",
  "assets": [
   {
    "symbol": "IQ",
@@ -19,20 +19,20 @@
    "file": "SC.png"
   },
   {
+   "symbol": "FF",
+   "name": "Falcon Finance",
+   "sigma": 2.92,
+   "from_btc_pct": 1,
+   "verdict": "Overbought",
+   "file": "FF.png"
+  },
+  {
    "symbol": "UNI",
    "name": "Uniswap",
    "sigma": 2.84,
    "from_btc_pct": 23,
    "verdict": "Strong Uptrend",
    "file": "UNI.png"
-  },
-  {
-   "symbol": "FF",
-   "name": "Falcon Finance",
-   "sigma": 2.74,
-   "from_btc_pct": 1,
-   "verdict": "Overbought",
-   "file": "FF.png"
   }
  ]
 }
