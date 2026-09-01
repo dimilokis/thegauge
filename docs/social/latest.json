@@ -1,6 +1,6 @@
 {
  "date": "2026-09-01",
- "generated_at": "2026-09-01T07:30:52.364892+00:00",
+ "generated_at": "2026-09-01T08:00:53.852553+00:00",
  "assets": [
   {
    "symbol": "SC",
@@ -13,8 +13,8 @@
   {
    "symbol": "UNI",
    "name": "Uniswap",
-   "sigma": 2.55,
-   "from_btc_pct": 27,
+   "sigma": 2.53,
+   "from_btc_pct": 26,
    "verdict": "Strong Uptrend",
    "file": "UNI.png"
   }
