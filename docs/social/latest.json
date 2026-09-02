@@ -1,6 +1,6 @@
 {
  "date": "2026-09-02",
- "generated_at": "2026-09-02T14:45:50.991846+00:00",
+ "generated_at": "2026-09-02T15:01:26.749961+00:00",
  "assets": [
   {
    "symbol": "T",
@@ -9,6 +9,14 @@
    "from_btc_pct": 17,
    "verdict": "Overbought",
    "file": "T.png"
+  },
+  {
+   "symbol": "EGLD",
+   "name": "MultiversX",
+   "sigma": 4.01,
+   "from_btc_pct": 13,
+   "verdict": "Overbought",
+   "file": "EGLD.png"
   },
   {
    "symbol": "SOPH",
