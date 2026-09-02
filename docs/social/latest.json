@@ -1,6 +1,6 @@
 {
  "date": "2026-09-02",
- "generated_at": "2026-09-02T19:00:58.724362+00:00",
+ "generated_at": "2026-09-02T19:15:48.688481+00:00",
  "assets": [
   {
    "symbol": "T",
@@ -81,6 +81,14 @@
    "from_btc_pct": 0,
    "verdict": "Oversold",
    "file": "ROBO.png"
+  },
+  {
+   "symbol": "ARB",
+   "name": "Arbitrum",
+   "sigma": 2.54,
+   "from_btc_pct": 19,
+   "verdict": "Strong Uptrend",
+   "file": "ARB.png"
   },
   {
    "symbol": "MUBARAK",
