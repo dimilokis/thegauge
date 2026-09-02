@@ -1,6 +1,6 @@
 {
  "date": "2026-09-02",
- "generated_at": "2026-09-02T12:15:47.692428+00:00",
+ "generated_at": "2026-09-02T12:30:54.467289+00:00",
  "assets": [
   {
    "symbol": "SOPH",
@@ -27,6 +27,14 @@
    "file": "LA.png"
   },
   {
+   "symbol": "KITE",
+   "name": "Kite",
+   "sigma": 3.29,
+   "from_btc_pct": 9,
+   "verdict": "Neutral",
+   "file": "KITE.png"
+  },
+  {
    "symbol": "FF",
    "name": "Falcon Finance",
    "sigma": 3.03,
@@ -35,12 +43,12 @@
    "file": "FF.png"
   },
   {
-   "symbol": "KITE",
-   "name": "Kite",
-   "sigma": 2.67,
-   "from_btc_pct": 10,
+   "symbol": "MIRA",
+   "name": "Mira",
+   "sigma": 2.58,
+   "from_btc_pct": 25,
    "verdict": "Neutral",
-   "file": "KITE.png"
+   "file": "MIRA.png"
   }
  ]
 }
