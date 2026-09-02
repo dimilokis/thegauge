@@ -1,6 +1,6 @@
 {
  "date": "2026-09-02",
- "generated_at": "2026-09-02T08:00:54.837821+00:00",
+ "generated_at": "2026-09-02T08:45:48.238447+00:00",
  "assets": [
   {
    "symbol": "T",
@@ -13,8 +13,8 @@
   {
    "symbol": "KITE",
    "name": "Kite",
-   "sigma": 2.64,
-   "from_btc_pct": 11,
+   "sigma": 2.67,
+   "from_btc_pct": 10,
    "verdict": "Neutral",
    "file": "KITE.png"
   }
