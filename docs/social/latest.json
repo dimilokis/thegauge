@@ -1,6 +1,6 @@
 {
  "date": "2026-09-02",
- "generated_at": "2026-09-02T15:46:01.570006+00:00",
+ "generated_at": "2026-09-02T16:01:02.595551+00:00",
  "assets": [
   {
    "symbol": "T",
@@ -49,6 +49,14 @@
    "from_btc_pct": 1,
    "verdict": "Overbought",
    "file": "MUBARAK.png"
+  },
+  {
+   "symbol": "PYTH",
+   "name": "Pyth Network",
+   "sigma": 2.9,
+   "from_btc_pct": 20,
+   "verdict": "Overbought",
+   "file": "PYTH.png"
   },
   {
    "symbol": "LA",
