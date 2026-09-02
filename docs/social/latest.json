@@ -1,7 +1,15 @@
 {
  "date": "2026-09-02",
- "generated_at": "2026-09-02T11:00:54.108198+00:00",
+ "generated_at": "2026-09-02T12:15:47.692428+00:00",
  "assets": [
+  {
+   "symbol": "SOPH",
+   "name": "Sophon",
+   "sigma": 4.27,
+   "from_btc_pct": 6,
+   "verdict": "Neutral",
+   "file": "SOPH.png"
+  },
   {
    "symbol": "T",
    "name": "Threshold Network",
