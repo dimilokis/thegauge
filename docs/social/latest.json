@@ -1,6 +1,6 @@
 {
  "date": "2026-09-02",
- "generated_at": "2026-09-02T20:30:55.909056+00:00",
+ "generated_at": "2026-09-02T20:45:50.456225+00:00",
  "assets": [
   {
    "symbol": "T",
@@ -41,6 +41,14 @@
    "from_btc_pct": 0,
    "verdict": "Overbought",
    "file": "FF.png"
+  },
+  {
+   "symbol": "ASTER",
+   "name": "Aster",
+   "sigma": 2.91,
+   "from_btc_pct": 36,
+   "verdict": "Strong Uptrend",
+   "file": "ASTER.png"
   },
   {
    "symbol": "LA",
@@ -89,14 +97,6 @@
    "from_btc_pct": 19,
    "verdict": "Strong Uptrend",
    "file": "ARB.png"
-  },
-  {
-   "symbol": "MUBARAK",
-   "name": "Mubarak",
-   "sigma": 2.53,
-   "from_btc_pct": 1,
-   "verdict": "Overbought",
-   "file": "MUBARAK.png"
   }
  ]
 }
