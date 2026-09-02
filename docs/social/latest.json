@@ -1,6 +1,6 @@
 {
  "date": "2026-09-02",
- "generated_at": "2026-09-02T16:15:46.454993+00:00",
+ "generated_at": "2026-09-02T18:01:00.493723+00:00",
  "assets": [
   {
    "symbol": "T",
@@ -51,14 +51,6 @@
    "file": "MUBARAK.png"
   },
   {
-   "symbol": "PYTH",
-   "name": "Pyth Network",
-   "sigma": 2.9,
-   "from_btc_pct": 20,
-   "verdict": "Overbought",
-   "file": "PYTH.png"
-  },
-  {
    "symbol": "LA",
    "name": "Lagrange",
    "sigma": 2.69,
@@ -81,6 +73,14 @@
    "from_btc_pct": 25,
    "verdict": "Neutral",
    "file": "MIRA.png"
+  },
+  {
+   "symbol": "PYTH",
+   "name": "Pyth Network",
+   "sigma": 2.58,
+   "from_btc_pct": 21,
+   "verdict": "Overbought",
+   "file": "PYTH.png"
   }
  ]
 }
