@@ -1,6 +1,6 @@
 {
  "date": "2026-09-02",
- "generated_at": "2026-09-02T18:01:00.493723+00:00",
+ "generated_at": "2026-09-02T18:45:45.326750+00:00",
  "assets": [
   {
    "symbol": "T",
@@ -59,6 +59,14 @@
    "file": "LA.png"
   },
   {
+   "symbol": "PYTH",
+   "name": "Pyth Network",
+   "sigma": 2.69,
+   "from_btc_pct": 21,
+   "verdict": "Overbought",
+   "file": "PYTH.png"
+  },
+  {
    "symbol": "KITE",
    "name": "Kite",
    "sigma": 2.61,
@@ -73,14 +81,6 @@
    "from_btc_pct": 25,
    "verdict": "Neutral",
    "file": "MIRA.png"
-  },
-  {
-   "symbol": "PYTH",
-   "name": "Pyth Network",
-   "sigma": 2.58,
-   "from_btc_pct": 21,
-   "verdict": "Overbought",
-   "file": "PYTH.png"
   }
  ]
 }
