@@ -1,6 +1,6 @@
 {
  "date": "2026-09-02",
- "generated_at": "2026-09-02T10:30:55.350969+00:00",
+ "generated_at": "2026-09-02T11:00:54.108198+00:00",
  "assets": [
   {
    "symbol": "T",
@@ -17,6 +17,14 @@
    "from_btc_pct": 6,
    "verdict": "Overbought",
    "file": "LA.png"
+  },
+  {
+   "symbol": "FF",
+   "name": "Falcon Finance",
+   "sigma": 3.03,
+   "from_btc_pct": 0,
+   "verdict": "Overbought",
+   "file": "FF.png"
   },
   {
    "symbol": "KITE",
