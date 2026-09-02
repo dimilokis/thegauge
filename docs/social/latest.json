@@ -1,6 +1,6 @@
 {
  "date": "2026-09-02",
- "generated_at": "2026-09-02T08:45:48.238447+00:00",
+ "generated_at": "2026-09-02T10:30:55.350969+00:00",
  "assets": [
   {
    "symbol": "T",
@@ -9,6 +9,14 @@
    "from_btc_pct": 17,
    "verdict": "Overbought",
    "file": "T.png"
+  },
+  {
+   "symbol": "LA",
+   "name": "Lagrange",
+   "sigma": 3.5,
+   "from_btc_pct": 6,
+   "verdict": "Overbought",
+   "file": "LA.png"
   },
   {
    "symbol": "KITE",
