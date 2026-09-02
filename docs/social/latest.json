@@ -1,6 +1,6 @@
 {
  "date": "2026-09-02",
- "generated_at": "2026-09-02T12:30:54.467289+00:00",
+ "generated_at": "2026-09-02T13:45:54.294846+00:00",
  "assets": [
   {
    "symbol": "SOPH",
@@ -33,6 +33,14 @@
    "from_btc_pct": 9,
    "verdict": "Neutral",
    "file": "KITE.png"
+  },
+  {
+   "symbol": "SYRUP",
+   "name": "Maple Finance",
+   "sigma": 3.13,
+   "from_btc_pct": 36,
+   "verdict": "Overbought",
+   "file": "SYRUP.png"
   },
   {
    "symbol": "FF",
