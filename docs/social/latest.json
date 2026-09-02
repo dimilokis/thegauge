@@ -1,6 +1,6 @@
 {
  "date": "2026-09-02",
- "generated_at": "2026-09-02T18:45:45.326750+00:00",
+ "generated_at": "2026-09-02T19:00:58.724362+00:00",
  "assets": [
   {
    "symbol": "T",
@@ -43,14 +43,6 @@
    "file": "FF.png"
   },
   {
-   "symbol": "MUBARAK",
-   "name": "Mubarak",
-   "sigma": 2.99,
-   "from_btc_pct": 1,
-   "verdict": "Overbought",
-   "file": "MUBARAK.png"
-  },
-  {
    "symbol": "LA",
    "name": "Lagrange",
    "sigma": 2.69,
@@ -81,6 +73,22 @@
    "from_btc_pct": 25,
    "verdict": "Neutral",
    "file": "MIRA.png"
+  },
+  {
+   "symbol": "ROBO",
+   "name": "Fabric Protocol",
+   "sigma": 2.54,
+   "from_btc_pct": 0,
+   "verdict": "Oversold",
+   "file": "ROBO.png"
+  },
+  {
+   "symbol": "MUBARAK",
+   "name": "Mubarak",
+   "sigma": 2.53,
+   "from_btc_pct": 1,
+   "verdict": "Overbought",
+   "file": "MUBARAK.png"
   }
  ]
 }
