@@ -1,6 +1,6 @@
 {
  "date": "2026-09-02",
- "generated_at": "2026-09-02T06:30:54.899268+00:00",
+ "generated_at": "2026-09-02T08:00:54.837821+00:00",
  "assets": [
   {
    "symbol": "T",
@@ -9,6 +9,14 @@
    "from_btc_pct": 17,
    "verdict": "Overbought",
    "file": "T.png"
+  },
+  {
+   "symbol": "KITE",
+   "name": "Kite",
+   "sigma": 2.64,
+   "from_btc_pct": 11,
+   "verdict": "Neutral",
+   "file": "KITE.png"
   }
  ]
 }
