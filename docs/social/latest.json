@@ -1,102 +1,14 @@
 {
- "date": "2026-09-01",
- "generated_at": "2026-09-02T02:30:56.160567+00:00",
+ "date": "2026-09-02",
+ "generated_at": "2026-09-02T06:30:54.899268+00:00",
  "assets": [
   {
-   "symbol": "IQ",
-   "name": "IQ",
-   "sigma": 21.08,
-   "from_btc_pct": 2,
+   "symbol": "T",
+   "name": "Threshold Network",
+   "sigma": 4.12,
+   "from_btc_pct": 17,
    "verdict": "Overbought",
-   "file": "IQ.png"
-  },
-  {
-   "symbol": "SC",
-   "name": "Siacoin",
-   "sigma": 7.88,
-   "from_btc_pct": 2,
-   "verdict": "Overbought",
-   "file": "SC.png"
-  },
-  {
-   "symbol": "HEMI",
-   "name": "Hemi",
-   "sigma": 5.31,
-   "from_btc_pct": 4,
-   "verdict": "Overbought",
-   "file": "HEMI.png"
-  },
-  {
-   "symbol": "FIL",
-   "name": "Filecoin",
-   "sigma": 4.47,
-   "from_btc_pct": 28,
-   "verdict": "Neutral",
-   "file": "FIL.png"
-  },
-  {
-   "symbol": "LA",
-   "name": "Lagrange",
-   "sigma": 2.99,
-   "from_btc_pct": 7,
-   "verdict": "Overbought",
-   "file": "LA.png"
-  },
-  {
-   "symbol": "FF",
-   "name": "Falcon Finance",
-   "sigma": 2.92,
-   "from_btc_pct": 1,
-   "verdict": "Overbought",
-   "file": "FF.png"
-  },
-  {
-   "symbol": "CHIP",
-   "name": "USD.AI",
-   "sigma": 2.82,
-   "from_btc_pct": 3,
-   "verdict": "Strong Uptrend",
-   "file": "CHIP.png"
-  },
-  {
-   "symbol": "AR",
-   "name": "Arweave",
-   "sigma": 2.69,
-   "from_btc_pct": 37,
-   "verdict": "Overbought",
-   "file": "AR.png"
-  },
-  {
-   "symbol": "TRX",
-   "name": "TRON",
-   "sigma": 2.66,
-   "from_btc_pct": 12,
-   "verdict": "Neutral",
-   "file": "TRX.png"
-  },
-  {
-   "symbol": "RED",
-   "name": "RedStone",
-   "sigma": 2.66,
-   "from_btc_pct": 28,
-   "verdict": "Overbought",
-   "file": "RED.png"
-  },
-  {
-   "symbol": "UNI",
-   "name": "Uniswap",
-   "sigma": 2.53,
-   "from_btc_pct": 20,
-   "verdict": "Strong Uptrend",
-   "file": "UNI.png"
-  },
-  {
-   "symbol": "SOMI",
-   "name": "Somnia",
-   "sigma": 2.52,
-   "from_btc_pct": 23,
-   "verdict": "Neutral",
-   "file": "SOMI.png"
+   "file": "T.png"
   }
  ]
 }
