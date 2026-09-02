@@ -1,6 +1,6 @@
 {
  "date": "2026-09-02",
- "generated_at": "2026-09-02T21:00:57.681509+00:00",
+ "generated_at": "2026-09-02T21:15:52.679112+00:00",
  "assets": [
   {
    "symbol": "XVG",
@@ -51,6 +51,14 @@
    "file": "FF.png"
   },
   {
+   "symbol": "AVGOB",
+   "name": "Broadcom (bStocks Tokenized Stock)",
+   "sigma": 3.0,
+   "from_btc_pct": 0,
+   "verdict": "Oversold",
+   "file": "AVGOB.png"
+  },
+  {
    "symbol": "ASTER",
    "name": "Aster",
    "sigma": 2.91,
@@ -89,14 +97,6 @@
    "from_btc_pct": 25,
    "verdict": "Neutral",
    "file": "MIRA.png"
-  },
-  {
-   "symbol": "ROBO",
-   "name": "Fabric Protocol",
-   "sigma": 2.54,
-   "from_btc_pct": 0,
-   "verdict": "Oversold",
-   "file": "ROBO.png"
   }
  ]
 }
