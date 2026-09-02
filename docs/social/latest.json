@@ -1,6 +1,6 @@
 {
  "date": "2026-09-01",
- "generated_at": "2026-09-01T23:15:57.640895+00:00",
+ "generated_at": "2026-09-02T01:15:46.892207+00:00",
  "assets": [
   {
    "symbol": "IQ",
@@ -81,6 +81,14 @@
    "from_btc_pct": 23,
    "verdict": "Neutral",
    "file": "SOMI.png"
+  },
+  {
+   "symbol": "LA",
+   "name": "Lagrange",
+   "sigma": 2.52,
+   "from_btc_pct": 9,
+   "verdict": "Overbought",
+   "file": "LA.png"
   }
  ]
 }
