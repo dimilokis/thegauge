@@ -1,6 +1,6 @@
 {
  "date": "2026-09-02",
- "generated_at": "2026-09-02T16:01:02.595551+00:00",
+ "generated_at": "2026-09-02T16:15:46.454993+00:00",
  "assets": [
   {
    "symbol": "T",
@@ -21,7 +21,7 @@
   {
    "symbol": "SOPH",
    "name": "Sophon",
-   "sigma": 3.32,
+   "sigma": 3.64,
    "from_btc_pct": 8,
    "verdict": "Neutral",
    "file": "SOPH.png"
