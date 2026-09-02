@@ -1,15 +1,7 @@
 {
  "date": "2026-09-02",
- "generated_at": "2026-09-02T14:30:55.710393+00:00",
+ "generated_at": "2026-09-02T14:45:50.991846+00:00",
  "assets": [
-  {
-   "symbol": "SOPH",
-   "name": "Sophon",
-   "sigma": 4.27,
-   "from_btc_pct": 6,
-   "verdict": "Neutral",
-   "file": "SOPH.png"
-  },
   {
    "symbol": "T",
    "name": "Threshold Network",
@@ -17,6 +9,14 @@
    "from_btc_pct": 17,
    "verdict": "Overbought",
    "file": "T.png"
+  },
+  {
+   "symbol": "SOPH",
+   "name": "Sophon",
+   "sigma": 3.32,
+   "from_btc_pct": 8,
+   "verdict": "Neutral",
+   "file": "SOPH.png"
   },
   {
    "symbol": "SYRUP",
@@ -43,20 +43,20 @@
    "file": "KITE.png"
   },
   {
+   "symbol": "LA",
+   "name": "Lagrange",
+   "sigma": 2.69,
+   "from_btc_pct": 8,
+   "verdict": "Overbought",
+   "file": "LA.png"
+  },
+  {
    "symbol": "MIRA",
    "name": "Mira",
    "sigma": 2.58,
    "from_btc_pct": 25,
    "verdict": "Neutral",
    "file": "MIRA.png"
-  },
-  {
-   "symbol": "LA",
-   "name": "Lagrange",
-   "sigma": 2.52,
-   "from_btc_pct": 8,
-   "verdict": "Overbought",
-   "file": "LA.png"
   }
  ]
 }
