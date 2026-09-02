@@ -1,7 +1,15 @@
 {
  "date": "2026-09-02",
- "generated_at": "2026-09-02T20:45:50.456225+00:00",
+ "generated_at": "2026-09-02T21:00:57.681509+00:00",
  "assets": [
+  {
+   "symbol": "XVG",
+   "name": "Verge",
+   "sigma": 4.26,
+   "from_btc_pct": 27,
+   "verdict": "Overbought",
+   "file": "XVG.png"
+  },
   {
    "symbol": "T",
    "name": "Threshold Network",
@@ -89,14 +97,6 @@
    "from_btc_pct": 0,
    "verdict": "Oversold",
    "file": "ROBO.png"
-  },
-  {
-   "symbol": "ARB",
-   "name": "Arbitrum",
-   "sigma": 2.54,
-   "from_btc_pct": 19,
-   "verdict": "Strong Uptrend",
-   "file": "ARB.png"
   }
  ]
 }

@@ -159,6 +159,10 @@
   "icon": "https://coin-images.coingecko.com/coins/images/12559/large/Avalanche_Circle_RedWhite_Trans.png?1696512369",
   "name": "Avalanche"
  },
+ "AVGOB": {
+  "icon": "https://coin-images.coingecko.com/coins/images/102174587/large/avgob-bstocks.png",
+  "name": "Broadcom (bStocks Tokenized Stock)"
+ },
  "AVNT": {
   "icon": "https://coin-images.coingecko.com/coins/images/68972/large/avnt-token.png?1757134448",
   "name": "Avantis"
