@@ -1,6 +1,6 @@
 {
  "date": "2026-09-02",
- "generated_at": "2026-09-02T14:00:59.307677+00:00",
+ "generated_at": "2026-09-02T14:30:55.710393+00:00",
  "assets": [
   {
    "symbol": "SOPH",
@@ -19,14 +19,6 @@
    "file": "T.png"
   },
   {
-   "symbol": "KITE",
-   "name": "Kite",
-   "sigma": 3.29,
-   "from_btc_pct": 9,
-   "verdict": "Neutral",
-   "file": "KITE.png"
-  },
-  {
    "symbol": "SYRUP",
    "name": "Maple Finance",
    "sigma": 3.13,
@@ -41,6 +33,14 @@
    "from_btc_pct": 0,
    "verdict": "Overbought",
    "file": "FF.png"
+  },
+  {
+   "symbol": "KITE",
+   "name": "Kite",
+   "sigma": 2.88,
+   "from_btc_pct": 10,
+   "verdict": "Neutral",
+   "file": "KITE.png"
   },
   {
    "symbol": "MIRA",
