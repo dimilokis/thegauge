@@ -1,6 +1,6 @@
 {
  "date": "2026-09-02",
- "generated_at": "2026-09-02T13:45:54.294846+00:00",
+ "generated_at": "2026-09-02T14:00:59.307677+00:00",
  "assets": [
   {
    "symbol": "SOPH",
@@ -17,14 +17,6 @@
    "from_btc_pct": 17,
    "verdict": "Overbought",
    "file": "T.png"
-  },
-  {
-   "symbol": "LA",
-   "name": "Lagrange",
-   "sigma": 3.5,
-   "from_btc_pct": 6,
-   "verdict": "Overbought",
-   "file": "LA.png"
   },
   {
    "symbol": "KITE",
@@ -57,6 +49,14 @@
    "from_btc_pct": 25,
    "verdict": "Neutral",
    "file": "MIRA.png"
+  },
+  {
+   "symbol": "LA",
+   "name": "Lagrange",
+   "sigma": 2.52,
+   "from_btc_pct": 8,
+   "verdict": "Overbought",
+   "file": "LA.png"
   }
  ]
 }
