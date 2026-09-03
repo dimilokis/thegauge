@@ -1,6 +1,6 @@
 {
  "date": "2026-09-03",
- "generated_at": "2026-09-03T15:01:07.876593+00:00",
+ "generated_at": "2026-09-03T17:15:52.674748+00:00",
  "assets": [
   {
    "symbol": "HIVE",
@@ -51,14 +51,6 @@
    "file": "CHIP.png"
   },
   {
-   "symbol": "TWT",
-   "name": "Trust Wallet",
-   "sigma": 2.83,
-   "from_btc_pct": 9,
-   "verdict": "Overbought",
-   "file": "TWT.png"
-  },
-  {
    "symbol": "XVG",
    "name": "Verge",
    "sigma": 2.82,
@@ -81,6 +73,14 @@
    "from_btc_pct": 26,
    "verdict": "Overbought",
    "file": "HOODB.png"
+  },
+  {
+   "symbol": "TWT",
+   "name": "Trust Wallet",
+   "sigma": 2.71,
+   "from_btc_pct": 10,
+   "verdict": "Overbought",
+   "file": "TWT.png"
   },
   {
    "symbol": "FF",
