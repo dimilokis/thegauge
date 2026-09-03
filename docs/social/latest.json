@@ -1,6 +1,6 @@
 {
  "date": "2026-09-03",
- "generated_at": "2026-09-03T21:30:50.498853+00:00",
+ "generated_at": "2026-09-03T22:00:55.807077+00:00",
  "assets": [
   {
    "symbol": "HIVE",
@@ -75,6 +75,14 @@
    "file": "HOODB.png"
   },
   {
+   "symbol": "LDO",
+   "name": "Lido DAO",
+   "sigma": 2.72,
+   "from_btc_pct": 37,
+   "verdict": "Strong Uptrend",
+   "file": "LDO.png"
+  },
+  {
    "symbol": "TWT",
    "name": "Trust Wallet",
    "sigma": 2.71,
@@ -89,14 +97,6 @@
    "from_btc_pct": 25,
    "verdict": "Strong Uptrend",
    "file": "ARB.png"
-  },
-  {
-   "symbol": "LDO",
-   "name": "Lido DAO",
-   "sigma": 2.58,
-   "from_btc_pct": 37,
-   "verdict": "Strong Uptrend",
-   "file": "LDO.png"
   }
  ]
 }
