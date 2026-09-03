@@ -1,6 +1,6 @@
 {
  "date": "2026-09-03",
- "generated_at": "2026-09-03T13:30:55.983664+00:00",
+ "generated_at": "2026-09-03T13:45:53.845296+00:00",
  "assets": [
   {
    "symbol": "HIVE",
@@ -49,6 +49,14 @@
    "from_btc_pct": 3,
    "verdict": "Strong Uptrend",
    "file": "CHIP.png"
+  },
+  {
+   "symbol": "HOODB",
+   "name": "Robinhood (bStocks Tokenized Stock)",
+   "sigma": 2.84,
+   "from_btc_pct": 26,
+   "verdict": "Overbought",
+   "file": "HOODB.png"
   },
   {
    "symbol": "XVG",
