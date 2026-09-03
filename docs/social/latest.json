@@ -1,6 +1,6 @@
 {
  "date": "2026-09-03",
- "generated_at": "2026-09-03T06:15:52.331574+00:00",
+ "generated_at": "2026-09-03T07:15:53.808549+00:00",
  "assets": [
   {
    "symbol": "HIVE",
@@ -17,6 +17,14 @@
    "from_btc_pct": 7,
    "verdict": "Overbought",
    "file": "HEMI.png"
+  },
+  {
+   "symbol": "ANKR",
+   "name": "Ankr Network",
+   "sigma": 4.22,
+   "from_btc_pct": 40,
+   "verdict": "Overbought",
+   "file": "ANKR.png"
   },
   {
    "symbol": "AR",
