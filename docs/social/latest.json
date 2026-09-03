@@ -1,6 +1,6 @@
 {
  "date": "2026-09-03",
- "generated_at": "2026-09-03T07:15:53.808549+00:00",
+ "generated_at": "2026-09-03T07:30:55.290511+00:00",
  "assets": [
   {
    "symbol": "HIVE",
@@ -41,6 +41,14 @@
    "from_btc_pct": 24,
    "verdict": "Neutral",
    "file": "XVG.png"
+  },
+  {
+   "symbol": "FF",
+   "name": "Falcon Finance",
+   "sigma": 2.54,
+   "from_btc_pct": 0,
+   "verdict": "Overbought",
+   "file": "FF.png"
   }
  ]
 }
