@@ -1,6 +1,6 @@
 {
  "date": "2026-09-03",
- "generated_at": "2026-09-03T20:46:00.173726+00:00",
+ "generated_at": "2026-09-03T21:15:56.386784+00:00",
  "assets": [
   {
    "symbol": "HIVE",
@@ -75,6 +75,14 @@
    "file": "HOODB.png"
   },
   {
+   "symbol": "LDO",
+   "name": "Lido DAO",
+   "sigma": 2.72,
+   "from_btc_pct": 37,
+   "verdict": "Strong Uptrend",
+   "file": "LDO.png"
+  },
+  {
    "symbol": "TWT",
    "name": "Trust Wallet",
    "sigma": 2.71,
@@ -83,20 +91,12 @@
    "file": "TWT.png"
   },
   {
-   "symbol": "FF",
-   "name": "Falcon Finance",
-   "sigma": 2.64,
-   "from_btc_pct": 0,
-   "verdict": "Overbought",
-   "file": "FF.png"
-  },
-  {
-   "symbol": "EGLD",
-   "name": "MultiversX",
-   "sigma": 2.6,
-   "from_btc_pct": 0,
-   "verdict": "Overbought",
-   "file": "EGLD.png"
+   "symbol": "ARB",
+   "name": "Arbitrum",
+   "sigma": 2.68,
+   "from_btc_pct": 25,
+   "verdict": "Strong Uptrend",
+   "file": "ARB.png"
   }
  ]
 }
