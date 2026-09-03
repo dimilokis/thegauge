@@ -1,6 +1,6 @@
 {
  "date": "2026-09-03",
- "generated_at": "2026-09-03T17:15:52.674748+00:00",
+ "generated_at": "2026-09-03T18:01:02.595893+00:00",
  "assets": [
   {
    "symbol": "HIVE",
@@ -91,12 +91,12 @@
    "file": "FF.png"
   },
   {
-   "symbol": "CATI",
-   "name": "Catizen",
-   "sigma": 2.51,
-   "from_btc_pct": 3,
+   "symbol": "EGLD",
+   "name": "MultiversX",
+   "sigma": 2.6,
+   "from_btc_pct": 0,
    "verdict": "Overbought",
-   "file": "CATI.png"
+   "file": "EGLD.png"
   }
  ]
 }
