@@ -1,6 +1,6 @@
 {
  "date": "2026-09-03",
- "generated_at": "2026-09-03T03:31:00.564590+00:00",
+ "generated_at": "2026-09-03T04:30:49.482195+00:00",
  "assets": [
   {
    "symbol": "HIVE",
@@ -9,6 +9,14 @@
    "from_btc_pct": 27,
    "verdict": "Overbought",
    "file": "HIVE.png"
+  },
+  {
+   "symbol": "HEMI",
+   "name": "Hemi",
+   "sigma": 3.28,
+   "from_btc_pct": 7,
+   "verdict": "Overbought",
+   "file": "HEMI.png"
   }
  ]
 }
