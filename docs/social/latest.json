@@ -1,6 +1,6 @@
 {
  "date": "2026-09-03",
- "generated_at": "2026-09-03T22:00:55.807077+00:00",
+ "generated_at": "2026-09-03T23:15:46.279493+00:00",
  "assets": [
   {
    "symbol": "HIVE",
@@ -83,20 +83,20 @@
    "file": "LDO.png"
   },
   {
-   "symbol": "TWT",
-   "name": "Trust Wallet",
-   "sigma": 2.71,
-   "from_btc_pct": 10,
-   "verdict": "Overbought",
-   "file": "TWT.png"
-  },
-  {
    "symbol": "ARB",
    "name": "Arbitrum",
    "sigma": 2.68,
    "from_btc_pct": 25,
    "verdict": "Strong Uptrend",
    "file": "ARB.png"
+  },
+  {
+   "symbol": "TWT",
+   "name": "Trust Wallet",
+   "sigma": 2.61,
+   "from_btc_pct": 10,
+   "verdict": "Overbought",
+   "file": "TWT.png"
   }
  ]
 }
