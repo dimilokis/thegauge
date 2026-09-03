@@ -1,6 +1,6 @@
 {
  "date": "2026-09-03",
- "generated_at": "2026-09-03T05:30:50.385388+00:00",
+ "generated_at": "2026-09-03T05:45:51.800490+00:00",
  "assets": [
   {
    "symbol": "HIVE",
@@ -25,6 +25,14 @@
    "from_btc_pct": 7,
    "verdict": "Overbought",
    "file": "HEMI.png"
+  },
+  {
+   "symbol": "XVG",
+   "name": "Verge",
+   "sigma": 2.82,
+   "from_btc_pct": 24,
+   "verdict": "Neutral",
+   "file": "XVG.png"
   }
  ]
 }
