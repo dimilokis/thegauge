@@ -1,12 +1,12 @@
 {
  "date": "2026-09-03",
- "generated_at": "2026-09-03T05:00:56.742510+00:00",
+ "generated_at": "2026-09-03T05:30:50.385388+00:00",
  "assets": [
   {
    "symbol": "HIVE",
    "name": "Hive",
-   "sigma": 7.76,
-   "from_btc_pct": 27,
+   "sigma": 4.83,
+   "from_btc_pct": 35,
    "verdict": "Overbought",
    "file": "HIVE.png"
   },
