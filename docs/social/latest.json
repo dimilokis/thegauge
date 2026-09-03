@@ -1,6 +1,6 @@
 {
  "date": "2026-09-03",
- "generated_at": "2026-09-03T04:30:49.482195+00:00",
+ "generated_at": "2026-09-03T05:00:56.742510+00:00",
  "assets": [
   {
    "symbol": "HIVE",
@@ -9,6 +9,14 @@
    "from_btc_pct": 27,
    "verdict": "Overbought",
    "file": "HIVE.png"
+  },
+  {
+   "symbol": "AR",
+   "name": "Arweave",
+   "sigma": 3.83,
+   "from_btc_pct": 33,
+   "verdict": "Overbought",
+   "file": "AR.png"
   },
   {
    "symbol": "HEMI",
