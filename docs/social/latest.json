@@ -1,6 +1,6 @@
 {
  "date": "2026-09-03",
- "generated_at": "2026-09-03T05:45:51.800490+00:00",
+ "generated_at": "2026-09-03T06:15:52.331574+00:00",
  "assets": [
   {
    "symbol": "HIVE",
@@ -11,20 +11,20 @@
    "file": "HIVE.png"
   },
   {
+   "symbol": "HEMI",
+   "name": "Hemi",
+   "sigma": 4.29,
+   "from_btc_pct": 7,
+   "verdict": "Overbought",
+   "file": "HEMI.png"
+  },
+  {
    "symbol": "AR",
    "name": "Arweave",
    "sigma": 3.83,
    "from_btc_pct": 33,
    "verdict": "Overbought",
    "file": "AR.png"
-  },
-  {
-   "symbol": "HEMI",
-   "name": "Hemi",
-   "sigma": 3.28,
-   "from_btc_pct": 7,
-   "verdict": "Overbought",
-   "file": "HEMI.png"
   },
   {
    "symbol": "XVG",
