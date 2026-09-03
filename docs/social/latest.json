@@ -1,6 +1,6 @@
 {
  "date": "2026-09-03",
- "generated_at": "2026-09-03T07:30:55.290511+00:00",
+ "generated_at": "2026-09-03T07:45:47.702937+00:00",
  "assets": [
   {
    "symbol": "HIVE",
@@ -33,6 +33,14 @@
    "from_btc_pct": 33,
    "verdict": "Overbought",
    "file": "AR.png"
+  },
+  {
+   "symbol": "CHIP",
+   "name": "USD.AI",
+   "sigma": 3.29,
+   "from_btc_pct": 3,
+   "verdict": "Strong Uptrend",
+   "file": "CHIP.png"
   },
   {
    "symbol": "XVG",
