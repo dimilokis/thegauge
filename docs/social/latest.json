@@ -1,102 +1,14 @@
 {
- "date": "2026-09-02",
- "generated_at": "2026-09-03T00:15:47.048367+00:00",
+ "date": "2026-09-03",
+ "generated_at": "2026-09-03T03:31:00.564590+00:00",
  "assets": [
   {
-   "symbol": "ANKR",
-   "name": "Ankr Network",
-   "sigma": 7.46,
-   "from_btc_pct": 20,
-   "verdict": "Overbought",
-   "file": "ANKR.png"
-  },
-  {
-   "symbol": "XVG",
-   "name": "Verge",
-   "sigma": 4.26,
+   "symbol": "HIVE",
+   "name": "Hive",
+   "sigma": 7.76,
    "from_btc_pct": 27,
    "verdict": "Overbought",
-   "file": "XVG.png"
-  },
-  {
-   "symbol": "T",
-   "name": "Threshold Network",
-   "sigma": 4.12,
-   "from_btc_pct": 17,
-   "verdict": "Overbought",
-   "file": "T.png"
-  },
-  {
-   "symbol": "EGLD",
-   "name": "MultiversX",
-   "sigma": 4.01,
-   "from_btc_pct": 13,
-   "verdict": "Overbought",
-   "file": "EGLD.png"
-  },
-  {
-   "symbol": "SOPH",
-   "name": "Sophon",
-   "sigma": 3.64,
-   "from_btc_pct": 8,
-   "verdict": "Neutral",
-   "file": "SOPH.png"
-  },
-  {
-   "symbol": "SYRUP",
-   "name": "Maple Finance",
-   "sigma": 3.13,
-   "from_btc_pct": 36,
-   "verdict": "Overbought",
-   "file": "SYRUP.png"
-  },
-  {
-   "symbol": "FF",
-   "name": "Falcon Finance",
-   "sigma": 3.03,
-   "from_btc_pct": 0,
-   "verdict": "Overbought",
-   "file": "FF.png"
-  },
-  {
-   "symbol": "AVGOB",
-   "name": "Broadcom (bStocks Tokenized Stock)",
-   "sigma": 3.0,
-   "from_btc_pct": 0,
-   "verdict": "Oversold",
-   "file": "AVGOB.png"
-  },
-  {
-   "symbol": "ASTER",
-   "name": "Aster",
-   "sigma": 2.91,
-   "from_btc_pct": 36,
-   "verdict": "Strong Uptrend",
-   "file": "ASTER.png"
-  },
-  {
-   "symbol": "LA",
-   "name": "Lagrange",
-   "sigma": 2.69,
-   "from_btc_pct": 8,
-   "verdict": "Overbought",
-   "file": "LA.png"
-  },
-  {
-   "symbol": "PYTH",
-   "name": "Pyth Network",
-   "sigma": 2.63,
-   "from_btc_pct": 21,
-   "verdict": "Overbought",
-   "file": "PYTH.png"
-  },
-  {
-   "symbol": "KITE",
-   "name": "Kite",
-   "sigma": 2.61,
-   "from_btc_pct": 10,
-   "verdict": "Neutral",
-   "file": "KITE.png"
+   "file": "HIVE.png"
   }
  ]
 }
