@@ -1,6 +1,6 @@
 {
  "date": "2026-09-03",
- "generated_at": "2026-09-03T23:15:46.279493+00:00",
+ "generated_at": "2026-09-03T23:45:59.044957+00:00",
  "assets": [
   {
    "symbol": "HIVE",
@@ -9,6 +9,14 @@
    "from_btc_pct": 35,
    "verdict": "Overbought",
    "file": "HIVE.png"
+  },
+  {
+   "symbol": "LISTA",
+   "name": "Lista DAO",
+   "sigma": 4.59,
+   "from_btc_pct": 25,
+   "verdict": "Overbought",
+   "file": "LISTA.png"
   },
   {
    "symbol": "HEMI",
@@ -89,14 +97,6 @@
    "from_btc_pct": 25,
    "verdict": "Strong Uptrend",
    "file": "ARB.png"
-  },
-  {
-   "symbol": "TWT",
-   "name": "Trust Wallet",
-   "sigma": 2.61,
-   "from_btc_pct": 10,
-   "verdict": "Overbought",
-   "file": "TWT.png"
   }
  ]
 }
