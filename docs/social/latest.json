@@ -1,6 +1,6 @@
 {
  "date": "2026-09-03",
- "generated_at": "2026-09-03T11:15:50.058065+00:00",
+ "generated_at": "2026-09-03T13:30:55.983664+00:00",
  "assets": [
   {
    "symbol": "HIVE",
@@ -73,6 +73,14 @@
    "from_btc_pct": 0,
    "verdict": "Overbought",
    "file": "FF.png"
+  },
+  {
+   "symbol": "TWT",
+   "name": "Trust Wallet",
+   "sigma": 2.52,
+   "from_btc_pct": 5,
+   "verdict": "Overbought",
+   "file": "TWT.png"
   }
  ]
 }
