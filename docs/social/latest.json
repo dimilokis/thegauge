@@ -1,7 +1,15 @@
 {
  "date": "2026-09-02",
- "generated_at": "2026-09-02T21:15:52.679112+00:00",
+ "generated_at": "2026-09-03T00:15:47.048367+00:00",
  "assets": [
+  {
+   "symbol": "ANKR",
+   "name": "Ankr Network",
+   "sigma": 7.46,
+   "from_btc_pct": 20,
+   "verdict": "Overbought",
+   "file": "ANKR.png"
+  },
   {
    "symbol": "XVG",
    "name": "Verge",
@@ -89,14 +97,6 @@
    "from_btc_pct": 10,
    "verdict": "Neutral",
    "file": "KITE.png"
-  },
-  {
-   "symbol": "MIRA",
-   "name": "Mira",
-   "sigma": 2.58,
-   "from_btc_pct": 25,
-   "verdict": "Neutral",
-   "file": "MIRA.png"
   }
  ]
 }
