@@ -1,6 +1,6 @@
 {
  "date": "2026-09-03",
- "generated_at": "2026-09-03T08:45:48.808917+00:00",
+ "generated_at": "2026-09-03T11:15:50.058065+00:00",
  "assets": [
   {
    "symbol": "HIVE",
@@ -57,6 +57,14 @@
    "from_btc_pct": 24,
    "verdict": "Neutral",
    "file": "XVG.png"
+  },
+  {
+   "symbol": "SPK",
+   "name": "Spark",
+   "sigma": 2.81,
+   "from_btc_pct": 13,
+   "verdict": "Overbought",
+   "file": "SPK.png"
   },
   {
    "symbol": "FF",
