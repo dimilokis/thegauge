@@ -1,6 +1,6 @@
 {
  "date": "2026-09-03",
- "generated_at": "2026-09-03T13:45:53.845296+00:00",
+ "generated_at": "2026-09-03T14:01:11.731432+00:00",
  "assets": [
   {
    "symbol": "HIVE",
@@ -89,6 +89,14 @@
    "from_btc_pct": 5,
    "verdict": "Overbought",
    "file": "TWT.png"
+  },
+  {
+   "symbol": "CATI",
+   "name": "Catizen",
+   "sigma": 2.51,
+   "from_btc_pct": 3,
+   "verdict": "Overbought",
+   "file": "CATI.png"
   }
  ]
 }
