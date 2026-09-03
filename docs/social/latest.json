@@ -1,6 +1,6 @@
 {
  "date": "2026-09-03",
- "generated_at": "2026-09-03T14:01:11.731432+00:00",
+ "generated_at": "2026-09-03T14:15:49.966591+00:00",
  "assets": [
   {
    "symbol": "HIVE",
@@ -51,14 +51,6 @@
    "file": "CHIP.png"
   },
   {
-   "symbol": "HOODB",
-   "name": "Robinhood (bStocks Tokenized Stock)",
-   "sigma": 2.84,
-   "from_btc_pct": 26,
-   "verdict": "Overbought",
-   "file": "HOODB.png"
-  },
-  {
    "symbol": "XVG",
    "name": "Verge",
    "sigma": 2.82,
@@ -73,6 +65,14 @@
    "from_btc_pct": 13,
    "verdict": "Overbought",
    "file": "SPK.png"
+  },
+  {
+   "symbol": "HOODB",
+   "name": "Robinhood (bStocks Tokenized Stock)",
+   "sigma": 2.8,
+   "from_btc_pct": 26,
+   "verdict": "Overbought",
+   "file": "HOODB.png"
   },
   {
    "symbol": "FF",
