@@ -1,6 +1,6 @@
 {
  "date": "2026-09-04",
- "generated_at": "2026-09-04T22:30:56.222576+00:00",
+ "generated_at": "2026-09-04T23:16:00.645929+00:00",
  "assets": [
   {
    "symbol": "ENJ",
@@ -53,8 +53,8 @@
   {
    "symbol": "NEAR",
    "name": "NEAR Protocol",
-   "sigma": 2.7,
-   "from_btc_pct": 35,
+   "sigma": 2.57,
+   "from_btc_pct": 36,
    "verdict": "Strong Uptrend",
    "file": "NEAR.png"
   }
