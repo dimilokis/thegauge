@@ -1,6 +1,6 @@
 {
  "date": "2026-09-04",
- "generated_at": "2026-09-04T19:45:52.717385+00:00",
+ "generated_at": "2026-09-04T20:45:48.889325+00:00",
  "assets": [
   {
    "symbol": "VANA",
@@ -21,8 +21,8 @@
   {
    "symbol": "ZEN",
    "name": "Horizen",
-   "sigma": 3.59,
-   "from_btc_pct": 39,
+   "sigma": 3.34,
+   "from_btc_pct": 40,
    "verdict": "Overbought",
    "file": "ZEN.png"
   },
