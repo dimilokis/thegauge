@@ -1,6 +1,6 @@
 {
  "date": "2026-09-04",
- "generated_at": "2026-09-04T22:15:53.051563+00:00",
+ "generated_at": "2026-09-04T22:30:56.222576+00:00",
  "assets": [
   {
    "symbol": "ENJ",
@@ -35,14 +35,6 @@
    "file": "ZEN.png"
   },
   {
-   "symbol": "NEAR",
-   "name": "NEAR Protocol",
-   "sigma": 2.95,
-   "from_btc_pct": 34,
-   "verdict": "Strong Uptrend",
-   "file": "NEAR.png"
-  },
-  {
    "symbol": "SIGN",
    "name": "Sign",
    "sigma": 2.83,
@@ -57,6 +49,14 @@
    "from_btc_pct": 29,
    "verdict": "Strong Uptrend",
    "file": "DASH.png"
+  },
+  {
+   "symbol": "NEAR",
+   "name": "NEAR Protocol",
+   "sigma": 2.7,
+   "from_btc_pct": 35,
+   "verdict": "Strong Uptrend",
+   "file": "NEAR.png"
   }
  ]
 }
