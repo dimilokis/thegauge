@@ -1,102 +1,14 @@
 {
- "date": "2026-09-03",
- "generated_at": "2026-09-03T23:45:59.044957+00:00",
+ "date": "2026-09-04",
+ "generated_at": "2026-09-04T04:15:50.825304+00:00",
  "assets": [
   {
-   "symbol": "HIVE",
-   "name": "Hive",
-   "sigma": 4.83,
-   "from_btc_pct": 35,
-   "verdict": "Overbought",
-   "file": "HIVE.png"
-  },
-  {
-   "symbol": "LISTA",
-   "name": "Lista DAO",
-   "sigma": 4.59,
-   "from_btc_pct": 25,
-   "verdict": "Overbought",
-   "file": "LISTA.png"
-  },
-  {
-   "symbol": "HEMI",
-   "name": "Hemi",
-   "sigma": 4.29,
-   "from_btc_pct": 7,
-   "verdict": "Overbought",
-   "file": "HEMI.png"
-  },
-  {
-   "symbol": "ANKR",
-   "name": "Ankr Network",
-   "sigma": 4.22,
-   "from_btc_pct": 40,
-   "verdict": "Overbought",
-   "file": "ANKR.png"
-  },
-  {
-   "symbol": "AR",
-   "name": "Arweave",
-   "sigma": 3.83,
-   "from_btc_pct": 33,
-   "verdict": "Overbought",
-   "file": "AR.png"
-  },
-  {
-   "symbol": "CAKE",
-   "name": "PancakeSwap",
-   "sigma": 3.32,
-   "from_btc_pct": 40,
-   "verdict": "Overbought",
-   "file": "CAKE.png"
-  },
-  {
-   "symbol": "CHIP",
-   "name": "USD.AI",
-   "sigma": 3.29,
-   "from_btc_pct": 3,
-   "verdict": "Strong Uptrend",
-   "file": "CHIP.png"
-  },
-  {
-   "symbol": "XVG",
-   "name": "Verge",
-   "sigma": 2.82,
-   "from_btc_pct": 24,
-   "verdict": "Neutral",
-   "file": "XVG.png"
-  },
-  {
-   "symbol": "SPK",
-   "name": "Spark",
+   "symbol": "DASH",
+   "name": "Dash",
    "sigma": 2.81,
-   "from_btc_pct": 13,
-   "verdict": "Overbought",
-   "file": "SPK.png"
-  },
-  {
-   "symbol": "HOODB",
-   "name": "Robinhood (bStocks Tokenized Stock)",
-   "sigma": 2.8,
-   "from_btc_pct": 26,
-   "verdict": "Overbought",
-   "file": "HOODB.png"
-  },
-  {
-   "symbol": "LDO",
-   "name": "Lido DAO",
-   "sigma": 2.72,
-   "from_btc_pct": 37,
+   "from_btc_pct": 36,
    "verdict": "Strong Uptrend",
-   "file": "LDO.png"
-  },
-  {
-   "symbol": "ARB",
-   "name": "Arbitrum",
-   "sigma": 2.68,
-   "from_btc_pct": 25,
-   "verdict": "Strong Uptrend",
-   "file": "ARB.png"
+   "file": "DASH.png"
   }
  ]
 }
