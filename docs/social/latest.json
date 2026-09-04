@@ -1,6 +1,6 @@
 {
  "date": "2026-09-04",
- "generated_at": "2026-09-04T09:00:53.852128+00:00",
+ "generated_at": "2026-09-04T10:45:52.065431+00:00",
  "assets": [
   {
    "symbol": "VANA",
@@ -17,6 +17,14 @@
    "from_btc_pct": 35,
    "verdict": "Strong Uptrend",
    "file": "DASH.png"
+  },
+  {
+   "symbol": "SIGN",
+   "name": "Sign",
+   "sigma": 2.83,
+   "from_btc_pct": 33,
+   "verdict": "Overbought",
+   "file": "SIGN.png"
   },
   {
    "symbol": "CATI",
