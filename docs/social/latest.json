@@ -1,6 +1,6 @@
 {
  "date": "2026-09-04",
- "generated_at": "2026-09-04T08:00:58.586456+00:00",
+ "generated_at": "2026-09-04T08:15:51.839981+00:00",
  "assets": [
   {
    "symbol": "VANA",
@@ -17,6 +17,14 @@
    "from_btc_pct": 36,
    "verdict": "Strong Uptrend",
    "file": "DASH.png"
+  },
+  {
+   "symbol": "CATI",
+   "name": "Catizen",
+   "sigma": 2.67,
+   "from_btc_pct": 0,
+   "verdict": "Overbought",
+   "file": "CATI.png"
   }
  ]
 }
