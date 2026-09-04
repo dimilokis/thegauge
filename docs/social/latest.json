@@ -1,7 +1,15 @@
 {
  "date": "2026-09-04",
- "generated_at": "2026-09-04T04:15:50.825304+00:00",
+ "generated_at": "2026-09-04T08:00:58.586456+00:00",
  "assets": [
+  {
+   "symbol": "VANA",
+   "name": "Vana",
+   "sigma": 4.78,
+   "from_btc_pct": 19,
+   "verdict": "Neutral",
+   "file": "VANA.png"
+  },
   {
    "symbol": "DASH",
    "name": "Dash",
