@@ -1,7 +1,15 @@
 {
  "date": "2026-09-04",
- "generated_at": "2026-09-04T20:45:48.889325+00:00",
+ "generated_at": "2026-09-04T22:15:53.051563+00:00",
  "assets": [
+  {
+   "symbol": "ENJ",
+   "name": "Enjin Coin",
+   "sigma": 6.56,
+   "from_btc_pct": 20,
+   "verdict": "Neutral",
+   "file": "ENJ.png"
+  },
   {
    "symbol": "VANA",
    "name": "Vana",

@@ -411,6 +411,10 @@
   "icon": "https://coin-images.coingecko.com/coins/images/36530/large/ethena.png?1711701436",
   "name": "Ethena"
  },
+ "ENJ": {
+  "icon": "https://coin-images.coingecko.com/coins/images/1102/large/Symbol_Only_-_Purple.png",
+  "name": "Enjin Coin"
+ },
  "ENS": {
   "icon": "https://coin-images.coingecko.com/coins/images/19785/large/ENS.jpg?1727872989",
   "name": "Ethereum Name Service"
