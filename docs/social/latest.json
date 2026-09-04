@@ -1,6 +1,6 @@
 {
  "date": "2026-09-04",
- "generated_at": "2026-09-04T18:45:52.031996+00:00",
+ "generated_at": "2026-09-04T19:45:52.717385+00:00",
  "assets": [
   {
    "symbol": "VANA",
@@ -25,6 +25,14 @@
    "from_btc_pct": 39,
    "verdict": "Overbought",
    "file": "ZEN.png"
+  },
+  {
+   "symbol": "NEAR",
+   "name": "NEAR Protocol",
+   "sigma": 2.95,
+   "from_btc_pct": 34,
+   "verdict": "Strong Uptrend",
+   "file": "NEAR.png"
   },
   {
    "symbol": "SIGN",
