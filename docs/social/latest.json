@@ -1,6 +1,6 @@
 {
  "date": "2026-09-04",
- "generated_at": "2026-09-04T11:00:56.519644+00:00",
+ "generated_at": "2026-09-04T15:45:56.740512+00:00",
  "assets": [
   {
    "symbol": "VANA",
@@ -11,20 +11,20 @@
    "file": "VANA.png"
   },
   {
+   "symbol": "CATI",
+   "name": "Catizen",
+   "sigma": 3.97,
+   "from_btc_pct": 0,
+   "verdict": "Overbought",
+   "file": "CATI.png"
+  },
+  {
    "symbol": "SIGN",
    "name": "Sign",
    "sigma": 2.83,
    "from_btc_pct": 33,
    "verdict": "Overbought",
    "file": "SIGN.png"
-  },
-  {
-   "symbol": "CATI",
-   "name": "Catizen",
-   "sigma": 2.67,
-   "from_btc_pct": 0,
-   "verdict": "Overbought",
-   "file": "CATI.png"
   },
   {
    "symbol": "DASH",
