@@ -1,6 +1,6 @@
 {
  "date": "2026-09-04",
- "generated_at": "2026-09-04T15:45:56.740512+00:00",
+ "generated_at": "2026-09-04T16:00:55.440161+00:00",
  "assets": [
   {
    "symbol": "VANA",
@@ -29,8 +29,8 @@
   {
    "symbol": "DASH",
    "name": "Dash",
-   "sigma": 2.55,
-   "from_btc_pct": 38,
+   "sigma": 2.75,
+   "from_btc_pct": 29,
    "verdict": "Strong Uptrend",
    "file": "DASH.png"
   }
