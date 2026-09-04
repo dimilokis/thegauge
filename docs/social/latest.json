@@ -1,6 +1,6 @@
 {
  "date": "2026-09-04",
- "generated_at": "2026-09-04T10:45:52.065431+00:00",
+ "generated_at": "2026-09-04T11:00:56.519644+00:00",
  "assets": [
   {
    "symbol": "VANA",
@@ -9,14 +9,6 @@
    "from_btc_pct": 19,
    "verdict": "Neutral",
    "file": "VANA.png"
-  },
-  {
-   "symbol": "DASH",
-   "name": "Dash",
-   "sigma": 3.37,
-   "from_btc_pct": 35,
-   "verdict": "Strong Uptrend",
-   "file": "DASH.png"
   },
   {
    "symbol": "SIGN",
@@ -33,6 +25,14 @@
    "from_btc_pct": 0,
    "verdict": "Overbought",
    "file": "CATI.png"
+  },
+  {
+   "symbol": "DASH",
+   "name": "Dash",
+   "sigma": 2.55,
+   "from_btc_pct": 38,
+   "verdict": "Strong Uptrend",
+   "file": "DASH.png"
   }
  ]
 }
