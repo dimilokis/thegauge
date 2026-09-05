@@ -1,6 +1,6 @@
 {
  "date": "2026-09-05",
- "generated_at": "2026-09-05T03:15:51.596155+00:00",
+ "generated_at": "2026-09-05T03:30:54.405385+00:00",
  "assets": [
   {
    "symbol": "NOM",
@@ -9,6 +9,14 @@
    "from_btc_pct": 3,
    "verdict": "Overbought",
    "file": "NOM.png"
+  },
+  {
+   "symbol": "DCR",
+   "name": "Decred",
+   "sigma": 2.79,
+   "from_btc_pct": 3,
+   "verdict": "Overbought",
+   "file": "DCR.png"
   }
  ]
 }
