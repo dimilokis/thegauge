@@ -1,6 +1,6 @@
 {
  "date": "2026-09-05",
- "generated_at": "2026-09-05T21:00:58.477028+00:00",
+ "generated_at": "2026-09-05T21:30:50.231646+00:00",
  "assets": [
   {
    "symbol": "SUSHI",
@@ -75,6 +75,14 @@
    "file": "ZK.png"
   },
   {
+   "symbol": "NOM",
+   "name": "Nomina",
+   "sigma": 3.17,
+   "from_btc_pct": 3,
+   "verdict": "Overbought",
+   "file": "NOM.png"
+  },
+  {
    "symbol": "FF",
    "name": "Falcon Finance",
    "sigma": 3.07,
@@ -83,20 +91,12 @@
    "file": "FF.png"
   },
   {
-   "symbol": "DCR",
-   "name": "Decred",
-   "sigma": 2.96,
-   "from_btc_pct": 3,
-   "verdict": "Overbought",
-   "file": "DCR.png"
-  },
-  {
-   "symbol": "SIGN",
-   "name": "Sign",
-   "sigma": 2.51,
-   "from_btc_pct": 34,
-   "verdict": "Overbought",
-   "file": "SIGN.png"
+   "symbol": "OP",
+   "name": "Optimism",
+   "sigma": 2.97,
+   "from_btc_pct": 36,
+   "verdict": "Strong Uptrend",
+   "file": "OP.png"
   }
  ]
 }
