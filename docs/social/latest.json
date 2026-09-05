@@ -1,6 +1,6 @@
 {
  "date": "2026-09-05",
- "generated_at": "2026-09-05T08:30:56.616025+00:00",
+ "generated_at": "2026-09-05T09:45:58.374661+00:00",
  "assets": [
   {
    "symbol": "CATI",
@@ -11,12 +11,12 @@
    "file": "CATI.png"
   },
   {
-   "symbol": "NOM",
-   "name": "Nomina",
-   "sigma": 3.59,
-   "from_btc_pct": 2,
+   "symbol": "AIXBT",
+   "name": "aixbt",
+   "sigma": 3.62,
+   "from_btc_pct": 35,
    "verdict": "Overbought",
-   "file": "NOM.png"
+   "file": "AIXBT.png"
   },
   {
    "symbol": "STRK",
@@ -49,6 +49,14 @@
    "from_btc_pct": 3,
    "verdict": "Overbought",
    "file": "DCR.png"
+  },
+  {
+   "symbol": "NOM",
+   "name": "Nomina",
+   "sigma": 2.75,
+   "from_btc_pct": 3,
+   "verdict": "Overbought",
+   "file": "NOM.png"
   },
   {
    "symbol": "DASH",
