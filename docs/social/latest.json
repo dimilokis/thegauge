@@ -1,6 +1,6 @@
 {
  "date": "2026-09-05",
- "generated_at": "2026-09-05T13:15:47.931615+00:00",
+ "generated_at": "2026-09-05T13:45:50.860635+00:00",
  "assets": [
   {
    "symbol": "CATI",
@@ -27,20 +27,20 @@
    "file": "1000CAT.png"
   },
   {
-   "symbol": "STRK",
-   "name": "Starknet",
-   "sigma": 3.42,
-   "from_btc_pct": 39,
-   "verdict": "Neutral",
-   "file": "STRK.png"
-  },
-  {
    "symbol": "ZK",
    "name": "ZKsync",
    "sigma": 3.18,
    "from_btc_pct": 33,
    "verdict": "Overbought",
    "file": "ZK.png"
+  },
+  {
+   "symbol": "STRK",
+   "name": "Starknet",
+   "sigma": 3.12,
+   "from_btc_pct": 40,
+   "verdict": "Neutral",
+   "file": "STRK.png"
   },
   {
    "symbol": "ZEN",
