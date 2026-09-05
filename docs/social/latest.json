@@ -1,6 +1,6 @@
 {
  "date": "2026-09-05",
- "generated_at": "2026-09-05T07:45:46.614542+00:00",
+ "generated_at": "2026-09-05T08:15:47.383573+00:00",
  "assets": [
   {
    "symbol": "CATI",
@@ -13,7 +13,7 @@
   {
    "symbol": "NOM",
    "name": "Nomina",
-   "sigma": 4.43,
+   "sigma": 3.59,
    "from_btc_pct": 2,
    "verdict": "Overbought",
    "file": "NOM.png"
