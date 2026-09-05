@@ -1,6 +1,6 @@
 {
  "date": "2026-09-05",
- "generated_at": "2026-09-05T11:45:48.914939+00:00",
+ "generated_at": "2026-09-05T12:00:56.832693+00:00",
  "assets": [
   {
    "symbol": "CATI",
@@ -49,6 +49,14 @@
    "from_btc_pct": 3,
    "verdict": "Overbought",
    "file": "NOM.png"
+  },
+  {
+   "symbol": "ASTER",
+   "name": "Aster",
+   "sigma": 2.73,
+   "from_btc_pct": 24,
+   "verdict": "Strong Uptrend",
+   "file": "ASTER.png"
   },
   {
    "symbol": "DASH",
