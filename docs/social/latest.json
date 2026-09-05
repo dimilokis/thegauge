@@ -1,7 +1,15 @@
 {
  "date": "2026-09-05",
- "generated_at": "2026-09-05T17:30:52.811067+00:00",
+ "generated_at": "2026-09-05T17:45:52.541591+00:00",
  "assets": [
+  {
+   "symbol": "SUSHI",
+   "name": "Sushi",
+   "sigma": 11.69,
+   "from_btc_pct": 20,
+   "verdict": "Overbought",
+   "file": "SUSHI.png"
+  },
   {
    "symbol": "NMR",
    "name": "Numeraire",
@@ -89,14 +97,6 @@
    "from_btc_pct": 0,
    "verdict": "Overbought",
    "file": "FF.png"
-  },
-  {
-   "symbol": "ASTER",
-   "name": "Aster",
-   "sigma": 2.73,
-   "from_btc_pct": 24,
-   "verdict": "Strong Uptrend",
-   "file": "ASTER.png"
   }
  ]
 }
