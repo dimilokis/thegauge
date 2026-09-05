@@ -1,6 +1,6 @@
 {
  "date": "2026-09-05",
- "generated_at": "2026-09-05T13:00:56.310363+00:00",
+ "generated_at": "2026-09-05T13:15:47.931615+00:00",
  "assets": [
   {
    "symbol": "CATI",
@@ -67,6 +67,14 @@
    "file": "FORM.png"
   },
   {
+   "symbol": "FF",
+   "name": "Falcon Finance",
+   "sigma": 2.87,
+   "from_btc_pct": 0,
+   "verdict": "Overbought",
+   "file": "FF.png"
+  },
+  {
    "symbol": "NOM",
    "name": "Nomina",
    "sigma": 2.75,
@@ -83,20 +91,12 @@
    "file": "ASTER.png"
   },
   {
-   "symbol": "DASH",
-   "name": "Dash",
-   "sigma": 2.65,
-   "from_btc_pct": 7,
-   "verdict": "Strong Uptrend",
-   "file": "DASH.png"
-  },
-  {
-   "symbol": "ICP",
-   "name": "Internet Computer",
-   "sigma": 2.61,
-   "from_btc_pct": 22,
-   "verdict": "Strong Uptrend",
-   "file": "ICP.png"
+   "symbol": "\u5e01\u5b89\u4eba\u751f",
+   "name": "\u5e01\u5b89\u4eba\u751f (BinanceLife)",
+   "sigma": 2.66,
+   "from_btc_pct": 9,
+   "verdict": "Neutral",
+   "file": "\u5e01\u5b89\u4eba\u751f.png"
   }
  ]
 }
