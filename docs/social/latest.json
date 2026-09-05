@@ -1,6 +1,6 @@
 {
  "date": "2026-09-05",
- "generated_at": "2026-09-05T15:30:53.512791+00:00",
+ "generated_at": "2026-09-05T17:30:52.811067+00:00",
  "assets": [
   {
    "symbol": "NMR",
@@ -35,6 +35,14 @@
    "file": "1000CAT.png"
   },
   {
+   "symbol": "AR",
+   "name": "Arweave",
+   "sigma": 3.46,
+   "from_btc_pct": 40,
+   "verdict": "Overbought",
+   "file": "AR.png"
+  },
+  {
    "symbol": "ZK",
    "name": "ZKsync",
    "sigma": 3.18,
@@ -49,14 +57,6 @@
    "from_btc_pct": 40,
    "verdict": "Neutral",
    "file": "STRK.png"
-  },
-  {
-   "symbol": "AR",
-   "name": "Arweave",
-   "sigma": 3.03,
-   "from_btc_pct": 40,
-   "verdict": "Overbought",
-   "file": "AR.png"
   },
   {
    "symbol": "DCR",
