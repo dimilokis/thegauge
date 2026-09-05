@@ -1,6 +1,6 @@
 {
  "date": "2026-09-05",
- "generated_at": "2026-09-05T20:15:45.720248+00:00",
+ "generated_at": "2026-09-05T21:00:58.477028+00:00",
  "assets": [
   {
    "symbol": "SUSHI",
@@ -83,20 +83,20 @@
    "file": "FF.png"
   },
   {
-   "symbol": "SIGN",
-   "name": "Sign",
-   "sigma": 3.03,
-   "from_btc_pct": 33,
-   "verdict": "Overbought",
-   "file": "SIGN.png"
-  },
-  {
    "symbol": "DCR",
    "name": "Decred",
    "sigma": 2.96,
    "from_btc_pct": 3,
    "verdict": "Overbought",
    "file": "DCR.png"
+  },
+  {
+   "symbol": "SIGN",
+   "name": "Sign",
+   "sigma": 2.51,
+   "from_btc_pct": 34,
+   "verdict": "Overbought",
+   "file": "SIGN.png"
   }
  ]
 }
