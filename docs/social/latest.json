@@ -1,6 +1,6 @@
 {
  "date": "2026-09-05",
- "generated_at": "2026-09-05T14:15:47.740939+00:00",
+ "generated_at": "2026-09-05T14:30:50.760294+00:00",
  "assets": [
   {
    "symbol": "CATI",
@@ -41,6 +41,14 @@
    "from_btc_pct": 40,
    "verdict": "Neutral",
    "file": "STRK.png"
+  },
+  {
+   "symbol": "AR",
+   "name": "Arweave",
+   "sigma": 3.03,
+   "from_btc_pct": 40,
+   "verdict": "Overbought",
+   "file": "AR.png"
   },
   {
    "symbol": "DCR",
@@ -89,14 +97,6 @@
    "from_btc_pct": 24,
    "verdict": "Strong Uptrend",
    "file": "ASTER.png"
-  },
-  {
-   "symbol": "\u5e01\u5b89\u4eba\u751f",
-   "name": "\u5e01\u5b89\u4eba\u751f (BinanceLife)",
-   "sigma": 2.66,
-   "from_btc_pct": 9,
-   "verdict": "Neutral",
-   "file": "\u5e01\u5b89\u4eba\u751f.png"
   }
  ]
 }
