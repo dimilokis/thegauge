@@ -1,6 +1,6 @@
 {
  "date": "2026-09-05",
- "generated_at": "2026-09-05T12:30:55.702475+00:00",
+ "generated_at": "2026-09-05T12:45:49.082117+00:00",
  "assets": [
   {
    "symbol": "CATI",
@@ -17,6 +17,14 @@
    "from_btc_pct": 38,
    "verdict": "Overbought",
    "file": "CAKE.png"
+  },
+  {
+   "symbol": "1000CAT",
+   "name": "Simon's Cat",
+   "sigma": 3.99,
+   "from_btc_pct": 4,
+   "verdict": "Overbought",
+   "file": "1000CAT.png"
   },
   {
    "symbol": "STRK",
@@ -85,18 +93,10 @@
   {
    "symbol": "ICP",
    "name": "Internet Computer",
-   "sigma": 2.58,
-   "from_btc_pct": 21,
+   "sigma": 2.61,
+   "from_btc_pct": 22,
    "verdict": "Strong Uptrend",
    "file": "ICP.png"
-  },
-  {
-   "symbol": "DCR",
-   "name": "Decred",
-   "sigma": 2.54,
-   "from_btc_pct": 3,
-   "verdict": "Overbought",
-   "file": "DCR.png"
   }
  ]
 }
