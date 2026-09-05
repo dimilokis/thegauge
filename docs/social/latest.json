@@ -1,6 +1,6 @@
 {
  "date": "2026-09-05",
- "generated_at": "2026-09-05T14:30:50.760294+00:00",
+ "generated_at": "2026-09-05T14:45:49.483739+00:00",
  "assets": [
   {
    "symbol": "CATI",
@@ -37,7 +37,7 @@
   {
    "symbol": "STRK",
    "name": "Starknet",
-   "sigma": 3.12,
+   "sigma": 3.16,
    "from_btc_pct": 40,
    "verdict": "Neutral",
    "file": "STRK.png"
@@ -83,20 +83,20 @@
    "file": "FF.png"
   },
   {
-   "symbol": "NOM",
-   "name": "Nomina",
-   "sigma": 2.75,
-   "from_btc_pct": 3,
-   "verdict": "Overbought",
-   "file": "NOM.png"
-  },
-  {
    "symbol": "ASTER",
    "name": "Aster",
    "sigma": 2.73,
    "from_btc_pct": 24,
    "verdict": "Strong Uptrend",
    "file": "ASTER.png"
+  },
+  {
+   "symbol": "NOM",
+   "name": "Nomina",
+   "sigma": 2.64,
+   "from_btc_pct": 4,
+   "verdict": "Overbought",
+   "file": "NOM.png"
   }
  ]
 }
