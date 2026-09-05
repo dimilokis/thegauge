@@ -1,6 +1,6 @@
 {
  "date": "2026-09-05",
- "generated_at": "2026-09-05T19:00:52.372982+00:00",
+ "generated_at": "2026-09-05T19:15:49.954275+00:00",
  "assets": [
   {
    "symbol": "SUSHI",
@@ -43,6 +43,14 @@
    "file": "1000CAT.png"
   },
   {
+   "symbol": "STRK",
+   "name": "Starknet",
+   "sigma": 3.71,
+   "from_btc_pct": 40,
+   "verdict": "Neutral",
+   "file": "STRK.png"
+  },
+  {
    "symbol": "AR",
    "name": "Arweave",
    "sigma": 3.57,
@@ -57,14 +65,6 @@
    "from_btc_pct": 33,
    "verdict": "Overbought",
    "file": "ZK.png"
-  },
-  {
-   "symbol": "STRK",
-   "name": "Starknet",
-   "sigma": 3.16,
-   "from_btc_pct": 40,
-   "verdict": "Neutral",
-   "file": "STRK.png"
   },
   {
    "symbol": "SIGN",
