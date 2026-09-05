@@ -1,6 +1,6 @@
 {
  "date": "2026-09-05",
- "generated_at": "2026-09-05T19:15:49.954275+00:00",
+ "generated_at": "2026-09-05T19:30:52.468703+00:00",
  "assets": [
   {
    "symbol": "SUSHI",
@@ -67,20 +67,20 @@
    "file": "ZK.png"
   },
   {
-   "symbol": "SIGN",
-   "name": "Sign",
-   "sigma": 3.08,
-   "from_btc_pct": 33,
-   "verdict": "Overbought",
-   "file": "SIGN.png"
-  },
-  {
    "symbol": "FF",
    "name": "Falcon Finance",
    "sigma": 3.07,
    "from_btc_pct": 0,
    "verdict": "Overbought",
    "file": "FF.png"
+  },
+  {
+   "symbol": "SIGN",
+   "name": "Sign",
+   "sigma": 3.03,
+   "from_btc_pct": 33,
+   "verdict": "Overbought",
+   "file": "SIGN.png"
   },
   {
    "symbol": "DCR",
