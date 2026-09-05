@@ -1,6 +1,6 @@
 {
  "date": "2026-09-05",
- "generated_at": "2026-09-05T05:30:53.929789+00:00",
+ "generated_at": "2026-09-05T05:42:22.990953+00:00",
  "assets": [
   {
    "symbol": "NOM",
@@ -41,6 +41,14 @@
    "from_btc_pct": 7,
    "verdict": "Strong Uptrend",
    "file": "DASH.png"
+  },
+  {
+   "symbol": "ZEN",
+   "name": "Horizen",
+   "sigma": 2.62,
+   "from_btc_pct": 23,
+   "verdict": "Overbought",
+   "file": "ZEN.png"
   }
  ]
 }
