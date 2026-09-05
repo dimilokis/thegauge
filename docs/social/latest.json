@@ -1,6 +1,6 @@
 {
  "date": "2026-09-05",
- "generated_at": "2026-09-05T17:45:52.541591+00:00",
+ "generated_at": "2026-09-05T18:13:49.702518+00:00",
  "assets": [
   {
    "symbol": "SUSHI",
@@ -45,7 +45,7 @@
   {
    "symbol": "AR",
    "name": "Arweave",
-   "sigma": 3.46,
+   "sigma": 3.57,
    "from_btc_pct": 40,
    "verdict": "Overbought",
    "file": "AR.png"
