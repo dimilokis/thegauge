@@ -1,7 +1,15 @@
 {
  "date": "2026-09-05",
- "generated_at": "2026-09-05T05:00:55.846624+00:00",
+ "generated_at": "2026-09-05T05:30:53.929789+00:00",
  "assets": [
+  {
+   "symbol": "NOM",
+   "name": "Nomina",
+   "sigma": 4.43,
+   "from_btc_pct": 2,
+   "verdict": "Overbought",
+   "file": "NOM.png"
+  },
   {
    "symbol": "STRK",
    "name": "Starknet",
@@ -11,12 +19,12 @@
    "file": "STRK.png"
   },
   {
-   "symbol": "NOM",
-   "name": "Nomina",
-   "sigma": 3.06,
-   "from_btc_pct": 3,
+   "symbol": "ZK",
+   "name": "ZKsync",
+   "sigma": 3.18,
+   "from_btc_pct": 33,
    "verdict": "Overbought",
-   "file": "NOM.png"
+   "file": "ZK.png"
   },
   {
    "symbol": "DCR",
@@ -27,12 +35,12 @@
    "file": "DCR.png"
   },
   {
-   "symbol": "ZK",
-   "name": "ZKsync",
-   "sigma": 2.67,
-   "from_btc_pct": 35,
-   "verdict": "Overbought",
-   "file": "ZK.png"
+   "symbol": "DASH",
+   "name": "Dash",
+   "sigma": 2.65,
+   "from_btc_pct": 7,
+   "verdict": "Strong Uptrend",
+   "file": "DASH.png"
   }
  ]
 }
