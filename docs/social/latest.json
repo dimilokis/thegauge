@@ -1,6 +1,6 @@
 {
  "date": "2026-09-05",
- "generated_at": "2026-09-05T11:30:56.010018+00:00",
+ "generated_at": "2026-09-05T11:45:48.914939+00:00",
  "assets": [
   {
    "symbol": "CATI",
@@ -69,7 +69,7 @@
   {
    "symbol": "ICP",
    "name": "Internet Computer",
-   "sigma": 2.56,
+   "sigma": 2.58,
    "from_btc_pct": 21,
    "verdict": "Strong Uptrend",
    "file": "ICP.png"
