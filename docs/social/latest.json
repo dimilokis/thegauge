@@ -1,6 +1,6 @@
 {
  "date": "2026-09-05",
- "generated_at": "2026-09-05T08:15:47.383573+00:00",
+ "generated_at": "2026-09-05T08:30:56.616025+00:00",
  "assets": [
   {
    "symbol": "CATI",
@@ -45,7 +45,7 @@
   {
    "symbol": "DCR",
    "name": "Decred",
-   "sigma": 2.79,
+   "sigma": 2.89,
    "from_btc_pct": 3,
    "verdict": "Overbought",
    "file": "DCR.png"
