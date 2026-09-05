@@ -1,6 +1,6 @@
 {
  "date": "2026-09-05",
- "generated_at": "2026-09-05T21:30:50.231646+00:00",
+ "generated_at": "2026-09-05T21:45:41.890626+00:00",
  "assets": [
   {
    "symbol": "SUSHI",
@@ -67,14 +67,6 @@
    "file": "AR.png"
   },
   {
-   "symbol": "ZK",
-   "name": "ZKsync",
-   "sigma": 3.18,
-   "from_btc_pct": 33,
-   "verdict": "Overbought",
-   "file": "ZK.png"
-  },
-  {
    "symbol": "NOM",
    "name": "Nomina",
    "sigma": 3.17,
@@ -97,6 +89,14 @@
    "from_btc_pct": 36,
    "verdict": "Strong Uptrend",
    "file": "OP.png"
+  },
+  {
+   "symbol": "ZK",
+   "name": "ZKsync",
+   "sigma": 2.71,
+   "from_btc_pct": 36,
+   "verdict": "Overbought",
+   "file": "ZK.png"
   }
  ]
 }
