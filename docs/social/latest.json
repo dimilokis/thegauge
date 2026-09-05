@@ -1,6 +1,6 @@
 {
  "date": "2026-09-05",
- "generated_at": "2026-09-05T06:15:52.175449+00:00",
+ "generated_at": "2026-09-05T06:45:51.011691+00:00",
  "assets": [
   {
    "symbol": "NOM",
@@ -27,6 +27,14 @@
    "file": "ZK.png"
   },
   {
+   "symbol": "ZEN",
+   "name": "Horizen",
+   "sigma": 2.95,
+   "from_btc_pct": 22,
+   "verdict": "Overbought",
+   "file": "ZEN.png"
+  },
+  {
    "symbol": "DCR",
    "name": "Decred",
    "sigma": 2.79,
@@ -49,14 +57,6 @@
    "from_btc_pct": 21,
    "verdict": "Strong Uptrend",
    "file": "ICP.png"
-  },
-  {
-   "symbol": "ZEN",
-   "name": "Horizen",
-   "sigma": 2.55,
-   "from_btc_pct": 23,
-   "verdict": "Overbought",
-   "file": "ZEN.png"
   }
  ]
 }
