@@ -1,6 +1,6 @@
 {
  "date": "2026-09-05",
- "generated_at": "2026-09-05T11:15:49.295028+00:00",
+ "generated_at": "2026-09-05T11:30:56.010018+00:00",
  "assets": [
   {
    "symbol": "CATI",
@@ -33,6 +33,14 @@
    "from_btc_pct": 22,
    "verdict": "Overbought",
    "file": "ZEN.png"
+  },
+  {
+   "symbol": "SIGN",
+   "name": "Sign",
+   "sigma": 2.93,
+   "from_btc_pct": 32,
+   "verdict": "Overbought",
+   "file": "SIGN.png"
   },
   {
    "symbol": "NOM",
