@@ -1,6 +1,6 @@
 {
  "date": "2026-09-05",
- "generated_at": "2026-09-05T07:15:50.584717+00:00",
+ "generated_at": "2026-09-05T07:45:46.614542+00:00",
  "assets": [
   {
    "symbol": "CATI",
@@ -57,6 +57,14 @@
    "from_btc_pct": 7,
    "verdict": "Strong Uptrend",
    "file": "DASH.png"
+  },
+  {
+   "symbol": "FORM",
+   "name": "Four",
+   "sigma": 2.6,
+   "from_btc_pct": 29,
+   "verdict": "Overbought",
+   "file": "FORM.png"
   },
   {
    "symbol": "ICP",
