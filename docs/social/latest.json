@@ -1,6 +1,6 @@
 {
  "date": "2026-09-05",
- "generated_at": "2026-09-05T12:15:50.499115+00:00",
+ "generated_at": "2026-09-05T12:30:55.702475+00:00",
  "assets": [
   {
    "symbol": "CATI",
@@ -51,6 +51,14 @@
    "file": "SIGN.png"
   },
   {
+   "symbol": "FORM",
+   "name": "Four",
+   "sigma": 2.88,
+   "from_btc_pct": 28,
+   "verdict": "Overbought",
+   "file": "FORM.png"
+  },
+  {
    "symbol": "NOM",
    "name": "Nomina",
    "sigma": 2.75,
@@ -73,14 +81,6 @@
    "from_btc_pct": 7,
    "verdict": "Strong Uptrend",
    "file": "DASH.png"
-  },
-  {
-   "symbol": "FORM",
-   "name": "Four",
-   "sigma": 2.6,
-   "from_btc_pct": 29,
-   "verdict": "Overbought",
-   "file": "FORM.png"
   },
   {
    "symbol": "ICP",
