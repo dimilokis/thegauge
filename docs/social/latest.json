@@ -1,7 +1,15 @@
 {
  "date": "2026-09-05",
- "generated_at": "2026-09-05T14:45:49.483739+00:00",
+ "generated_at": "2026-09-05T15:30:53.512791+00:00",
  "assets": [
+  {
+   "symbol": "NMR",
+   "name": "Numeraire",
+   "sigma": 7.42,
+   "from_btc_pct": 17,
+   "verdict": "Overbought",
+   "file": "NMR.png"
+  },
   {
    "symbol": "CATI",
    "name": "Catizen",
@@ -89,14 +97,6 @@
    "from_btc_pct": 24,
    "verdict": "Strong Uptrend",
    "file": "ASTER.png"
-  },
-  {
-   "symbol": "NOM",
-   "name": "Nomina",
-   "sigma": 2.64,
-   "from_btc_pct": 4,
-   "verdict": "Overbought",
-   "file": "NOM.png"
   }
  ]
 }
