@@ -1,6 +1,6 @@
 {
  "date": "2026-09-05",
- "generated_at": "2026-09-05T09:45:58.374661+00:00",
+ "generated_at": "2026-09-05T10:15:50.663191+00:00",
  "assets": [
   {
    "symbol": "CATI",
@@ -43,14 +43,6 @@
    "file": "ZEN.png"
   },
   {
-   "symbol": "DCR",
-   "name": "Decred",
-   "sigma": 2.89,
-   "from_btc_pct": 3,
-   "verdict": "Overbought",
-   "file": "DCR.png"
-  },
-  {
    "symbol": "NOM",
    "name": "Nomina",
    "sigma": 2.75,
@@ -81,6 +73,14 @@
    "from_btc_pct": 21,
    "verdict": "Strong Uptrend",
    "file": "ICP.png"
+  },
+  {
+   "symbol": "DCR",
+   "name": "Decred",
+   "sigma": 2.54,
+   "from_btc_pct": 3,
+   "verdict": "Overbought",
+   "file": "DCR.png"
   }
  ]
 }
