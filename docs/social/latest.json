@@ -1,6 +1,6 @@
 {
  "date": "2026-09-05",
- "generated_at": "2026-09-05T13:45:50.860635+00:00",
+ "generated_at": "2026-09-05T14:00:59.125527+00:00",
  "assets": [
   {
    "symbol": "CATI",
@@ -51,14 +51,6 @@
    "file": "ZEN.png"
   },
   {
-   "symbol": "SIGN",
-   "name": "Sign",
-   "sigma": 2.93,
-   "from_btc_pct": 32,
-   "verdict": "Overbought",
-   "file": "SIGN.png"
-  },
-  {
    "symbol": "FORM",
    "name": "Four",
    "sigma": 2.88,
@@ -97,6 +89,14 @@
    "from_btc_pct": 9,
    "verdict": "Neutral",
    "file": "\u5e01\u5b89\u4eba\u751f.png"
+  },
+  {
+   "symbol": "SIGN",
+   "name": "Sign",
+   "sigma": 2.51,
+   "from_btc_pct": 33,
+   "verdict": "Overbought",
+   "file": "SIGN.png"
   }
  ]
 }
