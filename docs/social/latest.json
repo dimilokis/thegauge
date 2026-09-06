@@ -1,6 +1,6 @@
 {
  "date": "2026-09-06",
- "generated_at": "2026-09-06T15:58:39.419046+00:00",
+ "generated_at": "2026-09-06T16:15:48.853165+00:00",
  "assets": [
   {
    "symbol": "LAYER",
@@ -51,6 +51,14 @@
    "file": "JUP.png"
   },
   {
+   "symbol": "NEAR",
+   "name": "NEAR Protocol",
+   "sigma": 2.81,
+   "from_btc_pct": 27,
+   "verdict": "Strong Uptrend",
+   "file": "NEAR.png"
+  },
+  {
    "symbol": "ZEC",
    "name": "Zcash",
    "sigma": 2.76,
@@ -81,14 +89,6 @@
    "from_btc_pct": 19,
    "verdict": "Overbought",
    "file": "IOST.png"
-  },
-  {
-   "symbol": "NEAR",
-   "name": "NEAR Protocol",
-   "sigma": 2.66,
-   "from_btc_pct": 27,
-   "verdict": "Strong Uptrend",
-   "file": "NEAR.png"
   },
   {
    "symbol": "DASH",
