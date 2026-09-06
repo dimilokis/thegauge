@@ -1,6 +1,6 @@
 {
  "date": "2026-09-06",
- "generated_at": "2026-09-06T16:45:51.289741+00:00",
+ "generated_at": "2026-09-06T17:00:55.774523+00:00",
  "assets": [
   {
    "symbol": "LAYER",
@@ -41,6 +41,14 @@
    "from_btc_pct": 19,
    "verdict": "Overbought",
    "file": "IOST.png"
+  },
+  {
+   "symbol": "ROSE",
+   "name": "Oasis",
+   "sigma": 2.93,
+   "from_btc_pct": 26,
+   "verdict": "Overbought",
+   "file": "ROSE.png"
   },
   {
    "symbol": "ZAMA",
@@ -89,14 +97,6 @@
    "from_btc_pct": 35,
    "verdict": "Overbought",
    "file": "ORCA.png"
-  },
-  {
-   "symbol": "ZEC",
-   "name": "Zcash",
-   "sigma": 2.6,
-   "from_btc_pct": 37,
-   "verdict": "Strong Uptrend",
-   "file": "ZEC.png"
   }
  ]
 }
