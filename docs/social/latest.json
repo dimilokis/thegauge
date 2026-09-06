@@ -1,6 +1,6 @@
 {
  "date": "2026-09-06",
- "generated_at": "2026-09-06T18:30:54.214433+00:00",
+ "generated_at": "2026-09-06T18:45:49.212064+00:00",
  "assets": [
   {
    "symbol": "LAYER",
@@ -59,6 +59,14 @@
    "file": "ZAMA.png"
   },
   {
+   "symbol": "NEAR",
+   "name": "NEAR Protocol",
+   "sigma": 2.9,
+   "from_btc_pct": 27,
+   "verdict": "Strong Uptrend",
+   "file": "NEAR.png"
+  },
+  {
    "symbol": "JUP",
    "name": "Jupiter",
    "sigma": 2.87,
@@ -83,20 +91,12 @@
    "file": "ZK.png"
   },
   {
-   "symbol": "NEAR",
-   "name": "NEAR Protocol",
-   "sigma": 2.51,
-   "from_btc_pct": 28,
-   "verdict": "Strong Uptrend",
-   "file": "NEAR.png"
-  },
-  {
-   "symbol": "IOST",
-   "name": "IOST",
-   "sigma": 2.51,
-   "from_btc_pct": 20,
-   "verdict": "Overbought",
-   "file": "IOST.png"
+   "symbol": "BFUSD",
+   "name": "BFUSD",
+   "sigma": 2.74,
+   "from_btc_pct": 0,
+   "verdict": "Neutral",
+   "file": "BFUSD.png"
   }
  ]
 }
