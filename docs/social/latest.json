@@ -1,6 +1,6 @@
 {
  "date": "2026-09-06",
- "generated_at": "2026-09-06T17:30:49.621128+00:00",
+ "generated_at": "2026-09-06T17:45:46.769311+00:00",
  "assets": [
   {
    "symbol": "LAYER",
@@ -9,6 +9,14 @@
    "from_btc_pct": 12,
    "verdict": "Overbought",
    "file": "LAYER.png"
+  },
+  {
+   "symbol": "METIS",
+   "name": "Metis",
+   "sigma": 4.86,
+   "from_btc_pct": 37,
+   "verdict": "Overbought",
+   "file": "METIS.png"
   },
   {
    "symbol": "SOLV",
@@ -33,14 +41,6 @@
    "from_btc_pct": 22,
    "verdict": "Overbought",
    "file": "ZEN.png"
-  },
-  {
-   "symbol": "IOST",
-   "name": "IOST",
-   "sigma": 3.03,
-   "from_btc_pct": 19,
-   "verdict": "Overbought",
-   "file": "IOST.png"
   },
   {
    "symbol": "ROSE",
@@ -75,14 +75,6 @@
    "file": "BONK.png"
   },
   {
-   "symbol": "NEAR",
-   "name": "NEAR Protocol",
-   "sigma": 2.81,
-   "from_btc_pct": 27,
-   "verdict": "Strong Uptrend",
-   "file": "NEAR.png"
-  },
-  {
    "symbol": "ZK",
    "name": "ZKsync",
    "sigma": 2.75,
@@ -91,12 +83,20 @@
    "file": "ZK.png"
   },
   {
-   "symbol": "BFUSD",
-   "name": "BFUSD",
-   "sigma": 2.74,
-   "from_btc_pct": 0,
-   "verdict": "Neutral",
-   "file": "BFUSD.png"
+   "symbol": "NEAR",
+   "name": "NEAR Protocol",
+   "sigma": 2.51,
+   "from_btc_pct": 28,
+   "verdict": "Strong Uptrend",
+   "file": "NEAR.png"
+  },
+  {
+   "symbol": "IOST",
+   "name": "IOST",
+   "sigma": 2.51,
+   "from_btc_pct": 20,
+   "verdict": "Overbought",
+   "file": "IOST.png"
   }
  ]
 }
