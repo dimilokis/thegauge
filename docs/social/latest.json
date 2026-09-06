@@ -1,7 +1,15 @@
 {
  "date": "2026-09-06",
- "generated_at": "2026-09-06T03:15:50.802967+00:00",
+ "generated_at": "2026-09-06T05:00:59.186893+00:00",
  "assets": [
+  {
+   "symbol": "IOST",
+   "name": "IOST",
+   "sigma": 6.55,
+   "from_btc_pct": 13,
+   "verdict": "Overbought",
+   "file": "IOST.png"
+  },
   {
    "symbol": "RAY",
    "name": "Raydium",
@@ -9,6 +17,14 @@
    "from_btc_pct": 30,
    "verdict": "Overbought",
    "file": "RAY.png"
+  },
+  {
+   "symbol": "DASH",
+   "name": "Dash",
+   "sigma": 2.64,
+   "from_btc_pct": 7,
+   "verdict": "Strong Uptrend",
+   "file": "DASH.png"
   }
  ]
 }

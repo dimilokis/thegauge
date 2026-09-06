@@ -607,6 +607,10 @@
   "icon": "https://coin-images.coingecko.com/coins/images/37754/large/io_blackbg.png?1715446363",
   "name": "io.net"
  },
+ "IOST": {
+  "icon": "https://coin-images.coingecko.com/coins/images/2523/large/IOST.png",
+  "name": "IOST"
+ },
  "IOTA": {
   "icon": "https://coin-images.coingecko.com/coins/images/692/large/IOTA_Thumbnail_%281%29.png?1743772896",
   "name": "IOTA"
