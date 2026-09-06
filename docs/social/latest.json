@@ -1,6 +1,6 @@
 {
  "date": "2026-09-06",
- "generated_at": "2026-09-06T18:15:16.385666+00:00",
+ "generated_at": "2026-09-06T18:30:54.214433+00:00",
  "assets": [
   {
    "symbol": "LAYER",
@@ -14,7 +14,7 @@
    "symbol": "METIS",
    "name": "Metis",
    "sigma": 4.86,
-   "from_btc_pct": 37,
+   "from_btc_pct": 38,
    "verdict": "Overbought",
    "file": "METIS.png"
   },
