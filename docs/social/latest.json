@@ -1,6 +1,6 @@
 {
  "date": "2026-09-06",
- "generated_at": "2026-09-06T16:30:53.927072+00:00",
+ "generated_at": "2026-09-06T16:45:51.289741+00:00",
  "assets": [
   {
    "symbol": "LAYER",
@@ -75,14 +75,6 @@
    "file": "NEAR.png"
   },
   {
-   "symbol": "ZEC",
-   "name": "Zcash",
-   "sigma": 2.76,
-   "from_btc_pct": 37,
-   "verdict": "Strong Uptrend",
-   "file": "ZEC.png"
-  },
-  {
    "symbol": "ZK",
    "name": "ZKsync",
    "sigma": 2.75,
@@ -97,6 +89,14 @@
    "from_btc_pct": 35,
    "verdict": "Overbought",
    "file": "ORCA.png"
+  },
+  {
+   "symbol": "ZEC",
+   "name": "Zcash",
+   "sigma": 2.6,
+   "from_btc_pct": 37,
+   "verdict": "Strong Uptrend",
+   "file": "ZEC.png"
   }
  ]
 }
