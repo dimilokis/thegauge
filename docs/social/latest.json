@@ -1,6 +1,6 @@
 {
  "date": "2026-09-06",
- "generated_at": "2026-09-06T08:53:17.534868+00:00",
+ "generated_at": "2026-09-06T09:15:58.256732+00:00",
  "assets": [
   {
    "symbol": "IOST",
@@ -43,20 +43,20 @@
    "file": "JUP.png"
   },
   {
+   "symbol": "ZEC",
+   "name": "Zcash",
+   "sigma": 2.87,
+   "from_btc_pct": 37,
+   "verdict": "Strong Uptrend",
+   "file": "ZEC.png"
+  },
+  {
    "symbol": "DASH",
    "name": "Dash",
    "sigma": 2.64,
    "from_btc_pct": 7,
    "verdict": "Strong Uptrend",
    "file": "DASH.png"
-  },
-  {
-   "symbol": "ZEC",
-   "name": "Zcash",
-   "sigma": 2.63,
-   "from_btc_pct": 37,
-   "verdict": "Strong Uptrend",
-   "file": "ZEC.png"
   }
  ]
 }
