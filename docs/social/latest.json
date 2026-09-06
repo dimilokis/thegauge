@@ -1,6 +1,6 @@
 {
  "date": "2026-09-06",
- "generated_at": "2026-09-06T17:15:49.657381+00:00",
+ "generated_at": "2026-09-06T17:30:49.621128+00:00",
  "assets": [
   {
    "symbol": "LAYER",
@@ -91,12 +91,12 @@
    "file": "ZK.png"
   },
   {
-   "symbol": "ORCA",
-   "name": "Orca",
-   "sigma": 2.72,
-   "from_btc_pct": 35,
-   "verdict": "Overbought",
-   "file": "ORCA.png"
+   "symbol": "BFUSD",
+   "name": "BFUSD",
+   "sigma": 2.74,
+   "from_btc_pct": 0,
+   "verdict": "Neutral",
+   "file": "BFUSD.png"
   }
  ]
 }
