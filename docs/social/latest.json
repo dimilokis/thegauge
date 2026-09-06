@@ -1,102 +1,14 @@
 {
- "date": "2026-09-05",
- "generated_at": "2026-09-05T23:30:51.455257+00:00",
+ "date": "2026-09-06",
+ "generated_at": "2026-09-06T03:15:50.802967+00:00",
  "assets": [
   {
-   "symbol": "SUSHI",
-   "name": "Sushi",
-   "sigma": 11.69,
-   "from_btc_pct": 20,
+   "symbol": "RAY",
+   "name": "Raydium",
+   "sigma": 3.26,
+   "from_btc_pct": 30,
    "verdict": "Overbought",
-   "file": "SUSHI.png"
-  },
-  {
-   "symbol": "NMR",
-   "name": "Numeraire",
-   "sigma": 7.42,
-   "from_btc_pct": 17,
-   "verdict": "Overbought",
-   "file": "NMR.png"
-  },
-  {
-   "symbol": "CATI",
-   "name": "Catizen",
-   "sigma": 5.24,
-   "from_btc_pct": 0,
-   "verdict": "Neutral",
-   "file": "CATI.png"
-  },
-  {
-   "symbol": "CAKE",
-   "name": "PancakeSwap",
-   "sigma": 4.93,
-   "from_btc_pct": 38,
-   "verdict": "Overbought",
-   "file": "CAKE.png"
-  },
-  {
-   "symbol": "ARB",
-   "name": "Arbitrum",
-   "sigma": 4.35,
-   "from_btc_pct": 20,
-   "verdict": "Strong Uptrend",
-   "file": "ARB.png"
-  },
-  {
-   "symbol": "1000CAT",
-   "name": "Simon's Cat",
-   "sigma": 3.99,
-   "from_btc_pct": 4,
-   "verdict": "Overbought",
-   "file": "1000CAT.png"
-  },
-  {
-   "symbol": "STRK",
-   "name": "Starknet",
-   "sigma": 3.71,
-   "from_btc_pct": 40,
-   "verdict": "Neutral",
-   "file": "STRK.png"
-  },
-  {
-   "symbol": "AR",
-   "name": "Arweave",
-   "sigma": 3.57,
-   "from_btc_pct": 40,
-   "verdict": "Overbought",
-   "file": "AR.png"
-  },
-  {
-   "symbol": "FF",
-   "name": "Falcon Finance",
-   "sigma": 3.07,
-   "from_btc_pct": 0,
-   "verdict": "Overbought",
-   "file": "FF.png"
-  },
-  {
-   "symbol": "OP",
-   "name": "Optimism",
-   "sigma": 2.97,
-   "from_btc_pct": 36,
-   "verdict": "Strong Uptrend",
-   "file": "OP.png"
-  },
-  {
-   "symbol": "NOM",
-   "name": "Nomina",
-   "sigma": 2.85,
-   "from_btc_pct": 4,
-   "verdict": "Overbought",
-   "file": "NOM.png"
-  },
-  {
-   "symbol": "ZK",
-   "name": "ZKsync",
-   "sigma": 2.71,
-   "from_btc_pct": 36,
-   "verdict": "Overbought",
-   "file": "ZK.png"
+   "file": "RAY.png"
   }
  ]
 }
