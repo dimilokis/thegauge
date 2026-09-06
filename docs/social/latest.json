@@ -1,6 +1,6 @@
 {
  "date": "2026-09-06",
- "generated_at": "2026-09-06T13:45:46.104489+00:00",
+ "generated_at": "2026-09-06T14:30:51.992962+00:00",
  "assets": [
   {
    "symbol": "SOLV",
@@ -89,6 +89,14 @@
    "from_btc_pct": 20,
    "verdict": "Overbought",
    "file": "IOST.png"
+  },
+  {
+   "symbol": "1000CAT",
+   "name": "Simon's Cat",
+   "sigma": 2.51,
+   "from_btc_pct": 5,
+   "verdict": "Overbought",
+   "file": "1000CAT.png"
   }
  ]
 }
