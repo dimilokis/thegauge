@@ -1,6 +1,6 @@
 {
  "date": "2026-09-06",
- "generated_at": "2026-09-06T20:30:51.359843+00:00",
+ "generated_at": "2026-09-06T20:45:49.658359+00:00",
  "assets": [
   {
    "symbol": "METIS",
@@ -17,6 +17,14 @@
    "from_btc_pct": 11,
    "verdict": "Overbought",
    "file": "SOLV.png"
+  },
+  {
+   "symbol": "FIDA",
+   "name": "Bonfida",
+   "sigma": 3.49,
+   "from_btc_pct": 25,
+   "verdict": "Overbought",
+   "file": "FIDA.png"
   },
   {
    "symbol": "TAO",
@@ -89,14 +97,6 @@
    "from_btc_pct": 33,
    "verdict": "Overbought",
    "file": "LAYER.png"
-  },
-  {
-   "symbol": "ZAMA",
-   "name": "Zama",
-   "sigma": 2.66,
-   "from_btc_pct": 30,
-   "verdict": "Strong Uptrend",
-   "file": "ZAMA.png"
   }
  ]
 }
