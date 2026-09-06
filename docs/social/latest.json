@@ -1,6 +1,6 @@
 {
  "date": "2026-09-06",
- "generated_at": "2026-09-06T19:30:55.540920+00:00",
+ "generated_at": "2026-09-06T20:15:46.965941+00:00",
  "assets": [
   {
    "symbol": "LAYER",
@@ -59,20 +59,20 @@
    "file": "ROSE.png"
   },
   {
-   "symbol": "ZAMA",
-   "name": "Zama",
-   "sigma": 2.92,
-   "from_btc_pct": 30,
-   "verdict": "Strong Uptrend",
-   "file": "ZAMA.png"
-  },
-  {
    "symbol": "NEAR",
    "name": "NEAR Protocol",
    "sigma": 2.9,
    "from_btc_pct": 27,
    "verdict": "Strong Uptrend",
    "file": "NEAR.png"
+  },
+  {
+   "symbol": "IOST",
+   "name": "IOST",
+   "sigma": 2.88,
+   "from_btc_pct": 19,
+   "verdict": "Overbought",
+   "file": "IOST.png"
   },
   {
    "symbol": "JUP",
@@ -91,12 +91,12 @@
    "file": "BONK.png"
   },
   {
-   "symbol": "ZK",
-   "name": "ZKsync",
-   "sigma": 2.75,
-   "from_btc_pct": 31,
-   "verdict": "Overbought",
-   "file": "ZK.png"
+   "symbol": "ZAMA",
+   "name": "Zama",
+   "sigma": 2.66,
+   "from_btc_pct": 30,
+   "verdict": "Strong Uptrend",
+   "file": "ZAMA.png"
   }
  ]
 }
