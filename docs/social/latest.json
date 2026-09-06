@@ -1,6 +1,6 @@
 {
  "date": "2026-09-06",
- "generated_at": "2026-09-06T16:15:48.853165+00:00",
+ "generated_at": "2026-09-06T16:30:53.927072+00:00",
  "assets": [
   {
    "symbol": "LAYER",
@@ -35,6 +35,14 @@
    "file": "ZEN.png"
   },
   {
+   "symbol": "IOST",
+   "name": "IOST",
+   "sigma": 3.03,
+   "from_btc_pct": 19,
+   "verdict": "Overbought",
+   "file": "IOST.png"
+  },
+  {
    "symbol": "ZAMA",
    "name": "Zama",
    "sigma": 2.92,
@@ -49,6 +57,14 @@
    "from_btc_pct": 37,
    "verdict": "Overbought",
    "file": "JUP.png"
+  },
+  {
+   "symbol": "BONK",
+   "name": "Bonk",
+   "sigma": 2.82,
+   "from_btc_pct": 39,
+   "verdict": "Neutral",
+   "file": "BONK.png"
   },
   {
    "symbol": "NEAR",
@@ -81,22 +97,6 @@
    "from_btc_pct": 35,
    "verdict": "Overbought",
    "file": "ORCA.png"
-  },
-  {
-   "symbol": "IOST",
-   "name": "IOST",
-   "sigma": 2.66,
-   "from_btc_pct": 19,
-   "verdict": "Overbought",
-   "file": "IOST.png"
-  },
-  {
-   "symbol": "DASH",
-   "name": "Dash",
-   "sigma": 2.64,
-   "from_btc_pct": 7,
-   "verdict": "Strong Uptrend",
-   "file": "DASH.png"
   }
  ]
 }
