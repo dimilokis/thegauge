@@ -1,6 +1,6 @@
 {
  "date": "2026-09-06",
- "generated_at": "2026-09-06T11:30:54.362459+00:00",
+ "generated_at": "2026-09-06T12:00:50.926210+00:00",
  "assets": [
   {
    "symbol": "IOST",
@@ -61,7 +61,7 @@
   {
    "symbol": "ZEC",
    "name": "Zcash",
-   "sigma": 2.87,
+   "sigma": 2.75,
    "from_btc_pct": 37,
    "verdict": "Strong Uptrend",
    "file": "ZEC.png"
