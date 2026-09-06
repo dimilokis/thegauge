@@ -1,15 +1,7 @@
 {
  "date": "2026-09-06",
- "generated_at": "2026-09-06T20:15:46.965941+00:00",
+ "generated_at": "2026-09-06T20:30:51.359843+00:00",
  "assets": [
-  {
-   "symbol": "LAYER",
-   "name": "Solayer",
-   "sigma": 6.47,
-   "from_btc_pct": 12,
-   "verdict": "Overbought",
-   "file": "LAYER.png"
-  },
   {
    "symbol": "METIS",
    "name": "Metis",
@@ -89,6 +81,14 @@
    "from_btc_pct": 39,
    "verdict": "Neutral",
    "file": "BONK.png"
+  },
+  {
+   "symbol": "LAYER",
+   "name": "Solayer",
+   "sigma": 2.71,
+   "from_btc_pct": 33,
+   "verdict": "Overbought",
+   "file": "LAYER.png"
   },
   {
    "symbol": "ZAMA",
