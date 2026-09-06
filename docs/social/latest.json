@@ -1,15 +1,7 @@
 {
  "date": "2026-09-06",
- "generated_at": "2026-09-06T12:46:09.673117+00:00",
+ "generated_at": "2026-09-06T12:51:51.490586+00:00",
  "assets": [
-  {
-   "symbol": "IOST",
-   "name": "IOST",
-   "sigma": 6.55,
-   "from_btc_pct": 13,
-   "verdict": "Overbought",
-   "file": "IOST.png"
-  },
   {
    "symbol": "SOLV",
    "name": "Solv Protocol",
@@ -89,6 +81,14 @@
    "from_btc_pct": 38,
    "verdict": "Strong Uptrend",
    "file": "ZEC.png"
+  },
+  {
+   "symbol": "IOST",
+   "name": "IOST",
+   "sigma": 2.51,
+   "from_btc_pct": 20,
+   "verdict": "Overbought",
+   "file": "IOST.png"
   }
  ]
 }
