@@ -1,6 +1,6 @@
 {
  "date": "2026-09-06",
- "generated_at": "2026-09-06T14:30:51.992962+00:00",
+ "generated_at": "2026-09-06T14:45:50.702277+00:00",
  "assets": [
   {
    "symbol": "SOLV",
@@ -9,14 +9,6 @@
    "from_btc_pct": 11,
    "verdict": "Overbought",
    "file": "SOLV.png"
-  },
-  {
-   "symbol": "ORCA",
-   "name": "Orca",
-   "sigma": 4.66,
-   "from_btc_pct": 27,
-   "verdict": "Overbought",
-   "file": "ORCA.png"
   },
   {
    "symbol": "NEAR",
@@ -59,12 +51,28 @@
    "file": "JUP.png"
   },
   {
+   "symbol": "IOST",
+   "name": "IOST",
+   "sigma": 2.81,
+   "from_btc_pct": 19,
+   "verdict": "Overbought",
+   "file": "IOST.png"
+  },
+  {
    "symbol": "ZEC",
    "name": "Zcash",
    "sigma": 2.76,
    "from_btc_pct": 37,
    "verdict": "Strong Uptrend",
    "file": "ZEC.png"
+  },
+  {
+   "symbol": "ORCA",
+   "name": "Orca",
+   "sigma": 2.72,
+   "from_btc_pct": 35,
+   "verdict": "Overbought",
+   "file": "ORCA.png"
   },
   {
    "symbol": "DASH",
@@ -81,14 +89,6 @@
    "from_btc_pct": 32,
    "verdict": "Overbought",
    "file": "ZK.png"
-  },
-  {
-   "symbol": "IOST",
-   "name": "IOST",
-   "sigma": 2.51,
-   "from_btc_pct": 20,
-   "verdict": "Overbought",
-   "file": "IOST.png"
   },
   {
    "symbol": "1000CAT",
