@@ -523,6 +523,10 @@
   "icon": "https://coin-images.coingecko.com/coins/images/17980/large/Gram_Circular_Badge.png?1781524778",
   "name": "Gram (prev. Toncoin)"
  },
+ "GRT": {
+  "icon": "https://coin-images.coingecko.com/coins/images/13397/large/Graph_Token.png",
+  "name": "The Graph"
+ },
  "GUN": {
   "icon": "https://coin-images.coingecko.com/coins/images/55027/large/gunz.jpg?1743262298",
   "name": "Gunz"
