@@ -1,6 +1,6 @@
 {
  "date": "2026-09-06",
- "generated_at": "2026-09-06T19:00:51.707855+00:00",
+ "generated_at": "2026-09-06T19:15:54.770868+00:00",
  "assets": [
   {
    "symbol": "LAYER",
@@ -25,6 +25,14 @@
    "from_btc_pct": 11,
    "verdict": "Overbought",
    "file": "SOLV.png"
+  },
+  {
+   "symbol": "TAO",
+   "name": "Bittensor",
+   "sigma": 3.35,
+   "from_btc_pct": 36,
+   "verdict": "Strong Uptrend",
+   "file": "TAO.png"
   },
   {
    "symbol": "RAY",
@@ -89,14 +97,6 @@
    "from_btc_pct": 31,
    "verdict": "Overbought",
    "file": "ZK.png"
-  },
-  {
-   "symbol": "BFUSD",
-   "name": "BFUSD",
-   "sigma": 2.74,
-   "from_btc_pct": 0,
-   "verdict": "Neutral",
-   "file": "BFUSD.png"
   }
  ]
 }
