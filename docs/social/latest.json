@@ -1,6 +1,6 @@
 {
  "date": "2026-09-06",
- "generated_at": "2026-09-06T09:45:51.091583+00:00",
+ "generated_at": "2026-09-06T10:45:48.412269+00:00",
  "assets": [
   {
    "symbol": "IOST",
@@ -35,6 +35,14 @@
    "file": "ZEN.png"
   },
   {
+   "symbol": "ZK",
+   "name": "ZKsync",
+   "sigma": 3.01,
+   "from_btc_pct": 31,
+   "verdict": "Overbought",
+   "file": "ZK.png"
+  },
+  {
    "symbol": "ZAMA",
    "name": "Zama",
    "sigma": 2.92,
@@ -57,6 +65,14 @@
    "from_btc_pct": 37,
    "verdict": "Strong Uptrend",
    "file": "ZEC.png"
+  },
+  {
+   "symbol": "NEAR",
+   "name": "NEAR Protocol",
+   "sigma": 2.66,
+   "from_btc_pct": 28,
+   "verdict": "Strong Uptrend",
+   "file": "NEAR.png"
   },
   {
    "symbol": "DASH",
