@@ -1,6 +1,6 @@
 {
  "date": "2026-09-06",
- "generated_at": "2026-09-06T09:15:58.256732+00:00",
+ "generated_at": "2026-09-06T09:45:51.091583+00:00",
  "assets": [
   {
    "symbol": "IOST",
@@ -33,6 +33,14 @@
    "from_btc_pct": 22,
    "verdict": "Overbought",
    "file": "ZEN.png"
+  },
+  {
+   "symbol": "ZAMA",
+   "name": "Zama",
+   "sigma": 2.92,
+   "from_btc_pct": 30,
+   "verdict": "Strong Uptrend",
+   "file": "ZAMA.png"
   },
   {
    "symbol": "JUP",
