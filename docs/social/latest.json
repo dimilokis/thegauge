@@ -1,6 +1,6 @@
 {
  "date": "2026-09-06",
- "generated_at": "2026-09-06T05:00:59.186893+00:00",
+ "generated_at": "2026-09-06T05:30:52.816333+00:00",
  "assets": [
   {
    "symbol": "IOST",
@@ -17,6 +17,14 @@
    "from_btc_pct": 30,
    "verdict": "Overbought",
    "file": "RAY.png"
+  },
+  {
+   "symbol": "ZEN",
+   "name": "Horizen",
+   "sigma": 3.11,
+   "from_btc_pct": 22,
+   "verdict": "Overbought",
+   "file": "ZEN.png"
   },
   {
    "symbol": "DASH",
