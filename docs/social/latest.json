@@ -1,6 +1,6 @@
 {
  "date": "2026-09-06",
- "generated_at": "2026-09-06T13:15:48.274246+00:00",
+ "generated_at": "2026-09-06T13:45:46.104489+00:00",
  "assets": [
   {
    "symbol": "SOLV",
@@ -17,6 +17,14 @@
    "from_btc_pct": 27,
    "verdict": "Overbought",
    "file": "ORCA.png"
+  },
+  {
+   "symbol": "NEAR",
+   "name": "NEAR Protocol",
+   "sigma": 3.34,
+   "from_btc_pct": 26,
+   "verdict": "Strong Uptrend",
+   "file": "NEAR.png"
   },
   {
    "symbol": "RAY",
@@ -65,14 +73,6 @@
    "from_btc_pct": 7,
    "verdict": "Strong Uptrend",
    "file": "DASH.png"
-  },
-  {
-   "symbol": "NEAR",
-   "name": "NEAR Protocol",
-   "sigma": 2.58,
-   "from_btc_pct": 28,
-   "verdict": "Strong Uptrend",
-   "file": "NEAR.png"
   },
   {
    "symbol": "ZK",
