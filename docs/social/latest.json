@@ -1,7 +1,15 @@
 {
  "date": "2026-09-06",
- "generated_at": "2026-09-06T15:30:52.326990+00:00",
+ "generated_at": "2026-09-06T15:45:47.159194+00:00",
  "assets": [
+  {
+   "symbol": "LAYER",
+   "name": "Solayer",
+   "sigma": 6.47,
+   "from_btc_pct": 12,
+   "verdict": "Overbought",
+   "file": "LAYER.png"
+  },
   {
    "symbol": "SOLV",
    "name": "Solv Protocol",
@@ -9,14 +17,6 @@
    "from_btc_pct": 11,
    "verdict": "Overbought",
    "file": "SOLV.png"
-  },
-  {
-   "symbol": "NEAR",
-   "name": "NEAR Protocol",
-   "sigma": 3.34,
-   "from_btc_pct": 26,
-   "verdict": "Strong Uptrend",
-   "file": "NEAR.png"
   },
   {
    "symbol": "RAY",
@@ -83,20 +83,20 @@
    "file": "IOST.png"
   },
   {
+   "symbol": "NEAR",
+   "name": "NEAR Protocol",
+   "sigma": 2.66,
+   "from_btc_pct": 27,
+   "verdict": "Strong Uptrend",
+   "file": "NEAR.png"
+  },
+  {
    "symbol": "DASH",
    "name": "Dash",
    "sigma": 2.64,
    "from_btc_pct": 7,
    "verdict": "Strong Uptrend",
    "file": "DASH.png"
-  },
-  {
-   "symbol": "1000CAT",
-   "name": "Simon's Cat",
-   "sigma": 2.51,
-   "from_btc_pct": 5,
-   "verdict": "Overbought",
-   "file": "1000CAT.png"
   }
  ]
 }
