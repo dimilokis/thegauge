@@ -1,6 +1,6 @@
 {
  "date": "2026-09-07",
- "generated_at": "2026-09-07T19:15:50.692124+00:00",
+ "generated_at": "2026-09-07T21:00:54.958239+00:00",
  "assets": [
   {
    "symbol": "IOST",
@@ -75,18 +75,10 @@
    "file": "DOT.png"
   },
   {
-   "symbol": "AERO",
-   "name": "Aerodrome Finance",
-   "sigma": 2.79,
-   "from_btc_pct": 27,
-   "verdict": "Strong Uptrend",
-   "file": "AERO.png"
-  },
-  {
    "symbol": "ORCA",
    "name": "Orca",
-   "sigma": 2.65,
-   "from_btc_pct": 25,
+   "sigma": 2.78,
+   "from_btc_pct": 24,
    "verdict": "Overbought",
    "file": "ORCA.png"
   },
@@ -97,6 +89,14 @@
    "from_btc_pct": 29,
    "verdict": "Overbought",
    "file": "METIS.png"
+  },
+  {
+   "symbol": "AERO",
+   "name": "Aerodrome Finance",
+   "sigma": 2.55,
+   "from_btc_pct": 28,
+   "verdict": "Strong Uptrend",
+   "file": "AERO.png"
   }
  ]
 }
