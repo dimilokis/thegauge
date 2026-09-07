@@ -1,6 +1,6 @@
 {
  "date": "2026-09-07",
- "generated_at": "2026-09-07T17:30:50.540073+00:00",
+ "generated_at": "2026-09-07T18:15:53.703488+00:00",
  "assets": [
   {
    "symbol": "IOST",
@@ -17,6 +17,14 @@
    "from_btc_pct": 3,
    "verdict": "Overbought",
    "file": "SOPH.png"
+  },
+  {
+   "symbol": "KAVA",
+   "name": "Kava",
+   "sigma": 7.01,
+   "from_btc_pct": 6,
+   "verdict": "Overbought",
+   "file": "KAVA.png"
   },
   {
    "symbol": "LUNA",
@@ -67,6 +75,14 @@
    "file": "DOT.png"
   },
   {
+   "symbol": "ORCA",
+   "name": "Orca",
+   "sigma": 2.65,
+   "from_btc_pct": 25,
+   "verdict": "Overbought",
+   "file": "ORCA.png"
+  },
+  {
    "symbol": "METIS",
    "name": "Metis",
    "sigma": 2.62,
@@ -81,22 +97,6 @@
    "from_btc_pct": 16,
    "verdict": "Strong Uptrend",
    "file": "FIL.png"
-  },
-  {
-   "symbol": "ORCA",
-   "name": "Orca",
-   "sigma": 2.6,
-   "from_btc_pct": 25,
-   "verdict": "Overbought",
-   "file": "ORCA.png"
-  },
-  {
-   "symbol": "CFG",
-   "name": "Centrifuge",
-   "sigma": 2.58,
-   "from_btc_pct": 1,
-   "verdict": "Oversold",
-   "file": "CFG.png"
   }
  ]
 }

@@ -131,6 +131,10 @@
   "icon": "https://coin-images.coingecko.com/coins/images/16547/large/arb.jpg?1721358242",
   "name": "Arbitrum"
  },
+ "ARKM": {
+  "icon": "https://coin-images.coingecko.com/coins/images/30929/large/Arkham_Logo_CG.png",
+  "name": "Arkham"
+ },
  "ASTER": {
   "icon": "https://coin-images.coingecko.com/coins/images/69040/large/_ASTER.png?1757326782",
   "name": "Aster"
@@ -658,6 +662,10 @@
  "KAT": {
   "icon": "https://coin-images.coingecko.com/coins/images/70225/large/katana-social-icon.png?1761121098",
   "name": "Katana"
+ },
+ "KAVA": {
+  "icon": "https://coin-images.coingecko.com/coins/images/9761/large/kava.png",
+  "name": "Kava"
  },
  "KERNEL": {
   "icon": "https://coin-images.coingecko.com/coins/images/54326/large/Kernel_token_logo_2x.png?1739827205",
