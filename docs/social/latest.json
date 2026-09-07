@@ -1,6 +1,6 @@
 {
  "date": "2026-09-07",
- "generated_at": "2026-09-07T06:00:54.619397+00:00",
+ "generated_at": "2026-09-07T06:16:27.304606+00:00",
  "assets": [
   {
    "symbol": "ICP",
@@ -11,20 +11,28 @@
    "file": "ICP.png"
   },
   {
-   "symbol": "ORCA",
-   "name": "Orca",
-   "sigma": 3.17,
-   "from_btc_pct": 25,
-   "verdict": "Overbought",
-   "file": "ORCA.png"
-  },
-  {
    "symbol": "CFG",
    "name": "Centrifuge",
    "sigma": 2.86,
    "from_btc_pct": 2,
    "verdict": "Oversold",
    "file": "CFG.png"
+  },
+  {
+   "symbol": "CATI",
+   "name": "Catizen",
+   "sigma": 2.84,
+   "from_btc_pct": 0,
+   "verdict": "Overbought",
+   "file": "CATI.png"
+  },
+  {
+   "symbol": "ORCA",
+   "name": "Orca",
+   "sigma": 2.78,
+   "from_btc_pct": 27,
+   "verdict": "Overbought",
+   "file": "ORCA.png"
   },
   {
    "symbol": "METIS",
