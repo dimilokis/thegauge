@@ -1,6 +1,6 @@
 {
  "date": "2026-09-07",
- "generated_at": "2026-09-07T15:15:53.756217+00:00",
+ "generated_at": "2026-09-07T16:15:49.871416+00:00",
  "assets": [
   {
    "symbol": "IOST",
@@ -61,8 +61,8 @@
   {
    "symbol": "ICP",
    "name": "Internet Computer",
-   "sigma": 3.06,
-   "from_btc_pct": 15,
+   "sigma": 3.04,
+   "from_btc_pct": 14,
    "verdict": "Strong Uptrend",
    "file": "ICP.png"
   },
