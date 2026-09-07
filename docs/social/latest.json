@@ -1,6 +1,6 @@
 {
  "date": "2026-09-07",
- "generated_at": "2026-09-07T16:30:52.265676+00:00",
+ "generated_at": "2026-09-07T16:45:47.202045+00:00",
  "assets": [
   {
    "symbol": "IOST",
@@ -43,14 +43,6 @@
    "file": "LTC.png"
   },
   {
-   "symbol": "ORCA",
-   "name": "Orca",
-   "sigma": 3.32,
-   "from_btc_pct": 21,
-   "verdict": "Overbought",
-   "file": "ORCA.png"
-  },
-  {
    "symbol": "SOLV",
    "name": "Solv Protocol",
    "sigma": 3.28,
@@ -75,6 +67,14 @@
    "file": "DOT.png"
   },
   {
+   "symbol": "ORCA",
+   "name": "Orca",
+   "sigma": 2.65,
+   "from_btc_pct": 24,
+   "verdict": "Overbought",
+   "file": "ORCA.png"
+  },
+  {
    "symbol": "METIS",
    "name": "Metis",
    "sigma": 2.62,
@@ -83,20 +83,20 @@
    "file": "METIS.png"
   },
   {
+   "symbol": "FIL",
+   "name": "Filecoin",
+   "sigma": 2.61,
+   "from_btc_pct": 16,
+   "verdict": "Strong Uptrend",
+   "file": "FIL.png"
+  },
+  {
    "symbol": "CFG",
    "name": "Centrifuge",
    "sigma": 2.58,
    "from_btc_pct": 1,
    "verdict": "Oversold",
    "file": "CFG.png"
-  },
-  {
-   "symbol": "CATI",
-   "name": "Catizen",
-   "sigma": 2.51,
-   "from_btc_pct": 0,
-   "verdict": "Overbought",
-   "file": "CATI.png"
   }
  ]
 }
