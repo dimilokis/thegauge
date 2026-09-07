@@ -1,6 +1,6 @@
 {
  "date": "2026-09-07",
- "generated_at": "2026-09-07T21:00:54.958239+00:00",
+ "generated_at": "2026-09-07T23:15:52.630456+00:00",
  "assets": [
   {
    "symbol": "IOST",
@@ -59,6 +59,14 @@
    "file": "SOLV.png"
   },
   {
+   "symbol": "DOT",
+   "name": "Polkadot",
+   "sigma": 3.12,
+   "from_btc_pct": 32,
+   "verdict": "Strong Uptrend",
+   "file": "DOT.png"
+  },
+  {
    "symbol": "ICP",
    "name": "Internet Computer",
    "sigma": 3.04,
@@ -67,12 +75,12 @@
    "file": "ICP.png"
   },
   {
-   "symbol": "DOT",
-   "name": "Polkadot",
-   "sigma": 3.02,
-   "from_btc_pct": 33,
-   "verdict": "Strong Uptrend",
-   "file": "DOT.png"
+   "symbol": "WLD",
+   "name": "Worldcoin",
+   "sigma": 2.8,
+   "from_btc_pct": 20,
+   "verdict": "Neutral",
+   "file": "WLD.png"
   },
   {
    "symbol": "ORCA",
@@ -89,14 +97,6 @@
    "from_btc_pct": 29,
    "verdict": "Overbought",
    "file": "METIS.png"
-  },
-  {
-   "symbol": "AERO",
-   "name": "Aerodrome Finance",
-   "sigma": 2.55,
-   "from_btc_pct": 28,
-   "verdict": "Strong Uptrend",
-   "file": "AERO.png"
   }
  ]
 }
