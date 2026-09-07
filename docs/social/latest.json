@@ -1,6 +1,6 @@
 {
  "date": "2026-09-07",
- "generated_at": "2026-09-07T12:01:04.032584+00:00",
+ "generated_at": "2026-09-07T12:30:55.168295+00:00",
  "assets": [
   {
    "symbol": "IOST",
@@ -61,7 +61,7 @@
   {
    "symbol": "METIS",
    "name": "Metis",
-   "sigma": 2.71,
+   "sigma": 2.62,
    "from_btc_pct": 29,
    "verdict": "Overbought",
    "file": "METIS.png"
