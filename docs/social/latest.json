@@ -1,6 +1,6 @@
 {
  "date": "2026-09-07",
- "generated_at": "2026-09-07T10:30:53.901406+00:00",
+ "generated_at": "2026-09-07T11:00:54.583976+00:00",
  "assets": [
   {
    "symbol": "IOST",
@@ -17,6 +17,14 @@
    "from_btc_pct": 3,
    "verdict": "Overbought",
    "file": "SOPH.png"
+  },
+  {
+   "symbol": "ORCA",
+   "name": "Orca",
+   "sigma": 3.45,
+   "from_btc_pct": 22,
+   "verdict": "Overbought",
+   "file": "ORCA.png"
   },
   {
    "symbol": "SOLV",
@@ -41,14 +49,6 @@
    "from_btc_pct": 2,
    "verdict": "Oversold",
    "file": "CFG.png"
-  },
-  {
-   "symbol": "ORCA",
-   "name": "Orca",
-   "sigma": 2.78,
-   "from_btc_pct": 25,
-   "verdict": "Overbought",
-   "file": "ORCA.png"
   },
   {
    "symbol": "METIS",
