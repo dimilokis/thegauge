@@ -1,7 +1,15 @@
 {
  "date": "2026-09-07",
- "generated_at": "2026-09-07T05:45:48.801984+00:00",
+ "generated_at": "2026-09-07T06:00:54.619397+00:00",
  "assets": [
+  {
+   "symbol": "ICP",
+   "name": "Internet Computer",
+   "sigma": 3.26,
+   "from_btc_pct": 16,
+   "verdict": "Strong Uptrend",
+   "file": "ICP.png"
+  },
   {
    "symbol": "ORCA",
    "name": "Orca",
@@ -21,7 +29,7 @@
   {
    "symbol": "METIS",
    "name": "Metis",
-   "sigma": 2.8,
+   "sigma": 2.71,
    "from_btc_pct": 28,
    "verdict": "Overbought",
    "file": "METIS.png"
