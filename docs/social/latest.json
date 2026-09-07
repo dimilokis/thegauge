@@ -1,6 +1,6 @@
 {
  "date": "2026-09-07",
- "generated_at": "2026-09-07T03:00:58.167514+00:00",
+ "generated_at": "2026-09-07T04:15:48.449670+00:00",
  "assets": [
   {
    "symbol": "CFG",
@@ -9,6 +9,14 @@
    "from_btc_pct": 2,
    "verdict": "Oversold",
    "file": "CFG.png"
+  },
+  {
+   "symbol": "METIS",
+   "name": "Metis",
+   "sigma": 2.8,
+   "from_btc_pct": 28,
+   "verdict": "Overbought",
+   "file": "METIS.png"
   }
  ]
 }
