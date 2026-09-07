@@ -1,6 +1,6 @@
 {
  "date": "2026-09-07",
- "generated_at": "2026-09-07T16:15:49.871416+00:00",
+ "generated_at": "2026-09-07T16:30:52.265676+00:00",
  "assets": [
   {
    "symbol": "IOST",
@@ -75,20 +75,20 @@
    "file": "DOT.png"
   },
   {
-   "symbol": "CFG",
-   "name": "Centrifuge",
-   "sigma": 2.86,
-   "from_btc_pct": 2,
-   "verdict": "Oversold",
-   "file": "CFG.png"
-  },
-  {
    "symbol": "METIS",
    "name": "Metis",
    "sigma": 2.62,
    "from_btc_pct": 29,
    "verdict": "Overbought",
    "file": "METIS.png"
+  },
+  {
+   "symbol": "CFG",
+   "name": "Centrifuge",
+   "sigma": 2.58,
+   "from_btc_pct": 1,
+   "verdict": "Oversold",
+   "file": "CFG.png"
   },
   {
    "symbol": "CATI",
