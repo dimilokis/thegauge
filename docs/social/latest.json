@@ -1,6 +1,6 @@
 {
  "date": "2026-09-07",
- "generated_at": "2026-09-07T08:30:53.320364+00:00",
+ "generated_at": "2026-09-07T10:00:55.305330+00:00",
  "assets": [
   {
    "symbol": "IOST",
@@ -38,7 +38,7 @@
    "symbol": "ORCA",
    "name": "Orca",
    "sigma": 2.78,
-   "from_btc_pct": 27,
+   "from_btc_pct": 25,
    "verdict": "Overbought",
    "file": "ORCA.png"
   },
