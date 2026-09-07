@@ -1,6 +1,6 @@
 {
  "date": "2026-09-07",
- "generated_at": "2026-09-07T10:00:55.305330+00:00",
+ "generated_at": "2026-09-07T10:30:53.901406+00:00",
  "assets": [
   {
    "symbol": "IOST",
@@ -17,6 +17,14 @@
    "from_btc_pct": 3,
    "verdict": "Overbought",
    "file": "SOPH.png"
+  },
+  {
+   "symbol": "SOLV",
+   "name": "Solv Protocol",
+   "sigma": 3.28,
+   "from_btc_pct": 6,
+   "verdict": "Overbought",
+   "file": "SOLV.png"
   },
   {
    "symbol": "ICP",
