@@ -1,6 +1,6 @@
 {
  "date": "2026-09-07",
- "generated_at": "2026-09-07T14:30:53.649336+00:00",
+ "generated_at": "2026-09-07T15:15:53.756217+00:00",
  "assets": [
   {
    "symbol": "IOST",
@@ -25,6 +25,14 @@
    "from_btc_pct": 8,
    "verdict": "Overbought",
    "file": "LUNA.png"
+  },
+  {
+   "symbol": "JST",
+   "name": "JUST",
+   "sigma": 3.85,
+   "from_btc_pct": 1,
+   "verdict": "Neutral",
+   "file": "JST.png"
   },
   {
    "symbol": "LTC",
