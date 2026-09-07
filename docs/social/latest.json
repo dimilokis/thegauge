@@ -1,6 +1,6 @@
 {
  "date": "2026-09-07",
- "generated_at": "2026-09-07T18:15:53.703488+00:00",
+ "generated_at": "2026-09-07T19:15:50.692124+00:00",
  "assets": [
   {
    "symbol": "IOST",
@@ -75,6 +75,14 @@
    "file": "DOT.png"
   },
   {
+   "symbol": "AERO",
+   "name": "Aerodrome Finance",
+   "sigma": 2.79,
+   "from_btc_pct": 27,
+   "verdict": "Strong Uptrend",
+   "file": "AERO.png"
+  },
+  {
    "symbol": "ORCA",
    "name": "Orca",
    "sigma": 2.65,
@@ -89,14 +97,6 @@
    "from_btc_pct": 29,
    "verdict": "Overbought",
    "file": "METIS.png"
-  },
-  {
-   "symbol": "FIL",
-   "name": "Filecoin",
-   "sigma": 2.61,
-   "from_btc_pct": 16,
-   "verdict": "Strong Uptrend",
-   "file": "FIL.png"
   }
  ]
 }
