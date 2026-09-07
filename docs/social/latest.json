@@ -1,6 +1,6 @@
 {
  "date": "2026-09-06",
- "generated_at": "2026-09-06T23:45:56.128649+00:00",
+ "generated_at": "2026-09-07T01:15:48.963548+00:00",
  "assets": [
   {
    "symbol": "METIS",
@@ -59,6 +59,14 @@
    "file": "ZEN.png"
   },
   {
+   "symbol": "ORCA",
+   "name": "Orca",
+   "sigma": 3.06,
+   "from_btc_pct": 26,
+   "verdict": "Overbought",
+   "file": "ORCA.png"
+  },
+  {
    "symbol": "ROSE",
    "name": "Oasis",
    "sigma": 2.93,
@@ -89,14 +97,6 @@
    "from_btc_pct": 37,
    "verdict": "Overbought",
    "file": "JUP.png"
-  },
-  {
-   "symbol": "BONK",
-   "name": "Bonk",
-   "sigma": 2.82,
-   "from_btc_pct": 39,
-   "verdict": "Neutral",
-   "file": "BONK.png"
   }
  ]
 }
