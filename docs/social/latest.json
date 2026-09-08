@@ -1,6 +1,6 @@
 {
  "date": "2026-09-08",
- "generated_at": "2026-09-08T07:45:51.328684+00:00",
+ "generated_at": "2026-09-08T08:15:50.408605+00:00",
  "assets": [
   {
    "symbol": "IOST",
@@ -9,6 +9,14 @@
    "from_btc_pct": 1,
    "verdict": "Overbought",
    "file": "IOST.png"
+  },
+  {
+   "symbol": "CAKE",
+   "name": "PancakeSwap",
+   "sigma": 3.22,
+   "from_btc_pct": 26,
+   "verdict": "Overbought",
+   "file": "CAKE.png"
   },
   {
    "symbol": "AVNT",
@@ -25,14 +33,6 @@
    "from_btc_pct": 1,
    "verdict": "Neutral",
    "file": "CFG.png"
-  },
-  {
-   "symbol": "CAKE",
-   "name": "PancakeSwap",
-   "sigma": 2.53,
-   "from_btc_pct": 28,
-   "verdict": "Overbought",
-   "file": "CAKE.png"
   },
   {
    "symbol": "FORM",
