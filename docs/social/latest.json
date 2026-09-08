@@ -1,6 +1,6 @@
 {
  "date": "2026-09-08",
- "generated_at": "2026-09-08T10:30:56.601875+00:00",
+ "generated_at": "2026-09-08T10:45:48.732518+00:00",
  "assets": [
   {
    "symbol": "QKC",
@@ -9,14 +9,6 @@
    "from_btc_pct": 1,
    "verdict": "Overbought",
    "file": "QKC.png"
-  },
-  {
-   "symbol": "HAEDAL",
-   "name": "Haedal Protocol",
-   "sigma": 9.48,
-   "from_btc_pct": 9,
-   "verdict": "Overbought",
-   "file": "HAEDAL.png"
   },
   {
    "symbol": "IOST",
@@ -41,6 +33,14 @@
    "from_btc_pct": 10,
    "verdict": "Overbought",
    "file": "AVNT.png"
+  },
+  {
+   "symbol": "HAEDAL",
+   "name": "Haedal Protocol",
+   "sigma": 2.83,
+   "from_btc_pct": 27,
+   "verdict": "Overbought",
+   "file": "HAEDAL.png"
   },
   {
    "symbol": "CFG",
