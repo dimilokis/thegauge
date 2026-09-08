@@ -1,6 +1,6 @@
 {
  "date": "2026-09-08",
- "generated_at": "2026-09-08T04:31:03.560973+00:00",
+ "generated_at": "2026-09-08T05:11:39.825349+00:00",
  "assets": [
   {
    "symbol": "IOST",
@@ -9,6 +9,14 @@
    "from_btc_pct": 1,
    "verdict": "Overbought",
    "file": "IOST.png"
+  },
+  {
+   "symbol": "AVNT",
+   "name": "Avantis",
+   "sigma": 3.06,
+   "from_btc_pct": 10,
+   "verdict": "Overbought",
+   "file": "AVNT.png"
   },
   {
    "symbol": "CFG",
