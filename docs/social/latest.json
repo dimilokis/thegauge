@@ -1,6 +1,6 @@
 {
  "date": "2026-09-08",
- "generated_at": "2026-09-08T15:16:03.191808+00:00",
+ "generated_at": "2026-09-08T15:30:56.874474+00:00",
  "assets": [
   {
    "symbol": "QKC",
@@ -11,28 +11,12 @@
    "file": "QKC.png"
   },
   {
-   "symbol": "SCR",
-   "name": "Scroll",
-   "sigma": 6.53,
-   "from_btc_pct": 16,
-   "verdict": "Neutral",
-   "file": "SCR.png"
-  },
-  {
    "symbol": "IOST",
    "name": "IOST",
    "sigma": 5.57,
    "from_btc_pct": 1,
    "verdict": "Overbought",
    "file": "IOST.png"
-  },
-  {
-   "symbol": "GLMR",
-   "name": "Moonbeam",
-   "sigma": 5.15,
-   "from_btc_pct": 3,
-   "verdict": "Neutral",
-   "file": "GLMR.png"
   },
   {
    "symbol": "FF",
@@ -49,6 +33,14 @@
    "from_btc_pct": 5,
    "verdict": "Overbought",
    "file": "G.png"
+  },
+  {
+   "symbol": "SCR",
+   "name": "Scroll",
+   "sigma": 3.57,
+   "from_btc_pct": 25,
+   "verdict": "Neutral",
+   "file": "SCR.png"
   },
   {
    "symbol": "DOT",
@@ -97,6 +89,14 @@
    "from_btc_pct": 25,
    "verdict": "Overbought",
    "file": "ORCA.png"
+  },
+  {
+   "symbol": "GLMR",
+   "name": "Moonbeam",
+   "sigma": 2.6,
+   "from_btc_pct": 7,
+   "verdict": "Neutral",
+   "file": "GLMR.png"
   }
  ]
 }
