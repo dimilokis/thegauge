@@ -1,6 +1,6 @@
 {
  "date": "2026-09-08",
- "generated_at": "2026-09-08T15:30:56.874474+00:00",
+ "generated_at": "2026-09-08T16:15:50.057305+00:00",
  "assets": [
   {
    "symbol": "QKC",
@@ -59,6 +59,14 @@
    "file": "CAKE.png"
   },
   {
+   "symbol": "DOGS",
+   "name": "Dogs",
+   "sigma": 3.2,
+   "from_btc_pct": 26,
+   "verdict": "Overbought",
+   "file": "DOGS.png"
+  },
+  {
    "symbol": "AVNT",
    "name": "Avantis",
    "sigma": 3.06,
@@ -89,14 +97,6 @@
    "from_btc_pct": 25,
    "verdict": "Overbought",
    "file": "ORCA.png"
-  },
-  {
-   "symbol": "GLMR",
-   "name": "Moonbeam",
-   "sigma": 2.6,
-   "from_btc_pct": 7,
-   "verdict": "Neutral",
-   "file": "GLMR.png"
   }
  ]
 }
