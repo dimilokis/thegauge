@@ -987,6 +987,10 @@
   "icon": "https://coin-images.coingecko.com/coins/images/16362/large/GergDDN3_400x400.jpg?1696515961",
   "name": "BENQI"
  },
+ "QKC": {
+  "icon": "https://coin-images.coingecko.com/coins/images/3849/large/QuarkChain.jpg",
+  "name": "QuarkChain"
+ },
  "QTUM": {
   "icon": "https://coin-images.coingecko.com/coins/images/684/large/Qtum_Logo_blue_CG.png",
   "name": "Qtum"

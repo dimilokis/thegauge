@@ -1,7 +1,15 @@
 {
  "date": "2026-09-08",
- "generated_at": "2026-09-08T08:45:52.192696+00:00",
+ "generated_at": "2026-09-08T10:30:56.601875+00:00",
  "assets": [
+  {
+   "symbol": "QKC",
+   "name": "QuarkChain",
+   "sigma": 20.79,
+   "from_btc_pct": 1,
+   "verdict": "Overbought",
+   "file": "QKC.png"
+  },
   {
    "symbol": "HAEDAL",
    "name": "Haedal Protocol",
