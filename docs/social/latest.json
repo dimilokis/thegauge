@@ -1,6 +1,6 @@
 {
  "date": "2026-09-07",
- "generated_at": "2026-09-07T23:15:52.630456+00:00",
+ "generated_at": "2026-09-08T00:30:48.590000+00:00",
  "assets": [
   {
    "symbol": "IOST",
@@ -9,14 +9,6 @@
    "from_btc_pct": 6,
    "verdict": "Overbought",
    "file": "IOST.png"
-  },
-  {
-   "symbol": "SOPH",
-   "name": "Sophon",
-   "sigma": 7.88,
-   "from_btc_pct": 3,
-   "verdict": "Overbought",
-   "file": "SOPH.png"
   },
   {
    "symbol": "KAVA",
@@ -89,6 +81,14 @@
    "from_btc_pct": 24,
    "verdict": "Overbought",
    "file": "ORCA.png"
+  },
+  {
+   "symbol": "SOPH",
+   "name": "Sophon",
+   "sigma": 2.63,
+   "from_btc_pct": 0,
+   "verdict": "Overbought",
+   "file": "SOPH.png"
   },
   {
    "symbol": "METIS",
