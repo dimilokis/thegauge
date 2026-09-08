@@ -1,6 +1,6 @@
 {
  "date": "2026-09-08",
- "generated_at": "2026-09-08T11:30:54.356839+00:00",
+ "generated_at": "2026-09-08T11:45:46.663230+00:00",
  "assets": [
   {
    "symbol": "QKC",
@@ -17,6 +17,14 @@
    "from_btc_pct": 1,
    "verdict": "Overbought",
    "file": "IOST.png"
+  },
+  {
+   "symbol": "G",
+   "name": "Gravity (by Galxe)",
+   "sigma": 4.06,
+   "from_btc_pct": 5,
+   "verdict": "Overbought",
+   "file": "G.png"
   },
   {
    "symbol": "FF",
