@@ -1,6 +1,6 @@
 {
  "date": "2026-09-08",
- "generated_at": "2026-09-08T03:45:51.310750+00:00",
+ "generated_at": "2026-09-08T04:31:03.560973+00:00",
  "assets": [
   {
    "symbol": "IOST",
@@ -17,6 +17,14 @@
    "from_btc_pct": 1,
    "verdict": "Neutral",
    "file": "CFG.png"
+  },
+  {
+   "symbol": "FORM",
+   "name": "Four",
+   "sigma": 2.5,
+   "from_btc_pct": 33,
+   "verdict": "Overbought",
+   "file": "FORM.png"
   }
  ]
 }
