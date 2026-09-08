@@ -1,6 +1,6 @@
 {
  "date": "2026-09-08",
- "generated_at": "2026-09-08T12:45:53.165900+00:00",
+ "generated_at": "2026-09-08T13:15:50.952031+00:00",
  "assets": [
   {
    "symbol": "QKC",
@@ -33,14 +33,6 @@
    "from_btc_pct": 5,
    "verdict": "Overbought",
    "file": "G.png"
-  },
-  {
-   "symbol": "VET",
-   "name": "VeChain",
-   "sigma": 3.43,
-   "from_btc_pct": 27,
-   "verdict": "Overbought",
-   "file": "VET.png"
   },
   {
    "symbol": "CAKE",
@@ -89,6 +81,14 @@
    "from_btc_pct": 15,
    "verdict": "Overbought",
    "file": "ATOM.png"
+  },
+  {
+   "symbol": "VET",
+   "name": "VeChain",
+   "sigma": 2.55,
+   "from_btc_pct": 30,
+   "verdict": "Overbought",
+   "file": "VET.png"
   },
   {
    "symbol": "FORM",
