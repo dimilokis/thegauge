@@ -1,6 +1,6 @@
 {
  "date": "2026-09-08",
- "generated_at": "2026-09-08T11:45:46.663230+00:00",
+ "generated_at": "2026-09-08T12:45:53.165900+00:00",
  "assets": [
   {
    "symbol": "QKC",
@@ -19,20 +19,20 @@
    "file": "IOST.png"
   },
   {
+   "symbol": "FF",
+   "name": "Falcon Finance",
+   "sigma": 4.37,
+   "from_btc_pct": 1,
+   "verdict": "Overbought",
+   "file": "FF.png"
+  },
+  {
    "symbol": "G",
    "name": "Gravity (by Galxe)",
    "sigma": 4.06,
    "from_btc_pct": 5,
    "verdict": "Overbought",
    "file": "G.png"
-  },
-  {
-   "symbol": "FF",
-   "name": "Falcon Finance",
-   "sigma": 3.65,
-   "from_btc_pct": 1,
-   "verdict": "Overbought",
-   "file": "FF.png"
   },
   {
    "symbol": "VET",
@@ -81,6 +81,14 @@
    "from_btc_pct": 25,
    "verdict": "Overbought",
    "file": "ORCA.png"
+  },
+  {
+   "symbol": "ATOM",
+   "name": "Cosmos Hub",
+   "sigma": 2.55,
+   "from_btc_pct": 15,
+   "verdict": "Overbought",
+   "file": "ATOM.png"
   },
   {
    "symbol": "FORM",
