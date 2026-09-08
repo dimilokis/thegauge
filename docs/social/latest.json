@@ -1,6 +1,6 @@
 {
  "date": "2026-09-08",
- "generated_at": "2026-09-08T11:00:55.024830+00:00",
+ "generated_at": "2026-09-08T11:15:51.283001+00:00",
  "assets": [
   {
    "symbol": "QKC",
@@ -57,6 +57,14 @@
    "from_btc_pct": 1,
    "verdict": "Neutral",
    "file": "CFG.png"
+  },
+  {
+   "symbol": "ORCA",
+   "name": "Orca",
+   "sigma": 2.65,
+   "from_btc_pct": 25,
+   "verdict": "Overbought",
+   "file": "ORCA.png"
   },
   {
    "symbol": "FORM",
