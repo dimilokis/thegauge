@@ -1,6 +1,6 @@
 {
  "date": "2026-09-08",
- "generated_at": "2026-09-08T13:30:58.703930+00:00",
+ "generated_at": "2026-09-08T14:45:54.471978+00:00",
  "assets": [
   {
    "symbol": "QKC",
@@ -9,6 +9,14 @@
    "from_btc_pct": 1,
    "verdict": "Overbought",
    "file": "QKC.png"
+  },
+  {
+   "symbol": "SCR",
+   "name": "Scroll",
+   "sigma": 6.53,
+   "from_btc_pct": 16,
+   "verdict": "Neutral",
+   "file": "SCR.png"
   },
   {
    "symbol": "IOST",
@@ -85,18 +93,10 @@
   {
    "symbol": "ATOM",
    "name": "Cosmos Hub",
-   "sigma": 2.55,
+   "sigma": 2.58,
    "from_btc_pct": 15,
    "verdict": "Overbought",
    "file": "ATOM.png"
-  },
-  {
-   "symbol": "VET",
-   "name": "VeChain",
-   "sigma": 2.55,
-   "from_btc_pct": 30,
-   "verdict": "Overbought",
-   "file": "VET.png"
   }
  ]
 }
