@@ -1,102 +1,14 @@
 {
- "date": "2026-09-08",
- "generated_at": "2026-09-09T02:15:52.468814+00:00",
+ "date": "2026-09-09",
+ "generated_at": "2026-09-09T03:45:50.560444+00:00",
  "assets": [
   {
-   "symbol": "IOST",
-   "name": "IOST",
-   "sigma": 5.57,
-   "from_btc_pct": 1,
+   "symbol": "KAT",
+   "name": "Katana",
+   "sigma": 11.46,
+   "from_btc_pct": 6,
    "verdict": "Overbought",
-   "file": "IOST.png"
-  },
-  {
-   "symbol": "FF",
-   "name": "Falcon Finance",
-   "sigma": 4.37,
-   "from_btc_pct": 1,
-   "verdict": "Overbought",
-   "file": "FF.png"
-  },
-  {
-   "symbol": "G",
-   "name": "Gravity (by Galxe)",
-   "sigma": 4.06,
-   "from_btc_pct": 5,
-   "verdict": "Overbought",
-   "file": "G.png"
-  },
-  {
-   "symbol": "QKC",
-   "name": "QuarkChain",
-   "sigma": 4.01,
-   "from_btc_pct": 3,
-   "verdict": "Overbought",
-   "file": "QKC.png"
-  },
-  {
-   "symbol": "SCR",
-   "name": "Scroll",
-   "sigma": 3.57,
-   "from_btc_pct": 25,
-   "verdict": "Neutral",
-   "file": "SCR.png"
-  },
-  {
-   "symbol": "DOT",
-   "name": "Polkadot",
-   "sigma": 3.29,
-   "from_btc_pct": 23,
-   "verdict": "Strong Uptrend",
-   "file": "DOT.png"
-  },
-  {
-   "symbol": "CAKE",
-   "name": "PancakeSwap",
-   "sigma": 3.22,
-   "from_btc_pct": 26,
-   "verdict": "Overbought",
-   "file": "CAKE.png"
-  },
-  {
-   "symbol": "DOGS",
-   "name": "Dogs",
-   "sigma": 3.2,
-   "from_btc_pct": 26,
-   "verdict": "Overbought",
-   "file": "DOGS.png"
-  },
-  {
-   "symbol": "AVNT",
-   "name": "Avantis",
-   "sigma": 3.06,
-   "from_btc_pct": 10,
-   "verdict": "Overbought",
-   "file": "AVNT.png"
-  },
-  {
-   "symbol": "HAEDAL",
-   "name": "Haedal Protocol",
-   "sigma": 2.83,
-   "from_btc_pct": 27,
-   "verdict": "Overbought",
-   "file": "HAEDAL.png"
-  },
-  {
-   "symbol": "MIRA",
-   "name": "Mira",
-   "sigma": 2.83,
-   "from_btc_pct": 11,
-   "verdict": "Overbought",
-   "file": "MIRA.png"
-  },
-  {
-   "symbol": "CFG",
-   "name": "Centrifuge",
-   "sigma": 2.8,
-   "from_btc_pct": 1,
-   "verdict": "Neutral",
-   "file": "CFG.png"
+   "file": "KAT.png"
   }
  ]
 }
