@@ -1,6 +1,6 @@
 {
  "date": "2026-09-09",
- "generated_at": "2026-09-09T13:45:51.850526+00:00",
+ "generated_at": "2026-09-09T14:45:48.268234+00:00",
  "assets": [
   {
    "symbol": "KAT",
@@ -13,8 +13,8 @@
   {
    "symbol": "MINA",
    "name": "Mina Protocol",
-   "sigma": 4.61,
-   "from_btc_pct": 39,
+   "sigma": 3.92,
+   "from_btc_pct": 40,
    "verdict": "Overbought",
    "file": "MINA.png"
   },
@@ -49,6 +49,14 @@
    "from_btc_pct": 6,
    "verdict": "Overbought",
    "file": "RAY.png"
+  },
+  {
+   "symbol": "DOT",
+   "name": "Polkadot",
+   "sigma": 2.67,
+   "from_btc_pct": 11,
+   "verdict": "Strong Uptrend",
+   "file": "DOT.png"
   },
   {
    "symbol": "ATOM",
