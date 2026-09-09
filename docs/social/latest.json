@@ -1,6 +1,6 @@
 {
  "date": "2026-09-08",
- "generated_at": "2026-09-09T00:15:58.030888+00:00",
+ "generated_at": "2026-09-09T00:30:54.373664+00:00",
  "assets": [
   {
    "symbol": "IOST",
@@ -51,6 +51,14 @@
    "file": "DOT.png"
   },
   {
+   "symbol": "MIRA",
+   "name": "Mira",
+   "sigma": 3.23,
+   "from_btc_pct": 10,
+   "verdict": "Overbought",
+   "file": "MIRA.png"
+  },
+  {
    "symbol": "CAKE",
    "name": "PancakeSwap",
    "sigma": 3.22,
@@ -89,14 +97,6 @@
    "from_btc_pct": 1,
    "verdict": "Neutral",
    "file": "CFG.png"
-  },
-  {
-   "symbol": "ORCA",
-   "name": "Orca",
-   "sigma": 2.65,
-   "from_btc_pct": 25,
-   "verdict": "Overbought",
-   "file": "ORCA.png"
   }
  ]
 }
