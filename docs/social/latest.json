@@ -1,6 +1,6 @@
 {
  "date": "2026-09-09",
- "generated_at": "2026-09-09T10:01:01.980571+00:00",
+ "generated_at": "2026-09-09T10:45:49.527771+00:00",
  "assets": [
   {
    "symbol": "KAT",
@@ -33,6 +33,14 @@
    "from_btc_pct": 6,
    "verdict": "Overbought",
    "file": "RAY.png"
+  },
+  {
+   "symbol": "NEAR",
+   "name": "NEAR Protocol",
+   "sigma": 2.67,
+   "from_btc_pct": 26,
+   "verdict": "Strong Uptrend",
+   "file": "NEAR.png"
   },
   {
    "symbol": "ATOM",
