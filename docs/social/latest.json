@@ -1,6 +1,6 @@
 {
  "date": "2026-09-09",
- "generated_at": "2026-09-09T09:45:48.834699+00:00",
+ "generated_at": "2026-09-09T10:01:01.980571+00:00",
  "assets": [
   {
    "symbol": "KAT",
@@ -33,6 +33,14 @@
    "from_btc_pct": 6,
    "verdict": "Overbought",
    "file": "RAY.png"
+  },
+  {
+   "symbol": "ATOM",
+   "name": "Cosmos Hub",
+   "sigma": 2.65,
+   "from_btc_pct": 9,
+   "verdict": "Overbought",
+   "file": "ATOM.png"
   }
  ]
 }
