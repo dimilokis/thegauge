@@ -1,6 +1,6 @@
 {
  "date": "2026-09-09",
- "generated_at": "2026-09-09T16:45:49.079600+00:00",
+ "generated_at": "2026-09-09T17:30:52.319005+00:00",
  "assets": [
   {
    "symbol": "KAT",
@@ -57,6 +57,14 @@
    "from_btc_pct": 6,
    "verdict": "Overbought",
    "file": "RAY.png"
+  },
+  {
+   "symbol": "ZEN",
+   "name": "Horizen",
+   "sigma": 2.74,
+   "from_btc_pct": 25,
+   "verdict": "Overbought",
+   "file": "ZEN.png"
   },
   {
    "symbol": "DOT",
