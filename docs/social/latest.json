@@ -1,6 +1,6 @@
 {
  "date": "2026-09-09",
- "generated_at": "2026-09-09T03:45:50.560444+00:00",
+ "generated_at": "2026-09-09T05:00:58.186623+00:00",
  "assets": [
   {
    "symbol": "KAT",
@@ -9,6 +9,14 @@
    "from_btc_pct": 6,
    "verdict": "Overbought",
    "file": "KAT.png"
+  },
+  {
+   "symbol": "IOST",
+   "name": "IOST",
+   "sigma": 3.79,
+   "from_btc_pct": 2,
+   "verdict": "Overbought",
+   "file": "IOST.png"
   }
  ]
 }
