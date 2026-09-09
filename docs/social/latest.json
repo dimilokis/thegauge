@@ -1,6 +1,6 @@
 {
  "date": "2026-09-08",
- "generated_at": "2026-09-09T01:00:53.055918+00:00",
+ "generated_at": "2026-09-09T01:15:52.637530+00:00",
  "assets": [
   {
    "symbol": "QKC",
@@ -51,14 +51,6 @@
    "file": "DOT.png"
   },
   {
-   "symbol": "MIRA",
-   "name": "Mira",
-   "sigma": 3.23,
-   "from_btc_pct": 10,
-   "verdict": "Overbought",
-   "file": "MIRA.png"
-  },
-  {
    "symbol": "CAKE",
    "name": "PancakeSwap",
    "sigma": 3.22,
@@ -89,6 +81,14 @@
    "from_btc_pct": 27,
    "verdict": "Overbought",
    "file": "HAEDAL.png"
+  },
+  {
+   "symbol": "MIRA",
+   "name": "Mira",
+   "sigma": 2.83,
+   "from_btc_pct": 11,
+   "verdict": "Overbought",
+   "file": "MIRA.png"
   },
   {
    "symbol": "CFG",
