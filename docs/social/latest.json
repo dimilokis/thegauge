@@ -1,6 +1,6 @@
 {
  "date": "2026-09-09",
- "generated_at": "2026-09-09T19:15:51.218150+00:00",
+ "generated_at": "2026-09-09T20:15:57.987931+00:00",
  "assets": [
   {
    "symbol": "KAT",
@@ -21,8 +21,8 @@
   {
    "symbol": "MINA",
    "name": "Mina Protocol",
-   "sigma": 3.33,
-   "from_btc_pct": 40,
+   "sigma": 3.54,
+   "from_btc_pct": 38,
    "verdict": "Overbought",
    "file": "MINA.png"
   },
