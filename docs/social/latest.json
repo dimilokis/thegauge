@@ -1,6 +1,6 @@
 {
  "date": "2026-09-09",
- "generated_at": "2026-09-09T11:15:53.826282+00:00",
+ "generated_at": "2026-09-09T11:45:51.852883+00:00",
  "assets": [
   {
    "symbol": "KAT",
@@ -35,20 +35,20 @@
    "file": "IOST.png"
   },
   {
+   "symbol": "NEAR",
+   "name": "NEAR Protocol",
+   "sigma": 2.96,
+   "from_btc_pct": 26,
+   "verdict": "Strong Uptrend",
+   "file": "NEAR.png"
+  },
+  {
    "symbol": "RAY",
    "name": "Raydium",
    "sigma": 2.89,
    "from_btc_pct": 6,
    "verdict": "Overbought",
    "file": "RAY.png"
-  },
-  {
-   "symbol": "NEAR",
-   "name": "NEAR Protocol",
-   "sigma": 2.67,
-   "from_btc_pct": 26,
-   "verdict": "Strong Uptrend",
-   "file": "NEAR.png"
   },
   {
    "symbol": "ATOM",
