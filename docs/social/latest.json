@@ -1,6 +1,6 @@
 {
  "date": "2026-09-09",
- "generated_at": "2026-09-09T15:00:58.606770+00:00",
+ "generated_at": "2026-09-09T15:15:54.045840+00:00",
  "assets": [
   {
    "symbol": "KAT",
@@ -11,20 +11,20 @@
    "file": "KAT.png"
   },
   {
-   "symbol": "MINA",
-   "name": "Mina Protocol",
-   "sigma": 3.92,
-   "from_btc_pct": 40,
-   "verdict": "Overbought",
-   "file": "MINA.png"
-  },
-  {
    "symbol": "IOST",
    "name": "IOST",
    "sigma": 3.79,
    "from_btc_pct": 2,
    "verdict": "Overbought",
    "file": "IOST.png"
+  },
+  {
+   "symbol": "MINA",
+   "name": "Mina Protocol",
+   "sigma": 3.58,
+   "from_btc_pct": 39,
+   "verdict": "Overbought",
+   "file": "MINA.png"
   },
   {
    "symbol": "PHA",
@@ -65,6 +65,14 @@
    "from_btc_pct": 9,
    "verdict": "Overbought",
    "file": "ATOM.png"
+  },
+  {
+   "symbol": "SC",
+   "name": "Siacoin",
+   "sigma": 2.59,
+   "from_btc_pct": 0,
+   "verdict": "Overbought",
+   "file": "SC.png"
   }
  ]
 }
