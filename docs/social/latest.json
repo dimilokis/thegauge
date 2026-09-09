@@ -1,6 +1,6 @@
 {
  "date": "2026-09-09",
- "generated_at": "2026-09-09T18:45:50.611175+00:00",
+ "generated_at": "2026-09-09T19:15:51.218150+00:00",
  "assets": [
   {
    "symbol": "KAT",
@@ -59,6 +59,14 @@
    "file": "STRK.png"
   },
   {
+   "symbol": "FORM",
+   "name": "Four",
+   "sigma": 2.86,
+   "from_btc_pct": 11,
+   "verdict": "Overbought",
+   "file": "FORM.png"
+  },
+  {
    "symbol": "RAY",
    "name": "Raydium",
    "sigma": 2.8,
@@ -89,14 +97,6 @@
    "from_btc_pct": 9,
    "verdict": "Overbought",
    "file": "ATOM.png"
-  },
-  {
-   "symbol": "SC",
-   "name": "Siacoin",
-   "sigma": 2.59,
-   "from_btc_pct": 0,
-   "verdict": "Overbought",
-   "file": "SC.png"
   }
  ]
 }
