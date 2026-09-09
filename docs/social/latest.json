@@ -1,6 +1,6 @@
 {
  "date": "2026-09-09",
- "generated_at": "2026-09-09T16:15:52.235402+00:00",
+ "generated_at": "2026-09-09T16:45:49.079600+00:00",
  "assets": [
   {
    "symbol": "KAT",
@@ -81,6 +81,14 @@
    "from_btc_pct": 0,
    "verdict": "Overbought",
    "file": "SC.png"
+  },
+  {
+   "symbol": "STRK",
+   "name": "Starknet",
+   "sigma": 2.59,
+   "from_btc_pct": 33,
+   "verdict": "Overbought",
+   "file": "STRK.png"
   }
  ]
 }
