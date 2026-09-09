@@ -1,6 +1,6 @@
 {
  "date": "2026-09-09",
- "generated_at": "2026-09-09T17:30:52.319005+00:00",
+ "generated_at": "2026-09-09T18:45:50.611175+00:00",
  "assets": [
   {
    "symbol": "KAT",
@@ -51,6 +51,14 @@
    "file": "NEAR.png"
   },
   {
+   "symbol": "STRK",
+   "name": "Starknet",
+   "sigma": 2.94,
+   "from_btc_pct": 32,
+   "verdict": "Overbought",
+   "file": "STRK.png"
+  },
+  {
    "symbol": "RAY",
    "name": "Raydium",
    "sigma": 2.8,
@@ -89,14 +97,6 @@
    "from_btc_pct": 0,
    "verdict": "Overbought",
    "file": "SC.png"
-  },
-  {
-   "symbol": "STRK",
-   "name": "Starknet",
-   "sigma": 2.59,
-   "from_btc_pct": 33,
-   "verdict": "Overbought",
-   "file": "STRK.png"
   }
  ]
 }
