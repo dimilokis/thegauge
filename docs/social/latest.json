@@ -1,7 +1,15 @@
 {
  "date": "2026-09-08",
- "generated_at": "2026-09-09T00:30:54.373664+00:00",
+ "generated_at": "2026-09-09T01:00:53.055918+00:00",
  "assets": [
+  {
+   "symbol": "QKC",
+   "name": "QuarkChain",
+   "sigma": 5.58,
+   "from_btc_pct": 2,
+   "verdict": "Overbought",
+   "file": "QKC.png"
+  },
   {
    "symbol": "IOST",
    "name": "IOST",
@@ -9,14 +17,6 @@
    "from_btc_pct": 1,
    "verdict": "Overbought",
    "file": "IOST.png"
-  },
-  {
-   "symbol": "QKC",
-   "name": "QuarkChain",
-   "sigma": 4.74,
-   "from_btc_pct": 2,
-   "verdict": "Overbought",
-   "file": "QKC.png"
   },
   {
    "symbol": "FF",
