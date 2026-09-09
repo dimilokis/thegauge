@@ -1,6 +1,6 @@
 {
  "date": "2026-09-09",
- "generated_at": "2026-09-09T20:15:57.987931+00:00",
+ "generated_at": "2026-09-09T21:45:50.562208+00:00",
  "assets": [
   {
    "symbol": "KAT",
@@ -9,6 +9,14 @@
    "from_btc_pct": 6,
    "verdict": "Overbought",
    "file": "KAT.png"
+  },
+  {
+   "symbol": "SAHARA",
+   "name": "Sahara AI",
+   "sigma": 4.1,
+   "from_btc_pct": 37,
+   "verdict": "Neutral",
+   "file": "SAHARA.png"
   },
   {
    "symbol": "IOST",
@@ -89,14 +97,6 @@
    "from_btc_pct": 11,
    "verdict": "Strong Uptrend",
    "file": "DOT.png"
-  },
-  {
-   "symbol": "ATOM",
-   "name": "Cosmos Hub",
-   "sigma": 2.65,
-   "from_btc_pct": 9,
-   "verdict": "Overbought",
-   "file": "ATOM.png"
   }
  ]
 }
