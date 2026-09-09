@@ -1,6 +1,6 @@
 {
  "date": "2026-09-09",
- "generated_at": "2026-09-09T11:45:51.852883+00:00",
+ "generated_at": "2026-09-09T13:15:58.380774+00:00",
  "assets": [
   {
    "symbol": "KAT",
@@ -9,14 +9,6 @@
    "from_btc_pct": 6,
    "verdict": "Overbought",
    "file": "KAT.png"
-  },
-  {
-   "symbol": "PHA",
-   "name": "PHALA",
-   "sigma": 4.87,
-   "from_btc_pct": 32,
-   "verdict": "Overbought",
-   "file": "PHA.png"
   },
   {
    "symbol": "MINA",
@@ -33,6 +25,14 @@
    "from_btc_pct": 2,
    "verdict": "Overbought",
    "file": "IOST.png"
+  },
+  {
+   "symbol": "PHA",
+   "name": "PHALA",
+   "sigma": 3.27,
+   "from_btc_pct": 40,
+   "verdict": "Neutral",
+   "file": "PHA.png"
   },
   {
    "symbol": "NEAR",
