@@ -1,6 +1,6 @@
 {
  "date": "2026-09-09",
- "generated_at": "2026-09-09T06:39:27.384741+00:00",
+ "generated_at": "2026-09-09T09:45:48.834699+00:00",
  "assets": [
   {
    "symbol": "KAT",
@@ -9,6 +9,14 @@
    "from_btc_pct": 6,
    "verdict": "Overbought",
    "file": "KAT.png"
+  },
+  {
+   "symbol": "PHA",
+   "name": "PHALA",
+   "sigma": 4.87,
+   "from_btc_pct": 32,
+   "verdict": "Overbought",
+   "file": "PHA.png"
   },
   {
    "symbol": "IOST",
