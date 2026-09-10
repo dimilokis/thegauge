@@ -1,6 +1,6 @@
 {
  "date": "2026-09-10",
- "generated_at": "2026-09-10T16:30:57.103429+00:00",
+ "generated_at": "2026-09-10T16:45:45.670131+00:00",
  "assets": [
   {
    "symbol": "RVN",
@@ -9,6 +9,14 @@
    "from_btc_pct": 37,
    "verdict": "Oversold",
    "file": "RVN.png"
+  },
+  {
+   "symbol": "RUNE",
+   "name": "THORChain",
+   "sigma": 4.38,
+   "from_btc_pct": 39,
+   "verdict": "Overbought",
+   "file": "RUNE.png"
   },
   {
    "symbol": "SAGA",
