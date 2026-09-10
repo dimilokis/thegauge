@@ -1,6 +1,6 @@
 {
  "date": "2026-09-10",
- "generated_at": "2026-09-10T05:00:55.982593+00:00",
+ "generated_at": "2026-09-10T07:30:51.469508+00:00",
  "assets": [
   {
    "symbol": "REZ",
@@ -17,6 +17,14 @@
    "from_btc_pct": 38,
    "verdict": "Overbought",
    "file": "NEWT.png"
+  },
+  {
+   "symbol": "ANIME",
+   "name": "Animecoin",
+   "sigma": 3.95,
+   "from_btc_pct": 21,
+   "verdict": "Overbought",
+   "file": "ANIME.png"
   },
   {
    "symbol": "IOST",
