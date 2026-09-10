@@ -1,7 +1,15 @@
 {
  "date": "2026-09-10",
- "generated_at": "2026-09-10T16:00:53.555152+00:00",
+ "generated_at": "2026-09-10T16:15:50.015983+00:00",
  "assets": [
+  {
+   "symbol": "RVN",
+   "name": "Ravencoin",
+   "sigma": 6.97,
+   "from_btc_pct": 37,
+   "verdict": "Oversold",
+   "file": "RVN.png"
+  },
   {
    "symbol": "SAGA",
    "name": "Saga",
