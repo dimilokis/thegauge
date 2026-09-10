@@ -827,6 +827,10 @@
   "icon": "https://coin-images.coingecko.com/coins/images/480/large/NEO_512_512.png?1696501735",
   "name": "NEO"
  },
+ "NEWT": {
+  "icon": "https://coin-images.coingecko.com/coins/images/66819/large/newton.jpg",
+  "name": "Newton Protocol"
+ },
  "NEXO": {
   "icon": "https://coin-images.coingecko.com/coins/images/3695/large/CG-nexo-token-200x200_2x.png?1730414360",
   "name": "NEXO"
