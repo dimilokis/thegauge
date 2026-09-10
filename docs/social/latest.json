@@ -1,6 +1,6 @@
 {
  "date": "2026-09-10",
- "generated_at": "2026-09-10T03:45:48.834968+00:00",
+ "generated_at": "2026-09-10T04:00:53.698212+00:00",
  "assets": [
   {
    "symbol": "NEWT",
@@ -9,6 +9,14 @@
    "from_btc_pct": 38,
    "verdict": "Overbought",
    "file": "NEWT.png"
+  },
+  {
+   "symbol": "IOST",
+   "name": "IOST",
+   "sigma": 2.6,
+   "from_btc_pct": 0,
+   "verdict": "Neutral",
+   "file": "IOST.png"
   }
  ]
 }
