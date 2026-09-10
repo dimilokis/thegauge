@@ -1,15 +1,7 @@
 {
  "date": "2026-09-10",
- "generated_at": "2026-09-10T10:00:55.446632+00:00",
+ "generated_at": "2026-09-10T13:16:18.068010+00:00",
  "assets": [
-  {
-   "symbol": "NEWT",
-   "name": "Newton Protocol",
-   "sigma": 10.07,
-   "from_btc_pct": 20,
-   "verdict": "Overbought",
-   "file": "NEWT.png"
-  },
   {
    "symbol": "REZ",
    "name": "Renzo",
@@ -17,6 +9,14 @@
    "from_btc_pct": 17,
    "verdict": "Overbought",
    "file": "REZ.png"
+  },
+  {
+   "symbol": "NEWT",
+   "name": "Newton Protocol",
+   "sigma": 5.83,
+   "from_btc_pct": 26,
+   "verdict": "Overbought",
+   "file": "NEWT.png"
   },
   {
    "symbol": "ANIME",
