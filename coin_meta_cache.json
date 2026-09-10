@@ -315,6 +315,10 @@
   "icon": "https://coin-images.coingecko.com/coins/images/15799/large/CITY.png",
   "name": "Manchester City Fan Token"
  },
+ "CKB": {
+  "icon": "https://coin-images.coingecko.com/coins/images/9566/large/Nervos_White.png",
+  "name": "Nervos Network"
+ },
  "COMP": {
   "icon": "https://coin-images.coingecko.com/coins/images/10775/large/COMP.png?1696510737",
   "name": "Compound"
