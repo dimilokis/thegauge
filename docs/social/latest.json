@@ -1,6 +1,6 @@
 {
  "date": "2026-09-10",
- "generated_at": "2026-09-10T16:15:50.015983+00:00",
+ "generated_at": "2026-09-10T16:30:57.103429+00:00",
  "assets": [
   {
    "symbol": "RVN",
@@ -73,6 +73,14 @@
    "from_btc_pct": 34,
    "verdict": "Overbought",
    "file": "REZ.png"
+  },
+  {
+   "symbol": "CAKE",
+   "name": "PancakeSwap",
+   "sigma": 2.51,
+   "from_btc_pct": 35,
+   "verdict": "Overbought",
+   "file": "CAKE.png"
   }
  ]
 }
