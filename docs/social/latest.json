@@ -1,6 +1,6 @@
 {
  "date": "2026-09-10",
- "generated_at": "2026-09-10T21:00:55.227874+00:00",
+ "generated_at": "2026-09-10T22:00:56.990147+00:00",
  "assets": [
   {
    "symbol": "RVN",
@@ -83,20 +83,20 @@
    "file": "IOST.png"
   },
   {
+   "symbol": "FF",
+   "name": "Falcon Finance",
+   "sigma": 2.59,
+   "from_btc_pct": 2,
+   "verdict": "Overbought",
+   "file": "FF.png"
+  },
+  {
    "symbol": "SAHARA",
    "name": "Sahara AI",
    "sigma": 2.58,
    "from_btc_pct": 39,
    "verdict": "Neutral",
    "file": "SAHARA.png"
-  },
-  {
-   "symbol": "REZ",
-   "name": "Renzo",
-   "sigma": 2.56,
-   "from_btc_pct": 34,
-   "verdict": "Overbought",
-   "file": "REZ.png"
   }
  ]
 }
