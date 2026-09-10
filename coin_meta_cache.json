@@ -1315,6 +1315,10 @@
   "icon": "https://coin-images.coingecko.com/coins/images/34057/large/LOGOMARK.png?1708356054",
   "name": "Virtuals Protocol"
  },
+ "VTHO": {
+  "icon": "https://coin-images.coingecko.com/coins/images/5230/large/VTHO_Circle_Crop__Reference_.png",
+  "name": "VeThor"
+ },
  "WAL": {
   "icon": "https://coin-images.coingecko.com/coins/images/54914/large/Walrus_Token_Full_Color_200x200.png?1772722407",
   "name": "Walrus"

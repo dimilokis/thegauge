@@ -1,7 +1,15 @@
 {
  "date": "2026-09-09",
- "generated_at": "2026-09-09T23:30:56.178450+00:00",
+ "generated_at": "2026-09-10T00:45:59.014704+00:00",
  "assets": [
+  {
+   "symbol": "VTHO",
+   "name": "VeThor",
+   "sigma": 13.32,
+   "from_btc_pct": 14,
+   "verdict": "Overbought",
+   "file": "VTHO.png"
+  },
   {
    "symbol": "KAT",
    "name": "Katana",
@@ -89,14 +97,6 @@
    "from_btc_pct": 25,
    "verdict": "Overbought",
    "file": "ZEN.png"
-  },
-  {
-   "symbol": "DOT",
-   "name": "Polkadot",
-   "sigma": 2.67,
-   "from_btc_pct": 11,
-   "verdict": "Strong Uptrend",
-   "file": "DOT.png"
   }
  ]
 }
