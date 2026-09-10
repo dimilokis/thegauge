@@ -1,6 +1,6 @@
 {
  "date": "2026-09-10",
- "generated_at": "2026-09-10T16:45:45.670131+00:00",
+ "generated_at": "2026-09-10T17:30:56.654017+00:00",
  "assets": [
   {
    "symbol": "RVN",
@@ -43,20 +43,20 @@
    "file": "VET.png"
   },
   {
+   "symbol": "ETHFI",
+   "name": "Ether.fi",
+   "sigma": 2.9,
+   "from_btc_pct": 17,
+   "verdict": "Strong Uptrend",
+   "file": "ETHFI.png"
+  },
+  {
    "symbol": "NEWT",
    "name": "Newton Protocol",
    "sigma": 2.87,
    "from_btc_pct": 40,
    "verdict": "Neutral",
    "file": "NEWT.png"
-  },
-  {
-   "symbol": "ETHFI",
-   "name": "Ether.fi",
-   "sigma": 2.75,
-   "from_btc_pct": 17,
-   "verdict": "Strong Uptrend",
-   "file": "ETHFI.png"
   },
   {
    "symbol": "IOST",
