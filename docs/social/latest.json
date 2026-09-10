@@ -1,15 +1,7 @@
 {
  "date": "2026-09-10",
- "generated_at": "2026-09-10T14:01:04.775160+00:00",
+ "generated_at": "2026-09-10T14:30:51.480285+00:00",
  "assets": [
-  {
-   "symbol": "REZ",
-   "name": "Renzo",
-   "sigma": 8.58,
-   "from_btc_pct": 17,
-   "verdict": "Overbought",
-   "file": "REZ.png"
-  },
   {
    "symbol": "ANIME",
    "name": "Animecoin",
@@ -41,6 +33,14 @@
    "from_btc_pct": 39,
    "verdict": "Neutral",
    "file": "SAHARA.png"
+  },
+  {
+   "symbol": "REZ",
+   "name": "Renzo",
+   "sigma": 2.56,
+   "from_btc_pct": 34,
+   "verdict": "Overbought",
+   "file": "REZ.png"
   }
  ]
 }
