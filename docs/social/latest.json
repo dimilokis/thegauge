@@ -1,6 +1,6 @@
 {
  "date": "2026-09-11",
- "generated_at": "2026-09-11T17:45:53.864594+00:00",
+ "generated_at": "2026-09-11T18:01:02.929234+00:00",
  "assets": [
   {
    "symbol": "DOGS",
@@ -51,6 +51,14 @@
    "file": "RAY.png"
   },
   {
+   "symbol": "ATOM",
+   "name": "Cosmos Hub",
+   "sigma": 2.64,
+   "from_btc_pct": 10,
+   "verdict": "Neutral",
+   "file": "ATOM.png"
+  },
+  {
    "symbol": "NEWT",
    "name": "Newton Protocol",
    "sigma": 2.62,
@@ -65,14 +73,6 @@
    "from_btc_pct": 14,
    "verdict": "Neutral",
    "file": "WLFI.png"
-  },
-  {
-   "symbol": "AERO",
-   "name": "Aerodrome Finance",
-   "sigma": 2.56,
-   "from_btc_pct": 25,
-   "verdict": "Strong Uptrend",
-   "file": "AERO.png"
   },
   {
    "symbol": "PENDLE",
@@ -91,12 +91,12 @@
    "file": "SC.png"
   },
   {
-   "symbol": "MET",
-   "name": "Meteora",
+   "symbol": "AERO",
+   "name": "Aerodrome Finance",
    "sigma": 2.54,
-   "from_btc_pct": 20,
-   "verdict": "Overbought",
-   "file": "MET.png"
+   "from_btc_pct": 24,
+   "verdict": "Strong Uptrend",
+   "file": "AERO.png"
   }
  ]
 }
