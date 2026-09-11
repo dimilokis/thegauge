@@ -1,6 +1,6 @@
 {
  "date": "2026-09-11",
- "generated_at": "2026-09-11T15:00:58.643220+00:00",
+ "generated_at": "2026-09-11T15:15:53.643818+00:00",
  "assets": [
   {
    "symbol": "DOGS",
@@ -81,6 +81,14 @@
    "from_btc_pct": 20,
    "verdict": "Overbought",
    "file": "MET.png"
+  },
+  {
+   "symbol": "AERO",
+   "name": "Aerodrome Finance",
+   "sigma": 2.53,
+   "from_btc_pct": 27,
+   "verdict": "Strong Uptrend",
+   "file": "AERO.png"
   }
  ]
 }
