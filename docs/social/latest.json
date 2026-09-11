@@ -1,6 +1,6 @@
 {
  "date": "2026-09-11",
- "generated_at": "2026-09-11T10:30:49.544333+00:00",
+ "generated_at": "2026-09-11T14:02:46.502042+00:00",
  "assets": [
   {
    "symbol": "WLFI",
@@ -25,6 +25,14 @@
    "from_btc_pct": 33,
    "verdict": "Neutral",
    "file": "NEWT.png"
+  },
+  {
+   "symbol": "PENDLE",
+   "name": "Pendle",
+   "sigma": 2.55,
+   "from_btc_pct": 40,
+   "verdict": "Strong Uptrend",
+   "file": "PENDLE.png"
   },
   {
    "symbol": "SC",
