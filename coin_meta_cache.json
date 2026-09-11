@@ -1235,6 +1235,10 @@
   "icon": "https://coin-images.coingecko.com/coins/images/8029/large/1_0YusgngOrriVg4ZYx4wOFQ.png",
   "name": "Theta Fuel"
  },
+ "THETA": {
+  "icon": "https://coin-images.coingecko.com/coins/images/2538/large/theta-token-logo.png",
+  "name": "Theta Network"
+ },
  "TIA": {
   "icon": "https://coin-images.coingecko.com/coins/images/31967/large/tia.jpg?1696530772",
   "name": "Celestia"
