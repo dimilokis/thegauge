@@ -1,6 +1,6 @@
 {
  "date": "2026-09-10",
- "generated_at": "2026-09-11T00:15:52.543688+00:00",
+ "generated_at": "2026-09-11T00:33:31.545550+00:00",
  "assets": [
   {
    "symbol": "RVN",
@@ -93,7 +93,7 @@
   {
    "symbol": "NEWT",
    "name": "Newton Protocol",
-   "sigma": 2.54,
+   "sigma": 2.57,
    "from_btc_pct": 34,
    "verdict": "Neutral",
    "file": "NEWT.png"
