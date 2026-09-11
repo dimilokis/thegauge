@@ -1,20 +1,28 @@
 {
  "date": "2026-09-11",
- "generated_at": "2026-09-11T14:02:46.502042+00:00",
+ "generated_at": "2026-09-11T14:16:58.926788+00:00",
  "assets": [
+  {
+   "symbol": "MINA",
+   "name": "Mina Protocol",
+   "sigma": 3.89,
+   "from_btc_pct": 38,
+   "verdict": "Overbought",
+   "file": "MINA.png"
+  },
   {
    "symbol": "WLFI",
    "name": "World Liberty Financial",
-   "sigma": 9.07,
+   "sigma": 3.44,
    "from_btc_pct": 9,
-   "verdict": "Oversold",
+   "verdict": "Neutral",
    "file": "WLFI.png"
   },
   {
    "symbol": "RAY",
    "name": "Raydium",
-   "sigma": 2.65,
-   "from_btc_pct": 3,
+   "sigma": 2.74,
+   "from_btc_pct": 5,
    "verdict": "Overbought",
    "file": "RAY.png"
   },
