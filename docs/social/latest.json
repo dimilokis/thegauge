@@ -1,6 +1,6 @@
 {
  "date": "2026-09-11",
- "generated_at": "2026-09-11T09:15:54.966641+00:00",
+ "generated_at": "2026-09-11T09:30:51.188056+00:00",
  "assets": [
   {
    "symbol": "RAY",
@@ -9,6 +9,14 @@
    "from_btc_pct": 3,
    "verdict": "Overbought",
    "file": "RAY.png"
+  },
+  {
+   "symbol": "NEWT",
+   "name": "Newton Protocol",
+   "sigma": 2.62,
+   "from_btc_pct": 33,
+   "verdict": "Neutral",
+   "file": "NEWT.png"
   },
   {
    "symbol": "MET",
