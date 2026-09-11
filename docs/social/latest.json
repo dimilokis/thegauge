@@ -1,6 +1,6 @@
 {
  "date": "2026-09-11",
- "generated_at": "2026-09-11T23:00:57.551163+00:00",
+ "generated_at": "2026-09-11T23:15:55.562560+00:00",
  "assets": [
   {
    "symbol": "NEAR",
@@ -9,6 +9,14 @@
    "from_btc_pct": 29,
    "verdict": "Strong Uptrend",
    "file": "NEAR.png"
+  },
+  {
+   "symbol": "RAY",
+   "name": "Raydium",
+   "sigma": 2.9,
+   "from_btc_pct": 3,
+   "verdict": "Overbought",
+   "file": "RAY.png"
   },
   {
    "symbol": "BLUR",
@@ -65,14 +73,6 @@
    "from_btc_pct": 33,
    "verdict": "Neutral",
    "file": "NEWT.png"
-  },
-  {
-   "symbol": "RAY",
-   "name": "Raydium",
-   "sigma": 2.59,
-   "from_btc_pct": 3,
-   "verdict": "Overbought",
-   "file": "RAY.png"
   },
   {
    "symbol": "WLFI",
