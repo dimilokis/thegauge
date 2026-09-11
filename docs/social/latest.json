@@ -1,6 +1,6 @@
 {
  "date": "2026-09-11",
- "generated_at": "2026-09-11T15:31:14.233177+00:00",
+ "generated_at": "2026-09-11T16:45:51.891920+00:00",
  "assets": [
   {
    "symbol": "DOGS",
@@ -67,6 +67,14 @@
    "file": "NEWT.png"
   },
   {
+   "symbol": "AERO",
+   "name": "Aerodrome Finance",
+   "sigma": 2.56,
+   "from_btc_pct": 25,
+   "verdict": "Strong Uptrend",
+   "file": "AERO.png"
+  },
+  {
    "symbol": "PENDLE",
    "name": "Pendle",
    "sigma": 2.55,
@@ -89,14 +97,6 @@
    "from_btc_pct": 20,
    "verdict": "Overbought",
    "file": "MET.png"
-  },
-  {
-   "symbol": "AERO",
-   "name": "Aerodrome Finance",
-   "sigma": 2.53,
-   "from_btc_pct": 27,
-   "verdict": "Strong Uptrend",
-   "file": "AERO.png"
   }
  ]
 }
