@@ -1,15 +1,7 @@
 {
  "date": "2026-09-11",
- "generated_at": "2026-09-11T22:30:57.820849+00:00",
+ "generated_at": "2026-09-11T22:45:53.091421+00:00",
  "assets": [
-  {
-   "symbol": "DOGS",
-   "name": "Dogs",
-   "sigma": 5.26,
-   "from_btc_pct": 29,
-   "verdict": "Overbought",
-   "file": "DOGS.png"
-  },
   {
    "symbol": "NEAR",
    "name": "NEAR Protocol",
@@ -25,6 +17,14 @@
    "from_btc_pct": 40,
    "verdict": "Overbought",
    "file": "BLUR.png"
+  },
+  {
+   "symbol": "MITO",
+   "name": "Mitosis",
+   "sigma": 2.77,
+   "from_btc_pct": 15,
+   "verdict": "Oversold",
+   "file": "MITO.png"
   },
   {
    "symbol": "JUP",
@@ -91,12 +91,12 @@
    "file": "APT.png"
   },
   {
-   "symbol": "SC",
-   "name": "Siacoin",
-   "sigma": 2.54,
-   "from_btc_pct": 0,
+   "symbol": "DOGS",
+   "name": "Dogs",
+   "sigma": 2.5,
+   "from_btc_pct": 27,
    "verdict": "Overbought",
-   "file": "SC.png"
+   "file": "DOGS.png"
   }
  ]
 }
