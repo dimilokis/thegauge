@@ -1,6 +1,6 @@
 {
  "date": "2026-09-11",
- "generated_at": "2026-09-11T09:30:51.188056+00:00",
+ "generated_at": "2026-09-11T10:00:53.807953+00:00",
  "assets": [
   {
    "symbol": "RAY",
@@ -19,20 +19,20 @@
    "file": "NEWT.png"
   },
   {
-   "symbol": "MET",
-   "name": "Meteora",
-   "sigma": 2.6,
-   "from_btc_pct": 21,
-   "verdict": "Overbought",
-   "file": "MET.png"
-  },
-  {
    "symbol": "SC",
    "name": "Siacoin",
    "sigma": 2.54,
    "from_btc_pct": 0,
    "verdict": "Overbought",
    "file": "SC.png"
+  },
+  {
+   "symbol": "MET",
+   "name": "Meteora",
+   "sigma": 2.54,
+   "from_btc_pct": 20,
+   "verdict": "Overbought",
+   "file": "MET.png"
   }
  ]
 }
