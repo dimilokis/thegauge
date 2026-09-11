@@ -1,6 +1,6 @@
 {
  "date": "2026-09-11",
- "generated_at": "2026-09-11T18:01:02.929234+00:00",
+ "generated_at": "2026-09-11T18:30:52.810371+00:00",
  "assets": [
   {
    "symbol": "DOGS",
@@ -9,14 +9,6 @@
    "from_btc_pct": 29,
    "verdict": "Overbought",
    "file": "DOGS.png"
-  },
-  {
-   "symbol": "BLUR",
-   "name": "Blur",
-   "sigma": 4.99,
-   "from_btc_pct": 36,
-   "verdict": "Overbought",
-   "file": "BLUR.png"
   },
   {
    "symbol": "MINA",
@@ -33,6 +25,14 @@
    "from_btc_pct": 29,
    "verdict": "Strong Uptrend",
    "file": "NEAR.png"
+  },
+  {
+   "symbol": "BLUR",
+   "name": "Blur",
+   "sigma": 2.85,
+   "from_btc_pct": 40,
+   "verdict": "Overbought",
+   "file": "BLUR.png"
   },
   {
    "symbol": "JUP",
