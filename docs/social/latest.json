@@ -1,6 +1,6 @@
 {
  "date": "2026-09-11",
- "generated_at": "2026-09-11T21:30:54.444520+00:00",
+ "generated_at": "2026-09-11T22:00:58.068648+00:00",
  "assets": [
   {
    "symbol": "DOGS",
@@ -59,6 +59,14 @@
    "file": "MINA.png"
   },
   {
+   "symbol": "APT",
+   "name": "Aptos",
+   "sigma": 2.63,
+   "from_btc_pct": 33,
+   "verdict": "Neutral",
+   "file": "APT.png"
+  },
+  {
    "symbol": "NEWT",
    "name": "Newton Protocol",
    "sigma": 2.62,
@@ -89,14 +97,6 @@
    "from_btc_pct": 0,
    "verdict": "Overbought",
    "file": "SC.png"
-  },
-  {
-   "symbol": "AERO",
-   "name": "Aerodrome Finance",
-   "sigma": 2.54,
-   "from_btc_pct": 24,
-   "verdict": "Strong Uptrend",
-   "file": "AERO.png"
   }
  ]
 }
