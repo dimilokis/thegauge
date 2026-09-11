@@ -1,7 +1,15 @@
 {
  "date": "2026-09-11",
- "generated_at": "2026-09-11T14:30:59.272392+00:00",
+ "generated_at": "2026-09-11T15:00:58.643220+00:00",
  "assets": [
+  {
+   "symbol": "DOGS",
+   "name": "Dogs",
+   "sigma": 5.26,
+   "from_btc_pct": 29,
+   "verdict": "Overbought",
+   "file": "DOGS.png"
+  },
   {
    "symbol": "MINA",
    "name": "Mina Protocol",
@@ -25,6 +33,14 @@
    "from_btc_pct": 30,
    "verdict": "Strong Uptrend",
    "file": "NEAR.png"
+  },
+  {
+   "symbol": "JUP",
+   "name": "Jupiter",
+   "sigma": 2.75,
+   "from_btc_pct": 28,
+   "verdict": "Strong Uptrend",
+   "file": "JUP.png"
   },
   {
    "symbol": "RAY",
