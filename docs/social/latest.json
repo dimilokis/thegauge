@@ -1,7 +1,15 @@
 {
  "date": "2026-09-11",
- "generated_at": "2026-09-11T07:00:59.262399+00:00",
+ "generated_at": "2026-09-11T08:30:50.222266+00:00",
  "assets": [
+  {
+   "symbol": "MET",
+   "name": "Meteora",
+   "sigma": 2.75,
+   "from_btc_pct": 21,
+   "verdict": "Overbought",
+   "file": "MET.png"
+  },
   {
    "symbol": "RAY",
    "name": "Raydium",
