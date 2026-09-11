@@ -1,7 +1,15 @@
 {
  "date": "2026-09-11",
- "generated_at": "2026-09-11T10:00:53.807953+00:00",
+ "generated_at": "2026-09-11T10:30:49.544333+00:00",
  "assets": [
+  {
+   "symbol": "WLFI",
+   "name": "World Liberty Financial",
+   "sigma": 9.07,
+   "from_btc_pct": 9,
+   "verdict": "Oversold",
+   "file": "WLFI.png"
+  },
   {
    "symbol": "RAY",
    "name": "Raydium",
