@@ -1,6 +1,6 @@
 {
  "date": "2026-09-11",
- "generated_at": "2026-09-11T19:15:48.348234+00:00",
+ "generated_at": "2026-09-11T21:30:54.444520+00:00",
  "assets": [
   {
    "symbol": "DOGS",
@@ -37,8 +37,8 @@
   {
    "symbol": "RAY",
    "name": "Raydium",
-   "sigma": 2.74,
-   "from_btc_pct": 5,
+   "sigma": 2.71,
+   "from_btc_pct": 3,
    "verdict": "Overbought",
    "file": "RAY.png"
   },
