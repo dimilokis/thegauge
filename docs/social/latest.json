@@ -1,6 +1,6 @@
 {
  "date": "2026-09-11",
- "generated_at": "2026-09-11T16:45:51.891920+00:00",
+ "generated_at": "2026-09-11T17:45:53.864594+00:00",
  "assets": [
   {
    "symbol": "DOGS",
@@ -25,14 +25,6 @@
    "from_btc_pct": 38,
    "verdict": "Overbought",
    "file": "MINA.png"
-  },
-  {
-   "symbol": "WLFI",
-   "name": "World Liberty Financial",
-   "sigma": 3.44,
-   "from_btc_pct": 9,
-   "verdict": "Neutral",
-   "file": "WLFI.png"
   },
   {
    "symbol": "NEAR",
@@ -65,6 +57,14 @@
    "from_btc_pct": 33,
    "verdict": "Neutral",
    "file": "NEWT.png"
+  },
+  {
+   "symbol": "WLFI",
+   "name": "World Liberty Financial",
+   "sigma": 2.58,
+   "from_btc_pct": 14,
+   "verdict": "Neutral",
+   "file": "WLFI.png"
   },
   {
    "symbol": "AERO",
