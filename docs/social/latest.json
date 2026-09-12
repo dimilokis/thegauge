@@ -1,6 +1,6 @@
 {
  "date": "2026-09-12",
- "generated_at": "2026-09-12T14:15:43.661497+00:00",
+ "generated_at": "2026-09-12T14:45:50.353491+00:00",
  "assets": [
   {
    "symbol": "VTHO",
@@ -33,6 +33,14 @@
    "from_btc_pct": 30,
    "verdict": "Neutral",
    "file": "TREE.png"
+  },
+  {
+   "symbol": "REZ",
+   "name": "Renzo",
+   "sigma": 2.56,
+   "from_btc_pct": 38,
+   "verdict": "Overbought",
+   "file": "REZ.png"
   }
  ]
 }
