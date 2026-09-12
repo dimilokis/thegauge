@@ -1,6 +1,6 @@
 {
  "date": "2026-09-11",
- "generated_at": "2026-09-12T00:45:49.474895+00:00",
+ "generated_at": "2026-09-12T01:15:50.753193+00:00",
  "assets": [
   {
    "symbol": "LSK",
@@ -17,6 +17,14 @@
    "from_btc_pct": 29,
    "verdict": "Strong Uptrend",
    "file": "NEAR.png"
+  },
+  {
+   "symbol": "TREE",
+   "name": "Treehouse",
+   "sigma": 2.93,
+   "from_btc_pct": 29,
+   "verdict": "Neutral",
+   "file": "TREE.png"
   },
   {
    "symbol": "RAY",
@@ -89,14 +97,6 @@
    "from_btc_pct": 14,
    "verdict": "Neutral",
    "file": "WLFI.png"
-  },
-  {
-   "symbol": "PENDLE",
-   "name": "Pendle",
-   "sigma": 2.55,
-   "from_btc_pct": 40,
-   "verdict": "Strong Uptrend",
-   "file": "PENDLE.png"
   }
  ]
 }
