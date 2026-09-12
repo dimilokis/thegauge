@@ -1,7 +1,15 @@
 {
  "date": "2026-09-11",
- "generated_at": "2026-09-11T23:15:55.562560+00:00",
+ "generated_at": "2026-09-12T00:45:49.474895+00:00",
  "assets": [
+  {
+   "symbol": "LSK",
+   "name": "Lisk",
+   "sigma": 6.32,
+   "from_btc_pct": 2,
+   "verdict": "Overbought",
+   "file": "LSK.png"
+  },
   {
    "symbol": "NEAR",
    "name": "NEAR Protocol",
@@ -89,14 +97,6 @@
    "from_btc_pct": 40,
    "verdict": "Strong Uptrend",
    "file": "PENDLE.png"
-  },
-  {
-   "symbol": "DOGS",
-   "name": "Dogs",
-   "sigma": 2.5,
-   "from_btc_pct": 27,
-   "verdict": "Overbought",
-   "file": "DOGS.png"
   }
  ]
 }
