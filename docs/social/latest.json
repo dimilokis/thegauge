@@ -1,6 +1,6 @@
 {
  "date": "2026-09-12",
- "generated_at": "2026-09-12T07:45:48.008192+00:00",
+ "generated_at": "2026-09-12T09:30:53.114394+00:00",
  "assets": [
   {
    "symbol": "VTHO",
@@ -13,7 +13,7 @@
   {
    "symbol": "TREE",
    "name": "Treehouse",
-   "sigma": 2.69,
+   "sigma": 2.57,
    "from_btc_pct": 30,
    "verdict": "Neutral",
    "file": "TREE.png"
