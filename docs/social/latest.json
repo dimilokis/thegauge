@@ -1,6 +1,6 @@
 {
  "date": "2026-09-12",
- "generated_at": "2026-09-12T19:00:54.829469+00:00",
+ "generated_at": "2026-09-12T20:00:54.122638+00:00",
  "assets": [
   {
    "symbol": "MTL",
@@ -9,6 +9,14 @@
    "from_btc_pct": 29,
    "verdict": "Overbought",
    "file": "MTL.png"
+  },
+  {
+   "symbol": "ILV",
+   "name": "Illuvium",
+   "sigma": 7.38,
+   "from_btc_pct": 15,
+   "verdict": "Overbought",
+   "file": "ILV.png"
   },
   {
    "symbol": "ARPA",
@@ -27,14 +35,6 @@
    "file": "ETHFI.png"
   },
   {
-   "symbol": "WLFI",
-   "name": "World Liberty Financial",
-   "sigma": 2.93,
-   "from_btc_pct": 14,
-   "verdict": "Neutral",
-   "file": "WLFI.png"
-  },
-  {
    "symbol": "KAVA",
    "name": "Kava",
    "sigma": 2.8,
@@ -49,6 +49,14 @@
    "from_btc_pct": 2,
    "verdict": "Overbought",
    "file": "VTHO.png"
+  },
+  {
+   "symbol": "WLFI",
+   "name": "World Liberty Financial",
+   "sigma": 2.63,
+   "from_btc_pct": 14,
+   "verdict": "Neutral",
+   "file": "WLFI.png"
   },
   {
    "symbol": "TREE",
