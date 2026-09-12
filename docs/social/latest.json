@@ -1,6 +1,6 @@
 {
  "date": "2026-09-12",
- "generated_at": "2026-09-12T20:45:47.152828+00:00",
+ "generated_at": "2026-09-12T20:56:00.015288+00:00",
  "assets": [
   {
    "symbol": "MTL",
@@ -19,6 +19,14 @@
    "file": "ILV.png"
   },
   {
+   "symbol": "KAVA",
+   "name": "Kava",
+   "sigma": 3.48,
+   "from_btc_pct": 2,
+   "verdict": "Overbought",
+   "file": "KAVA.png"
+  },
+  {
    "symbol": "ARPA",
    "name": "ARPA",
    "sigma": 3.2,
@@ -33,14 +41,6 @@
    "from_btc_pct": 22,
    "verdict": "Strong Uptrend",
    "file": "ETHFI.png"
-  },
-  {
-   "symbol": "KAVA",
-   "name": "Kava",
-   "sigma": 2.8,
-   "from_btc_pct": 3,
-   "verdict": "Overbought",
-   "file": "KAVA.png"
   },
   {
    "symbol": "VTHO",
