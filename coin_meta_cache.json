@@ -1040,7 +1040,7 @@
   "name": "Resolv"
  },
  "REZ": {
-  "icon": "https://coin-images.coingecko.com/coins/images/37327/large/renzo-mark-on-light-200_%281%29.png?1789014667",
+  "icon": "https://coin-images.coingecko.com/coins/images/37327/large/renzo-avatar-dark-200.png?1789110122",
   "name": "Renzo"
  },
  "RIF": {
@@ -1232,11 +1232,15 @@
   "name": "Bittensor"
  },
  "TFUEL": {
-  "icon": "https://coin-images.coingecko.com/coins/images/8029/large/1_0YusgngOrriVg4ZYx4wOFQ.png",
+  "icon": "https://coin-images.coingecko.com/coins/images/8029/large/1_0YusgngOrriVg4ZYx4wOFQ.png?1696508251",
   "name": "Theta Fuel"
  },
+ "THE": {
+  "icon": "https://coin-images.coingecko.com/coins/images/28864/large/Symbol-Color200x200.png?1706810126",
+  "name": "Thena"
+ },
  "THETA": {
-  "icon": "https://coin-images.coingecko.com/coins/images/2538/large/theta-token-logo.png",
+  "icon": "https://coin-images.coingecko.com/coins/images/2538/large/theta-token-logo.png?1696503349",
   "name": "Theta Network"
  },
  "TIA": {
