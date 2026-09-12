@@ -1,7 +1,15 @@
 {
  "date": "2026-09-12",
- "generated_at": "2026-09-12T04:15:50.089485+00:00",
+ "generated_at": "2026-09-12T05:15:49.586141+00:00",
  "assets": [
+  {
+   "symbol": "VTHO",
+   "name": "VeThor",
+   "sigma": 3.2,
+   "from_btc_pct": 2,
+   "verdict": "Overbought",
+   "file": "VTHO.png"
+  },
   {
    "symbol": "TREE",
    "name": "Treehouse",
