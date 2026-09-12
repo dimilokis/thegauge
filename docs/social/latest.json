@@ -1,12 +1,12 @@
 {
  "date": "2026-09-11",
- "generated_at": "2026-09-12T01:15:50.753193+00:00",
+ "generated_at": "2026-09-12T01:45:45.896696+00:00",
  "assets": [
   {
    "symbol": "LSK",
    "name": "Lisk",
-   "sigma": 6.32,
-   "from_btc_pct": 2,
+   "sigma": 3.17,
+   "from_btc_pct": 4,
    "verdict": "Overbought",
    "file": "LSK.png"
   },
