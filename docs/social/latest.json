@@ -1,6 +1,6 @@
 {
  "date": "2026-09-12",
- "generated_at": "2026-09-12T12:00:54.281763+00:00",
+ "generated_at": "2026-09-12T13:15:50.258073+00:00",
  "assets": [
   {
    "symbol": "VTHO",
@@ -17,6 +17,14 @@
    "from_btc_pct": 22,
    "verdict": "Strong Uptrend",
    "file": "ETHFI.png"
+  },
+  {
+   "symbol": "PENDLE",
+   "name": "Pendle",
+   "sigma": 2.58,
+   "from_btc_pct": 33,
+   "verdict": "Strong Uptrend",
+   "file": "PENDLE.png"
   },
   {
    "symbol": "TREE",
