@@ -1,7 +1,15 @@
 {
  "date": "2026-09-12",
- "generated_at": "2026-09-12T14:45:50.353491+00:00",
+ "generated_at": "2026-09-12T15:15:50.006973+00:00",
  "assets": [
+  {
+   "symbol": "MTL",
+   "name": "Metal DAO",
+   "sigma": 9.36,
+   "from_btc_pct": 29,
+   "verdict": "Overbought",
+   "file": "MTL.png"
+  },
   {
    "symbol": "VTHO",
    "name": "VeThor",
