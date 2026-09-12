@@ -1,6 +1,6 @@
 {
  "date": "2026-09-12",
- "generated_at": "2026-09-12T15:45:44.830838+00:00",
+ "generated_at": "2026-09-12T16:15:43.771729+00:00",
  "assets": [
   {
    "symbol": "MTL",
@@ -25,6 +25,14 @@
    "from_btc_pct": 22,
    "verdict": "Strong Uptrend",
    "file": "ETHFI.png"
+  },
+  {
+   "symbol": "WLFI",
+   "name": "World Liberty Financial",
+   "sigma": 2.93,
+   "from_btc_pct": 14,
+   "verdict": "Neutral",
+   "file": "WLFI.png"
   },
   {
    "symbol": "TREE",
