@@ -1,6 +1,6 @@
 {
  "date": "2026-09-12",
- "generated_at": "2026-09-12T23:30:53.297047+00:00",
+ "generated_at": "2026-09-12T23:45:49.567967+00:00",
  "assets": [
   {
    "symbol": "MTL",
@@ -17,6 +17,14 @@
    "from_btc_pct": 15,
    "verdict": "Overbought",
    "file": "ILV.png"
+  },
+  {
+   "symbol": "ARK",
+   "name": "ARK",
+   "sigma": 4.64,
+   "from_btc_pct": 40,
+   "verdict": "Overbought",
+   "file": "ARK.png"
   },
   {
    "symbol": "PUNDIX",
@@ -89,14 +97,6 @@
    "from_btc_pct": 30,
    "verdict": "Neutral",
    "file": "TREE.png"
-  },
-  {
-   "symbol": "REZ",
-   "name": "Renzo",
-   "sigma": 2.56,
-   "from_btc_pct": 38,
-   "verdict": "Overbought",
-   "file": "REZ.png"
   }
  ]
 }
