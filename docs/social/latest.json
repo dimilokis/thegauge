@@ -1,6 +1,6 @@
 {
  "date": "2026-09-12",
- "generated_at": "2026-09-12T21:30:54.642696+00:00",
+ "generated_at": "2026-09-12T23:30:53.297047+00:00",
  "assets": [
   {
    "symbol": "MTL",
@@ -17,6 +17,14 @@
    "from_btc_pct": 15,
    "verdict": "Overbought",
    "file": "ILV.png"
+  },
+  {
+   "symbol": "PUNDIX",
+   "name": "Pundi X",
+   "sigma": 4.02,
+   "from_btc_pct": 40,
+   "verdict": "Overbought",
+   "file": "PUNDIX.png"
   },
   {
    "symbol": "KAVA",
@@ -67,6 +75,14 @@
    "file": "WLFI.png"
   },
   {
+   "symbol": "PENDLE",
+   "name": "Pendle",
+   "sigma": 2.62,
+   "from_btc_pct": 33,
+   "verdict": "Strong Uptrend",
+   "file": "PENDLE.png"
+  },
+  {
    "symbol": "TREE",
    "name": "Treehouse",
    "sigma": 2.57,
@@ -81,14 +97,6 @@
    "from_btc_pct": 38,
    "verdict": "Overbought",
    "file": "REZ.png"
-  },
-  {
-   "symbol": "PENDLE",
-   "name": "Pendle",
-   "sigma": 2.52,
-   "from_btc_pct": 33,
-   "verdict": "Strong Uptrend",
-   "file": "PENDLE.png"
   }
  ]
 }
