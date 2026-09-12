@@ -1,6 +1,6 @@
 {
  "date": "2026-09-12",
- "generated_at": "2026-09-12T15:15:50.006973+00:00",
+ "generated_at": "2026-09-12T15:45:44.830838+00:00",
  "assets": [
   {
    "symbol": "MTL",
@@ -27,14 +27,6 @@
    "file": "ETHFI.png"
   },
   {
-   "symbol": "PENDLE",
-   "name": "Pendle",
-   "sigma": 2.58,
-   "from_btc_pct": 33,
-   "verdict": "Strong Uptrend",
-   "file": "PENDLE.png"
-  },
-  {
    "symbol": "TREE",
    "name": "Treehouse",
    "sigma": 2.57,
@@ -49,6 +41,14 @@
    "from_btc_pct": 38,
    "verdict": "Overbought",
    "file": "REZ.png"
+  },
+  {
+   "symbol": "PENDLE",
+   "name": "Pendle",
+   "sigma": 2.54,
+   "from_btc_pct": 33,
+   "verdict": "Strong Uptrend",
+   "file": "PENDLE.png"
   }
  ]
 }
