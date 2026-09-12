@@ -1,6 +1,6 @@
 {
  "date": "2026-09-12",
- "generated_at": "2026-09-12T16:15:43.771729+00:00",
+ "generated_at": "2026-09-12T17:15:50.296925+00:00",
  "assets": [
   {
    "symbol": "MTL",
@@ -9,14 +9,6 @@
    "from_btc_pct": 29,
    "verdict": "Overbought",
    "file": "MTL.png"
-  },
-  {
-   "symbol": "VTHO",
-   "name": "VeThor",
-   "sigma": 3.2,
-   "from_btc_pct": 2,
-   "verdict": "Overbought",
-   "file": "VTHO.png"
   },
   {
    "symbol": "ETHFI",
@@ -33,6 +25,14 @@
    "from_btc_pct": 14,
    "verdict": "Neutral",
    "file": "WLFI.png"
+  },
+  {
+   "symbol": "VTHO",
+   "name": "VeThor",
+   "sigma": 2.79,
+   "from_btc_pct": 2,
+   "verdict": "Overbought",
+   "file": "VTHO.png"
   },
   {
    "symbol": "TREE",
