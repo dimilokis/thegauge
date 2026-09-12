@@ -1,102 +1,14 @@
 {
- "date": "2026-09-11",
- "generated_at": "2026-09-12T01:45:45.896696+00:00",
+ "date": "2026-09-12",
+ "generated_at": "2026-09-12T04:15:50.089485+00:00",
  "assets": [
-  {
-   "symbol": "LSK",
-   "name": "Lisk",
-   "sigma": 3.17,
-   "from_btc_pct": 4,
-   "verdict": "Overbought",
-   "file": "LSK.png"
-  },
-  {
-   "symbol": "NEAR",
-   "name": "NEAR Protocol",
-   "sigma": 3.09,
-   "from_btc_pct": 29,
-   "verdict": "Strong Uptrend",
-   "file": "NEAR.png"
-  },
   {
    "symbol": "TREE",
    "name": "Treehouse",
-   "sigma": 2.93,
+   "sigma": 2.81,
    "from_btc_pct": 29,
    "verdict": "Neutral",
    "file": "TREE.png"
-  },
-  {
-   "symbol": "RAY",
-   "name": "Raydium",
-   "sigma": 2.9,
-   "from_btc_pct": 3,
-   "verdict": "Overbought",
-   "file": "RAY.png"
-  },
-  {
-   "symbol": "BLUR",
-   "name": "Blur",
-   "sigma": 2.85,
-   "from_btc_pct": 40,
-   "verdict": "Overbought",
-   "file": "BLUR.png"
-  },
-  {
-   "symbol": "MITO",
-   "name": "Mitosis",
-   "sigma": 2.77,
-   "from_btc_pct": 15,
-   "verdict": "Oversold",
-   "file": "MITO.png"
-  },
-  {
-   "symbol": "JUP",
-   "name": "Jupiter",
-   "sigma": 2.75,
-   "from_btc_pct": 28,
-   "verdict": "Strong Uptrend",
-   "file": "JUP.png"
-  },
-  {
-   "symbol": "ATOM",
-   "name": "Cosmos Hub",
-   "sigma": 2.64,
-   "from_btc_pct": 10,
-   "verdict": "Neutral",
-   "file": "ATOM.png"
-  },
-  {
-   "symbol": "MINA",
-   "name": "Mina Protocol",
-   "sigma": 2.63,
-   "from_btc_pct": 34,
-   "verdict": "Overbought",
-   "file": "MINA.png"
-  },
-  {
-   "symbol": "APT",
-   "name": "Aptos",
-   "sigma": 2.63,
-   "from_btc_pct": 32,
-   "verdict": "Neutral",
-   "file": "APT.png"
-  },
-  {
-   "symbol": "NEWT",
-   "name": "Newton Protocol",
-   "sigma": 2.62,
-   "from_btc_pct": 33,
-   "verdict": "Neutral",
-   "file": "NEWT.png"
-  },
-  {
-   "symbol": "WLFI",
-   "name": "World Liberty Financial",
-   "sigma": 2.58,
-   "from_btc_pct": 14,
-   "verdict": "Neutral",
-   "file": "WLFI.png"
   }
  ]
 }
