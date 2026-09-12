@@ -1,6 +1,6 @@
 {
  "date": "2026-09-12",
- "generated_at": "2026-09-12T09:30:53.114394+00:00",
+ "generated_at": "2026-09-12T12:00:54.281763+00:00",
  "assets": [
   {
    "symbol": "VTHO",
@@ -9,6 +9,14 @@
    "from_btc_pct": 2,
    "verdict": "Overbought",
    "file": "VTHO.png"
+  },
+  {
+   "symbol": "ETHFI",
+   "name": "Ether.fi",
+   "sigma": 3.03,
+   "from_btc_pct": 22,
+   "verdict": "Strong Uptrend",
+   "file": "ETHFI.png"
   },
   {
    "symbol": "TREE",
