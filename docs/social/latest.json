@@ -1,6 +1,6 @@
 {
  "date": "2026-09-12",
- "generated_at": "2026-09-12T17:30:53.469317+00:00",
+ "generated_at": "2026-09-12T18:30:55.093047+00:00",
  "assets": [
   {
    "symbol": "MTL",
@@ -9,6 +9,14 @@
    "from_btc_pct": 29,
    "verdict": "Overbought",
    "file": "MTL.png"
+  },
+  {
+   "symbol": "ARPA",
+   "name": "ARPA",
+   "sigma": 3.2,
+   "from_btc_pct": 24,
+   "verdict": "Overbought",
+   "file": "ARPA.png"
   },
   {
    "symbol": "ETHFI",
