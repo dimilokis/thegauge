@@ -1,6 +1,6 @@
 {
  "date": "2026-09-12",
- "generated_at": "2026-09-12T20:00:54.122638+00:00",
+ "generated_at": "2026-09-12T20:15:51.149507+00:00",
  "assets": [
   {
    "symbol": "MTL",
@@ -51,6 +51,14 @@
    "file": "VTHO.png"
   },
   {
+   "symbol": "PENDLE",
+   "name": "Pendle",
+   "sigma": 2.64,
+   "from_btc_pct": 32,
+   "verdict": "Strong Uptrend",
+   "file": "PENDLE.png"
+  },
+  {
    "symbol": "WLFI",
    "name": "World Liberty Financial",
    "sigma": 2.63,
@@ -73,14 +81,6 @@
    "from_btc_pct": 38,
    "verdict": "Overbought",
    "file": "REZ.png"
-  },
-  {
-   "symbol": "PENDLE",
-   "name": "Pendle",
-   "sigma": 2.54,
-   "from_btc_pct": 33,
-   "verdict": "Strong Uptrend",
-   "file": "PENDLE.png"
   },
   {
    "symbol": "PYTH",
