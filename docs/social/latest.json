@@ -1,6 +1,6 @@
 {
  "date": "2026-09-13",
- "generated_at": "2026-09-13T19:45:48.248207+00:00",
+ "generated_at": "2026-09-13T20:00:59.859937+00:00",
  "assets": [
   {
    "symbol": "STRAX",
@@ -93,8 +93,8 @@
   {
    "symbol": "AR",
    "name": "Arweave",
-   "sigma": 3.51,
-   "from_btc_pct": 36,
+   "sigma": 2.51,
+   "from_btc_pct": 38,
    "verdict": "Overbought",
    "file": "AR.png"
   }
