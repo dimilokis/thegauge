@@ -1,6 +1,6 @@
 {
  "date": "2026-09-13",
- "generated_at": "2026-09-13T13:45:51.199095+00:00",
+ "generated_at": "2026-09-13T14:01:00.448637+00:00",
  "assets": [
   {
    "symbol": "STRAX",
@@ -9,6 +9,14 @@
    "from_btc_pct": 4,
    "verdict": "Overbought",
    "file": "STRAX.png"
+  },
+  {
+   "symbol": "ANKR",
+   "name": "Ankr Network",
+   "sigma": 6.1,
+   "from_btc_pct": 31,
+   "verdict": "Overbought",
+   "file": "ANKR.png"
   },
   {
    "symbol": "VTHO",
@@ -89,14 +97,6 @@
    "from_btc_pct": 33,
    "verdict": "Neutral",
    "file": "AVA.png"
-  },
-  {
-   "symbol": "MTL",
-   "name": "Metal DAO",
-   "sigma": 2.61,
-   "from_btc_pct": 15,
-   "verdict": "Overbought",
-   "file": "MTL.png"
   }
  ]
 }
