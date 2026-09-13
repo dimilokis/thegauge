@@ -1,6 +1,6 @@
 {
  "date": "2026-09-13",
- "generated_at": "2026-09-13T20:00:59.859937+00:00",
+ "generated_at": "2026-09-13T20:15:49.806986+00:00",
  "assets": [
   {
    "symbol": "STRAX",
@@ -41,6 +41,14 @@
    "from_btc_pct": 21,
    "verdict": "Overbought",
    "file": "WAXP.png"
+  },
+  {
+   "symbol": "ARK",
+   "name": "ARK",
+   "sigma": 4.64,
+   "from_btc_pct": 21,
+   "verdict": "Overbought",
+   "file": "ARK.png"
   },
   {
    "symbol": "ZIL",
@@ -89,14 +97,6 @@
    "from_btc_pct": 39,
    "verdict": "Overbought",
    "file": "HIVE.png"
-  },
-  {
-   "symbol": "AR",
-   "name": "Arweave",
-   "sigma": 2.51,
-   "from_btc_pct": 38,
-   "verdict": "Overbought",
-   "file": "AR.png"
   }
  ]
 }
