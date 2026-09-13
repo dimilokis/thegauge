@@ -1,6 +1,6 @@
 {
  "date": "2026-09-13",
- "generated_at": "2026-09-13T06:30:52.907331+00:00",
+ "generated_at": "2026-09-13T07:15:48.913598+00:00",
  "assets": [
   {
    "symbol": "AVA",
@@ -21,8 +21,8 @@
   {
    "symbol": "POLYX",
    "name": "Polymesh",
-   "sigma": 4.09,
-   "from_btc_pct": 40,
+   "sigma": 4.35,
+   "from_btc_pct": 39,
    "verdict": "Overbought",
    "file": "POLYX.png"
   },
@@ -45,8 +45,8 @@
   {
    "symbol": "HIVE",
    "name": "Hive",
-   "sigma": 3.04,
-   "from_btc_pct": 40,
+   "sigma": 3.16,
+   "from_btc_pct": 39,
    "verdict": "Overbought",
    "file": "HIVE.png"
   },
