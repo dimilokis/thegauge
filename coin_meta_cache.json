@@ -219,6 +219,10 @@
   "icon": "https://coin-images.coingecko.com/coins/images/68404/large/bard.png?1755657543",
   "name": "Lombard"
  },
+ "BAT": {
+  "icon": "https://coin-images.coingecko.com/coins/images/677/large/basic-attention-token.png",
+  "name": "Basic Attention"
+ },
  "BB": {
   "icon": "https://coin-images.coingecko.com/coins/images/37144/large/bb.jpeg?1713439092",
   "name": "BounceBit"
