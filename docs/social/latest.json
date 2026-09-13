@@ -1,6 +1,6 @@
 {
  "date": "2026-09-13",
- "generated_at": "2026-09-13T11:00:55.299372+00:00",
+ "generated_at": "2026-09-13T11:30:53.222639+00:00",
  "assets": [
   {
    "symbol": "AVA",
@@ -49,6 +49,14 @@
    "from_btc_pct": 14,
    "verdict": "Overbought",
    "file": "ILV.png"
+  },
+  {
+   "symbol": "THETA",
+   "name": "Theta Network",
+   "sigma": 3.56,
+   "from_btc_pct": 39,
+   "verdict": "Overbought",
+   "file": "THETA.png"
   },
   {
    "symbol": "REZ",
