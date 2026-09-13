@@ -1,6 +1,6 @@
 {
  "date": "2026-09-13",
- "generated_at": "2026-09-13T14:01:00.448637+00:00",
+ "generated_at": "2026-09-13T14:15:48.481106+00:00",
  "assets": [
   {
    "symbol": "STRAX",
@@ -35,6 +35,14 @@
    "file": "WAXP.png"
   },
   {
+   "symbol": "FIL",
+   "name": "Filecoin",
+   "sigma": 3.87,
+   "from_btc_pct": 17,
+   "verdict": "Strong Uptrend",
+   "file": "FIL.png"
+  },
+  {
    "symbol": "POLYX",
    "name": "Polymesh",
    "sigma": 3.82,
@@ -59,14 +67,6 @@
    "file": "ILV.png"
   },
   {
-   "symbol": "API3",
-   "name": "Api3",
-   "sigma": 3.6,
-   "from_btc_pct": 37,
-   "verdict": "Overbought",
-   "file": "API3.png"
-  },
-  {
    "symbol": "THETA",
    "name": "Theta Network",
    "sigma": 3.56,
@@ -83,20 +83,20 @@
    "file": "REZ.png"
   },
   {
+   "symbol": "API3",
+   "name": "Api3",
+   "sigma": 3.3,
+   "from_btc_pct": 39,
+   "verdict": "Overbought",
+   "file": "API3.png"
+  },
+  {
    "symbol": "GLM",
    "name": "Golem",
    "sigma": 3.21,
    "from_btc_pct": 29,
    "verdict": "Overbought",
    "file": "GLM.png"
-  },
-  {
-   "symbol": "AVA",
-   "name": "AVA (Travala)",
-   "sigma": 2.84,
-   "from_btc_pct": 33,
-   "verdict": "Neutral",
-   "file": "AVA.png"
   }
  ]
 }
