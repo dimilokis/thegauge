@@ -1,102 +1,14 @@
 {
- "date": "2026-09-12",
- "generated_at": "2026-09-13T02:45:54.127128+00:00",
+ "date": "2026-09-13",
+ "generated_at": "2026-09-13T03:01:00.381182+00:00",
  "assets": [
   {
    "symbol": "MTL",
    "name": "Metal DAO",
-   "sigma": 9.36,
-   "from_btc_pct": 29,
-   "verdict": "Overbought",
-   "file": "MTL.png"
-  },
-  {
-   "symbol": "POWR",
-   "name": "Powerledger",
-   "sigma": 8.59,
-   "from_btc_pct": 6,
-   "verdict": "Overbought",
-   "file": "POWR.png"
-  },
-  {
-   "symbol": "CVC",
-   "name": "Civic",
-   "sigma": 8.14,
-   "from_btc_pct": 19,
-   "verdict": "Overbought",
-   "file": "CVC.png"
-  },
-  {
-   "symbol": "ILV",
-   "name": "Illuvium",
-   "sigma": 7.38,
+   "sigma": 2.61,
    "from_btc_pct": 15,
    "verdict": "Overbought",
-   "file": "ILV.png"
-  },
-  {
-   "symbol": "PUNDIX",
-   "name": "Pundi X",
-   "sigma": 6.62,
-   "from_btc_pct": 17,
-   "verdict": "Overbought",
-   "file": "PUNDIX.png"
-  },
-  {
-   "symbol": "LSK",
-   "name": "Lisk",
-   "sigma": 4.16,
-   "from_btc_pct": 0,
-   "verdict": "Overbought",
-   "file": "LSK.png"
-  },
-  {
-   "symbol": "POLYX",
-   "name": "Polymesh",
-   "sigma": 4.09,
-   "from_btc_pct": 40,
-   "verdict": "Overbought",
-   "file": "POLYX.png"
-  },
-  {
-   "symbol": "STEEM",
-   "name": "Steem",
-   "sigma": 3.78,
-   "from_btc_pct": 24,
-   "verdict": "Overbought",
-   "file": "STEEM.png"
-  },
-  {
-   "symbol": "ARK",
-   "name": "ARK",
-   "sigma": 3.51,
-   "from_btc_pct": 23,
-   "verdict": "Overbought",
-   "file": "ARK.png"
-  },
-  {
-   "symbol": "KAVA",
-   "name": "Kava",
-   "sigma": 3.24,
-   "from_btc_pct": 1,
-   "verdict": "Overbought",
-   "file": "KAVA.png"
-  },
-  {
-   "symbol": "ARPA",
-   "name": "ARPA",
-   "sigma": 3.2,
-   "from_btc_pct": 24,
-   "verdict": "Overbought",
-   "file": "ARPA.png"
-  },
-  {
-   "symbol": "ETHFI",
-   "name": "Ether.fi",
-   "sigma": 2.93,
-   "from_btc_pct": 22,
-   "verdict": "Strong Uptrend",
-   "file": "ETHFI.png"
+   "file": "MTL.png"
   }
  ]
 }
