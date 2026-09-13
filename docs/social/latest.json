@@ -1,6 +1,6 @@
 {
  "date": "2026-09-13",
- "generated_at": "2026-09-13T14:45:51.218472+00:00",
+ "generated_at": "2026-09-13T15:06:52.644487+00:00",
  "assets": [
   {
    "symbol": "STRAX",
@@ -75,20 +75,20 @@
    "file": "HIVE.png"
   },
   {
+   "symbol": "API3",
+   "name": "Api3",
+   "sigma": 3.44,
+   "from_btc_pct": 39,
+   "verdict": "Overbought",
+   "file": "API3.png"
+  },
+  {
    "symbol": "REZ",
    "name": "Renzo",
    "sigma": 3.33,
    "from_btc_pct": 10,
    "verdict": "Overbought",
    "file": "REZ.png"
-  },
-  {
-   "symbol": "API3",
-   "name": "Api3",
-   "sigma": 3.3,
-   "from_btc_pct": 39,
-   "verdict": "Overbought",
-   "file": "API3.png"
   },
   {
    "symbol": "GLM",
