@@ -1,7 +1,15 @@
 {
  "date": "2026-09-13",
- "generated_at": "2026-09-13T22:00:56.243783+00:00",
+ "generated_at": "2026-09-13T22:45:52.933781+00:00",
  "assets": [
+  {
+   "symbol": "MBL",
+   "name": "MovieBloc",
+   "sigma": 11.46,
+   "from_btc_pct": 15,
+   "verdict": "Overbought",
+   "file": "MBL.png"
+  },
   {
    "symbol": "STRAX",
    "name": "Xertra",
@@ -89,14 +97,6 @@
    "from_btc_pct": 39,
    "verdict": "Overbought",
    "file": "THETA.png"
-  },
-  {
-   "symbol": "HIVE",
-   "name": "Hive",
-   "sigma": 3.54,
-   "from_btc_pct": 39,
-   "verdict": "Overbought",
-   "file": "HIVE.png"
   }
  ]
 }
