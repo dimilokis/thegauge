@@ -1,6 +1,6 @@
 {
  "date": "2026-09-13",
- "generated_at": "2026-09-13T20:15:49.806986+00:00",
+ "generated_at": "2026-09-13T20:30:52.683467+00:00",
  "assets": [
   {
    "symbol": "STRAX",
@@ -93,8 +93,8 @@
   {
    "symbol": "HIVE",
    "name": "Hive",
-   "sigma": 3.54,
-   "from_btc_pct": 39,
+   "sigma": 3.29,
+   "from_btc_pct": 40,
    "verdict": "Overbought",
    "file": "HIVE.png"
   }
