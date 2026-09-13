@@ -1,6 +1,6 @@
 {
  "date": "2026-09-13",
- "generated_at": "2026-09-13T12:30:54.033915+00:00",
+ "generated_at": "2026-09-13T13:01:00.018695+00:00",
  "assets": [
   {
    "symbol": "AVA",
@@ -67,6 +67,14 @@
    "file": "REZ.png"
   },
   {
+   "symbol": "GLM",
+   "name": "Golem",
+   "sigma": 3.21,
+   "from_btc_pct": 29,
+   "verdict": "Overbought",
+   "file": "GLM.png"
+  },
+  {
    "symbol": "MTL",
    "name": "Metal DAO",
    "sigma": 2.61,
@@ -89,14 +97,6 @@
    "from_btc_pct": 4,
    "verdict": "Overbought",
    "file": "SAGA.png"
-  },
-  {
-   "symbol": "PHA",
-   "name": "PHALA",
-   "sigma": 2.51,
-   "from_btc_pct": 30,
-   "verdict": "Neutral",
-   "file": "PHA.png"
   }
  ]
 }
