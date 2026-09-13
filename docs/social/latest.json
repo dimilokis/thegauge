@@ -1,6 +1,6 @@
 {
  "date": "2026-09-12",
- "generated_at": "2026-09-13T02:15:50.314314+00:00",
+ "generated_at": "2026-09-13T02:30:52.721619+00:00",
  "assets": [
   {
    "symbol": "MTL",
@@ -35,20 +35,20 @@
    "file": "ILV.png"
   },
   {
+   "symbol": "PUNDIX",
+   "name": "Pundi X",
+   "sigma": 6.62,
+   "from_btc_pct": 17,
+   "verdict": "Overbought",
+   "file": "PUNDIX.png"
+  },
+  {
    "symbol": "LSK",
    "name": "Lisk",
    "sigma": 4.16,
    "from_btc_pct": 0,
    "verdict": "Overbought",
    "file": "LSK.png"
-  },
-  {
-   "symbol": "PUNDIX",
-   "name": "Pundi X",
-   "sigma": 4.02,
-   "from_btc_pct": 40,
-   "verdict": "Overbought",
-   "file": "PUNDIX.png"
   },
   {
    "symbol": "STEEM",
