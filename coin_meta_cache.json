@@ -1179,6 +1179,10 @@
   "icon": "https://coin-images.coingecko.com/coins/images/38637/large/Spark-Logomark-RGB.png?1744878896",
   "name": "Spark"
  },
+ "STEEM": {
+  "icon": "https://coin-images.coingecko.com/coins/images/398/large/steem.png",
+  "name": "Steem"
+ },
  "STG": {
   "icon": "https://coin-images.coingecko.com/coins/images/24413/large/STG_LOGO.png?1696523595",
   "name": "Stargate Finance"
