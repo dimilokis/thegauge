@@ -1,6 +1,6 @@
 {
  "date": "2026-09-13",
- "generated_at": "2026-09-13T11:30:53.222639+00:00",
+ "generated_at": "2026-09-13T12:00:53.242612+00:00",
  "assets": [
   {
    "symbol": "AVA",
@@ -69,7 +69,7 @@
   {
    "symbol": "KAVA",
    "name": "Kava",
-   "sigma": 2.77,
+   "sigma": 3.04,
    "from_btc_pct": 3,
    "verdict": "Overbought",
    "file": "KAVA.png"
