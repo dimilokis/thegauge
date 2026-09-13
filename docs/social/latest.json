@@ -1,6 +1,6 @@
 {
  "date": "2026-09-12",
- "generated_at": "2026-09-13T02:30:52.721619+00:00",
+ "generated_at": "2026-09-13T02:45:54.127128+00:00",
  "assets": [
   {
    "symbol": "MTL",
@@ -51,6 +51,14 @@
    "file": "LSK.png"
   },
   {
+   "symbol": "POLYX",
+   "name": "Polymesh",
+   "sigma": 4.09,
+   "from_btc_pct": 40,
+   "verdict": "Overbought",
+   "file": "POLYX.png"
+  },
+  {
    "symbol": "STEEM",
    "name": "Steem",
    "sigma": 3.78,
@@ -89,14 +97,6 @@
    "from_btc_pct": 22,
    "verdict": "Strong Uptrend",
    "file": "ETHFI.png"
-  },
-  {
-   "symbol": "VTHO",
-   "name": "VeThor",
-   "sigma": 2.79,
-   "from_btc_pct": 2,
-   "verdict": "Overbought",
-   "file": "VTHO.png"
   }
  ]
 }
