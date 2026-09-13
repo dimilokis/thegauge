@@ -1,6 +1,6 @@
 {
  "date": "2026-09-12",
- "generated_at": "2026-09-12T23:45:49.567967+00:00",
+ "generated_at": "2026-09-13T00:15:47.168822+00:00",
  "assets": [
   {
    "symbol": "MTL",
@@ -9,6 +9,14 @@
    "from_btc_pct": 29,
    "verdict": "Overbought",
    "file": "MTL.png"
+  },
+  {
+   "symbol": "POWR",
+   "name": "Powerledger",
+   "sigma": 8.59,
+   "from_btc_pct": 6,
+   "verdict": "Overbought",
+   "file": "POWR.png"
   },
   {
    "symbol": "ILV",
@@ -89,14 +97,6 @@
    "from_btc_pct": 33,
    "verdict": "Strong Uptrend",
    "file": "PENDLE.png"
-  },
-  {
-   "symbol": "TREE",
-   "name": "Treehouse",
-   "sigma": 2.57,
-   "from_btc_pct": 30,
-   "verdict": "Neutral",
-   "file": "TREE.png"
   }
  ]
 }
