@@ -1,6 +1,6 @@
 {
  "date": "2026-09-13",
- "generated_at": "2026-09-13T08:15:44.668574+00:00",
+ "generated_at": "2026-09-13T09:15:51.497242+00:00",
  "assets": [
   {
    "symbol": "AVA",
@@ -21,7 +21,7 @@
   {
    "symbol": "POLYX",
    "name": "Polymesh",
-   "sigma": 4.35,
+   "sigma": 3.82,
    "from_btc_pct": 39,
    "verdict": "Overbought",
    "file": "POLYX.png"
