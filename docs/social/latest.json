@@ -1,6 +1,6 @@
 {
  "date": "2026-09-12",
- "generated_at": "2026-09-13T01:45:50.934569+00:00",
+ "generated_at": "2026-09-13T02:15:50.314314+00:00",
  "assets": [
   {
    "symbol": "MTL",
@@ -69,8 +69,8 @@
   {
    "symbol": "KAVA",
    "name": "Kava",
-   "sigma": 3.48,
-   "from_btc_pct": 2,
+   "sigma": 3.24,
+   "from_btc_pct": 1,
    "verdict": "Overbought",
    "file": "KAVA.png"
   },
