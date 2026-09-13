@@ -1,7 +1,15 @@
 {
  "date": "2026-09-13",
- "generated_at": "2026-09-13T03:15:46.546034+00:00",
+ "generated_at": "2026-09-13T03:30:53.356113+00:00",
  "assets": [
+  {
+   "symbol": "HIVE",
+   "name": "Hive",
+   "sigma": 4.29,
+   "from_btc_pct": 36,
+   "verdict": "Overbought",
+   "file": "HIVE.png"
+  },
   {
    "symbol": "POLYX",
    "name": "Polymesh",
