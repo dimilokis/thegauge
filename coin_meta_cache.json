@@ -351,6 +351,10 @@
   "icon": "https://coin-images.coingecko.com/coins/images/11038/large/Cartesi_Logo.png?1696510982",
   "name": "Cartesi"
  },
+ "CVC": {
+  "icon": "https://coin-images.coingecko.com/coins/images/788/large/civic-icon-black-padding.png",
+  "name": "Civic"
+ },
  "CVX": {
   "icon": "https://coin-images.coingecko.com/coins/images/15585/large/convex.png?1696515221",
   "name": "Convex Finance"

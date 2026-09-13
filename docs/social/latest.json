@@ -1,6 +1,6 @@
 {
  "date": "2026-09-12",
- "generated_at": "2026-09-13T01:15:51.194890+00:00",
+ "generated_at": "2026-09-13T01:45:50.934569+00:00",
  "assets": [
   {
    "symbol": "MTL",
@@ -19,20 +19,20 @@
    "file": "POWR.png"
   },
   {
+   "symbol": "CVC",
+   "name": "Civic",
+   "sigma": 8.14,
+   "from_btc_pct": 19,
+   "verdict": "Overbought",
+   "file": "CVC.png"
+  },
+  {
    "symbol": "ILV",
    "name": "Illuvium",
    "sigma": 7.38,
    "from_btc_pct": 15,
    "verdict": "Overbought",
    "file": "ILV.png"
-  },
-  {
-   "symbol": "ARK",
-   "name": "ARK",
-   "sigma": 4.64,
-   "from_btc_pct": 40,
-   "verdict": "Overbought",
-   "file": "ARK.png"
   },
   {
    "symbol": "LSK",
@@ -57,6 +57,14 @@
    "from_btc_pct": 24,
    "verdict": "Overbought",
    "file": "STEEM.png"
+  },
+  {
+   "symbol": "ARK",
+   "name": "ARK",
+   "sigma": 3.51,
+   "from_btc_pct": 23,
+   "verdict": "Overbought",
+   "file": "ARK.png"
   },
   {
    "symbol": "KAVA",
@@ -89,14 +97,6 @@
    "from_btc_pct": 2,
    "verdict": "Overbought",
    "file": "VTHO.png"
-  },
-  {
-   "symbol": "PYTH",
-   "name": "Pyth Network",
-   "sigma": 2.68,
-   "from_btc_pct": 18,
-   "verdict": "Overbought",
-   "file": "PYTH.png"
   }
  ]
 }
