@@ -1,7 +1,15 @@
 {
  "date": "2026-09-13",
- "generated_at": "2026-09-13T03:45:47.720049+00:00",
+ "generated_at": "2026-09-13T04:30:53.137638+00:00",
  "assets": [
+  {
+   "symbol": "AVA",
+   "name": "AVA (Travala)",
+   "sigma": 7.35,
+   "from_btc_pct": 22,
+   "verdict": "Overbought",
+   "file": "AVA.png"
+  },
   {
    "symbol": "VTHO",
    "name": "VeThor",
@@ -25,6 +33,14 @@
    "from_btc_pct": 40,
    "verdict": "Overbought",
    "file": "POLYX.png"
+  },
+  {
+   "symbol": "REZ",
+   "name": "Renzo",
+   "sigma": 3.33,
+   "from_btc_pct": 10,
+   "verdict": "Overbought",
+   "file": "REZ.png"
   },
   {
    "symbol": "MTL",
