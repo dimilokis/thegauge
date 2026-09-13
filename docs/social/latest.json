@@ -1,6 +1,6 @@
 {
  "date": "2026-09-13",
- "generated_at": "2026-09-13T09:15:51.497242+00:00",
+ "generated_at": "2026-09-13T09:45:52.205770+00:00",
  "assets": [
   {
    "symbol": "AVA",
@@ -9,6 +9,14 @@
    "from_btc_pct": 22,
    "verdict": "Overbought",
    "file": "AVA.png"
+  },
+  {
+   "symbol": "API3",
+   "name": "Api3",
+   "sigma": 6.75,
+   "from_btc_pct": 25,
+   "verdict": "Overbought",
+   "file": "API3.png"
   },
   {
    "symbol": "VTHO",
