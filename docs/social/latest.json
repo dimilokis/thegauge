@@ -1,6 +1,6 @@
 {
  "date": "2026-09-12",
- "generated_at": "2026-09-13T00:30:55.212572+00:00",
+ "generated_at": "2026-09-13T01:15:51.194890+00:00",
  "assets": [
   {
    "symbol": "MTL",
@@ -33,6 +33,14 @@
    "from_btc_pct": 40,
    "verdict": "Overbought",
    "file": "ARK.png"
+  },
+  {
+   "symbol": "LSK",
+   "name": "Lisk",
+   "sigma": 4.16,
+   "from_btc_pct": 0,
+   "verdict": "Overbought",
+   "file": "LSK.png"
   },
   {
    "symbol": "PUNDIX",
@@ -89,14 +97,6 @@
    "from_btc_pct": 18,
    "verdict": "Overbought",
    "file": "PYTH.png"
-  },
-  {
-   "symbol": "WLFI",
-   "name": "World Liberty Financial",
-   "sigma": 2.63,
-   "from_btc_pct": 14,
-   "verdict": "Neutral",
-   "file": "WLFI.png"
   }
  ]
 }
