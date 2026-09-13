@@ -1,6 +1,6 @@
 {
  "date": "2026-09-13",
- "generated_at": "2026-09-13T15:30:52.656666+00:00",
+ "generated_at": "2026-09-13T16:00:59.694936+00:00",
  "assets": [
   {
    "symbol": "STRAX",
@@ -41,6 +41,14 @@
    "from_btc_pct": 21,
    "verdict": "Overbought",
    "file": "WAXP.png"
+  },
+  {
+   "symbol": "REZ",
+   "name": "Renzo",
+   "sigma": 3.96,
+   "from_btc_pct": 7,
+   "verdict": "Overbought",
+   "file": "REZ.png"
   },
   {
    "symbol": "FIL",
@@ -89,14 +97,6 @@
    "from_btc_pct": 39,
    "verdict": "Overbought",
    "file": "API3.png"
-  },
-  {
-   "symbol": "REZ",
-   "name": "Renzo",
-   "sigma": 3.33,
-   "from_btc_pct": 10,
-   "verdict": "Overbought",
-   "file": "REZ.png"
   }
  ]
 }
