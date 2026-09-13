@@ -1,6 +1,6 @@
 {
  "date": "2026-09-13",
- "generated_at": "2026-09-13T07:15:48.913598+00:00",
+ "generated_at": "2026-09-13T08:15:44.668574+00:00",
  "assets": [
   {
    "symbol": "AVA",
@@ -27,6 +27,14 @@
    "file": "POLYX.png"
   },
   {
+   "symbol": "HIVE",
+   "name": "Hive",
+   "sigma": 3.79,
+   "from_btc_pct": 37,
+   "verdict": "Overbought",
+   "file": "HIVE.png"
+  },
+  {
    "symbol": "ILV",
    "name": "Illuvium",
    "sigma": 3.66,
@@ -41,14 +49,6 @@
    "from_btc_pct": 10,
    "verdict": "Overbought",
    "file": "REZ.png"
-  },
-  {
-   "symbol": "HIVE",
-   "name": "Hive",
-   "sigma": 3.16,
-   "from_btc_pct": 39,
-   "verdict": "Overbought",
-   "file": "HIVE.png"
   },
   {
    "symbol": "MTL",
