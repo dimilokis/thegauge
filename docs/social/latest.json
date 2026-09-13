@@ -1,22 +1,14 @@
 {
  "date": "2026-09-13",
- "generated_at": "2026-09-13T13:01:00.018695+00:00",
+ "generated_at": "2026-09-13T13:15:49.219220+00:00",
  "assets": [
   {
-   "symbol": "AVA",
-   "name": "AVA (Travala)",
-   "sigma": 7.35,
-   "from_btc_pct": 22,
+   "symbol": "STRAX",
+   "name": "Xertra",
+   "sigma": 9.48,
+   "from_btc_pct": 4,
    "verdict": "Overbought",
-   "file": "AVA.png"
-  },
-  {
-   "symbol": "API3",
-   "name": "Api3",
-   "sigma": 6.75,
-   "from_btc_pct": 25,
-   "verdict": "Overbought",
-   "file": "API3.png"
+   "file": "STRAX.png"
   },
   {
    "symbol": "VTHO",
@@ -51,6 +43,14 @@
    "file": "ILV.png"
   },
   {
+   "symbol": "API3",
+   "name": "Api3",
+   "sigma": 3.6,
+   "from_btc_pct": 37,
+   "verdict": "Overbought",
+   "file": "API3.png"
+  },
+  {
    "symbol": "THETA",
    "name": "Theta Network",
    "sigma": 3.56,
@@ -75,6 +75,14 @@
    "file": "GLM.png"
   },
   {
+   "symbol": "AVA",
+   "name": "AVA (Travala)",
+   "sigma": 2.84,
+   "from_btc_pct": 33,
+   "verdict": "Neutral",
+   "file": "AVA.png"
+  },
+  {
    "symbol": "MTL",
    "name": "Metal DAO",
    "sigma": 2.61,
@@ -89,14 +97,6 @@
    "from_btc_pct": 2,
    "verdict": "Overbought",
    "file": "KAVA.png"
-  },
-  {
-   "symbol": "SAGA",
-   "name": "Saga",
-   "sigma": 2.59,
-   "from_btc_pct": 4,
-   "verdict": "Overbought",
-   "file": "SAGA.png"
   }
  ]
 }
