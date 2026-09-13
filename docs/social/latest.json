@@ -1,6 +1,6 @@
 {
  "date": "2026-09-13",
- "generated_at": "2026-09-13T15:06:52.644487+00:00",
+ "generated_at": "2026-09-13T15:30:52.656666+00:00",
  "assets": [
   {
    "symbol": "STRAX",
@@ -17,6 +17,14 @@
    "from_btc_pct": 31,
    "verdict": "Overbought",
    "file": "ANKR.png"
+  },
+  {
+   "symbol": "KAVA",
+   "name": "Kava",
+   "sigma": 5.67,
+   "from_btc_pct": 2,
+   "verdict": "Overbought",
+   "file": "KAVA.png"
   },
   {
    "symbol": "VTHO",
@@ -89,14 +97,6 @@
    "from_btc_pct": 10,
    "verdict": "Overbought",
    "file": "REZ.png"
-  },
-  {
-   "symbol": "GLM",
-   "name": "Golem",
-   "sigma": 3.21,
-   "from_btc_pct": 29,
-   "verdict": "Overbought",
-   "file": "GLM.png"
   }
  ]
 }
