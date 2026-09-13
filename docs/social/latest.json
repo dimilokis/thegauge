@@ -1,7 +1,15 @@
 {
  "date": "2026-09-13",
- "generated_at": "2026-09-13T03:30:53.356113+00:00",
+ "generated_at": "2026-09-13T03:45:47.720049+00:00",
  "assets": [
+  {
+   "symbol": "VTHO",
+   "name": "VeThor",
+   "sigma": 5.31,
+   "from_btc_pct": 1,
+   "verdict": "Overbought",
+   "file": "VTHO.png"
+  },
   {
    "symbol": "HIVE",
    "name": "Hive",
