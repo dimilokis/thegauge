@@ -1,6 +1,6 @@
 {
  "date": "2026-09-13",
- "generated_at": "2026-09-13T13:15:49.219220+00:00",
+ "generated_at": "2026-09-13T13:45:51.199095+00:00",
  "assets": [
   {
    "symbol": "STRAX",
@@ -17,6 +17,14 @@
    "from_btc_pct": 1,
    "verdict": "Overbought",
    "file": "VTHO.png"
+  },
+  {
+   "symbol": "WAXP",
+   "name": "WAX",
+   "sigma": 4.8,
+   "from_btc_pct": 21,
+   "verdict": "Overbought",
+   "file": "WAXP.png"
   },
   {
    "symbol": "POLYX",
@@ -89,14 +97,6 @@
    "from_btc_pct": 15,
    "verdict": "Overbought",
    "file": "MTL.png"
-  },
-  {
-   "symbol": "KAVA",
-   "name": "Kava",
-   "sigma": 2.61,
-   "from_btc_pct": 2,
-   "verdict": "Overbought",
-   "file": "KAVA.png"
   }
  ]
 }
