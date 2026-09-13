@@ -1,6 +1,6 @@
 {
  "date": "2026-09-13",
- "generated_at": "2026-09-13T14:15:48.481106+00:00",
+ "generated_at": "2026-09-13T14:45:51.218472+00:00",
  "assets": [
   {
    "symbol": "STRAX",
@@ -51,14 +51,6 @@
    "file": "POLYX.png"
   },
   {
-   "symbol": "HIVE",
-   "name": "Hive",
-   "sigma": 3.79,
-   "from_btc_pct": 37,
-   "verdict": "Overbought",
-   "file": "HIVE.png"
-  },
-  {
    "symbol": "ILV",
    "name": "Illuvium",
    "sigma": 3.66,
@@ -73,6 +65,14 @@
    "from_btc_pct": 39,
    "verdict": "Overbought",
    "file": "THETA.png"
+  },
+  {
+   "symbol": "HIVE",
+   "name": "Hive",
+   "sigma": 3.54,
+   "from_btc_pct": 39,
+   "verdict": "Overbought",
+   "file": "HIVE.png"
   },
   {
    "symbol": "REZ",
