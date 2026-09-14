@@ -1,7 +1,15 @@
 {
  "date": "2026-09-14",
- "generated_at": "2026-09-14T05:30:55.246226+00:00",
+ "generated_at": "2026-09-14T06:01:00.853890+00:00",
  "assets": [
+  {
+   "symbol": "CVC",
+   "name": "Civic",
+   "sigma": 4.0,
+   "from_btc_pct": 3,
+   "verdict": "Overbought",
+   "file": "CVC.png"
+  },
   {
    "symbol": "STEEM",
    "name": "Steem",
