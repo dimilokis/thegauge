@@ -1,6 +1,6 @@
 {
  "date": "2026-09-14",
- "generated_at": "2026-09-14T11:16:18.541967+00:00",
+ "generated_at": "2026-09-14T11:30:54.915689+00:00",
  "assets": [
   {
    "symbol": "POLYX",
@@ -43,14 +43,6 @@
    "file": "HIVE.png"
   },
   {
-   "symbol": "STRAX",
-   "name": "Xertra",
-   "sigma": 3.26,
-   "from_btc_pct": 20,
-   "verdict": "Overbought",
-   "file": "STRAX.png"
-  },
-  {
    "symbol": "MINA",
    "name": "Mina Protocol",
    "sigma": 3.14,
@@ -73,6 +65,14 @@
    "from_btc_pct": 2,
    "verdict": "Overbought",
    "file": "SOLV.png"
+  },
+  {
+   "symbol": "STRAX",
+   "name": "Xertra",
+   "sigma": 2.94,
+   "from_btc_pct": 21,
+   "verdict": "Overbought",
+   "file": "STRAX.png"
   },
   {
    "symbol": "PENDLE",
