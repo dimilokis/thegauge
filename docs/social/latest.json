@@ -1,15 +1,7 @@
 {
  "date": "2026-09-14",
- "generated_at": "2026-09-14T05:00:55.604721+00:00",
+ "generated_at": "2026-09-14T05:30:55.246226+00:00",
  "assets": [
-  {
-   "symbol": "STRAX",
-   "name": "Xertra",
-   "sigma": 3.5,
-   "from_btc_pct": 18,
-   "verdict": "Overbought",
-   "file": "STRAX.png"
-  },
   {
    "symbol": "STEEM",
    "name": "Steem",
@@ -17,6 +9,14 @@
    "from_btc_pct": 9,
    "verdict": "Overbought",
    "file": "STEEM.png"
+  },
+  {
+   "symbol": "STRAX",
+   "name": "Xertra",
+   "sigma": 3.22,
+   "from_btc_pct": 19,
+   "verdict": "Overbought",
+   "file": "STRAX.png"
   },
   {
    "symbol": "SOLV",
