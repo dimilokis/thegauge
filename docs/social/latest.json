@@ -1,6 +1,6 @@
 {
  "date": "2026-09-14",
- "generated_at": "2026-09-14T11:30:54.915689+00:00",
+ "generated_at": "2026-09-14T11:45:47.921100+00:00",
  "assets": [
   {
    "symbol": "POLYX",
@@ -61,7 +61,7 @@
   {
    "symbol": "SOLV",
    "name": "Solv Protocol",
-   "sigma": 3.09,
+   "sigma": 2.98,
    "from_btc_pct": 2,
    "verdict": "Overbought",
    "file": "SOLV.png"
