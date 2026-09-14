@@ -1,6 +1,6 @@
 {
  "date": "2026-09-14",
- "generated_at": "2026-09-14T10:00:58.842536+00:00",
+ "generated_at": "2026-09-14T10:15:59.662957+00:00",
  "assets": [
   {
    "symbol": "POLYX",
@@ -19,6 +19,22 @@
    "file": "CVC.png"
   },
   {
+   "symbol": "WAXP",
+   "name": "WAX",
+   "sigma": 3.78,
+   "from_btc_pct": 27,
+   "verdict": "Overbought",
+   "file": "WAXP.png"
+  },
+  {
+   "symbol": "T",
+   "name": "Threshold Network",
+   "sigma": 3.6,
+   "from_btc_pct": 2,
+   "verdict": "Overbought",
+   "file": "T.png"
+  },
+  {
    "symbol": "HIVE",
    "name": "Hive",
    "sigma": 3.27,
@@ -33,6 +49,14 @@
    "from_btc_pct": 20,
    "verdict": "Overbought",
    "file": "STRAX.png"
+  },
+  {
+   "symbol": "MINA",
+   "name": "Mina Protocol",
+   "sigma": 3.14,
+   "from_btc_pct": 20,
+   "verdict": "Neutral",
+   "file": "MINA.png"
   },
   {
    "symbol": "SOLV",
@@ -65,14 +89,6 @@
    "from_btc_pct": 34,
    "verdict": "Overbought",
    "file": "PUNDIX.png"
-  },
-  {
-   "symbol": "T",
-   "name": "Threshold Network",
-   "sigma": 2.66,
-   "from_btc_pct": 2,
-   "verdict": "Overbought",
-   "file": "T.png"
   },
   {
    "symbol": "REZ",
