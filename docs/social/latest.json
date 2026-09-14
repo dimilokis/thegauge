@@ -1,6 +1,6 @@
 {
  "date": "2026-09-14",
- "generated_at": "2026-09-14T11:45:47.921100+00:00",
+ "generated_at": "2026-09-14T12:01:00.177884+00:00",
  "assets": [
   {
    "symbol": "POLYX",
@@ -69,8 +69,8 @@
   {
    "symbol": "STRAX",
    "name": "Xertra",
-   "sigma": 2.94,
-   "from_btc_pct": 21,
+   "sigma": 2.98,
+   "from_btc_pct": 20,
    "verdict": "Overbought",
    "file": "STRAX.png"
   },
