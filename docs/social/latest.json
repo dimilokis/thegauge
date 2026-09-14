@@ -1,6 +1,6 @@
 {
  "date": "2026-09-14",
- "generated_at": "2026-09-14T18:01:09.694662+00:00",
+ "generated_at": "2026-09-14T19:45:51.467459+00:00",
  "assets": [
   {
    "symbol": "POLYX",
@@ -93,8 +93,8 @@
   {
    "symbol": "KAVA",
    "name": "Kava",
-   "sigma": 2.79,
-   "from_btc_pct": 3,
+   "sigma": 2.51,
+   "from_btc_pct": 4,
    "verdict": "Overbought",
    "file": "KAVA.png"
   }
