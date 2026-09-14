@@ -1,7 +1,15 @@
 {
  "date": "2026-09-14",
- "generated_at": "2026-09-14T22:15:56.490243+00:00",
+ "generated_at": "2026-09-14T23:30:46.742650+00:00",
  "assets": [
+  {
+   "symbol": "STRAX",
+   "name": "Xertra",
+   "sigma": 6.03,
+   "from_btc_pct": 17,
+   "verdict": "Overbought",
+   "file": "STRAX.png"
+  },
   {
    "symbol": "POLYX",
    "name": "Polymesh",
@@ -81,14 +89,6 @@
    "from_btc_pct": 2,
    "verdict": "Overbought",
    "file": "SOLV.png"
-  },
-  {
-   "symbol": "STRAX",
-   "name": "Xertra",
-   "sigma": 2.98,
-   "from_btc_pct": 20,
-   "verdict": "Overbought",
-   "file": "STRAX.png"
   },
   {
    "symbol": "NEAR",
