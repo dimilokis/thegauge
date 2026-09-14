@@ -1,15 +1,7 @@
 {
  "date": "2026-09-14",
- "generated_at": "2026-09-14T16:15:54.170361+00:00",
+ "generated_at": "2026-09-14T17:15:56.350699+00:00",
  "assets": [
-  {
-   "symbol": "QKC",
-   "name": "QuarkChain",
-   "sigma": 5.43,
-   "from_btc_pct": 7,
-   "verdict": "Overbought",
-   "file": "QKC.png"
-  },
   {
    "symbol": "POLYX",
    "name": "Polymesh",
@@ -41,6 +33,14 @@
    "from_btc_pct": 39,
    "verdict": "Overbought",
    "file": "HIVE.png"
+  },
+  {
+   "symbol": "QKC",
+   "name": "QuarkChain",
+   "sigma": 3.17,
+   "from_btc_pct": 9,
+   "verdict": "Overbought",
+   "file": "QKC.png"
   },
   {
    "symbol": "MINA",
@@ -91,12 +91,12 @@
    "file": "KAVA.png"
   },
   {
-   "symbol": "PENDLE",
-   "name": "Pendle",
-   "sigma": 2.69,
-   "from_btc_pct": 32,
+   "symbol": "NEAR",
+   "name": "NEAR Protocol",
+   "sigma": 2.78,
+   "from_btc_pct": 28,
    "verdict": "Strong Uptrend",
-   "file": "PENDLE.png"
+   "file": "NEAR.png"
   }
  ]
 }
