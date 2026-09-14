@@ -1,6 +1,6 @@
 {
  "date": "2026-09-14",
- "generated_at": "2026-09-14T17:45:52.043206+00:00",
+ "generated_at": "2026-09-14T18:01:09.694662+00:00",
  "assets": [
   {
    "symbol": "POLYX",
@@ -33,6 +33,14 @@
    "from_btc_pct": 39,
    "verdict": "Overbought",
    "file": "HIVE.png"
+  },
+  {
+   "symbol": "SENT",
+   "name": "Sentient",
+   "sigma": 3.18,
+   "from_btc_pct": 15,
+   "verdict": "Overbought",
+   "file": "SENT.png"
   },
   {
    "symbol": "QKC",
@@ -89,14 +97,6 @@
    "from_btc_pct": 3,
    "verdict": "Overbought",
    "file": "KAVA.png"
-  },
-  {
-   "symbol": "NEAR",
-   "name": "NEAR Protocol",
-   "sigma": 2.78,
-   "from_btc_pct": 28,
-   "verdict": "Strong Uptrend",
-   "file": "NEAR.png"
   }
  ]
 }
