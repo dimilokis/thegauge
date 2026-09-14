@@ -1,7 +1,15 @@
 {
  "date": "2026-09-14",
- "generated_at": "2026-09-14T13:01:04.999560+00:00",
+ "generated_at": "2026-09-14T13:45:46.530873+00:00",
  "assets": [
+  {
+   "symbol": "QKC",
+   "name": "QuarkChain",
+   "sigma": 5.43,
+   "from_btc_pct": 7,
+   "verdict": "Overbought",
+   "file": "QKC.png"
+  },
   {
    "symbol": "POLYX",
    "name": "Polymesh",
@@ -89,14 +97,6 @@
    "from_btc_pct": 10,
    "verdict": "Overbought",
    "file": "STEEM.png"
-  },
-  {
-   "symbol": "LA",
-   "name": "Lagrange",
-   "sigma": 2.6,
-   "from_btc_pct": 7,
-   "verdict": "Overbought",
-   "file": "LA.png"
   }
  ]
 }
