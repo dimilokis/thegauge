@@ -1,6 +1,6 @@
 {
  "date": "2026-09-14",
- "generated_at": "2026-09-14T06:01:00.853890+00:00",
+ "generated_at": "2026-09-14T06:14:38.186521+00:00",
  "assets": [
   {
    "symbol": "CVC",
@@ -19,14 +19,6 @@
    "file": "STEEM.png"
   },
   {
-   "symbol": "STRAX",
-   "name": "Xertra",
-   "sigma": 3.22,
-   "from_btc_pct": 19,
-   "verdict": "Overbought",
-   "file": "STRAX.png"
-  },
-  {
    "symbol": "SOLV",
    "name": "Solv Protocol",
    "sigma": 3.09,
@@ -41,6 +33,14 @@
    "from_btc_pct": 34,
    "verdict": "Overbought",
    "file": "PUNDIX.png"
+  },
+  {
+   "symbol": "STRAX",
+   "name": "Xertra",
+   "sigma": 2.66,
+   "from_btc_pct": 21,
+   "verdict": "Overbought",
+   "file": "STRAX.png"
   }
  ]
 }
