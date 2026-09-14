@@ -1,6 +1,6 @@
 {
  "date": "2026-09-14",
- "generated_at": "2026-09-14T12:01:00.177884+00:00",
+ "generated_at": "2026-09-14T13:01:04.999560+00:00",
  "assets": [
   {
    "symbol": "POLYX",
@@ -91,12 +91,12 @@
    "file": "STEEM.png"
   },
   {
-   "symbol": "CAKE",
-   "name": "PancakeSwap",
-   "sigma": 2.56,
-   "from_btc_pct": 34,
+   "symbol": "LA",
+   "name": "Lagrange",
+   "sigma": 2.6,
+   "from_btc_pct": 7,
    "verdict": "Overbought",
-   "file": "CAKE.png"
+   "file": "LA.png"
   }
  ]
 }
