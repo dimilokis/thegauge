@@ -1,6 +1,6 @@
 {
  "date": "2026-09-13",
- "generated_at": "2026-09-14T01:00:58.980933+00:00",
+ "generated_at": "2026-09-14T01:30:57.744158+00:00",
  "assets": [
   {
    "symbol": "MBL",
@@ -59,6 +59,14 @@
    "file": "ZIL.png"
   },
   {
+   "symbol": "STEEM",
+   "name": "Steem",
+   "sigma": 3.89,
+   "from_btc_pct": 8,
+   "verdict": "Overbought",
+   "file": "STEEM.png"
+  },
+  {
    "symbol": "FIL",
    "name": "Filecoin",
    "sigma": 3.87,
@@ -89,14 +97,6 @@
    "from_btc_pct": 14,
    "verdict": "Overbought",
    "file": "ILV.png"
-  },
-  {
-   "symbol": "ARK",
-   "name": "ARK",
-   "sigma": 2.78,
-   "from_btc_pct": 23,
-   "verdict": "Overbought",
-   "file": "ARK.png"
   }
  ]
 }
