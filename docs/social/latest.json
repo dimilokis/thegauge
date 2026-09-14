@@ -1,6 +1,6 @@
 {
  "date": "2026-09-14",
- "generated_at": "2026-09-14T07:01:00.598425+00:00",
+ "generated_at": "2026-09-14T08:15:53.327316+00:00",
  "assets": [
   {
    "symbol": "CVC",
@@ -19,14 +19,6 @@
    "file": "POLYX.png"
   },
   {
-   "symbol": "STEEM",
-   "name": "Steem",
-   "sigma": 3.4,
-   "from_btc_pct": 9,
-   "verdict": "Overbought",
-   "file": "STEEM.png"
-  },
-  {
    "symbol": "SOLV",
    "name": "Solv Protocol",
    "sigma": 3.09,
@@ -37,10 +29,18 @@
   {
    "symbol": "HIVE",
    "name": "Hive",
-   "sigma": 2.8,
-   "from_btc_pct": 39,
+   "sigma": 2.92,
+   "from_btc_pct": 40,
    "verdict": "Overbought",
    "file": "HIVE.png"
+  },
+  {
+   "symbol": "STEEM",
+   "name": "Steem",
+   "sigma": 2.76,
+   "from_btc_pct": 10,
+   "verdict": "Overbought",
+   "file": "STEEM.png"
   },
   {
    "symbol": "PUNDIX",
