@@ -1,6 +1,6 @@
 {
  "date": "2026-09-14",
- "generated_at": "2026-09-14T09:30:53.148512+00:00",
+ "generated_at": "2026-09-14T09:45:53.044894+00:00",
  "assets": [
   {
    "symbol": "POLYX",
@@ -57,6 +57,14 @@
    "from_btc_pct": 34,
    "verdict": "Overbought",
    "file": "PUNDIX.png"
+  },
+  {
+   "symbol": "T",
+   "name": "Threshold Network",
+   "sigma": 2.66,
+   "from_btc_pct": 2,
+   "verdict": "Overbought",
+   "file": "T.png"
   },
   {
    "symbol": "REZ",
