@@ -1,6 +1,6 @@
 {
  "date": "2026-09-14",
- "generated_at": "2026-09-14T11:00:59.395776+00:00",
+ "generated_at": "2026-09-14T11:16:18.541967+00:00",
  "assets": [
   {
    "symbol": "POLYX",
@@ -59,6 +59,14 @@
    "file": "MINA.png"
   },
   {
+   "symbol": "PUNDIX",
+   "name": "Pundi X",
+   "sigma": 3.14,
+   "from_btc_pct": 34,
+   "verdict": "Overbought",
+   "file": "PUNDIX.png"
+  },
+  {
    "symbol": "SOLV",
    "name": "Solv Protocol",
    "sigma": 3.09,
@@ -81,14 +89,6 @@
    "from_btc_pct": 10,
    "verdict": "Overbought",
    "file": "STEEM.png"
-  },
-  {
-   "symbol": "PUNDIX",
-   "name": "Pundi X",
-   "sigma": 2.66,
-   "from_btc_pct": 34,
-   "verdict": "Overbought",
-   "file": "PUNDIX.png"
   },
   {
    "symbol": "CAKE",
