@@ -1,6 +1,6 @@
 {
  "date": "2026-09-14",
- "generated_at": "2026-09-14T09:45:53.044894+00:00",
+ "generated_at": "2026-09-14T10:00:58.842536+00:00",
  "assets": [
   {
    "symbol": "POLYX",
@@ -41,6 +41,14 @@
    "from_btc_pct": 2,
    "verdict": "Overbought",
    "file": "SOLV.png"
+  },
+  {
+   "symbol": "PENDLE",
+   "name": "Pendle",
+   "sigma": 2.83,
+   "from_btc_pct": 32,
+   "verdict": "Strong Uptrend",
+   "file": "PENDLE.png"
   },
   {
    "symbol": "STEEM",
