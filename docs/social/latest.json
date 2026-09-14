@@ -1,102 +1,14 @@
 {
- "date": "2026-09-13",
- "generated_at": "2026-09-14T02:30:54.739062+00:00",
+ "date": "2026-09-14",
+ "generated_at": "2026-09-14T03:15:53.647419+00:00",
  "assets": [
   {
-   "symbol": "MBL",
-   "name": "MovieBloc",
-   "sigma": 11.46,
-   "from_btc_pct": 15,
-   "verdict": "Overbought",
-   "file": "MBL.png"
-  },
-  {
-   "symbol": "STRAX",
-   "name": "Xertra",
-   "sigma": 9.48,
-   "from_btc_pct": 4,
-   "verdict": "Overbought",
-   "file": "STRAX.png"
-  },
-  {
-   "symbol": "ANKR",
-   "name": "Ankr Network",
-   "sigma": 6.1,
-   "from_btc_pct": 31,
-   "verdict": "Overbought",
-   "file": "ANKR.png"
-  },
-  {
-   "symbol": "KAVA",
-   "name": "Kava",
-   "sigma": 5.67,
+   "symbol": "SOLV",
+   "name": "Solv Protocol",
+   "sigma": 3.09,
    "from_btc_pct": 2,
    "verdict": "Overbought",
-   "file": "KAVA.png"
-  },
-  {
-   "symbol": "VTHO",
-   "name": "VeThor",
-   "sigma": 5.31,
-   "from_btc_pct": 1,
-   "verdict": "Overbought",
-   "file": "VTHO.png"
-  },
-  {
-   "symbol": "WAXP",
-   "name": "WAX",
-   "sigma": 4.8,
-   "from_btc_pct": 21,
-   "verdict": "Overbought",
-   "file": "WAXP.png"
-  },
-  {
-   "symbol": "ZIL",
-   "name": "Zilliqa",
-   "sigma": 4.42,
-   "from_btc_pct": 21,
-   "verdict": "Overbought",
-   "file": "ZIL.png"
-  },
-  {
-   "symbol": "GLM",
-   "name": "Golem",
-   "sigma": 4.04,
-   "from_btc_pct": 32,
-   "verdict": "Overbought",
-   "file": "GLM.png"
-  },
-  {
-   "symbol": "STEEM",
-   "name": "Steem",
-   "sigma": 3.89,
-   "from_btc_pct": 8,
-   "verdict": "Overbought",
-   "file": "STEEM.png"
-  },
-  {
-   "symbol": "FIL",
-   "name": "Filecoin",
-   "sigma": 3.87,
-   "from_btc_pct": 17,
-   "verdict": "Strong Uptrend",
-   "file": "FIL.png"
-  },
-  {
-   "symbol": "POLYX",
-   "name": "Polymesh",
-   "sigma": 3.82,
-   "from_btc_pct": 39,
-   "verdict": "Overbought",
-   "file": "POLYX.png"
-  },
-  {
-   "symbol": "PUNDIX",
-   "name": "Pundi X",
-   "sigma": 3.46,
-   "from_btc_pct": 32,
-   "verdict": "Overbought",
-   "file": "PUNDIX.png"
+   "file": "SOLV.png"
   }
  ]
 }
