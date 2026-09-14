@@ -1,6 +1,6 @@
 {
  "date": "2026-09-14",
- "generated_at": "2026-09-14T06:14:38.186521+00:00",
+ "generated_at": "2026-09-14T07:01:00.598425+00:00",
  "assets": [
   {
    "symbol": "CVC",
@@ -9,6 +9,14 @@
    "from_btc_pct": 3,
    "verdict": "Overbought",
    "file": "CVC.png"
+  },
+  {
+   "symbol": "POLYX",
+   "name": "Polymesh",
+   "sigma": 3.95,
+   "from_btc_pct": 39,
+   "verdict": "Overbought",
+   "file": "POLYX.png"
   },
   {
    "symbol": "STEEM",
@@ -25,6 +33,14 @@
    "from_btc_pct": 2,
    "verdict": "Overbought",
    "file": "SOLV.png"
+  },
+  {
+   "symbol": "HIVE",
+   "name": "Hive",
+   "sigma": 2.8,
+   "from_btc_pct": 39,
+   "verdict": "Overbought",
+   "file": "HIVE.png"
   },
   {
    "symbol": "PUNDIX",
