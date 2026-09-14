@@ -1,6 +1,6 @@
 {
  "date": "2026-09-14",
- "generated_at": "2026-09-14T08:45:53.165656+00:00",
+ "generated_at": "2026-09-14T09:30:53.148512+00:00",
  "assets": [
   {
    "symbol": "POLYX",
@@ -27,6 +27,14 @@
    "file": "HIVE.png"
   },
   {
+   "symbol": "STRAX",
+   "name": "Xertra",
+   "sigma": 3.26,
+   "from_btc_pct": 20,
+   "verdict": "Overbought",
+   "file": "STRAX.png"
+  },
+  {
    "symbol": "SOLV",
    "name": "Solv Protocol",
    "sigma": 3.09,
@@ -51,12 +59,12 @@
    "file": "PUNDIX.png"
   },
   {
-   "symbol": "STRAX",
-   "name": "Xertra",
-   "sigma": 2.66,
-   "from_btc_pct": 21,
+   "symbol": "REZ",
+   "name": "Renzo",
+   "sigma": 2.55,
+   "from_btc_pct": 8,
    "verdict": "Overbought",
-   "file": "STRAX.png"
+   "file": "REZ.png"
   }
  ]
 }
