@@ -1,6 +1,6 @@
 {
  "date": "2026-09-14",
- "generated_at": "2026-09-14T04:45:53.426625+00:00",
+ "generated_at": "2026-09-14T05:00:55.604721+00:00",
  "assets": [
   {
    "symbol": "STRAX",
@@ -25,6 +25,14 @@
    "from_btc_pct": 2,
    "verdict": "Overbought",
    "file": "SOLV.png"
+  },
+  {
+   "symbol": "PUNDIX",
+   "name": "Pundi X",
+   "sigma": 2.66,
+   "from_btc_pct": 34,
+   "verdict": "Overbought",
+   "file": "PUNDIX.png"
   }
  ]
 }
