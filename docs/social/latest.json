@@ -1,6 +1,6 @@
 {
  "date": "2026-09-14",
- "generated_at": "2026-09-14T13:45:46.530873+00:00",
+ "generated_at": "2026-09-14T14:01:00.028742+00:00",
  "assets": [
   {
    "symbol": "QKC",
@@ -35,14 +35,6 @@
    "file": "WAXP.png"
   },
   {
-   "symbol": "T",
-   "name": "Threshold Network",
-   "sigma": 3.6,
-   "from_btc_pct": 2,
-   "verdict": "Overbought",
-   "file": "T.png"
-  },
-  {
    "symbol": "HIVE",
    "name": "Hive",
    "sigma": 3.27,
@@ -67,6 +59,14 @@
    "file": "PUNDIX.png"
   },
   {
+   "symbol": "T",
+   "name": "Threshold Network",
+   "sigma": 3.08,
+   "from_btc_pct": 2,
+   "verdict": "Overbought",
+   "file": "T.png"
+  },
+  {
    "symbol": "SOLV",
    "name": "Solv Protocol",
    "sigma": 2.98,
@@ -83,20 +83,20 @@
    "file": "STRAX.png"
   },
   {
+   "symbol": "KAVA",
+   "name": "Kava",
+   "sigma": 2.95,
+   "from_btc_pct": 3,
+   "verdict": "Overbought",
+   "file": "KAVA.png"
+  },
+  {
    "symbol": "PENDLE",
    "name": "Pendle",
    "sigma": 2.83,
    "from_btc_pct": 32,
    "verdict": "Strong Uptrend",
    "file": "PENDLE.png"
-  },
-  {
-   "symbol": "STEEM",
-   "name": "Steem",
-   "sigma": 2.76,
-   "from_btc_pct": 10,
-   "verdict": "Overbought",
-   "file": "STEEM.png"
   }
  ]
 }

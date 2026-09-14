@@ -27,6 +27,10 @@
   "icon": "https://coin-images.coingecko.com/coins/images/68339/large/Coingecko_-_PFP.png?1755694420",
   "name": "DoubleZero"
  },
+ "AAPLB": {
+  "icon": "https://coin-images.coingecko.com/coins/images/102175182/large/aaplb.png",
+  "name": "Apple (bStocks Tokenized Stock)"
+ },
  "AAVE": {
   "icon": "https://coin-images.coingecko.com/coins/images/12645/large/aave-token-round.png?1720472354",
   "name": "Aave"
