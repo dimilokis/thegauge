@@ -1,6 +1,6 @@
 {
  "date": "2026-09-13",
- "generated_at": "2026-09-14T00:15:46.213518+00:00",
+ "generated_at": "2026-09-14T00:45:47.634616+00:00",
  "assets": [
   {
    "symbol": "MBL",
@@ -75,6 +75,14 @@
    "file": "FIL.png"
   },
   {
+   "symbol": "PUNDIX",
+   "name": "Pundi X",
+   "sigma": 3.85,
+   "from_btc_pct": 27,
+   "verdict": "Overbought",
+   "file": "PUNDIX.png"
+  },
+  {
    "symbol": "POLYX",
    "name": "Polymesh",
    "sigma": 3.82,
@@ -89,14 +97,6 @@
    "from_btc_pct": 14,
    "verdict": "Overbought",
    "file": "ILV.png"
-  },
-  {
-   "symbol": "THETA",
-   "name": "Theta Network",
-   "sigma": 3.56,
-   "from_btc_pct": 39,
-   "verdict": "Overbought",
-   "file": "THETA.png"
   }
  ]
 }
