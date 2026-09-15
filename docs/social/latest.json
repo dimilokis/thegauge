@@ -1,7 +1,15 @@
 {
  "date": "2026-09-14",
- "generated_at": "2026-09-14T23:30:46.742650+00:00",
+ "generated_at": "2026-09-15T00:15:50.611596+00:00",
  "assets": [
+  {
+   "symbol": "HIVE",
+   "name": "Hive",
+   "sigma": 6.25,
+   "from_btc_pct": 26,
+   "verdict": "Overbought",
+   "file": "HIVE.png"
+  },
   {
    "symbol": "STRAX",
    "name": "Xertra",
@@ -9,6 +17,14 @@
    "from_btc_pct": 17,
    "verdict": "Overbought",
    "file": "STRAX.png"
+  },
+  {
+   "symbol": "STEEM",
+   "name": "Steem",
+   "sigma": 5.96,
+   "from_btc_pct": 4,
+   "verdict": "Overbought",
+   "file": "STEEM.png"
   },
   {
    "symbol": "POLYX",
@@ -33,14 +49,6 @@
    "from_btc_pct": 27,
    "verdict": "Overbought",
    "file": "WAXP.png"
-  },
-  {
-   "symbol": "HIVE",
-   "name": "Hive",
-   "sigma": 3.27,
-   "from_btc_pct": 39,
-   "verdict": "Overbought",
-   "file": "HIVE.png"
   },
   {
    "symbol": "SENT",
@@ -89,14 +97,6 @@
    "from_btc_pct": 2,
    "verdict": "Overbought",
    "file": "SOLV.png"
-  },
-  {
-   "symbol": "NEAR",
-   "name": "NEAR Protocol",
-   "sigma": 2.85,
-   "from_btc_pct": 28,
-   "verdict": "Strong Uptrend",
-   "file": "NEAR.png"
   }
  ]
 }
