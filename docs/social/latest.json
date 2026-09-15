@@ -1,7 +1,15 @@
 {
  "date": "2026-09-15",
- "generated_at": "2026-09-15T06:15:48.208142+00:00",
+ "generated_at": "2026-09-15T06:45:47.861883+00:00",
  "assets": [
+  {
+   "symbol": "AXL",
+   "name": "Axelar",
+   "sigma": 7.93,
+   "from_btc_pct": 20,
+   "verdict": "Overbought",
+   "file": "AXL.png"
+  },
   {
    "symbol": "FF",
    "name": "Falcon Finance",
@@ -13,7 +21,7 @@
   {
    "symbol": "VTHO",
    "name": "VeThor",
-   "sigma": 3.15,
+   "sigma": 3.43,
    "from_btc_pct": 0,
    "verdict": "Overbought",
    "file": "VTHO.png"
