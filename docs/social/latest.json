@@ -1,6 +1,6 @@
 {
  "date": "2026-09-15",
- "generated_at": "2026-09-15T18:15:51.952480+00:00",
+ "generated_at": "2026-09-15T18:45:50.503234+00:00",
  "assets": [
   {
    "symbol": "AXL",
@@ -17,6 +17,14 @@
    "from_btc_pct": 18,
    "verdict": "Overbought",
    "file": "TREE.png"
+  },
+  {
+   "symbol": "REZ",
+   "name": "Renzo",
+   "sigma": 2.97,
+   "from_btc_pct": 11,
+   "verdict": "Neutral",
+   "file": "REZ.png"
   },
   {
    "symbol": "ARK",
@@ -43,20 +51,20 @@
    "file": "SAGA.png"
   },
   {
+   "symbol": "ZKC",
+   "name": "Boundless",
+   "sigma": 2.68,
+   "from_btc_pct": 4,
+   "verdict": "Oversold",
+   "file": "ZKC.png"
+  },
+  {
    "symbol": "VTHO",
    "name": "VeThor",
    "sigma": 2.67,
    "from_btc_pct": 0,
    "verdict": "Overbought",
    "file": "VTHO.png"
-  },
-  {
-   "symbol": "REZ",
-   "name": "Renzo",
-   "sigma": 2.66,
-   "from_btc_pct": 10,
-   "verdict": "Neutral",
-   "file": "REZ.png"
   },
   {
    "symbol": "INJ",
@@ -89,14 +97,6 @@
    "from_btc_pct": 4,
    "verdict": "Overbought",
    "file": "FF.png"
-  },
-  {
-   "symbol": "MTL",
-   "name": "Metal DAO",
-   "sigma": 2.53,
-   "from_btc_pct": 18,
-   "verdict": "Overbought",
-   "file": "MTL.png"
   }
  ]
 }
