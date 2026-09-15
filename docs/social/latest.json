@@ -1,100 +1,12 @@
 {
- "date": "2026-09-14",
- "generated_at": "2026-09-15T02:30:52.119215+00:00",
+ "date": "2026-09-15",
+ "generated_at": "2026-09-15T03:00:55.736401+00:00",
  "assets": [
-  {
-   "symbol": "HIVE",
-   "name": "Hive",
-   "sigma": 6.25,
-   "from_btc_pct": 26,
-   "verdict": "Overbought",
-   "file": "HIVE.png"
-  },
-  {
-   "symbol": "CVC",
-   "name": "Civic",
-   "sigma": 4.0,
-   "from_btc_pct": 3,
-   "verdict": "Overbought",
-   "file": "CVC.png"
-  },
-  {
-   "symbol": "WAXP",
-   "name": "WAX",
-   "sigma": 3.78,
-   "from_btc_pct": 27,
-   "verdict": "Overbought",
-   "file": "WAXP.png"
-  },
-  {
-   "symbol": "POLYX",
-   "name": "Polymesh",
-   "sigma": 3.31,
-   "from_btc_pct": 36,
-   "verdict": "Overbought",
-   "file": "POLYX.png"
-  },
-  {
-   "symbol": "SENT",
-   "name": "Sentient",
-   "sigma": 3.18,
-   "from_btc_pct": 15,
-   "verdict": "Overbought",
-   "file": "SENT.png"
-  },
-  {
-   "symbol": "QKC",
-   "name": "QuarkChain",
-   "sigma": 3.17,
-   "from_btc_pct": 9,
-   "verdict": "Overbought",
-   "file": "QKC.png"
-  },
-  {
-   "symbol": "MINA",
-   "name": "Mina Protocol",
-   "sigma": 3.14,
-   "from_btc_pct": 20,
-   "verdict": "Neutral",
-   "file": "MINA.png"
-  },
-  {
-   "symbol": "PUNDIX",
-   "name": "Pundi X",
-   "sigma": 3.14,
-   "from_btc_pct": 34,
-   "verdict": "Overbought",
-   "file": "PUNDIX.png"
-  },
-  {
-   "symbol": "T",
-   "name": "Threshold Network",
-   "sigma": 3.08,
-   "from_btc_pct": 2,
-   "verdict": "Overbought",
-   "file": "T.png"
-  },
-  {
-   "symbol": "SOLV",
-   "name": "Solv Protocol",
-   "sigma": 2.98,
-   "from_btc_pct": 2,
-   "verdict": "Overbought",
-   "file": "SOLV.png"
-  },
-  {
-   "symbol": "STEEM",
-   "name": "Steem",
-   "sigma": 2.76,
-   "from_btc_pct": 6,
-   "verdict": "Overbought",
-   "file": "STEEM.png"
-  },
   {
    "symbol": "STRAX",
    "name": "Xertra",
    "sigma": 2.51,
-   "from_btc_pct": 15,
+   "from_btc_pct": 16,
    "verdict": "Overbought",
    "file": "STRAX.png"
   }
