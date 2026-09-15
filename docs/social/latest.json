@@ -1,6 +1,6 @@
 {
  "date": "2026-09-15",
- "generated_at": "2026-09-15T04:45:47.775350+00:00",
+ "generated_at": "2026-09-15T06:15:48.208142+00:00",
  "assets": [
   {
    "symbol": "FF",
@@ -9,6 +9,14 @@
    "from_btc_pct": 4,
    "verdict": "Overbought",
    "file": "FF.png"
+  },
+  {
+   "symbol": "VTHO",
+   "name": "VeThor",
+   "sigma": 3.15,
+   "from_btc_pct": 0,
+   "verdict": "Overbought",
+   "file": "VTHO.png"
   },
   {
    "symbol": "TREE",
@@ -21,7 +29,7 @@
   {
    "symbol": "ARK",
    "name": "ARK",
-   "sigma": 2.55,
+   "sigma": 2.54,
    "from_btc_pct": 19,
    "verdict": "Overbought",
    "file": "ARK.png"
