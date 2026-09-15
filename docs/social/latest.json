@@ -1,6 +1,6 @@
 {
  "date": "2026-09-15",
- "generated_at": "2026-09-15T15:06:37.748981+00:00",
+ "generated_at": "2026-09-15T15:45:48.641268+00:00",
  "assets": [
   {
    "symbol": "AXL",
@@ -59,20 +59,20 @@
    "file": "REZ.png"
   },
   {
+   "symbol": "ICP",
+   "name": "Internet Computer",
+   "sigma": 2.56,
+   "from_btc_pct": 18,
+   "verdict": "Neutral",
+   "file": "ICP.png"
+  },
+  {
    "symbol": "SAGA",
    "name": "Saga",
    "sigma": 2.55,
    "from_btc_pct": 2,
    "verdict": "Overbought",
    "file": "SAGA.png"
-  },
-  {
-   "symbol": "ICP",
-   "name": "Internet Computer",
-   "sigma": 2.54,
-   "from_btc_pct": 18,
-   "verdict": "Neutral",
-   "file": "ICP.png"
   },
   {
    "symbol": "MTL",
