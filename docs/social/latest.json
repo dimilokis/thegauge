@@ -1,6 +1,6 @@
 {
  "date": "2026-09-15",
- "generated_at": "2026-09-15T06:45:47.861883+00:00",
+ "generated_at": "2026-09-15T07:00:54.355444+00:00",
  "assets": [
   {
    "symbol": "AXL",
@@ -37,8 +37,8 @@
   {
    "symbol": "ARK",
    "name": "ARK",
-   "sigma": 2.54,
-   "from_btc_pct": 19,
+   "sigma": 2.8,
+   "from_btc_pct": 20,
    "verdict": "Overbought",
    "file": "ARK.png"
   },
