@@ -1,7 +1,15 @@
 {
  "date": "2026-09-15",
- "generated_at": "2026-09-15T04:30:48.564052+00:00",
+ "generated_at": "2026-09-15T04:45:47.775350+00:00",
  "assets": [
+  {
+   "symbol": "FF",
+   "name": "Falcon Finance",
+   "sigma": 6.39,
+   "from_btc_pct": 4,
+   "verdict": "Overbought",
+   "file": "FF.png"
+  },
   {
    "symbol": "TREE",
    "name": "Treehouse",
