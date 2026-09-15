@@ -1,6 +1,6 @@
 {
  "date": "2026-09-15",
- "generated_at": "2026-09-15T15:45:48.641268+00:00",
+ "generated_at": "2026-09-15T16:45:51.602169+00:00",
  "assets": [
   {
    "symbol": "AXL",
@@ -57,6 +57,22 @@
    "from_btc_pct": 10,
    "verdict": "Neutral",
    "file": "REZ.png"
+  },
+  {
+   "symbol": "INJ",
+   "name": "Injective",
+   "sigma": 2.65,
+   "from_btc_pct": 27,
+   "verdict": "Neutral",
+   "file": "INJ.png"
+  },
+  {
+   "symbol": "CVC",
+   "name": "Civic",
+   "sigma": 2.57,
+   "from_btc_pct": 6,
+   "verdict": "Overbought",
+   "file": "CVC.png"
   },
   {
    "symbol": "ICP",
