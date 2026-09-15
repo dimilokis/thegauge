@@ -1,6 +1,6 @@
 {
  "date": "2026-09-14",
- "generated_at": "2026-09-15T01:30:53.146310+00:00",
+ "generated_at": "2026-09-15T02:30:52.119215+00:00",
  "assets": [
   {
    "symbol": "HIVE",
@@ -9,14 +9,6 @@
    "from_btc_pct": 26,
    "verdict": "Overbought",
    "file": "HIVE.png"
-  },
-  {
-   "symbol": "STRAX",
-   "name": "Xertra",
-   "sigma": 6.03,
-   "from_btc_pct": 17,
-   "verdict": "Overbought",
-   "file": "STRAX.png"
   },
   {
    "symbol": "CVC",
@@ -93,10 +85,18 @@
   {
    "symbol": "STEEM",
    "name": "Steem",
-   "sigma": 2.79,
+   "sigma": 2.76,
    "from_btc_pct": 6,
    "verdict": "Overbought",
    "file": "STEEM.png"
+  },
+  {
+   "symbol": "STRAX",
+   "name": "Xertra",
+   "sigma": 2.51,
+   "from_btc_pct": 15,
+   "verdict": "Overbought",
+   "file": "STRAX.png"
   }
  ]
 }
