@@ -1,6 +1,6 @@
 {
  "date": "2026-09-15",
- "generated_at": "2026-09-15T12:15:50.455608+00:00",
+ "generated_at": "2026-09-15T14:16:24.177788+00:00",
  "assets": [
   {
    "symbol": "AXL",
@@ -53,8 +53,8 @@
   {
    "symbol": "ICP",
    "name": "Internet Computer",
-   "sigma": 2.58,
-   "from_btc_pct": 17,
+   "sigma": 2.54,
+   "from_btc_pct": 18,
    "verdict": "Neutral",
    "file": "ICP.png"
   },
