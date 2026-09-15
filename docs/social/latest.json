@@ -1,6 +1,6 @@
 {
  "date": "2026-09-15",
- "generated_at": "2026-09-15T07:45:55.268595+00:00",
+ "generated_at": "2026-09-15T08:00:56.771740+00:00",
  "assets": [
   {
    "symbol": "AXL",
@@ -49,6 +49,14 @@
    "from_btc_pct": 3,
    "verdict": "Overbought",
    "file": "FF.png"
+  },
+  {
+   "symbol": "MTL",
+   "name": "Metal DAO",
+   "sigma": 2.53,
+   "from_btc_pct": 18,
+   "verdict": "Overbought",
+   "file": "MTL.png"
   }
  ]
 }
