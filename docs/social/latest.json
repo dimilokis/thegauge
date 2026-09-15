@@ -1,6 +1,6 @@
 {
  "date": "2026-09-15",
- "generated_at": "2026-09-15T07:31:00.527038+00:00",
+ "generated_at": "2026-09-15T07:45:55.268595+00:00",
  "assets": [
   {
    "symbol": "AXL",
@@ -35,20 +35,20 @@
    "file": "ARK.png"
   },
   {
+   "symbol": "STRAX",
+   "name": "Xertra",
+   "sigma": 2.69,
+   "from_btc_pct": 18,
+   "verdict": "Overbought",
+   "file": "STRAX.png"
+  },
+  {
    "symbol": "FF",
    "name": "Falcon Finance",
    "sigma": 2.54,
    "from_btc_pct": 3,
    "verdict": "Overbought",
    "file": "FF.png"
-  },
-  {
-   "symbol": "STRAX",
-   "name": "Xertra",
-   "sigma": 2.51,
-   "from_btc_pct": 16,
-   "verdict": "Overbought",
-   "file": "STRAX.png"
   }
  ]
 }
