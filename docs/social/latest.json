@@ -1,6 +1,6 @@
 {
  "date": "2026-09-15",
- "generated_at": "2026-09-15T17:30:55.144142+00:00",
+ "generated_at": "2026-09-15T18:00:54.254221+00:00",
  "assets": [
   {
    "symbol": "AXL",
@@ -70,7 +70,7 @@
    "symbol": "CVC",
    "name": "Civic",
    "sigma": 2.57,
-   "from_btc_pct": 6,
+   "from_btc_pct": 5,
    "verdict": "Overbought",
    "file": "CVC.png"
   },
