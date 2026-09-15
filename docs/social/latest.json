@@ -1,7 +1,15 @@
 {
  "date": "2026-09-15",
- "generated_at": "2026-09-15T03:00:55.736401+00:00",
+ "generated_at": "2026-09-15T03:30:57.209941+00:00",
  "assets": [
+  {
+   "symbol": "ARK",
+   "name": "ARK",
+   "sigma": 2.69,
+   "from_btc_pct": 19,
+   "verdict": "Overbought",
+   "file": "ARK.png"
+  },
   {
    "symbol": "STRAX",
    "name": "Xertra",
