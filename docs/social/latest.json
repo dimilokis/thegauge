@@ -1,6 +1,6 @@
 {
  "date": "2026-09-15",
- "generated_at": "2026-09-15T20:15:52.304978+00:00",
+ "generated_at": "2026-09-15T21:00:54.824528+00:00",
  "assets": [
   {
    "symbol": "AXL",
@@ -75,6 +75,14 @@
    "file": "INJ.png"
   },
   {
+   "symbol": "DYM",
+   "name": "Dymension",
+   "sigma": 2.58,
+   "from_btc_pct": 25,
+   "verdict": "Neutral",
+   "file": "DYM.png"
+  },
+  {
    "symbol": "CVC",
    "name": "Civic",
    "sigma": 2.57,
@@ -89,14 +97,6 @@
    "from_btc_pct": 18,
    "verdict": "Neutral",
    "file": "ICP.png"
-  },
-  {
-   "symbol": "FF",
-   "name": "Falcon Finance",
-   "sigma": 2.56,
-   "from_btc_pct": 4,
-   "verdict": "Overbought",
-   "file": "FF.png"
   }
  ]
 }
