@@ -1,6 +1,6 @@
 {
  "date": "2026-09-15",
- "generated_at": "2026-09-15T09:15:55.114842+00:00",
+ "generated_at": "2026-09-15T11:45:49.858908+00:00",
  "assets": [
   {
    "symbol": "AXL",
@@ -49,6 +49,14 @@
    "from_btc_pct": 0,
    "verdict": "Overbought",
    "file": "VTHO.png"
+  },
+  {
+   "symbol": "ICP",
+   "name": "Internet Computer",
+   "sigma": 2.56,
+   "from_btc_pct": 17,
+   "verdict": "Neutral",
+   "file": "ICP.png"
   },
   {
    "symbol": "MTL",
