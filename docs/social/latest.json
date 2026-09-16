@@ -1,6 +1,6 @@
 {
  "date": "2026-09-16",
- "generated_at": "2026-09-16T19:30:58.940933+00:00",
+ "generated_at": "2026-09-16T20:00:54.128291+00:00",
  "assets": [
   {
    "symbol": "SYN",
@@ -93,7 +93,7 @@
   {
    "symbol": "NEAR",
    "name": "NEAR Protocol",
-   "sigma": 2.52,
+   "sigma": 2.5,
    "from_btc_pct": 28,
    "verdict": "Strong Uptrend",
    "file": "NEAR.png"
