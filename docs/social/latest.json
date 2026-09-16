@@ -1,102 +1,14 @@
 {
- "date": "2026-09-15",
- "generated_at": "2026-09-16T02:15:50.281615+00:00",
+ "date": "2026-09-16",
+ "generated_at": "2026-09-16T03:45:52.354813+00:00",
  "assets": [
-  {
-   "symbol": "AXL",
-   "name": "Axelar",
-   "sigma": 7.93,
-   "from_btc_pct": 20,
-   "verdict": "Overbought",
-   "file": "AXL.png"
-  },
-  {
-   "symbol": "TREE",
-   "name": "Treehouse",
-   "sigma": 3.02,
-   "from_btc_pct": 18,
-   "verdict": "Overbought",
-   "file": "TREE.png"
-  },
-  {
-   "symbol": "REZ",
-   "name": "Renzo",
-   "sigma": 2.97,
-   "from_btc_pct": 11,
-   "verdict": "Neutral",
-   "file": "REZ.png"
-  },
-  {
-   "symbol": "LA",
-   "name": "Lagrange",
-   "sigma": 2.92,
-   "from_btc_pct": 14,
-   "verdict": "Neutral",
-   "file": "LA.png"
-  },
-  {
-   "symbol": "HIVE",
-   "name": "Hive",
-   "sigma": 2.86,
-   "from_btc_pct": 32,
-   "verdict": "Overbought",
-   "file": "HIVE.png"
-  },
   {
    "symbol": "ARK",
    "name": "ARK",
-   "sigma": 2.8,
-   "from_btc_pct": 20,
+   "sigma": 2.65,
+   "from_btc_pct": 24,
    "verdict": "Overbought",
    "file": "ARK.png"
-  },
-  {
-   "symbol": "STRAX",
-   "name": "Xertra",
-   "sigma": 2.69,
-   "from_btc_pct": 18,
-   "verdict": "Overbought",
-   "file": "STRAX.png"
-  },
-  {
-   "symbol": "SAGA",
-   "name": "Saga",
-   "sigma": 2.69,
-   "from_btc_pct": 2,
-   "verdict": "Overbought",
-   "file": "SAGA.png"
-  },
-  {
-   "symbol": "VTHO",
-   "name": "VeThor",
-   "sigma": 2.67,
-   "from_btc_pct": 0,
-   "verdict": "Overbought",
-   "file": "VTHO.png"
-  },
-  {
-   "symbol": "INJ",
-   "name": "Injective",
-   "sigma": 2.65,
-   "from_btc_pct": 27,
-   "verdict": "Neutral",
-   "file": "INJ.png"
-  },
-  {
-   "symbol": "DYM",
-   "name": "Dymension",
-   "sigma": 2.58,
-   "from_btc_pct": 25,
-   "verdict": "Neutral",
-   "file": "DYM.png"
-  },
-  {
-   "symbol": "CVC",
-   "name": "Civic",
-   "sigma": 2.57,
-   "from_btc_pct": 5,
-   "verdict": "Overbought",
-   "file": "CVC.png"
   }
  ]
 }
