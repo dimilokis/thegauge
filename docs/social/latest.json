@@ -1,7 +1,15 @@
 {
  "date": "2026-09-16",
- "generated_at": "2026-09-16T06:45:52.148346+00:00",
+ "generated_at": "2026-09-16T07:30:52.860563+00:00",
  "assets": [
+  {
+   "symbol": "SYN",
+   "name": "Synapse",
+   "sigma": 5.36,
+   "from_btc_pct": 0,
+   "verdict": "Neutral",
+   "file": "SYN.png"
+  },
   {
    "symbol": "DYM",
    "name": "Dymension",
@@ -33,14 +41,6 @@
    "from_btc_pct": 0,
    "verdict": "Overbought",
    "file": "SAGA.png"
-  },
-  {
-   "symbol": "SYN",
-   "name": "Synapse",
-   "sigma": 2.59,
-   "from_btc_pct": 1,
-   "verdict": "Neutral",
-   "file": "SYN.png"
   }
  ]
 }
