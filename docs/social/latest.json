@@ -1,6 +1,6 @@
 {
  "date": "2026-09-16",
- "generated_at": "2026-09-16T07:30:52.860563+00:00",
+ "generated_at": "2026-09-16T08:45:51.311033+00:00",
  "assets": [
   {
    "symbol": "SYN",
@@ -9,6 +9,14 @@
    "from_btc_pct": 0,
    "verdict": "Neutral",
    "file": "SYN.png"
+  },
+  {
+   "symbol": "PUNDIX",
+   "name": "Pundi X",
+   "sigma": 3.04,
+   "from_btc_pct": 31,
+   "verdict": "Overbought",
+   "file": "PUNDIX.png"
   },
   {
    "symbol": "DYM",
