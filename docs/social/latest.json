@@ -1,6 +1,6 @@
 {
  "date": "2026-09-16",
- "generated_at": "2026-09-16T20:15:50.293085+00:00",
+ "generated_at": "2026-09-16T20:30:52.473064+00:00",
  "assets": [
   {
    "symbol": "SYN",
@@ -33,6 +33,14 @@
    "from_btc_pct": 31,
    "verdict": "Overbought",
    "file": "PUNDIX.png"
+  },
+  {
+   "symbol": "NEAR",
+   "name": "NEAR Protocol",
+   "sigma": 2.85,
+   "from_btc_pct": 28,
+   "verdict": "Strong Uptrend",
+   "file": "NEAR.png"
   },
   {
    "symbol": "DYM",
@@ -89,14 +97,6 @@
    "from_btc_pct": 14,
    "verdict": "Overbought",
    "file": "ASTR.png"
-  },
-  {
-   "symbol": "NEAR",
-   "name": "NEAR Protocol",
-   "sigma": 2.5,
-   "from_btc_pct": 28,
-   "verdict": "Strong Uptrend",
-   "file": "NEAR.png"
   }
  ]
 }
