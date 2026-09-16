@@ -1,7 +1,15 @@
 {
  "date": "2026-09-16",
- "generated_at": "2026-09-16T23:01:00.881520+00:00",
+ "generated_at": "2026-09-16T23:45:44.788061+00:00",
  "assets": [
+  {
+   "symbol": "ONE",
+   "name": "Harmony",
+   "sigma": 6.8,
+   "from_btc_pct": 7,
+   "verdict": "Neutral",
+   "file": "ONE.png"
+  },
   {
    "symbol": "SYN",
    "name": "Synapse",
@@ -89,14 +97,6 @@
    "from_btc_pct": 0,
    "verdict": "Overbought",
    "file": "LSK.png"
-  },
-  {
-   "symbol": "ASTR",
-   "name": "Astar",
-   "sigma": 2.54,
-   "from_btc_pct": 16,
-   "verdict": "Overbought",
-   "file": "ASTR.png"
   }
  ]
 }
