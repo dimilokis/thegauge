@@ -1,6 +1,6 @@
 {
  "date": "2026-09-16",
- "generated_at": "2026-09-16T11:15:49.019629+00:00",
+ "generated_at": "2026-09-16T11:45:52.636804+00:00",
  "assets": [
   {
    "symbol": "SYN",
@@ -61,7 +61,7 @@
   {
    "symbol": "SAGA",
    "name": "Saga",
-   "sigma": 2.51,
+   "sigma": 2.5,
    "from_btc_pct": 0,
    "verdict": "Overbought",
    "file": "SAGA.png"
