@@ -1,6 +1,6 @@
 {
  "date": "2026-09-16",
- "generated_at": "2026-09-16T18:15:54.376262+00:00",
+ "generated_at": "2026-09-16T18:45:56.167393+00:00",
  "assets": [
   {
    "symbol": "SYN",
@@ -81,6 +81,14 @@
    "from_btc_pct": 0,
    "verdict": "Overbought",
    "file": "LSK.png"
+  },
+  {
+   "symbol": "NEAR",
+   "name": "NEAR Protocol",
+   "sigma": 2.52,
+   "from_btc_pct": 28,
+   "verdict": "Strong Uptrend",
+   "file": "NEAR.png"
   }
  ]
 }
