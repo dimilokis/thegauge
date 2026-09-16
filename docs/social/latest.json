@@ -1,6 +1,6 @@
 {
  "date": "2026-09-16",
- "generated_at": "2026-09-16T16:45:52.588471+00:00",
+ "generated_at": "2026-09-16T17:15:59.561182+00:00",
  "assets": [
   {
    "symbol": "SYN",
@@ -43,6 +43,14 @@
    "file": "SAGA.png"
   },
   {
+   "symbol": "ASTR",
+   "name": "Astar",
+   "sigma": 2.7,
+   "from_btc_pct": 15,
+   "verdict": "Overbought",
+   "file": "ASTR.png"
+  },
+  {
    "symbol": "ARK",
    "name": "ARK",
    "sigma": 2.65,
@@ -65,14 +73,6 @@
    "from_btc_pct": 0,
    "verdict": "Overbought",
    "file": "LSK.png"
-  },
-  {
-   "symbol": "ASTR",
-   "name": "Astar",
-   "sigma": 2.51,
-   "from_btc_pct": 15,
-   "verdict": "Overbought",
-   "file": "ASTR.png"
   }
  ]
 }
