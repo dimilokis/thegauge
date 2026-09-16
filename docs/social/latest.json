@@ -1,6 +1,6 @@
 {
  "date": "2026-09-16",
- "generated_at": "2026-09-16T18:45:56.167393+00:00",
+ "generated_at": "2026-09-16T19:30:58.940933+00:00",
  "assets": [
   {
    "symbol": "SYN",
@@ -65,6 +65,14 @@
    "from_btc_pct": 24,
    "verdict": "Overbought",
    "file": "ARK.png"
+  },
+  {
+   "symbol": "SKY",
+   "name": "Sky",
+   "sigma": 2.63,
+   "from_btc_pct": 30,
+   "verdict": "Oversold",
+   "file": "SKY.png"
   },
   {
    "symbol": "KITE",
