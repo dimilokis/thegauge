@@ -1,6 +1,6 @@
 {
  "date": "2026-09-16",
- "generated_at": "2026-09-16T22:30:55.858882+00:00",
+ "generated_at": "2026-09-16T23:01:00.881520+00:00",
  "assets": [
   {
    "symbol": "SYN",
@@ -93,7 +93,7 @@
   {
    "symbol": "ASTR",
    "name": "Astar",
-   "sigma": 2.51,
+   "sigma": 2.54,
    "from_btc_pct": 16,
    "verdict": "Overbought",
    "file": "ASTR.png"
