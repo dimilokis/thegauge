@@ -1,6 +1,6 @@
 {
  "date": "2026-09-16",
- "generated_at": "2026-09-16T09:30:51.339524+00:00",
+ "generated_at": "2026-09-16T09:45:52.857081+00:00",
  "assets": [
   {
    "symbol": "SYN",
@@ -27,6 +27,14 @@
    "file": "PUNDIX.png"
   },
   {
+   "symbol": "LSK",
+   "name": "Lisk",
+   "sigma": 2.77,
+   "from_btc_pct": 0,
+   "verdict": "Overbought",
+   "file": "LSK.png"
+  },
+  {
    "symbol": "DYM",
    "name": "Dymension",
    "sigma": 2.73,
@@ -41,14 +49,6 @@
    "from_btc_pct": 24,
    "verdict": "Overbought",
    "file": "ARK.png"
-  },
-  {
-   "symbol": "LSK",
-   "name": "Lisk",
-   "sigma": 2.6,
-   "from_btc_pct": 0,
-   "verdict": "Overbought",
-   "file": "LSK.png"
   },
   {
    "symbol": "SAGA",
