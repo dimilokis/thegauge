@@ -1,6 +1,6 @@
 {
  "date": "2026-09-16",
- "generated_at": "2026-09-16T08:45:51.311033+00:00",
+ "generated_at": "2026-09-16T09:30:51.339524+00:00",
  "assets": [
   {
    "symbol": "SYN",
@@ -9,6 +9,14 @@
    "from_btc_pct": 0,
    "verdict": "Neutral",
    "file": "SYN.png"
+  },
+  {
+   "symbol": "ZIL",
+   "name": "Zilliqa",
+   "sigma": 3.21,
+   "from_btc_pct": 23,
+   "verdict": "Overbought",
+   "file": "ZIL.png"
   },
   {
    "symbol": "PUNDIX",
