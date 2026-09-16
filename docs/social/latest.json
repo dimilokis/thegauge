@@ -1,6 +1,6 @@
 {
  "date": "2026-09-15",
- "generated_at": "2026-09-15T22:00:56.554798+00:00",
+ "generated_at": "2026-09-16T02:15:50.281615+00:00",
  "assets": [
   {
    "symbol": "AXL",
@@ -33,6 +33,14 @@
    "from_btc_pct": 14,
    "verdict": "Neutral",
    "file": "LA.png"
+  },
+  {
+   "symbol": "HIVE",
+   "name": "Hive",
+   "sigma": 2.86,
+   "from_btc_pct": 32,
+   "verdict": "Overbought",
+   "file": "HIVE.png"
   },
   {
    "symbol": "ARK",
@@ -89,14 +97,6 @@
    "from_btc_pct": 5,
    "verdict": "Overbought",
    "file": "CVC.png"
-  },
-  {
-   "symbol": "ZKC",
-   "name": "Boundless",
-   "sigma": 2.57,
-   "from_btc_pct": 4,
-   "verdict": "Oversold",
-   "file": "ZKC.png"
   }
  ]
 }
