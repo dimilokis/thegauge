@@ -1,7 +1,15 @@
 {
  "date": "2026-09-16",
- "generated_at": "2026-09-16T05:30:53.013131+00:00",
+ "generated_at": "2026-09-16T06:15:52.744442+00:00",
  "assets": [
+  {
+   "symbol": "DYM",
+   "name": "Dymension",
+   "sigma": 2.73,
+   "from_btc_pct": 27,
+   "verdict": "Oversold",
+   "file": "DYM.png"
+  },
   {
    "symbol": "ARK",
    "name": "ARK",
