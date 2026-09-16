@@ -1,6 +1,6 @@
 {
  "date": "2026-09-16",
- "generated_at": "2026-09-16T03:45:52.354813+00:00",
+ "generated_at": "2026-09-16T05:00:50.491286+00:00",
  "assets": [
   {
    "symbol": "ARK",
@@ -9,6 +9,14 @@
    "from_btc_pct": 24,
    "verdict": "Overbought",
    "file": "ARK.png"
+  },
+  {
+   "symbol": "LSK",
+   "name": "Lisk",
+   "sigma": 2.52,
+   "from_btc_pct": 0,
+   "verdict": "Overbought",
+   "file": "LSK.png"
   }
  ]
 }
