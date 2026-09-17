@@ -1,6 +1,6 @@
 {
  "date": "2026-09-17",
- "generated_at": "2026-09-17T23:15:51.994749+00:00",
+ "generated_at": "2026-09-17T23:30:53.841926+00:00",
  "assets": [
   {
    "symbol": "GENIUS",
@@ -51,6 +51,14 @@
    "file": "NEAR.png"
   },
   {
+   "symbol": "APT",
+   "name": "Aptos",
+   "sigma": 2.61,
+   "from_btc_pct": 32,
+   "verdict": "Neutral",
+   "file": "APT.png"
+  },
+  {
    "symbol": "ASTER",
    "name": "Aster",
    "sigma": 2.59,
@@ -89,14 +97,6 @@
    "from_btc_pct": 2,
    "verdict": "Neutral",
    "file": "SOLV.png"
-  },
-  {
-   "symbol": "COTI",
-   "name": "COTI",
-   "sigma": 2.53,
-   "from_btc_pct": 7,
-   "verdict": "Overbought",
-   "file": "COTI.png"
   }
  ]
 }
