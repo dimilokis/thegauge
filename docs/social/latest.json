@@ -1,6 +1,6 @@
 {
  "date": "2026-09-17",
- "generated_at": "2026-09-17T20:30:57.612880+00:00",
+ "generated_at": "2026-09-17T21:30:53.965982+00:00",
  "assets": [
   {
    "symbol": "GENIUS",
@@ -17,6 +17,14 @@
    "from_btc_pct": 22,
    "verdict": "Overbought",
    "file": "KSM.png"
+  },
+  {
+   "symbol": "ROSE",
+   "name": "Oasis",
+   "sigma": 3.57,
+   "from_btc_pct": 33,
+   "verdict": "Overbought",
+   "file": "ROSE.png"
   },
   {
    "symbol": "UNI",
