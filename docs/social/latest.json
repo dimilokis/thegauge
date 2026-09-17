@@ -1,6 +1,6 @@
 {
  "date": "2026-09-17",
- "generated_at": "2026-09-17T12:15:50.269340+00:00",
+ "generated_at": "2026-09-17T13:46:31.849657+00:00",
  "assets": [
   {
    "symbol": "GENIUS",
@@ -9,14 +9,6 @@
    "from_btc_pct": 0,
    "verdict": "Overbought",
    "file": "GENIUS.png"
-  },
-  {
-   "symbol": "SOLV",
-   "name": "Solv Protocol",
-   "sigma": 3.57,
-   "from_btc_pct": 2,
-   "verdict": "Overbought",
-   "file": "SOLV.png"
   },
   {
    "symbol": "ONE",
@@ -33,6 +25,14 @@
    "from_btc_pct": 26,
    "verdict": "Strong Uptrend",
    "file": "NEAR.png"
+  },
+  {
+   "symbol": "SOLV",
+   "name": "Solv Protocol",
+   "sigma": 2.53,
+   "from_btc_pct": 2,
+   "verdict": "Neutral",
+   "file": "SOLV.png"
   },
   {
    "symbol": "ASTER",
