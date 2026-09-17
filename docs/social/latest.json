@@ -1,6 +1,6 @@
 {
  "date": "2026-09-17",
- "generated_at": "2026-09-17T11:45:54.184362+00:00",
+ "generated_at": "2026-09-17T12:15:50.269340+00:00",
  "assets": [
   {
    "symbol": "GENIUS",
@@ -21,16 +21,24 @@
   {
    "symbol": "ONE",
    "name": "Harmony",
-   "sigma": 2.9,
+   "sigma": 3.26,
    "from_btc_pct": 2,
    "verdict": "Overbought",
    "file": "ONE.png"
   },
   {
+   "symbol": "NEAR",
+   "name": "NEAR Protocol",
+   "sigma": 2.66,
+   "from_btc_pct": 26,
+   "verdict": "Strong Uptrend",
+   "file": "NEAR.png"
+  },
+  {
    "symbol": "ASTER",
    "name": "Aster",
-   "sigma": 2.67,
-   "from_btc_pct": 30,
+   "sigma": 2.5,
+   "from_btc_pct": 32,
    "verdict": "Strong Uptrend",
    "file": "ASTER.png"
   }
