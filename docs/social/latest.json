@@ -1,6 +1,6 @@
 {
  "date": "2026-09-17",
- "generated_at": "2026-09-17T19:46:01.317868+00:00",
+ "generated_at": "2026-09-17T20:01:02.608748+00:00",
  "assets": [
   {
    "symbol": "GENIUS",
@@ -57,6 +57,14 @@
    "from_btc_pct": 31,
    "verdict": "Strong Uptrend",
    "file": "ASTER.png"
+  },
+  {
+   "symbol": "CFG",
+   "name": "Centrifuge",
+   "sigma": 2.54,
+   "from_btc_pct": 2,
+   "verdict": "Oversold",
+   "file": "CFG.png"
   },
   {
    "symbol": "PROVE",
