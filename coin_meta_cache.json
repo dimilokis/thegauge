@@ -1023,6 +1023,10 @@
   "icon": "https://coin-images.coingecko.com/coins/images/8825/large/Ticker.png?1696508978",
   "name": "Prom"
  },
+ "PROVE": {
+  "icon": "https://coin-images.coingecko.com/coins/images/67905/large/succinct-logo.png",
+  "name": "Succinct"
+ },
  "PUMP": {
   "icon": "https://coin-images.coingecko.com/coins/images/67164/large/pump.jpg?1751949376",
   "name": "Pump.fun"
