@@ -1,7 +1,15 @@
 {
  "date": "2026-09-17",
- "generated_at": "2026-09-17T10:01:00.254210+00:00",
+ "generated_at": "2026-09-17T11:45:54.184362+00:00",
  "assets": [
+  {
+   "symbol": "GENIUS",
+   "name": "Genius",
+   "sigma": 13.52,
+   "from_btc_pct": 0,
+   "verdict": "Overbought",
+   "file": "GENIUS.png"
+  },
   {
    "symbol": "SOLV",
    "name": "Solv Protocol",
