@@ -1,6 +1,6 @@
 {
  "date": "2026-09-17",
- "generated_at": "2026-09-17T14:30:55.340033+00:00",
+ "generated_at": "2026-09-17T15:15:57.826514+00:00",
  "assets": [
   {
    "symbol": "GENIUS",
@@ -33,6 +33,14 @@
    "from_btc_pct": 26,
    "verdict": "Strong Uptrend",
    "file": "NEAR.png"
+  },
+  {
+   "symbol": "PROVE",
+   "name": "Succinct",
+   "sigma": 2.53,
+   "from_btc_pct": 25,
+   "verdict": "Overbought",
+   "file": "PROVE.png"
   },
   {
    "symbol": "ASTER",
