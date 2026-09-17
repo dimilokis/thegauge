@@ -1,7 +1,15 @@
 {
  "date": "2026-09-16",
- "generated_at": "2026-09-16T23:45:44.788061+00:00",
+ "generated_at": "2026-09-17T02:00:55.001382+00:00",
  "assets": [
+  {
+   "symbol": "AVA",
+   "name": "AVA (Travala)",
+   "sigma": 10.33,
+   "from_btc_pct": 16,
+   "verdict": "Overbought",
+   "file": "AVA.png"
+  },
   {
    "symbol": "ONE",
    "name": "Harmony",
@@ -89,14 +97,6 @@
    "from_btc_pct": 10,
    "verdict": "Neutral",
    "file": "KITE.png"
-  },
-  {
-   "symbol": "LSK",
-   "name": "Lisk",
-   "sigma": 2.6,
-   "from_btc_pct": 0,
-   "verdict": "Overbought",
-   "file": "LSK.png"
   }
  ]
 }
