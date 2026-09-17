@@ -1,102 +1,14 @@
 {
- "date": "2026-09-16",
- "generated_at": "2026-09-17T02:00:55.001382+00:00",
+ "date": "2026-09-17",
+ "generated_at": "2026-09-17T04:15:48.438906+00:00",
  "assets": [
-  {
-   "symbol": "AVA",
-   "name": "AVA (Travala)",
-   "sigma": 10.33,
-   "from_btc_pct": 16,
-   "verdict": "Overbought",
-   "file": "AVA.png"
-  },
   {
    "symbol": "ONE",
    "name": "Harmony",
-   "sigma": 6.8,
-   "from_btc_pct": 7,
-   "verdict": "Neutral",
+   "sigma": 3.16,
+   "from_btc_pct": 2,
+   "verdict": "Overbought",
    "file": "ONE.png"
-  },
-  {
-   "symbol": "SYN",
-   "name": "Synapse",
-   "sigma": 5.36,
-   "from_btc_pct": 0,
-   "verdict": "Neutral",
-   "file": "SYN.png"
-  },
-  {
-   "symbol": "ZEC",
-   "name": "Zcash",
-   "sigma": 3.38,
-   "from_btc_pct": 34,
-   "verdict": "Strong Uptrend",
-   "file": "ZEC.png"
-  },
-  {
-   "symbol": "ZIL",
-   "name": "Zilliqa",
-   "sigma": 3.15,
-   "from_btc_pct": 24,
-   "verdict": "Overbought",
-   "file": "ZIL.png"
-  },
-  {
-   "symbol": "PUNDIX",
-   "name": "Pundi X",
-   "sigma": 3.04,
-   "from_btc_pct": 31,
-   "verdict": "Overbought",
-   "file": "PUNDIX.png"
-  },
-  {
-   "symbol": "NEAR",
-   "name": "NEAR Protocol",
-   "sigma": 2.85,
-   "from_btc_pct": 28,
-   "verdict": "Strong Uptrend",
-   "file": "NEAR.png"
-  },
-  {
-   "symbol": "DYM",
-   "name": "Dymension",
-   "sigma": 2.73,
-   "from_btc_pct": 27,
-   "verdict": "Oversold",
-   "file": "DYM.png"
-  },
-  {
-   "symbol": "SAGA",
-   "name": "Saga",
-   "sigma": 2.72,
-   "from_btc_pct": 0,
-   "verdict": "Overbought",
-   "file": "SAGA.png"
-  },
-  {
-   "symbol": "ARK",
-   "name": "ARK",
-   "sigma": 2.65,
-   "from_btc_pct": 24,
-   "verdict": "Overbought",
-   "file": "ARK.png"
-  },
-  {
-   "symbol": "SKY",
-   "name": "Sky",
-   "sigma": 2.63,
-   "from_btc_pct": 30,
-   "verdict": "Oversold",
-   "file": "SKY.png"
-  },
-  {
-   "symbol": "KITE",
-   "name": "Kite",
-   "sigma": 2.62,
-   "from_btc_pct": 10,
-   "verdict": "Neutral",
-   "file": "KITE.png"
   }
  ]
 }
