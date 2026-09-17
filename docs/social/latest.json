@@ -1,6 +1,6 @@
 {
  "date": "2026-09-17",
- "generated_at": "2026-09-17T19:15:55.257497+00:00",
+ "generated_at": "2026-09-17T19:46:01.317868+00:00",
  "assets": [
   {
    "symbol": "GENIUS",
@@ -51,6 +51,14 @@
    "file": "MINA.png"
   },
   {
+   "symbol": "ASTER",
+   "name": "Aster",
+   "sigma": 2.59,
+   "from_btc_pct": 31,
+   "verdict": "Strong Uptrend",
+   "file": "ASTER.png"
+  },
+  {
    "symbol": "PROVE",
    "name": "Succinct",
    "sigma": 2.53,
@@ -73,14 +81,6 @@
    "from_btc_pct": 7,
    "verdict": "Overbought",
    "file": "COTI.png"
-  },
-  {
-   "symbol": "ASTER",
-   "name": "Aster",
-   "sigma": 2.5,
-   "from_btc_pct": 32,
-   "verdict": "Strong Uptrend",
-   "file": "ASTER.png"
   }
  ]
 }
