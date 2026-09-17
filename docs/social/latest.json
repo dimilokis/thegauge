@@ -1,6 +1,6 @@
 {
  "date": "2026-09-17",
- "generated_at": "2026-09-17T07:30:53.075482+00:00",
+ "generated_at": "2026-09-17T08:15:50.868290+00:00",
  "assets": [
   {
    "symbol": "SOLV",
@@ -9,6 +9,14 @@
    "from_btc_pct": 2,
    "verdict": "Overbought",
    "file": "SOLV.png"
+  },
+  {
+   "symbol": "ASTER",
+   "name": "Aster",
+   "sigma": 2.67,
+   "from_btc_pct": 30,
+   "verdict": "Strong Uptrend",
+   "file": "ASTER.png"
   },
   {
    "symbol": "ONE",
