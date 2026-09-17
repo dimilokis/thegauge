@@ -1,6 +1,6 @@
 {
  "date": "2026-09-17",
- "generated_at": "2026-09-17T20:01:02.608748+00:00",
+ "generated_at": "2026-09-17T20:30:57.612880+00:00",
  "assets": [
   {
    "symbol": "GENIUS",
@@ -43,20 +43,20 @@
    "file": "NEAR.png"
   },
   {
-   "symbol": "MINA",
-   "name": "Mina Protocol",
-   "sigma": 2.59,
-   "from_btc_pct": 18,
-   "verdict": "Overbought",
-   "file": "MINA.png"
-  },
-  {
    "symbol": "ASTER",
    "name": "Aster",
    "sigma": 2.59,
    "from_btc_pct": 31,
    "verdict": "Strong Uptrend",
    "file": "ASTER.png"
+  },
+  {
+   "symbol": "MINA",
+   "name": "Mina Protocol",
+   "sigma": 2.55,
+   "from_btc_pct": 19,
+   "verdict": "Overbought",
+   "file": "MINA.png"
   },
   {
    "symbol": "CFG",
