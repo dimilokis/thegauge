@@ -1,7 +1,15 @@
 {
  "date": "2026-09-17",
- "generated_at": "2026-09-17T05:15:52.393190+00:00",
+ "generated_at": "2026-09-17T05:45:51.004966+00:00",
  "assets": [
+  {
+   "symbol": "SOLV",
+   "name": "Solv Protocol",
+   "sigma": 3.57,
+   "from_btc_pct": 2,
+   "verdict": "Overbought",
+   "file": "SOLV.png"
+  },
   {
    "symbol": "ONE",
    "name": "Harmony",
