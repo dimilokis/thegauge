@@ -1,6 +1,6 @@
 {
  "date": "2026-09-17",
- "generated_at": "2026-09-17T16:45:55.505929+00:00",
+ "generated_at": "2026-09-17T17:00:55.715050+00:00",
  "assets": [
   {
    "symbol": "GENIUS",
@@ -17,6 +17,14 @@
    "from_btc_pct": 22,
    "verdict": "Overbought",
    "file": "KSM.png"
+  },
+  {
+   "symbol": "UNI",
+   "name": "Uniswap",
+   "sigma": 3.38,
+   "from_btc_pct": 22,
+   "verdict": "Strong Uptrend",
+   "file": "UNI.png"
   },
   {
    "symbol": "ONE",
@@ -43,14 +51,6 @@
    "file": "NEAR.png"
   },
   {
-   "symbol": "ASTER",
-   "name": "Aster",
-   "sigma": 2.59,
-   "from_btc_pct": 31,
-   "verdict": "Strong Uptrend",
-   "file": "ASTER.png"
-  },
-  {
    "symbol": "MINA",
    "name": "Mina Protocol",
    "sigma": 2.59,
@@ -65,6 +65,14 @@
    "from_btc_pct": 25,
    "verdict": "Overbought",
    "file": "PROVE.png"
+  },
+  {
+   "symbol": "ASTER",
+   "name": "Aster",
+   "sigma": 2.5,
+   "from_btc_pct": 32,
+   "verdict": "Strong Uptrend",
+   "file": "ASTER.png"
   }
  ]
 }
