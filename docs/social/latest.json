@@ -1,6 +1,6 @@
 {
  "date": "2026-09-18",
- "generated_at": "2026-09-18T07:01:09.422943+00:00",
+ "generated_at": "2026-09-18T07:15:54.153780+00:00",
  "assets": [
   {
    "symbol": "G",
@@ -19,20 +19,20 @@
    "file": "ARB.png"
   },
   {
+   "symbol": "A",
+   "name": "Vaulta",
+   "sigma": 3.31,
+   "from_btc_pct": 40,
+   "verdict": "Overbought",
+   "file": "A.png"
+  },
+  {
    "symbol": "PENDLE",
    "name": "Pendle",
    "sigma": 3.01,
    "from_btc_pct": 27,
    "verdict": "Strong Uptrend",
    "file": "PENDLE.png"
-  },
-  {
-   "symbol": "NEAR",
-   "name": "NEAR Protocol",
-   "sigma": 2.87,
-   "from_btc_pct": 17,
-   "verdict": "Strong Uptrend",
-   "file": "NEAR.png"
   },
   {
    "symbol": "CHIP",
@@ -73,6 +73,14 @@
    "from_btc_pct": 27,
    "verdict": "Neutral",
    "file": "WLD.png"
+  },
+  {
+   "symbol": "NEAR",
+   "name": "NEAR Protocol",
+   "sigma": 2.5,
+   "from_btc_pct": 17,
+   "verdict": "Strong Uptrend",
+   "file": "NEAR.png"
   }
  ]
 }
