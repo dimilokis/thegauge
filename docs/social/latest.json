@@ -1,6 +1,6 @@
 {
  "date": "2026-09-18",
- "generated_at": "2026-09-18T08:45:51.135371+00:00",
+ "generated_at": "2026-09-18T09:00:58.063665+00:00",
  "assets": [
   {
    "symbol": "G",
@@ -17,6 +17,14 @@
    "from_btc_pct": 40,
    "verdict": "Overbought",
    "file": "STRK.png"
+  },
+  {
+   "symbol": "ZK",
+   "name": "ZKsync",
+   "sigma": 4.86,
+   "from_btc_pct": 34,
+   "verdict": "Overbought",
+   "file": "ZK.png"
   },
   {
    "symbol": "ARB",
@@ -61,8 +69,8 @@
   {
    "symbol": "CHIP",
    "name": "USD.AI",
-   "sigma": 2.77,
-   "from_btc_pct": 30,
+   "sigma": 2.88,
+   "from_btc_pct": 32,
    "verdict": "Neutral",
    "file": "CHIP.png"
   },
@@ -89,14 +97,6 @@
    "from_btc_pct": 8,
    "verdict": "Overbought",
    "file": "RAY.png"
-  },
-  {
-   "symbol": "WLD",
-   "name": "Worldcoin",
-   "sigma": 2.5,
-   "from_btc_pct": 27,
-   "verdict": "Neutral",
-   "file": "WLD.png"
   }
  ]
 }
