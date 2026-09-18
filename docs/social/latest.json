@@ -1,6 +1,6 @@
 {
  "date": "2026-09-18",
- "generated_at": "2026-09-18T23:01:00.370250+00:00",
+ "generated_at": "2026-09-18T23:30:53.714489+00:00",
  "assets": [
   {
    "symbol": "F",
@@ -21,7 +21,7 @@
   {
    "symbol": "APT",
    "name": "Aptos",
-   "sigma": 8.05,
+   "sigma": 8.82,
    "from_btc_pct": 40,
    "verdict": "Strong Uptrend",
    "file": "APT.png"
