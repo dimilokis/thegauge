@@ -1,6 +1,6 @@
 {
  "date": "2026-09-18",
- "generated_at": "2026-09-18T09:30:51.816939+00:00",
+ "generated_at": "2026-09-18T09:45:52.506398+00:00",
  "assets": [
   {
    "symbol": "STRK",
@@ -67,14 +67,6 @@
    "file": "PENDLE.png"
   },
   {
-   "symbol": "CHIP",
-   "name": "USD.AI",
-   "sigma": 2.88,
-   "from_btc_pct": 32,
-   "verdict": "Neutral",
-   "file": "CHIP.png"
-  },
-  {
    "symbol": "UNI",
    "name": "Uniswap",
    "sigma": 2.67,
@@ -97,6 +89,14 @@
    "from_btc_pct": 8,
    "verdict": "Overbought",
    "file": "RAY.png"
+  },
+  {
+   "symbol": "CHIP",
+   "name": "USD.AI",
+   "sigma": 2.55,
+   "from_btc_pct": 31,
+   "verdict": "Neutral",
+   "file": "CHIP.png"
   }
  ]
 }
