@@ -1,102 +1,22 @@
 {
- "date": "2026-09-17",
- "generated_at": "2026-09-18T02:30:54.133779+00:00",
+ "date": "2026-09-18",
+ "generated_at": "2026-09-18T03:15:48.911123+00:00",
  "assets": [
   {
-   "symbol": "GENIUS",
-   "name": "Genius",
-   "sigma": 13.52,
-   "from_btc_pct": 0,
-   "verdict": "Overbought",
-   "file": "GENIUS.png"
-  },
-  {
-   "symbol": "KSM",
-   "name": "Kusama",
-   "sigma": 7.23,
-   "from_btc_pct": 22,
-   "verdict": "Overbought",
-   "file": "KSM.png"
-  },
-  {
-   "symbol": "ROSE",
-   "name": "Oasis",
-   "sigma": 3.57,
-   "from_btc_pct": 33,
-   "verdict": "Overbought",
-   "file": "ROSE.png"
-  },
-  {
-   "symbol": "UNI",
-   "name": "Uniswap",
-   "sigma": 3.38,
-   "from_btc_pct": 22,
+   "symbol": "ARB",
+   "name": "Arbitrum",
+   "sigma": 3.54,
+   "from_btc_pct": 7,
    "verdict": "Strong Uptrend",
-   "file": "UNI.png"
+   "file": "ARB.png"
   },
   {
-   "symbol": "ONE",
-   "name": "Harmony",
-   "sigma": 3.26,
-   "from_btc_pct": 2,
-   "verdict": "Overbought",
-   "file": "ONE.png"
-  },
-  {
-   "symbol": "BABY",
-   "name": "Babylon",
-   "sigma": 3.26,
-   "from_btc_pct": 11,
-   "verdict": "Neutral",
-   "file": "BABY.png"
-  },
-  {
-   "symbol": "APT",
-   "name": "Aptos",
-   "sigma": 2.77,
-   "from_btc_pct": 26,
+   "symbol": "OP",
+   "name": "Optimism",
+   "sigma": 2.65,
+   "from_btc_pct": 39,
    "verdict": "Strong Uptrend",
-   "file": "APT.png"
-  },
-  {
-   "symbol": "NEAR",
-   "name": "NEAR Protocol",
-   "sigma": 2.64,
-   "from_btc_pct": 26,
-   "verdict": "Strong Uptrend",
-   "file": "NEAR.png"
-  },
-  {
-   "symbol": "ASTER",
-   "name": "Aster",
-   "sigma": 2.59,
-   "from_btc_pct": 31,
-   "verdict": "Strong Uptrend",
-   "file": "ASTER.png"
-  },
-  {
-   "symbol": "MINA",
-   "name": "Mina Protocol",
-   "sigma": 2.55,
-   "from_btc_pct": 19,
-   "verdict": "Overbought",
-   "file": "MINA.png"
-  },
-  {
-   "symbol": "CFG",
-   "name": "Centrifuge",
-   "sigma": 2.54,
-   "from_btc_pct": 2,
-   "verdict": "Oversold",
-   "file": "CFG.png"
-  },
-  {
-   "symbol": "PROVE",
-   "name": "Succinct",
-   "sigma": 2.53,
-   "from_btc_pct": 25,
-   "verdict": "Overbought",
-   "file": "PROVE.png"
+   "file": "OP.png"
   }
  ]
 }
