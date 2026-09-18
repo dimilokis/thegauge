@@ -1,6 +1,6 @@
 {
  "date": "2026-09-17",
- "generated_at": "2026-09-18T00:30:55.196008+00:00",
+ "generated_at": "2026-09-18T01:30:51.976994+00:00",
  "assets": [
   {
    "symbol": "GENIUS",
@@ -17,14 +17,6 @@
    "from_btc_pct": 22,
    "verdict": "Overbought",
    "file": "KSM.png"
-  },
-  {
-   "symbol": "BABY",
-   "name": "Babylon",
-   "sigma": 4.02,
-   "from_btc_pct": 9,
-   "verdict": "Neutral",
-   "file": "BABY.png"
   },
   {
    "symbol": "ROSE",
@@ -49,6 +41,14 @@
    "from_btc_pct": 2,
    "verdict": "Overbought",
    "file": "ONE.png"
+  },
+  {
+   "symbol": "BABY",
+   "name": "Babylon",
+   "sigma": 3.26,
+   "from_btc_pct": 11,
+   "verdict": "Neutral",
+   "file": "BABY.png"
   },
   {
    "symbol": "NEAR",
