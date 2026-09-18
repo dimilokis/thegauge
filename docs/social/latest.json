@@ -1,6 +1,6 @@
 {
  "date": "2026-09-18",
- "generated_at": "2026-09-18T07:45:50.704057+00:00",
+ "generated_at": "2026-09-18T08:01:00.541966+00:00",
  "assets": [
   {
    "symbol": "G",
@@ -27,6 +27,14 @@
    "file": "A.png"
   },
   {
+   "symbol": "TIA",
+   "name": "Celestia",
+   "sigma": 3.2,
+   "from_btc_pct": 38,
+   "verdict": "Strong Uptrend",
+   "file": "TIA.png"
+  },
+  {
    "symbol": "PENDLE",
    "name": "Pendle",
    "sigma": 3.01,
@@ -43,6 +51,14 @@
    "file": "CHIP.png"
   },
   {
+   "symbol": "UNI",
+   "name": "Uniswap",
+   "sigma": 2.67,
+   "from_btc_pct": 17,
+   "verdict": "Strong Uptrend",
+   "file": "UNI.png"
+  },
+  {
    "symbol": "OP",
    "name": "Optimism",
    "sigma": 2.65,
@@ -51,28 +67,12 @@
    "file": "OP.png"
   },
   {
-   "symbol": "UNI",
-   "name": "Uniswap",
-   "sigma": 2.64,
-   "from_btc_pct": 17,
-   "verdict": "Strong Uptrend",
-   "file": "UNI.png"
-  },
-  {
    "symbol": "RAY",
    "name": "Raydium",
    "sigma": 2.51,
    "from_btc_pct": 7,
    "verdict": "Overbought",
    "file": "RAY.png"
-  },
-  {
-   "symbol": "TIA",
-   "name": "Celestia",
-   "sigma": 2.5,
-   "from_btc_pct": 38,
-   "verdict": "Neutral",
-   "file": "TIA.png"
   },
   {
    "symbol": "WLD",
