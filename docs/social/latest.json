@@ -1,6 +1,6 @@
 {
  "date": "2026-09-18",
- "generated_at": "2026-09-18T16:01:04.253106+00:00",
+ "generated_at": "2026-09-18T16:15:54.006872+00:00",
  "assets": [
   {
    "symbol": "F",
@@ -91,12 +91,12 @@
    "file": "ZAMA.png"
   },
   {
-   "symbol": "TIA",
-   "name": "Celestia",
-   "sigma": 2.93,
-   "from_btc_pct": 39,
-   "verdict": "Neutral",
-   "file": "TIA.png"
+   "symbol": "ARB",
+   "name": "Arbitrum",
+   "sigma": 3.03,
+   "from_btc_pct": 12,
+   "verdict": "Strong Uptrend",
+   "file": "ARB.png"
   }
  ]
 }
