@@ -1,6 +1,6 @@
 {
  "date": "2026-09-18",
- "generated_at": "2026-09-18T20:30:57.816969+00:00",
+ "generated_at": "2026-09-18T20:45:53.343161+00:00",
  "assets": [
   {
    "symbol": "F",
@@ -91,12 +91,12 @@
    "file": "SKY.png"
   },
   {
-   "symbol": "ATOM",
-   "name": "Cosmos Hub",
-   "sigma": 2.63,
-   "from_btc_pct": 18,
+   "symbol": "PROVE",
+   "name": "Succinct",
+   "sigma": 3.01,
+   "from_btc_pct": 26,
    "verdict": "Overbought",
-   "file": "ATOM.png"
+   "file": "PROVE.png"
   }
  ]
 }
