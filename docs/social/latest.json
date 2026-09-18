@@ -1,6 +1,6 @@
 {
  "date": "2026-09-18",
- "generated_at": "2026-09-18T16:46:02.180272+00:00",
+ "generated_at": "2026-09-18T17:00:59.793233+00:00",
  "assets": [
   {
    "symbol": "F",
@@ -13,8 +13,8 @@
   {
    "symbol": "C",
    "name": "Chainbase",
-   "sigma": 14.32,
-   "from_btc_pct": 40,
+   "sigma": 14.25,
+   "from_btc_pct": 39,
    "verdict": "Overbought",
    "file": "C.png"
   },
