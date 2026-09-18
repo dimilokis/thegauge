@@ -1,6 +1,6 @@
 {
  "date": "2026-09-18",
- "generated_at": "2026-09-18T10:00:57.871569+00:00",
+ "generated_at": "2026-09-18T10:15:50.145419+00:00",
  "assets": [
   {
    "symbol": "STRK",
@@ -67,6 +67,14 @@
    "file": "PENDLE.png"
   },
   {
+   "symbol": "ZAMA",
+   "name": "Zama",
+   "sigma": 2.79,
+   "from_btc_pct": 28,
+   "verdict": "Strong Uptrend",
+   "file": "ZAMA.png"
+  },
+  {
    "symbol": "UNI",
    "name": "Uniswap",
    "sigma": 2.67,
@@ -89,14 +97,6 @@
    "from_btc_pct": 8,
    "verdict": "Overbought",
    "file": "RAY.png"
-  },
-  {
-   "symbol": "INJ",
-   "name": "Injective",
-   "sigma": 2.63,
-   "from_btc_pct": 23,
-   "verdict": "Strong Uptrend",
-   "file": "INJ.png"
   }
  ]
 }
