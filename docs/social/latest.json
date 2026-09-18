@@ -1,6 +1,6 @@
 {
  "date": "2026-09-18",
- "generated_at": "2026-09-18T19:45:53.655968+00:00",
+ "generated_at": "2026-09-18T20:01:05.827696+00:00",
  "assets": [
   {
    "symbol": "F",
@@ -59,6 +59,14 @@
    "file": "ZK.png"
   },
   {
+   "symbol": "ETHFI",
+   "name": "Ether.fi",
+   "sigma": 4.05,
+   "from_btc_pct": 40,
+   "verdict": "Strong Uptrend",
+   "file": "ETHFI.png"
+  },
+  {
    "symbol": "STG",
    "name": "Stargate Finance",
    "sigma": 3.53,
@@ -89,14 +97,6 @@
    "from_btc_pct": 24,
    "verdict": "Neutral",
    "file": "SKY.png"
-  },
-  {
-   "symbol": "GENIUS",
-   "name": "Genius",
-   "sigma": 3.13,
-   "from_btc_pct": 2,
-   "verdict": "Neutral",
-   "file": "GENIUS.png"
   }
  ]
 }
