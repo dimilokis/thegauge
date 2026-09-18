@@ -1,6 +1,6 @@
 {
  "date": "2026-09-18",
- "generated_at": "2026-09-18T16:15:54.006872+00:00",
+ "generated_at": "2026-09-18T16:30:58.284312+00:00",
  "assets": [
   {
    "symbol": "F",
@@ -9,6 +9,14 @@
    "from_btc_pct": 37,
    "verdict": "Overbought",
    "file": "F.png"
+  },
+  {
+   "symbol": "C",
+   "name": "Chainbase",
+   "sigma": 14.32,
+   "from_btc_pct": 40,
+   "verdict": "Overbought",
+   "file": "C.png"
   },
   {
    "symbol": "STRK",
@@ -89,14 +97,6 @@
    "from_btc_pct": 35,
    "verdict": "Strong Uptrend",
    "file": "ZAMA.png"
-  },
-  {
-   "symbol": "ARB",
-   "name": "Arbitrum",
-   "sigma": 3.03,
-   "from_btc_pct": 12,
-   "verdict": "Strong Uptrend",
-   "file": "ARB.png"
   }
  ]
 }
