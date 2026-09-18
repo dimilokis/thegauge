@@ -1,6 +1,6 @@
 {
  "date": "2026-09-18",
- "generated_at": "2026-09-18T20:15:52.893781+00:00",
+ "generated_at": "2026-09-18T20:30:57.816969+00:00",
  "assets": [
   {
    "symbol": "F",
@@ -91,12 +91,12 @@
    "file": "SKY.png"
   },
   {
-   "symbol": "SAGA",
-   "name": "Saga",
-   "sigma": 2.55,
-   "from_btc_pct": 2,
+   "symbol": "ATOM",
+   "name": "Cosmos Hub",
+   "sigma": 2.63,
+   "from_btc_pct": 18,
    "verdict": "Overbought",
-   "file": "SAGA.png"
+   "file": "ATOM.png"
   }
  ]
 }
