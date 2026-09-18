@@ -1,6 +1,6 @@
 {
  "date": "2026-09-18",
- "generated_at": "2026-09-18T11:01:00.163847+00:00",
+ "generated_at": "2026-09-18T11:30:54.322486+00:00",
  "assets": [
   {
    "symbol": "STRK",
@@ -83,20 +83,20 @@
    "file": "PENDLE.png"
   },
   {
+   "symbol": "EIGEN",
+   "name": "EigenCloud (prev. EigenLayer)",
+   "sigma": 2.84,
+   "from_btc_pct": 37,
+   "verdict": "Neutral",
+   "file": "EIGEN.png"
+  },
+  {
    "symbol": "ZAMA",
    "name": "Zama",
    "sigma": 2.79,
    "from_btc_pct": 28,
    "verdict": "Strong Uptrend",
    "file": "ZAMA.png"
-  },
-  {
-   "symbol": "EIGEN",
-   "name": "EigenCloud (prev. EigenLayer)",
-   "sigma": 2.69,
-   "from_btc_pct": 37,
-   "verdict": "Neutral",
-   "file": "EIGEN.png"
   }
  ]
 }
