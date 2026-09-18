@@ -27,6 +27,10 @@
   "icon": "https://coin-images.coingecko.com/coins/images/68339/large/Coingecko_-_PFP.png?1755694420",
   "name": "DoubleZero"
  },
+ "A": {
+  "icon": "https://coin-images.coingecko.com/coins/images/55616/large/Vaulta_CEX_Icon_Circle_-_cmc.png?1746859132",
+  "name": "Vaulta"
+ },
  "AAPLB": {
   "icon": "https://coin-images.coingecko.com/coins/images/102175182/large/aaplb.png?1785455573",
   "name": "Apple (bStocks Tokenized Stock)"
@@ -184,7 +188,7 @@
   "name": "Avalanche"
  },
  "AVGOB": {
-  "icon": "https://coin-images.coingecko.com/coins/images/102174587/large/avgob-bstocks.png",
+  "icon": "https://coin-images.coingecko.com/coins/images/102174587/large/avgob-bstocks.png?1784149630",
   "name": "Broadcom (bStocks Tokenized Stock)"
  },
  "AVNT": {
@@ -268,7 +272,7 @@
   "name": "Blur"
  },
  "BMNRB": {
-  "icon": "https://coin-images.coingecko.com/coins/images/102175305/large/BMNRB.png",
+  "icon": "https://coin-images.coingecko.com/coins/images/102175305/large/BMNRB.png?1786083822",
   "name": "BitMine Immersion Technologies (bStocks Tokenized Stock)"
  },
  "BMT": {
@@ -1024,7 +1028,7 @@
   "name": "Prom"
  },
  "PROVE": {
-  "icon": "https://coin-images.coingecko.com/coins/images/67905/large/succinct-logo.png",
+  "icon": "https://coin-images.coingecko.com/coins/images/67905/large/succinct-logo.png?1754228574",
   "name": "Succinct"
  },
  "PUMP": {
