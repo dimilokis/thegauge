@@ -1,6 +1,6 @@
 {
  "date": "2026-09-18",
- "generated_at": "2026-09-18T10:30:55.882003+00:00",
+ "generated_at": "2026-09-18T11:01:00.163847+00:00",
  "assets": [
   {
    "symbol": "STRK",
@@ -59,6 +59,22 @@
    "file": "TIA.png"
   },
   {
+   "symbol": "SKY",
+   "name": "Sky",
+   "sigma": 3.14,
+   "from_btc_pct": 24,
+   "verdict": "Neutral",
+   "file": "SKY.png"
+  },
+  {
+   "symbol": "GENIUS",
+   "name": "Genius",
+   "sigma": 3.13,
+   "from_btc_pct": 2,
+   "verdict": "Neutral",
+   "file": "GENIUS.png"
+  },
+  {
    "symbol": "PENDLE",
    "name": "Pendle",
    "sigma": 3.01,
@@ -81,22 +97,6 @@
    "from_btc_pct": 37,
    "verdict": "Neutral",
    "file": "EIGEN.png"
-  },
-  {
-   "symbol": "UNI",
-   "name": "Uniswap",
-   "sigma": 2.67,
-   "from_btc_pct": 17,
-   "verdict": "Strong Uptrend",
-   "file": "UNI.png"
-  },
-  {
-   "symbol": "OP",
-   "name": "Optimism",
-   "sigma": 2.65,
-   "from_btc_pct": 39,
-   "verdict": "Strong Uptrend",
-   "file": "OP.png"
   }
  ]
 }
