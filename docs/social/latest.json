@@ -1,6 +1,6 @@
 {
  "date": "2026-09-18",
- "generated_at": "2026-09-18T20:01:05.827696+00:00",
+ "generated_at": "2026-09-18T20:15:52.893781+00:00",
  "assets": [
   {
    "symbol": "F",
@@ -33,14 +33,6 @@
    "from_btc_pct": 2,
    "verdict": "Overbought",
    "file": "G.png"
-  },
-  {
-   "symbol": "SAGA",
-   "name": "Saga",
-   "sigma": 5.62,
-   "from_btc_pct": 5,
-   "verdict": "Overbought",
-   "file": "SAGA.png"
   },
   {
    "symbol": "S",
@@ -97,6 +89,14 @@
    "from_btc_pct": 24,
    "verdict": "Neutral",
    "file": "SKY.png"
+  },
+  {
+   "symbol": "SAGA",
+   "name": "Saga",
+   "sigma": 2.55,
+   "from_btc_pct": 2,
+   "verdict": "Overbought",
+   "file": "SAGA.png"
   }
  ]
 }
