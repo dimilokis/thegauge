@@ -1,6 +1,6 @@
 {
  "date": "2026-09-18",
- "generated_at": "2026-09-18T20:45:53.343161+00:00",
+ "generated_at": "2026-09-18T21:45:47.988018+00:00",
  "assets": [
   {
    "symbol": "F",
@@ -75,6 +75,14 @@
    "file": "PENDLE.png"
   },
   {
+   "symbol": "ZEN",
+   "name": "Horizen",
+   "sigma": 3.43,
+   "from_btc_pct": 34,
+   "verdict": "Overbought",
+   "file": "ZEN.png"
+  },
+  {
    "symbol": "A",
    "name": "Vaulta",
    "sigma": 3.31,
@@ -89,14 +97,6 @@
    "from_btc_pct": 24,
    "verdict": "Neutral",
    "file": "SKY.png"
-  },
-  {
-   "symbol": "PROVE",
-   "name": "Succinct",
-   "sigma": 3.01,
-   "from_btc_pct": 26,
-   "verdict": "Overbought",
-   "file": "PROVE.png"
   }
  ]
 }
