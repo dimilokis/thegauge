@@ -1,6 +1,6 @@
 {
  "date": "2026-09-18",
- "generated_at": "2026-09-18T08:30:50.238939+00:00",
+ "generated_at": "2026-09-18T08:45:51.135371+00:00",
  "assets": [
   {
    "symbol": "G",
@@ -25,6 +25,14 @@
    "from_btc_pct": 7,
    "verdict": "Strong Uptrend",
    "file": "ARB.png"
+  },
+  {
+   "symbol": "STG",
+   "name": "Stargate Finance",
+   "sigma": 3.53,
+   "from_btc_pct": 12,
+   "verdict": "Oversold",
+   "file": "STG.png"
   },
   {
    "symbol": "A",
@@ -77,8 +85,8 @@
   {
    "symbol": "RAY",
    "name": "Raydium",
-   "sigma": 2.51,
-   "from_btc_pct": 7,
+   "sigma": 2.64,
+   "from_btc_pct": 8,
    "verdict": "Overbought",
    "file": "RAY.png"
   },
@@ -89,14 +97,6 @@
    "from_btc_pct": 27,
    "verdict": "Neutral",
    "file": "WLD.png"
-  },
-  {
-   "symbol": "NEAR",
-   "name": "NEAR Protocol",
-   "sigma": 2.5,
-   "from_btc_pct": 17,
-   "verdict": "Strong Uptrend",
-   "file": "NEAR.png"
   }
  ]
 }
