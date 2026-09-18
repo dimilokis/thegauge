@@ -1,6 +1,6 @@
 {
  "date": "2026-09-18",
- "generated_at": "2026-09-18T05:15:49.806841+00:00",
+ "generated_at": "2026-09-18T06:15:54.249205+00:00",
  "assets": [
   {
    "symbol": "ARB",
@@ -35,20 +35,20 @@
    "file": "OP.png"
   },
   {
-   "symbol": "TIA",
-   "name": "Celestia",
-   "sigma": 2.54,
-   "from_btc_pct": 38,
-   "verdict": "Neutral",
-   "file": "TIA.png"
-  },
-  {
    "symbol": "PENDLE",
    "name": "Pendle",
    "sigma": 2.54,
    "from_btc_pct": 27,
    "verdict": "Strong Uptrend",
    "file": "PENDLE.png"
+  },
+  {
+   "symbol": "TIA",
+   "name": "Celestia",
+   "sigma": 2.5,
+   "from_btc_pct": 38,
+   "verdict": "Neutral",
+   "file": "TIA.png"
   }
  ]
 }
