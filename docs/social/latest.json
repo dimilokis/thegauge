@@ -1,6 +1,6 @@
 {
  "date": "2026-09-18",
- "generated_at": "2026-09-18T07:30:53.173417+00:00",
+ "generated_at": "2026-09-18T07:45:50.704057+00:00",
  "assets": [
   {
    "symbol": "G",
@@ -59,20 +59,20 @@
    "file": "UNI.png"
   },
   {
+   "symbol": "RAY",
+   "name": "Raydium",
+   "sigma": 2.51,
+   "from_btc_pct": 7,
+   "verdict": "Overbought",
+   "file": "RAY.png"
+  },
+  {
    "symbol": "TIA",
    "name": "Celestia",
    "sigma": 2.5,
    "from_btc_pct": 38,
    "verdict": "Neutral",
    "file": "TIA.png"
-  },
-  {
-   "symbol": "RAY",
-   "name": "Raydium",
-   "sigma": 2.5,
-   "from_btc_pct": 7,
-   "verdict": "Overbought",
-   "file": "RAY.png"
   },
   {
    "symbol": "WLD",
