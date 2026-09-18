@@ -1,6 +1,6 @@
 {
  "date": "2026-09-18",
- "generated_at": "2026-09-18T15:31:01.043397+00:00",
+ "generated_at": "2026-09-18T16:01:04.253106+00:00",
  "assets": [
   {
    "symbol": "F",
@@ -83,20 +83,20 @@
    "file": "GENIUS.png"
   },
   {
+   "symbol": "ZAMA",
+   "name": "Zama",
+   "sigma": 3.11,
+   "from_btc_pct": 35,
+   "verdict": "Strong Uptrend",
+   "file": "ZAMA.png"
+  },
+  {
    "symbol": "TIA",
    "name": "Celestia",
    "sigma": 2.93,
    "from_btc_pct": 39,
    "verdict": "Neutral",
    "file": "TIA.png"
-  },
-  {
-   "symbol": "ZAMA",
-   "name": "Zama",
-   "sigma": 2.76,
-   "from_btc_pct": 34,
-   "verdict": "Strong Uptrend",
-   "file": "ZAMA.png"
   }
  ]
 }
