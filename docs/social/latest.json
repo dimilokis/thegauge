@@ -1,7 +1,15 @@
 {
  "date": "2026-09-18",
- "generated_at": "2026-09-18T15:00:59.527232+00:00",
+ "generated_at": "2026-09-18T15:31:01.043397+00:00",
  "assets": [
+  {
+   "symbol": "F",
+   "name": null,
+   "sigma": 24.12,
+   "from_btc_pct": 37,
+   "verdict": "Overbought",
+   "file": "F.png"
+  },
   {
    "symbol": "STRK",
    "name": "Starknet",
@@ -43,6 +51,14 @@
    "file": "STG.png"
   },
   {
+   "symbol": "PENDLE",
+   "name": "Pendle",
+   "sigma": 3.46,
+   "from_btc_pct": 34,
+   "verdict": "Strong Uptrend",
+   "file": "PENDLE.png"
+  },
+  {
    "symbol": "A",
    "name": "Vaulta",
    "sigma": 3.31,
@@ -81,22 +97,6 @@
    "from_btc_pct": 34,
    "verdict": "Strong Uptrend",
    "file": "ZAMA.png"
-  },
-  {
-   "symbol": "ICP",
-   "name": "Internet Computer",
-   "sigma": 2.7,
-   "from_btc_pct": 24,
-   "verdict": "Strong Uptrend",
-   "file": "ICP.png"
-  },
-  {
-   "symbol": "CHIP",
-   "name": "USD.AI",
-   "sigma": 2.59,
-   "from_btc_pct": 36,
-   "verdict": "Neutral",
-   "file": "CHIP.png"
   }
  ]
 }
