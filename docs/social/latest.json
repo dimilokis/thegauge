@@ -1,6 +1,6 @@
 {
  "date": "2026-09-18",
- "generated_at": "2026-09-18T03:15:48.911123+00:00",
+ "generated_at": "2026-09-18T04:56:46.139023+00:00",
  "assets": [
   {
    "symbol": "ARB",
@@ -11,12 +11,28 @@
    "file": "ARB.png"
   },
   {
+   "symbol": "NEAR",
+   "name": "NEAR Protocol",
+   "sigma": 2.87,
+   "from_btc_pct": 17,
+   "verdict": "Strong Uptrend",
+   "file": "NEAR.png"
+  },
+  {
    "symbol": "OP",
    "name": "Optimism",
    "sigma": 2.65,
    "from_btc_pct": 39,
    "verdict": "Strong Uptrend",
    "file": "OP.png"
+  },
+  {
+   "symbol": "TIA",
+   "name": "Celestia",
+   "sigma": 2.54,
+   "from_btc_pct": 38,
+   "verdict": "Neutral",
+   "file": "TIA.png"
   }
  ]
 }
