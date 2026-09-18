@@ -1,7 +1,15 @@
 {
  "date": "2026-09-18",
- "generated_at": "2026-09-18T09:00:58.063665+00:00",
+ "generated_at": "2026-09-18T09:30:51.816939+00:00",
  "assets": [
+  {
+   "symbol": "STRK",
+   "name": "Starknet",
+   "sigma": 7.63,
+   "from_btc_pct": 39,
+   "verdict": "Overbought",
+   "file": "STRK.png"
+  },
   {
    "symbol": "G",
    "name": "Gravity (by Galxe)",
@@ -9,14 +17,6 @@
    "from_btc_pct": 2,
    "verdict": "Overbought",
    "file": "G.png"
-  },
-  {
-   "symbol": "STRK",
-   "name": "Starknet",
-   "sigma": 6.24,
-   "from_btc_pct": 40,
-   "verdict": "Overbought",
-   "file": "STRK.png"
   },
   {
    "symbol": "ZK",
