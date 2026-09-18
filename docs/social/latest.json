@@ -1,6 +1,6 @@
 {
  "date": "2026-09-17",
- "generated_at": "2026-09-18T01:30:51.976994+00:00",
+ "generated_at": "2026-09-18T02:30:54.133779+00:00",
  "assets": [
   {
    "symbol": "GENIUS",
@@ -51,20 +51,20 @@
    "file": "BABY.png"
   },
   {
+   "symbol": "APT",
+   "name": "Aptos",
+   "sigma": 2.77,
+   "from_btc_pct": 26,
+   "verdict": "Strong Uptrend",
+   "file": "APT.png"
+  },
+  {
    "symbol": "NEAR",
    "name": "NEAR Protocol",
    "sigma": 2.64,
    "from_btc_pct": 26,
    "verdict": "Strong Uptrend",
    "file": "NEAR.png"
-  },
-  {
-   "symbol": "APT",
-   "name": "Aptos",
-   "sigma": 2.61,
-   "from_btc_pct": 32,
-   "verdict": "Neutral",
-   "file": "APT.png"
   },
   {
    "symbol": "ASTER",
