@@ -1,6 +1,6 @@
 {
  "date": "2026-09-18",
- "generated_at": "2026-09-18T14:45:49.879402+00:00",
+ "generated_at": "2026-09-18T15:00:59.527232+00:00",
  "assets": [
   {
    "symbol": "STRK",
@@ -83,20 +83,20 @@
    "file": "ZAMA.png"
   },
   {
+   "symbol": "ICP",
+   "name": "Internet Computer",
+   "sigma": 2.7,
+   "from_btc_pct": 24,
+   "verdict": "Strong Uptrend",
+   "file": "ICP.png"
+  },
+  {
    "symbol": "CHIP",
    "name": "USD.AI",
    "sigma": 2.59,
    "from_btc_pct": 36,
    "verdict": "Neutral",
    "file": "CHIP.png"
-  },
-  {
-   "symbol": "EIGEN",
-   "name": "EigenCloud (prev. EigenLayer)",
-   "sigma": 2.55,
-   "from_btc_pct": 37,
-   "verdict": "Neutral",
-   "file": "EIGEN.png"
   }
  ]
 }
