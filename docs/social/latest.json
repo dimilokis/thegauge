@@ -1,6 +1,6 @@
 {
  "date": "2026-09-18",
- "generated_at": "2026-09-18T07:15:54.153780+00:00",
+ "generated_at": "2026-09-18T07:30:53.173417+00:00",
  "assets": [
   {
    "symbol": "G",
@@ -49,6 +49,14 @@
    "from_btc_pct": 39,
    "verdict": "Strong Uptrend",
    "file": "OP.png"
+  },
+  {
+   "symbol": "UNI",
+   "name": "Uniswap",
+   "sigma": 2.64,
+   "from_btc_pct": 17,
+   "verdict": "Strong Uptrend",
+   "file": "UNI.png"
   },
   {
    "symbol": "TIA",
