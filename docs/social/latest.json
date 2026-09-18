@@ -1,6 +1,6 @@
 {
  "date": "2026-09-18",
- "generated_at": "2026-09-18T14:00:58.140820+00:00",
+ "generated_at": "2026-09-18T14:31:04.069330+00:00",
  "assets": [
   {
    "symbol": "STRK",
@@ -75,12 +75,12 @@
    "file": "TIA.png"
   },
   {
-   "symbol": "UNI",
-   "name": "Uniswap",
-   "sigma": 2.8,
-   "from_btc_pct": 18,
+   "symbol": "ZAMA",
+   "name": "Zama",
+   "sigma": 2.76,
+   "from_btc_pct": 34,
    "verdict": "Strong Uptrend",
-   "file": "UNI.png"
+   "file": "ZAMA.png"
   },
   {
    "symbol": "EIGEN",
@@ -91,12 +91,12 @@
    "file": "EIGEN.png"
   },
   {
-   "symbol": "ARB",
-   "name": "Arbitrum",
-   "sigma": 2.51,
-   "from_btc_pct": 11,
+   "symbol": "UNI",
+   "name": "Uniswap",
+   "sigma": 2.53,
+   "from_btc_pct": 21,
    "verdict": "Strong Uptrend",
-   "file": "ARB.png"
+   "file": "UNI.png"
   }
  ]
 }
