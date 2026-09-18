@@ -1,12 +1,12 @@
 {
  "date": "2026-09-18",
- "generated_at": "2026-09-18T21:45:47.988018+00:00",
+ "generated_at": "2026-09-18T22:15:55.074484+00:00",
  "assets": [
   {
    "symbol": "F",
    "name": null,
-   "sigma": 24.12,
-   "from_btc_pct": 37,
+   "sigma": 29.55,
+   "from_btc_pct": 36,
    "verdict": "Overbought",
    "file": "F.png"
   },
