@@ -1,7 +1,15 @@
 {
  "date": "2026-09-19",
- "generated_at": "2026-09-19T05:05:53.555132+00:00",
+ "generated_at": "2026-09-19T06:30:54.758664+00:00",
  "assets": [
+  {
+   "symbol": "ESP",
+   "name": "Espresso",
+   "sigma": 3.65,
+   "from_btc_pct": 7,
+   "verdict": "Overbought",
+   "file": "ESP.png"
+  },
   {
    "symbol": "XTZ",
    "name": "Tezos",
