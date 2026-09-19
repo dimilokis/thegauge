@@ -1,6 +1,6 @@
 {
  "date": "2026-09-19",
- "generated_at": "2026-09-19T16:15:56.692685+00:00",
+ "generated_at": "2026-09-19T16:30:53.444868+00:00",
  "assets": [
   {
    "symbol": "AR",
@@ -27,6 +27,14 @@
    "file": "XTZ.png"
   },
   {
+   "symbol": "ENA",
+   "name": "Ethena",
+   "sigma": 3.93,
+   "from_btc_pct": 40,
+   "verdict": "Strong Uptrend",
+   "file": "ENA.png"
+  },
+  {
    "symbol": "ESP",
    "name": "Espresso",
    "sigma": 3.65,
@@ -49,14 +57,6 @@
    "from_btc_pct": 2,
    "verdict": "Overbought",
    "file": "ONE.png"
-  },
-  {
-   "symbol": "ENA",
-   "name": "Ethena",
-   "sigma": 2.84,
-   "from_btc_pct": 40,
-   "verdict": "Strong Uptrend",
-   "file": "ENA.png"
   },
   {
    "symbol": "INJ",
