@@ -1,6 +1,6 @@
 {
  "date": "2026-09-19",
- "generated_at": "2026-09-19T22:00:56.415600+00:00",
+ "generated_at": "2026-09-19T22:45:50.346663+00:00",
  "assets": [
   {
    "symbol": "CELR",
@@ -51,14 +51,6 @@
    "file": "XTZ.png"
   },
   {
-   "symbol": "BERA",
-   "name": "Berachain",
-   "sigma": 3.89,
-   "from_btc_pct": 37,
-   "verdict": "Overbought",
-   "file": "BERA.png"
-  },
-  {
    "symbol": "ESP",
    "name": "Espresso",
    "sigma": 3.65,
@@ -97,6 +89,14 @@
    "from_btc_pct": 2,
    "verdict": "Overbought",
    "file": "ONE.png"
+  },
+  {
+   "symbol": "BERA",
+   "name": "Berachain",
+   "sigma": 2.52,
+   "from_btc_pct": 40,
+   "verdict": "Overbought",
+   "file": "BERA.png"
   }
  ]
 }
