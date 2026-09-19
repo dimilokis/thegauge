@@ -1,7 +1,15 @@
 {
  "date": "2026-09-19",
- "generated_at": "2026-09-19T06:30:54.758664+00:00",
+ "generated_at": "2026-09-19T06:45:46.048464+00:00",
  "assets": [
+  {
+   "symbol": "XTZ",
+   "name": "Tezos",
+   "sigma": 3.96,
+   "from_btc_pct": 36,
+   "verdict": "Overbought",
+   "file": "XTZ.png"
+  },
   {
    "symbol": "ESP",
    "name": "Espresso",
@@ -11,12 +19,12 @@
    "file": "ESP.png"
   },
   {
-   "symbol": "XTZ",
-   "name": "Tezos",
-   "sigma": 2.67,
-   "from_btc_pct": 40,
-   "verdict": "Overbought",
-   "file": "XTZ.png"
+   "symbol": "F",
+   "name": "SynFutures",
+   "sigma": 2.52,
+   "from_btc_pct": 33,
+   "verdict": "Neutral",
+   "file": "F.png"
   },
   {
    "symbol": "MORPHO",
