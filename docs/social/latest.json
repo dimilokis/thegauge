@@ -1,6 +1,6 @@
 {
  "date": "2026-09-19",
- "generated_at": "2026-09-19T09:45:52.758298+00:00",
+ "generated_at": "2026-09-19T10:15:51.112063+00:00",
  "assets": [
   {
    "symbol": "ZAMA",
@@ -37,7 +37,7 @@
   {
    "symbol": "INJ",
    "name": "Injective",
-   "sigma": 2.82,
+   "sigma": 2.81,
    "from_btc_pct": 29,
    "verdict": "Strong Uptrend",
    "file": "INJ.png"
