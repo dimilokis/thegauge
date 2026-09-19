@@ -1,6 +1,6 @@
 {
  "date": "2026-09-19",
- "generated_at": "2026-09-19T22:45:50.346663+00:00",
+ "generated_at": "2026-09-19T23:00:53.459249+00:00",
  "assets": [
   {
    "symbol": "CELR",
@@ -91,12 +91,12 @@
    "file": "ONE.png"
   },
   {
-   "symbol": "BERA",
-   "name": "Berachain",
-   "sigma": 2.52,
-   "from_btc_pct": 40,
+   "symbol": "VET",
+   "name": "VeChain",
+   "sigma": 2.82,
+   "from_btc_pct": 18,
    "verdict": "Overbought",
-   "file": "BERA.png"
+   "file": "VET.png"
   }
  ]
 }
