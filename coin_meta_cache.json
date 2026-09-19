@@ -315,6 +315,10 @@
   "icon": "https://coin-images.coingecko.com/coins/images/50236/large/cati.png?1726638258",
   "name": "Catizen"
  },
+ "CELR": {
+  "icon": "https://coin-images.coingecko.com/coins/images/4379/large/Celr.png",
+  "name": "Celer Network"
+ },
  "CETUS": {
   "icon": "https://coin-images.coingecko.com/coins/images/30256/large/cetus.png?1696529165",
   "name": "Cetus Protocol"

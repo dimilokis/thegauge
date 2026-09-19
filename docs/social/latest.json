@@ -1,7 +1,15 @@
 {
  "date": "2026-09-19",
- "generated_at": "2026-09-19T19:45:53.008608+00:00",
+ "generated_at": "2026-09-19T21:27:30.976853+00:00",
  "assets": [
+  {
+   "symbol": "CELR",
+   "name": "Celer Network",
+   "sigma": 10.93,
+   "from_btc_pct": 23,
+   "verdict": "Overbought",
+   "file": "CELR.png"
+  },
   {
    "symbol": "AVAX",
    "name": "Avalanche",
@@ -89,14 +97,6 @@
    "from_btc_pct": 19,
    "verdict": "Overbought",
    "file": "VET.png"
-  },
-  {
-   "symbol": "INJ",
-   "name": "Injective",
-   "sigma": 2.75,
-   "from_btc_pct": 30,
-   "verdict": "Strong Uptrend",
-   "file": "INJ.png"
   }
  ]
 }
