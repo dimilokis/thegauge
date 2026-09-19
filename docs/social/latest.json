@@ -1,6 +1,6 @@
 {
  "date": "2026-09-19",
- "generated_at": "2026-09-19T14:15:50.574424+00:00",
+ "generated_at": "2026-09-19T14:30:51.061727+00:00",
  "assets": [
   {
    "symbol": "AR",
@@ -67,6 +67,14 @@
    "file": "ONE.png"
   },
   {
+   "symbol": "F",
+   "name": "SynFutures",
+   "sigma": 2.64,
+   "from_btc_pct": 31,
+   "verdict": "Neutral",
+   "file": "F.png"
+  },
+  {
    "symbol": "VET",
    "name": "VeChain",
    "sigma": 2.62,
@@ -89,14 +97,6 @@
    "from_btc_pct": 26,
    "verdict": "Overbought",
    "file": "STG.png"
-  },
-  {
-   "symbol": "JST",
-   "name": "JUST",
-   "sigma": 2.5,
-   "from_btc_pct": 1,
-   "verdict": "Strong Uptrend",
-   "file": "JST.png"
   }
  ]
 }
