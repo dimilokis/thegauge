@@ -1,6 +1,6 @@
 {
  "date": "2026-09-19",
- "generated_at": "2026-09-19T12:30:59.504225+00:00",
+ "generated_at": "2026-09-19T12:45:54.363776+00:00",
  "assets": [
   {
    "symbol": "ZAMA",
@@ -27,14 +27,6 @@
    "file": "ESP.png"
   },
   {
-   "symbol": "VET",
-   "name": "VeChain",
-   "sigma": 2.91,
-   "from_btc_pct": 18,
-   "verdict": "Overbought",
-   "file": "VET.png"
-  },
-  {
    "symbol": "ENA",
    "name": "Ethena",
    "sigma": 2.84,
@@ -57,6 +49,14 @@
    "from_btc_pct": 1,
    "verdict": "Overbought",
    "file": "ONE.png"
+  },
+  {
+   "symbol": "VET",
+   "name": "VeChain",
+   "sigma": 2.62,
+   "from_btc_pct": 18,
+   "verdict": "Overbought",
+   "file": "VET.png"
   },
   {
    "symbol": "STG",
