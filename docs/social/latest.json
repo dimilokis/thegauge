@@ -1,6 +1,6 @@
 {
  "date": "2026-09-19",
- "generated_at": "2026-09-19T07:15:53.540091+00:00",
+ "generated_at": "2026-09-19T07:30:49.260800+00:00",
  "assets": [
   {
    "symbol": "XTZ",
@@ -17,6 +17,14 @@
    "from_btc_pct": 7,
    "verdict": "Overbought",
    "file": "ESP.png"
+  },
+  {
+   "symbol": "VET",
+   "name": "VeChain",
+   "sigma": 2.91,
+   "from_btc_pct": 18,
+   "verdict": "Overbought",
+   "file": "VET.png"
   },
   {
    "symbol": "INJ",
