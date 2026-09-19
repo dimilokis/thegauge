@@ -1,6 +1,6 @@
 {
  "date": "2026-09-19",
- "generated_at": "2026-09-19T21:27:30.976853+00:00",
+ "generated_at": "2026-09-19T22:00:56.415600+00:00",
  "assets": [
   {
    "symbol": "CELR",
@@ -9,6 +9,14 @@
    "from_btc_pct": 23,
    "verdict": "Overbought",
    "file": "CELR.png"
+  },
+  {
+   "symbol": "SKL",
+   "name": "SKALE",
+   "sigma": 9.61,
+   "from_btc_pct": 8,
+   "verdict": "Overbought",
+   "file": "SKL.png"
   },
   {
    "symbol": "AVAX",
@@ -89,14 +97,6 @@
    "from_btc_pct": 2,
    "verdict": "Overbought",
    "file": "ONE.png"
-  },
-  {
-   "symbol": "VET",
-   "name": "VeChain",
-   "sigma": 2.84,
-   "from_btc_pct": 19,
-   "verdict": "Overbought",
-   "file": "VET.png"
   }
  ]
 }
