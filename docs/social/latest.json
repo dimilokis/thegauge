@@ -1,6 +1,6 @@
 {
  "date": "2026-09-19",
- "generated_at": "2026-09-19T15:45:54.533850+00:00",
+ "generated_at": "2026-09-19T16:15:56.692685+00:00",
  "assets": [
   {
    "symbol": "AR",
@@ -59,6 +59,14 @@
    "file": "ENA.png"
   },
   {
+   "symbol": "INJ",
+   "name": "Injective",
+   "sigma": 2.75,
+   "from_btc_pct": 30,
+   "verdict": "Strong Uptrend",
+   "file": "INJ.png"
+  },
+  {
    "symbol": "MORPHO",
    "name": "Morpho",
    "sigma": 2.67,
@@ -81,14 +89,6 @@
    "from_btc_pct": 18,
    "verdict": "Overbought",
    "file": "VET.png"
-  },
-  {
-   "symbol": "INJ",
-   "name": "Injective",
-   "sigma": 2.57,
-   "from_btc_pct": 29,
-   "verdict": "Strong Uptrend",
-   "file": "INJ.png"
   },
   {
    "symbol": "STG",
