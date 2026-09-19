@@ -1,6 +1,6 @@
 {
  "date": "2026-09-19",
- "generated_at": "2026-09-19T09:15:53.362621+00:00",
+ "generated_at": "2026-09-19T09:45:52.758298+00:00",
  "assets": [
   {
    "symbol": "ZAMA",
@@ -43,20 +43,20 @@
    "file": "INJ.png"
   },
   {
+   "symbol": "MORPHO",
+   "name": "Morpho",
+   "sigma": 2.67,
+   "from_btc_pct": 10,
+   "verdict": "Strong Uptrend",
+   "file": "MORPHO.png"
+  },
+  {
    "symbol": "STG",
    "name": "Stargate Finance",
    "sigma": 2.54,
    "from_btc_pct": 26,
    "verdict": "Overbought",
    "file": "STG.png"
-  },
-  {
-   "symbol": "MORPHO",
-   "name": "Morpho",
-   "sigma": 2.51,
-   "from_btc_pct": 9,
-   "verdict": "Strong Uptrend",
-   "file": "MORPHO.png"
   },
   {
    "symbol": "JST",
