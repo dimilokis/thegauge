@@ -1,6 +1,6 @@
 {
  "date": "2026-09-19",
- "generated_at": "2026-09-19T11:30:52.590957+00:00",
+ "generated_at": "2026-09-19T12:30:59.504225+00:00",
  "assets": [
   {
    "symbol": "ZAMA",
@@ -33,6 +33,14 @@
    "from_btc_pct": 18,
    "verdict": "Overbought",
    "file": "VET.png"
+  },
+  {
+   "symbol": "ENA",
+   "name": "Ethena",
+   "sigma": 2.84,
+   "from_btc_pct": 40,
+   "verdict": "Strong Uptrend",
+   "file": "ENA.png"
   },
   {
    "symbol": "MORPHO",
