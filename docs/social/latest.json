@@ -1,6 +1,6 @@
 {
  "date": "2026-09-19",
- "generated_at": "2026-09-19T13:30:52.612092+00:00",
+ "generated_at": "2026-09-19T14:00:57.670848+00:00",
  "assets": [
   {
    "symbol": "ZAMA",
@@ -67,20 +67,20 @@
    "file": "VET.png"
   },
   {
+   "symbol": "INJ",
+   "name": "Injective",
+   "sigma": 2.57,
+   "from_btc_pct": 29,
+   "verdict": "Strong Uptrend",
+   "file": "INJ.png"
+  },
+  {
    "symbol": "STG",
    "name": "Stargate Finance",
    "sigma": 2.54,
    "from_btc_pct": 26,
    "verdict": "Overbought",
    "file": "STG.png"
-  },
-  {
-   "symbol": "INJ",
-   "name": "Injective",
-   "sigma": 2.54,
-   "from_btc_pct": 29,
-   "verdict": "Strong Uptrend",
-   "file": "INJ.png"
   },
   {
    "symbol": "JST",
