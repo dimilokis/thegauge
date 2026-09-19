@@ -1,6 +1,6 @@
 {
  "date": "2026-09-19",
- "generated_at": "2026-09-19T18:45:49.763335+00:00",
+ "generated_at": "2026-09-19T19:15:53.186824+00:00",
  "assets": [
   {
    "symbol": "AVAX",
@@ -91,12 +91,12 @@
    "file": "INJ.png"
   },
   {
-   "symbol": "MORPHO",
-   "name": "Morpho",
-   "sigma": 2.67,
-   "from_btc_pct": 10,
+   "symbol": "JST",
+   "name": "JUST",
+   "sigma": 2.74,
+   "from_btc_pct": 1,
    "verdict": "Strong Uptrend",
-   "file": "MORPHO.png"
+   "file": "JST.png"
   }
  ]
 }
