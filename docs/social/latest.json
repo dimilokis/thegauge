@@ -1,7 +1,15 @@
 {
  "date": "2026-09-19",
- "generated_at": "2026-09-19T14:00:57.670848+00:00",
+ "generated_at": "2026-09-19T14:15:50.574424+00:00",
  "assets": [
+  {
+   "symbol": "AR",
+   "name": "Arweave",
+   "sigma": 6.55,
+   "from_btc_pct": 40,
+   "verdict": "Overbought",
+   "file": "AR.png"
+  },
   {
    "symbol": "ZAMA",
    "name": "Zama",
@@ -89,14 +97,6 @@
    "from_btc_pct": 1,
    "verdict": "Strong Uptrend",
    "file": "JST.png"
-  },
-  {
-   "symbol": "F",
-   "name": "SynFutures",
-   "sigma": 2.5,
-   "from_btc_pct": 32,
-   "verdict": "Neutral",
-   "file": "F.png"
   }
  ]
 }
