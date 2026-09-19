@@ -1,6 +1,6 @@
 {
  "date": "2026-09-19",
- "generated_at": "2026-09-19T19:15:53.186824+00:00",
+ "generated_at": "2026-09-19T19:45:53.008608+00:00",
  "assets": [
   {
    "symbol": "AVAX",
@@ -33,6 +33,14 @@
    "from_btc_pct": 36,
    "verdict": "Overbought",
    "file": "XTZ.png"
+  },
+  {
+   "symbol": "BERA",
+   "name": "Berachain",
+   "sigma": 3.89,
+   "from_btc_pct": 37,
+   "verdict": "Overbought",
+   "file": "BERA.png"
   },
   {
    "symbol": "ESP",
@@ -89,14 +97,6 @@
    "from_btc_pct": 30,
    "verdict": "Strong Uptrend",
    "file": "INJ.png"
-  },
-  {
-   "symbol": "JST",
-   "name": "JUST",
-   "sigma": 2.74,
-   "from_btc_pct": 1,
-   "verdict": "Strong Uptrend",
-   "file": "JST.png"
   }
  ]
 }
