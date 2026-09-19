@@ -1,6 +1,6 @@
 {
  "date": "2026-09-19",
- "generated_at": "2026-09-19T10:30:50.784179+00:00",
+ "generated_at": "2026-09-19T11:30:52.590957+00:00",
  "assets": [
   {
    "symbol": "ZAMA",
@@ -35,14 +35,6 @@
    "file": "VET.png"
   },
   {
-   "symbol": "INJ",
-   "name": "Injective",
-   "sigma": 2.81,
-   "from_btc_pct": 29,
-   "verdict": "Strong Uptrend",
-   "file": "INJ.png"
-  },
-  {
    "symbol": "MORPHO",
    "name": "Morpho",
    "sigma": 2.67,
@@ -65,6 +57,14 @@
    "from_btc_pct": 26,
    "verdict": "Overbought",
    "file": "STG.png"
+  },
+  {
+   "symbol": "INJ",
+   "name": "Injective",
+   "sigma": 2.54,
+   "from_btc_pct": 29,
+   "verdict": "Strong Uptrend",
+   "file": "INJ.png"
   },
   {
    "symbol": "JST",
