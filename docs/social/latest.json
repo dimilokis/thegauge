@@ -1,6 +1,6 @@
 {
  "date": "2026-09-19",
- "generated_at": "2026-09-19T15:00:57.173201+00:00",
+ "generated_at": "2026-09-19T15:45:54.533850+00:00",
  "assets": [
   {
    "symbol": "AR",
@@ -35,20 +35,20 @@
    "file": "ESP.png"
   },
   {
+   "symbol": "G",
+   "name": "Gravity (by Galxe)",
+   "sigma": 3.2,
+   "from_btc_pct": 21,
+   "verdict": "Overbought",
+   "file": "G.png"
+  },
+  {
    "symbol": "ONE",
    "name": "Harmony",
    "sigma": 2.87,
    "from_btc_pct": 2,
    "verdict": "Overbought",
    "file": "ONE.png"
-  },
-  {
-   "symbol": "G",
-   "name": "Gravity (by Galxe)",
-   "sigma": 2.86,
-   "from_btc_pct": 20,
-   "verdict": "Overbought",
-   "file": "G.png"
   },
   {
    "symbol": "ENA",
