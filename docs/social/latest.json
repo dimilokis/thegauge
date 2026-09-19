@@ -1,6 +1,6 @@
 {
  "date": "2026-09-19",
- "generated_at": "2026-09-19T06:45:46.048464+00:00",
+ "generated_at": "2026-09-19T07:15:53.540091+00:00",
  "assets": [
   {
    "symbol": "XTZ",
@@ -17,6 +17,14 @@
    "from_btc_pct": 7,
    "verdict": "Overbought",
    "file": "ESP.png"
+  },
+  {
+   "symbol": "INJ",
+   "name": "Injective",
+   "sigma": 2.75,
+   "from_btc_pct": 28,
+   "verdict": "Strong Uptrend",
+   "file": "INJ.png"
   },
   {
    "symbol": "F",
