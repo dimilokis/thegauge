@@ -1,6 +1,6 @@
 {
  "date": "2026-09-19",
- "generated_at": "2026-09-19T12:45:54.363776+00:00",
+ "generated_at": "2026-09-19T13:30:52.612092+00:00",
  "assets": [
   {
    "symbol": "ZAMA",
@@ -25,6 +25,14 @@
    "from_btc_pct": 7,
    "verdict": "Overbought",
    "file": "ESP.png"
+  },
+  {
+   "symbol": "G",
+   "name": "Gravity (by Galxe)",
+   "sigma": 2.86,
+   "from_btc_pct": 20,
+   "verdict": "Overbought",
+   "file": "G.png"
   },
   {
    "symbol": "ENA",
