@@ -1,102 +1,14 @@
 {
- "date": "2026-09-18",
- "generated_at": "2026-09-19T02:15:49.339099+00:00",
+ "date": "2026-09-19",
+ "generated_at": "2026-09-19T03:45:53.151319+00:00",
  "assets": [
   {
-   "symbol": "F",
-   "name": null,
-   "sigma": 29.55,
-   "from_btc_pct": 36,
-   "verdict": "Overbought",
-   "file": "F.png"
-  },
-  {
-   "symbol": "C",
-   "name": "Chainbase",
-   "sigma": 14.25,
-   "from_btc_pct": 39,
-   "verdict": "Overbought",
-   "file": "C.png"
-  },
-  {
-   "symbol": "APT",
-   "name": "Aptos",
-   "sigma": 8.82,
-   "from_btc_pct": 40,
-   "verdict": "Strong Uptrend",
-   "file": "APT.png"
-  },
-  {
-   "symbol": "STRK",
-   "name": "Starknet",
-   "sigma": 7.63,
-   "from_btc_pct": 39,
-   "verdict": "Overbought",
-   "file": "STRK.png"
-  },
-  {
-   "symbol": "G",
-   "name": "Gravity (by Galxe)",
-   "sigma": 7.42,
-   "from_btc_pct": 2,
-   "verdict": "Overbought",
-   "file": "G.png"
-  },
-  {
-   "symbol": "S",
-   "name": "Sonic",
-   "sigma": 4.94,
-   "from_btc_pct": 37,
-   "verdict": "Overbought",
-   "file": "S.png"
-  },
-  {
-   "symbol": "ZK",
-   "name": "ZKsync",
-   "sigma": 4.86,
-   "from_btc_pct": 34,
-   "verdict": "Overbought",
-   "file": "ZK.png"
-  },
-  {
-   "symbol": "ETHFI",
-   "name": "Ether.fi",
-   "sigma": 4.05,
-   "from_btc_pct": 40,
-   "verdict": "Strong Uptrend",
-   "file": "ETHFI.png"
-  },
-  {
-   "symbol": "STG",
-   "name": "Stargate Finance",
-   "sigma": 3.53,
-   "from_btc_pct": 12,
-   "verdict": "Oversold",
-   "file": "STG.png"
-  },
-  {
-   "symbol": "PENDLE",
-   "name": "Pendle",
-   "sigma": 3.46,
-   "from_btc_pct": 34,
-   "verdict": "Strong Uptrend",
-   "file": "PENDLE.png"
-  },
-  {
-   "symbol": "ZEN",
-   "name": "Horizen",
-   "sigma": 3.43,
-   "from_btc_pct": 34,
-   "verdict": "Overbought",
-   "file": "ZEN.png"
-  },
-  {
-   "symbol": "A",
-   "name": "Vaulta",
-   "sigma": 3.31,
+   "symbol": "XTZ",
+   "name": "Tezos",
+   "sigma": 2.6,
    "from_btc_pct": 40,
    "verdict": "Overbought",
-   "file": "A.png"
+   "file": "XTZ.png"
   }
  ]
 }
