@@ -1,6 +1,6 @@
 {
  "date": "2026-09-19",
- "generated_at": "2026-09-19T03:45:53.151319+00:00",
+ "generated_at": "2026-09-19T05:00:59.151214+00:00",
  "assets": [
   {
    "symbol": "XTZ",
@@ -9,6 +9,14 @@
    "from_btc_pct": 40,
    "verdict": "Overbought",
    "file": "XTZ.png"
+  },
+  {
+   "symbol": "MORPHO",
+   "name": "Morpho",
+   "sigma": 2.51,
+   "from_btc_pct": 9,
+   "verdict": "Strong Uptrend",
+   "file": "MORPHO.png"
   }
  ]
 }
