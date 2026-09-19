@@ -1,7 +1,15 @@
 {
  "date": "2026-09-19",
- "generated_at": "2026-09-19T08:00:57.872520+00:00",
+ "generated_at": "2026-09-19T08:30:55.212482+00:00",
  "assets": [
+  {
+   "symbol": "ZAMA",
+   "name": "Zama",
+   "sigma": 4.43,
+   "from_btc_pct": 36,
+   "verdict": "Strong Uptrend",
+   "file": "ZAMA.png"
+  },
   {
    "symbol": "XTZ",
    "name": "Tezos",
