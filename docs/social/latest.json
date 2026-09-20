@@ -1,6 +1,6 @@
 {
  "date": "2026-09-20",
- "generated_at": "2026-09-20T17:30:48.891021+00:00",
+ "generated_at": "2026-09-20T18:00:55.126193+00:00",
  "assets": [
   {
    "symbol": "FTT",
@@ -43,6 +43,14 @@
    "file": "HBAR.png"
   },
   {
+   "symbol": "C",
+   "name": "Chainbase",
+   "sigma": 4.58,
+   "from_btc_pct": 39,
+   "verdict": "Overbought",
+   "file": "C.png"
+  },
+  {
    "symbol": "ENSO",
    "name": "Enso",
    "sigma": 4.4,
@@ -57,14 +65,6 @@
    "from_btc_pct": 24,
    "verdict": "Neutral",
    "file": "LUNC.png"
-  },
-  {
-   "symbol": "C",
-   "name": "Chainbase",
-   "sigma": 3.47,
-   "from_btc_pct": 40,
-   "verdict": "Overbought",
-   "file": "C.png"
   },
   {
    "symbol": "ALGO",
