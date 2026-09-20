@@ -1,6 +1,6 @@
 {
  "date": "2026-09-20",
- "generated_at": "2026-09-20T19:15:53.040665+00:00",
+ "generated_at": "2026-09-20T19:45:47.119512+00:00",
  "assets": [
   {
    "symbol": "FTT",
@@ -75,12 +75,12 @@
    "file": "GENIUS.png"
   },
   {
-   "symbol": "AVAX",
-   "name": "Avalanche",
-   "sigma": 3.12,
-   "from_btc_pct": 19,
+   "symbol": "NEAR",
+   "name": "NEAR Protocol",
+   "sigma": 3.14,
+   "from_btc_pct": 23,
    "verdict": "Strong Uptrend",
-   "file": "AVAX.png"
+   "file": "NEAR.png"
   },
   {
    "symbol": "S",
@@ -91,12 +91,12 @@
    "file": "S.png"
   },
   {
-   "symbol": "ALGO",
-   "name": "Algorand",
-   "sigma": 2.92,
-   "from_btc_pct": 27,
-   "verdict": "Overbought",
-   "file": "ALGO.png"
+   "symbol": "AVAX",
+   "name": "Avalanche",
+   "sigma": 2.91,
+   "from_btc_pct": 20,
+   "verdict": "Strong Uptrend",
+   "file": "AVAX.png"
   }
  ]
 }
