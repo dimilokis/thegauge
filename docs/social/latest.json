@@ -1,7 +1,15 @@
 {
  "date": "2026-09-20",
- "generated_at": "2026-09-20T16:18:46.297509+00:00",
+ "generated_at": "2026-09-20T16:30:57.647593+00:00",
  "assets": [
+  {
+   "symbol": "LUNA",
+   "name": "Terra",
+   "sigma": 13.26,
+   "from_btc_pct": 6,
+   "verdict": "Overbought",
+   "file": "LUNA.png"
+  },
   {
    "symbol": "GUN",
    "name": "Gunz",
@@ -33,6 +41,14 @@
    "from_btc_pct": 2,
    "verdict": "Overbought",
    "file": "ENSO.png"
+  },
+  {
+   "symbol": "LUNC",
+   "name": "Terra Luna Classic",
+   "sigma": 3.76,
+   "from_btc_pct": 24,
+   "verdict": "Neutral",
+   "file": "LUNC.png"
   },
   {
    "symbol": "C",
@@ -81,22 +97,6 @@
    "from_btc_pct": 0,
    "verdict": "Overbought",
    "file": "GENIUS.png"
-  },
-  {
-   "symbol": "SAGA",
-   "name": "Saga",
-   "sigma": 2.56,
-   "from_btc_pct": 0,
-   "verdict": "Overbought",
-   "file": "SAGA.png"
-  },
-  {
-   "symbol": "NEAR",
-   "name": "NEAR Protocol",
-   "sigma": 2.53,
-   "from_btc_pct": 24,
-   "verdict": "Strong Uptrend",
-   "file": "NEAR.png"
   }
  ]
 }
