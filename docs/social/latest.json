@@ -1,6 +1,6 @@
 {
  "date": "2026-09-20",
- "generated_at": "2026-09-20T07:30:50.430028+00:00",
+ "generated_at": "2026-09-20T08:15:50.783794+00:00",
  "assets": [
   {
    "symbol": "ZIL",
@@ -19,20 +19,20 @@
    "file": "C.png"
   },
   {
-   "symbol": "G",
-   "name": "Gravity (by Galxe)",
-   "sigma": 2.99,
-   "from_btc_pct": 18,
-   "verdict": "Overbought",
-   "file": "G.png"
-  },
-  {
    "symbol": "CTSI",
    "name": "Cartesi",
    "sigma": 2.85,
    "from_btc_pct": 10,
    "verdict": "Overbought",
    "file": "CTSI.png"
+  },
+  {
+   "symbol": "G",
+   "name": "Gravity (by Galxe)",
+   "sigma": 2.7,
+   "from_btc_pct": 23,
+   "verdict": "Overbought",
+   "file": "G.png"
   },
   {
    "symbol": "GENIUS",
