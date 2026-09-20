@@ -1,6 +1,6 @@
 {
  "date": "2026-09-20",
- "generated_at": "2026-09-20T17:15:50.996318+00:00",
+ "generated_at": "2026-09-20T17:30:48.891021+00:00",
  "assets": [
   {
    "symbol": "FTT",
@@ -85,8 +85,8 @@
   {
    "symbol": "AVAX",
    "name": "Avalanche",
-   "sigma": 2.73,
-   "from_btc_pct": 19,
+   "sigma": 2.81,
+   "from_btc_pct": 20,
    "verdict": "Strong Uptrend",
    "file": "AVAX.png"
   },
