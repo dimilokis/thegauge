@@ -1,6 +1,6 @@
 {
  "date": "2026-09-20",
- "generated_at": "2026-09-20T05:15:43.098160+00:00",
+ "generated_at": "2026-09-20T05:30:54.190030+00:00",
  "assets": [
   {
    "symbol": "C",
@@ -17,6 +17,14 @@
    "from_btc_pct": 18,
    "verdict": "Overbought",
    "file": "G.png"
+  },
+  {
+   "symbol": "CTSI",
+   "name": "Cartesi",
+   "sigma": 2.85,
+   "from_btc_pct": 10,
+   "verdict": "Overbought",
+   "file": "CTSI.png"
   },
   {
    "symbol": "GENIUS",
