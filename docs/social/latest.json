@@ -1,6 +1,6 @@
 {
  "date": "2026-09-20",
- "generated_at": "2026-09-20T19:45:47.119512+00:00",
+ "generated_at": "2026-09-20T20:30:50.289441+00:00",
  "assets": [
   {
    "symbol": "FTT",
@@ -25,6 +25,14 @@
    "from_btc_pct": 5,
    "verdict": "Neutral",
    "file": "GUN.png"
+  },
+  {
+   "symbol": "NIL",
+   "name": "Nillion",
+   "sigma": 7.07,
+   "from_btc_pct": 4,
+   "verdict": "Overbought",
+   "file": "NIL.png"
   },
   {
    "symbol": "ZIL",
@@ -89,14 +97,6 @@
    "from_btc_pct": 33,
    "verdict": "Overbought",
    "file": "S.png"
-  },
-  {
-   "symbol": "AVAX",
-   "name": "Avalanche",
-   "sigma": 2.91,
-   "from_btc_pct": 20,
-   "verdict": "Strong Uptrend",
-   "file": "AVAX.png"
   }
  ]
 }
