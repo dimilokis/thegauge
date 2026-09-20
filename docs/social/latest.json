@@ -1,6 +1,6 @@
 {
  "date": "2026-09-20",
- "generated_at": "2026-09-20T05:00:57.021945+00:00",
+ "generated_at": "2026-09-20T05:15:43.098160+00:00",
  "assets": [
   {
    "symbol": "C",
@@ -9,6 +9,22 @@
    "from_btc_pct": 37,
    "verdict": "Overbought",
    "file": "C.png"
+  },
+  {
+   "symbol": "G",
+   "name": "Gravity (by Galxe)",
+   "sigma": 2.99,
+   "from_btc_pct": 18,
+   "verdict": "Overbought",
+   "file": "G.png"
+  },
+  {
+   "symbol": "GENIUS",
+   "name": "Genius",
+   "sigma": 2.58,
+   "from_btc_pct": 0,
+   "verdict": "Overbought",
+   "file": "GENIUS.png"
   }
  ]
 }
