@@ -1,7 +1,15 @@
 {
  "date": "2026-09-20",
- "generated_at": "2026-09-20T16:30:57.647593+00:00",
+ "generated_at": "2026-09-20T17:15:50.996318+00:00",
  "assets": [
+  {
+   "symbol": "FTT",
+   "name": "FTX",
+   "sigma": 19.2,
+   "from_btc_pct": 2,
+   "verdict": "Overbought",
+   "file": "FTT.png"
+  },
   {
    "symbol": "LUNA",
    "name": "Terra",
@@ -89,14 +97,6 @@
    "from_btc_pct": 23,
    "verdict": "Overbought",
    "file": "G.png"
-  },
-  {
-   "symbol": "GENIUS",
-   "name": "Genius",
-   "sigma": 2.58,
-   "from_btc_pct": 0,
-   "verdict": "Overbought",
-   "file": "GENIUS.png"
   }
  ]
 }

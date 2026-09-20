@@ -535,6 +535,10 @@
   "icon": "https://coin-images.coingecko.com/coins/images/54912/large/four.jpg?1742461445",
   "name": "Four"
  },
+ "FTT": {
+  "icon": "https://coin-images.coingecko.com/coins/images/9026/large/F.png",
+  "name": "FTX"
+ },
  "G": {
   "icon": "https://coin-images.coingecko.com/coins/images/39200/large/gravity.jpg?1721020647",
   "name": "Gravity (by Galxe)"
