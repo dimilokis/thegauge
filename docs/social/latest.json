@@ -1,6 +1,6 @@
 {
  "date": "2026-09-20",
- "generated_at": "2026-09-20T15:15:51.145930+00:00",
+ "generated_at": "2026-09-20T16:18:46.297509+00:00",
  "assets": [
   {
    "symbol": "GUN",
@@ -43,6 +43,14 @@
    "file": "C.png"
   },
   {
+   "symbol": "ALGO",
+   "name": "Algorand",
+   "sigma": 2.92,
+   "from_btc_pct": 27,
+   "verdict": "Overbought",
+   "file": "ALGO.png"
+  },
+  {
    "symbol": "CTSI",
    "name": "Cartesi",
    "sigma": 2.85,
@@ -81,6 +89,14 @@
    "from_btc_pct": 0,
    "verdict": "Overbought",
    "file": "SAGA.png"
+  },
+  {
+   "symbol": "NEAR",
+   "name": "NEAR Protocol",
+   "sigma": 2.53,
+   "from_btc_pct": 24,
+   "verdict": "Strong Uptrend",
+   "file": "NEAR.png"
   }
  ]
 }
