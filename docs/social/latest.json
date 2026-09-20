@@ -1,7 +1,15 @@
 {
  "date": "2026-09-20",
- "generated_at": "2026-09-20T08:15:50.783794+00:00",
+ "generated_at": "2026-09-20T09:00:51.806621+00:00",
  "assets": [
+  {
+   "symbol": "GUN",
+   "name": "Gunz",
+   "sigma": 8.53,
+   "from_btc_pct": 5,
+   "verdict": "Neutral",
+   "file": "GUN.png"
+  },
   {
    "symbol": "ZIL",
    "name": "Zilliqa",
