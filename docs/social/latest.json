@@ -1,15 +1,7 @@
 {
  "date": "2026-09-19",
- "generated_at": "2026-09-19T23:00:53.459249+00:00",
+ "generated_at": "2026-09-20T00:45:50.640705+00:00",
  "assets": [
-  {
-   "symbol": "CELR",
-   "name": "Celer Network",
-   "sigma": 10.93,
-   "from_btc_pct": 23,
-   "verdict": "Overbought",
-   "file": "CELR.png"
-  },
   {
    "symbol": "SKL",
    "name": "SKALE",
@@ -57,6 +49,14 @@
    "from_btc_pct": 7,
    "verdict": "Overbought",
    "file": "ESP.png"
+  },
+  {
+   "symbol": "CELR",
+   "name": "Celer Network",
+   "sigma": 3.59,
+   "from_btc_pct": 8,
+   "verdict": "Overbought",
+   "file": "CELR.png"
   },
   {
    "symbol": "FIL",
