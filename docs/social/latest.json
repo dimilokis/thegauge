@@ -1,6 +1,6 @@
 {
  "date": "2026-09-20",
- "generated_at": "2026-09-20T18:15:52.202663+00:00",
+ "generated_at": "2026-09-20T19:15:53.040665+00:00",
  "assets": [
   {
    "symbol": "FTT",
@@ -67,6 +67,14 @@
    "file": "LUNC.png"
   },
   {
+   "symbol": "GENIUS",
+   "name": "Genius",
+   "sigma": 3.29,
+   "from_btc_pct": 0,
+   "verdict": "Overbought",
+   "file": "GENIUS.png"
+  },
+  {
    "symbol": "AVAX",
    "name": "Avalanche",
    "sigma": 3.12,
@@ -75,28 +83,20 @@
    "file": "AVAX.png"
   },
   {
+   "symbol": "S",
+   "name": "Sonic",
+   "sigma": 2.98,
+   "from_btc_pct": 33,
+   "verdict": "Overbought",
+   "file": "S.png"
+  },
+  {
    "symbol": "ALGO",
    "name": "Algorand",
    "sigma": 2.92,
    "from_btc_pct": 27,
    "verdict": "Overbought",
    "file": "ALGO.png"
-  },
-  {
-   "symbol": "CTSI",
-   "name": "Cartesi",
-   "sigma": 2.85,
-   "from_btc_pct": 10,
-   "verdict": "Overbought",
-   "file": "CTSI.png"
-  },
-  {
-   "symbol": "G",
-   "name": "Gravity (by Galxe)",
-   "sigma": 2.7,
-   "from_btc_pct": 23,
-   "verdict": "Overbought",
-   "file": "G.png"
   }
  ]
 }
