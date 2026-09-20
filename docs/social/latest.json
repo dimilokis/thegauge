@@ -1,6 +1,6 @@
 {
  "date": "2026-09-20",
- "generated_at": "2026-09-20T22:00:56.990540+00:00",
+ "generated_at": "2026-09-20T23:00:57.535897+00:00",
  "assets": [
   {
    "symbol": "FTT",
@@ -83,20 +83,20 @@
    "file": "LUNC.png"
   },
   {
+   "symbol": "CFG",
+   "name": "Centrifuge",
+   "sigma": 3.52,
+   "from_btc_pct": 10,
+   "verdict": "Neutral",
+   "file": "CFG.png"
+  },
+  {
    "symbol": "GENIUS",
    "name": "Genius",
    "sigma": 3.29,
    "from_btc_pct": 0,
    "verdict": "Overbought",
    "file": "GENIUS.png"
-  },
-  {
-   "symbol": "SEI",
-   "name": "Sei",
-   "sigma": 3.17,
-   "from_btc_pct": 29,
-   "verdict": "Strong Uptrend",
-   "file": "SEI.png"
   }
  ]
 }
