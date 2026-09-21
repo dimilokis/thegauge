@@ -1,6 +1,6 @@
 {
  "date": "2026-09-21",
- "generated_at": "2026-09-21T12:30:53.779655+00:00",
+ "generated_at": "2026-09-21T13:15:53.746822+00:00",
  "assets": [
   {
    "symbol": "KERNEL",
@@ -45,8 +45,8 @@
   {
    "symbol": "MUBARAK",
    "name": "Mubarak",
-   "sigma": 3.06,
-   "from_btc_pct": 11,
+   "sigma": 3.07,
+   "from_btc_pct": 13,
    "verdict": "Overbought",
    "file": "MUBARAK.png"
   },
@@ -65,6 +65,14 @@
    "from_btc_pct": 37,
    "verdict": "Strong Uptrend",
    "file": "FET.png"
+  },
+  {
+   "symbol": "KMNO",
+   "name": "Kamino",
+   "sigma": 2.7,
+   "from_btc_pct": 16,
+   "verdict": "Overbought",
+   "file": "KMNO.png"
   },
   {
    "symbol": "MINA",
