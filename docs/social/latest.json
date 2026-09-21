@@ -1,102 +1,14 @@
 {
- "date": "2026-09-20",
- "generated_at": "2026-09-20T23:30:17.711787+00:00",
+ "date": "2026-09-21",
+ "generated_at": "2026-09-21T04:15:49.781684+00:00",
  "assets": [
   {
-   "symbol": "FTT",
-   "name": "FTX",
-   "sigma": 19.2,
-   "from_btc_pct": 2,
+   "symbol": "PROVE",
+   "name": "Succinct",
+   "sigma": 2.53,
+   "from_btc_pct": 15,
    "verdict": "Overbought",
-   "file": "FTT.png"
-  },
-  {
-   "symbol": "LUNA",
-   "name": "Terra",
-   "sigma": 13.26,
-   "from_btc_pct": 6,
-   "verdict": "Overbought",
-   "file": "LUNA.png"
-  },
-  {
-   "symbol": "GUN",
-   "name": "Gunz",
-   "sigma": 8.53,
-   "from_btc_pct": 5,
-   "verdict": "Neutral",
-   "file": "GUN.png"
-  },
-  {
-   "symbol": "NIL",
-   "name": "Nillion",
-   "sigma": 7.07,
-   "from_btc_pct": 4,
-   "verdict": "Overbought",
-   "file": "NIL.png"
-  },
-  {
-   "symbol": "ZIL",
-   "name": "Zilliqa",
-   "sigma": 6.17,
-   "from_btc_pct": 4,
-   "verdict": "Overbought",
-   "file": "ZIL.png"
-  },
-  {
-   "symbol": "FF",
-   "name": "Falcon Finance",
-   "sigma": 6.14,
-   "from_btc_pct": 18,
-   "verdict": "Overbought",
-   "file": "FF.png"
-  },
-  {
-   "symbol": "HBAR",
-   "name": "Hedera",
-   "sigma": 4.98,
-   "from_btc_pct": 40,
-   "verdict": "Strong Uptrend",
-   "file": "HBAR.png"
-  },
-  {
-   "symbol": "C",
-   "name": "Chainbase",
-   "sigma": 4.58,
-   "from_btc_pct": 39,
-   "verdict": "Overbought",
-   "file": "C.png"
-  },
-  {
-   "symbol": "ENSO",
-   "name": "Enso",
-   "sigma": 4.4,
-   "from_btc_pct": 2,
-   "verdict": "Overbought",
-   "file": "ENSO.png"
-  },
-  {
-   "symbol": "LUNC",
-   "name": "Terra Luna Classic",
-   "sigma": 3.76,
-   "from_btc_pct": 24,
-   "verdict": "Neutral",
-   "file": "LUNC.png"
-  },
-  {
-   "symbol": "CFG",
-   "name": "Centrifuge",
-   "sigma": 3.52,
-   "from_btc_pct": 10,
-   "verdict": "Neutral",
-   "file": "CFG.png"
-  },
-  {
-   "symbol": "GENIUS",
-   "name": "Genius",
-   "sigma": 3.29,
-   "from_btc_pct": 0,
-   "verdict": "Overbought",
-   "file": "GENIUS.png"
+   "file": "PROVE.png"
   }
  ]
 }
