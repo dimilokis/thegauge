@@ -1,6 +1,6 @@
 {
  "date": "2026-09-21",
- "generated_at": "2026-09-21T13:30:57.346062+00:00",
+ "generated_at": "2026-09-21T14:30:57.191711+00:00",
  "assets": [
   {
    "symbol": "KERNEL",
@@ -41,6 +41,14 @@
    "from_btc_pct": 13,
    "verdict": "Overbought",
    "file": "MUBARAK.png"
+  },
+  {
+   "symbol": "CELR",
+   "name": "Celer Network",
+   "sigma": 2.93,
+   "from_btc_pct": 15,
+   "verdict": "Overbought",
+   "file": "CELR.png"
   },
   {
    "symbol": "ZAMA",
