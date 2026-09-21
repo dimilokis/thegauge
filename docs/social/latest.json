@@ -1,11 +1,11 @@
 {
  "date": "2026-09-21",
- "generated_at": "2026-09-21T04:15:49.781684+00:00",
+ "generated_at": "2026-09-21T05:45:50.919767+00:00",
  "assets": [
   {
    "symbol": "PROVE",
    "name": "Succinct",
-   "sigma": 2.53,
+   "sigma": 3.3,
    "from_btc_pct": 15,
    "verdict": "Overbought",
    "file": "PROVE.png"
