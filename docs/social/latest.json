@@ -1,6 +1,6 @@
 {
  "date": "2026-09-21",
- "generated_at": "2026-09-21T11:00:59.455492+00:00",
+ "generated_at": "2026-09-21T11:15:49.756088+00:00",
  "assets": [
   {
    "symbol": "KERNEL",
@@ -43,12 +43,28 @@
    "file": "PROVE.png"
   },
   {
+   "symbol": "MUBARAK",
+   "name": "Mubarak",
+   "sigma": 3.06,
+   "from_btc_pct": 11,
+   "verdict": "Overbought",
+   "file": "MUBARAK.png"
+  },
+  {
    "symbol": "ZAMA",
    "name": "Zama",
    "sigma": 2.83,
    "from_btc_pct": 28,
    "verdict": "Strong Uptrend",
    "file": "ZAMA.png"
+  },
+  {
+   "symbol": "FET",
+   "name": "Artificial Superintelligence Alliance",
+   "sigma": 2.82,
+   "from_btc_pct": 37,
+   "verdict": "Strong Uptrend",
+   "file": "FET.png"
   },
   {
    "symbol": "MINA",
