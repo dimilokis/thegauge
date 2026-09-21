@@ -1,6 +1,6 @@
 {
  "date": "2026-09-21",
- "generated_at": "2026-09-21T05:45:50.919767+00:00",
+ "generated_at": "2026-09-21T06:30:54.388961+00:00",
  "assets": [
   {
    "symbol": "PROVE",
@@ -9,6 +9,14 @@
    "from_btc_pct": 15,
    "verdict": "Overbought",
    "file": "PROVE.png"
+  },
+  {
+   "symbol": "SEI",
+   "name": "Sei",
+   "sigma": 2.6,
+   "from_btc_pct": 29,
+   "verdict": "Strong Uptrend",
+   "file": "SEI.png"
   }
  ]
 }
