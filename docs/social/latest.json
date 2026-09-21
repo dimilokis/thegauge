@@ -1,6 +1,6 @@
 {
  "date": "2026-09-21",
- "generated_at": "2026-09-21T09:00:58.967579+00:00",
+ "generated_at": "2026-09-21T09:30:54.809228+00:00",
  "assets": [
   {
    "symbol": "KERNEL",
@@ -27,6 +27,14 @@
    "file": "PHA.png"
   },
   {
+   "symbol": "SEI",
+   "name": "Sei",
+   "sigma": 3.33,
+   "from_btc_pct": 38,
+   "verdict": "Strong Uptrend",
+   "file": "SEI.png"
+  },
+  {
    "symbol": "PROVE",
    "name": "Succinct",
    "sigma": 3.3,
@@ -35,12 +43,12 @@
    "file": "PROVE.png"
   },
   {
-   "symbol": "SEI",
-   "name": "Sei",
-   "sigma": 2.6,
+   "symbol": "ZAMA",
+   "name": "Zama",
+   "sigma": 2.98,
    "from_btc_pct": 29,
    "verdict": "Strong Uptrend",
-   "file": "SEI.png"
+   "file": "ZAMA.png"
   },
   {
    "symbol": "MINA",
@@ -49,14 +57,6 @@
    "from_btc_pct": 4,
    "verdict": "Overbought",
    "file": "MINA.png"
-  },
-  {
-   "symbol": "ZAMA",
-   "name": "Zama",
-   "sigma": 2.53,
-   "from_btc_pct": 26,
-   "verdict": "Strong Uptrend",
-   "file": "ZAMA.png"
   }
  ]
 }
