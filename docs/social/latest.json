@@ -1,6 +1,6 @@
 {
  "date": "2026-09-21",
- "generated_at": "2026-09-21T13:15:53.746822+00:00",
+ "generated_at": "2026-09-21T13:30:57.346062+00:00",
  "assets": [
   {
    "symbol": "KERNEL",
@@ -9,14 +9,6 @@
    "from_btc_pct": 27,
    "verdict": "Overbought",
    "file": "KERNEL.png"
-  },
-  {
-   "symbol": "OPG",
-   "name": "OpenGradient",
-   "sigma": 6.08,
-   "from_btc_pct": 10,
-   "verdict": "Overbought",
-   "file": "OPG.png"
   },
   {
    "symbol": "PHA",
@@ -73,6 +65,14 @@
    "from_btc_pct": 16,
    "verdict": "Overbought",
    "file": "KMNO.png"
+  },
+  {
+   "symbol": "OPG",
+   "name": "OpenGradient",
+   "sigma": 2.6,
+   "from_btc_pct": 26,
+   "verdict": "Overbought",
+   "file": "OPG.png"
   },
   {
    "symbol": "MINA",
