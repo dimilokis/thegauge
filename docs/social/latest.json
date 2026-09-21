@@ -1,6 +1,6 @@
 {
  "date": "2026-09-21",
- "generated_at": "2026-09-21T07:45:53.379420+00:00",
+ "generated_at": "2026-09-21T08:01:04.098136+00:00",
  "assets": [
   {
    "symbol": "KERNEL",
@@ -37,7 +37,7 @@
   {
    "symbol": "MINA",
    "name": "Mina Protocol",
-   "sigma": 2.5,
+   "sigma": 2.56,
    "from_btc_pct": 4,
    "verdict": "Overbought",
    "file": "MINA.png"
