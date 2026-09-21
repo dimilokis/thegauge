@@ -1,6 +1,6 @@
 {
  "date": "2026-09-21",
- "generated_at": "2026-09-21T07:30:49.548723+00:00",
+ "generated_at": "2026-09-21T07:45:53.379420+00:00",
  "assets": [
   {
    "symbol": "KERNEL",
@@ -9,6 +9,14 @@
    "from_btc_pct": 27,
    "verdict": "Overbought",
    "file": "KERNEL.png"
+  },
+  {
+   "symbol": "OPG",
+   "name": "OpenGradient",
+   "sigma": 6.08,
+   "from_btc_pct": 10,
+   "verdict": "Overbought",
+   "file": "OPG.png"
   },
   {
    "symbol": "PROVE",
