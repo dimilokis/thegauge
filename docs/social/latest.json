@@ -1,7 +1,15 @@
 {
  "date": "2026-09-21",
- "generated_at": "2026-09-21T15:30:58.869630+00:00",
+ "generated_at": "2026-09-21T16:30:54.479102+00:00",
  "assets": [
+  {
+   "symbol": "FORM",
+   "name": "Four",
+   "sigma": 8.97,
+   "from_btc_pct": 17,
+   "verdict": "Overbought",
+   "file": "FORM.png"
+  },
   {
    "symbol": "KERNEL",
    "name": "KernelDAO",
