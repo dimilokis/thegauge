@@ -1,6 +1,6 @@
 {
  "date": "2026-09-21",
- "generated_at": "2026-09-21T14:30:57.191711+00:00",
+ "generated_at": "2026-09-21T15:15:55.563576+00:00",
  "assets": [
   {
    "symbol": "KERNEL",
@@ -51,20 +51,20 @@
    "file": "CELR.png"
   },
   {
-   "symbol": "ZAMA",
-   "name": "Zama",
-   "sigma": 2.83,
-   "from_btc_pct": 28,
-   "verdict": "Strong Uptrend",
-   "file": "ZAMA.png"
-  },
-  {
    "symbol": "FET",
    "name": "Artificial Superintelligence Alliance",
    "sigma": 2.82,
    "from_btc_pct": 37,
    "verdict": "Strong Uptrend",
    "file": "FET.png"
+  },
+  {
+   "symbol": "ZAMA",
+   "name": "Zama",
+   "sigma": 2.78,
+   "from_btc_pct": 30,
+   "verdict": "Strong Uptrend",
+   "file": "ZAMA.png"
   },
   {
    "symbol": "KMNO",
