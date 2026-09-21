@@ -1,6 +1,6 @@
 {
  "date": "2026-09-21",
- "generated_at": "2026-09-21T11:15:49.756088+00:00",
+ "generated_at": "2026-09-21T12:00:58.679401+00:00",
  "assets": [
   {
    "symbol": "KERNEL",
@@ -35,20 +35,20 @@
    "file": "SEI.png"
   },
   {
-   "symbol": "PROVE",
-   "name": "Succinct",
-   "sigma": 3.3,
-   "from_btc_pct": 15,
-   "verdict": "Overbought",
-   "file": "PROVE.png"
-  },
-  {
    "symbol": "MUBARAK",
    "name": "Mubarak",
    "sigma": 3.06,
    "from_btc_pct": 11,
    "verdict": "Overbought",
    "file": "MUBARAK.png"
+  },
+  {
+   "symbol": "PROVE",
+   "name": "Succinct",
+   "sigma": 3.03,
+   "from_btc_pct": 25,
+   "verdict": "Overbought",
+   "file": "PROVE.png"
   },
   {
    "symbol": "ZAMA",
