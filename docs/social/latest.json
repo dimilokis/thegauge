@@ -1,7 +1,15 @@
 {
  "date": "2026-09-21",
- "generated_at": "2026-09-21T07:01:02.791941+00:00",
+ "generated_at": "2026-09-21T07:30:49.548723+00:00",
  "assets": [
+  {
+   "symbol": "KERNEL",
+   "name": "KernelDAO",
+   "sigma": 6.99,
+   "from_btc_pct": 27,
+   "verdict": "Overbought",
+   "file": "KERNEL.png"
+  },
   {
    "symbol": "PROVE",
    "name": "Succinct",
