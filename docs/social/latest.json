@@ -1,6 +1,6 @@
 {
  "date": "2026-09-21",
- "generated_at": "2026-09-21T08:01:04.098136+00:00",
+ "generated_at": "2026-09-21T08:45:45.802844+00:00",
  "assets": [
   {
    "symbol": "KERNEL",
@@ -41,6 +41,14 @@
    "from_btc_pct": 4,
    "verdict": "Overbought",
    "file": "MINA.png"
+  },
+  {
+   "symbol": "ZAMA",
+   "name": "Zama",
+   "sigma": 2.53,
+   "from_btc_pct": 26,
+   "verdict": "Strong Uptrend",
+   "file": "ZAMA.png"
   }
  ]
 }
