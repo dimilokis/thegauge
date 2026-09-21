@@ -1,6 +1,6 @@
 {
  "date": "2026-09-21",
- "generated_at": "2026-09-21T16:30:54.479102+00:00",
+ "generated_at": "2026-09-21T18:01:00.309287+00:00",
  "assets": [
   {
    "symbol": "FORM",
@@ -35,6 +35,14 @@
    "file": "PROVE.png"
   },
   {
+   "symbol": "FET",
+   "name": "Artificial Superintelligence Alliance",
+   "sigma": 3.18,
+   "from_btc_pct": 40,
+   "verdict": "Strong Uptrend",
+   "file": "FET.png"
+  },
+  {
    "symbol": "MUBARAK",
    "name": "Mubarak",
    "sigma": 3.07,
@@ -57,14 +65,6 @@
    "from_btc_pct": 15,
    "verdict": "Overbought",
    "file": "CELR.png"
-  },
-  {
-   "symbol": "FET",
-   "name": "Artificial Superintelligence Alliance",
-   "sigma": 2.82,
-   "from_btc_pct": 37,
-   "verdict": "Strong Uptrend",
-   "file": "FET.png"
   },
   {
    "symbol": "ZAMA",
