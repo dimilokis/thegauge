@@ -1,6 +1,6 @@
 {
  "date": "2026-09-21",
- "generated_at": "2026-09-21T06:30:54.388961+00:00",
+ "generated_at": "2026-09-21T07:01:02.791941+00:00",
  "assets": [
   {
    "symbol": "PROVE",
@@ -17,6 +17,14 @@
    "from_btc_pct": 29,
    "verdict": "Strong Uptrend",
    "file": "SEI.png"
+  },
+  {
+   "symbol": "MINA",
+   "name": "Mina Protocol",
+   "sigma": 2.5,
+   "from_btc_pct": 4,
+   "verdict": "Overbought",
+   "file": "MINA.png"
   }
  ]
 }
