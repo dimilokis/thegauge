@@ -1,11 +1,11 @@
 {
  "date": "2026-09-21",
- "generated_at": "2026-09-21T21:15:51.673678+00:00",
+ "generated_at": "2026-09-21T22:00:58.695504+00:00",
  "assets": [
   {
    "symbol": "PHA",
    "name": "PHALA",
-   "sigma": 11.35,
+   "sigma": 10.96,
    "from_btc_pct": 40,
    "verdict": "Overbought",
    "file": "PHA.png"
