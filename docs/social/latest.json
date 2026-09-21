@@ -1,6 +1,6 @@
 {
  "date": "2026-09-21",
- "generated_at": "2026-09-21T09:30:54.809228+00:00",
+ "generated_at": "2026-09-21T11:00:59.455492+00:00",
  "assets": [
   {
    "symbol": "KERNEL",
@@ -45,8 +45,8 @@
   {
    "symbol": "ZAMA",
    "name": "Zama",
-   "sigma": 2.98,
-   "from_btc_pct": 29,
+   "sigma": 2.83,
+   "from_btc_pct": 28,
    "verdict": "Strong Uptrend",
    "file": "ZAMA.png"
   },
