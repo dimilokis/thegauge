@@ -1,15 +1,7 @@
 {
  "date": "2026-09-22",
- "generated_at": "2026-09-22T09:45:58.142545+00:00",
+ "generated_at": "2026-09-22T10:46:01.043801+00:00",
  "assets": [
-  {
-   "symbol": "BROCCOLI714",
-   "name": null,
-   "sigma": 3.43,
-   "from_btc_pct": 18,
-   "verdict": "Overbought",
-   "file": "BROCCOLI714.png"
-  },
   {
    "symbol": "NIL",
    "name": "Nillion",
@@ -33,6 +25,14 @@
    "from_btc_pct": 12,
    "verdict": "Overbought",
    "file": "S.png"
+  },
+  {
+   "symbol": "BROCCOLI714",
+   "name": null,
+   "sigma": 2.84,
+   "from_btc_pct": 19,
+   "verdict": "Overbought",
+   "file": "BROCCOLI714.png"
   }
  ]
 }
