@@ -1,7 +1,23 @@
 {
  "date": "2026-09-22",
- "generated_at": "2026-09-22T09:30:59.219250+00:00",
+ "generated_at": "2026-09-22T09:45:58.142545+00:00",
  "assets": [
+  {
+   "symbol": "BROCCOLI714",
+   "name": null,
+   "sigma": 3.43,
+   "from_btc_pct": 18,
+   "verdict": "Overbought",
+   "file": "BROCCOLI714.png"
+  },
+  {
+   "symbol": "NIL",
+   "name": "Nillion",
+   "sigma": 3.37,
+   "from_btc_pct": 6,
+   "verdict": "Overbought",
+   "file": "NIL.png"
+  },
   {
    "symbol": "MUBARAK",
    "name": "Mubarak",
