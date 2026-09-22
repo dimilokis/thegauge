@@ -1,6 +1,6 @@
 {
  "date": "2026-09-22",
- "generated_at": "2026-09-22T16:45:57.042673+00:00",
+ "generated_at": "2026-09-22T19:01:05.758148+00:00",
  "assets": [
   {
    "symbol": "CHR",
@@ -9,14 +9,6 @@
    "from_btc_pct": 7,
    "verdict": "Overbought",
    "file": "CHR.png"
-  },
-  {
-   "symbol": "BTTC",
-   "name": null,
-   "sigma": 10.19,
-   "from_btc_pct": 6,
-   "verdict": "Overbought",
-   "file": "BTTC.png"
   },
   {
    "symbol": "ZRO",
@@ -33,6 +25,14 @@
    "from_btc_pct": 32,
    "verdict": "Strong Uptrend",
    "file": "BCH.png"
+  },
+  {
+   "symbol": "BTTC",
+   "name": null,
+   "sigma": 3.95,
+   "from_btc_pct": 19,
+   "verdict": "Overbought",
+   "file": "BTTC.png"
   },
   {
    "symbol": "NIL",
