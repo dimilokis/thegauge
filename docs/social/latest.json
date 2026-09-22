@@ -1,6 +1,6 @@
 {
  "date": "2026-09-22",
- "generated_at": "2026-09-22T22:00:58.603208+00:00",
+ "generated_at": "2026-09-22T22:45:56.341831+00:00",
  "assets": [
   {
    "symbol": "CHR",
@@ -75,6 +75,14 @@
    "file": "S.png"
   },
   {
+   "symbol": "TIA",
+   "name": "Celestia",
+   "sigma": 2.92,
+   "from_btc_pct": 25,
+   "verdict": "Strong Uptrend",
+   "file": "TIA.png"
+  },
+  {
    "symbol": "BROCCOLI714",
    "name": null,
    "sigma": 2.84,
@@ -89,14 +97,6 @@
    "from_btc_pct": 6,
    "verdict": "Overbought",
    "file": "TST.png"
-  },
-  {
-   "symbol": "TIA",
-   "name": "Celestia",
-   "sigma": 2.64,
-   "from_btc_pct": 26,
-   "verdict": "Strong Uptrend",
-   "file": "TIA.png"
   }
  ]
 }
