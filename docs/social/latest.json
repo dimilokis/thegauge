@@ -1,6 +1,6 @@
 {
  "date": "2026-09-22",
- "generated_at": "2026-09-22T09:00:58.900524+00:00",
+ "generated_at": "2026-09-22T09:30:59.219250+00:00",
  "assets": [
   {
    "symbol": "MUBARAK",
@@ -9,6 +9,14 @@
    "from_btc_pct": 11,
    "verdict": "Overbought",
    "file": "MUBARAK.png"
+  },
+  {
+   "symbol": "S",
+   "name": "Sonic",
+   "sigma": 2.94,
+   "from_btc_pct": 12,
+   "verdict": "Overbought",
+   "file": "S.png"
   }
  ]
 }
