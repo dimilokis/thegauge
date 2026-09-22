@@ -1,6 +1,6 @@
 {
  "date": "2026-09-22",
- "generated_at": "2026-09-22T20:11:35.779158+00:00",
+ "generated_at": "2026-09-22T20:46:32.752947+00:00",
  "assets": [
   {
    "symbol": "CHR",
@@ -9,6 +9,14 @@
    "from_btc_pct": 7,
    "verdict": "Overbought",
    "file": "CHR.png"
+  },
+  {
+   "symbol": "PENGU",
+   "name": "Pudgy Penguins",
+   "sigma": 4.33,
+   "from_btc_pct": 39,
+   "verdict": "Strong Uptrend",
+   "file": "PENGU.png"
   },
   {
    "symbol": "ZRO",
@@ -89,14 +97,6 @@
    "from_btc_pct": 6,
    "verdict": "Overbought",
    "file": "TST.png"
-  },
-  {
-   "symbol": "PROVE",
-   "name": "Succinct",
-   "sigma": 2.6,
-   "from_btc_pct": 18,
-   "verdict": "Overbought",
-   "file": "PROVE.png"
   }
  ]
 }
