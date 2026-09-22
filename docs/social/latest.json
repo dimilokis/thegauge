@@ -1,6 +1,6 @@
 {
  "date": "2026-09-22",
- "generated_at": "2026-09-22T22:45:56.341831+00:00",
+ "generated_at": "2026-09-22T23:01:05.677190+00:00",
  "assets": [
   {
    "symbol": "CHR",
@@ -91,12 +91,12 @@
    "file": "BROCCOLI714.png"
   },
   {
-   "symbol": "TST",
-   "name": "Test",
-   "sigma": 2.65,
-   "from_btc_pct": 6,
-   "verdict": "Overbought",
-   "file": "TST.png"
+   "symbol": "UNI",
+   "name": "Uniswap",
+   "sigma": 2.76,
+   "from_btc_pct": 14,
+   "verdict": "Strong Uptrend",
+   "file": "UNI.png"
   }
  ]
 }
