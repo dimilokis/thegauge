@@ -1,6 +1,6 @@
 {
  "date": "2026-09-22",
- "generated_at": "2026-09-22T21:15:56.492610+00:00",
+ "generated_at": "2026-09-22T21:31:00.465768+00:00",
  "assets": [
   {
    "symbol": "CHR",
@@ -51,14 +51,6 @@
    "file": "NIL.png"
   },
   {
-   "symbol": "TIA",
-   "name": "Celestia",
-   "sigma": 3.2,
-   "from_btc_pct": 24,
-   "verdict": "Strong Uptrend",
-   "file": "TIA.png"
-  },
-  {
    "symbol": "MINA",
    "name": "Mina Protocol",
    "sigma": 3.09,
@@ -97,6 +89,14 @@
    "from_btc_pct": 6,
    "verdict": "Overbought",
    "file": "TST.png"
+  },
+  {
+   "symbol": "TIA",
+   "name": "Celestia",
+   "sigma": 2.64,
+   "from_btc_pct": 26,
+   "verdict": "Strong Uptrend",
+   "file": "TIA.png"
   }
  ]
 }
