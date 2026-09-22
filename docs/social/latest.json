@@ -1,6 +1,6 @@
 {
  "date": "2026-09-22",
- "generated_at": "2026-09-22T12:45:59.527428+00:00",
+ "generated_at": "2026-09-22T13:01:07.853042+00:00",
  "assets": [
   {
    "symbol": "BTTC",
@@ -9,6 +9,14 @@
    "from_btc_pct": 6,
    "verdict": "Overbought",
    "file": "BTTC.png"
+  },
+  {
+   "symbol": "BCH",
+   "name": "Bitcoin Cash",
+   "sigma": 4.03,
+   "from_btc_pct": 32,
+   "verdict": "Strong Uptrend",
+   "file": "BCH.png"
   },
   {
    "symbol": "NIL",
