@@ -1,6 +1,6 @@
 {
  "date": "2026-09-22",
- "generated_at": "2026-09-22T23:01:05.677190+00:00",
+ "generated_at": "2026-09-22T23:15:53.063558+00:00",
  "assets": [
   {
    "symbol": "CHR",
@@ -43,14 +43,6 @@
    "file": "BTTC.png"
   },
   {
-   "symbol": "NIL",
-   "name": "Nillion",
-   "sigma": 3.35,
-   "from_btc_pct": 7,
-   "verdict": "Overbought",
-   "file": "NIL.png"
-  },
-  {
    "symbol": "MINA",
    "name": "Mina Protocol",
    "sigma": 3.09,
@@ -75,14 +67,6 @@
    "file": "S.png"
   },
   {
-   "symbol": "TIA",
-   "name": "Celestia",
-   "sigma": 2.92,
-   "from_btc_pct": 25,
-   "verdict": "Strong Uptrend",
-   "file": "TIA.png"
-  },
-  {
    "symbol": "BROCCOLI714",
    "name": null,
    "sigma": 2.84,
@@ -91,12 +75,28 @@
    "file": "BROCCOLI714.png"
   },
   {
+   "symbol": "TIA",
+   "name": "Celestia",
+   "sigma": 2.81,
+   "from_btc_pct": 26,
+   "verdict": "Strong Uptrend",
+   "file": "TIA.png"
+  },
+  {
    "symbol": "UNI",
    "name": "Uniswap",
    "sigma": 2.76,
    "from_btc_pct": 14,
    "verdict": "Strong Uptrend",
    "file": "UNI.png"
+  },
+  {
+   "symbol": "NIL",
+   "name": "Nillion",
+   "sigma": 2.66,
+   "from_btc_pct": 8,
+   "verdict": "Overbought",
+   "file": "NIL.png"
   }
  ]
 }
