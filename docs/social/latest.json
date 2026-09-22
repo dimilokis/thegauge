@@ -1,6 +1,6 @@
 {
  "date": "2026-09-22",
- "generated_at": "2026-09-22T14:01:09.590394+00:00",
+ "generated_at": "2026-09-22T15:01:07.088529+00:00",
  "assets": [
   {
    "symbol": "BTTC",
@@ -27,6 +27,14 @@
    "file": "NIL.png"
   },
   {
+   "symbol": "MINA",
+   "name": "Mina Protocol",
+   "sigma": 3.09,
+   "from_btc_pct": 5,
+   "verdict": "Overbought",
+   "file": "MINA.png"
+  },
+  {
    "symbol": "MUBARAK",
    "name": "Mubarak",
    "sigma": 2.97,
@@ -49,6 +57,14 @@
    "from_btc_pct": 19,
    "verdict": "Overbought",
    "file": "BROCCOLI714.png"
+  },
+  {
+   "symbol": "PROVE",
+   "name": "Succinct",
+   "sigma": 2.68,
+   "from_btc_pct": 18,
+   "verdict": "Overbought",
+   "file": "PROVE.png"
   },
   {
    "symbol": "KITE",
