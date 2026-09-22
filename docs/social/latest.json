@@ -1,7 +1,15 @@
 {
  "date": "2026-09-22",
- "generated_at": "2026-09-22T16:31:01.828508+00:00",
+ "generated_at": "2026-09-22T16:45:57.042673+00:00",
  "assets": [
+  {
+   "symbol": "CHR",
+   "name": "Chromia",
+   "sigma": 13.05,
+   "from_btc_pct": 7,
+   "verdict": "Overbought",
+   "file": "CHR.png"
+  },
   {
    "symbol": "BTTC",
    "name": null,
@@ -73,6 +81,14 @@
    "from_btc_pct": 18,
    "verdict": "Overbought",
    "file": "PROVE.png"
+  },
+  {
+   "symbol": "TST",
+   "name": "Test",
+   "sigma": 2.65,
+   "from_btc_pct": 6,
+   "verdict": "Overbought",
+   "file": "TST.png"
   },
   {
    "symbol": "KITE",
