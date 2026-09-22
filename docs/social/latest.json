@@ -1,102 +1,14 @@
 {
- "date": "2026-09-21",
- "generated_at": "2026-09-22T01:15:51.438592+00:00",
+ "date": "2026-09-22",
+ "generated_at": "2026-09-22T06:01:02.811393+00:00",
  "assets": [
-  {
-   "symbol": "PHA",
-   "name": "PHALA",
-   "sigma": 10.96,
-   "from_btc_pct": 40,
-   "verdict": "Overbought",
-   "file": "PHA.png"
-  },
-  {
-   "symbol": "KERNEL",
-   "name": "KernelDAO",
-   "sigma": 10.81,
-   "from_btc_pct": 18,
-   "verdict": "Overbought",
-   "file": "KERNEL.png"
-  },
-  {
-   "symbol": "FORM",
-   "name": "Four",
-   "sigma": 8.97,
-   "from_btc_pct": 17,
-   "verdict": "Overbought",
-   "file": "FORM.png"
-  },
-  {
-   "symbol": "FET",
-   "name": "Artificial Superintelligence Alliance",
-   "sigma": 3.18,
-   "from_btc_pct": 40,
-   "verdict": "Strong Uptrend",
-   "file": "FET.png"
-  },
   {
    "symbol": "MUBARAK",
    "name": "Mubarak",
-   "sigma": 3.07,
-   "from_btc_pct": 13,
+   "sigma": 3.49,
+   "from_btc_pct": 8,
    "verdict": "Overbought",
    "file": "MUBARAK.png"
-  },
-  {
-   "symbol": "SEI",
-   "name": "Sei",
-   "sigma": 3.07,
-   "from_btc_pct": 40,
-   "verdict": "Strong Uptrend",
-   "file": "SEI.png"
-  },
-  {
-   "symbol": "PROVE",
-   "name": "Succinct",
-   "sigma": 3.05,
-   "from_btc_pct": 27,
-   "verdict": "Overbought",
-   "file": "PROVE.png"
-  },
-  {
-   "symbol": "CELR",
-   "name": "Celer Network",
-   "sigma": 2.93,
-   "from_btc_pct": 15,
-   "verdict": "Overbought",
-   "file": "CELR.png"
-  },
-  {
-   "symbol": "ZAMA",
-   "name": "Zama",
-   "sigma": 2.78,
-   "from_btc_pct": 30,
-   "verdict": "Strong Uptrend",
-   "file": "ZAMA.png"
-  },
-  {
-   "symbol": "KMNO",
-   "name": "Kamino",
-   "sigma": 2.7,
-   "from_btc_pct": 16,
-   "verdict": "Overbought",
-   "file": "KMNO.png"
-  },
-  {
-   "symbol": "OPG",
-   "name": "OpenGradient",
-   "sigma": 2.6,
-   "from_btc_pct": 26,
-   "verdict": "Overbought",
-   "file": "OPG.png"
-  },
-  {
-   "symbol": "MINA",
-   "name": "Mina Protocol",
-   "sigma": 2.56,
-   "from_btc_pct": 4,
-   "verdict": "Overbought",
-   "file": "MINA.png"
   }
  ]
 }
