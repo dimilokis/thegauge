@@ -1,6 +1,6 @@
 {
  "date": "2026-09-22",
- "generated_at": "2026-09-22T15:31:10.243033+00:00",
+ "generated_at": "2026-09-22T16:31:01.828508+00:00",
  "assets": [
   {
    "symbol": "BTTC",
@@ -9,6 +9,14 @@
    "from_btc_pct": 6,
    "verdict": "Overbought",
    "file": "BTTC.png"
+  },
+  {
+   "symbol": "ZRO",
+   "name": "LayerZero",
+   "sigma": 4.24,
+   "from_btc_pct": 9,
+   "verdict": "Strong Uptrend",
+   "file": "ZRO.png"
   },
   {
    "symbol": "BCH",
