@@ -1,6 +1,6 @@
 {
  "date": "2026-09-22",
- "generated_at": "2026-09-22T12:31:01.848097+00:00",
+ "generated_at": "2026-09-22T12:45:59.527428+00:00",
  "assets": [
   {
    "symbol": "BTTC",
@@ -17,6 +17,14 @@
    "from_btc_pct": 7,
    "verdict": "Overbought",
    "file": "NIL.png"
+  },
+  {
+   "symbol": "KITE",
+   "name": "Kite",
+   "sigma": 3.18,
+   "from_btc_pct": 4,
+   "verdict": "Strong Uptrend",
+   "file": "KITE.png"
   },
   {
    "symbol": "MUBARAK",
