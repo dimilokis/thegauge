@@ -1,6 +1,6 @@
 {
  "date": "2026-09-22",
- "generated_at": "2026-09-22T20:01:14.317148+00:00",
+ "generated_at": "2026-09-22T20:11:35.779158+00:00",
  "assets": [
   {
    "symbol": "CHR",
@@ -83,20 +83,20 @@
    "file": "BROCCOLI714.png"
   },
   {
-   "symbol": "PROVE",
-   "name": "Succinct",
-   "sigma": 2.68,
-   "from_btc_pct": 18,
-   "verdict": "Overbought",
-   "file": "PROVE.png"
-  },
-  {
    "symbol": "TST",
    "name": "Test",
    "sigma": 2.65,
    "from_btc_pct": 6,
    "verdict": "Overbought",
    "file": "TST.png"
+  },
+  {
+   "symbol": "PROVE",
+   "name": "Succinct",
+   "sigma": 2.6,
+   "from_btc_pct": 18,
+   "verdict": "Overbought",
+   "file": "PROVE.png"
   }
  ]
 }
