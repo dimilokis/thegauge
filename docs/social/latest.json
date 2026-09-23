@@ -1,6 +1,6 @@
 {
  "date": "2026-09-23",
- "generated_at": "2026-09-23T21:45:54.760630+00:00",
+ "generated_at": "2026-09-23T22:00:56.910359+00:00",
  "assets": [
   {
    "symbol": "SUPER",
@@ -51,14 +51,6 @@
    "file": "FIL.png"
   },
   {
-   "symbol": "DOT",
-   "name": "Polkadot",
-   "sigma": 2.62,
-   "from_btc_pct": 11,
-   "verdict": "Neutral",
-   "file": "DOT.png"
-  },
-  {
    "symbol": "SAGA",
    "name": "Saga",
    "sigma": 2.6,
@@ -81,6 +73,14 @@
    "from_btc_pct": 21,
    "verdict": "Neutral",
    "file": "ATOM.png"
+  },
+  {
+   "symbol": "DOT",
+   "name": "Polkadot",
+   "sigma": 2.56,
+   "from_btc_pct": 10,
+   "verdict": "Neutral",
+   "file": "DOT.png"
   },
   {
    "symbol": "MET",
