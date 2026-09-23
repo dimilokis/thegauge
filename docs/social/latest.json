@@ -1,6 +1,6 @@
 {
  "date": "2026-09-23",
- "generated_at": "2026-09-23T22:15:49.174620+00:00",
+ "generated_at": "2026-09-23T22:30:59.222741+00:00",
  "assets": [
   {
    "symbol": "SUPER",
@@ -35,6 +35,14 @@
    "file": "NIL.png"
   },
   {
+   "symbol": "ZEN",
+   "name": "Horizen",
+   "sigma": 2.67,
+   "from_btc_pct": 16,
+   "verdict": "Overbought",
+   "file": "ZEN.png"
+  },
+  {
    "symbol": "ASTER",
    "name": "Aster",
    "sigma": 2.63,
@@ -43,12 +51,12 @@
    "file": "ASTER.png"
   },
   {
-   "symbol": "FIL",
-   "name": "Filecoin",
-   "sigma": 2.63,
-   "from_btc_pct": 13,
-   "verdict": "Strong Uptrend",
-   "file": "FIL.png"
+   "symbol": "DOT",
+   "name": "Polkadot",
+   "sigma": 2.59,
+   "from_btc_pct": 10,
+   "verdict": "Neutral",
+   "file": "DOT.png"
   },
   {
    "symbol": "WLD",
@@ -59,20 +67,20 @@
    "file": "WLD.png"
   },
   {
+   "symbol": "FIL",
+   "name": "Filecoin",
+   "sigma": 2.58,
+   "from_btc_pct": 12,
+   "verdict": "Strong Uptrend",
+   "file": "FIL.png"
+  },
+  {
    "symbol": "ATOM",
    "name": "Cosmos Hub",
    "sigma": 2.57,
    "from_btc_pct": 21,
    "verdict": "Neutral",
    "file": "ATOM.png"
-  },
-  {
-   "symbol": "DOT",
-   "name": "Polkadot",
-   "sigma": 2.56,
-   "from_btc_pct": 10,
-   "verdict": "Neutral",
-   "file": "DOT.png"
   },
   {
    "symbol": "SAGA",
@@ -89,14 +97,6 @@
    "from_btc_pct": 29,
    "verdict": "Overbought",
    "file": "MET.png"
-  },
-  {
-   "symbol": "ZEN",
-   "name": "Horizen",
-   "sigma": 2.51,
-   "from_btc_pct": 17,
-   "verdict": "Overbought",
-   "file": "ZEN.png"
   }
  ]
 }
