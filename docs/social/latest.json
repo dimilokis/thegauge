@@ -1,12 +1,12 @@
 {
  "date": "2026-09-23",
- "generated_at": "2026-09-23T03:01:03.187821+00:00",
+ "generated_at": "2026-09-23T04:31:01.556756+00:00",
  "assets": [
   {
    "symbol": "NIL",
    "name": "Nillion",
-   "sigma": 4.02,
-   "from_btc_pct": 6,
+   "sigma": 2.58,
+   "from_btc_pct": 7,
    "verdict": "Overbought",
    "file": "NIL.png"
   }
