@@ -1,6 +1,6 @@
 {
  "date": "2026-09-23",
- "generated_at": "2026-09-23T18:30:54.105165+00:00",
+ "generated_at": "2026-09-23T19:15:57.294682+00:00",
  "assets": [
   {
    "symbol": "SUPER",
@@ -57,6 +57,14 @@
    "from_btc_pct": 36,
    "verdict": "Neutral",
    "file": "WLD.png"
+  },
+  {
+   "symbol": "ATOM",
+   "name": "Cosmos Hub",
+   "sigma": 2.57,
+   "from_btc_pct": 21,
+   "verdict": "Neutral",
+   "file": "ATOM.png"
   },
   {
    "symbol": "MET",
