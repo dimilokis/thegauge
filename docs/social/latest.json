@@ -1,6 +1,6 @@
 {
  "date": "2026-09-23",
- "generated_at": "2026-09-23T18:01:05.103937+00:00",
+ "generated_at": "2026-09-23T18:30:54.105165+00:00",
  "assets": [
   {
    "symbol": "SUPER",
@@ -35,20 +35,20 @@
    "file": "NIL.png"
   },
   {
+   "symbol": "ASTER",
+   "name": "Aster",
+   "sigma": 2.63,
+   "from_btc_pct": 13,
+   "verdict": "Neutral",
+   "file": "ASTER.png"
+  },
+  {
    "symbol": "SAGA",
    "name": "Saga",
    "sigma": 2.61,
    "from_btc_pct": 1,
    "verdict": "Overbought",
    "file": "SAGA.png"
-  },
-  {
-   "symbol": "ASTER",
-   "name": "Aster",
-   "sigma": 2.59,
-   "from_btc_pct": 13,
-   "verdict": "Neutral",
-   "file": "ASTER.png"
   },
   {
    "symbol": "WLD",
