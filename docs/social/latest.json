@@ -1,100 +1,12 @@
 {
- "date": "2026-09-22",
- "generated_at": "2026-09-22T23:45:55.474032+00:00",
+ "date": "2026-09-23",
+ "generated_at": "2026-09-23T03:01:03.187821+00:00",
  "assets": [
-  {
-   "symbol": "CHR",
-   "name": "Chromia",
-   "sigma": 13.05,
-   "from_btc_pct": 7,
-   "verdict": "Overbought",
-   "file": "CHR.png"
-  },
-  {
-   "symbol": "PENGU",
-   "name": "Pudgy Penguins",
-   "sigma": 4.33,
-   "from_btc_pct": 39,
-   "verdict": "Strong Uptrend",
-   "file": "PENGU.png"
-  },
-  {
-   "symbol": "ZRO",
-   "name": "LayerZero",
-   "sigma": 4.24,
-   "from_btc_pct": 9,
-   "verdict": "Strong Uptrend",
-   "file": "ZRO.png"
-  },
-  {
-   "symbol": "BCH",
-   "name": "Bitcoin Cash",
-   "sigma": 4.03,
-   "from_btc_pct": 32,
-   "verdict": "Strong Uptrend",
-   "file": "BCH.png"
-  },
-  {
-   "symbol": "BTTC",
-   "name": null,
-   "sigma": 3.95,
-   "from_btc_pct": 19,
-   "verdict": "Overbought",
-   "file": "BTTC.png"
-  },
-  {
-   "symbol": "MINA",
-   "name": "Mina Protocol",
-   "sigma": 3.09,
-   "from_btc_pct": 5,
-   "verdict": "Overbought",
-   "file": "MINA.png"
-  },
-  {
-   "symbol": "MUBARAK",
-   "name": "Mubarak",
-   "sigma": 2.97,
-   "from_btc_pct": 11,
-   "verdict": "Overbought",
-   "file": "MUBARAK.png"
-  },
-  {
-   "symbol": "S",
-   "name": "Sonic",
-   "sigma": 2.94,
-   "from_btc_pct": 12,
-   "verdict": "Overbought",
-   "file": "S.png"
-  },
-  {
-   "symbol": "BROCCOLI714",
-   "name": null,
-   "sigma": 2.84,
-   "from_btc_pct": 19,
-   "verdict": "Overbought",
-   "file": "BROCCOLI714.png"
-  },
-  {
-   "symbol": "TIA",
-   "name": "Celestia",
-   "sigma": 2.81,
-   "from_btc_pct": 26,
-   "verdict": "Strong Uptrend",
-   "file": "TIA.png"
-  },
-  {
-   "symbol": "UNI",
-   "name": "Uniswap",
-   "sigma": 2.67,
-   "from_btc_pct": 15,
-   "verdict": "Strong Uptrend",
-   "file": "UNI.png"
-  },
   {
    "symbol": "NIL",
    "name": "Nillion",
-   "sigma": 2.66,
-   "from_btc_pct": 8,
+   "sigma": 4.02,
+   "from_btc_pct": 6,
    "verdict": "Overbought",
    "file": "NIL.png"
   }
