@@ -1,6 +1,6 @@
 {
  "date": "2026-09-23",
- "generated_at": "2026-09-23T13:45:47.833955+00:00",
+ "generated_at": "2026-09-23T14:16:00.463158+00:00",
  "assets": [
   {
    "symbol": "SUPER",
@@ -17,6 +17,14 @@
    "from_btc_pct": 5,
    "verdict": "Overbought",
    "file": "NIL.png"
+  },
+  {
+   "symbol": "CHR",
+   "name": "Chromia",
+   "sigma": 2.6,
+   "from_btc_pct": 18,
+   "verdict": "Overbought",
+   "file": "CHR.png"
   },
   {
    "symbol": "SAGA",
