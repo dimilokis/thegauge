@@ -1,6 +1,6 @@
 {
  "date": "2026-09-23",
- "generated_at": "2026-09-23T22:30:59.222741+00:00",
+ "generated_at": "2026-09-23T22:45:55.948683+00:00",
  "assets": [
   {
    "symbol": "SUPER",
@@ -33,6 +33,14 @@
    "from_btc_pct": 4,
    "verdict": "Overbought",
    "file": "NIL.png"
+  },
+  {
+   "symbol": "JTO",
+   "name": "Jito",
+   "sigma": 2.71,
+   "from_btc_pct": 31,
+   "verdict": "Neutral",
+   "file": "JTO.png"
   },
   {
    "symbol": "ZEN",
@@ -89,14 +97,6 @@
    "from_btc_pct": 1,
    "verdict": "Overbought",
    "file": "SAGA.png"
-  },
-  {
-   "symbol": "MET",
-   "name": "Meteora",
-   "sigma": 2.52,
-   "from_btc_pct": 29,
-   "verdict": "Overbought",
-   "file": "MET.png"
   }
  ]
 }
