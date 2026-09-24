@@ -1,102 +1,14 @@
 {
- "date": "2026-09-23",
- "generated_at": "2026-09-24T00:45:50.681415+00:00",
+ "date": "2026-09-24",
+ "generated_at": "2026-09-24T03:15:54.133762+00:00",
  "assets": [
   {
-   "symbol": "SUPER",
-   "name": "SuperVerse",
-   "sigma": 5.62,
-   "from_btc_pct": 40,
-   "verdict": "Overbought",
-   "file": "SUPER.png"
-  },
-  {
-   "symbol": "WLFI",
-   "name": "World Liberty Financial",
-   "sigma": 3.09,
-   "from_btc_pct": 17,
-   "verdict": "Neutral",
-   "file": "WLFI.png"
-  },
-  {
-   "symbol": "CHR",
-   "name": "Chromia",
-   "sigma": 2.72,
-   "from_btc_pct": 18,
-   "verdict": "Overbought",
-   "file": "CHR.png"
-  },
-  {
-   "symbol": "NIL",
-   "name": "Nillion",
-   "sigma": 2.72,
-   "from_btc_pct": 4,
-   "verdict": "Overbought",
-   "file": "NIL.png"
-  },
-  {
-   "symbol": "JTO",
-   "name": "Jito",
-   "sigma": 2.71,
-   "from_btc_pct": 31,
-   "verdict": "Neutral",
-   "file": "JTO.png"
-  },
-  {
-   "symbol": "ZEN",
-   "name": "Horizen",
-   "sigma": 2.67,
-   "from_btc_pct": 16,
-   "verdict": "Overbought",
-   "file": "ZEN.png"
-  },
-  {
-   "symbol": "ASTER",
-   "name": "Aster",
-   "sigma": 2.63,
-   "from_btc_pct": 13,
-   "verdict": "Neutral",
-   "file": "ASTER.png"
-  },
-  {
-   "symbol": "NOM",
-   "name": "Nomina",
-   "sigma": 2.61,
-   "from_btc_pct": 3,
-   "verdict": "Overbought",
-   "file": "NOM.png"
-  },
-  {
-   "symbol": "DOT",
-   "name": "Polkadot",
-   "sigma": 2.59,
-   "from_btc_pct": 10,
-   "verdict": "Neutral",
-   "file": "DOT.png"
-  },
-  {
-   "symbol": "WLD",
-   "name": "Worldcoin",
-   "sigma": 2.58,
+   "symbol": "LTC",
+   "name": "Litecoin",
+   "sigma": 3.43,
    "from_btc_pct": 36,
-   "verdict": "Neutral",
-   "file": "WLD.png"
-  },
-  {
-   "symbol": "FIL",
-   "name": "Filecoin",
-   "sigma": 2.58,
-   "from_btc_pct": 12,
    "verdict": "Strong Uptrend",
-   "file": "FIL.png"
-  },
-  {
-   "symbol": "ATOM",
-   "name": "Cosmos Hub",
-   "sigma": 2.57,
-   "from_btc_pct": 21,
-   "verdict": "Neutral",
-   "file": "ATOM.png"
+   "file": "LTC.png"
   }
  ]
 }
