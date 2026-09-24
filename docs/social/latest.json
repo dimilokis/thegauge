@@ -1,6 +1,6 @@
 {
  "date": "2026-09-24",
- "generated_at": "2026-09-24T19:00:58.427342+00:00",
+ "generated_at": "2026-09-24T19:15:53.772007+00:00",
  "assets": [
   {
    "symbol": "XAI",
@@ -67,6 +67,14 @@
    "file": "NOM.png"
   },
   {
+   "symbol": "LDO",
+   "name": "Lido DAO",
+   "sigma": 2.85,
+   "from_btc_pct": 40,
+   "verdict": "Strong Uptrend",
+   "file": "LDO.png"
+  },
+  {
    "symbol": "CAKE",
    "name": "PancakeSwap",
    "sigma": 2.82,
@@ -89,14 +97,6 @@
    "from_btc_pct": 39,
    "verdict": "Strong Uptrend",
    "file": "ONDO.png"
-  },
-  {
-   "symbol": "ETC",
-   "name": "Ethereum Classic",
-   "sigma": 2.7,
-   "from_btc_pct": 29,
-   "verdict": "Overbought",
-   "file": "ETC.png"
   }
  ]
 }
