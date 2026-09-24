@@ -1,6 +1,6 @@
 {
  "date": "2026-09-24",
- "generated_at": "2026-09-24T08:15:54.374011+00:00",
+ "generated_at": "2026-09-24T08:30:57.983294+00:00",
  "assets": [
   {
    "symbol": "NOM",
@@ -33,6 +33,14 @@
    "from_btc_pct": 15,
    "verdict": "Overbought",
    "file": "BOME.png"
+  },
+  {
+   "symbol": "PLUME",
+   "name": "Plume",
+   "sigma": 2.51,
+   "from_btc_pct": 36,
+   "verdict": "Overbought",
+   "file": "PLUME.png"
   }
  ]
 }
