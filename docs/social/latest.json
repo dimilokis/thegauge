@@ -1,6 +1,6 @@
 {
  "date": "2026-09-24",
- "generated_at": "2026-09-24T13:45:52.024192+00:00",
+ "generated_at": "2026-09-24T14:01:05.288113+00:00",
  "assets": [
   {
    "symbol": "NOM",
@@ -53,8 +53,8 @@
   {
    "symbol": "ETC",
    "name": "Ethereum Classic",
-   "sigma": 2.74,
-   "from_btc_pct": 26,
+   "sigma": 2.7,
+   "from_btc_pct": 29,
    "verdict": "Overbought",
    "file": "ETC.png"
   },
