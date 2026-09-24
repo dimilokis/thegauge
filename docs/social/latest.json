@@ -1,7 +1,15 @@
 {
  "date": "2026-09-24",
- "generated_at": "2026-09-24T04:01:29.854709+00:00",
+ "generated_at": "2026-09-24T05:45:49.238870+00:00",
  "assets": [
+  {
+   "symbol": "NOM",
+   "name": "Nomina",
+   "sigma": 3.71,
+   "from_btc_pct": 2,
+   "verdict": "Overbought",
+   "file": "NOM.png"
+  },
   {
    "symbol": "LTC",
    "name": "Litecoin",
@@ -9,14 +17,6 @@
    "from_btc_pct": 36,
    "verdict": "Strong Uptrend",
    "file": "LTC.png"
-  },
-  {
-   "symbol": "NOM",
-   "name": "Nomina",
-   "sigma": 2.77,
-   "from_btc_pct": 2,
-   "verdict": "Overbought",
-   "file": "NOM.png"
   }
  ]
 }
