@@ -1,6 +1,6 @@
 {
  "date": "2026-09-24",
- "generated_at": "2026-09-24T12:30:58.500705+00:00",
+ "generated_at": "2026-09-24T13:01:06.107134+00:00",
  "assets": [
   {
    "symbol": "NOM",
@@ -25,6 +25,14 @@
    "from_btc_pct": 10,
    "verdict": "Overbought",
    "file": "BROCCOLI714.png"
+  },
+  {
+   "symbol": "ONDO",
+   "name": "Ondo",
+   "sigma": 2.76,
+   "from_btc_pct": 39,
+   "verdict": "Strong Uptrend",
+   "file": "ONDO.png"
   },
   {
    "symbol": "ETC",
@@ -65,14 +73,6 @@
    "from_btc_pct": 1,
    "verdict": "Overbought",
    "file": "STEEM.png"
-  },
-  {
-   "symbol": "ONDO",
-   "name": "Ondo",
-   "sigma": 2.55,
-   "from_btc_pct": 40,
-   "verdict": "Strong Uptrend",
-   "file": "ONDO.png"
   },
   {
    "symbol": "PHA",
