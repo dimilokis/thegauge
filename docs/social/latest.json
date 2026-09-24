@@ -1,6 +1,6 @@
 {
  "date": "2026-09-24",
- "generated_at": "2026-09-24T05:45:49.238870+00:00",
+ "generated_at": "2026-09-24T06:15:53.304315+00:00",
  "assets": [
   {
    "symbol": "NOM",
@@ -17,6 +17,14 @@
    "from_btc_pct": 36,
    "verdict": "Strong Uptrend",
    "file": "LTC.png"
+  },
+  {
+   "symbol": "BOME",
+   "name": "BOOK OF MEME",
+   "sigma": 2.6,
+   "from_btc_pct": 15,
+   "verdict": "Overbought",
+   "file": "BOME.png"
   }
  ]
 }
