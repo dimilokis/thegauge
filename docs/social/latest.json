@@ -1,6 +1,6 @@
 {
  "date": "2026-09-24",
- "generated_at": "2026-09-24T19:30:55.878299+00:00",
+ "generated_at": "2026-09-24T20:30:53.375681+00:00",
  "assets": [
   {
    "symbol": "QNT",
@@ -17,6 +17,14 @@
    "from_btc_pct": 21,
    "verdict": "Overbought",
    "file": "XAI.png"
+  },
+  {
+   "symbol": "ARK",
+   "name": "ARK",
+   "sigma": 5.1,
+   "from_btc_pct": 9,
+   "verdict": "Overbought",
+   "file": "ARK.png"
   },
   {
    "symbol": "PLUME",
@@ -89,14 +97,6 @@
    "from_btc_pct": 12,
    "verdict": "Overbought",
    "file": "CAKE.png"
-  },
-  {
-   "symbol": "MORPHO",
-   "name": "Morpho",
-   "sigma": 2.81,
-   "from_btc_pct": 10,
-   "verdict": "Strong Uptrend",
-   "file": "MORPHO.png"
   }
  ]
 }
