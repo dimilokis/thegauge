@@ -1,6 +1,6 @@
 {
  "date": "2026-09-24",
- "generated_at": "2026-09-24T10:00:53.544038+00:00",
+ "generated_at": "2026-09-24T10:30:55.334368+00:00",
  "assets": [
   {
    "symbol": "NOM",
@@ -17,6 +17,14 @@
    "from_btc_pct": 36,
    "verdict": "Strong Uptrend",
    "file": "LTC.png"
+  },
+  {
+   "symbol": "BROCCOLI714",
+   "name": null,
+   "sigma": 3.38,
+   "from_btc_pct": 10,
+   "verdict": "Overbought",
+   "file": "BROCCOLI714.png"
   },
   {
    "symbol": "ETC",
