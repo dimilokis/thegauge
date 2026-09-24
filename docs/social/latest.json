@@ -1,15 +1,7 @@
 {
  "date": "2026-09-24",
- "generated_at": "2026-09-24T09:16:28.570963+00:00",
+ "generated_at": "2026-09-24T10:00:53.544038+00:00",
  "assets": [
-  {
-   "symbol": "STEEM",
-   "name": "Steem",
-   "sigma": 4.22,
-   "from_btc_pct": 0,
-   "verdict": "Overbought",
-   "file": "STEEM.png"
-  },
   {
    "symbol": "NOM",
    "name": "Nomina",
@@ -35,20 +27,28 @@
    "file": "ETC.png"
   },
   {
+   "symbol": "PLUME",
+   "name": "Plume",
+   "sigma": 2.67,
+   "from_btc_pct": 33,
+   "verdict": "Overbought",
+   "file": "PLUME.png"
+  },
+  {
+   "symbol": "STEEM",
+   "name": "Steem",
+   "sigma": 2.65,
+   "from_btc_pct": 0,
+   "verdict": "Overbought",
+   "file": "STEEM.png"
+  },
+  {
    "symbol": "BOME",
    "name": "BOOK OF MEME",
    "sigma": 2.6,
    "from_btc_pct": 15,
    "verdict": "Overbought",
    "file": "BOME.png"
-  },
-  {
-   "symbol": "PLUME",
-   "name": "Plume",
-   "sigma": 2.51,
-   "from_btc_pct": 36,
-   "verdict": "Overbought",
-   "file": "PLUME.png"
   }
  ]
 }
