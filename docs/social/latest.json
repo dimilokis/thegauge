@@ -1,6 +1,6 @@
 {
  "date": "2026-09-24",
- "generated_at": "2026-09-24T18:16:35.543827+00:00",
+ "generated_at": "2026-09-24T19:00:58.427342+00:00",
  "assets": [
   {
    "symbol": "XAI",
@@ -51,6 +51,14 @@
    "file": "COMP.png"
   },
   {
+   "symbol": "XPL",
+   "name": "Plasma",
+   "sigma": 3.19,
+   "from_btc_pct": 39,
+   "verdict": "Strong Uptrend",
+   "file": "XPL.png"
+  },
+  {
    "symbol": "NOM",
    "name": "Nomina",
    "sigma": 2.98,
@@ -89,14 +97,6 @@
    "from_btc_pct": 29,
    "verdict": "Overbought",
    "file": "ETC.png"
-  },
-  {
-   "symbol": "BB",
-   "name": "BounceBit",
-   "sigma": 2.67,
-   "from_btc_pct": 28,
-   "verdict": "Neutral",
-   "file": "BB.png"
   }
  ]
 }
