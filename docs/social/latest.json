@@ -1,6 +1,6 @@
 {
  "date": "2026-09-24",
- "generated_at": "2026-09-24T15:15:56.198838+00:00",
+ "generated_at": "2026-09-24T15:45:53.013328+00:00",
  "assets": [
   {
    "symbol": "BB",
@@ -51,6 +51,14 @@
    "file": "ICP.png"
   },
   {
+   "symbol": "WLFI",
+   "name": "World Liberty Financial",
+   "sigma": 2.82,
+   "from_btc_pct": 13,
+   "verdict": "Neutral",
+   "file": "WLFI.png"
+  },
+  {
    "symbol": "MORPHO",
    "name": "Morpho",
    "sigma": 2.81,
@@ -89,14 +97,6 @@
    "from_btc_pct": 15,
    "verdict": "Overbought",
    "file": "BOME.png"
-  },
-  {
-   "symbol": "FET",
-   "name": "Artificial Superintelligence Alliance",
-   "sigma": 2.54,
-   "from_btc_pct": 39,
-   "verdict": "Strong Uptrend",
-   "file": "FET.png"
   }
  ]
 }
