@@ -1,6 +1,6 @@
 {
  "date": "2026-09-24",
- "generated_at": "2026-09-24T14:31:01.407149+00:00",
+ "generated_at": "2026-09-24T14:45:55.549096+00:00",
  "assets": [
   {
    "symbol": "BB",
@@ -41,6 +41,14 @@
    "from_btc_pct": 31,
    "verdict": "Overbought",
    "file": "COMP.png"
+  },
+  {
+   "symbol": "FET",
+   "name": "Artificial Superintelligence Alliance",
+   "sigma": 2.95,
+   "from_btc_pct": 39,
+   "verdict": "Strong Uptrend",
+   "file": "FET.png"
   },
   {
    "symbol": "ICP",
@@ -89,14 +97,6 @@
    "from_btc_pct": 15,
    "verdict": "Overbought",
    "file": "BOME.png"
-  },
-  {
-   "symbol": "NOM",
-   "name": "Nomina",
-   "sigma": 2.55,
-   "from_btc_pct": 4,
-   "verdict": "Overbought",
-   "file": "NOM.png"
   }
  ]
 }
