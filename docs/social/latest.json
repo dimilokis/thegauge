@@ -1,6 +1,6 @@
 {
  "date": "2026-09-24",
- "generated_at": "2026-09-24T17:30:57.256672+00:00",
+ "generated_at": "2026-09-24T18:00:59.253139+00:00",
  "assets": [
   {
    "symbol": "XAI",
@@ -25,6 +25,14 @@
    "from_btc_pct": 33,
    "verdict": "Overbought",
    "file": "PLUME.png"
+  },
+  {
+   "symbol": "2Z",
+   "name": "DoubleZero",
+   "sigma": 4.03,
+   "from_btc_pct": 36,
+   "verdict": "Neutral",
+   "file": "2Z.png"
   },
   {
    "symbol": "LTC",
@@ -89,14 +97,6 @@
    "from_btc_pct": 29,
    "verdict": "Overbought",
    "file": "ETC.png"
-  },
-  {
-   "symbol": "OP",
-   "name": "Optimism",
-   "sigma": 2.67,
-   "from_btc_pct": 35,
-   "verdict": "Strong Uptrend",
-   "file": "OP.png"
   }
  ]
 }
