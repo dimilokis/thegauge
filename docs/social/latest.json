@@ -1,6 +1,6 @@
 {
  "date": "2026-09-24",
- "generated_at": "2026-09-24T10:45:53.439188+00:00",
+ "generated_at": "2026-09-24T11:01:03.616244+00:00",
  "assets": [
   {
    "symbol": "NOM",
@@ -65,6 +65,14 @@
    "from_btc_pct": 15,
    "verdict": "Overbought",
    "file": "BOME.png"
+  },
+  {
+   "symbol": "COMP",
+   "name": "Compound",
+   "sigma": 2.51,
+   "from_btc_pct": 33,
+   "verdict": "Overbought",
+   "file": "COMP.png"
   }
  ]
 }
