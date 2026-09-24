@@ -1,6 +1,6 @@
 {
  "date": "2026-09-24",
- "generated_at": "2026-09-24T23:15:48.448205+00:00",
+ "generated_at": "2026-09-24T23:45:57.228512+00:00",
  "assets": [
   {
    "symbol": "QNT",
@@ -9,6 +9,14 @@
    "from_btc_pct": 9,
    "verdict": "Overbought",
    "file": "QNT.png"
+  },
+  {
+   "symbol": "DYM",
+   "name": "Dymension",
+   "sigma": 8.2,
+   "from_btc_pct": 11,
+   "verdict": "Overbought",
+   "file": "DYM.png"
   },
   {
    "symbol": "XAI",
@@ -89,14 +97,6 @@
    "from_btc_pct": 1,
    "verdict": "Overbought",
    "file": "SAGA.png"
-  },
-  {
-   "symbol": "LDO",
-   "name": "Lido DAO",
-   "sigma": 2.85,
-   "from_btc_pct": 40,
-   "verdict": "Strong Uptrend",
-   "file": "LDO.png"
   }
  ]
 }
