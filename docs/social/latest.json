@@ -1,6 +1,6 @@
 {
  "date": "2026-09-24",
- "generated_at": "2026-09-24T16:30:54.411995+00:00",
+ "generated_at": "2026-09-24T16:45:53.532997+00:00",
  "assets": [
   {
    "symbol": "BB",
@@ -83,20 +83,20 @@
    "file": "ETC.png"
   },
   {
+   "symbol": "OP",
+   "name": "Optimism",
+   "sigma": 2.67,
+   "from_btc_pct": 35,
+   "verdict": "Strong Uptrend",
+   "file": "OP.png"
+  },
+  {
    "symbol": "APT",
    "name": "Aptos",
    "sigma": 2.65,
    "from_btc_pct": 38,
    "verdict": "Strong Uptrend",
    "file": "APT.png"
-  },
-  {
-   "symbol": "ALGO",
-   "name": "Algorand",
-   "sigma": 2.59,
-   "from_btc_pct": 29,
-   "verdict": "Overbought",
-   "file": "ALGO.png"
   }
  ]
 }
