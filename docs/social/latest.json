@@ -1,6 +1,6 @@
 {
  "date": "2026-09-24",
- "generated_at": "2026-09-24T11:01:03.616244+00:00",
+ "generated_at": "2026-09-24T11:15:57.829570+00:00",
  "assets": [
   {
    "symbol": "NOM",
@@ -29,8 +29,8 @@
   {
    "symbol": "ETC",
    "name": "Ethereum Classic",
-   "sigma": 2.82,
-   "from_btc_pct": 29,
+   "sigma": 2.74,
+   "from_btc_pct": 26,
    "verdict": "Overbought",
    "file": "ETC.png"
   },
@@ -43,28 +43,28 @@
    "file": "TST.png"
   },
   {
-   "symbol": "PLUME",
-   "name": "Plume",
-   "sigma": 2.67,
-   "from_btc_pct": 33,
-   "verdict": "Overbought",
-   "file": "PLUME.png"
-  },
-  {
-   "symbol": "STEEM",
-   "name": "Steem",
-   "sigma": 2.65,
-   "from_btc_pct": 0,
-   "verdict": "Overbought",
-   "file": "STEEM.png"
-  },
-  {
    "symbol": "BOME",
    "name": "BOOK OF MEME",
    "sigma": 2.6,
    "from_btc_pct": 15,
    "verdict": "Overbought",
    "file": "BOME.png"
+  },
+  {
+   "symbol": "PLUME",
+   "name": "Plume",
+   "sigma": 2.58,
+   "from_btc_pct": 35,
+   "verdict": "Overbought",
+   "file": "PLUME.png"
+  },
+  {
+   "symbol": "STEEM",
+   "name": "Steem",
+   "sigma": 2.55,
+   "from_btc_pct": 1,
+   "verdict": "Overbought",
+   "file": "STEEM.png"
   },
   {
    "symbol": "COMP",
