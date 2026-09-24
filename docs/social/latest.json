@@ -1,6 +1,6 @@
 {
  "date": "2026-09-24",
- "generated_at": "2026-09-24T13:16:01.072717+00:00",
+ "generated_at": "2026-09-24T13:30:59.758077+00:00",
  "assets": [
   {
    "symbol": "NOM",
@@ -25,6 +25,14 @@
    "from_btc_pct": 10,
    "verdict": "Overbought",
    "file": "BROCCOLI714.png"
+  },
+  {
+   "symbol": "COMP",
+   "name": "Compound",
+   "sigma": 3.24,
+   "from_btc_pct": 31,
+   "verdict": "Overbought",
+   "file": "COMP.png"
   },
   {
    "symbol": "ONDO",
@@ -81,14 +89,6 @@
    "from_btc_pct": 35,
    "verdict": "Overbought",
    "file": "PHA.png"
-  },
-  {
-   "symbol": "COMP",
-   "name": "Compound",
-   "sigma": 2.51,
-   "from_btc_pct": 33,
-   "verdict": "Overbought",
-   "file": "COMP.png"
   },
   {
    "symbol": "CVC",
