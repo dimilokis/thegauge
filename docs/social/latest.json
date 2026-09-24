@@ -1,7 +1,15 @@
 {
  "date": "2026-09-24",
- "generated_at": "2026-09-24T19:15:53.772007+00:00",
+ "generated_at": "2026-09-24T19:30:55.878299+00:00",
  "assets": [
+  {
+   "symbol": "QNT",
+   "name": "Quant",
+   "sigma": 11.02,
+   "from_btc_pct": 9,
+   "verdict": "Overbought",
+   "file": "QNT.png"
+  },
   {
    "symbol": "XAI",
    "name": "Xai",
@@ -89,14 +97,6 @@
    "from_btc_pct": 10,
    "verdict": "Strong Uptrend",
    "file": "MORPHO.png"
-  },
-  {
-   "symbol": "ONDO",
-   "name": "Ondo",
-   "sigma": 2.76,
-   "from_btc_pct": 39,
-   "verdict": "Strong Uptrend",
-   "file": "ONDO.png"
   }
  ]
 }

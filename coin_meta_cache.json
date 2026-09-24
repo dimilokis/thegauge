@@ -1067,6 +1067,10 @@
   "icon": "https://coin-images.coingecko.com/coins/images/3849/large/QuarkChain.jpg?1730964236",
   "name": "QuarkChain"
  },
+ "QNT": {
+  "icon": "https://coin-images.coingecko.com/coins/images/3370/large/5ZOu7brX_400x400.jpg",
+  "name": "Quant"
+ },
  "QTUM": {
   "icon": "https://coin-images.coingecko.com/coins/images/684/large/Qtum_Logo_blue_CG.png",
   "name": "Qtum"
