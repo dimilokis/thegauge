@@ -1,6 +1,6 @@
 {
  "date": "2026-09-24",
- "generated_at": "2026-09-24T10:30:55.334368+00:00",
+ "generated_at": "2026-09-24T10:45:53.439188+00:00",
  "assets": [
   {
    "symbol": "NOM",
@@ -33,6 +33,14 @@
    "from_btc_pct": 29,
    "verdict": "Overbought",
    "file": "ETC.png"
+  },
+  {
+   "symbol": "TST",
+   "name": "Test",
+   "sigma": 2.72,
+   "from_btc_pct": 4,
+   "verdict": "Overbought",
+   "file": "TST.png"
   },
   {
    "symbol": "PLUME",
