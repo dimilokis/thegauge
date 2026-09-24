@@ -1,6 +1,6 @@
 {
  "date": "2026-09-23",
- "generated_at": "2026-09-23T22:45:55.948683+00:00",
+ "generated_at": "2026-09-24T00:45:50.681415+00:00",
  "assets": [
   {
    "symbol": "SUPER",
@@ -59,6 +59,14 @@
    "file": "ASTER.png"
   },
   {
+   "symbol": "NOM",
+   "name": "Nomina",
+   "sigma": 2.61,
+   "from_btc_pct": 3,
+   "verdict": "Overbought",
+   "file": "NOM.png"
+  },
+  {
    "symbol": "DOT",
    "name": "Polkadot",
    "sigma": 2.59,
@@ -89,14 +97,6 @@
    "from_btc_pct": 21,
    "verdict": "Neutral",
    "file": "ATOM.png"
-  },
-  {
-   "symbol": "SAGA",
-   "name": "Saga",
-   "sigma": 2.53,
-   "from_btc_pct": 1,
-   "verdict": "Overbought",
-   "file": "SAGA.png"
   }
  ]
 }
