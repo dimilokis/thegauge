@@ -1,6 +1,6 @@
 {
  "date": "2026-09-24",
- "generated_at": "2026-09-24T16:15:48.869227+00:00",
+ "generated_at": "2026-09-24T16:30:54.411995+00:00",
  "assets": [
   {
    "symbol": "BB",
@@ -43,6 +43,14 @@
    "file": "COMP.png"
   },
   {
+   "symbol": "NOM",
+   "name": "Nomina",
+   "sigma": 2.98,
+   "from_btc_pct": 4,
+   "verdict": "Overbought",
+   "file": "NOM.png"
+  },
+  {
    "symbol": "CAKE",
    "name": "PancakeSwap",
    "sigma": 2.82,
@@ -83,20 +91,12 @@
    "file": "APT.png"
   },
   {
-   "symbol": "ICP",
-   "name": "Internet Computer",
-   "sigma": 2.55,
-   "from_btc_pct": 20,
-   "verdict": "Strong Uptrend",
-   "file": "ICP.png"
-  },
-  {
-   "symbol": "WLFI",
-   "name": "World Liberty Financial",
-   "sigma": 2.53,
-   "from_btc_pct": 13,
-   "verdict": "Neutral",
-   "file": "WLFI.png"
+   "symbol": "ALGO",
+   "name": "Algorand",
+   "sigma": 2.59,
+   "from_btc_pct": 29,
+   "verdict": "Overbought",
+   "file": "ALGO.png"
   }
  ]
 }
