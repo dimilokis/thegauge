@@ -1,6 +1,6 @@
 {
  "date": "2026-09-24",
- "generated_at": "2026-09-24T13:30:59.758077+00:00",
+ "generated_at": "2026-09-24T13:45:52.024192+00:00",
  "assets": [
   {
    "symbol": "NOM",
@@ -33,6 +33,14 @@
    "from_btc_pct": 31,
    "verdict": "Overbought",
    "file": "COMP.png"
+  },
+  {
+   "symbol": "MORPHO",
+   "name": "Morpho",
+   "sigma": 2.81,
+   "from_btc_pct": 10,
+   "verdict": "Strong Uptrend",
+   "file": "MORPHO.png"
   },
   {
    "symbol": "ONDO",
@@ -89,14 +97,6 @@
    "from_btc_pct": 35,
    "verdict": "Overbought",
    "file": "PHA.png"
-  },
-  {
-   "symbol": "CVC",
-   "name": "Civic",
-   "sigma": 2.5,
-   "from_btc_pct": 2,
-   "verdict": "Overbought",
-   "file": "CVC.png"
   }
  ]
 }
