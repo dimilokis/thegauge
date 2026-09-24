@@ -1,7 +1,15 @@
 {
  "date": "2026-09-24",
- "generated_at": "2026-09-24T16:45:53.532997+00:00",
+ "generated_at": "2026-09-24T17:30:57.256672+00:00",
  "assets": [
+  {
+   "symbol": "XAI",
+   "name": "Xai",
+   "sigma": 8.1,
+   "from_btc_pct": 21,
+   "verdict": "Overbought",
+   "file": "XAI.png"
+  },
   {
    "symbol": "BB",
    "name": "BounceBit",
@@ -89,14 +97,6 @@
    "from_btc_pct": 35,
    "verdict": "Strong Uptrend",
    "file": "OP.png"
-  },
-  {
-   "symbol": "APT",
-   "name": "Aptos",
-   "sigma": 2.65,
-   "from_btc_pct": 38,
-   "verdict": "Strong Uptrend",
-   "file": "APT.png"
   }
  ]
 }
