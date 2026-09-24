@@ -1,6 +1,6 @@
 {
  "date": "2026-09-24",
- "generated_at": "2026-09-24T15:45:53.013328+00:00",
+ "generated_at": "2026-09-24T16:15:48.869227+00:00",
  "assets": [
   {
    "symbol": "BB",
@@ -43,20 +43,12 @@
    "file": "COMP.png"
   },
   {
-   "symbol": "ICP",
-   "name": "Internet Computer",
-   "sigma": 2.94,
-   "from_btc_pct": 21,
-   "verdict": "Strong Uptrend",
-   "file": "ICP.png"
-  },
-  {
-   "symbol": "WLFI",
-   "name": "World Liberty Financial",
+   "symbol": "CAKE",
+   "name": "PancakeSwap",
    "sigma": 2.82,
-   "from_btc_pct": 13,
-   "verdict": "Neutral",
-   "file": "WLFI.png"
+   "from_btc_pct": 12,
+   "verdict": "Overbought",
+   "file": "CAKE.png"
   },
   {
    "symbol": "MORPHO",
@@ -91,12 +83,20 @@
    "file": "APT.png"
   },
   {
-   "symbol": "BOME",
-   "name": "BOOK OF MEME",
-   "sigma": 2.6,
-   "from_btc_pct": 15,
-   "verdict": "Overbought",
-   "file": "BOME.png"
+   "symbol": "ICP",
+   "name": "Internet Computer",
+   "sigma": 2.55,
+   "from_btc_pct": 20,
+   "verdict": "Strong Uptrend",
+   "file": "ICP.png"
+  },
+  {
+   "symbol": "WLFI",
+   "name": "World Liberty Financial",
+   "sigma": 2.53,
+   "from_btc_pct": 13,
+   "verdict": "Neutral",
+   "file": "WLFI.png"
   }
  ]
 }
