@@ -1,14 +1,22 @@
 {
  "date": "2026-09-24",
- "generated_at": "2026-09-24T14:01:05.288113+00:00",
+ "generated_at": "2026-09-24T14:31:01.407149+00:00",
  "assets": [
   {
-   "symbol": "NOM",
-   "name": "Nomina",
-   "sigma": 3.71,
-   "from_btc_pct": 2,
+   "symbol": "BB",
+   "name": "BounceBit",
+   "sigma": 4.54,
+   "from_btc_pct": 25,
+   "verdict": "Neutral",
+   "file": "BB.png"
+  },
+  {
+   "symbol": "PLUME",
+   "name": "Plume",
+   "sigma": 4.52,
+   "from_btc_pct": 33,
    "verdict": "Overbought",
-   "file": "NOM.png"
+   "file": "PLUME.png"
   },
   {
    "symbol": "LTC",
@@ -35,6 +43,14 @@
    "file": "COMP.png"
   },
   {
+   "symbol": "ICP",
+   "name": "Internet Computer",
+   "sigma": 2.94,
+   "from_btc_pct": 21,
+   "verdict": "Strong Uptrend",
+   "file": "ICP.png"
+  },
+  {
    "symbol": "MORPHO",
    "name": "Morpho",
    "sigma": 2.81,
@@ -59,6 +75,14 @@
    "file": "ETC.png"
   },
   {
+   "symbol": "APT",
+   "name": "Aptos",
+   "sigma": 2.65,
+   "from_btc_pct": 38,
+   "verdict": "Strong Uptrend",
+   "file": "APT.png"
+  },
+  {
    "symbol": "BOME",
    "name": "BOOK OF MEME",
    "sigma": 2.6,
@@ -67,36 +91,12 @@
    "file": "BOME.png"
   },
   {
-   "symbol": "TST",
-   "name": "Test",
-   "sigma": 2.59,
-   "from_btc_pct": 5,
-   "verdict": "Overbought",
-   "file": "TST.png"
-  },
-  {
-   "symbol": "PLUME",
-   "name": "Plume",
-   "sigma": 2.58,
-   "from_btc_pct": 35,
-   "verdict": "Overbought",
-   "file": "PLUME.png"
-  },
-  {
-   "symbol": "STEEM",
-   "name": "Steem",
+   "symbol": "NOM",
+   "name": "Nomina",
    "sigma": 2.55,
-   "from_btc_pct": 1,
+   "from_btc_pct": 4,
    "verdict": "Overbought",
-   "file": "STEEM.png"
-  },
-  {
-   "symbol": "PHA",
-   "name": "PHALA",
-   "sigma": 2.55,
-   "from_btc_pct": 35,
-   "verdict": "Overbought",
-   "file": "PHA.png"
+   "file": "NOM.png"
   }
  ]
 }
