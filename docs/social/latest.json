@@ -1,6 +1,6 @@
 {
  "date": "2026-09-25",
- "generated_at": "2026-09-25T17:15:49.904059+00:00",
+ "generated_at": "2026-09-25T17:56:19.382401+00:00",
  "assets": [
   {
    "symbol": "RARE",
@@ -93,7 +93,7 @@
   {
    "symbol": "JST",
    "name": "JUST",
-   "sigma": 2.56,
+   "sigma": 2.53,
    "from_btc_pct": 0,
    "verdict": "Strong Uptrend",
    "file": "JST.png"
