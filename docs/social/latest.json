@@ -1,6 +1,6 @@
 {
  "date": "2026-09-25",
- "generated_at": "2026-09-25T08:00:57.791939+00:00",
+ "generated_at": "2026-09-25T08:45:52.804101+00:00",
  "assets": [
   {
    "symbol": "AXS",
@@ -25,6 +25,22 @@
    "from_btc_pct": 34,
    "verdict": "Overbought",
    "file": "PHA.png"
+  },
+  {
+   "symbol": "ARK",
+   "name": "ARK",
+   "sigma": 2.78,
+   "from_btc_pct": 7,
+   "verdict": "Overbought",
+   "file": "ARK.png"
+  },
+  {
+   "symbol": "BROCCOLI714",
+   "name": null,
+   "sigma": 2.51,
+   "from_btc_pct": 10,
+   "verdict": "Overbought",
+   "file": "BROCCOLI714.png"
   }
  ]
 }
