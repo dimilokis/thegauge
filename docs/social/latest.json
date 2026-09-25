@@ -1,6 +1,6 @@
 {
  "date": "2026-09-25",
- "generated_at": "2026-09-25T13:15:50.801914+00:00",
+ "generated_at": "2026-09-25T15:01:01.195243+00:00",
  "assets": [
   {
    "symbol": "AXS",
@@ -11,12 +11,12 @@
    "file": "AXS.png"
   },
   {
-   "symbol": "PIXEL",
-   "name": "Pixels",
-   "sigma": 4.09,
-   "from_btc_pct": 34,
-   "verdict": "Overbought",
-   "file": "PIXEL.png"
+   "symbol": "MOVR",
+   "name": "Moonriver",
+   "sigma": 3.06,
+   "from_btc_pct": 15,
+   "verdict": "Neutral",
+   "file": "MOVR.png"
   },
   {
    "symbol": "ARK",
@@ -49,6 +49,14 @@
    "from_btc_pct": 37,
    "verdict": "Overbought",
    "file": "PHA.png"
+  },
+  {
+   "symbol": "PIXEL",
+   "name": "Pixels",
+   "sigma": 2.61,
+   "from_btc_pct": 36,
+   "verdict": "Overbought",
+   "file": "PIXEL.png"
   },
   {
    "symbol": "JTO",
