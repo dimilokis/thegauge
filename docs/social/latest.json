@@ -1,6 +1,6 @@
 {
  "date": "2026-09-25",
- "generated_at": "2026-09-25T20:45:48.660137+00:00",
+ "generated_at": "2026-09-25T22:00:53.813930+00:00",
  "assets": [
   {
    "symbol": "RARE",
@@ -91,12 +91,12 @@
    "file": "PHA.png"
   },
   {
-   "symbol": "PIXEL",
-   "name": "Pixels",
-   "sigma": 2.61,
-   "from_btc_pct": 36,
-   "verdict": "Overbought",
-   "file": "PIXEL.png"
+   "symbol": "ENA",
+   "name": "Ethena",
+   "sigma": 2.64,
+   "from_btc_pct": 14,
+   "verdict": "Strong Uptrend",
+   "file": "ENA.png"
   }
  ]
 }
