@@ -1,6 +1,6 @@
 {
  "date": "2026-09-25",
- "generated_at": "2026-09-25T10:45:46.218392+00:00",
+ "generated_at": "2026-09-25T11:15:52.294140+00:00",
  "assets": [
   {
    "symbol": "AXS",
@@ -33,6 +33,14 @@
    "from_btc_pct": 37,
    "verdict": "Overbought",
    "file": "PHA.png"
+  },
+  {
+   "symbol": "JTO",
+   "name": "Jito",
+   "sigma": 2.56,
+   "from_btc_pct": 28,
+   "verdict": "Neutral",
+   "file": "JTO.png"
   },
   {
    "symbol": "QNT",
