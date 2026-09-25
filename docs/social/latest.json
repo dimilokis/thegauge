@@ -1,7 +1,15 @@
 {
  "date": "2026-09-25",
- "generated_at": "2026-09-25T15:01:01.195243+00:00",
+ "generated_at": "2026-09-25T16:00:57.559853+00:00",
  "assets": [
+  {
+   "symbol": "RARE",
+   "name": "SuperRare",
+   "sigma": 11.12,
+   "from_btc_pct": 12,
+   "verdict": "Overbought",
+   "file": "RARE.png"
+  },
   {
    "symbol": "AXS",
    "name": "Axie Infinity",
