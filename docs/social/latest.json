@@ -1,6 +1,6 @@
 {
  "date": "2026-09-25",
- "generated_at": "2026-09-25T16:00:57.559853+00:00",
+ "generated_at": "2026-09-25T16:15:54.082387+00:00",
  "assets": [
   {
    "symbol": "RARE",
@@ -13,10 +13,18 @@
   {
    "symbol": "AXS",
    "name": "Axie Infinity",
-   "sigma": 4.26,
-   "from_btc_pct": 39,
+   "sigma": 4.13,
+   "from_btc_pct": 40,
    "verdict": "Overbought",
    "file": "AXS.png"
+  },
+  {
+   "symbol": "SEI",
+   "name": "Sei",
+   "sigma": 3.07,
+   "from_btc_pct": 37,
+   "verdict": "Strong Uptrend",
+   "file": "SEI.png"
   },
   {
    "symbol": "MOVR",
@@ -33,14 +41,6 @@
    "from_btc_pct": 8,
    "verdict": "Overbought",
    "file": "ARK.png"
-  },
-  {
-   "symbol": "SEI",
-   "name": "Sei",
-   "sigma": 2.8,
-   "from_btc_pct": 39,
-   "verdict": "Strong Uptrend",
-   "file": "SEI.png"
   },
   {
    "symbol": "AERO",
