@@ -1,102 +1,14 @@
 {
- "date": "2026-09-24",
- "generated_at": "2026-09-25T02:45:52.936290+00:00",
+ "date": "2026-09-25",
+ "generated_at": "2026-09-25T06:45:52.059860+00:00",
  "assets": [
-  {
-   "symbol": "QI",
-   "name": "BENQI",
-   "sigma": 15.1,
-   "from_btc_pct": 2,
-   "verdict": "Overbought",
-   "file": "QI.png"
-  },
   {
    "symbol": "QNT",
    "name": "Quant",
-   "sigma": 11.02,
-   "from_btc_pct": 9,
+   "sigma": 2.58,
+   "from_btc_pct": 5,
    "verdict": "Overbought",
    "file": "QNT.png"
-  },
-  {
-   "symbol": "DYM",
-   "name": "Dymension",
-   "sigma": 8.2,
-   "from_btc_pct": 11,
-   "verdict": "Overbought",
-   "file": "DYM.png"
-  },
-  {
-   "symbol": "XAI",
-   "name": "Xai",
-   "sigma": 8.1,
-   "from_btc_pct": 21,
-   "verdict": "Overbought",
-   "file": "XAI.png"
-  },
-  {
-   "symbol": "ARK",
-   "name": "ARK",
-   "sigma": 5.1,
-   "from_btc_pct": 9,
-   "verdict": "Overbought",
-   "file": "ARK.png"
-  },
-  {
-   "symbol": "PLUME",
-   "name": "Plume",
-   "sigma": 4.52,
-   "from_btc_pct": 33,
-   "verdict": "Overbought",
-   "file": "PLUME.png"
-  },
-  {
-   "symbol": "2Z",
-   "name": "DoubleZero",
-   "sigma": 4.03,
-   "from_btc_pct": 36,
-   "verdict": "Neutral",
-   "file": "2Z.png"
-  },
-  {
-   "symbol": "SAGA",
-   "name": "Saga",
-   "sigma": 3.46,
-   "from_btc_pct": 1,
-   "verdict": "Neutral",
-   "file": "SAGA.png"
-  },
-  {
-   "symbol": "LTC",
-   "name": "Litecoin",
-   "sigma": 3.43,
-   "from_btc_pct": 36,
-   "verdict": "Strong Uptrend",
-   "file": "LTC.png"
-  },
-  {
-   "symbol": "BROCCOLI714",
-   "name": null,
-   "sigma": 3.38,
-   "from_btc_pct": 10,
-   "verdict": "Overbought",
-   "file": "BROCCOLI714.png"
-  },
-  {
-   "symbol": "COMP",
-   "name": "Compound",
-   "sigma": 3.24,
-   "from_btc_pct": 31,
-   "verdict": "Overbought",
-   "file": "COMP.png"
-  },
-  {
-   "symbol": "XPL",
-   "name": "Plasma",
-   "sigma": 3.19,
-   "from_btc_pct": 39,
-   "verdict": "Strong Uptrend",
-   "file": "XPL.png"
   }
  ]
 }
