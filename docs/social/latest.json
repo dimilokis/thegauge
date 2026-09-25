@@ -1,6 +1,6 @@
 {
  "date": "2026-09-25",
- "generated_at": "2026-09-25T10:30:56.340229+00:00",
+ "generated_at": "2026-09-25T10:45:46.218392+00:00",
  "assets": [
   {
    "symbol": "AXS",
@@ -35,20 +35,20 @@
    "file": "PHA.png"
   },
   {
+   "symbol": "QNT",
+   "name": "Quant",
+   "sigma": 2.52,
+   "from_btc_pct": 6,
+   "verdict": "Overbought",
+   "file": "QNT.png"
+  },
+  {
    "symbol": "BROCCOLI714",
    "name": null,
    "sigma": 2.51,
    "from_btc_pct": 10,
    "verdict": "Overbought",
    "file": "BROCCOLI714.png"
-  },
-  {
-   "symbol": "QNT",
-   "name": "Quant",
-   "sigma": 2.5,
-   "from_btc_pct": 5,
-   "verdict": "Overbought",
-   "file": "QNT.png"
   }
  ]
 }
