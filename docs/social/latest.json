@@ -1,14 +1,22 @@
 {
  "date": "2026-09-25",
- "generated_at": "2026-09-25T07:00:58.199032+00:00",
+ "generated_at": "2026-09-25T07:45:53.664715+00:00",
  "assets": [
   {
    "symbol": "AXS",
    "name": "Axie Infinity",
-   "sigma": 4.48,
+   "sigma": 4.26,
    "from_btc_pct": 39,
    "verdict": "Overbought",
    "file": "AXS.png"
+  },
+  {
+   "symbol": "PHA",
+   "name": "PHALA",
+   "sigma": 3.03,
+   "from_btc_pct": 34,
+   "verdict": "Overbought",
+   "file": "PHA.png"
   },
   {
    "symbol": "QNT",
