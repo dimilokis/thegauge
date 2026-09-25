@@ -1,6 +1,6 @@
 {
  "date": "2026-09-25",
- "generated_at": "2026-09-25T09:15:53.467732+00:00",
+ "generated_at": "2026-09-25T09:30:59.190757+00:00",
  "assets": [
   {
    "symbol": "AXS",
@@ -25,6 +25,14 @@
    "from_btc_pct": 37,
    "verdict": "Overbought",
    "file": "PHA.png"
+  },
+  {
+   "symbol": "AERO",
+   "name": "Aerodrome Finance",
+   "sigma": 2.57,
+   "from_btc_pct": 31,
+   "verdict": "Strong Uptrend",
+   "file": "AERO.png"
   },
   {
    "symbol": "BROCCOLI714",
