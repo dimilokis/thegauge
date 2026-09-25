@@ -1,7 +1,15 @@
 {
  "date": "2026-09-24",
- "generated_at": "2026-09-24T23:45:57.228512+00:00",
+ "generated_at": "2026-09-25T02:15:47.827023+00:00",
  "assets": [
+  {
+   "symbol": "QI",
+   "name": "BENQI",
+   "sigma": 15.1,
+   "from_btc_pct": 2,
+   "verdict": "Overbought",
+   "file": "QI.png"
+  },
   {
    "symbol": "QNT",
    "name": "Quant",
@@ -89,14 +97,6 @@
    "from_btc_pct": 4,
    "verdict": "Overbought",
    "file": "NOM.png"
-  },
-  {
-   "symbol": "SAGA",
-   "name": "Saga",
-   "sigma": 2.91,
-   "from_btc_pct": 1,
-   "verdict": "Overbought",
-   "file": "SAGA.png"
   }
  ]
 }
