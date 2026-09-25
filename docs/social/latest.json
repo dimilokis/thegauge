@@ -1,6 +1,6 @@
 {
  "date": "2026-09-25",
- "generated_at": "2026-09-25T19:00:59.512027+00:00",
+ "generated_at": "2026-09-25T19:15:52.527216+00:00",
  "assets": [
   {
    "symbol": "RARE",
@@ -41,6 +41,14 @@
    "from_btc_pct": 15,
    "verdict": "Neutral",
    "file": "MOVR.png"
+  },
+  {
+   "symbol": "JTO",
+   "name": "Jito",
+   "sigma": 3.04,
+   "from_btc_pct": 23,
+   "verdict": "Neutral",
+   "file": "JTO.png"
   },
   {
    "symbol": "LDO",
@@ -89,14 +97,6 @@
    "from_btc_pct": 15,
    "verdict": "Strong Uptrend",
    "file": "ENA.png"
-  },
-  {
-   "symbol": "JTO",
-   "name": "Jito",
-   "sigma": 2.56,
-   "from_btc_pct": 28,
-   "verdict": "Neutral",
-   "file": "JTO.png"
   }
  ]
 }
