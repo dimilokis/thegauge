@@ -1,6 +1,6 @@
 {
  "date": "2026-09-25",
- "generated_at": "2026-09-25T19:15:52.527216+00:00",
+ "generated_at": "2026-09-25T19:31:04.098513+00:00",
  "assets": [
   {
    "symbol": "RARE",
@@ -53,7 +53,7 @@
   {
    "symbol": "LDO",
    "name": "Lido DAO",
-   "sigma": 2.88,
+   "sigma": 2.91,
    "from_btc_pct": 28,
    "verdict": "Strong Uptrend",
    "file": "LDO.png"
