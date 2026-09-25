@@ -1,6 +1,6 @@
 {
  "date": "2026-09-25",
- "generated_at": "2026-09-25T20:15:53.270015+00:00",
+ "generated_at": "2026-09-25T20:30:53.768422+00:00",
  "assets": [
   {
    "symbol": "RARE",
@@ -75,6 +75,14 @@
    "file": "AERO.png"
   },
   {
+   "symbol": "ZRO",
+   "name": "LayerZero",
+   "sigma": 2.75,
+   "from_btc_pct": 8,
+   "verdict": "Strong Uptrend",
+   "file": "ZRO.png"
+  },
+  {
    "symbol": "PHA",
    "name": "PHALA",
    "sigma": 2.64,
@@ -89,14 +97,6 @@
    "from_btc_pct": 36,
    "verdict": "Overbought",
    "file": "PIXEL.png"
-  },
-  {
-   "symbol": "ENA",
-   "name": "Ethena",
-   "sigma": 2.6,
-   "from_btc_pct": 15,
-   "verdict": "Strong Uptrend",
-   "file": "ENA.png"
   }
  ]
 }
