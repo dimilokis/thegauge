@@ -1,6 +1,6 @@
 {
  "date": "2026-09-25",
- "generated_at": "2026-09-25T11:15:52.294140+00:00",
+ "generated_at": "2026-09-25T11:45:48.332024+00:00",
  "assets": [
   {
    "symbol": "AXS",
@@ -25,6 +25,14 @@
    "from_btc_pct": 30,
    "verdict": "Strong Uptrend",
    "file": "AERO.png"
+  },
+  {
+   "symbol": "SEI",
+   "name": "Sei",
+   "sigma": 2.71,
+   "from_btc_pct": 40,
+   "verdict": "Strong Uptrend",
+   "file": "SEI.png"
   },
   {
    "symbol": "PHA",
