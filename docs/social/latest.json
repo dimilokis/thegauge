@@ -1,6 +1,6 @@
 {
  "date": "2026-09-25",
- "generated_at": "2026-09-25T09:01:03.022485+00:00",
+ "generated_at": "2026-09-25T09:15:53.467732+00:00",
  "assets": [
   {
    "symbol": "AXS",
@@ -11,20 +11,20 @@
    "file": "AXS.png"
   },
   {
-   "symbol": "PHA",
-   "name": "PHALA",
-   "sigma": 3.03,
-   "from_btc_pct": 34,
-   "verdict": "Overbought",
-   "file": "PHA.png"
-  },
-  {
    "symbol": "ARK",
    "name": "ARK",
    "sigma": 2.78,
    "from_btc_pct": 7,
    "verdict": "Overbought",
    "file": "ARK.png"
+  },
+  {
+   "symbol": "PHA",
+   "name": "PHALA",
+   "sigma": 2.64,
+   "from_btc_pct": 37,
+   "verdict": "Overbought",
+   "file": "PHA.png"
   },
   {
    "symbol": "BROCCOLI714",
