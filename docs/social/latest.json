@@ -1,6 +1,6 @@
 {
  "date": "2026-09-25",
- "generated_at": "2026-09-25T12:01:04.010611+00:00",
+ "generated_at": "2026-09-25T12:30:54.624711+00:00",
  "assets": [
   {
    "symbol": "AXS",
@@ -11,6 +11,14 @@
    "file": "AXS.png"
   },
   {
+   "symbol": "PIXEL",
+   "name": "Pixels",
+   "sigma": 4.09,
+   "from_btc_pct": 34,
+   "verdict": "Overbought",
+   "file": "PIXEL.png"
+  },
+  {
    "symbol": "ARK",
    "name": "ARK",
    "sigma": 2.85,
@@ -19,20 +27,20 @@
    "file": "ARK.png"
   },
   {
+   "symbol": "SEI",
+   "name": "Sei",
+   "sigma": 2.8,
+   "from_btc_pct": 39,
+   "verdict": "Strong Uptrend",
+   "file": "SEI.png"
+  },
+  {
    "symbol": "AERO",
    "name": "Aerodrome Finance",
    "sigma": 2.75,
    "from_btc_pct": 30,
    "verdict": "Strong Uptrend",
    "file": "AERO.png"
-  },
-  {
-   "symbol": "SEI",
-   "name": "Sei",
-   "sigma": 2.71,
-   "from_btc_pct": 40,
-   "verdict": "Strong Uptrend",
-   "file": "SEI.png"
   },
   {
    "symbol": "PHA",
