@@ -1075,6 +1075,10 @@
   "icon": "https://coin-images.coingecko.com/coins/images/684/large/Qtum_Logo_blue_CG.png",
   "name": "Qtum"
  },
+ "QUICK": {
+  "icon": "https://coin-images.coingecko.com/coins/images/25393/large/quickswap.png",
+  "name": "Quickswap"
+ },
  "RAD": {
   "icon": "https://coin-images.coingecko.com/coins/images/14013/large/radicle.png?1696513741",
   "name": "Radworks"
