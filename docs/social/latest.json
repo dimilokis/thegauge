@@ -1,7 +1,15 @@
 {
  "date": "2026-09-26",
- "generated_at": "2026-09-26T11:45:51.192320+00:00",
+ "generated_at": "2026-09-26T12:15:54.458410+00:00",
  "assets": [
+  {
+   "symbol": "AMP",
+   "name": "Amp",
+   "sigma": 20.04,
+   "from_btc_pct": 2,
+   "verdict": "Overbought",
+   "file": "AMP.png"
+  },
   {
    "symbol": "2Z",
    "name": "DoubleZero",
