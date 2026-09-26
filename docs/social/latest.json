@@ -1,6 +1,6 @@
 {
  "date": "2026-09-26",
- "generated_at": "2026-09-26T10:15:46.618576+00:00",
+ "generated_at": "2026-09-26T11:00:57.857933+00:00",
  "assets": [
   {
    "symbol": "2Z",
@@ -29,7 +29,7 @@
   {
    "symbol": "QUICK",
    "name": "Quickswap",
-   "sigma": 3.07,
+   "sigma": 3.59,
    "from_btc_pct": 3,
    "verdict": "Overbought",
    "file": "QUICK.png"
