@@ -1,6 +1,6 @@
 {
  "date": "2026-09-26",
- "generated_at": "2026-09-26T15:16:13.886741+00:00",
+ "generated_at": "2026-09-26T16:45:51.841446+00:00",
  "assets": [
   {
    "symbol": "AMP",
@@ -43,14 +43,6 @@
    "file": "KMNO.png"
   },
   {
-   "symbol": "TNSR",
-   "name": "Tensor",
-   "sigma": 3.97,
-   "from_btc_pct": 20,
-   "verdict": "Overbought",
-   "file": "TNSR.png"
-  },
-  {
    "symbol": "QUICK",
    "name": "Quickswap",
    "sigma": 3.59,
@@ -73,6 +65,14 @@
    "from_btc_pct": 5,
    "verdict": "Overbought",
    "file": "QNT.png"
+  },
+  {
+   "symbol": "TNSR",
+   "name": "Tensor",
+   "sigma": 2.54,
+   "from_btc_pct": 22,
+   "verdict": "Overbought",
+   "file": "TNSR.png"
   }
  ]
 }
