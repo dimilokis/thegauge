@@ -1,6 +1,6 @@
 {
  "date": "2026-09-26",
- "generated_at": "2026-09-26T16:45:51.841446+00:00",
+ "generated_at": "2026-09-26T18:30:56.425012+00:00",
  "assets": [
   {
    "symbol": "AMP",
@@ -57,6 +57,14 @@
    "from_btc_pct": 10,
    "verdict": "Strong Uptrend",
    "file": "FIL.png"
+  },
+  {
+   "symbol": "GRAM",
+   "name": "Gram (prev. Toncoin)",
+   "sigma": 2.75,
+   "from_btc_pct": 34,
+   "verdict": "Neutral",
+   "file": "GRAM.png"
   },
   {
    "symbol": "QNT",
