@@ -1,6 +1,6 @@
 {
  "date": "2026-09-27",
- "generated_at": "2026-09-27T12:30:53.178209+00:00",
+ "generated_at": "2026-09-27T12:45:48.364661+00:00",
  "assets": [
   {
    "symbol": "AUDIO",
@@ -37,7 +37,7 @@
   {
    "symbol": "XVG",
    "name": "Verge",
-   "sigma": 2.67,
+   "sigma": 3.08,
    "from_btc_pct": 8,
    "verdict": "Overbought",
    "file": "XVG.png"
