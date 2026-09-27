@@ -1,6 +1,6 @@
 {
  "date": "2026-09-27",
- "generated_at": "2026-09-27T20:42:42.399342+00:00",
+ "generated_at": "2026-09-27T20:45:47.484910+00:00",
  "assets": [
   {
    "symbol": "MAGIC",
@@ -43,14 +43,6 @@
    "file": "W.png"
   },
   {
-   "symbol": "XVG",
-   "name": "Verge",
-   "sigma": 2.99,
-   "from_btc_pct": 7,
-   "verdict": "Overbought",
-   "file": "XVG.png"
-  },
-  {
    "symbol": "QNT",
    "name": "Quant",
    "sigma": 2.6,
@@ -73,6 +65,14 @@
    "from_btc_pct": 2,
    "verdict": "Overbought",
    "file": "AMP.png"
+  },
+  {
+   "symbol": "XVG",
+   "name": "Verge",
+   "sigma": 2.56,
+   "from_btc_pct": 7,
+   "verdict": "Overbought",
+   "file": "XVG.png"
   },
   {
    "symbol": "GLMR",
