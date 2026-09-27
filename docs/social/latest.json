@@ -1,6 +1,6 @@
 {
  "date": "2026-09-27",
- "generated_at": "2026-09-27T07:00:58.922438+00:00",
+ "generated_at": "2026-09-27T09:00:59.343548+00:00",
  "assets": [
   {
    "symbol": "GLMR",
@@ -21,7 +21,7 @@
   {
    "symbol": "QNT",
    "name": "Quant",
-   "sigma": 2.7,
+   "sigma": 2.53,
    "from_btc_pct": 1,
    "verdict": "Overbought",
    "file": "QNT.png"
