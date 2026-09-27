@@ -1,7 +1,15 @@
 {
  "date": "2026-09-27",
- "generated_at": "2026-09-27T04:45:50.510786+00:00",
+ "generated_at": "2026-09-27T05:00:54.844046+00:00",
  "assets": [
+  {
+   "symbol": "W",
+   "name": "Wormhole",
+   "sigma": 3.38,
+   "from_btc_pct": 26,
+   "verdict": "Overbought",
+   "file": "W.png"
+  },
   {
    "symbol": "QNT",
    "name": "Quant",
