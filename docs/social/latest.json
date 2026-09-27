@@ -1,6 +1,6 @@
 {
  "date": "2026-09-27",
- "generated_at": "2026-09-27T05:00:54.844046+00:00",
+ "generated_at": "2026-09-27T06:30:54.931276+00:00",
  "assets": [
   {
    "symbol": "W",
@@ -13,7 +13,7 @@
   {
    "symbol": "QNT",
    "name": "Quant",
-   "sigma": 3.3,
+   "sigma": 2.7,
    "from_btc_pct": 1,
    "verdict": "Overbought",
    "file": "QNT.png"
