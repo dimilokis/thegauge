@@ -1,6 +1,6 @@
 {
  "date": "2026-09-27",
- "generated_at": "2026-09-27T16:15:48.153043+00:00",
+ "generated_at": "2026-09-27T16:30:55.395832+00:00",
  "assets": [
   {
    "symbol": "MAGIC",
@@ -27,14 +27,6 @@
    "file": "GLMR.png"
   },
   {
-   "symbol": "JASMY",
-   "name": "JasmyCoin",
-   "sigma": 3.67,
-   "from_btc_pct": 29,
-   "verdict": "Overbought",
-   "file": "JASMY.png"
-  },
-  {
    "symbol": "ORCA",
    "name": "Orca",
    "sigma": 3.44,
@@ -57,6 +49,14 @@
    "from_btc_pct": 7,
    "verdict": "Overbought",
    "file": "XVG.png"
+  },
+  {
+   "symbol": "JASMY",
+   "name": "JasmyCoin",
+   "sigma": 2.9,
+   "from_btc_pct": 30,
+   "verdict": "Overbought",
+   "file": "JASMY.png"
   },
   {
    "symbol": "QNT",
