@@ -1,6 +1,6 @@
 {
  "date": "2026-09-27",
- "generated_at": "2026-09-27T09:30:54.956836+00:00",
+ "generated_at": "2026-09-27T11:30:50.738177+00:00",
  "assets": [
   {
    "symbol": "GLMR",
@@ -17,6 +17,14 @@
    "from_btc_pct": 7,
    "verdict": "Overbought",
    "file": "XVG.png"
+  },
+  {
+   "symbol": "ORCA",
+   "name": "Orca",
+   "sigma": 3.44,
+   "from_btc_pct": 13,
+   "verdict": "Overbought",
+   "file": "ORCA.png"
   },
   {
    "symbol": "W",
