@@ -1,6 +1,6 @@
 {
  "date": "2026-09-27",
- "generated_at": "2026-09-27T19:45:52.003669+00:00",
+ "generated_at": "2026-09-27T20:30:50.835023+00:00",
  "assets": [
   {
    "symbol": "MAGIC",
@@ -51,14 +51,6 @@
    "file": "XVG.png"
   },
   {
-   "symbol": "GLMR",
-   "name": "Moonbeam",
-   "sigma": 2.67,
-   "from_btc_pct": 19,
-   "verdict": "Overbought",
-   "file": "GLMR.png"
-  },
-  {
    "symbol": "QNT",
    "name": "Quant",
    "sigma": 2.6,
@@ -81,6 +73,14 @@
    "from_btc_pct": 2,
    "verdict": "Overbought",
    "file": "AMP.png"
+  },
+  {
+   "symbol": "GLMR",
+   "name": "Moonbeam",
+   "sigma": 2.53,
+   "from_btc_pct": 19,
+   "verdict": "Overbought",
+   "file": "GLMR.png"
   }
  ]
 }
