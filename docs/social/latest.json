@@ -1,6 +1,6 @@
 {
  "date": "2026-09-27",
- "generated_at": "2026-09-27T12:45:48.364661+00:00",
+ "generated_at": "2026-09-27T13:09:16.690052+00:00",
  "assets": [
   {
    "symbol": "AUDIO",
@@ -41,6 +41,14 @@
    "from_btc_pct": 8,
    "verdict": "Overbought",
    "file": "XVG.png"
+  },
+  {
+   "symbol": "AMP",
+   "name": "Amp",
+   "sigma": 2.56,
+   "from_btc_pct": 2,
+   "verdict": "Overbought",
+   "file": "AMP.png"
   },
   {
    "symbol": "QNT",
