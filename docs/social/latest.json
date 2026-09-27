@@ -1,6 +1,6 @@
 {
  "date": "2026-09-27",
- "generated_at": "2026-09-27T21:45:46.522805+00:00",
+ "generated_at": "2026-09-27T22:15:50.030218+00:00",
  "assets": [
   {
    "symbol": "MAGIC",
@@ -33,6 +33,14 @@
    "from_btc_pct": 26,
    "verdict": "Overbought",
    "file": "W.png"
+  },
+  {
+   "symbol": "NOM",
+   "name": "Nomina",
+   "sigma": 3.03,
+   "from_btc_pct": 2,
+   "verdict": "Overbought",
+   "file": "NOM.png"
   },
   {
    "symbol": "QNT",
