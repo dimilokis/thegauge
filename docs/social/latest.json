@@ -1,6 +1,6 @@
 {
  "date": "2026-09-27",
- "generated_at": "2026-09-27T22:30:51.889165+00:00",
+ "generated_at": "2026-09-27T22:45:48.627789+00:00",
  "assets": [
   {
    "symbol": "MAGIC",
@@ -51,6 +51,22 @@
    "file": "NOM.png"
   },
   {
+   "symbol": "AMP",
+   "name": "Amp",
+   "sigma": 2.74,
+   "from_btc_pct": 2,
+   "verdict": "Neutral",
+   "file": "AMP.png"
+  },
+  {
+   "symbol": "GLMR",
+   "name": "Moonbeam",
+   "sigma": 2.62,
+   "from_btc_pct": 16,
+   "verdict": "Overbought",
+   "file": "GLMR.png"
+  },
+  {
    "symbol": "QNT",
    "name": "Quant",
    "sigma": 2.6,
@@ -59,28 +75,12 @@
    "file": "QNT.png"
   },
   {
-   "symbol": "AMP",
-   "name": "Amp",
-   "sigma": 2.58,
-   "from_btc_pct": 2,
-   "verdict": "Overbought",
-   "file": "AMP.png"
-  },
-  {
    "symbol": "XVG",
    "name": "Verge",
    "sigma": 2.56,
    "from_btc_pct": 7,
    "verdict": "Overbought",
    "file": "XVG.png"
-  },
-  {
-   "symbol": "GLMR",
-   "name": "Moonbeam",
-   "sigma": 2.53,
-   "from_btc_pct": 19,
-   "verdict": "Overbought",
-   "file": "GLMR.png"
   },
   {
    "symbol": "JASMY",
