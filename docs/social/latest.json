@@ -1,6 +1,6 @@
 {
  "date": "2026-09-27",
- "generated_at": "2026-09-27T20:45:47.484910+00:00",
+ "generated_at": "2026-09-27T21:45:46.522805+00:00",
  "assets": [
   {
    "symbol": "MAGIC",
@@ -25,14 +25,6 @@
    "from_btc_pct": 22,
    "verdict": "Overbought",
    "file": "GRT.png"
-  },
-  {
-   "symbol": "ORCA",
-   "name": "Orca",
-   "sigma": 3.44,
-   "from_btc_pct": 13,
-   "verdict": "Overbought",
-   "file": "ORCA.png"
   },
   {
    "symbol": "W",
@@ -73,6 +65,14 @@
    "from_btc_pct": 7,
    "verdict": "Overbought",
    "file": "XVG.png"
+  },
+  {
+   "symbol": "ORCA",
+   "name": "Orca",
+   "sigma": 2.55,
+   "from_btc_pct": 13,
+   "verdict": "Overbought",
+   "file": "ORCA.png"
   },
   {
    "symbol": "GLMR",
