@@ -1,6 +1,6 @@
 {
  "date": "2026-09-26",
- "generated_at": "2026-09-26T22:00:53.432111+00:00",
+ "generated_at": "2026-09-27T01:30:55.758733+00:00",
  "assets": [
   {
    "symbol": "AMP",
@@ -67,20 +67,20 @@
    "file": "FIL.png"
   },
   {
+   "symbol": "QNT",
+   "name": "Quant",
+   "sigma": 2.98,
+   "from_btc_pct": 1,
+   "verdict": "Overbought",
+   "file": "QNT.png"
+  },
+  {
    "symbol": "GRAM",
    "name": "Gram (prev. Toncoin)",
    "sigma": 2.75,
    "from_btc_pct": 34,
    "verdict": "Neutral",
    "file": "GRAM.png"
-  },
-  {
-   "symbol": "QNT",
-   "name": "Quant",
-   "sigma": 2.57,
-   "from_btc_pct": 5,
-   "verdict": "Overbought",
-   "file": "QNT.png"
   },
   {
    "symbol": "TNSR",
