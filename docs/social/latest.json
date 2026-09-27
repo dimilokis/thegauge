@@ -1,94 +1,14 @@
 {
- "date": "2026-09-26",
- "generated_at": "2026-09-27T01:30:55.758733+00:00",
+ "date": "2026-09-27",
+ "generated_at": "2026-09-27T04:45:50.510786+00:00",
  "assets": [
-  {
-   "symbol": "AMP",
-   "name": "Amp",
-   "sigma": 20.04,
-   "from_btc_pct": 2,
-   "verdict": "Overbought",
-   "file": "AMP.png"
-  },
-  {
-   "symbol": "2Z",
-   "name": "DoubleZero",
-   "sigma": 7.58,
-   "from_btc_pct": 19,
-   "verdict": "Overbought",
-   "file": "2Z.png"
-  },
-  {
-   "symbol": "RARE",
-   "name": "SuperRare",
-   "sigma": 5.0,
-   "from_btc_pct": 10,
-   "verdict": "Overbought",
-   "file": "RARE.png"
-  },
-  {
-   "symbol": "SPELL",
-   "name": "Spell",
-   "sigma": 4.72,
-   "from_btc_pct": 19,
-   "verdict": "Overbought",
-   "file": "SPELL.png"
-  },
-  {
-   "symbol": "KMNO",
-   "name": "Kamino",
-   "sigma": 4.47,
-   "from_btc_pct": 3,
-   "verdict": "Overbought",
-   "file": "KMNO.png"
-  },
-  {
-   "symbol": "QUICK",
-   "name": "Quickswap",
-   "sigma": 3.59,
-   "from_btc_pct": 3,
-   "verdict": "Overbought",
-   "file": "QUICK.png"
-  },
-  {
-   "symbol": "KITE",
-   "name": "Kite",
-   "sigma": 3.55,
-   "from_btc_pct": 3,
-   "verdict": "Strong Uptrend",
-   "file": "KITE.png"
-  },
-  {
-   "symbol": "FIL",
-   "name": "Filecoin",
-   "sigma": 3.16,
-   "from_btc_pct": 10,
-   "verdict": "Strong Uptrend",
-   "file": "FIL.png"
-  },
   {
    "symbol": "QNT",
    "name": "Quant",
-   "sigma": 2.98,
+   "sigma": 3.3,
    "from_btc_pct": 1,
    "verdict": "Overbought",
    "file": "QNT.png"
-  },
-  {
-   "symbol": "GRAM",
-   "name": "Gram (prev. Toncoin)",
-   "sigma": 2.75,
-   "from_btc_pct": 34,
-   "verdict": "Neutral",
-   "file": "GRAM.png"
-  },
-  {
-   "symbol": "TNSR",
-   "name": "Tensor",
-   "sigma": 2.54,
-   "from_btc_pct": 22,
-   "verdict": "Overbought",
-   "file": "TNSR.png"
   }
  ]
 }
