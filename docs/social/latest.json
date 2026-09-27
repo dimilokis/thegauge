@@ -1,6 +1,6 @@
 {
  "date": "2026-09-27",
- "generated_at": "2026-09-27T13:09:16.690052+00:00",
+ "generated_at": "2026-09-27T13:45:51.561094+00:00",
  "assets": [
   {
    "symbol": "AUDIO",
@@ -17,6 +17,14 @@
    "from_btc_pct": 12,
    "verdict": "Overbought",
    "file": "GLMR.png"
+  },
+  {
+   "symbol": "JASMY",
+   "name": "JasmyCoin",
+   "sigma": 3.67,
+   "from_btc_pct": 29,
+   "verdict": "Overbought",
+   "file": "JASMY.png"
   },
   {
    "symbol": "ORCA",
