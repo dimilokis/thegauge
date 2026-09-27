@@ -1,6 +1,6 @@
 {
  "date": "2026-09-27",
- "generated_at": "2026-09-27T11:30:50.738177+00:00",
+ "generated_at": "2026-09-27T11:45:49.476201+00:00",
  "assets": [
   {
    "symbol": "GLMR",
@@ -9,14 +9,6 @@
    "from_btc_pct": 12,
    "verdict": "Overbought",
    "file": "GLMR.png"
-  },
-  {
-   "symbol": "XVG",
-   "name": "Verge",
-   "sigma": 3.89,
-   "from_btc_pct": 7,
-   "verdict": "Overbought",
-   "file": "XVG.png"
   },
   {
    "symbol": "ORCA",
@@ -33,6 +25,14 @@
    "from_btc_pct": 26,
    "verdict": "Overbought",
    "file": "W.png"
+  },
+  {
+   "symbol": "XVG",
+   "name": "Verge",
+   "sigma": 2.67,
+   "from_btc_pct": 8,
+   "verdict": "Overbought",
+   "file": "XVG.png"
   },
   {
    "symbol": "QNT",
