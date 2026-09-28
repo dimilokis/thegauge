@@ -1,6 +1,6 @@
 {
  "date": "2026-09-28",
- "generated_at": "2026-09-28T18:01:04.130596+00:00",
+ "generated_at": "2026-09-28T18:15:53.061694+00:00",
  "assets": [
   {
    "symbol": "AUDIO",
@@ -51,6 +51,14 @@
    "file": "ORCA.png"
   },
   {
+   "symbol": "LINK",
+   "name": "Chainlink",
+   "sigma": 2.84,
+   "from_btc_pct": 37,
+   "verdict": "Strong Uptrend",
+   "file": "LINK.png"
+  },
+  {
    "symbol": "ALGO",
    "name": "Algorand",
    "sigma": 2.83,
@@ -89,14 +97,6 @@
    "from_btc_pct": 19,
    "verdict": "Overbought",
    "file": "W.png"
-  },
-  {
-   "symbol": "MET",
-   "name": "Meteora",
-   "sigma": 2.61,
-   "from_btc_pct": 28,
-   "verdict": "Overbought",
-   "file": "MET.png"
   }
  ]
 }
