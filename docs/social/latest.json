@@ -1,6 +1,6 @@
 {
  "date": "2026-09-28",
- "generated_at": "2026-09-28T17:00:59.722132+00:00",
+ "generated_at": "2026-09-28T17:30:51.761594+00:00",
  "assets": [
   {
    "symbol": "AUDIO",
@@ -17,6 +17,14 @@
    "from_btc_pct": 26,
    "verdict": "Overbought",
    "file": "JUV.png"
+  },
+  {
+   "symbol": "NMR",
+   "name": "Numeraire",
+   "sigma": 3.38,
+   "from_btc_pct": 17,
+   "verdict": "Overbought",
+   "file": "NMR.png"
   },
   {
    "symbol": "HBAR",
@@ -41,14 +49,6 @@
    "from_btc_pct": 16,
    "verdict": "Overbought",
    "file": "ALGO.png"
-  },
-  {
-   "symbol": "NMR",
-   "name": "Numeraire",
-   "sigma": 2.76,
-   "from_btc_pct": 16,
-   "verdict": "Overbought",
-   "file": "NMR.png"
   },
   {
    "symbol": "IMX",
