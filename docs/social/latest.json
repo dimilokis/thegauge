@@ -1,6 +1,6 @@
 {
  "date": "2026-09-28",
- "generated_at": "2026-09-28T15:45:55.402088+00:00",
+ "generated_at": "2026-09-28T16:01:00.677985+00:00",
  "assets": [
   {
    "symbol": "AUDIO",
@@ -83,20 +83,20 @@
    "file": "MET.png"
   },
   {
+   "symbol": "GRT",
+   "name": "The Graph",
+   "sigma": 2.59,
+   "from_btc_pct": 13,
+   "verdict": "Overbought",
+   "file": "GRT.png"
+  },
+  {
    "symbol": "APE",
    "name": "ApeCoin",
    "sigma": 2.55,
    "from_btc_pct": 40,
    "verdict": "Neutral",
    "file": "APE.png"
-  },
-  {
-   "symbol": "PENDLE",
-   "name": "Pendle",
-   "sigma": 2.5,
-   "from_btc_pct": 10,
-   "verdict": "Strong Uptrend",
-   "file": "PENDLE.png"
   }
  ]
 }
