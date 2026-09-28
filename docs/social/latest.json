@@ -1,6 +1,6 @@
 {
  "date": "2026-09-28",
- "generated_at": "2026-09-28T08:00:57.561251+00:00",
+ "generated_at": "2026-09-28T08:38:56.915256+00:00",
  "assets": [
   {
    "symbol": "AUDIO",
@@ -17,6 +17,14 @@
    "from_btc_pct": 26,
    "verdict": "Overbought",
    "file": "JUV.png"
+  },
+  {
+   "symbol": "HBAR",
+   "name": "Hedera",
+   "sigma": 3.28,
+   "from_btc_pct": 33,
+   "verdict": "Strong Uptrend",
+   "file": "HBAR.png"
   },
   {
    "symbol": "W",
