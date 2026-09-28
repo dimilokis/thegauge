@@ -1,7 +1,15 @@
 {
  "date": "2026-09-28",
- "generated_at": "2026-09-28T11:00:58.671110+00:00",
+ "generated_at": "2026-09-28T11:45:49.023719+00:00",
  "assets": [
+  {
+   "symbol": "NMR",
+   "name": "Numeraire",
+   "sigma": 6.18,
+   "from_btc_pct": 8,
+   "verdict": "Overbought",
+   "file": "NMR.png"
+  },
   {
    "symbol": "AUDIO",
    "name": "Audius",
@@ -25,6 +33,14 @@
    "from_btc_pct": 33,
    "verdict": "Strong Uptrend",
    "file": "HBAR.png"
+  },
+  {
+   "symbol": "ALGO",
+   "name": "Algorand",
+   "sigma": 3.19,
+   "from_btc_pct": 15,
+   "verdict": "Overbought",
+   "file": "ALGO.png"
   },
   {
    "symbol": "ORCA",
@@ -57,14 +73,6 @@
    "from_btc_pct": 20,
    "verdict": "Strong Uptrend",
    "file": "ONDO.png"
-  },
-  {
-   "symbol": "ALGO",
-   "name": "Algorand",
-   "sigma": 2.55,
-   "from_btc_pct": 16,
-   "verdict": "Overbought",
-   "file": "ALGO.png"
   },
   {
    "symbol": "W",
