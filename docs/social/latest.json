@@ -1,15 +1,7 @@
 {
  "date": "2026-09-28",
- "generated_at": "2026-09-28T21:15:52.414470+00:00",
+ "generated_at": "2026-09-28T21:30:59.523768+00:00",
  "assets": [
-  {
-   "symbol": "AUDIO",
-   "name": "Audius",
-   "sigma": 4.79,
-   "from_btc_pct": 8,
-   "verdict": "Overbought",
-   "file": "AUDIO.png"
-  },
   {
    "symbol": "JUV",
    "name": "Juventus Fan Token",
@@ -83,6 +75,14 @@
    "file": "IOTA.png"
   },
   {
+   "symbol": "AUDIO",
+   "name": "Audius",
+   "sigma": 2.59,
+   "from_btc_pct": 18,
+   "verdict": "Overbought",
+   "file": "AUDIO.png"
+  },
+  {
    "symbol": "ZEN",
    "name": "Horizen",
    "sigma": 2.58,
@@ -93,7 +93,7 @@
   {
    "symbol": "IMX",
    "name": "Immutable",
-   "sigma": 2.56,
+   "sigma": 2.54,
    "from_btc_pct": 29,
    "verdict": "Overbought",
    "file": "IMX.png"
