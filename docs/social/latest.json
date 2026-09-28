@@ -1,6 +1,6 @@
 {
  "date": "2026-09-28",
- "generated_at": "2026-09-28T13:15:56.806763+00:00",
+ "generated_at": "2026-09-28T14:15:57.957123+00:00",
  "assets": [
   {
    "symbol": "AUDIO",
@@ -69,8 +69,8 @@
   {
    "symbol": "W",
    "name": "Wormhole",
-   "sigma": 2.57,
-   "from_btc_pct": 20,
+   "sigma": 2.66,
+   "from_btc_pct": 19,
    "verdict": "Overbought",
    "file": "W.png"
   },
