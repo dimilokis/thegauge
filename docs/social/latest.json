@@ -1,6 +1,6 @@
 {
  "date": "2026-09-28",
- "generated_at": "2026-09-28T10:31:11.417025+00:00",
+ "generated_at": "2026-09-28T10:45:51.596479+00:00",
  "assets": [
   {
    "symbol": "AUDIO",
@@ -43,6 +43,14 @@
    "file": "ORCA.png"
   },
   {
+   "symbol": "MET",
+   "name": "Meteora",
+   "sigma": 2.74,
+   "from_btc_pct": 28,
+   "verdict": "Overbought",
+   "file": "MET.png"
+  },
+  {
    "symbol": "RARE",
    "name": "SuperRare",
    "sigma": 2.68,
@@ -57,6 +65,14 @@
    "from_btc_pct": 20,
    "verdict": "Strong Uptrend",
    "file": "ONDO.png"
+  },
+  {
+   "symbol": "ALGO",
+   "name": "Algorand",
+   "sigma": 2.55,
+   "from_btc_pct": 16,
+   "verdict": "Overbought",
+   "file": "ALGO.png"
   }
  ]
 }
