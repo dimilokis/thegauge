@@ -1,6 +1,6 @@
 {
  "date": "2026-09-28",
- "generated_at": "2026-09-28T19:15:54.113838+00:00",
+ "generated_at": "2026-09-28T19:45:56.364329+00:00",
  "assets": [
   {
    "symbol": "AUDIO",
@@ -75,28 +75,28 @@
    "file": "IMX.png"
   },
   {
+   "symbol": "ZEN",
+   "name": "Horizen",
+   "sigma": 2.71,
+   "from_btc_pct": 15,
+   "verdict": "Neutral",
+   "file": "ZEN.png"
+  },
+  {
+   "symbol": "PENDLE",
+   "name": "Pendle",
+   "sigma": 2.7,
+   "from_btc_pct": 10,
+   "verdict": "Strong Uptrend",
+   "file": "PENDLE.png"
+  },
+  {
    "symbol": "ATOM",
    "name": "Cosmos Hub",
-   "sigma": 2.69,
-   "from_btc_pct": 16,
+   "sigma": 2.55,
+   "from_btc_pct": 17,
    "verdict": "Neutral",
    "file": "ATOM.png"
-  },
-  {
-   "symbol": "RARE",
-   "name": "SuperRare",
-   "sigma": 2.68,
-   "from_btc_pct": 8,
-   "verdict": "Overbought",
-   "file": "RARE.png"
-  },
-  {
-   "symbol": "W",
-   "name": "Wormhole",
-   "sigma": 2.66,
-   "from_btc_pct": 19,
-   "verdict": "Overbought",
-   "file": "W.png"
   }
  ]
 }
