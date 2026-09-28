@@ -1,6 +1,6 @@
 {
  "date": "2026-09-28",
- "generated_at": "2026-09-28T21:30:59.523768+00:00",
+ "generated_at": "2026-09-28T21:45:50.646643+00:00",
  "assets": [
   {
    "symbol": "JUV",
@@ -91,12 +91,12 @@
    "file": "ZEN.png"
   },
   {
-   "symbol": "IMX",
-   "name": "Immutable",
-   "sigma": 2.54,
-   "from_btc_pct": 29,
-   "verdict": "Overbought",
-   "file": "IMX.png"
+   "symbol": "ATOM",
+   "name": "Cosmos Hub",
+   "sigma": 2.58,
+   "from_btc_pct": 17,
+   "verdict": "Neutral",
+   "file": "ATOM.png"
   }
  ]
 }
