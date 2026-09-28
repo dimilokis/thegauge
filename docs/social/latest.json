@@ -1,94 +1,14 @@
 {
- "date": "2026-09-27",
- "generated_at": "2026-09-27T22:45:48.627789+00:00",
+ "date": "2026-09-28",
+ "generated_at": "2026-09-28T05:15:50.645638+00:00",
  "assets": [
-  {
-   "symbol": "MAGIC",
-   "name": "Treasure",
-   "sigma": 7.96,
-   "from_btc_pct": 26,
-   "verdict": "Overbought",
-   "file": "MAGIC.png"
-  },
   {
    "symbol": "AUDIO",
    "name": "Audius",
-   "sigma": 7.5,
-   "from_btc_pct": 21,
+   "sigma": 4.92,
+   "from_btc_pct": 8,
    "verdict": "Overbought",
    "file": "AUDIO.png"
-  },
-  {
-   "symbol": "GRT",
-   "name": "The Graph",
-   "sigma": 5.42,
-   "from_btc_pct": 22,
-   "verdict": "Overbought",
-   "file": "GRT.png"
-  },
-  {
-   "symbol": "W",
-   "name": "Wormhole",
-   "sigma": 3.38,
-   "from_btc_pct": 26,
-   "verdict": "Overbought",
-   "file": "W.png"
-  },
-  {
-   "symbol": "ORCA",
-   "name": "Orca",
-   "sigma": 3.06,
-   "from_btc_pct": 12,
-   "verdict": "Overbought",
-   "file": "ORCA.png"
-  },
-  {
-   "symbol": "NOM",
-   "name": "Nomina",
-   "sigma": 3.03,
-   "from_btc_pct": 2,
-   "verdict": "Overbought",
-   "file": "NOM.png"
-  },
-  {
-   "symbol": "AMP",
-   "name": "Amp",
-   "sigma": 2.74,
-   "from_btc_pct": 2,
-   "verdict": "Neutral",
-   "file": "AMP.png"
-  },
-  {
-   "symbol": "GLMR",
-   "name": "Moonbeam",
-   "sigma": 2.62,
-   "from_btc_pct": 16,
-   "verdict": "Overbought",
-   "file": "GLMR.png"
-  },
-  {
-   "symbol": "QNT",
-   "name": "Quant",
-   "sigma": 2.6,
-   "from_btc_pct": 1,
-   "verdict": "Overbought",
-   "file": "QNT.png"
-  },
-  {
-   "symbol": "XVG",
-   "name": "Verge",
-   "sigma": 2.56,
-   "from_btc_pct": 7,
-   "verdict": "Overbought",
-   "file": "XVG.png"
-  },
-  {
-   "symbol": "JASMY",
-   "name": "JasmyCoin",
-   "sigma": 2.52,
-   "from_btc_pct": 31,
-   "verdict": "Overbought",
-   "file": "JASMY.png"
   }
  ]
 }
