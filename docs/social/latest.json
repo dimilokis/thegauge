@@ -1,6 +1,6 @@
 {
  "date": "2026-09-28",
- "generated_at": "2026-09-28T08:45:53.379612+00:00",
+ "generated_at": "2026-09-28T09:30:59.144844+00:00",
  "assets": [
   {
    "symbol": "AUDIO",
@@ -33,6 +33,14 @@
    "from_btc_pct": 21,
    "verdict": "Overbought",
    "file": "W.png"
+  },
+  {
+   "symbol": "RARE",
+   "name": "SuperRare",
+   "sigma": 2.68,
+   "from_btc_pct": 8,
+   "verdict": "Overbought",
+   "file": "RARE.png"
   }
  ]
 }
