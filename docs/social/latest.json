@@ -1,6 +1,6 @@
 {
  "date": "2026-09-28",
- "generated_at": "2026-09-28T20:31:43.755952+00:00",
+ "generated_at": "2026-09-28T20:45:52.591948+00:00",
  "assets": [
   {
    "symbol": "AUDIO",
@@ -59,28 +59,12 @@
    "file": "APE.png"
   },
   {
-   "symbol": "IMX",
-   "name": "Immutable",
-   "sigma": 2.74,
-   "from_btc_pct": 28,
-   "verdict": "Overbought",
-   "file": "IMX.png"
-  },
-  {
    "symbol": "LINK",
    "name": "Chainlink",
    "sigma": 2.72,
    "from_btc_pct": 35,
    "verdict": "Strong Uptrend",
    "file": "LINK.png"
-  },
-  {
-   "symbol": "ZEN",
-   "name": "Horizen",
-   "sigma": 2.71,
-   "from_btc_pct": 15,
-   "verdict": "Neutral",
-   "file": "ZEN.png"
   },
   {
    "symbol": "PENDLE",
@@ -97,6 +81,22 @@
    "from_btc_pct": 34,
    "verdict": "Overbought",
    "file": "IOTA.png"
+  },
+  {
+   "symbol": "ZEN",
+   "name": "Horizen",
+   "sigma": 2.58,
+   "from_btc_pct": 14,
+   "verdict": "Neutral",
+   "file": "ZEN.png"
+  },
+  {
+   "symbol": "IMX",
+   "name": "Immutable",
+   "sigma": 2.56,
+   "from_btc_pct": 29,
+   "verdict": "Overbought",
+   "file": "IMX.png"
   }
  ]
 }
