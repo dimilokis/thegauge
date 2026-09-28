@@ -1,6 +1,6 @@
 {
  "date": "2026-09-28",
- "generated_at": "2026-09-28T20:45:52.591948+00:00",
+ "generated_at": "2026-09-28T21:15:52.414470+00:00",
  "assets": [
   {
    "symbol": "AUDIO",
@@ -69,8 +69,8 @@
   {
    "symbol": "PENDLE",
    "name": "Pendle",
-   "sigma": 2.7,
-   "from_btc_pct": 10,
+   "sigma": 2.63,
+   "from_btc_pct": 9,
    "verdict": "Strong Uptrend",
    "file": "PENDLE.png"
   },
