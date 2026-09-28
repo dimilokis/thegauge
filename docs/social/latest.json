@@ -1,6 +1,6 @@
 {
  "date": "2026-09-28",
- "generated_at": "2026-09-28T15:00:59.329821+00:00",
+ "generated_at": "2026-09-28T15:15:54.270479+00:00",
  "assets": [
   {
    "symbol": "AUDIO",
@@ -27,14 +27,6 @@
    "file": "HBAR.png"
   },
   {
-   "symbol": "ALGO",
-   "name": "Algorand",
-   "sigma": 3.19,
-   "from_btc_pct": 15,
-   "verdict": "Overbought",
-   "file": "ALGO.png"
-  },
-  {
    "symbol": "NMR",
    "name": "Numeraire",
    "sigma": 3.15,
@@ -49,6 +41,14 @@
    "from_btc_pct": 15,
    "verdict": "Overbought",
    "file": "ORCA.png"
+  },
+  {
+   "symbol": "ALGO",
+   "name": "Algorand",
+   "sigma": 2.83,
+   "from_btc_pct": 16,
+   "verdict": "Overbought",
+   "file": "ALGO.png"
   },
   {
    "symbol": "IMX",
@@ -85,7 +85,7 @@
   {
    "symbol": "MET",
    "name": "Meteora",
-   "sigma": 2.58,
+   "sigma": 2.61,
    "from_btc_pct": 28,
    "verdict": "Overbought",
    "file": "MET.png"
