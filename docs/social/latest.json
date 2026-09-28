@@ -1,6 +1,6 @@
 {
  "date": "2026-09-28",
- "generated_at": "2026-09-28T19:45:56.364329+00:00",
+ "generated_at": "2026-09-28T20:31:43.755952+00:00",
  "assets": [
   {
    "symbol": "AUDIO",
@@ -35,14 +35,6 @@
    "file": "HBAR.png"
   },
   {
-   "symbol": "IOTA",
-   "name": "IOTA",
-   "sigma": 3.03,
-   "from_btc_pct": 34,
-   "verdict": "Overbought",
-   "file": "IOTA.png"
-  },
-  {
    "symbol": "ORCA",
    "name": "Orca",
    "sigma": 2.91,
@@ -75,6 +67,14 @@
    "file": "IMX.png"
   },
   {
+   "symbol": "LINK",
+   "name": "Chainlink",
+   "sigma": 2.72,
+   "from_btc_pct": 35,
+   "verdict": "Strong Uptrend",
+   "file": "LINK.png"
+  },
+  {
    "symbol": "ZEN",
    "name": "Horizen",
    "sigma": 2.71,
@@ -91,12 +91,12 @@
    "file": "PENDLE.png"
   },
   {
-   "symbol": "ATOM",
-   "name": "Cosmos Hub",
-   "sigma": 2.55,
-   "from_btc_pct": 17,
-   "verdict": "Neutral",
-   "file": "ATOM.png"
+   "symbol": "IOTA",
+   "name": "IOTA",
+   "sigma": 2.61,
+   "from_btc_pct": 34,
+   "verdict": "Overbought",
+   "file": "IOTA.png"
   }
  ]
 }
