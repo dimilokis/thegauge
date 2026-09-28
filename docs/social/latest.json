@@ -1,6 +1,6 @@
 {
  "date": "2026-09-28",
- "generated_at": "2026-09-28T11:45:49.023719+00:00",
+ "generated_at": "2026-09-28T12:00:52.666190+00:00",
  "assets": [
   {
    "symbol": "NMR",
@@ -67,20 +67,20 @@
    "file": "RARE.png"
   },
   {
+   "symbol": "W",
+   "name": "Wormhole",
+   "sigma": 2.57,
+   "from_btc_pct": 20,
+   "verdict": "Overbought",
+   "file": "W.png"
+  },
+  {
    "symbol": "ONDO",
    "name": "Ondo",
    "sigma": 2.55,
    "from_btc_pct": 20,
    "verdict": "Strong Uptrend",
    "file": "ONDO.png"
-  },
-  {
-   "symbol": "W",
-   "name": "Wormhole",
-   "sigma": 2.55,
-   "from_btc_pct": 21,
-   "verdict": "Overbought",
-   "file": "W.png"
   }
  ]
 }
