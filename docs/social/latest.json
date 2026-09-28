@@ -1,6 +1,6 @@
 {
  "date": "2026-09-28",
- "generated_at": "2026-09-28T17:30:51.761594+00:00",
+ "generated_at": "2026-09-28T18:01:04.130596+00:00",
  "assets": [
   {
    "symbol": "AUDIO",
@@ -33,6 +33,14 @@
    "from_btc_pct": 33,
    "verdict": "Strong Uptrend",
    "file": "HBAR.png"
+  },
+  {
+   "symbol": "IOTA",
+   "name": "IOTA",
+   "sigma": 3.03,
+   "from_btc_pct": 34,
+   "verdict": "Overbought",
+   "file": "IOTA.png"
   },
   {
    "symbol": "ORCA",
@@ -89,14 +97,6 @@
    "from_btc_pct": 28,
    "verdict": "Overbought",
    "file": "MET.png"
-  },
-  {
-   "symbol": "GRT",
-   "name": "The Graph",
-   "sigma": 2.55,
-   "from_btc_pct": 12,
-   "verdict": "Overbought",
-   "file": "GRT.png"
   }
  ]
 }
