@@ -1,6 +1,6 @@
 {
  "date": "2026-09-28",
- "generated_at": "2026-09-28T16:15:54.552813+00:00",
+ "generated_at": "2026-09-28T16:45:53.296979+00:00",
  "assets": [
   {
    "symbol": "AUDIO",
@@ -59,6 +59,14 @@
    "file": "IMX.png"
   },
   {
+   "symbol": "ATOM",
+   "name": "Cosmos Hub",
+   "sigma": 2.69,
+   "from_btc_pct": 16,
+   "verdict": "Neutral",
+   "file": "ATOM.png"
+  },
+  {
    "symbol": "RARE",
    "name": "SuperRare",
    "sigma": 2.68,
@@ -85,18 +93,10 @@
   {
    "symbol": "GRT",
    "name": "The Graph",
-   "sigma": 2.59,
-   "from_btc_pct": 13,
+   "sigma": 2.55,
+   "from_btc_pct": 12,
    "verdict": "Overbought",
    "file": "GRT.png"
-  },
-  {
-   "symbol": "APE",
-   "name": "ApeCoin",
-   "sigma": 2.55,
-   "from_btc_pct": 40,
-   "verdict": "Neutral",
-   "file": "APE.png"
   }
  ]
 }
