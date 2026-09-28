@@ -1,6 +1,6 @@
 {
  "date": "2026-09-28",
- "generated_at": "2026-09-28T15:30:56.445499+00:00",
+ "generated_at": "2026-09-28T15:45:55.402088+00:00",
  "assets": [
   {
    "symbol": "AUDIO",
@@ -75,14 +75,6 @@
    "file": "W.png"
   },
   {
-   "symbol": "PENDLE",
-   "name": "Pendle",
-   "sigma": 2.61,
-   "from_btc_pct": 10,
-   "verdict": "Strong Uptrend",
-   "file": "PENDLE.png"
-  },
-  {
    "symbol": "MET",
    "name": "Meteora",
    "sigma": 2.61,
@@ -97,6 +89,14 @@
    "from_btc_pct": 40,
    "verdict": "Neutral",
    "file": "APE.png"
+  },
+  {
+   "symbol": "PENDLE",
+   "name": "Pendle",
+   "sigma": 2.5,
+   "from_btc_pct": 10,
+   "verdict": "Strong Uptrend",
+   "file": "PENDLE.png"
   }
  ]
 }
