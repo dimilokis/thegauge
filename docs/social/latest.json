@@ -1,12 +1,12 @@
 {
  "date": "2026-09-28",
- "generated_at": "2026-09-28T06:45:53.131629+00:00",
+ "generated_at": "2026-09-28T07:15:53.583857+00:00",
  "assets": [
   {
    "symbol": "AUDIO",
    "name": "Audius",
-   "sigma": 2.56,
-   "from_btc_pct": 12,
+   "sigma": 4.79,
+   "from_btc_pct": 8,
    "verdict": "Overbought",
    "file": "AUDIO.png"
   }
