@@ -1,6 +1,6 @@
 {
  "date": "2026-09-29",
- "generated_at": "2026-09-29T16:45:54.230896+00:00",
+ "generated_at": "2026-09-29T17:45:51.715283+00:00",
  "assets": [
   {
    "symbol": "INIT",
@@ -35,20 +35,20 @@
    "file": "ETHFI.png"
   },
   {
-   "symbol": "0G",
-   "name": "0G",
-   "sigma": 2.64,
-   "from_btc_pct": 8,
-   "verdict": "Overbought",
-   "file": "0G.png"
-  },
-  {
    "symbol": "NMR",
    "name": "Numeraire",
    "sigma": 2.62,
    "from_btc_pct": 1,
    "verdict": "Overbought",
    "file": "NMR.png"
+  },
+  {
+   "symbol": "0G",
+   "name": "0G",
+   "sigma": 2.61,
+   "from_btc_pct": 6,
+   "verdict": "Overbought",
+   "file": "0G.png"
   },
   {
    "symbol": "PUMP",
