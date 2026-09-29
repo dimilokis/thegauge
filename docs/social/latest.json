@@ -1,6 +1,6 @@
 {
  "date": "2026-09-29",
- "generated_at": "2026-09-29T22:01:00.864466+00:00",
+ "generated_at": "2026-09-29T22:30:48.662469+00:00",
  "assets": [
   {
    "symbol": "INIT",
@@ -43,14 +43,6 @@
    "file": "ETHFI.png"
   },
   {
-   "symbol": "PUMP",
-   "name": "Pump.fun",
-   "sigma": 2.96,
-   "from_btc_pct": 9,
-   "verdict": "Strong Uptrend",
-   "file": "PUMP.png"
-  },
-  {
    "symbol": "MOVR",
    "name": "Moonriver",
    "sigma": 2.89,
@@ -73,6 +65,14 @@
    "from_btc_pct": 37,
    "verdict": "Strong Uptrend",
    "file": "AAVE.png"
+  },
+  {
+   "symbol": "PUMP",
+   "name": "Pump.fun",
+   "sigma": 2.63,
+   "from_btc_pct": 10,
+   "verdict": "Strong Uptrend",
+   "file": "PUMP.png"
   },
   {
    "symbol": "NMR",
