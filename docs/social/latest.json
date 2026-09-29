@@ -1,6 +1,6 @@
 {
  "date": "2026-09-29",
- "generated_at": "2026-09-29T14:45:51.926112+00:00",
+ "generated_at": "2026-09-29T15:15:54.677242+00:00",
  "assets": [
   {
    "symbol": "CELO",
@@ -19,20 +19,20 @@
    "file": "ETHFI.png"
   },
   {
-   "symbol": "PUMP",
-   "name": "Pump.fun",
-   "sigma": 2.68,
-   "from_btc_pct": 11,
-   "verdict": "Strong Uptrend",
-   "file": "PUMP.png"
-  },
-  {
    "symbol": "0G",
    "name": "0G",
    "sigma": 2.64,
    "from_btc_pct": 8,
    "verdict": "Overbought",
    "file": "0G.png"
+  },
+  {
+   "symbol": "PUMP",
+   "name": "Pump.fun",
+   "sigma": 2.57,
+   "from_btc_pct": 9,
+   "verdict": "Strong Uptrend",
+   "file": "PUMP.png"
   },
   {
    "symbol": "AAVE",
