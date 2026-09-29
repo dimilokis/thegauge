@@ -1,6 +1,6 @@
 {
  "date": "2026-09-29",
- "generated_at": "2026-09-29T17:45:51.715283+00:00",
+ "generated_at": "2026-09-29T18:15:46.532444+00:00",
  "assets": [
   {
    "symbol": "INIT",
@@ -45,8 +45,8 @@
   {
    "symbol": "0G",
    "name": "0G",
-   "sigma": 2.61,
-   "from_btc_pct": 6,
+   "sigma": 2.58,
+   "from_btc_pct": 7,
    "verdict": "Overbought",
    "file": "0G.png"
   },
@@ -81,6 +81,14 @@
    "from_btc_pct": 12,
    "verdict": "Strong Uptrend",
    "file": "AVAX.png"
+  },
+  {
+   "symbol": "SKY",
+   "name": "Sky",
+   "sigma": 2.5,
+   "from_btc_pct": 12,
+   "verdict": "Overbought",
+   "file": "SKY.png"
   }
  ]
 }
