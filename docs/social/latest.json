@@ -1,6 +1,6 @@
 {
  "date": "2026-09-29",
- "generated_at": "2026-09-29T20:30:53.752039+00:00",
+ "generated_at": "2026-09-29T21:45:59.231651+00:00",
  "assets": [
   {
    "symbol": "INIT",
@@ -9,6 +9,14 @@
    "from_btc_pct": 4,
    "verdict": "Overbought",
    "file": "INIT.png"
+  },
+  {
+   "symbol": "BERA",
+   "name": "Berachain",
+   "sigma": 4.05,
+   "from_btc_pct": 21,
+   "verdict": "Overbought",
+   "file": "BERA.png"
   },
   {
    "symbol": "CELO",
@@ -89,14 +97,6 @@
    "from_btc_pct": 12,
    "verdict": "Strong Uptrend",
    "file": "AVAX.png"
-  },
-  {
-   "symbol": "SKY",
-   "name": "Sky",
-   "sigma": 2.5,
-   "from_btc_pct": 12,
-   "verdict": "Overbought",
-   "file": "SKY.png"
   }
  ]
 }
