@@ -1,6 +1,6 @@
 {
  "date": "2026-09-29",
- "generated_at": "2026-09-29T15:15:54.677242+00:00",
+ "generated_at": "2026-09-29T15:31:01.174770+00:00",
  "assets": [
   {
    "symbol": "CELO",
@@ -27,6 +27,14 @@
    "file": "0G.png"
   },
   {
+   "symbol": "NMR",
+   "name": "Numeraire",
+   "sigma": 2.62,
+   "from_btc_pct": 1,
+   "verdict": "Overbought",
+   "file": "NMR.png"
+  },
+  {
    "symbol": "PUMP",
    "name": "Pump.fun",
    "sigma": 2.57,
@@ -49,14 +57,6 @@
    "from_btc_pct": 18,
    "verdict": "Strong Uptrend",
    "file": "ICP.png"
-  },
-  {
-   "symbol": "NMR",
-   "name": "Numeraire",
-   "sigma": 2.51,
-   "from_btc_pct": 0,
-   "verdict": "Overbought",
-   "file": "NMR.png"
   },
   {
    "symbol": "AVAX",
