@@ -1,6 +1,6 @@
 {
  "date": "2026-09-29",
- "generated_at": "2026-09-29T19:30:50.139393+00:00",
+ "generated_at": "2026-09-29T20:30:53.752039+00:00",
  "assets": [
   {
    "symbol": "INIT",
@@ -19,14 +19,6 @@
    "file": "CELO.png"
   },
   {
-   "symbol": "PUMP",
-   "name": "Pump.fun",
-   "sigma": 3.15,
-   "from_btc_pct": 9,
-   "verdict": "Strong Uptrend",
-   "file": "PUMP.png"
-  },
-  {
    "symbol": "HBAR",
    "name": "Hedera",
    "sigma": 3.05,
@@ -41,6 +33,14 @@
    "from_btc_pct": 17,
    "verdict": "Strong Uptrend",
    "file": "ETHFI.png"
+  },
+  {
+   "symbol": "PUMP",
+   "name": "Pump.fun",
+   "sigma": 2.96,
+   "from_btc_pct": 9,
+   "verdict": "Strong Uptrend",
+   "file": "PUMP.png"
   },
   {
    "symbol": "MOVR",
@@ -67,20 +67,20 @@
    "file": "NMR.png"
   },
   {
-   "symbol": "AAVE",
-   "name": "Aave",
-   "sigma": 2.56,
-   "from_btc_pct": 38,
-   "verdict": "Strong Uptrend",
-   "file": "AAVE.png"
-  },
-  {
    "symbol": "0G",
    "name": "0G",
    "sigma": 2.53,
    "from_btc_pct": 7,
    "verdict": "Overbought",
    "file": "0G.png"
+  },
+  {
+   "symbol": "AAVE",
+   "name": "Aave",
+   "sigma": 2.53,
+   "from_btc_pct": 38,
+   "verdict": "Strong Uptrend",
+   "file": "AAVE.png"
   },
   {
    "symbol": "AVAX",
