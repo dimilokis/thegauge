@@ -1,11 +1,11 @@
 {
  "date": "2026-09-29",
- "generated_at": "2026-09-29T07:45:54.319780+00:00",
+ "generated_at": "2026-09-29T08:15:47.265133+00:00",
  "assets": [
   {
    "symbol": "ICP",
    "name": "Internet Computer",
-   "sigma": 2.71,
+   "sigma": 2.5,
    "from_btc_pct": 18,
    "verdict": "Strong Uptrend",
    "file": "ICP.png"
