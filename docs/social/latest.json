@@ -1,6 +1,6 @@
 {
  "date": "2026-09-29",
- "generated_at": "2026-09-29T12:15:51.075959+00:00",
+ "generated_at": "2026-09-29T13:30:54.272963+00:00",
  "assets": [
   {
    "symbol": "CELO",
@@ -37,7 +37,7 @@
   {
    "symbol": "ICP",
    "name": "Internet Computer",
-   "sigma": 2.5,
+   "sigma": 2.55,
    "from_btc_pct": 18,
    "verdict": "Strong Uptrend",
    "file": "ICP.png"
