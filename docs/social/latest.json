@@ -1,6 +1,6 @@
 {
  "date": "2026-09-29",
- "generated_at": "2026-09-29T19:00:58.629178+00:00",
+ "generated_at": "2026-09-29T19:30:50.139393+00:00",
  "assets": [
   {
    "symbol": "INIT",
@@ -17,6 +17,14 @@
    "from_btc_pct": 15,
    "verdict": "Overbought",
    "file": "CELO.png"
+  },
+  {
+   "symbol": "PUMP",
+   "name": "Pump.fun",
+   "sigma": 3.15,
+   "from_btc_pct": 9,
+   "verdict": "Strong Uptrend",
+   "file": "PUMP.png"
   },
   {
    "symbol": "HBAR",
@@ -51,14 +59,6 @@
    "file": "ICP.png"
   },
   {
-   "symbol": "PUMP",
-   "name": "Pump.fun",
-   "sigma": 2.69,
-   "from_btc_pct": 10,
-   "verdict": "Strong Uptrend",
-   "file": "PUMP.png"
-  },
-  {
    "symbol": "NMR",
    "name": "Numeraire",
    "sigma": 2.62,
@@ -69,8 +69,8 @@
   {
    "symbol": "AAVE",
    "name": "Aave",
-   "sigma": 2.55,
-   "from_btc_pct": 40,
+   "sigma": 2.56,
+   "from_btc_pct": 38,
    "verdict": "Strong Uptrend",
    "file": "AAVE.png"
   },
