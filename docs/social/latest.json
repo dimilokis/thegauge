@@ -1,6 +1,6 @@
 {
  "date": "2026-09-29",
- "generated_at": "2026-09-29T22:30:48.662469+00:00",
+ "generated_at": "2026-09-29T23:15:48.778667+00:00",
  "assets": [
   {
    "symbol": "INIT",
@@ -61,10 +61,18 @@
   {
    "symbol": "AAVE",
    "name": "Aave",
-   "sigma": 2.66,
-   "from_btc_pct": 37,
+   "sigma": 2.65,
+   "from_btc_pct": 39,
    "verdict": "Strong Uptrend",
    "file": "AAVE.png"
+  },
+  {
+   "symbol": "NMR",
+   "name": "Numeraire",
+   "sigma": 2.65,
+   "from_btc_pct": 0,
+   "verdict": "Overbought",
+   "file": "NMR.png"
   },
   {
    "symbol": "PUMP",
@@ -73,14 +81,6 @@
    "from_btc_pct": 10,
    "verdict": "Strong Uptrend",
    "file": "PUMP.png"
-  },
-  {
-   "symbol": "NMR",
-   "name": "Numeraire",
-   "sigma": 2.62,
-   "from_btc_pct": 1,
-   "verdict": "Overbought",
-   "file": "NMR.png"
   },
   {
    "symbol": "0G",
