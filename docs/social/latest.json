@@ -1,6 +1,6 @@
 {
  "date": "2026-09-29",
- "generated_at": "2026-09-29T21:45:59.231651+00:00",
+ "generated_at": "2026-09-29T22:01:00.864466+00:00",
  "assets": [
   {
    "symbol": "INIT",
@@ -67,6 +67,14 @@
    "file": "ICP.png"
   },
   {
+   "symbol": "AAVE",
+   "name": "Aave",
+   "sigma": 2.66,
+   "from_btc_pct": 37,
+   "verdict": "Strong Uptrend",
+   "file": "AAVE.png"
+  },
+  {
    "symbol": "NMR",
    "name": "Numeraire",
    "sigma": 2.62,
@@ -81,14 +89,6 @@
    "from_btc_pct": 7,
    "verdict": "Overbought",
    "file": "0G.png"
-  },
-  {
-   "symbol": "AAVE",
-   "name": "Aave",
-   "sigma": 2.53,
-   "from_btc_pct": 38,
-   "verdict": "Strong Uptrend",
-   "file": "AAVE.png"
   },
   {
    "symbol": "AVAX",
