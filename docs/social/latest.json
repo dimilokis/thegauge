@@ -1,7 +1,15 @@
 {
  "date": "2026-09-29",
- "generated_at": "2026-09-29T08:15:47.265133+00:00",
+ "generated_at": "2026-09-29T08:30:58.369093+00:00",
  "assets": [
+  {
+   "symbol": "AAVE",
+   "name": "Aave",
+   "sigma": 2.69,
+   "from_btc_pct": 40,
+   "verdict": "Strong Uptrend",
+   "file": "AAVE.png"
+  },
   {
    "symbol": "ICP",
    "name": "Internet Computer",
