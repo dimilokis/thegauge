@@ -1,102 +1,14 @@
 {
- "date": "2026-09-28",
- "generated_at": "2026-09-28T23:00:58.882458+00:00",
+ "date": "2026-09-29",
+ "generated_at": "2026-09-29T07:45:54.319780+00:00",
  "assets": [
   {
-   "symbol": "JUV",
-   "name": "Juventus Fan Token",
-   "sigma": 3.56,
-   "from_btc_pct": 26,
-   "verdict": "Overbought",
-   "file": "JUV.png"
-  },
-  {
-   "symbol": "NMR",
-   "name": "Numeraire",
-   "sigma": 3.38,
-   "from_btc_pct": 17,
-   "verdict": "Overbought",
-   "file": "NMR.png"
-  },
-  {
-   "symbol": "HBAR",
-   "name": "Hedera",
-   "sigma": 3.28,
-   "from_btc_pct": 33,
-   "verdict": "Strong Uptrend",
-   "file": "HBAR.png"
-  },
-  {
-   "symbol": "AUDIO",
-   "name": "Audius",
-   "sigma": 3.28,
+   "symbol": "ICP",
+   "name": "Internet Computer",
+   "sigma": 2.71,
    "from_btc_pct": 18,
-   "verdict": "Overbought",
-   "file": "AUDIO.png"
-  },
-  {
-   "symbol": "ORCA",
-   "name": "Orca",
-   "sigma": 2.91,
-   "from_btc_pct": 15,
-   "verdict": "Overbought",
-   "file": "ORCA.png"
-  },
-  {
-   "symbol": "ALGO",
-   "name": "Algorand",
-   "sigma": 2.83,
-   "from_btc_pct": 16,
-   "verdict": "Overbought",
-   "file": "ALGO.png"
-  },
-  {
-   "symbol": "APE",
-   "name": "ApeCoin",
-   "sigma": 2.82,
-   "from_btc_pct": 37,
-   "verdict": "Neutral",
-   "file": "APE.png"
-  },
-  {
-   "symbol": "LINK",
-   "name": "Chainlink",
-   "sigma": 2.73,
-   "from_btc_pct": 35,
    "verdict": "Strong Uptrend",
-   "file": "LINK.png"
-  },
-  {
-   "symbol": "LDO",
-   "name": "Lido DAO",
-   "sigma": 2.69,
-   "from_btc_pct": 28,
-   "verdict": "Strong Uptrend",
-   "file": "LDO.png"
-  },
-  {
-   "symbol": "PENDLE",
-   "name": "Pendle",
-   "sigma": 2.63,
-   "from_btc_pct": 9,
-   "verdict": "Strong Uptrend",
-   "file": "PENDLE.png"
-  },
-  {
-   "symbol": "IOTA",
-   "name": "IOTA",
-   "sigma": 2.61,
-   "from_btc_pct": 34,
-   "verdict": "Overbought",
-   "file": "IOTA.png"
-  },
-  {
-   "symbol": "ZEN",
-   "name": "Horizen",
-   "sigma": 2.58,
-   "from_btc_pct": 14,
-   "verdict": "Neutral",
-   "file": "ZEN.png"
+   "file": "ICP.png"
   }
  ]
 }
