@@ -1,6 +1,6 @@
 {
  "date": "2026-09-30",
- "generated_at": "2026-09-30T16:15:50.165583+00:00",
+ "generated_at": "2026-09-30T16:30:58.500743+00:00",
  "assets": [
   {
    "symbol": "GTC",
@@ -11,12 +11,12 @@
    "file": "GTC.png"
   },
   {
-   "symbol": "GLMR",
-   "name": "Moonbeam",
-   "sigma": 4.43,
-   "from_btc_pct": 10,
+   "symbol": "NOM",
+   "name": "Nomina",
+   "sigma": 3.63,
+   "from_btc_pct": 3,
    "verdict": "Overbought",
-   "file": "GLMR.png"
+   "file": "NOM.png"
   },
   {
    "symbol": "WLD",
@@ -51,14 +51,6 @@
    "file": "MOVR.png"
   },
   {
-   "symbol": "NOM",
-   "name": "Nomina",
-   "sigma": 2.99,
-   "from_btc_pct": 3,
-   "verdict": "Overbought",
-   "file": "NOM.png"
-  },
-  {
    "symbol": "ASTER",
    "name": "Aster",
    "sigma": 2.98,
@@ -89,6 +81,14 @@
    "from_btc_pct": 1,
    "verdict": "Overbought",
    "file": "NIL.png"
+  },
+  {
+   "symbol": "GLMR",
+   "name": "Moonbeam",
+   "sigma": 2.66,
+   "from_btc_pct": 20,
+   "verdict": "Overbought",
+   "file": "GLMR.png"
   },
   {
    "symbol": "BERA",
