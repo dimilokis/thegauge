@@ -1,6 +1,6 @@
 {
  "date": "2026-09-30",
- "generated_at": "2026-09-30T17:15:53.200114+00:00",
+ "generated_at": "2026-09-30T17:31:00.634498+00:00",
  "assets": [
   {
    "symbol": "GTC",
@@ -77,8 +77,8 @@
   {
    "symbol": "SOMI",
    "name": "Somnia",
-   "sigma": 2.9,
-   "from_btc_pct": 7,
+   "sigma": 2.82,
+   "from_btc_pct": 8,
    "verdict": "Overbought",
    "file": "SOMI.png"
   },
@@ -91,12 +91,12 @@
    "file": "NIL.png"
   },
   {
-   "symbol": "RUNE",
-   "name": "THORChain",
-   "sigma": 2.69,
-   "from_btc_pct": 38,
+   "symbol": "BERA",
+   "name": "Berachain",
+   "sigma": 2.71,
+   "from_btc_pct": 24,
    "verdict": "Overbought",
-   "file": "RUNE.png"
+   "file": "BERA.png"
   }
  ]
 }
