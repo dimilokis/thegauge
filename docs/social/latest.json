@@ -1,6 +1,6 @@
 {
  "date": "2026-09-30",
- "generated_at": "2026-09-30T14:15:57.061322+00:00",
+ "generated_at": "2026-09-30T14:45:51.823522+00:00",
  "assets": [
   {
    "symbol": "GTC",
@@ -57,6 +57,14 @@
    "from_btc_pct": 0,
    "verdict": "Oversold",
    "file": "BFUSD.png"
+  },
+  {
+   "symbol": "SOMI",
+   "name": "Somnia",
+   "sigma": 2.9,
+   "from_btc_pct": 7,
+   "verdict": "Overbought",
+   "file": "SOMI.png"
   },
   {
    "symbol": "NIL",
