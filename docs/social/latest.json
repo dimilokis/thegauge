@@ -1,6 +1,6 @@
 {
  "date": "2026-09-30",
- "generated_at": "2026-09-30T06:30:53.995655+00:00",
+ "generated_at": "2026-09-30T07:30:58.370807+00:00",
  "assets": [
   {
    "symbol": "MOVR",
@@ -9,6 +9,14 @@
    "from_btc_pct": 6,
    "verdict": "Overbought",
    "file": "MOVR.png"
+  },
+  {
+   "symbol": "ARK",
+   "name": "ARK",
+   "sigma": 2.73,
+   "from_btc_pct": 3,
+   "verdict": "Overbought",
+   "file": "ARK.png"
   }
  ]
 }
