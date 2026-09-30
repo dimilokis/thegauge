@@ -1,6 +1,6 @@
 {
  "date": "2026-09-30",
- "generated_at": "2026-09-30T12:30:56.342913+00:00",
+ "generated_at": "2026-09-30T12:45:51.152583+00:00",
  "assets": [
   {
    "symbol": "GTC",
@@ -45,10 +45,18 @@
   {
    "symbol": "ASTER",
    "name": "Aster",
-   "sigma": 2.62,
-   "from_btc_pct": 11,
+   "sigma": 2.66,
+   "from_btc_pct": 13,
    "verdict": "Strong Uptrend",
    "file": "ASTER.png"
+  },
+  {
+   "symbol": "WLD",
+   "name": "Worldcoin",
+   "sigma": 2.63,
+   "from_btc_pct": 25,
+   "verdict": "Strong Uptrend",
+   "file": "WLD.png"
   }
  ]
 }
