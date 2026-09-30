@@ -591,6 +591,10 @@
   "icon": "https://coin-images.coingecko.com/coins/images/13397/large/Graph_Token.png?1696513159",
   "name": "The Graph"
  },
+ "GTC": {
+  "icon": "https://coin-images.coingecko.com/coins/images/15810/large/gitcoin.png",
+  "name": "Gitcoin"
+ },
  "GUN": {
   "icon": "https://coin-images.coingecko.com/coins/images/55027/large/gunz.jpg?1743262298",
   "name": "Gunz"
