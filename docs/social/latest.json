@@ -1,6 +1,6 @@
 {
  "date": "2026-09-30",
- "generated_at": "2026-09-30T14:45:51.823522+00:00",
+ "generated_at": "2026-09-30T15:01:01.019731+00:00",
  "assets": [
   {
    "symbol": "GTC",
@@ -43,14 +43,6 @@
    "file": "MOVR.png"
   },
   {
-   "symbol": "ASTER",
-   "name": "Aster",
-   "sigma": 3.07,
-   "from_btc_pct": 14,
-   "verdict": "Strong Uptrend",
-   "file": "ASTER.png"
-  },
-  {
    "symbol": "BFUSD",
    "name": "BFUSD",
    "sigma": 2.91,
@@ -65,6 +57,14 @@
    "from_btc_pct": 7,
    "verdict": "Overbought",
    "file": "SOMI.png"
+  },
+  {
+   "symbol": "ASTER",
+   "name": "Aster",
+   "sigma": 2.82,
+   "from_btc_pct": 10,
+   "verdict": "Strong Uptrend",
+   "file": "ASTER.png"
   },
   {
    "symbol": "NIL",
