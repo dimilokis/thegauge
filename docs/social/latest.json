@@ -1,102 +1,14 @@
 {
- "date": "2026-09-29",
- "generated_at": "2026-09-29T23:15:48.778667+00:00",
+ "date": "2026-09-30",
+ "generated_at": "2026-09-30T06:30:53.995655+00:00",
  "assets": [
-  {
-   "symbol": "INIT",
-   "name": "Initia",
-   "sigma": 7.47,
-   "from_btc_pct": 4,
-   "verdict": "Overbought",
-   "file": "INIT.png"
-  },
-  {
-   "symbol": "BERA",
-   "name": "Berachain",
-   "sigma": 4.05,
-   "from_btc_pct": 21,
-   "verdict": "Overbought",
-   "file": "BERA.png"
-  },
-  {
-   "symbol": "CELO",
-   "name": "Celo",
-   "sigma": 3.36,
-   "from_btc_pct": 15,
-   "verdict": "Overbought",
-   "file": "CELO.png"
-  },
-  {
-   "symbol": "HBAR",
-   "name": "Hedera",
-   "sigma": 3.05,
-   "from_btc_pct": 10,
-   "verdict": "Strong Uptrend",
-   "file": "HBAR.png"
-  },
-  {
-   "symbol": "ETHFI",
-   "name": "Ether.fi",
-   "sigma": 2.98,
-   "from_btc_pct": 17,
-   "verdict": "Strong Uptrend",
-   "file": "ETHFI.png"
-  },
   {
    "symbol": "MOVR",
    "name": "Moonriver",
-   "sigma": 2.89,
-   "from_btc_pct": 15,
-   "verdict": "Neutral",
+   "sigma": 3.1,
+   "from_btc_pct": 6,
+   "verdict": "Overbought",
    "file": "MOVR.png"
-  },
-  {
-   "symbol": "ICP",
-   "name": "Internet Computer",
-   "sigma": 2.77,
-   "from_btc_pct": 17,
-   "verdict": "Strong Uptrend",
-   "file": "ICP.png"
-  },
-  {
-   "symbol": "AAVE",
-   "name": "Aave",
-   "sigma": 2.65,
-   "from_btc_pct": 39,
-   "verdict": "Strong Uptrend",
-   "file": "AAVE.png"
-  },
-  {
-   "symbol": "NMR",
-   "name": "Numeraire",
-   "sigma": 2.65,
-   "from_btc_pct": 0,
-   "verdict": "Overbought",
-   "file": "NMR.png"
-  },
-  {
-   "symbol": "PUMP",
-   "name": "Pump.fun",
-   "sigma": 2.63,
-   "from_btc_pct": 10,
-   "verdict": "Strong Uptrend",
-   "file": "PUMP.png"
-  },
-  {
-   "symbol": "0G",
-   "name": "0G",
-   "sigma": 2.53,
-   "from_btc_pct": 7,
-   "verdict": "Overbought",
-   "file": "0G.png"
-  },
-  {
-   "symbol": "AVAX",
-   "name": "Avalanche",
-   "sigma": 2.5,
-   "from_btc_pct": 12,
-   "verdict": "Strong Uptrend",
-   "file": "AVAX.png"
   }
  ]
 }
