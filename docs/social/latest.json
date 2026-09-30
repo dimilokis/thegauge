@@ -1,6 +1,6 @@
 {
  "date": "2026-09-30",
- "generated_at": "2026-09-30T17:01:06.342489+00:00",
+ "generated_at": "2026-09-30T17:15:53.200114+00:00",
  "assets": [
   {
    "symbol": "GTC",
@@ -91,12 +91,12 @@
    "file": "NIL.png"
   },
   {
-   "symbol": "BERA",
-   "name": "Berachain",
-   "sigma": 2.62,
-   "from_btc_pct": 24,
+   "symbol": "RUNE",
+   "name": "THORChain",
+   "sigma": 2.69,
+   "from_btc_pct": 38,
    "verdict": "Overbought",
-   "file": "BERA.png"
+   "file": "RUNE.png"
   }
  ]
 }
