@@ -1,6 +1,6 @@
 {
  "date": "2026-09-30",
- "generated_at": "2026-09-30T10:31:01.943435+00:00",
+ "generated_at": "2026-09-30T12:30:56.342913+00:00",
  "assets": [
   {
    "symbol": "GTC",
@@ -33,6 +33,14 @@
    "from_btc_pct": 6,
    "verdict": "Overbought",
    "file": "MOVR.png"
+  },
+  {
+   "symbol": "NIL",
+   "name": "Nillion",
+   "sigma": 2.75,
+   "from_btc_pct": 1,
+   "verdict": "Overbought",
+   "file": "NIL.png"
   },
   {
    "symbol": "ASTER",
