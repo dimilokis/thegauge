@@ -1,6 +1,6 @@
 {
  "date": "2026-09-30",
- "generated_at": "2026-09-30T15:15:55.434510+00:00",
+ "generated_at": "2026-09-30T15:46:02.053210+00:00",
  "assets": [
   {
    "symbol": "GTC",
@@ -43,6 +43,14 @@
    "file": "MOVR.png"
   },
   {
+   "symbol": "NOM",
+   "name": "Nomina",
+   "sigma": 2.99,
+   "from_btc_pct": 3,
+   "verdict": "Overbought",
+   "file": "NOM.png"
+  },
+  {
    "symbol": "BFUSD",
    "name": "BFUSD",
    "sigma": 2.91,
@@ -73,14 +81,6 @@
    "from_btc_pct": 1,
    "verdict": "Overbought",
    "file": "NIL.png"
-  },
-  {
-   "symbol": "NOM",
-   "name": "Nomina",
-   "sigma": 2.68,
-   "from_btc_pct": 3,
-   "verdict": "Overbought",
-   "file": "NOM.png"
   }
  ]
 }
