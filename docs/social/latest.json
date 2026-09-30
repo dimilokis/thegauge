@@ -1,6 +1,6 @@
 {
  "date": "2026-09-30",
- "generated_at": "2026-09-30T15:53:27.502664+00:00",
+ "generated_at": "2026-09-30T16:15:50.165583+00:00",
  "assets": [
   {
    "symbol": "GTC",
@@ -33,6 +33,14 @@
    "from_btc_pct": 4,
    "verdict": "Overbought",
    "file": "ARK.png"
+  },
+  {
+   "symbol": "REZ",
+   "name": "Renzo",
+   "sigma": 3.26,
+   "from_btc_pct": 4,
+   "verdict": "Overbought",
+   "file": "REZ.png"
   },
   {
    "symbol": "MOVR",
