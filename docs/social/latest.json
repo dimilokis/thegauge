@@ -1,6 +1,6 @@
 {
  "date": "2026-09-30",
- "generated_at": "2026-09-30T13:15:55.654483+00:00",
+ "generated_at": "2026-09-30T14:00:59.398884+00:00",
  "assets": [
   {
    "symbol": "GTC",
@@ -49,6 +49,14 @@
    "from_btc_pct": 14,
    "verdict": "Strong Uptrend",
    "file": "ASTER.png"
+  },
+  {
+   "symbol": "BFUSD",
+   "name": "BFUSD",
+   "sigma": 2.91,
+   "from_btc_pct": 0,
+   "verdict": "Oversold",
+   "file": "BFUSD.png"
   },
   {
    "symbol": "NIL",
