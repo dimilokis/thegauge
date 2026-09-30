@@ -1,6 +1,6 @@
 {
  "date": "2026-09-30",
- "generated_at": "2026-09-30T20:30:50.237405+00:00",
+ "generated_at": "2026-09-30T21:01:03.651968+00:00",
  "assets": [
   {
    "symbol": "GTC",
@@ -75,20 +75,20 @@
    "file": "BFUSD.png"
   },
   {
-   "symbol": "SOMI",
-   "name": "Somnia",
-   "sigma": 2.82,
-   "from_btc_pct": 8,
-   "verdict": "Overbought",
-   "file": "SOMI.png"
-  },
-  {
    "symbol": "NIL",
    "name": "Nillion",
    "sigma": 2.75,
    "from_btc_pct": 1,
    "verdict": "Overbought",
    "file": "NIL.png"
+  },
+  {
+   "symbol": "SOMI",
+   "name": "Somnia",
+   "sigma": 2.59,
+   "from_btc_pct": 8,
+   "verdict": "Overbought",
+   "file": "SOMI.png"
   },
   {
    "symbol": "GLMR",
