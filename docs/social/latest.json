@@ -1,6 +1,6 @@
 {
  "date": "2026-09-30",
- "generated_at": "2026-09-30T19:01:01.107503+00:00",
+ "generated_at": "2026-09-30T20:01:02.563780+00:00",
  "assets": [
   {
    "symbol": "GTC",
@@ -9,6 +9,14 @@
    "from_btc_pct": 7,
    "verdict": "Overbought",
    "file": "GTC.png"
+  },
+  {
+   "symbol": "AUDIO",
+   "name": "Audius",
+   "sigma": 5.98,
+   "from_btc_pct": 11,
+   "verdict": "Overbought",
+   "file": "AUDIO.png"
   },
   {
    "symbol": "GLMR",
@@ -89,14 +97,6 @@
    "from_btc_pct": 1,
    "verdict": "Overbought",
    "file": "NIL.png"
-  },
-  {
-   "symbol": "BERA",
-   "name": "Berachain",
-   "sigma": 2.71,
-   "from_btc_pct": 24,
-   "verdict": "Overbought",
-   "file": "BERA.png"
   }
  ]
 }
