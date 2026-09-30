@@ -1,6 +1,6 @@
 {
  "date": "2026-09-30",
- "generated_at": "2026-09-30T14:00:59.398884+00:00",
+ "generated_at": "2026-09-30T14:15:57.061322+00:00",
  "assets": [
   {
    "symbol": "GTC",
@@ -65,6 +65,14 @@
    "from_btc_pct": 1,
    "verdict": "Overbought",
    "file": "NIL.png"
+  },
+  {
+   "symbol": "NOM",
+   "name": "Nomina",
+   "sigma": 2.68,
+   "from_btc_pct": 3,
+   "verdict": "Overbought",
+   "file": "NOM.png"
   }
  ]
 }
