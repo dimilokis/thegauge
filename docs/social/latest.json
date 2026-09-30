@@ -1,6 +1,6 @@
 {
  "date": "2026-09-30",
- "generated_at": "2026-09-30T12:45:51.152583+00:00",
+ "generated_at": "2026-09-30T13:15:55.654483+00:00",
  "assets": [
   {
    "symbol": "GTC",
@@ -19,6 +19,14 @@
    "file": "GLMR.png"
   },
   {
+   "symbol": "WLD",
+   "name": "Worldcoin",
+   "sigma": 3.45,
+   "from_btc_pct": 26,
+   "verdict": "Strong Uptrend",
+   "file": "WLD.png"
+  },
+  {
    "symbol": "ARK",
    "name": "ARK",
    "sigma": 3.41,
@@ -35,28 +43,20 @@
    "file": "MOVR.png"
   },
   {
+   "symbol": "ASTER",
+   "name": "Aster",
+   "sigma": 3.07,
+   "from_btc_pct": 14,
+   "verdict": "Strong Uptrend",
+   "file": "ASTER.png"
+  },
+  {
    "symbol": "NIL",
    "name": "Nillion",
    "sigma": 2.75,
    "from_btc_pct": 1,
    "verdict": "Overbought",
    "file": "NIL.png"
-  },
-  {
-   "symbol": "ASTER",
-   "name": "Aster",
-   "sigma": 2.66,
-   "from_btc_pct": 13,
-   "verdict": "Strong Uptrend",
-   "file": "ASTER.png"
-  },
-  {
-   "symbol": "WLD",
-   "name": "Worldcoin",
-   "sigma": 2.63,
-   "from_btc_pct": 25,
-   "verdict": "Strong Uptrend",
-   "file": "WLD.png"
   }
  ]
 }
