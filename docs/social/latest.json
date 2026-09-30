@@ -1,6 +1,6 @@
 {
  "date": "2026-09-30",
- "generated_at": "2026-09-30T15:46:02.053210+00:00",
+ "generated_at": "2026-09-30T15:53:27.502664+00:00",
  "assets": [
   {
    "symbol": "GTC",
@@ -51,6 +51,14 @@
    "file": "NOM.png"
   },
   {
+   "symbol": "ASTER",
+   "name": "Aster",
+   "sigma": 2.98,
+   "from_btc_pct": 11,
+   "verdict": "Strong Uptrend",
+   "file": "ASTER.png"
+  },
+  {
    "symbol": "BFUSD",
    "name": "BFUSD",
    "sigma": 2.91,
@@ -67,20 +75,20 @@
    "file": "SOMI.png"
   },
   {
-   "symbol": "ASTER",
-   "name": "Aster",
-   "sigma": 2.82,
-   "from_btc_pct": 10,
-   "verdict": "Strong Uptrend",
-   "file": "ASTER.png"
-  },
-  {
    "symbol": "NIL",
    "name": "Nillion",
    "sigma": 2.75,
    "from_btc_pct": 1,
    "verdict": "Overbought",
    "file": "NIL.png"
+  },
+  {
+   "symbol": "BERA",
+   "name": "Berachain",
+   "sigma": 2.62,
+   "from_btc_pct": 24,
+   "verdict": "Overbought",
+   "file": "BERA.png"
   }
  ]
 }
