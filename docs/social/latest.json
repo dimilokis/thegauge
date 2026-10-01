@@ -1,6 +1,6 @@
 {
  "date": "2026-10-01",
- "generated_at": "2026-10-01T15:31:00.827299+00:00",
+ "generated_at": "2026-10-01T16:00:58.900363+00:00",
  "assets": [
   {
    "symbol": "ALICE",
@@ -35,12 +35,12 @@
    "file": "OPN.png"
   },
   {
-   "symbol": "NOM",
-   "name": "Nomina",
-   "sigma": 2.97,
+   "symbol": "MOVR",
+   "name": "Moonriver",
+   "sigma": 3.02,
    "from_btc_pct": 2,
    "verdict": "Overbought",
-   "file": "NOM.png"
+   "file": "MOVR.png"
   },
   {
    "symbol": "JASMY",
@@ -59,12 +59,12 @@
    "file": "PLUME.png"
   },
   {
-   "symbol": "MOVR",
-   "name": "Moonriver",
-   "sigma": 2.5,
-   "from_btc_pct": 1,
+   "symbol": "NOM",
+   "name": "Nomina",
+   "sigma": 2.52,
+   "from_btc_pct": 3,
    "verdict": "Overbought",
-   "file": "MOVR.png"
+   "file": "NOM.png"
   }
  ]
 }
