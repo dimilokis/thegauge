@@ -1,6 +1,6 @@
 {
  "date": "2026-10-01",
- "generated_at": "2026-10-01T10:15:48.729275+00:00",
+ "generated_at": "2026-10-01T12:31:02.283333+00:00",
  "assets": [
   {
    "symbol": "JASMY",
@@ -9,6 +9,14 @@
    "from_btc_pct": 19,
    "verdict": "Overbought",
    "file": "JASMY.png"
+  },
+  {
+   "symbol": "OPN",
+   "name": "Opinion",
+   "sigma": 4.35,
+   "from_btc_pct": 32,
+   "verdict": "Overbought",
+   "file": "OPN.png"
   },
   {
    "symbol": "NOM",
