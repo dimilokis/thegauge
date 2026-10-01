@@ -1,6 +1,6 @@
 {
  "date": "2026-10-01",
- "generated_at": "2026-10-01T04:15:48.735727+00:00",
+ "generated_at": "2026-10-01T06:11:18.809975+00:00",
  "assets": [
   {
    "symbol": "PLUME",
@@ -9,6 +9,14 @@
    "from_btc_pct": 21,
    "verdict": "Overbought",
    "file": "PLUME.png"
+  },
+  {
+   "symbol": "MOVR",
+   "name": "Moonriver",
+   "sigma": 2.53,
+   "from_btc_pct": 2,
+   "verdict": "Overbought",
+   "file": "MOVR.png"
   }
  ]
 }
