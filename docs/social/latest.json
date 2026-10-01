@@ -1,7 +1,15 @@
 {
  "date": "2026-10-01",
- "generated_at": "2026-10-01T06:45:55.050154+00:00",
+ "generated_at": "2026-10-01T07:34:46.593801+00:00",
  "assets": [
+  {
+   "symbol": "NOM",
+   "name": "Nomina",
+   "sigma": 3.01,
+   "from_btc_pct": 2,
+   "verdict": "Overbought",
+   "file": "NOM.png"
+  },
   {
    "symbol": "MOVR",
    "name": "Moonriver",
