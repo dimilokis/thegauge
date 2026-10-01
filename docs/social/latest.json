@@ -1,6 +1,6 @@
 {
  "date": "2026-10-01",
- "generated_at": "2026-10-01T13:30:58.096068+00:00",
+ "generated_at": "2026-10-01T14:01:00.712767+00:00",
  "assets": [
   {
    "symbol": "JASMY",
@@ -14,7 +14,7 @@
    "symbol": "AUDIO",
    "name": "Audius",
    "sigma": 4.97,
-   "from_btc_pct": 10,
+   "from_btc_pct": 11,
    "verdict": "Overbought",
    "file": "AUDIO.png"
   },
