@@ -1,6 +1,6 @@
 {
  "date": "2026-10-01",
- "generated_at": "2026-10-01T22:00:52.827986+00:00",
+ "generated_at": "2026-10-01T22:30:55.661753+00:00",
  "assets": [
   {
    "symbol": "GTC",
@@ -35,20 +35,20 @@
    "file": "AUDIO.png"
   },
   {
-   "symbol": "SUPER",
-   "name": "SuperVerse",
-   "sigma": 3.26,
-   "from_btc_pct": 40,
-   "verdict": "Overbought",
-   "file": "SUPER.png"
-  },
-  {
    "symbol": "OPN",
    "name": "Opinion",
    "sigma": 3.21,
    "from_btc_pct": 40,
    "verdict": "Overbought",
    "file": "OPN.png"
+  },
+  {
+   "symbol": "SUPER",
+   "name": "SuperVerse",
+   "sigma": 2.78,
+   "from_btc_pct": 40,
+   "verdict": "Overbought",
+   "file": "SUPER.png"
   },
   {
    "symbol": "MOVR",
