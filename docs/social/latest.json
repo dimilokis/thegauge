@@ -1,6 +1,6 @@
 {
  "date": "2026-10-01",
- "generated_at": "2026-10-01T15:15:57.632496+00:00",
+ "generated_at": "2026-10-01T15:31:00.827299+00:00",
  "assets": [
   {
    "symbol": "ALICE",
@@ -11,12 +11,12 @@
    "file": "ALICE.png"
   },
   {
-   "symbol": "JASMY",
-   "name": "JasmyCoin",
-   "sigma": 5.16,
-   "from_btc_pct": 19,
+   "symbol": "MEGA",
+   "name": "MegaETH",
+   "sigma": 5.6,
+   "from_btc_pct": 36,
    "verdict": "Overbought",
-   "file": "JASMY.png"
+   "file": "MEGA.png"
   },
   {
    "symbol": "AUDIO",
@@ -25,14 +25,6 @@
    "from_btc_pct": 11,
    "verdict": "Overbought",
    "file": "AUDIO.png"
-  },
-  {
-   "symbol": "MEGA",
-   "name": "MegaETH",
-   "sigma": 3.58,
-   "from_btc_pct": 40,
-   "verdict": "Overbought",
-   "file": "MEGA.png"
   },
   {
    "symbol": "OPN",
@@ -49,6 +41,14 @@
    "from_btc_pct": 2,
    "verdict": "Overbought",
    "file": "NOM.png"
+  },
+  {
+   "symbol": "JASMY",
+   "name": "JasmyCoin",
+   "sigma": 2.58,
+   "from_btc_pct": 28,
+   "verdict": "Overbought",
+   "file": "JASMY.png"
   },
   {
    "symbol": "PLUME",
