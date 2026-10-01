@@ -1,7 +1,15 @@
 {
  "date": "2026-10-01",
- "generated_at": "2026-10-01T07:34:46.593801+00:00",
+ "generated_at": "2026-10-01T08:23:10.649097+00:00",
  "assets": [
+  {
+   "symbol": "JASMY",
+   "name": "JasmyCoin",
+   "sigma": 5.16,
+   "from_btc_pct": 19,
+   "verdict": "Overbought",
+   "file": "JASMY.png"
+  },
   {
    "symbol": "NOM",
    "name": "Nomina",
