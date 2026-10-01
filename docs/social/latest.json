@@ -1,6 +1,6 @@
 {
  "date": "2026-10-01",
- "generated_at": "2026-10-01T14:01:00.712767+00:00",
+ "generated_at": "2026-10-01T14:45:54.944814+00:00",
  "assets": [
   {
    "symbol": "JASMY",
@@ -37,7 +37,7 @@
   {
    "symbol": "NOM",
    "name": "Nomina",
-   "sigma": 3.01,
+   "sigma": 2.97,
    "from_btc_pct": 2,
    "verdict": "Overbought",
    "file": "NOM.png"
