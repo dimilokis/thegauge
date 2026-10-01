@@ -1,6 +1,6 @@
 {
  "date": "2026-10-01",
- "generated_at": "2026-10-01T08:23:10.649097+00:00",
+ "generated_at": "2026-10-01T08:45:52.816637+00:00",
  "assets": [
   {
    "symbol": "JASMY",
@@ -19,20 +19,20 @@
    "file": "NOM.png"
   },
   {
-   "symbol": "MOVR",
-   "name": "Moonriver",
-   "sigma": 2.73,
-   "from_btc_pct": 2,
-   "verdict": "Overbought",
-   "file": "MOVR.png"
-  },
-  {
    "symbol": "PLUME",
    "name": "Plume",
    "sigma": 2.54,
    "from_btc_pct": 21,
    "verdict": "Overbought",
    "file": "PLUME.png"
+  },
+  {
+   "symbol": "MOVR",
+   "name": "Moonriver",
+   "sigma": 2.53,
+   "from_btc_pct": 1,
+   "verdict": "Overbought",
+   "file": "MOVR.png"
   }
  ]
 }
