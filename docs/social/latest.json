@@ -1,7 +1,15 @@
 {
  "date": "2026-10-01",
- "generated_at": "2026-10-01T14:45:54.944814+00:00",
+ "generated_at": "2026-10-01T15:15:57.632496+00:00",
  "assets": [
+  {
+   "symbol": "ALICE",
+   "name": "My Neighbor Alice",
+   "sigma": 6.68,
+   "from_btc_pct": 6,
+   "verdict": "Overbought",
+   "file": "ALICE.png"
+  },
   {
    "symbol": "JASMY",
    "name": "JasmyCoin",
@@ -19,20 +27,20 @@
    "file": "AUDIO.png"
   },
   {
-   "symbol": "OPN",
-   "name": "Opinion",
-   "sigma": 4.35,
-   "from_btc_pct": 32,
-   "verdict": "Overbought",
-   "file": "OPN.png"
-  },
-  {
    "symbol": "MEGA",
    "name": "MegaETH",
    "sigma": 3.58,
    "from_btc_pct": 40,
    "verdict": "Overbought",
    "file": "MEGA.png"
+  },
+  {
+   "symbol": "OPN",
+   "name": "Opinion",
+   "sigma": 3.45,
+   "from_btc_pct": 36,
+   "verdict": "Overbought",
+   "file": "OPN.png"
   },
   {
    "symbol": "NOM",
