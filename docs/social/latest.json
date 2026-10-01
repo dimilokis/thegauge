@@ -1,6 +1,6 @@
 {
  "date": "2026-10-01",
- "generated_at": "2026-10-01T22:45:55.849465+00:00",
+ "generated_at": "2026-10-01T23:15:50.178752+00:00",
  "assets": [
   {
    "symbol": "GTC",
@@ -45,7 +45,7 @@
   {
    "symbol": "SUPER",
    "name": "SuperVerse",
-   "sigma": 2.78,
+   "sigma": 2.85,
    "from_btc_pct": 40,
    "verdict": "Overbought",
    "file": "SUPER.png"
