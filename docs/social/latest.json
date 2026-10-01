@@ -1,102 +1,14 @@
 {
- "date": "2026-09-30",
- "generated_at": "2026-10-01T01:15:51.940061+00:00",
+ "date": "2026-10-01",
+ "generated_at": "2026-10-01T04:15:48.735727+00:00",
  "assets": [
   {
-   "symbol": "AUDIO",
-   "name": "Audius",
-   "sigma": 5.98,
-   "from_btc_pct": 11,
+   "symbol": "PLUME",
+   "name": "Plume",
+   "sigma": 2.54,
+   "from_btc_pct": 21,
    "verdict": "Overbought",
-   "file": "AUDIO.png"
-  },
-  {
-   "symbol": "NOM",
-   "name": "Nomina",
-   "sigma": 3.63,
-   "from_btc_pct": 3,
-   "verdict": "Overbought",
-   "file": "NOM.png"
-  },
-  {
-   "symbol": "WLD",
-   "name": "Worldcoin",
-   "sigma": 3.45,
-   "from_btc_pct": 26,
-   "verdict": "Strong Uptrend",
-   "file": "WLD.png"
-  },
-  {
-   "symbol": "REZ",
-   "name": "Renzo",
-   "sigma": 3.26,
-   "from_btc_pct": 4,
-   "verdict": "Overbought",
-   "file": "REZ.png"
-  },
-  {
-   "symbol": "MOVR",
-   "name": "Moonriver",
-   "sigma": 3.1,
-   "from_btc_pct": 6,
-   "verdict": "Overbought",
-   "file": "MOVR.png"
-  },
-  {
-   "symbol": "ARK",
-   "name": "ARK",
-   "sigma": 3.04,
-   "from_btc_pct": 3,
-   "verdict": "Overbought",
-   "file": "ARK.png"
-  },
-  {
-   "symbol": "ASTER",
-   "name": "Aster",
-   "sigma": 2.98,
-   "from_btc_pct": 11,
-   "verdict": "Strong Uptrend",
-   "file": "ASTER.png"
-  },
-  {
-   "symbol": "BFUSD",
-   "name": "BFUSD",
-   "sigma": 2.91,
-   "from_btc_pct": 0,
-   "verdict": "Oversold",
-   "file": "BFUSD.png"
-  },
-  {
-   "symbol": "GTC",
-   "name": "Gitcoin",
-   "sigma": 2.88,
-   "from_btc_pct": 28,
-   "verdict": "Overbought",
-   "file": "GTC.png"
-  },
-  {
-   "symbol": "NIL",
-   "name": "Nillion",
-   "sigma": 2.75,
-   "from_btc_pct": 1,
-   "verdict": "Overbought",
-   "file": "NIL.png"
-  },
-  {
-   "symbol": "SOMI",
-   "name": "Somnia",
-   "sigma": 2.59,
-   "from_btc_pct": 8,
-   "verdict": "Overbought",
-   "file": "SOMI.png"
-  },
-  {
-   "symbol": "GLMR",
-   "name": "Moonbeam",
-   "sigma": 2.57,
-   "from_btc_pct": 17,
-   "verdict": "Overbought",
-   "file": "GLMR.png"
+   "file": "PLUME.png"
   }
  ]
 }
