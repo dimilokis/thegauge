@@ -1,6 +1,6 @@
 {
  "date": "2026-10-02",
- "generated_at": "2026-10-02T15:15:55.674207+00:00",
+ "generated_at": "2026-10-02T16:00:56.969786+00:00",
  "assets": [
   {
    "symbol": "SAND",
@@ -51,12 +51,28 @@
    "file": "SCR.png"
   },
   {
+   "symbol": "SPK",
+   "name": "Spark",
+   "sigma": 3.34,
+   "from_btc_pct": 12,
+   "verdict": "Overbought",
+   "file": "SPK.png"
+  },
+  {
    "symbol": "AXS",
    "name": "Axie Infinity",
    "sigma": 2.84,
    "from_btc_pct": 40,
    "verdict": "Overbought",
    "file": "AXS.png"
+  },
+  {
+   "symbol": "WLD",
+   "name": "Worldcoin",
+   "sigma": 2.83,
+   "from_btc_pct": 18,
+   "verdict": "Strong Uptrend",
+   "file": "WLD.png"
   },
   {
    "symbol": "TIA",
@@ -81,22 +97,6 @@
    "from_btc_pct": 20,
    "verdict": "Overbought",
    "file": "NIGHT.png"
-  },
-  {
-   "symbol": "GALA",
-   "name": "GALA",
-   "sigma": 2.72,
-   "from_btc_pct": 25,
-   "verdict": "Overbought",
-   "file": "GALA.png"
-  },
-  {
-   "symbol": "WLD",
-   "name": "Worldcoin",
-   "sigma": 2.61,
-   "from_btc_pct": 19,
-   "verdict": "Strong Uptrend",
-   "file": "WLD.png"
   }
  ]
 }
