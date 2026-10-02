@@ -1,6 +1,6 @@
 {
  "date": "2026-10-02",
- "generated_at": "2026-10-02T09:00:54.504505+00:00",
+ "generated_at": "2026-10-02T09:30:59.050899+00:00",
  "assets": [
   {
    "symbol": "SAND",
@@ -21,8 +21,8 @@
   {
    "symbol": "MAGIC",
    "name": "Treasure",
-   "sigma": 5.19,
-   "from_btc_pct": 40,
+   "sigma": 5.52,
+   "from_btc_pct": 38,
    "verdict": "Overbought",
    "file": "MAGIC.png"
   },
@@ -37,7 +37,7 @@
   {
    "symbol": "AXS",
    "name": "Axie Infinity",
-   "sigma": 2.53,
+   "sigma": 2.8,
    "from_btc_pct": 39,
    "verdict": "Overbought",
    "file": "AXS.png"
