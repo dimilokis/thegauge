@@ -815,6 +815,10 @@
   "icon": "https://coin-images.coingecko.com/coins/images/18623/large/magic.png?1696518095",
   "name": "Treasure"
  },
+ "MANA": {
+  "icon": "https://coin-images.coingecko.com/coins/images/878/large/decentraland-mana.png",
+  "name": "Decentraland"
+ },
  "MANTRA": {
   "icon": "https://coin-images.coingecko.com/coins/images/102172151/large/OM_Token_Primary-1K.png?1771922964",
   "name": "MANTRA"

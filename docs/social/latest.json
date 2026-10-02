@@ -1,6 +1,6 @@
 {
  "date": "2026-10-02",
- "generated_at": "2026-10-02T07:15:54.287263+00:00",
+ "generated_at": "2026-10-02T08:01:04.133325+00:00",
  "assets": [
   {
    "symbol": "SAND",
@@ -9,6 +9,14 @@
    "from_btc_pct": 16,
    "verdict": "Overbought",
    "file": "SAND.png"
+  },
+  {
+   "symbol": "MANA",
+   "name": "Decentraland",
+   "sigma": 6.29,
+   "from_btc_pct": 28,
+   "verdict": "Overbought",
+   "file": "MANA.png"
   }
  ]
 }
