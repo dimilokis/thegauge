@@ -1,6 +1,6 @@
 {
  "date": "2026-10-02",
- "generated_at": "2026-10-02T10:45:53.160551+00:00",
+ "generated_at": "2026-10-02T11:00:55.700211+00:00",
  "assets": [
   {
    "symbol": "SAND",
@@ -37,10 +37,26 @@
   {
    "symbol": "AXS",
    "name": "Axie Infinity",
-   "sigma": 2.8,
+   "sigma": 2.84,
    "from_btc_pct": 39,
    "verdict": "Overbought",
    "file": "AXS.png"
+  },
+  {
+   "symbol": "ZK",
+   "name": "ZKsync",
+   "sigma": 2.6,
+   "from_btc_pct": 39,
+   "verdict": "Overbought",
+   "file": "ZK.png"
+  },
+  {
+   "symbol": "ENJ",
+   "name": "Enjin Coin",
+   "sigma": 2.52,
+   "from_btc_pct": 14,
+   "verdict": "Overbought",
+   "file": "ENJ.png"
   }
  ]
 }
