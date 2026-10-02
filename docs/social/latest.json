@@ -1,6 +1,6 @@
 {
  "date": "2026-10-02",
- "generated_at": "2026-10-02T14:01:02.231915+00:00",
+ "generated_at": "2026-10-02T14:31:04.853291+00:00",
  "assets": [
   {
    "symbol": "SAND",
@@ -29,7 +29,7 @@
   {
    "symbol": "MAGIC",
    "name": "Treasure",
-   "sigma": 5.19,
+   "sigma": 4.33,
    "from_btc_pct": 40,
    "verdict": "Overbought",
    "file": "MAGIC.png"
@@ -49,6 +49,14 @@
    "from_btc_pct": 26,
    "verdict": "Overbought",
    "file": "SCR.png"
+  },
+  {
+   "symbol": "SKY",
+   "name": "Sky",
+   "sigma": 3.15,
+   "from_btc_pct": 21,
+   "verdict": "Overbought",
+   "file": "SKY.png"
   },
   {
    "symbol": "AXS",
@@ -89,14 +97,6 @@
    "from_btc_pct": 21,
    "verdict": "Strong Uptrend",
    "file": "WLD.png"
-  },
-  {
-   "symbol": "ZK",
-   "name": "ZKsync",
-   "sigma": 2.6,
-   "from_btc_pct": 39,
-   "verdict": "Overbought",
-   "file": "ZK.png"
   }
  ]
 }
