@@ -1,6 +1,6 @@
 {
  "date": "2026-10-02",
- "generated_at": "2026-10-02T17:45:58.742607+00:00",
+ "generated_at": "2026-10-02T18:00:59.726461+00:00",
  "assets": [
   {
    "symbol": "SAND",
@@ -67,14 +67,6 @@
    "file": "SPK.png"
   },
   {
-   "symbol": "GALA",
-   "name": "GALA",
-   "sigma": 3.18,
-   "from_btc_pct": 18,
-   "verdict": "Overbought",
-   "file": "GALA.png"
-  },
-  {
    "symbol": "AXS",
    "name": "Axie Infinity",
    "sigma": 2.84,
@@ -97,6 +89,14 @@
    "from_btc_pct": 25,
    "verdict": "Strong Uptrend",
    "file": "TIA.png"
+  },
+  {
+   "symbol": "GALA",
+   "name": "GALA",
+   "sigma": 2.52,
+   "from_btc_pct": 18,
+   "verdict": "Overbought",
+   "file": "GALA.png"
   }
  ]
 }
