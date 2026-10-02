@@ -1,6 +1,6 @@
 {
  "date": "2026-10-02",
- "generated_at": "2026-10-02T12:15:47.712801+00:00",
+ "generated_at": "2026-10-02T12:30:50.413467+00:00",
  "assets": [
   {
    "symbol": "SAND",
@@ -61,8 +61,8 @@
   {
    "symbol": "GALA",
    "name": "GALA",
-   "sigma": 2.71,
-   "from_btc_pct": 24,
+   "sigma": 2.72,
+   "from_btc_pct": 25,
    "verdict": "Overbought",
    "file": "GALA.png"
   },
