@@ -1,6 +1,6 @@
 {
  "date": "2026-10-02",
- "generated_at": "2026-10-02T20:01:01.671067+00:00",
+ "generated_at": "2026-10-02T21:01:00.811098+00:00",
  "assets": [
   {
    "symbol": "SAND",
@@ -83,20 +83,20 @@
    "file": "SKY.png"
   },
   {
-   "symbol": "APE",
-   "name": "ApeCoin",
-   "sigma": 2.65,
-   "from_btc_pct": 29,
-   "verdict": "Overbought",
-   "file": "APE.png"
-  },
-  {
    "symbol": "ENJ",
    "name": "Enjin Coin",
    "sigma": 2.64,
    "from_btc_pct": 10,
    "verdict": "Overbought",
    "file": "ENJ.png"
+  },
+  {
+   "symbol": "APE",
+   "name": "ApeCoin",
+   "sigma": 2.54,
+   "from_btc_pct": 29,
+   "verdict": "Overbought",
+   "file": "APE.png"
   }
  ]
 }
