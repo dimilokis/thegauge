@@ -1,6 +1,6 @@
 {
  "date": "2026-10-02",
- "generated_at": "2026-10-02T13:30:58.363357+00:00",
+ "generated_at": "2026-10-02T13:45:52.232476+00:00",
  "assets": [
   {
    "symbol": "SAND",
@@ -9,6 +9,14 @@
    "from_btc_pct": 16,
    "verdict": "Overbought",
    "file": "SAND.png"
+  },
+  {
+   "symbol": "APE",
+   "name": "ApeCoin",
+   "sigma": 8.03,
+   "from_btc_pct": 30,
+   "verdict": "Overbought",
+   "file": "APE.png"
   },
   {
    "symbol": "MANA",
@@ -89,14 +97,6 @@
    "from_btc_pct": 39,
    "verdict": "Overbought",
    "file": "ZK.png"
-  },
-  {
-   "symbol": "SKY",
-   "name": "Sky",
-   "sigma": 2.53,
-   "from_btc_pct": 22,
-   "verdict": "Overbought",
-   "file": "SKY.png"
   }
  ]
 }
