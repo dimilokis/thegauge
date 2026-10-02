@@ -1,6 +1,6 @@
 {
  "date": "2026-10-02",
- "generated_at": "2026-10-02T21:01:00.811098+00:00",
+ "generated_at": "2026-10-02T22:45:57.444251+00:00",
  "assets": [
   {
    "symbol": "SAND",
@@ -91,12 +91,12 @@
    "file": "ENJ.png"
   },
   {
-   "symbol": "APE",
-   "name": "ApeCoin",
-   "sigma": 2.54,
-   "from_btc_pct": 29,
+   "symbol": "GALA",
+   "name": "GALA",
+   "sigma": 2.62,
+   "from_btc_pct": 16,
    "verdict": "Overbought",
-   "file": "APE.png"
+   "file": "GALA.png"
   }
  ]
 }
