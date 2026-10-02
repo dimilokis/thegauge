@@ -1,6 +1,6 @@
 {
  "date": "2026-10-02",
- "generated_at": "2026-10-02T08:45:50.512570+00:00",
+ "generated_at": "2026-10-02T09:00:54.504505+00:00",
  "assets": [
   {
    "symbol": "SAND",
@@ -17,6 +17,14 @@
    "from_btc_pct": 28,
    "verdict": "Overbought",
    "file": "MANA.png"
+  },
+  {
+   "symbol": "MAGIC",
+   "name": "Treasure",
+   "sigma": 5.19,
+   "from_btc_pct": 40,
+   "verdict": "Overbought",
+   "file": "MAGIC.png"
   },
   {
    "symbol": "SCR",
