@@ -1,6 +1,6 @@
 {
  "date": "2026-10-02",
- "generated_at": "2026-10-02T11:30:56.756214+00:00",
+ "generated_at": "2026-10-02T11:45:51.617452+00:00",
  "assets": [
   {
    "symbol": "SAND",
@@ -41,6 +41,22 @@
    "from_btc_pct": 39,
    "verdict": "Overbought",
    "file": "AXS.png"
+  },
+  {
+   "symbol": "SKY",
+   "name": "Sky",
+   "sigma": 2.77,
+   "from_btc_pct": 22,
+   "verdict": "Overbought",
+   "file": "SKY.png"
+  },
+  {
+   "symbol": "NIGHT",
+   "name": "Midnight",
+   "sigma": 2.72,
+   "from_btc_pct": 20,
+   "verdict": "Overbought",
+   "file": "NIGHT.png"
   },
   {
    "symbol": "ZK",
