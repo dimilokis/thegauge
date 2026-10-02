@@ -1,6 +1,6 @@
 {
  "date": "2026-10-01",
- "generated_at": "2026-10-02T01:30:54.250565+00:00",
+ "generated_at": "2026-10-02T02:30:51.805675+00:00",
  "assets": [
   {
    "symbol": "ALICE",
@@ -35,14 +35,6 @@
    "file": "OPN.png"
   },
   {
-   "symbol": "GTC",
-   "name": "Gitcoin",
-   "sigma": 3.11,
-   "from_btc_pct": 6,
-   "verdict": "Overbought",
-   "file": "GTC.png"
-  },
-  {
    "symbol": "SCR",
    "name": "Scroll",
    "sigma": 2.98,
@@ -73,6 +65,14 @@
    "from_btc_pct": 3,
    "verdict": "Overbought",
    "file": "NOM.png"
+  },
+  {
+   "symbol": "GTC",
+   "name": "Gitcoin",
+   "sigma": 2.59,
+   "from_btc_pct": 7,
+   "verdict": "Overbought",
+   "file": "GTC.png"
   },
   {
    "symbol": "JASMY",
