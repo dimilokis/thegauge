@@ -1,6 +1,6 @@
 {
  "date": "2026-10-02",
- "generated_at": "2026-10-02T18:45:50.634358+00:00",
+ "generated_at": "2026-10-02T19:01:01.201552+00:00",
  "assets": [
   {
    "symbol": "SAND",
@@ -27,28 +27,12 @@
    "file": "MANA.png"
   },
   {
-   "symbol": "SCR",
-   "name": "Scroll",
-   "sigma": 6.24,
-   "from_btc_pct": 15,
-   "verdict": "Overbought",
-   "file": "SCR.png"
-  },
-  {
    "symbol": "2Z",
    "name": "DoubleZero",
    "sigma": 4.34,
    "from_btc_pct": 8,
    "verdict": "Oversold",
    "file": "2Z.png"
-  },
-  {
-   "symbol": "MAGIC",
-   "name": "Treasure",
-   "sigma": 4.33,
-   "from_btc_pct": 40,
-   "verdict": "Overbought",
-   "file": "MAGIC.png"
   },
   {
    "symbol": "ENJ",
@@ -65,6 +49,14 @@
    "from_btc_pct": 12,
    "verdict": "Overbought",
    "file": "SPK.png"
+  },
+  {
+   "symbol": "MAGIC",
+   "name": "Treasure",
+   "sigma": 3.03,
+   "from_btc_pct": 36,
+   "verdict": "Overbought",
+   "file": "MAGIC.png"
   },
   {
    "symbol": "AXS",
@@ -89,6 +81,14 @@
    "from_btc_pct": 25,
    "verdict": "Strong Uptrend",
    "file": "TIA.png"
+  },
+  {
+   "symbol": "SCR",
+   "name": "Scroll",
+   "sigma": 2.78,
+   "from_btc_pct": 20,
+   "verdict": "Overbought",
+   "file": "SCR.png"
   },
   {
    "symbol": "SKY",
