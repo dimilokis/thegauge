@@ -1,6 +1,6 @@
 {
  "date": "2026-10-02",
- "generated_at": "2026-10-02T22:45:57.444251+00:00",
+ "generated_at": "2026-10-02T23:00:58.691884+00:00",
  "assets": [
   {
    "symbol": "SAND",
@@ -33,14 +33,6 @@
    "from_btc_pct": 12,
    "verdict": "Overbought",
    "file": "SPK.png"
-  },
-  {
-   "symbol": "MAGIC",
-   "name": "Treasure",
-   "sigma": 3.03,
-   "from_btc_pct": 36,
-   "verdict": "Overbought",
-   "file": "MAGIC.png"
   },
   {
    "symbol": "AXS",
@@ -97,6 +89,14 @@
    "from_btc_pct": 16,
    "verdict": "Overbought",
    "file": "GALA.png"
+  },
+  {
+   "symbol": "MAGIC",
+   "name": "Treasure",
+   "sigma": 2.59,
+   "from_btc_pct": 38,
+   "verdict": "Overbought",
+   "file": "MAGIC.png"
   }
  ]
 }
