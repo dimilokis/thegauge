@@ -1,6 +1,6 @@
 {
  "date": "2026-10-02",
- "generated_at": "2026-10-02T19:15:50.956464+00:00",
+ "generated_at": "2026-10-02T20:01:01.671067+00:00",
  "assets": [
   {
    "symbol": "SAND",
@@ -9,14 +9,6 @@
    "from_btc_pct": 16,
    "verdict": "Overbought",
    "file": "SAND.png"
-  },
-  {
-   "symbol": "APE",
-   "name": "ApeCoin",
-   "sigma": 8.03,
-   "from_btc_pct": 30,
-   "verdict": "Overbought",
-   "file": "APE.png"
   },
   {
    "symbol": "MANA",
@@ -33,14 +25,6 @@
    "from_btc_pct": 8,
    "verdict": "Oversold",
    "file": "2Z.png"
-  },
-  {
-   "symbol": "ENJ",
-   "name": "Enjin Coin",
-   "sigma": 3.88,
-   "from_btc_pct": 14,
-   "verdict": "Overbought",
-   "file": "ENJ.png"
   },
   {
    "symbol": "SPK",
@@ -97,6 +81,22 @@
    "from_btc_pct": 18,
    "verdict": "Overbought",
    "file": "SKY.png"
+  },
+  {
+   "symbol": "APE",
+   "name": "ApeCoin",
+   "sigma": 2.65,
+   "from_btc_pct": 29,
+   "verdict": "Overbought",
+   "file": "APE.png"
+  },
+  {
+   "symbol": "ENJ",
+   "name": "Enjin Coin",
+   "sigma": 2.64,
+   "from_btc_pct": 10,
+   "verdict": "Overbought",
+   "file": "ENJ.png"
   }
  ]
 }
