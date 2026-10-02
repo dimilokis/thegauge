@@ -1,6 +1,6 @@
 {
  "date": "2026-10-02",
- "generated_at": "2026-10-02T14:31:04.853291+00:00",
+ "generated_at": "2026-10-02T15:15:55.674207+00:00",
  "assets": [
   {
    "symbol": "SAND",
@@ -51,14 +51,6 @@
    "file": "SCR.png"
   },
   {
-   "symbol": "SKY",
-   "name": "Sky",
-   "sigma": 3.15,
-   "from_btc_pct": 21,
-   "verdict": "Overbought",
-   "file": "SKY.png"
-  },
-  {
    "symbol": "AXS",
    "name": "Axie Infinity",
    "sigma": 2.84,
@@ -73,6 +65,14 @@
    "from_btc_pct": 25,
    "verdict": "Strong Uptrend",
    "file": "TIA.png"
+  },
+  {
+   "symbol": "SKY",
+   "name": "Sky",
+   "sigma": 2.75,
+   "from_btc_pct": 20,
+   "verdict": "Overbought",
+   "file": "SKY.png"
   },
   {
    "symbol": "NIGHT",
@@ -93,8 +93,8 @@
   {
    "symbol": "WLD",
    "name": "Worldcoin",
-   "sigma": 2.63,
-   "from_btc_pct": 21,
+   "sigma": 2.61,
+   "from_btc_pct": 19,
    "verdict": "Strong Uptrend",
    "file": "WLD.png"
   }
