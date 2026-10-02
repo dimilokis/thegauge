@@ -1,6 +1,6 @@
 {
  "date": "2026-10-02",
- "generated_at": "2026-10-02T12:30:50.413467+00:00",
+ "generated_at": "2026-10-02T13:01:04.258986+00:00",
  "assets": [
   {
    "symbol": "SAND",
@@ -49,6 +49,14 @@
    "from_btc_pct": 39,
    "verdict": "Overbought",
    "file": "AXS.png"
+  },
+  {
+   "symbol": "TIA",
+   "name": "Celestia",
+   "sigma": 2.78,
+   "from_btc_pct": 25,
+   "verdict": "Strong Uptrend",
+   "file": "TIA.png"
   },
   {
    "symbol": "NIGHT",
