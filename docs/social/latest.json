@@ -1,6 +1,6 @@
 {
  "date": "2026-10-02",
- "generated_at": "2026-10-02T11:45:51.617452+00:00",
+ "generated_at": "2026-10-02T12:00:58.030866+00:00",
  "assets": [
   {
    "symbol": "SAND",
@@ -25,6 +25,14 @@
    "from_btc_pct": 40,
    "verdict": "Overbought",
    "file": "MAGIC.png"
+  },
+  {
+   "symbol": "ENJ",
+   "name": "Enjin Coin",
+   "sigma": 3.88,
+   "from_btc_pct": 14,
+   "verdict": "Overbought",
+   "file": "ENJ.png"
   },
   {
    "symbol": "SCR",
@@ -59,20 +67,20 @@
    "file": "NIGHT.png"
   },
   {
+   "symbol": "GALA",
+   "name": "GALA",
+   "sigma": 2.71,
+   "from_btc_pct": 24,
+   "verdict": "Overbought",
+   "file": "GALA.png"
+  },
+  {
    "symbol": "ZK",
    "name": "ZKsync",
    "sigma": 2.6,
    "from_btc_pct": 39,
    "verdict": "Overbought",
    "file": "ZK.png"
-  },
-  {
-   "symbol": "ENJ",
-   "name": "Enjin Coin",
-   "sigma": 2.52,
-   "from_btc_pct": 14,
-   "verdict": "Overbought",
-   "file": "ENJ.png"
   }
  ]
 }
