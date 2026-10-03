@@ -1,6 +1,6 @@
 {
  "date": "2026-10-03",
- "generated_at": "2026-10-03T05:30:53.273802+00:00",
+ "generated_at": "2026-10-03T11:00:54.535724+00:00",
  "assets": [
   {
    "symbol": "RESOLV",
@@ -33,6 +33,14 @@
    "from_btc_pct": 2,
    "verdict": "Overbought",
    "file": "SAND.png"
+  },
+  {
+   "symbol": "ZRO",
+   "name": "LayerZero",
+   "sigma": 2.55,
+   "from_btc_pct": 1,
+   "verdict": "Strong Uptrend",
+   "file": "ZRO.png"
   }
  ]
 }
