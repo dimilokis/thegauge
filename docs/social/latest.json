@@ -1,7 +1,15 @@
 {
  "date": "2026-10-03",
- "generated_at": "2026-10-03T05:15:49.422090+00:00",
+ "generated_at": "2026-10-03T05:30:53.273802+00:00",
  "assets": [
+  {
+   "symbol": "RESOLV",
+   "name": "Resolv",
+   "sigma": 3.6,
+   "from_btc_pct": 21,
+   "verdict": "Overbought",
+   "file": "RESOLV.png"
+  },
   {
    "symbol": "MANA",
    "name": "Decentraland",
