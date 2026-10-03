@@ -1,6 +1,6 @@
 {
  "date": "2026-10-03",
- "generated_at": "2026-10-03T18:30:56.858514+00:00",
+ "generated_at": "2026-10-03T18:45:50.587876+00:00",
  "assets": [
   {
    "symbol": "GLMR",
@@ -51,6 +51,14 @@
    "file": "STRK.png"
   },
   {
+   "symbol": "SCR",
+   "name": "Scroll",
+   "sigma": 2.88,
+   "from_btc_pct": 21,
+   "verdict": "Neutral",
+   "file": "SCR.png"
+  },
+  {
    "symbol": "SUPER",
    "name": "SuperVerse",
    "sigma": 2.73,
@@ -75,12 +83,12 @@
    "file": "SAND.png"
   },
   {
-   "symbol": "SCR",
-   "name": "Scroll",
-   "sigma": 2.62,
-   "from_btc_pct": 22,
-   "verdict": "Neutral",
-   "file": "SCR.png"
+   "symbol": "ZAMA",
+   "name": "Zama",
+   "sigma": 2.51,
+   "from_btc_pct": 25,
+   "verdict": "Strong Uptrend",
+   "file": "ZAMA.png"
   }
  ]
 }
