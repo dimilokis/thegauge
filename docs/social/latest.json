@@ -1,6 +1,6 @@
 {
  "date": "2026-10-03",
- "generated_at": "2026-10-03T21:30:50.641225+00:00",
+ "generated_at": "2026-10-03T21:53:51.969411+00:00",
  "assets": [
   {
    "symbol": "GLMR",
@@ -91,12 +91,12 @@
    "file": "SUPER.png"
   },
   {
-   "symbol": "STRK",
-   "name": "Starknet",
-   "sigma": 2.5,
-   "from_btc_pct": 26,
-   "verdict": "Overbought",
-   "file": "STRK.png"
+   "symbol": "ZAMA",
+   "name": "Zama",
+   "sigma": 2.53,
+   "from_btc_pct": 24,
+   "verdict": "Strong Uptrend",
+   "file": "ZAMA.png"
   }
  ]
 }
