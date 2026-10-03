@@ -1,6 +1,6 @@
 {
  "date": "2026-10-03",
- "generated_at": "2026-10-03T12:00:53.484175+00:00",
+ "generated_at": "2026-10-03T13:45:51.807248+00:00",
  "assets": [
   {
    "symbol": "GLMR",
@@ -49,6 +49,14 @@
    "from_btc_pct": 2,
    "verdict": "Overbought",
    "file": "SAND.png"
+  },
+  {
+   "symbol": "SUPER",
+   "name": "SuperVerse",
+   "sigma": 2.72,
+   "from_btc_pct": 33,
+   "verdict": "Overbought",
+   "file": "SUPER.png"
   }
  ]
 }
