@@ -1,6 +1,6 @@
 {
  "date": "2026-10-03",
- "generated_at": "2026-10-03T20:30:57.413218+00:00",
+ "generated_at": "2026-10-03T20:45:51.675175+00:00",
  "assets": [
   {
    "symbol": "GLMR",
@@ -83,20 +83,20 @@
    "file": "PUMP.png"
   },
   {
-   "symbol": "STRK",
-   "name": "Starknet",
-   "sigma": 2.63,
-   "from_btc_pct": 26,
-   "verdict": "Overbought",
-   "file": "STRK.png"
-  },
-  {
    "symbol": "SUPER",
    "name": "SuperVerse",
    "sigma": 2.53,
    "from_btc_pct": 33,
    "verdict": "Overbought",
    "file": "SUPER.png"
+  },
+  {
+   "symbol": "STRK",
+   "name": "Starknet",
+   "sigma": 2.5,
+   "from_btc_pct": 26,
+   "verdict": "Overbought",
+   "file": "STRK.png"
   }
  ]
 }
