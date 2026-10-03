@@ -1,6 +1,6 @@
 {
  "date": "2026-10-03",
- "generated_at": "2026-10-03T23:00:56.148565+00:00",
+ "generated_at": "2026-10-03T23:15:51.918720+00:00",
  "assets": [
   {
    "symbol": "GLMR",
@@ -35,14 +35,6 @@
    "file": "MANA.png"
   },
   {
-   "symbol": "IO",
-   "name": "io.net",
-   "sigma": 3.01,
-   "from_btc_pct": 34,
-   "verdict": "Overbought",
-   "file": "IO.png"
-  },
-  {
    "symbol": "ZRO",
    "name": "LayerZero",
    "sigma": 2.99,
@@ -57,6 +49,14 @@
    "from_btc_pct": 22,
    "verdict": "Neutral",
    "file": "SCR.png"
+  },
+  {
+   "symbol": "IO",
+   "name": "io.net",
+   "sigma": 2.74,
+   "from_btc_pct": 34,
+   "verdict": "Overbought",
+   "file": "IO.png"
   },
   {
    "symbol": "ENJ",
