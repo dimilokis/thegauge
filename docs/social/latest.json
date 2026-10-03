@@ -1,6 +1,6 @@
 {
  "date": "2026-10-03",
- "generated_at": "2026-10-03T17:55:18.027413+00:00",
+ "generated_at": "2026-10-03T18:30:56.858514+00:00",
  "assets": [
   {
    "symbol": "GLMR",
@@ -9,6 +9,14 @@
    "from_btc_pct": 8,
    "verdict": "Overbought",
    "file": "GLMR.png"
+  },
+  {
+   "symbol": "AT",
+   "name": "Apro",
+   "sigma": 4.05,
+   "from_btc_pct": 3,
+   "verdict": "Oversold",
+   "file": "AT.png"
   },
   {
    "symbol": "RESOLV",
