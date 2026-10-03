@@ -1,6 +1,6 @@
 {
  "date": "2026-10-03",
- "generated_at": "2026-10-03T21:53:51.969411+00:00",
+ "generated_at": "2026-10-03T22:16:32.879201+00:00",
  "assets": [
   {
    "symbol": "GLMR",
@@ -53,8 +53,8 @@
   {
    "symbol": "SCR",
    "name": "Scroll",
-   "sigma": 2.88,
-   "from_btc_pct": 21,
+   "sigma": 2.75,
+   "from_btc_pct": 22,
    "verdict": "Neutral",
    "file": "SCR.png"
   },
