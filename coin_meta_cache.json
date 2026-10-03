@@ -843,6 +843,10 @@
   "icon": "https://coin-images.coingecko.com/coins/images/69995/large/9fcb2fa4-b240-46e2-9016-c4f6101a139d.jpeg?1778485816",
   "name": "MegaETH"
  },
+ "MEME": {
+  "icon": "https://coin-images.coingecko.com/coins/images/32528/large/memecoin_%282%29.png",
+  "name": "Memecoin"
+ },
  "MET": {
   "icon": "https://coin-images.coingecko.com/coins/images/69110/large/meteora.png?1757517561",
   "name": "Meteora"
