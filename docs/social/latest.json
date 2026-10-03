@@ -1,6 +1,6 @@
 {
  "date": "2026-10-03",
- "generated_at": "2026-10-03T17:15:47.917809+00:00",
+ "generated_at": "2026-10-03T17:30:57.853307+00:00",
  "assets": [
   {
    "symbol": "GLMR",
@@ -33,6 +33,14 @@
    "from_btc_pct": 1,
    "verdict": "Strong Uptrend",
    "file": "ZRO.png"
+  },
+  {
+   "symbol": "STRK",
+   "name": "Starknet",
+   "sigma": 2.98,
+   "from_btc_pct": 25,
+   "verdict": "Overbought",
+   "file": "STRK.png"
   },
   {
    "symbol": "SUPER",
