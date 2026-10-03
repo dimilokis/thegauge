@@ -1,6 +1,6 @@
 {
  "date": "2026-10-03",
- "generated_at": "2026-10-03T11:45:46.669655+00:00",
+ "generated_at": "2026-10-03T12:00:53.484175+00:00",
  "assets": [
   {
    "symbol": "GLMR",
@@ -27,6 +27,14 @@
    "file": "MANA.png"
   },
   {
+   "symbol": "ZRO",
+   "name": "LayerZero",
+   "sigma": 2.99,
+   "from_btc_pct": 1,
+   "verdict": "Strong Uptrend",
+   "file": "ZRO.png"
+  },
+  {
    "symbol": "ENJ",
    "name": "Enjin Coin",
    "sigma": 2.72,
@@ -41,14 +49,6 @@
    "from_btc_pct": 2,
    "verdict": "Overbought",
    "file": "SAND.png"
-  },
-  {
-   "symbol": "ZRO",
-   "name": "LayerZero",
-   "sigma": 2.55,
-   "from_btc_pct": 1,
-   "verdict": "Strong Uptrend",
-   "file": "ZRO.png"
   }
  ]
 }
