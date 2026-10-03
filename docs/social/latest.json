@@ -1,7 +1,15 @@
 {
  "date": "2026-10-03",
- "generated_at": "2026-10-03T11:00:54.535724+00:00",
+ "generated_at": "2026-10-03T11:45:46.669655+00:00",
  "assets": [
+  {
+   "symbol": "GLMR",
+   "name": "Moonbeam",
+   "sigma": 5.31,
+   "from_btc_pct": 8,
+   "verdict": "Overbought",
+   "file": "GLMR.png"
+  },
   {
    "symbol": "RESOLV",
    "name": "Resolv",
