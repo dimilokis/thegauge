@@ -1,102 +1,22 @@
 {
- "date": "2026-10-02",
- "generated_at": "2026-10-03T02:45:53.951198+00:00",
+ "date": "2026-10-03",
+ "generated_at": "2026-10-03T04:30:49.879243+00:00",
  "assets": [
-  {
-   "symbol": "SAND",
-   "name": "The Sandbox",
-   "sigma": 8.64,
-   "from_btc_pct": 16,
-   "verdict": "Overbought",
-   "file": "SAND.png"
-  },
-  {
-   "symbol": "MANA",
-   "name": "Decentraland",
-   "sigma": 6.29,
-   "from_btc_pct": 28,
-   "verdict": "Overbought",
-   "file": "MANA.png"
-  },
-  {
-   "symbol": "2Z",
-   "name": "DoubleZero",
-   "sigma": 4.34,
-   "from_btc_pct": 8,
-   "verdict": "Oversold",
-   "file": "2Z.png"
-  },
-  {
-   "symbol": "SPK",
-   "name": "Spark",
-   "sigma": 3.34,
-   "from_btc_pct": 12,
-   "verdict": "Overbought",
-   "file": "SPK.png"
-  },
-  {
-   "symbol": "AXS",
-   "name": "Axie Infinity",
-   "sigma": 2.84,
-   "from_btc_pct": 40,
-   "verdict": "Overbought",
-   "file": "AXS.png"
-  },
-  {
-   "symbol": "WLD",
-   "name": "Worldcoin",
-   "sigma": 2.83,
-   "from_btc_pct": 18,
-   "verdict": "Strong Uptrend",
-   "file": "WLD.png"
-  },
-  {
-   "symbol": "TIA",
-   "name": "Celestia",
-   "sigma": 2.78,
-   "from_btc_pct": 25,
-   "verdict": "Strong Uptrend",
-   "file": "TIA.png"
-  },
-  {
-   "symbol": "SCR",
-   "name": "Scroll",
-   "sigma": 2.78,
-   "from_btc_pct": 20,
-   "verdict": "Overbought",
-   "file": "SCR.png"
-  },
-  {
-   "symbol": "SKY",
-   "name": "Sky",
-   "sigma": 2.75,
-   "from_btc_pct": 18,
-   "verdict": "Overbought",
-   "file": "SKY.png"
-  },
-  {
-   "symbol": "GALA",
-   "name": "GALA",
-   "sigma": 2.72,
-   "from_btc_pct": 16,
-   "verdict": "Overbought",
-   "file": "GALA.png"
-  },
-  {
-   "symbol": "MAGIC",
-   "name": "Treasure",
-   "sigma": 2.7,
-   "from_btc_pct": 38,
-   "verdict": "Overbought",
-   "file": "MAGIC.png"
-  },
   {
    "symbol": "ENJ",
    "name": "Enjin Coin",
-   "sigma": 2.53,
+   "sigma": 2.72,
    "from_btc_pct": 5,
    "verdict": "Overbought",
    "file": "ENJ.png"
+  },
+  {
+   "symbol": "SAND",
+   "name": "The Sandbox",
+   "sigma": 2.56,
+   "from_btc_pct": 2,
+   "verdict": "Overbought",
+   "file": "SAND.png"
   }
  ]
 }
