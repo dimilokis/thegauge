@@ -1,6 +1,6 @@
 {
  "date": "2026-10-02",
- "generated_at": "2026-10-02T23:30:53.644813+00:00",
+ "generated_at": "2026-10-03T02:45:53.951198+00:00",
  "assets": [
   {
    "symbol": "SAND",
@@ -93,8 +93,8 @@
   {
    "symbol": "ENJ",
    "name": "Enjin Coin",
-   "sigma": 2.64,
-   "from_btc_pct": 10,
+   "sigma": 2.53,
+   "from_btc_pct": 5,
    "verdict": "Overbought",
    "file": "ENJ.png"
   }
