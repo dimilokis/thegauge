@@ -1,7 +1,15 @@
 {
  "date": "2026-10-03",
- "generated_at": "2026-10-03T04:30:49.879243+00:00",
+ "generated_at": "2026-10-03T05:00:59.476475+00:00",
  "assets": [
+  {
+   "symbol": "MANA",
+   "name": "Decentraland",
+   "sigma": 3.41,
+   "from_btc_pct": 16,
+   "verdict": "Overbought",
+   "file": "MANA.png"
+  },
   {
    "symbol": "ENJ",
    "name": "Enjin Coin",
