@@ -1,6 +1,6 @@
 {
  "date": "2026-10-03",
- "generated_at": "2026-10-03T15:30:47.287727+00:00",
+ "generated_at": "2026-10-03T17:15:47.917809+00:00",
  "assets": [
   {
    "symbol": "GLMR",
@@ -35,6 +35,14 @@
    "file": "ZRO.png"
   },
   {
+   "symbol": "SUPER",
+   "name": "SuperVerse",
+   "sigma": 2.77,
+   "from_btc_pct": 33,
+   "verdict": "Overbought",
+   "file": "SUPER.png"
+  },
+  {
    "symbol": "ENJ",
    "name": "Enjin Coin",
    "sigma": 2.72,
@@ -49,14 +57,6 @@
    "from_btc_pct": 2,
    "verdict": "Overbought",
    "file": "SAND.png"
-  },
-  {
-   "symbol": "SUPER",
-   "name": "SuperVerse",
-   "sigma": 2.66,
-   "from_btc_pct": 33,
-   "verdict": "Overbought",
-   "file": "SUPER.png"
   },
   {
    "symbol": "SCR",
