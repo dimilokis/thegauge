@@ -1,6 +1,6 @@
 {
  "date": "2026-10-04",
- "generated_at": "2026-10-04T12:45:54.894284+00:00",
+ "generated_at": "2026-10-04T14:15:54.419576+00:00",
  "assets": [
   {
    "symbol": "BEAMX",
@@ -25,6 +25,14 @@
    "from_btc_pct": 26,
    "verdict": "Overbought",
    "file": "AXS.png"
+  },
+  {
+   "symbol": "W",
+   "name": "Wormhole",
+   "sigma": 2.77,
+   "from_btc_pct": 19,
+   "verdict": "Overbought",
+   "file": "W.png"
   },
   {
    "symbol": "NOM",
