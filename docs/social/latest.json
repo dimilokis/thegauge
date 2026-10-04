@@ -1,102 +1,14 @@
 {
- "date": "2026-10-03",
- "generated_at": "2026-10-03T23:15:51.918720+00:00",
+ "date": "2026-10-04",
+ "generated_at": "2026-10-04T03:31:00.898109+00:00",
  "assets": [
   {
-   "symbol": "GLMR",
-   "name": "Moonbeam",
-   "sigma": 5.31,
-   "from_btc_pct": 8,
+   "symbol": "AXS",
+   "name": "Axie Infinity",
+   "sigma": 3.14,
+   "from_btc_pct": 26,
    "verdict": "Overbought",
-   "file": "GLMR.png"
-  },
-  {
-   "symbol": "AT",
-   "name": "Apro",
-   "sigma": 4.05,
-   "from_btc_pct": 3,
-   "verdict": "Oversold",
-   "file": "AT.png"
-  },
-  {
-   "symbol": "RESOLV",
-   "name": "Resolv",
-   "sigma": 3.6,
-   "from_btc_pct": 21,
-   "verdict": "Overbought",
-   "file": "RESOLV.png"
-  },
-  {
-   "symbol": "MANA",
-   "name": "Decentraland",
-   "sigma": 3.41,
-   "from_btc_pct": 16,
-   "verdict": "Overbought",
-   "file": "MANA.png"
-  },
-  {
-   "symbol": "ZRO",
-   "name": "LayerZero",
-   "sigma": 2.99,
-   "from_btc_pct": 1,
-   "verdict": "Strong Uptrend",
-   "file": "ZRO.png"
-  },
-  {
-   "symbol": "SCR",
-   "name": "Scroll",
-   "sigma": 2.75,
-   "from_btc_pct": 22,
-   "verdict": "Neutral",
-   "file": "SCR.png"
-  },
-  {
-   "symbol": "IO",
-   "name": "io.net",
-   "sigma": 2.74,
-   "from_btc_pct": 34,
-   "verdict": "Overbought",
-   "file": "IO.png"
-  },
-  {
-   "symbol": "ENJ",
-   "name": "Enjin Coin",
-   "sigma": 2.72,
-   "from_btc_pct": 5,
-   "verdict": "Overbought",
-   "file": "ENJ.png"
-  },
-  {
-   "symbol": "SAND",
-   "name": "The Sandbox",
-   "sigma": 2.72,
-   "from_btc_pct": 2,
-   "verdict": "Overbought",
-   "file": "SAND.png"
-  },
-  {
-   "symbol": "PUMP",
-   "name": "Pump.fun",
-   "sigma": 2.62,
-   "from_btc_pct": 7,
-   "verdict": "Strong Uptrend",
-   "file": "PUMP.png"
-  },
-  {
-   "symbol": "SUPER",
-   "name": "SuperVerse",
-   "sigma": 2.62,
-   "from_btc_pct": 33,
-   "verdict": "Overbought",
-   "file": "SUPER.png"
-  },
-  {
-   "symbol": "ZAMA",
-   "name": "Zama",
-   "sigma": 2.53,
-   "from_btc_pct": 24,
-   "verdict": "Strong Uptrend",
-   "file": "ZAMA.png"
+   "file": "AXS.png"
   }
  ]
 }
