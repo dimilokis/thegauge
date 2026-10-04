@@ -1,6 +1,6 @@
 {
  "date": "2026-10-04",
- "generated_at": "2026-10-04T11:00:59.455497+00:00",
+ "generated_at": "2026-10-04T11:45:50.572499+00:00",
  "assets": [
   {
    "symbol": "BEAMX",
@@ -19,14 +19,6 @@
    "file": "BAT.png"
   },
   {
-   "symbol": "IOTA",
-   "name": "IOTA",
-   "sigma": 3.26,
-   "from_btc_pct": 26,
-   "verdict": "Overbought",
-   "file": "IOTA.png"
-  },
-  {
    "symbol": "AXS",
    "name": "Axie Infinity",
    "sigma": 3.14,
@@ -41,6 +33,14 @@
    "from_btc_pct": 5,
    "verdict": "Overbought",
    "file": "NOM.png"
+  },
+  {
+   "symbol": "IOTA",
+   "name": "IOTA",
+   "sigma": 2.68,
+   "from_btc_pct": 28,
+   "verdict": "Overbought",
+   "file": "IOTA.png"
   }
  ]
 }
