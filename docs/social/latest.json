@@ -1,6 +1,6 @@
 {
  "date": "2026-10-04",
- "generated_at": "2026-10-04T11:45:50.572499+00:00",
+ "generated_at": "2026-10-04T12:45:54.894284+00:00",
  "assets": [
   {
    "symbol": "BEAMX",
@@ -37,8 +37,8 @@
   {
    "symbol": "IOTA",
    "name": "IOTA",
-   "sigma": 2.68,
-   "from_btc_pct": 28,
+   "sigma": 2.61,
+   "from_btc_pct": 27,
    "verdict": "Overbought",
    "file": "IOTA.png"
   }
