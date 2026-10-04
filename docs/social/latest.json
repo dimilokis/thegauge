@@ -1,6 +1,6 @@
 {
  "date": "2026-10-04",
- "generated_at": "2026-10-04T23:00:51.244034+00:00",
+ "generated_at": "2026-10-04T23:45:54.132374+00:00",
  "assets": [
   {
    "symbol": "BEAMX",
@@ -35,6 +35,14 @@
    "file": "AXS.png"
   },
   {
+   "symbol": "MAGIC",
+   "name": "Treasure",
+   "sigma": 2.97,
+   "from_btc_pct": 35,
+   "verdict": "Overbought",
+   "file": "MAGIC.png"
+  },
+  {
    "symbol": "ORCA",
    "name": "Orca",
    "sigma": 2.83,
@@ -57,14 +65,6 @@
    "from_btc_pct": 5,
    "verdict": "Overbought",
    "file": "NOM.png"
-  },
-  {
-   "symbol": "MAGIC",
-   "name": "Treasure",
-   "sigma": 2.67,
-   "from_btc_pct": 33,
-   "verdict": "Overbought",
-   "file": "MAGIC.png"
   },
   {
    "symbol": "IOTA",
