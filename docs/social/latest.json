@@ -1,6 +1,6 @@
 {
  "date": "2026-10-04",
- "generated_at": "2026-10-04T15:54:37.120914+00:00",
+ "generated_at": "2026-10-04T16:45:47.235776+00:00",
  "assets": [
   {
    "symbol": "BEAMX",
@@ -17,6 +17,14 @@
    "from_btc_pct": 25,
    "verdict": "Overbought",
    "file": "MAGIC.png"
+  },
+  {
+   "symbol": "GTC",
+   "name": "Gitcoin",
+   "sigma": 5.97,
+   "from_btc_pct": 7,
+   "verdict": "Overbought",
+   "file": "GTC.png"
   },
   {
    "symbol": "BAT",
