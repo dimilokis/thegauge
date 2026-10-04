@@ -1,6 +1,6 @@
 {
  "date": "2026-10-04",
- "generated_at": "2026-10-04T22:30:55.167578+00:00",
+ "generated_at": "2026-10-04T23:00:51.244034+00:00",
  "assets": [
   {
    "symbol": "BEAMX",
@@ -51,14 +51,6 @@
    "file": "W.png"
   },
   {
-   "symbol": "SCR",
-   "name": "Scroll",
-   "sigma": 2.76,
-   "from_btc_pct": 21,
-   "verdict": "Overbought",
-   "file": "SCR.png"
-  },
-  {
    "symbol": "NOM",
    "name": "Nomina",
    "sigma": 2.71,
@@ -89,6 +81,14 @@
    "from_btc_pct": 32,
    "verdict": "Strong Uptrend",
    "file": "FET.png"
+  },
+  {
+   "symbol": "SCR",
+   "name": "Scroll",
+   "sigma": 2.5,
+   "from_btc_pct": 21,
+   "verdict": "Overbought",
+   "file": "SCR.png"
   }
  ]
 }
