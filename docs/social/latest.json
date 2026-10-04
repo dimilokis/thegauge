@@ -1,7 +1,15 @@
 {
  "date": "2026-10-04",
- "generated_at": "2026-10-04T03:31:00.898109+00:00",
+ "generated_at": "2026-10-04T08:15:52.742427+00:00",
  "assets": [
+  {
+   "symbol": "BEAMX",
+   "name": null,
+   "sigma": 7.1,
+   "from_btc_pct": 14,
+   "verdict": "Overbought",
+   "file": "BEAMX.png"
+  },
   {
    "symbol": "AXS",
    "name": "Axie Infinity",
