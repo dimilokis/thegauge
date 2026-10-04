@@ -1,6 +1,6 @@
 {
  "date": "2026-10-04",
- "generated_at": "2026-10-04T16:45:47.235776+00:00",
+ "generated_at": "2026-10-04T18:15:53.278724+00:00",
  "assets": [
   {
    "symbol": "BEAMX",
@@ -9,14 +9,6 @@
    "from_btc_pct": 14,
    "verdict": "Overbought",
    "file": "BEAMX.png"
-  },
-  {
-   "symbol": "MAGIC",
-   "name": "Treasure",
-   "sigma": 6.16,
-   "from_btc_pct": 25,
-   "verdict": "Overbought",
-   "file": "MAGIC.png"
   },
   {
    "symbol": "GTC",
@@ -41,6 +33,14 @@
    "from_btc_pct": 26,
    "verdict": "Overbought",
    "file": "AXS.png"
+  },
+  {
+   "symbol": "MAGIC",
+   "name": "Treasure",
+   "sigma": 3.07,
+   "from_btc_pct": 31,
+   "verdict": "Overbought",
+   "file": "MAGIC.png"
   },
   {
    "symbol": "W",
