@@ -1,6 +1,6 @@
 {
  "date": "2026-10-04",
- "generated_at": "2026-10-04T21:15:48.887189+00:00",
+ "generated_at": "2026-10-04T21:30:54.331197+00:00",
  "assets": [
   {
    "symbol": "BEAMX",
@@ -45,8 +45,8 @@
   {
    "symbol": "ORCA",
    "name": "Orca",
-   "sigma": 2.97,
-   "from_btc_pct": 14,
+   "sigma": 2.83,
+   "from_btc_pct": 15,
    "verdict": "Overbought",
    "file": "ORCA.png"
   },
