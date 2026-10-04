@@ -1,6 +1,6 @@
 {
  "date": "2026-10-04",
- "generated_at": "2026-10-04T21:30:54.331197+00:00",
+ "generated_at": "2026-10-04T22:30:55.167578+00:00",
  "assets": [
   {
    "symbol": "BEAMX",
@@ -17,14 +17,6 @@
    "from_btc_pct": 7,
    "verdict": "Overbought",
    "file": "GTC.png"
-  },
-  {
-   "symbol": "SCR",
-   "name": "Scroll",
-   "sigma": 3.61,
-   "from_btc_pct": 20,
-   "verdict": "Overbought",
-   "file": "SCR.png"
   },
   {
    "symbol": "BAT",
@@ -57,6 +49,14 @@
    "from_btc_pct": 19,
    "verdict": "Overbought",
    "file": "W.png"
+  },
+  {
+   "symbol": "SCR",
+   "name": "Scroll",
+   "sigma": 2.76,
+   "from_btc_pct": 21,
+   "verdict": "Overbought",
+   "file": "SCR.png"
   },
   {
    "symbol": "NOM",
