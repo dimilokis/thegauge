@@ -1,6 +1,6 @@
 {
  "date": "2026-10-04",
- "generated_at": "2026-10-04T14:15:54.419576+00:00",
+ "generated_at": "2026-10-04T15:00:58.041873+00:00",
  "assets": [
   {
    "symbol": "BEAMX",
@@ -9,6 +9,14 @@
    "from_btc_pct": 14,
    "verdict": "Overbought",
    "file": "BEAMX.png"
+  },
+  {
+   "symbol": "MAGIC",
+   "name": "Treasure",
+   "sigma": 6.16,
+   "from_btc_pct": 25,
+   "verdict": "Overbought",
+   "file": "MAGIC.png"
   },
   {
    "symbol": "BAT",
