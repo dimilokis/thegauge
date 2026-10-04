@@ -1,6 +1,6 @@
 {
  "date": "2026-10-04",
- "generated_at": "2026-10-04T21:00:57.614331+00:00",
+ "generated_at": "2026-10-04T21:15:48.887189+00:00",
  "assets": [
   {
    "symbol": "BEAMX",
@@ -17,6 +17,14 @@
    "from_btc_pct": 7,
    "verdict": "Overbought",
    "file": "GTC.png"
+  },
+  {
+   "symbol": "SCR",
+   "name": "Scroll",
+   "sigma": 3.61,
+   "from_btc_pct": 20,
+   "verdict": "Overbought",
+   "file": "SCR.png"
   },
   {
    "symbol": "BAT",
