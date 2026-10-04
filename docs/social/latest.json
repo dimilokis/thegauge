@@ -1,6 +1,6 @@
 {
  "date": "2026-10-04",
- "generated_at": "2026-10-04T10:45:54.169413+00:00",
+ "generated_at": "2026-10-04T11:00:59.455497+00:00",
  "assets": [
   {
    "symbol": "BEAMX",
@@ -37,7 +37,7 @@
   {
    "symbol": "NOM",
    "name": "Nomina",
-   "sigma": 2.52,
+   "sigma": 2.71,
    "from_btc_pct": 5,
    "verdict": "Overbought",
    "file": "NOM.png"
