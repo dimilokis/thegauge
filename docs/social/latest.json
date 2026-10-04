@@ -1,6 +1,6 @@
 {
  "date": "2026-10-04",
- "generated_at": "2026-10-04T10:30:55.282173+00:00",
+ "generated_at": "2026-10-04T10:45:54.169413+00:00",
  "assets": [
   {
    "symbol": "BEAMX",
@@ -9,6 +9,14 @@
    "from_btc_pct": 14,
    "verdict": "Overbought",
    "file": "BEAMX.png"
+  },
+  {
+   "symbol": "BAT",
+   "name": "Basic Attention",
+   "sigma": 3.38,
+   "from_btc_pct": 24,
+   "verdict": "Overbought",
+   "file": "BAT.png"
   },
   {
    "symbol": "IOTA",
