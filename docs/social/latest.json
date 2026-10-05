@@ -1,6 +1,6 @@
 {
  "date": "2026-10-05",
- "generated_at": "2026-10-05T16:01:03.056097+00:00",
+ "generated_at": "2026-10-05T16:13:20.186291+00:00",
  "assets": [
   {
    "symbol": "RLC",
@@ -9,6 +9,14 @@
    "from_btc_pct": 6,
    "verdict": "Overbought",
    "file": "RLC.png"
+  },
+  {
+   "symbol": "RAD",
+   "name": "Radworks",
+   "sigma": 6.19,
+   "from_btc_pct": 1,
+   "verdict": "Overbought",
+   "file": "RAD.png"
   },
   {
    "symbol": "OGN",
