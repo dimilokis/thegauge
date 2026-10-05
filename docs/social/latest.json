@@ -1,6 +1,6 @@
 {
  "date": "2026-10-05",
- "generated_at": "2026-10-05T13:45:55.663964+00:00",
+ "generated_at": "2026-10-05T14:01:02.608266+00:00",
  "assets": [
   {
    "symbol": "RLC",
@@ -29,8 +29,8 @@
   {
    "symbol": "PARTI",
    "name": "Particle Network",
-   "sigma": 2.84,
-   "from_btc_pct": 10,
+   "sigma": 2.96,
+   "from_btc_pct": 11,
    "verdict": "Neutral",
    "file": "PARTI.png"
   },
