@@ -1,6 +1,6 @@
 {
  "date": "2026-10-05",
- "generated_at": "2026-10-05T13:00:58.847352+00:00",
+ "generated_at": "2026-10-05T13:30:59.215364+00:00",
  "assets": [
   {
    "symbol": "RLC",
@@ -17,6 +17,14 @@
    "from_btc_pct": 20,
    "verdict": "Overbought",
    "file": "UMA.png"
+  },
+  {
+   "symbol": "RVN",
+   "name": "Ravencoin",
+   "sigma": 3.46,
+   "from_btc_pct": 10,
+   "verdict": "Neutral",
+   "file": "RVN.png"
   },
   {
    "symbol": "PARTI",
