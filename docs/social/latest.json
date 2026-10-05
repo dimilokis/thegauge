@@ -1,6 +1,6 @@
 {
  "date": "2026-10-05",
- "generated_at": "2026-10-05T17:15:53.206591+00:00",
+ "generated_at": "2026-10-05T18:15:51.639727+00:00",
  "assets": [
   {
    "symbol": "RLC",
@@ -11,6 +11,14 @@
    "file": "RLC.png"
   },
   {
+   "symbol": "EDU",
+   "name": "Open Campus",
+   "sigma": 6.63,
+   "from_btc_pct": 7,
+   "verdict": "Overbought",
+   "file": "EDU.png"
+  },
+  {
    "symbol": "RAD",
    "name": "Radworks",
    "sigma": 6.19,
@@ -19,20 +27,20 @@
    "file": "RAD.png"
   },
   {
-   "symbol": "OGN",
-   "name": "Origin Token",
-   "sigma": 5.48,
-   "from_btc_pct": 11,
-   "verdict": "Overbought",
-   "file": "OGN.png"
-  },
-  {
    "symbol": "UMA",
    "name": "UMA",
    "sigma": 5.07,
    "from_btc_pct": 20,
    "verdict": "Overbought",
    "file": "UMA.png"
+  },
+  {
+   "symbol": "OGN",
+   "name": "Origin Token",
+   "sigma": 4.88,
+   "from_btc_pct": 12,
+   "verdict": "Overbought",
+   "file": "OGN.png"
   },
   {
    "symbol": "RVN",
