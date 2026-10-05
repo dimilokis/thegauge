@@ -1,6 +1,6 @@
 {
  "date": "2026-10-04",
- "generated_at": "2026-10-05T00:30:52.075173+00:00",
+ "generated_at": "2026-10-05T01:15:54.756129+00:00",
  "assets": [
   {
    "symbol": "BEAMX",
@@ -51,6 +51,14 @@
    "file": "W.png"
   },
   {
+   "symbol": "GTC",
+   "name": "Gitcoin",
+   "sigma": 2.72,
+   "from_btc_pct": 9,
+   "verdict": "Overbought",
+   "file": "GTC.png"
+  },
+  {
    "symbol": "NOM",
    "name": "Nomina",
    "sigma": 2.71,
@@ -73,14 +81,6 @@
    "from_btc_pct": 32,
    "verdict": "Strong Uptrend",
    "file": "FET.png"
-  },
-  {
-   "symbol": "GTC",
-   "name": "Gitcoin",
-   "sigma": 2.52,
-   "from_btc_pct": 9,
-   "verdict": "Overbought",
-   "file": "GTC.png"
   },
   {
    "symbol": "SCR",
