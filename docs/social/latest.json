@@ -1,6 +1,6 @@
 {
  "date": "2026-10-04",
- "generated_at": "2026-10-05T01:15:54.756129+00:00",
+ "generated_at": "2026-10-05T02:45:54.187310+00:00",
  "assets": [
   {
    "symbol": "BEAMX",
@@ -81,6 +81,14 @@
    "from_btc_pct": 32,
    "verdict": "Strong Uptrend",
    "file": "FET.png"
+  },
+  {
+   "symbol": "ZKP",
+   "name": "zkPass",
+   "sigma": 2.54,
+   "from_btc_pct": 32,
+   "verdict": "Overbought",
+   "file": "ZKP.png"
   },
   {
    "symbol": "SCR",
