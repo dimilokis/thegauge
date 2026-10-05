@@ -1,100 +1,12 @@
 {
- "date": "2026-10-04",
- "generated_at": "2026-10-05T02:45:54.187310+00:00",
+ "date": "2026-10-05",
+ "generated_at": "2026-10-05T04:15:51.828459+00:00",
  "assets": [
-  {
-   "symbol": "BEAMX",
-   "name": null,
-   "sigma": 7.1,
-   "from_btc_pct": 14,
-   "verdict": "Overbought",
-   "file": "BEAMX.png"
-  },
-  {
-   "symbol": "BAT",
-   "name": "Basic Attention",
-   "sigma": 3.38,
-   "from_btc_pct": 24,
-   "verdict": "Overbought",
-   "file": "BAT.png"
-  },
-  {
-   "symbol": "AXS",
-   "name": "Axie Infinity",
-   "sigma": 3.14,
-   "from_btc_pct": 26,
-   "verdict": "Overbought",
-   "file": "AXS.png"
-  },
-  {
-   "symbol": "MAGIC",
-   "name": "Treasure",
-   "sigma": 2.97,
-   "from_btc_pct": 35,
-   "verdict": "Overbought",
-   "file": "MAGIC.png"
-  },
-  {
-   "symbol": "ORCA",
-   "name": "Orca",
-   "sigma": 2.83,
-   "from_btc_pct": 15,
-   "verdict": "Overbought",
-   "file": "ORCA.png"
-  },
-  {
-   "symbol": "W",
-   "name": "Wormhole",
-   "sigma": 2.77,
-   "from_btc_pct": 19,
-   "verdict": "Overbought",
-   "file": "W.png"
-  },
-  {
-   "symbol": "GTC",
-   "name": "Gitcoin",
-   "sigma": 2.72,
-   "from_btc_pct": 9,
-   "verdict": "Overbought",
-   "file": "GTC.png"
-  },
-  {
-   "symbol": "NOM",
-   "name": "Nomina",
-   "sigma": 2.71,
-   "from_btc_pct": 5,
-   "verdict": "Overbought",
-   "file": "NOM.png"
-  },
-  {
-   "symbol": "IOTA",
-   "name": "IOTA",
-   "sigma": 2.61,
-   "from_btc_pct": 28,
-   "verdict": "Overbought",
-   "file": "IOTA.png"
-  },
-  {
-   "symbol": "FET",
-   "name": "Artificial Superintelligence Alliance",
-   "sigma": 2.55,
-   "from_btc_pct": 32,
-   "verdict": "Strong Uptrend",
-   "file": "FET.png"
-  },
-  {
-   "symbol": "ZKP",
-   "name": "zkPass",
-   "sigma": 2.54,
-   "from_btc_pct": 32,
-   "verdict": "Overbought",
-   "file": "ZKP.png"
-  },
   {
    "symbol": "SCR",
    "name": "Scroll",
-   "sigma": 2.5,
-   "from_btc_pct": 21,
+   "sigma": 2.66,
+   "from_btc_pct": 17,
    "verdict": "Overbought",
    "file": "SCR.png"
   }
