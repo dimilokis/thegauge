@@ -1,6 +1,6 @@
 {
  "date": "2026-10-05",
- "generated_at": "2026-10-05T12:30:59.618612+00:00",
+ "generated_at": "2026-10-05T13:00:58.847352+00:00",
  "assets": [
   {
    "symbol": "RLC",
@@ -11,12 +11,12 @@
    "file": "RLC.png"
   },
   {
-   "symbol": "SCR",
-   "name": "Scroll",
-   "sigma": 3.75,
-   "from_btc_pct": 15,
+   "symbol": "UMA",
+   "name": "UMA",
+   "sigma": 5.07,
+   "from_btc_pct": 20,
    "verdict": "Overbought",
-   "file": "SCR.png"
+   "file": "UMA.png"
   },
   {
    "symbol": "PARTI",
@@ -33,6 +33,14 @@
    "from_btc_pct": 1,
    "verdict": "Overbought",
    "file": "MOVR.png"
+  },
+  {
+   "symbol": "SCR",
+   "name": "Scroll",
+   "sigma": 2.68,
+   "from_btc_pct": 17,
+   "verdict": "Overbought",
+   "file": "SCR.png"
   },
   {
    "symbol": "GTC",
