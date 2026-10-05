@@ -1,6 +1,6 @@
 {
  "date": "2026-10-05",
- "generated_at": "2026-10-05T21:31:02.029719+00:00",
+ "generated_at": "2026-10-05T23:00:57.059040+00:00",
  "assets": [
   {
    "symbol": "RLC",
@@ -25,14 +25,6 @@
    "from_btc_pct": 1,
    "verdict": "Overbought",
    "file": "RAD.png"
-  },
-  {
-   "symbol": "UMA",
-   "name": "UMA",
-   "sigma": 5.07,
-   "from_btc_pct": 20,
-   "verdict": "Overbought",
-   "file": "UMA.png"
   },
   {
    "symbol": "OGN",
@@ -73,6 +65,14 @@
    "from_btc_pct": 1,
    "verdict": "Overbought",
    "file": "MOVR.png"
+  },
+  {
+   "symbol": "UMA",
+   "name": "UMA",
+   "sigma": 2.82,
+   "from_btc_pct": 27,
+   "verdict": "Overbought",
+   "file": "UMA.png"
   },
   {
    "symbol": "FIL",
