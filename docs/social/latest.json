@@ -1,6 +1,6 @@
 {
  "date": "2026-10-05",
- "generated_at": "2026-10-05T17:01:03.321728+00:00",
+ "generated_at": "2026-10-05T17:15:53.206591+00:00",
  "assets": [
   {
    "symbol": "RLC",
@@ -73,6 +73,14 @@
    "from_btc_pct": 8,
    "verdict": "Overbought",
    "file": "GTC.png"
+  },
+  {
+   "symbol": "NIL",
+   "name": "Nillion",
+   "sigma": 2.55,
+   "from_btc_pct": 0,
+   "verdict": "Overbought",
+   "file": "NIL.png"
   }
  ]
 }
