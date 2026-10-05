@@ -1,6 +1,6 @@
 {
  "date": "2026-10-05",
- "generated_at": "2026-10-05T20:21:19.859379+00:00",
+ "generated_at": "2026-10-05T21:31:02.029719+00:00",
  "assets": [
   {
    "symbol": "RLC",
@@ -51,14 +51,6 @@
    "file": "RVN.png"
   },
   {
-   "symbol": "API3",
-   "name": "Api3",
-   "sigma": 3.43,
-   "from_btc_pct": 18,
-   "verdict": "Overbought",
-   "file": "API3.png"
-  },
-  {
    "symbol": "ORCA",
    "name": "Orca",
    "sigma": 3.1,
@@ -67,12 +59,12 @@
    "file": "ORCA.png"
   },
   {
-   "symbol": "PARTI",
-   "name": "Particle Network",
-   "sigma": 2.84,
-   "from_btc_pct": 7,
-   "verdict": "Neutral",
-   "file": "PARTI.png"
+   "symbol": "API3",
+   "name": "Api3",
+   "sigma": 2.93,
+   "from_btc_pct": 20,
+   "verdict": "Overbought",
+   "file": "API3.png"
   },
   {
    "symbol": "MOVR",
@@ -83,6 +75,14 @@
    "file": "MOVR.png"
   },
   {
+   "symbol": "FIL",
+   "name": "Filecoin",
+   "sigma": 2.71,
+   "from_btc_pct": 14,
+   "verdict": "Strong Uptrend",
+   "file": "FIL.png"
+  },
+  {
    "symbol": "SCR",
    "name": "Scroll",
    "sigma": 2.68,
@@ -91,12 +91,12 @@
    "file": "SCR.png"
   },
   {
-   "symbol": "NIL",
-   "name": "Nillion",
-   "sigma": 2.68,
-   "from_btc_pct": 0,
-   "verdict": "Overbought",
-   "file": "NIL.png"
+   "symbol": "PARTI",
+   "name": "Particle Network",
+   "sigma": 2.59,
+   "from_btc_pct": 9,
+   "verdict": "Neutral",
+   "file": "PARTI.png"
   }
  ]
 }
