@@ -1,6 +1,6 @@
 {
  "date": "2026-10-04",
- "generated_at": "2026-10-04T23:45:54.132374+00:00",
+ "generated_at": "2026-10-05T00:30:52.075173+00:00",
  "assets": [
   {
    "symbol": "BEAMX",
@@ -9,14 +9,6 @@
    "from_btc_pct": 14,
    "verdict": "Overbought",
    "file": "BEAMX.png"
-  },
-  {
-   "symbol": "GTC",
-   "name": "Gitcoin",
-   "sigma": 5.97,
-   "from_btc_pct": 7,
-   "verdict": "Overbought",
-   "file": "GTC.png"
   },
   {
    "symbol": "BAT",
@@ -81,6 +73,14 @@
    "from_btc_pct": 32,
    "verdict": "Strong Uptrend",
    "file": "FET.png"
+  },
+  {
+   "symbol": "GTC",
+   "name": "Gitcoin",
+   "sigma": 2.52,
+   "from_btc_pct": 9,
+   "verdict": "Overbought",
+   "file": "GTC.png"
   },
   {
    "symbol": "SCR",
