@@ -1,6 +1,6 @@
 {
  "date": "2026-10-05",
- "generated_at": "2026-10-05T18:15:51.639727+00:00",
+ "generated_at": "2026-10-05T18:46:31.575313+00:00",
  "assets": [
   {
    "symbol": "RLC",
@@ -49,6 +49,14 @@
    "from_btc_pct": 10,
    "verdict": "Neutral",
    "file": "RVN.png"
+  },
+  {
+   "symbol": "API3",
+   "name": "Api3",
+   "sigma": 3.43,
+   "from_btc_pct": 18,
+   "verdict": "Overbought",
+   "file": "API3.png"
   },
   {
    "symbol": "PARTI",
