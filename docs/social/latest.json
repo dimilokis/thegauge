@@ -1,6 +1,6 @@
 {
  "date": "2026-10-05",
- "generated_at": "2026-10-05T15:01:03.602484+00:00",
+ "generated_at": "2026-10-05T15:30:54.373076+00:00",
  "assets": [
   {
    "symbol": "RLC",
@@ -61,7 +61,7 @@
   {
    "symbol": "GTC",
    "name": "Gitcoin",
-   "sigma": 2.55,
+   "sigma": 2.56,
    "from_btc_pct": 8,
    "verdict": "Overbought",
    "file": "GTC.png"
