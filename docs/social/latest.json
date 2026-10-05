@@ -1,7 +1,15 @@
 {
  "date": "2026-10-05",
- "generated_at": "2026-10-05T04:15:51.828459+00:00",
+ "generated_at": "2026-10-05T08:45:51.749351+00:00",
  "assets": [
+  {
+   "symbol": "GTC",
+   "name": "Gitcoin",
+   "sigma": 2.99,
+   "from_btc_pct": 8,
+   "verdict": "Overbought",
+   "file": "GTC.png"
+  },
   {
    "symbol": "SCR",
    "name": "Scroll",
