@@ -1,6 +1,6 @@
 {
  "date": "2026-10-05",
- "generated_at": "2026-10-05T18:46:31.575313+00:00",
+ "generated_at": "2026-10-05T20:21:19.859379+00:00",
  "assets": [
   {
    "symbol": "RLC",
@@ -59,6 +59,14 @@
    "file": "API3.png"
   },
   {
+   "symbol": "ORCA",
+   "name": "Orca",
+   "sigma": 3.1,
+   "from_btc_pct": 13,
+   "verdict": "Overbought",
+   "file": "ORCA.png"
+  },
+  {
    "symbol": "PARTI",
    "name": "Particle Network",
    "sigma": 2.84,
@@ -83,17 +91,9 @@
    "file": "SCR.png"
   },
   {
-   "symbol": "GTC",
-   "name": "Gitcoin",
-   "sigma": 2.56,
-   "from_btc_pct": 8,
-   "verdict": "Overbought",
-   "file": "GTC.png"
-  },
-  {
    "symbol": "NIL",
    "name": "Nillion",
-   "sigma": 2.55,
+   "sigma": 2.68,
    "from_btc_pct": 0,
    "verdict": "Overbought",
    "file": "NIL.png"
