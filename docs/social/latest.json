@@ -1,6 +1,6 @@
 {
  "date": "2026-10-05",
- "generated_at": "2026-10-05T11:01:07.236410+00:00",
+ "generated_at": "2026-10-05T12:30:59.618612+00:00",
  "assets": [
   {
    "symbol": "RLC",
@@ -19,6 +19,14 @@
    "file": "SCR.png"
   },
   {
+   "symbol": "PARTI",
+   "name": "Particle Network",
+   "sigma": 2.84,
+   "from_btc_pct": 10,
+   "verdict": "Neutral",
+   "file": "PARTI.png"
+  },
+  {
    "symbol": "MOVR",
    "name": "Moonriver",
    "sigma": 2.82,
@@ -29,7 +37,7 @@
   {
    "symbol": "GTC",
    "name": "Gitcoin",
-   "sigma": 2.53,
+   "sigma": 2.66,
    "from_btc_pct": 8,
    "verdict": "Overbought",
    "file": "GTC.png"
