@@ -1,7 +1,15 @@
 {
  "date": "2026-10-05",
- "generated_at": "2026-10-05T09:46:15.993253+00:00",
+ "generated_at": "2026-10-05T10:01:05.390742+00:00",
  "assets": [
+  {
+   "symbol": "SCR",
+   "name": "Scroll",
+   "sigma": 3.75,
+   "from_btc_pct": 15,
+   "verdict": "Overbought",
+   "file": "SCR.png"
+  },
   {
    "symbol": "MOVR",
    "name": "Moonriver",
@@ -9,14 +17,6 @@
    "from_btc_pct": 1,
    "verdict": "Overbought",
    "file": "MOVR.png"
-  },
-  {
-   "symbol": "SCR",
-   "name": "Scroll",
-   "sigma": 2.66,
-   "from_btc_pct": 17,
-   "verdict": "Overbought",
-   "file": "SCR.png"
   },
   {
    "symbol": "GTC",
