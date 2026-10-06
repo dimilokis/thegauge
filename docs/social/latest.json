@@ -1,6 +1,6 @@
 {
  "date": "2026-10-06",
- "generated_at": "2026-10-06T09:31:02.217853+00:00",
+ "generated_at": "2026-10-06T10:01:01.250129+00:00",
  "assets": [
   {
    "symbol": "RAD",
@@ -29,7 +29,7 @@
   {
    "symbol": "UMA",
    "name": "UMA",
-   "sigma": 2.96,
+   "sigma": 3.08,
    "from_btc_pct": 23,
    "verdict": "Overbought",
    "file": "UMA.png"
