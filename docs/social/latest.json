@@ -1,6 +1,6 @@
 {
  "date": "2026-10-06",
- "generated_at": "2026-10-06T16:45:53.364168+00:00",
+ "generated_at": "2026-10-06T17:15:52.683652+00:00",
  "assets": [
   {
    "symbol": "NMR",
@@ -51,14 +51,6 @@
    "file": "C98.png"
   },
   {
-   "symbol": "ORCA",
-   "name": "Orca",
-   "sigma": 2.8,
-   "from_btc_pct": 7,
-   "verdict": "Overbought",
-   "file": "ORCA.png"
-  },
-  {
    "symbol": "VTHO",
    "name": "VeThor",
    "sigma": 2.75,
@@ -97,6 +89,14 @@
    "from_btc_pct": 20,
    "verdict": "Overbought",
    "file": "API3.png"
+  },
+  {
+   "symbol": "ORCA",
+   "name": "Orca",
+   "sigma": 2.54,
+   "from_btc_pct": 6,
+   "verdict": "Overbought",
+   "file": "ORCA.png"
   }
  ]
 }
