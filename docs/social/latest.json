@@ -1,6 +1,6 @@
 {
  "date": "2026-10-06",
- "generated_at": "2026-10-06T08:01:01.108556+00:00",
+ "generated_at": "2026-10-06T08:15:54.176766+00:00",
  "assets": [
   {
    "symbol": "BFUSD",
@@ -13,7 +13,7 @@
   {
    "symbol": "RAD",
    "name": "Radworks",
-   "sigma": 4.44,
+   "sigma": 3.74,
    "from_btc_pct": 0,
    "verdict": "Overbought",
    "file": "RAD.png"
