@@ -1,6 +1,6 @@
 {
  "date": "2026-10-06",
- "generated_at": "2026-10-06T06:00:57.007284+00:00",
+ "generated_at": "2026-10-06T06:46:04.945387+00:00",
  "assets": [
   {
    "symbol": "RAD",
@@ -17,6 +17,14 @@
    "from_btc_pct": 16,
    "verdict": "Overbought",
    "file": "API3.png"
+  },
+  {
+   "symbol": "VTHO",
+   "name": "VeThor",
+   "sigma": 2.75,
+   "from_btc_pct": 7,
+   "verdict": "Overbought",
+   "file": "VTHO.png"
   }
  ]
 }
