@@ -1,6 +1,6 @@
 {
  "date": "2026-10-06",
- "generated_at": "2026-10-06T18:17:14.014223+00:00",
+ "generated_at": "2026-10-06T18:31:47.363720+00:00",
  "assets": [
   {
    "symbol": "NMR",
@@ -9,6 +9,14 @@
    "from_btc_pct": 0,
    "verdict": "Overbought",
    "file": "NMR.png"
+  },
+  {
+   "symbol": "API3",
+   "name": "Api3",
+   "sigma": 5.71,
+   "from_btc_pct": 14,
+   "verdict": "Overbought",
+   "file": "API3.png"
   },
   {
    "symbol": "OGN",
@@ -81,14 +89,6 @@
    "from_btc_pct": 25,
    "verdict": "Overbought",
    "file": "UMA.png"
-  },
-  {
-   "symbol": "API3",
-   "name": "Api3",
-   "sigma": 2.6,
-   "from_btc_pct": 20,
-   "verdict": "Overbought",
-   "file": "API3.png"
   },
   {
    "symbol": "ORCA",
