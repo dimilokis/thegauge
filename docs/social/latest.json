@@ -1,6 +1,6 @@
 {
  "date": "2026-10-06",
- "generated_at": "2026-10-06T21:30:57.692609+00:00",
+ "generated_at": "2026-10-06T22:01:00.809917+00:00",
  "assets": [
   {
    "symbol": "NMR",
@@ -27,6 +27,14 @@
    "file": "BFUSD.png"
   },
   {
+   "symbol": "RESOLV",
+   "name": "Resolv",
+   "sigma": 3.78,
+   "from_btc_pct": 15,
+   "verdict": "Overbought",
+   "file": "RESOLV.png"
+  },
+  {
    "symbol": "RLC",
    "name": "iExec RLC",
    "sigma": 3.56,
@@ -35,12 +43,12 @@
    "file": "RLC.png"
   },
   {
-   "symbol": "TRB",
-   "name": "Tellor Tributes",
-   "sigma": 3.44,
-   "from_btc_pct": 18,
+   "symbol": "API3",
+   "name": "Api3",
+   "sigma": 3.53,
+   "from_btc_pct": 16,
    "verdict": "Overbought",
-   "file": "TRB.png"
+   "file": "API3.png"
   },
   {
    "symbol": "EDU",
@@ -59,20 +67,20 @@
    "file": "C98.png"
   },
   {
-   "symbol": "API3",
-   "name": "Api3",
-   "sigma": 2.81,
-   "from_btc_pct": 17,
-   "verdict": "Overbought",
-   "file": "API3.png"
-  },
-  {
    "symbol": "VTHO",
    "name": "VeThor",
    "sigma": 2.75,
    "from_btc_pct": 7,
    "verdict": "Overbought",
    "file": "VTHO.png"
+  },
+  {
+   "symbol": "TRB",
+   "name": "Tellor Tributes",
+   "sigma": 2.75,
+   "from_btc_pct": 20,
+   "verdict": "Overbought",
+   "file": "TRB.png"
   },
   {
    "symbol": "RAD",
@@ -89,14 +97,6 @@
    "from_btc_pct": 8,
    "verdict": "Overbought",
    "file": "PARTI.png"
-  },
-  {
-   "symbol": "UMA",
-   "name": "UMA",
-   "sigma": 2.6,
-   "from_btc_pct": 25,
-   "verdict": "Overbought",
-   "file": "UMA.png"
   }
  ]
 }
