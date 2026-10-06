@@ -1,7 +1,15 @@
 {
  "date": "2026-10-06",
- "generated_at": "2026-10-06T10:01:01.250129+00:00",
+ "generated_at": "2026-10-06T10:30:59.153009+00:00",
  "assets": [
+  {
+   "symbol": "OGN",
+   "name": "Origin Token",
+   "sigma": 5.23,
+   "from_btc_pct": 16,
+   "verdict": "Overbought",
+   "file": "OGN.png"
+  },
   {
    "symbol": "RAD",
    "name": "Radworks",
