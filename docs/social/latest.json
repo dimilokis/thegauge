@@ -1,6 +1,6 @@
 {
  "date": "2026-10-06",
- "generated_at": "2026-10-06T11:00:59.167844+00:00",
+ "generated_at": "2026-10-06T11:15:57.668300+00:00",
  "assets": [
   {
    "symbol": "OGN",
@@ -13,10 +13,18 @@
   {
    "symbol": "BFUSD",
    "name": "BFUSD",
-   "sigma": 3.54,
+   "sigma": 4.17,
    "from_btc_pct": 0,
    "verdict": "Oversold",
    "file": "BFUSD.png"
+  },
+  {
+   "symbol": "RLC",
+   "name": "iExec RLC",
+   "sigma": 3.56,
+   "from_btc_pct": 0,
+   "verdict": "Overbought",
+   "file": "RLC.png"
   },
   {
    "symbol": "API3",
@@ -25,14 +33,6 @@
    "from_btc_pct": 16,
    "verdict": "Overbought",
    "file": "API3.png"
-  },
-  {
-   "symbol": "UMA",
-   "name": "UMA",
-   "sigma": 3.08,
-   "from_btc_pct": 23,
-   "verdict": "Overbought",
-   "file": "UMA.png"
   },
   {
    "symbol": "VTHO",
@@ -49,6 +49,14 @@
    "from_btc_pct": 1,
    "verdict": "Overbought",
    "file": "RAD.png"
+  },
+  {
+   "symbol": "UMA",
+   "name": "UMA",
+   "sigma": 2.6,
+   "from_btc_pct": 25,
+   "verdict": "Overbought",
+   "file": "UMA.png"
   },
   {
    "symbol": "ORCA",
