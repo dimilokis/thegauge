@@ -1,6 +1,6 @@
 {
  "date": "2026-10-06",
- "generated_at": "2026-10-06T10:30:59.153009+00:00",
+ "generated_at": "2026-10-06T11:00:59.167844+00:00",
  "assets": [
   {
    "symbol": "OGN",
@@ -9,14 +9,6 @@
    "from_btc_pct": 16,
    "verdict": "Overbought",
    "file": "OGN.png"
-  },
-  {
-   "symbol": "RAD",
-   "name": "Radworks",
-   "sigma": 3.74,
-   "from_btc_pct": 0,
-   "verdict": "Overbought",
-   "file": "RAD.png"
   },
   {
    "symbol": "BFUSD",
@@ -49,6 +41,14 @@
    "from_btc_pct": 7,
    "verdict": "Overbought",
    "file": "VTHO.png"
+  },
+  {
+   "symbol": "RAD",
+   "name": "Radworks",
+   "sigma": 2.66,
+   "from_btc_pct": 1,
+   "verdict": "Overbought",
+   "file": "RAD.png"
   },
   {
    "symbol": "ORCA",
