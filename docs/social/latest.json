@@ -1,15 +1,7 @@
 {
  "date": "2026-10-06",
- "generated_at": "2026-10-06T08:15:54.176766+00:00",
+ "generated_at": "2026-10-06T09:15:56.269122+00:00",
  "assets": [
-  {
-   "symbol": "BFUSD",
-   "name": "BFUSD",
-   "sigma": 4.79,
-   "from_btc_pct": 0,
-   "verdict": "Oversold",
-   "file": "BFUSD.png"
-  },
   {
    "symbol": "RAD",
    "name": "Radworks",
@@ -19,12 +11,36 @@
    "file": "RAD.png"
   },
   {
+   "symbol": "BFUSD",
+   "name": "BFUSD",
+   "sigma": 3.54,
+   "from_btc_pct": 0,
+   "verdict": "Oversold",
+   "file": "BFUSD.png"
+  },
+  {
    "symbol": "API3",
    "name": "Api3",
    "sigma": 3.25,
    "from_btc_pct": 16,
    "verdict": "Overbought",
    "file": "API3.png"
+  },
+  {
+   "symbol": "UMA",
+   "name": "UMA",
+   "sigma": 2.96,
+   "from_btc_pct": 23,
+   "verdict": "Overbought",
+   "file": "UMA.png"
+  },
+  {
+   "symbol": "ORCA",
+   "name": "Orca",
+   "sigma": 2.92,
+   "from_btc_pct": 7,
+   "verdict": "Overbought",
+   "file": "ORCA.png"
   },
   {
    "symbol": "VTHO",
