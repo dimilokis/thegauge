@@ -391,6 +391,10 @@
   "icon": "https://coin-images.coingecko.com/coins/images/15585/large/convex.png?1696515221",
   "name": "Convex Finance"
  },
+ "CYBER": {
+  "icon": "https://coin-images.coingecko.com/coins/images/31274/large/token.png",
+  "name": "CYBER"
+ },
  "DASH": {
   "icon": "https://coin-images.coingecko.com/coins/images/19/large/dash-logo.png?1696501423",
   "name": "Dash"
