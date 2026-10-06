@@ -1,6 +1,6 @@
 {
  "date": "2026-10-06",
- "generated_at": "2026-10-06T12:45:53.408989+00:00",
+ "generated_at": "2026-10-06T13:15:59.285496+00:00",
  "assets": [
   {
    "symbol": "NMR",
@@ -49,6 +49,14 @@
    "from_btc_pct": 16,
    "verdict": "Overbought",
    "file": "API3.png"
+  },
+  {
+   "symbol": "C98",
+   "name": "Coin98",
+   "sigma": 3.15,
+   "from_btc_pct": 18,
+   "verdict": "Overbought",
+   "file": "C98.png"
   },
   {
    "symbol": "VTHO",
