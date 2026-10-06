@@ -1,6 +1,6 @@
 {
  "date": "2026-10-06",
- "generated_at": "2026-10-06T22:45:56.443189+00:00",
+ "generated_at": "2026-10-06T23:16:29.533735+00:00",
  "assets": [
   {
    "symbol": "NMR",
@@ -35,6 +35,14 @@
    "file": "BFUSD.png"
   },
   {
+   "symbol": "RESOLV",
+   "name": "Resolv",
+   "sigma": 3.71,
+   "from_btc_pct": 14,
+   "verdict": "Overbought",
+   "file": "RESOLV.png"
+  },
+  {
    "symbol": "RLC",
    "name": "iExec RLC",
    "sigma": 3.56,
@@ -49,14 +57,6 @@
    "from_btc_pct": 16,
    "verdict": "Overbought",
    "file": "API3.png"
-  },
-  {
-   "symbol": "RESOLV",
-   "name": "Resolv",
-   "sigma": 3.46,
-   "from_btc_pct": 15,
-   "verdict": "Overbought",
-   "file": "RESOLV.png"
   },
   {
    "symbol": "EDU",
