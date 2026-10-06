@@ -1,6 +1,6 @@
 {
  "date": "2026-10-06",
- "generated_at": "2026-10-06T22:01:00.809917+00:00",
+ "generated_at": "2026-10-06T22:15:53.885311+00:00",
  "assets": [
   {
    "symbol": "NMR",
@@ -9,6 +9,14 @@
    "from_btc_pct": 0,
    "verdict": "Overbought",
    "file": "NMR.png"
+  },
+  {
+   "symbol": "MAGIC",
+   "name": "Treasure",
+   "sigma": 6.32,
+   "from_btc_pct": 22,
+   "verdict": "Overbought",
+   "file": "MAGIC.png"
   },
   {
    "symbol": "OGN",
@@ -89,14 +97,6 @@
    "from_btc_pct": 1,
    "verdict": "Overbought",
    "file": "RAD.png"
-  },
-  {
-   "symbol": "PARTI",
-   "name": "Particle Network",
-   "sigma": 2.62,
-   "from_btc_pct": 8,
-   "verdict": "Overbought",
-   "file": "PARTI.png"
   }
  ]
 }
