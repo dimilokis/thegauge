@@ -1,6 +1,6 @@
 {
  "date": "2026-10-06",
- "generated_at": "2026-10-06T18:31:47.363720+00:00",
+ "generated_at": "2026-10-06T20:16:00.838716+00:00",
  "assets": [
   {
    "symbol": "NMR",
@@ -35,14 +35,6 @@
    "file": "BFUSD.png"
   },
   {
-   "symbol": "EDU",
-   "name": "Open Campus",
-   "sigma": 3.81,
-   "from_btc_pct": 8,
-   "verdict": "Overbought",
-   "file": "EDU.png"
-  },
-  {
    "symbol": "RLC",
    "name": "iExec RLC",
    "sigma": 3.56,
@@ -57,6 +49,14 @@
    "from_btc_pct": 18,
    "verdict": "Overbought",
    "file": "TRB.png"
+  },
+  {
+   "symbol": "EDU",
+   "name": "Open Campus",
+   "sigma": 3.19,
+   "from_btc_pct": 8,
+   "verdict": "Overbought",
+   "file": "EDU.png"
   },
   {
    "symbol": "C98",
