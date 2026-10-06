@@ -1,6 +1,6 @@
 {
  "date": "2026-10-06",
- "generated_at": "2026-10-06T22:15:53.885311+00:00",
+ "generated_at": "2026-10-06T22:45:56.443189+00:00",
  "assets": [
   {
    "symbol": "NMR",
@@ -35,14 +35,6 @@
    "file": "BFUSD.png"
   },
   {
-   "symbol": "RESOLV",
-   "name": "Resolv",
-   "sigma": 3.78,
-   "from_btc_pct": 15,
-   "verdict": "Overbought",
-   "file": "RESOLV.png"
-  },
-  {
    "symbol": "RLC",
    "name": "iExec RLC",
    "sigma": 3.56,
@@ -57,6 +49,14 @@
    "from_btc_pct": 16,
    "verdict": "Overbought",
    "file": "API3.png"
+  },
+  {
+   "symbol": "RESOLV",
+   "name": "Resolv",
+   "sigma": 3.46,
+   "from_btc_pct": 15,
+   "verdict": "Overbought",
+   "file": "RESOLV.png"
   },
   {
    "symbol": "EDU",
@@ -83,20 +83,20 @@
    "file": "VTHO.png"
   },
   {
-   "symbol": "TRB",
-   "name": "Tellor Tributes",
-   "sigma": 2.75,
-   "from_btc_pct": 20,
-   "verdict": "Overbought",
-   "file": "TRB.png"
-  },
-  {
    "symbol": "RAD",
    "name": "Radworks",
    "sigma": 2.66,
    "from_btc_pct": 1,
    "verdict": "Overbought",
    "file": "RAD.png"
+  },
+  {
+   "symbol": "TRB",
+   "name": "Tellor Tributes",
+   "sigma": 2.5,
+   "from_btc_pct": 20,
+   "verdict": "Overbought",
+   "file": "TRB.png"
   }
  ]
 }
