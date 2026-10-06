@@ -1,14 +1,22 @@
 {
  "date": "2026-10-06",
- "generated_at": "2026-10-06T05:30:59.822641+00:00",
+ "generated_at": "2026-10-06T06:00:57.007284+00:00",
  "assets": [
   {
    "symbol": "RAD",
    "name": "Radworks",
-   "sigma": 2.79,
+   "sigma": 4.44,
    "from_btc_pct": 0,
    "verdict": "Overbought",
    "file": "RAD.png"
+  },
+  {
+   "symbol": "API3",
+   "name": "Api3",
+   "sigma": 3.25,
+   "from_btc_pct": 16,
+   "verdict": "Overbought",
+   "file": "API3.png"
   }
  ]
 }
