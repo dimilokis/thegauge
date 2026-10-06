@@ -1,102 +1,14 @@
 {
- "date": "2026-10-05",
- "generated_at": "2026-10-05T23:00:57.059040+00:00",
+ "date": "2026-10-06",
+ "generated_at": "2026-10-06T05:30:59.822641+00:00",
  "assets": [
-  {
-   "symbol": "RLC",
-   "name": "iExec RLC",
-   "sigma": 11.75,
-   "from_btc_pct": 6,
-   "verdict": "Overbought",
-   "file": "RLC.png"
-  },
-  {
-   "symbol": "EDU",
-   "name": "Open Campus",
-   "sigma": 6.63,
-   "from_btc_pct": 7,
-   "verdict": "Overbought",
-   "file": "EDU.png"
-  },
   {
    "symbol": "RAD",
    "name": "Radworks",
-   "sigma": 6.19,
-   "from_btc_pct": 1,
+   "sigma": 2.79,
+   "from_btc_pct": 0,
    "verdict": "Overbought",
    "file": "RAD.png"
-  },
-  {
-   "symbol": "OGN",
-   "name": "Origin Token",
-   "sigma": 4.88,
-   "from_btc_pct": 12,
-   "verdict": "Overbought",
-   "file": "OGN.png"
-  },
-  {
-   "symbol": "RVN",
-   "name": "Ravencoin",
-   "sigma": 3.46,
-   "from_btc_pct": 10,
-   "verdict": "Neutral",
-   "file": "RVN.png"
-  },
-  {
-   "symbol": "ORCA",
-   "name": "Orca",
-   "sigma": 3.1,
-   "from_btc_pct": 13,
-   "verdict": "Overbought",
-   "file": "ORCA.png"
-  },
-  {
-   "symbol": "API3",
-   "name": "Api3",
-   "sigma": 2.93,
-   "from_btc_pct": 20,
-   "verdict": "Overbought",
-   "file": "API3.png"
-  },
-  {
-   "symbol": "MOVR",
-   "name": "Moonriver",
-   "sigma": 2.82,
-   "from_btc_pct": 1,
-   "verdict": "Overbought",
-   "file": "MOVR.png"
-  },
-  {
-   "symbol": "UMA",
-   "name": "UMA",
-   "sigma": 2.82,
-   "from_btc_pct": 27,
-   "verdict": "Overbought",
-   "file": "UMA.png"
-  },
-  {
-   "symbol": "FIL",
-   "name": "Filecoin",
-   "sigma": 2.71,
-   "from_btc_pct": 14,
-   "verdict": "Strong Uptrend",
-   "file": "FIL.png"
-  },
-  {
-   "symbol": "SCR",
-   "name": "Scroll",
-   "sigma": 2.68,
-   "from_btc_pct": 17,
-   "verdict": "Overbought",
-   "file": "SCR.png"
-  },
-  {
-   "symbol": "PARTI",
-   "name": "Particle Network",
-   "sigma": 2.59,
-   "from_btc_pct": 9,
-   "verdict": "Neutral",
-   "file": "PARTI.png"
   }
  ]
 }
