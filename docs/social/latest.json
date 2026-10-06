@@ -1,6 +1,6 @@
 {
  "date": "2026-10-06",
- "generated_at": "2026-10-06T17:15:52.683652+00:00",
+ "generated_at": "2026-10-06T17:45:49.289640+00:00",
  "assets": [
   {
    "symbol": "NMR",
@@ -27,6 +27,14 @@
    "file": "BFUSD.png"
   },
   {
+   "symbol": "EDU",
+   "name": "Open Campus",
+   "sigma": 3.81,
+   "from_btc_pct": 8,
+   "verdict": "Overbought",
+   "file": "EDU.png"
+  },
+  {
    "symbol": "RLC",
    "name": "iExec RLC",
    "sigma": 3.56,
@@ -35,12 +43,12 @@
    "file": "RLC.png"
   },
   {
-   "symbol": "EDU",
-   "name": "Open Campus",
-   "sigma": 3.46,
-   "from_btc_pct": 8,
+   "symbol": "TRB",
+   "name": "Tellor Tributes",
+   "sigma": 3.44,
+   "from_btc_pct": 18,
    "verdict": "Overbought",
-   "file": "EDU.png"
+   "file": "TRB.png"
   },
   {
    "symbol": "C98",
@@ -65,14 +73,6 @@
    "from_btc_pct": 1,
    "verdict": "Overbought",
    "file": "RAD.png"
-  },
-  {
-   "symbol": "TRB",
-   "name": "Tellor Tributes",
-   "sigma": 2.65,
-   "from_btc_pct": 24,
-   "verdict": "Overbought",
-   "file": "TRB.png"
   },
   {
    "symbol": "UMA",
