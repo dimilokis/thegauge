@@ -1,6 +1,6 @@
 {
  "date": "2026-10-06",
- "generated_at": "2026-10-06T21:15:54.229669+00:00",
+ "generated_at": "2026-10-06T21:30:57.692609+00:00",
  "assets": [
   {
    "symbol": "NMR",
@@ -83,20 +83,20 @@
    "file": "RAD.png"
   },
   {
+   "symbol": "PARTI",
+   "name": "Particle Network",
+   "sigma": 2.62,
+   "from_btc_pct": 8,
+   "verdict": "Overbought",
+   "file": "PARTI.png"
+  },
+  {
    "symbol": "UMA",
    "name": "UMA",
    "sigma": 2.6,
    "from_btc_pct": 25,
    "verdict": "Overbought",
    "file": "UMA.png"
-  },
-  {
-   "symbol": "ORCA",
-   "name": "Orca",
-   "sigma": 2.54,
-   "from_btc_pct": 6,
-   "verdict": "Overbought",
-   "file": "ORCA.png"
   }
  ]
 }
