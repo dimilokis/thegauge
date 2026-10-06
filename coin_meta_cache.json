@@ -535,6 +535,10 @@
   "icon": "https://coin-images.coingecko.com/coins/images/13446/large/5f6294c0c7a8cda55cb1c936_Flow_Wordmark.png?1696513210",
   "name": "Flow"
  },
+ "FLUX": {
+  "icon": "https://coin-images.coingecko.com/coins/images/5163/large/Flux_symbol_blue-white.png",
+  "name": "Flux"
+ },
  "FOGO": {
   "icon": "https://coin-images.coingecko.com/coins/images/68100/large/fogo_AppIcon.png?1767721208",
   "name": "Fogo"
