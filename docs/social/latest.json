@@ -1,6 +1,6 @@
 {
  "date": "2026-10-06",
- "generated_at": "2026-10-06T23:16:29.533735+00:00",
+ "generated_at": "2026-10-06T23:30:50.208696+00:00",
  "assets": [
   {
    "symbol": "NMR",
@@ -91,12 +91,12 @@
    "file": "RAD.png"
   },
   {
-   "symbol": "TRB",
-   "name": "Tellor Tributes",
-   "sigma": 2.5,
-   "from_btc_pct": 20,
+   "symbol": "PARTI",
+   "name": "Particle Network",
+   "sigma": 2.62,
+   "from_btc_pct": 7,
    "verdict": "Overbought",
-   "file": "TRB.png"
+   "file": "PARTI.png"
   }
  ]
 }
