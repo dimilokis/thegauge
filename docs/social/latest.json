@@ -1,6 +1,6 @@
 {
  "date": "2026-10-07",
- "generated_at": "2026-10-07T13:45:54.597079+00:00",
+ "generated_at": "2026-10-07T14:15:52.888843+00:00",
  "assets": [
   {
    "symbol": "GLMR",
@@ -67,6 +67,14 @@
    "file": "GTC.png"
   },
   {
+   "symbol": "GRAM",
+   "name": "Gram (prev. Toncoin)",
+   "sigma": 2.61,
+   "from_btc_pct": 26,
+   "verdict": "Neutral",
+   "file": "GRAM.png"
+  },
+  {
    "symbol": "ORCA",
    "name": "Orca",
    "sigma": 2.59,
@@ -89,14 +97,6 @@
    "from_btc_pct": 31,
    "verdict": "Neutral",
    "file": "MIRA.png"
-  },
-  {
-   "symbol": "TRB",
-   "name": "Tellor Tributes",
-   "sigma": 2.54,
-   "from_btc_pct": 22,
-   "verdict": "Neutral",
-   "file": "TRB.png"
   }
  ]
 }
