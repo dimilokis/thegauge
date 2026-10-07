@@ -1,6 +1,6 @@
 {
  "date": "2026-10-07",
- "generated_at": "2026-10-07T17:31:00.108961+00:00",
+ "generated_at": "2026-10-07T17:45:53.190504+00:00",
  "assets": [
   {
    "symbol": "SAND",
@@ -83,20 +83,20 @@
    "file": "GTC.png"
   },
   {
-   "symbol": "GRAM",
-   "name": "Gram (prev. Toncoin)",
-   "sigma": 2.61,
-   "from_btc_pct": 26,
-   "verdict": "Neutral",
-   "file": "GRAM.png"
-  },
-  {
    "symbol": "UMA",
    "name": "UMA",
    "sigma": 2.58,
    "from_btc_pct": 30,
    "verdict": "Neutral",
    "file": "UMA.png"
+  },
+  {
+   "symbol": "GRAM",
+   "name": "Gram (prev. Toncoin)",
+   "sigma": 2.57,
+   "from_btc_pct": 26,
+   "verdict": "Neutral",
+   "file": "GRAM.png"
   }
  ]
 }
