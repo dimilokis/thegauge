@@ -1,6 +1,6 @@
 {
  "date": "2026-10-07",
- "generated_at": "2026-10-07T13:15:54.807305+00:00",
+ "generated_at": "2026-10-07T13:30:57.574337+00:00",
  "assets": [
   {
    "symbol": "GLMR",
@@ -9,6 +9,14 @@
    "from_btc_pct": 0,
    "verdict": "Overbought",
    "file": "GLMR.png"
+  },
+  {
+   "symbol": "BFUSD",
+   "name": "BFUSD",
+   "sigma": 3.54,
+   "from_btc_pct": 4,
+   "verdict": "Oversold",
+   "file": "BFUSD.png"
   },
   {
    "symbol": "LAZIO",
@@ -25,14 +33,6 @@
    "from_btc_pct": 21,
    "verdict": "Overbought",
    "file": "MAGIC.png"
-  },
-  {
-   "symbol": "BFUSD",
-   "name": "BFUSD",
-   "sigma": 2.91,
-   "from_btc_pct": 3,
-   "verdict": "Neutral",
-   "file": "BFUSD.png"
   },
   {
    "symbol": "API3",
@@ -73,6 +73,14 @@
    "from_btc_pct": 7,
    "verdict": "Overbought",
    "file": "ORCA.png"
+  },
+  {
+   "symbol": "UMA",
+   "name": "UMA",
+   "sigma": 2.58,
+   "from_btc_pct": 30,
+   "verdict": "Neutral",
+   "file": "UMA.png"
   },
   {
    "symbol": "MIRA",
