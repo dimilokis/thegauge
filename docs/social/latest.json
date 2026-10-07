@@ -1,6 +1,6 @@
 {
  "date": "2026-10-07",
- "generated_at": "2026-10-07T21:30:56.950458+00:00",
+ "generated_at": "2026-10-07T22:01:02.779298+00:00",
  "assets": [
   {
    "symbol": "GLMR",
@@ -35,14 +35,6 @@
    "file": "BFUSD.png"
   },
   {
-   "symbol": "LAZIO",
-   "name": "Lazio Fan Token",
-   "sigma": 2.87,
-   "from_btc_pct": 13,
-   "verdict": "Overbought",
-   "file": "LAZIO.png"
-  },
-  {
    "symbol": "API3",
    "name": "Api3",
    "sigma": 2.84,
@@ -67,12 +59,28 @@
    "file": "SKY.png"
   },
   {
+   "symbol": "LAZIO",
+   "name": "Lazio Fan Token",
+   "sigma": 2.75,
+   "from_btc_pct": 12,
+   "verdict": "Overbought",
+   "file": "LAZIO.png"
+  },
+  {
    "symbol": "OGN",
    "name": "Origin Token",
    "sigma": 2.71,
    "from_btc_pct": 12,
    "verdict": "Overbought",
    "file": "OGN.png"
+  },
+  {
+   "symbol": "MINA",
+   "name": "Mina Protocol",
+   "sigma": 2.7,
+   "from_btc_pct": 9,
+   "verdict": "Neutral",
+   "file": "MINA.png"
   },
   {
    "symbol": "GTC",
@@ -89,14 +97,6 @@
    "from_btc_pct": 30,
    "verdict": "Neutral",
    "file": "UMA.png"
-  },
-  {
-   "symbol": "GRAM",
-   "name": "Gram (prev. Toncoin)",
-   "sigma": 2.57,
-   "from_btc_pct": 26,
-   "verdict": "Neutral",
-   "file": "GRAM.png"
   }
  ]
 }
