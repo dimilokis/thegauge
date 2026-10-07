@@ -1,6 +1,6 @@
 {
  "date": "2026-10-07",
- "generated_at": "2026-10-07T09:45:51.592724+00:00",
+ "generated_at": "2026-10-07T10:01:03.101497+00:00",
  "assets": [
   {
    "symbol": "LAZIO",
@@ -25,6 +25,14 @@
    "from_btc_pct": 0,
    "verdict": "Overbought",
    "file": "GLMR.png"
+  },
+  {
+   "symbol": "MAGIC",
+   "name": "Treasure",
+   "sigma": 2.92,
+   "from_btc_pct": 21,
+   "verdict": "Overbought",
+   "file": "MAGIC.png"
   },
   {
    "symbol": "GTC",
