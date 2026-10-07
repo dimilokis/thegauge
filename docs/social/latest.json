@@ -1,6 +1,6 @@
 {
  "date": "2026-10-07",
- "generated_at": "2026-10-07T12:01:03.162419+00:00",
+ "generated_at": "2026-10-07T12:15:49.522332+00:00",
  "assets": [
   {
    "symbol": "BFUSD",
@@ -49,6 +49,14 @@
    "from_btc_pct": 6,
    "verdict": "Overbought",
    "file": "GTC.png"
+  },
+  {
+   "symbol": "ORCA",
+   "name": "Orca",
+   "sigma": 2.62,
+   "from_btc_pct": 7,
+   "verdict": "Overbought",
+   "file": "ORCA.png"
   },
   {
    "symbol": "MIRA",
