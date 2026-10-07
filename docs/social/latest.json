@@ -1,6 +1,6 @@
 {
  "date": "2026-10-07",
- "generated_at": "2026-10-07T18:01:03.849443+00:00",
+ "generated_at": "2026-10-07T18:45:51.558603+00:00",
  "assets": [
   {
    "symbol": "SAND",
@@ -19,20 +19,20 @@
    "file": "GLMR.png"
   },
   {
-   "symbol": "LAZIO",
-   "name": "Lazio Fan Token",
-   "sigma": 3.11,
-   "from_btc_pct": 11,
-   "verdict": "Overbought",
-   "file": "LAZIO.png"
-  },
-  {
    "symbol": "MET",
    "name": "Meteora",
    "sigma": 3.03,
    "from_btc_pct": 9,
    "verdict": "Overbought",
    "file": "MET.png"
+  },
+  {
+   "symbol": "LAZIO",
+   "name": "Lazio Fan Token",
+   "sigma": 2.99,
+   "from_btc_pct": 12,
+   "verdict": "Overbought",
+   "file": "LAZIO.png"
   },
   {
    "symbol": "MAGIC",
@@ -59,20 +59,20 @@
    "file": "API3.png"
   },
   {
+   "symbol": "RESOLV",
+   "name": "Resolv",
+   "sigma": 2.81,
+   "from_btc_pct": 18,
+   "verdict": "Neutral",
+   "file": "RESOLV.png"
+  },
+  {
    "symbol": "SKY",
    "name": "Sky",
    "sigma": 2.77,
    "from_btc_pct": 30,
    "verdict": "Neutral",
    "file": "SKY.png"
-  },
-  {
-   "symbol": "RESOLV",
-   "name": "Resolv",
-   "sigma": 2.67,
-   "from_btc_pct": 17,
-   "verdict": "Neutral",
-   "file": "RESOLV.png"
   },
   {
    "symbol": "GTC",
