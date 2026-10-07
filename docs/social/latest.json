@@ -1,6 +1,6 @@
 {
  "date": "2026-10-07",
- "generated_at": "2026-10-07T10:30:57.174618+00:00",
+ "generated_at": "2026-10-07T10:45:49.214086+00:00",
  "assets": [
   {
    "symbol": "BFUSD",
@@ -33,6 +33,14 @@
    "from_btc_pct": 21,
    "verdict": "Overbought",
    "file": "MAGIC.png"
+  },
+  {
+   "symbol": "API3",
+   "name": "Api3",
+   "sigma": 2.84,
+   "from_btc_pct": 20,
+   "verdict": "Overbought",
+   "file": "API3.png"
   },
   {
    "symbol": "GTC",
