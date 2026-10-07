@@ -1,6 +1,6 @@
 {
  "date": "2026-10-07",
- "generated_at": "2026-10-07T22:15:54.014952+00:00",
+ "generated_at": "2026-10-07T22:45:51.942289+00:00",
  "assets": [
   {
    "symbol": "GLMR",
@@ -85,7 +85,7 @@
   {
    "symbol": "GTC",
    "name": "Gitcoin",
-   "sigma": 2.65,
+   "sigma": 2.7,
    "from_btc_pct": 5,
    "verdict": "Overbought",
    "file": "GTC.png"
