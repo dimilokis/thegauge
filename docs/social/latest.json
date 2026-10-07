@@ -1,102 +1,14 @@
 {
- "date": "2026-10-06",
- "generated_at": "2026-10-06T23:30:50.208696+00:00",
+ "date": "2026-10-07",
+ "generated_at": "2026-10-07T06:15:54.627468+00:00",
  "assets": [
   {
-   "symbol": "NMR",
-   "name": "Numeraire",
-   "sigma": 8.25,
-   "from_btc_pct": 0,
-   "verdict": "Overbought",
-   "file": "NMR.png"
-  },
-  {
-   "symbol": "MAGIC",
-   "name": "Treasure",
-   "sigma": 6.32,
-   "from_btc_pct": 22,
-   "verdict": "Overbought",
-   "file": "MAGIC.png"
-  },
-  {
-   "symbol": "OGN",
-   "name": "Origin Token",
-   "sigma": 5.23,
-   "from_btc_pct": 16,
-   "verdict": "Overbought",
-   "file": "OGN.png"
-  },
-  {
-   "symbol": "BFUSD",
-   "name": "BFUSD",
-   "sigma": 4.17,
-   "from_btc_pct": 0,
-   "verdict": "Oversold",
-   "file": "BFUSD.png"
-  },
-  {
-   "symbol": "RESOLV",
-   "name": "Resolv",
-   "sigma": 3.71,
-   "from_btc_pct": 14,
-   "verdict": "Overbought",
-   "file": "RESOLV.png"
-  },
-  {
-   "symbol": "RLC",
-   "name": "iExec RLC",
-   "sigma": 3.56,
-   "from_btc_pct": 0,
-   "verdict": "Overbought",
-   "file": "RLC.png"
-  },
-  {
-   "symbol": "API3",
-   "name": "Api3",
-   "sigma": 3.53,
-   "from_btc_pct": 16,
-   "verdict": "Overbought",
-   "file": "API3.png"
-  },
-  {
-   "symbol": "EDU",
-   "name": "Open Campus",
-   "sigma": 3.19,
-   "from_btc_pct": 8,
-   "verdict": "Overbought",
-   "file": "EDU.png"
-  },
-  {
-   "symbol": "C98",
-   "name": "Coin98",
-   "sigma": 3.15,
-   "from_btc_pct": 18,
-   "verdict": "Overbought",
-   "file": "C98.png"
-  },
-  {
-   "symbol": "VTHO",
-   "name": "VeThor",
-   "sigma": 2.75,
-   "from_btc_pct": 7,
-   "verdict": "Overbought",
-   "file": "VTHO.png"
-  },
-  {
-   "symbol": "RAD",
-   "name": "Radworks",
-   "sigma": 2.66,
-   "from_btc_pct": 1,
-   "verdict": "Overbought",
-   "file": "RAD.png"
-  },
-  {
-   "symbol": "PARTI",
-   "name": "Particle Network",
+   "symbol": "GTC",
+   "name": "Gitcoin",
    "sigma": 2.62,
-   "from_btc_pct": 7,
+   "from_btc_pct": 6,
    "verdict": "Overbought",
-   "file": "PARTI.png"
+   "file": "GTC.png"
   }
  ]
 }
