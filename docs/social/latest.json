@@ -1,6 +1,6 @@
 {
  "date": "2026-10-07",
- "generated_at": "2026-10-07T15:01:02.690792+00:00",
+ "generated_at": "2026-10-07T15:30:57.414273+00:00",
  "assets": [
   {
    "symbol": "GLMR",
@@ -75,14 +75,6 @@
    "file": "GRAM.png"
   },
   {
-   "symbol": "ORCA",
-   "name": "Orca",
-   "sigma": 2.59,
-   "from_btc_pct": 7,
-   "verdict": "Overbought",
-   "file": "ORCA.png"
-  },
-  {
    "symbol": "UMA",
    "name": "UMA",
    "sigma": 2.58,
@@ -97,6 +89,14 @@
    "from_btc_pct": 31,
    "verdict": "Neutral",
    "file": "MIRA.png"
+  },
+  {
+   "symbol": "ORCA",
+   "name": "Orca",
+   "sigma": 2.51,
+   "from_btc_pct": 8,
+   "verdict": "Overbought",
+   "file": "ORCA.png"
   }
  ]
 }
