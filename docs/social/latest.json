@@ -1,15 +1,7 @@
 {
  "date": "2026-10-07",
- "generated_at": "2026-10-07T10:01:03.101497+00:00",
+ "generated_at": "2026-10-07T10:30:57.174618+00:00",
  "assets": [
-  {
-   "symbol": "LAZIO",
-   "name": "Lazio Fan Token",
-   "sigma": 6.46,
-   "from_btc_pct": 4,
-   "verdict": "Overbought",
-   "file": "LAZIO.png"
-  },
   {
    "symbol": "BFUSD",
    "name": "BFUSD",
@@ -17,6 +9,14 @@
    "from_btc_pct": 3,
    "verdict": "Oversold",
    "file": "BFUSD.png"
+  },
+  {
+   "symbol": "LAZIO",
+   "name": "Lazio Fan Token",
+   "sigma": 3.83,
+   "from_btc_pct": 11,
+   "verdict": "Overbought",
+   "file": "LAZIO.png"
   },
   {
    "symbol": "GLMR",
@@ -45,7 +45,7 @@
   {
    "symbol": "TRB",
    "name": "Tellor Tributes",
-   "sigma": 2.56,
+   "sigma": 2.54,
    "from_btc_pct": 22,
    "verdict": "Neutral",
    "file": "TRB.png"
