@@ -1,7 +1,15 @@
 {
  "date": "2026-10-07",
- "generated_at": "2026-10-07T09:00:51.332377+00:00",
+ "generated_at": "2026-10-07T09:30:57.120470+00:00",
  "assets": [
+  {
+   "symbol": "LAZIO",
+   "name": "Lazio Fan Token",
+   "sigma": 6.46,
+   "from_btc_pct": 4,
+   "verdict": "Overbought",
+   "file": "LAZIO.png"
+  },
   {
    "symbol": "BFUSD",
    "name": "BFUSD",
