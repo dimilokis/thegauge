@@ -1,6 +1,6 @@
 {
  "date": "2026-10-07",
- "generated_at": "2026-10-07T19:57:20.903528+00:00",
+ "generated_at": "2026-10-07T20:15:56.325888+00:00",
  "assets": [
   {
    "symbol": "GLMR",
@@ -67,6 +67,14 @@
    "file": "SKY.png"
   },
   {
+   "symbol": "OGN",
+   "name": "Origin Token",
+   "sigma": 2.71,
+   "from_btc_pct": 12,
+   "verdict": "Overbought",
+   "file": "OGN.png"
+  },
+  {
    "symbol": "GTC",
    "name": "Gitcoin",
    "sigma": 2.65,
@@ -89,14 +97,6 @@
    "from_btc_pct": 26,
    "verdict": "Neutral",
    "file": "GRAM.png"
-  },
-  {
-   "symbol": "SAND",
-   "name": "The Sandbox",
-   "sigma": 2.57,
-   "from_btc_pct": 1,
-   "verdict": "Overbought",
-   "file": "SAND.png"
   }
  ]
 }
