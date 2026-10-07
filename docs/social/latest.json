@@ -1,15 +1,7 @@
 {
  "date": "2026-10-07",
- "generated_at": "2026-10-07T12:30:53.307334+00:00",
+ "generated_at": "2026-10-07T13:01:05.355383+00:00",
  "assets": [
-  {
-   "symbol": "BFUSD",
-   "name": "BFUSD",
-   "sigma": 4.79,
-   "from_btc_pct": 3,
-   "verdict": "Oversold",
-   "file": "BFUSD.png"
-  },
   {
    "symbol": "GLMR",
    "name": "Moonbeam",
@@ -33,6 +25,14 @@
    "from_btc_pct": 21,
    "verdict": "Overbought",
    "file": "MAGIC.png"
+  },
+  {
+   "symbol": "BFUSD",
+   "name": "BFUSD",
+   "sigma": 2.91,
+   "from_btc_pct": 3,
+   "verdict": "Neutral",
+   "file": "BFUSD.png"
   },
   {
    "symbol": "API3",
@@ -61,7 +61,7 @@
   {
    "symbol": "ORCA",
    "name": "Orca",
-   "sigma": 2.62,
+   "sigma": 2.59,
    "from_btc_pct": 7,
    "verdict": "Overbought",
    "file": "ORCA.png"
