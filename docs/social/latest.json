@@ -1,6 +1,6 @@
 {
  "date": "2026-10-07",
- "generated_at": "2026-10-07T17:45:53.190504+00:00",
+ "generated_at": "2026-10-07T18:01:03.849443+00:00",
  "assets": [
   {
    "symbol": "SAND",
@@ -21,8 +21,8 @@
   {
    "symbol": "LAZIO",
    "name": "Lazio Fan Token",
-   "sigma": 3.35,
-   "from_btc_pct": 12,
+   "sigma": 3.11,
+   "from_btc_pct": 11,
    "verdict": "Overbought",
    "file": "LAZIO.png"
   },
