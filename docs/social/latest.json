@@ -1,6 +1,6 @@
 {
  "date": "2026-10-07",
- "generated_at": "2026-10-07T11:00:54.007130+00:00",
+ "generated_at": "2026-10-07T11:31:01.291275+00:00",
  "assets": [
   {
    "symbol": "BFUSD",
@@ -57,6 +57,14 @@
    "from_btc_pct": 22,
    "verdict": "Neutral",
    "file": "TRB.png"
+  },
+  {
+   "symbol": "MIRA",
+   "name": "Mira",
+   "sigma": 2.52,
+   "from_btc_pct": 30,
+   "verdict": "Neutral",
+   "file": "MIRA.png"
   }
  ]
 }
