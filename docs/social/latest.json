@@ -1,15 +1,7 @@
 {
  "date": "2026-10-07",
- "generated_at": "2026-10-07T18:45:51.558603+00:00",
+ "generated_at": "2026-10-07T19:57:20.903528+00:00",
  "assets": [
-  {
-   "symbol": "SAND",
-   "name": "The Sandbox",
-   "sigma": 4.59,
-   "from_btc_pct": 0,
-   "verdict": "Overbought",
-   "file": "SAND.png"
-  },
   {
    "symbol": "GLMR",
    "name": "Moonbeam",
@@ -97,6 +89,14 @@
    "from_btc_pct": 26,
    "verdict": "Neutral",
    "file": "GRAM.png"
+  },
+  {
+   "symbol": "SAND",
+   "name": "The Sandbox",
+   "sigma": 2.57,
+   "from_btc_pct": 1,
+   "verdict": "Overbought",
+   "file": "SAND.png"
   }
  ]
 }
