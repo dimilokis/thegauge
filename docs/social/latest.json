@@ -1,6 +1,6 @@
 {
  "date": "2026-10-07",
- "generated_at": "2026-10-07T12:15:49.522332+00:00",
+ "generated_at": "2026-10-07T12:30:53.307334+00:00",
  "assets": [
   {
    "symbol": "BFUSD",
@@ -43,10 +43,18 @@
    "file": "API3.png"
   },
   {
+   "symbol": "RESOLV",
+   "name": "Resolv",
+   "sigma": 2.67,
+   "from_btc_pct": 17,
+   "verdict": "Neutral",
+   "file": "RESOLV.png"
+  },
+  {
    "symbol": "GTC",
    "name": "Gitcoin",
-   "sigma": 2.62,
-   "from_btc_pct": 6,
+   "sigma": 2.65,
+   "from_btc_pct": 5,
    "verdict": "Overbought",
    "file": "GTC.png"
   },
@@ -61,8 +69,8 @@
   {
    "symbol": "MIRA",
    "name": "Mira",
-   "sigma": 2.56,
-   "from_btc_pct": 30,
+   "sigma": 2.57,
+   "from_btc_pct": 31,
    "verdict": "Neutral",
    "file": "MIRA.png"
   },
