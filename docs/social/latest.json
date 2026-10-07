@@ -1,6 +1,6 @@
 {
  "date": "2026-10-07",
- "generated_at": "2026-10-07T10:45:49.214086+00:00",
+ "generated_at": "2026-10-07T11:00:54.007130+00:00",
  "assets": [
   {
    "symbol": "BFUSD",
@@ -11,20 +11,20 @@
    "file": "BFUSD.png"
   },
   {
-   "symbol": "LAZIO",
-   "name": "Lazio Fan Token",
-   "sigma": 3.83,
-   "from_btc_pct": 11,
-   "verdict": "Overbought",
-   "file": "LAZIO.png"
-  },
-  {
    "symbol": "GLMR",
    "name": "Moonbeam",
    "sigma": 3.77,
    "from_btc_pct": 0,
    "verdict": "Overbought",
    "file": "GLMR.png"
+  },
+  {
+   "symbol": "LAZIO",
+   "name": "Lazio Fan Token",
+   "sigma": 3.35,
+   "from_btc_pct": 12,
+   "verdict": "Overbought",
+   "file": "LAZIO.png"
   },
   {
    "symbol": "MAGIC",
