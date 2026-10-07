@@ -1,6 +1,6 @@
 {
  "date": "2026-10-07",
- "generated_at": "2026-10-07T09:30:57.120470+00:00",
+ "generated_at": "2026-10-07T09:45:51.592724+00:00",
  "assets": [
   {
    "symbol": "LAZIO",
@@ -17,6 +17,14 @@
    "from_btc_pct": 3,
    "verdict": "Oversold",
    "file": "BFUSD.png"
+  },
+  {
+   "symbol": "GLMR",
+   "name": "Moonbeam",
+   "sigma": 3.77,
+   "from_btc_pct": 0,
+   "verdict": "Overbought",
+   "file": "GLMR.png"
   },
   {
    "symbol": "GTC",
