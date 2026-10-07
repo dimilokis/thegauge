@@ -1,7 +1,15 @@
 {
  "date": "2026-10-07",
- "generated_at": "2026-10-07T06:15:54.627468+00:00",
+ "generated_at": "2026-10-07T07:00:53.285886+00:00",
  "assets": [
+  {
+   "symbol": "BFUSD",
+   "name": "BFUSD",
+   "sigma": 4.17,
+   "from_btc_pct": 2,
+   "verdict": "Oversold",
+   "file": "BFUSD.png"
+  },
   {
    "symbol": "GTC",
    "name": "Gitcoin",
