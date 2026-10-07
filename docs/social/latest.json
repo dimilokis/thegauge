@@ -1,6 +1,6 @@
 {
  "date": "2026-10-07",
- "generated_at": "2026-10-07T17:15:50.881115+00:00",
+ "generated_at": "2026-10-07T17:31:00.108961+00:00",
  "assets": [
   {
    "symbol": "SAND",
@@ -25,6 +25,14 @@
    "from_btc_pct": 12,
    "verdict": "Overbought",
    "file": "LAZIO.png"
+  },
+  {
+   "symbol": "MET",
+   "name": "Meteora",
+   "sigma": 3.03,
+   "from_btc_pct": 9,
+   "verdict": "Overbought",
+   "file": "MET.png"
   },
   {
    "symbol": "MAGIC",
@@ -89,14 +97,6 @@
    "from_btc_pct": 30,
    "verdict": "Neutral",
    "file": "UMA.png"
-  },
-  {
-   "symbol": "MIRA",
-   "name": "Mira",
-   "sigma": 2.57,
-   "from_btc_pct": 31,
-   "verdict": "Neutral",
-   "file": "MIRA.png"
   }
  ]
 }
