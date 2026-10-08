@@ -1,7 +1,15 @@
 {
  "date": "2026-10-08",
- "generated_at": "2026-10-08T07:45:54.414857+00:00",
+ "generated_at": "2026-10-08T08:30:56.289997+00:00",
  "assets": [
+  {
+   "symbol": "OGN",
+   "name": "Origin Token",
+   "sigma": 4.5,
+   "from_btc_pct": 12,
+   "verdict": "Overbought",
+   "file": "OGN.png"
+  },
   {
    "symbol": "\u5e01\u5b89\u4eba\u751f",
    "name": "\u5e01\u5b89\u4eba\u751f (BinanceLife)",
