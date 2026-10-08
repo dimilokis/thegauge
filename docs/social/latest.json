@@ -1,6 +1,6 @@
 {
  "date": "2026-10-08",
- "generated_at": "2026-10-08T22:30:50.843504+00:00",
+ "generated_at": "2026-10-08T23:15:51.163029+00:00",
  "assets": [
   {
    "symbol": "OGN",
@@ -9,14 +9,6 @@
    "from_btc_pct": 12,
    "verdict": "Overbought",
    "file": "OGN.png"
-  },
-  {
-   "symbol": "AEVO",
-   "name": "Aevo",
-   "sigma": 4.31,
-   "from_btc_pct": 23,
-   "verdict": "Overbought",
-   "file": "AEVO.png"
   },
   {
    "symbol": "\u5e01\u5b89\u4eba\u751f",
@@ -43,20 +35,20 @@
    "file": "MANA.png"
   },
   {
-   "symbol": "AMP",
-   "name": "Amp",
-   "sigma": 3.55,
-   "from_btc_pct": 1,
-   "verdict": "Overbought",
-   "file": "AMP.png"
-  },
-  {
    "symbol": "LAZIO",
    "name": "Lazio Fan Token",
    "sigma": 3.12,
    "from_btc_pct": 5,
    "verdict": "Overbought",
    "file": "LAZIO.png"
+  },
+  {
+   "symbol": "AMP",
+   "name": "Amp",
+   "sigma": 3.03,
+   "from_btc_pct": 1,
+   "verdict": "Overbought",
+   "file": "AMP.png"
   },
   {
    "symbol": "W",
@@ -97,6 +89,14 @@
    "from_btc_pct": 12,
    "verdict": "Oversold",
    "file": "MINA.png"
+  },
+  {
+   "symbol": "AEVO",
+   "name": "Aevo",
+   "sigma": 2.62,
+   "from_btc_pct": 26,
+   "verdict": "Overbought",
+   "file": "AEVO.png"
   }
  ]
 }
