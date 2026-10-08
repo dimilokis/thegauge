@@ -1,6 +1,6 @@
 {
  "date": "2026-10-08",
- "generated_at": "2026-10-08T15:00:58.884177+00:00",
+ "generated_at": "2026-10-08T15:31:00.431364+00:00",
  "assets": [
   {
    "symbol": "SKL",
@@ -33,6 +33,14 @@
    "from_btc_pct": 12,
    "verdict": "Neutral",
    "file": "\u5e01\u5b89\u4eba\u751f.png"
+  },
+  {
+   "symbol": "MANA",
+   "name": "Decentraland",
+   "sigma": 3.81,
+   "from_btc_pct": 16,
+   "verdict": "Neutral",
+   "file": "MANA.png"
   },
   {
    "symbol": "CTSI",
@@ -75,20 +83,20 @@
    "file": "ALGO.png"
   },
   {
+   "symbol": "RENDER",
+   "name": "Render",
+   "sigma": 2.6,
+   "from_btc_pct": 39,
+   "verdict": "Neutral",
+   "file": "RENDER.png"
+  },
+  {
    "symbol": "STRK",
    "name": "Starknet",
    "sigma": 2.56,
    "from_btc_pct": 19,
    "verdict": "Overbought",
    "file": "STRK.png"
-  },
-  {
-   "symbol": "MET",
-   "name": "Meteora",
-   "sigma": 2.5,
-   "from_btc_pct": 2,
-   "verdict": "Overbought",
-   "file": "MET.png"
   }
  ]
 }
