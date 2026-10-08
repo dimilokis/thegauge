@@ -1,6 +1,6 @@
 {
  "date": "2026-10-08",
- "generated_at": "2026-10-08T08:30:56.289997+00:00",
+ "generated_at": "2026-10-08T09:01:03.254772+00:00",
  "assets": [
   {
    "symbol": "OGN",
@@ -27,20 +27,20 @@
    "file": "LAZIO.png"
   },
   {
-   "symbol": "MET",
-   "name": "Meteora",
-   "sigma": 2.92,
-   "from_btc_pct": 2,
-   "verdict": "Overbought",
-   "file": "MET.png"
-  },
-  {
    "symbol": "W",
    "name": "Wormhole",
    "sigma": 2.86,
    "from_btc_pct": 10,
    "verdict": "Overbought",
    "file": "W.png"
+  },
+  {
+   "symbol": "MET",
+   "name": "Meteora",
+   "sigma": 2.5,
+   "from_btc_pct": 2,
+   "verdict": "Overbought",
+   "file": "MET.png"
   }
  ]
 }
