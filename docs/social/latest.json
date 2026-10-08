@@ -1,6 +1,6 @@
 {
  "date": "2026-10-08",
- "generated_at": "2026-10-08T16:45:54.079110+00:00",
+ "generated_at": "2026-10-08T17:01:14.361626+00:00",
  "assets": [
   {
    "symbol": "AMP",
@@ -75,28 +75,28 @@
    "file": "ERA.png"
   },
   {
+   "symbol": "ORCA",
+   "name": "Orca",
+   "sigma": 2.79,
+   "from_btc_pct": 11,
+   "verdict": "Neutral",
+   "file": "ORCA.png"
+  },
+  {
+   "symbol": "CRV",
+   "name": "Curve DAO",
+   "sigma": 2.78,
+   "from_btc_pct": 19,
+   "verdict": "Neutral",
+   "file": "CRV.png"
+  },
+  {
    "symbol": "ALGO",
    "name": "Algorand",
    "sigma": 2.77,
    "from_btc_pct": 15,
    "verdict": "Strong Uptrend",
    "file": "ALGO.png"
-  },
-  {
-   "symbol": "SKL",
-   "name": "SKALE",
-   "sigma": 2.69,
-   "from_btc_pct": 11,
-   "verdict": "Overbought",
-   "file": "SKL.png"
-  },
-  {
-   "symbol": "ICP",
-   "name": "Internet Computer",
-   "sigma": 2.56,
-   "from_btc_pct": 28,
-   "verdict": "Neutral",
-   "file": "ICP.png"
   }
  ]
 }
