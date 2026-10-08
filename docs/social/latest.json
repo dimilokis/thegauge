@@ -1,15 +1,7 @@
 {
  "date": "2026-10-08",
- "generated_at": "2026-10-08T15:31:00.431364+00:00",
+ "generated_at": "2026-10-08T15:45:54.991802+00:00",
  "assets": [
-  {
-   "symbol": "SKL",
-   "name": "SKALE",
-   "sigma": 5.73,
-   "from_btc_pct": 9,
-   "verdict": "Overbought",
-   "file": "SKL.png"
-  },
   {
    "symbol": "OGN",
    "name": "Origin Token",
@@ -83,6 +75,14 @@
    "file": "ALGO.png"
   },
   {
+   "symbol": "SKL",
+   "name": "SKALE",
+   "sigma": 2.69,
+   "from_btc_pct": 11,
+   "verdict": "Overbought",
+   "file": "SKL.png"
+  },
+  {
    "symbol": "RENDER",
    "name": "Render",
    "sigma": 2.6,
@@ -91,12 +91,12 @@
    "file": "RENDER.png"
   },
   {
-   "symbol": "STRK",
-   "name": "Starknet",
-   "sigma": 2.56,
-   "from_btc_pct": 19,
-   "verdict": "Overbought",
-   "file": "STRK.png"
+   "symbol": "API3",
+   "name": "Api3",
+   "sigma": 2.6,
+   "from_btc_pct": 25,
+   "verdict": "Neutral",
+   "file": "API3.png"
   }
  ]
 }
