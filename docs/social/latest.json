@@ -1,7 +1,15 @@
 {
  "date": "2026-10-08",
- "generated_at": "2026-10-08T16:01:08.066867+00:00",
+ "generated_at": "2026-10-08T16:15:48.388040+00:00",
  "assets": [
+  {
+   "symbol": "AMP",
+   "name": "Amp",
+   "sigma": 5.48,
+   "from_btc_pct": 0,
+   "verdict": "Overbought",
+   "file": "AMP.png"
+  },
   {
    "symbol": "OGN",
    "name": "Origin Token",
@@ -89,14 +97,6 @@
    "from_btc_pct": 11,
    "verdict": "Overbought",
    "file": "SKL.png"
-  },
-  {
-   "symbol": "LDO",
-   "name": "Lido DAO",
-   "sigma": 2.68,
-   "from_btc_pct": 23,
-   "verdict": "Neutral",
-   "file": "LDO.png"
   }
  ]
 }
