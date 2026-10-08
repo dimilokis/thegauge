@@ -1,6 +1,6 @@
 {
  "date": "2026-10-08",
- "generated_at": "2026-10-08T18:00:55.635469+00:00",
+ "generated_at": "2026-10-08T18:15:56.486160+00:00",
  "assets": [
   {
    "symbol": "OGN",
@@ -33,6 +33,14 @@
    "from_btc_pct": 16,
    "verdict": "Neutral",
    "file": "MANA.png"
+  },
+  {
+   "symbol": "SKL",
+   "name": "SKALE",
+   "sigma": 3.49,
+   "from_btc_pct": 7,
+   "verdict": "Overbought",
+   "file": "SKL.png"
   },
   {
    "symbol": "CTSI",
@@ -89,14 +97,6 @@
    "from_btc_pct": 19,
    "verdict": "Neutral",
    "file": "CRV.png"
-  },
-  {
-   "symbol": "ALGO",
-   "name": "Algorand",
-   "sigma": 2.77,
-   "from_btc_pct": 15,
-   "verdict": "Strong Uptrend",
-   "file": "ALGO.png"
   }
  ]
 }
