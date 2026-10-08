@@ -1,6 +1,6 @@
 {
  "date": "2026-10-08",
- "generated_at": "2026-10-08T12:15:58.323316+00:00",
+ "generated_at": "2026-10-08T13:16:00.207332+00:00",
  "assets": [
   {
    "symbol": "OGN",
@@ -11,12 +11,28 @@
    "file": "OGN.png"
   },
   {
+   "symbol": "AEVO",
+   "name": "Aevo",
+   "sigma": 4.31,
+   "from_btc_pct": 23,
+   "verdict": "Overbought",
+   "file": "AEVO.png"
+  },
+  {
    "symbol": "\u5e01\u5b89\u4eba\u751f",
    "name": "\u5e01\u5b89\u4eba\u751f (BinanceLife)",
    "sigma": 4.09,
    "from_btc_pct": 12,
    "verdict": "Neutral",
    "file": "\u5e01\u5b89\u4eba\u751f.png"
+  },
+  {
+   "symbol": "CTSI",
+   "name": "Cartesi",
+   "sigma": 3.73,
+   "from_btc_pct": 3,
+   "verdict": "Overbought",
+   "file": "CTSI.png"
   },
   {
    "symbol": "LAZIO",
