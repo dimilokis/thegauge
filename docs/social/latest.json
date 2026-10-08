@@ -1,6 +1,6 @@
 {
  "date": "2026-10-08",
- "generated_at": "2026-10-08T17:01:14.361626+00:00",
+ "generated_at": "2026-10-08T17:31:09.324743+00:00",
  "assets": [
   {
    "symbol": "AMP",
@@ -45,8 +45,8 @@
   {
    "symbol": "CTSI",
    "name": "Cartesi",
-   "sigma": 3.73,
-   "from_btc_pct": 3,
+   "sigma": 3.16,
+   "from_btc_pct": 1,
    "verdict": "Overbought",
    "file": "CTSI.png"
   },
