@@ -1,6 +1,6 @@
 {
  "date": "2026-10-08",
- "generated_at": "2026-10-08T22:00:57.643760+00:00",
+ "generated_at": "2026-10-08T22:30:50.843504+00:00",
  "assets": [
   {
    "symbol": "OGN",
@@ -91,12 +91,12 @@
    "file": "RENDER.png"
   },
   {
-   "symbol": "CRV",
-   "name": "Curve DAO",
-   "sigma": 2.62,
-   "from_btc_pct": 15,
-   "verdict": "Neutral",
-   "file": "CRV.png"
+   "symbol": "MINA",
+   "name": "Mina Protocol",
+   "sigma": 2.63,
+   "from_btc_pct": 12,
+   "verdict": "Oversold",
+   "file": "MINA.png"
   }
  ]
 }
