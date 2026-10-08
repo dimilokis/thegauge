@@ -1,6 +1,6 @@
 {
  "date": "2026-10-08",
- "generated_at": "2026-10-08T21:15:53.008863+00:00",
+ "generated_at": "2026-10-08T21:30:56.856254+00:00",
  "assets": [
   {
    "symbol": "OGN",
@@ -91,12 +91,12 @@
    "file": "RENDER.png"
   },
   {
-   "symbol": "CTSI",
-   "name": "Cartesi",
-   "sigma": 2.56,
-   "from_btc_pct": 3,
-   "verdict": "Overbought",
-   "file": "CTSI.png"
+   "symbol": "CRV",
+   "name": "Curve DAO",
+   "sigma": 2.62,
+   "from_btc_pct": 15,
+   "verdict": "Neutral",
+   "file": "CRV.png"
   }
  ]
 }
