@@ -1467,6 +1467,10 @@
   "icon": "https://coin-images.coingecko.com/coins/images/33566/large/dogwifhat.jpg?1702499428",
   "name": "dogwifhat"
  },
+ "WIN": {
+  "icon": "https://coin-images.coingecko.com/coins/images/9129/large/WinK.png",
+  "name": "WINkLink"
+ },
  "WLD": {
   "icon": "https://coin-images.coingecko.com/coins/images/31069/large/worldcoin.jpeg?1696529903",
   "name": "Worldcoin"
