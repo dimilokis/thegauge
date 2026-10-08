@@ -1,6 +1,6 @@
 {
  "date": "2026-10-08",
- "generated_at": "2026-10-08T18:30:56.624744+00:00",
+ "generated_at": "2026-10-08T18:45:50.515958+00:00",
  "assets": [
   {
    "symbol": "OGN",
@@ -35,14 +35,6 @@
    "file": "MANA.png"
   },
   {
-   "symbol": "SKL",
-   "name": "SKALE",
-   "sigma": 3.49,
-   "from_btc_pct": 7,
-   "verdict": "Overbought",
-   "file": "SKL.png"
-  },
-  {
    "symbol": "RENDER",
    "name": "Render",
    "sigma": 3.28,
@@ -73,6 +65,14 @@
    "from_btc_pct": 0,
    "verdict": "Overbought",
    "file": "AMP.png"
+  },
+  {
+   "symbol": "SKL",
+   "name": "SKALE",
+   "sigma": 2.91,
+   "from_btc_pct": 11,
+   "verdict": "Overbought",
+   "file": "SKL.png"
   },
   {
    "symbol": "W",
