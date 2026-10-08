@@ -1,7 +1,15 @@
 {
  "date": "2026-10-08",
- "generated_at": "2026-10-08T14:01:06.119784+00:00",
+ "generated_at": "2026-10-08T15:00:58.884177+00:00",
  "assets": [
+  {
+   "symbol": "SKL",
+   "name": "SKALE",
+   "sigma": 5.73,
+   "from_btc_pct": 9,
+   "verdict": "Overbought",
+   "file": "SKL.png"
+  },
   {
    "symbol": "OGN",
    "name": "Origin Token",
@@ -65,14 +73,6 @@
    "from_btc_pct": 15,
    "verdict": "Strong Uptrend",
    "file": "ALGO.png"
-  },
-  {
-   "symbol": "SKL",
-   "name": "SKALE",
-   "sigma": 2.76,
-   "from_btc_pct": 14,
-   "verdict": "Overbought",
-   "file": "SKL.png"
   },
   {
    "symbol": "STRK",
