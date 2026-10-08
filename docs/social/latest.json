@@ -1,6 +1,6 @@
 {
  "date": "2026-10-08",
- "generated_at": "2026-10-08T20:30:59.827694+00:00",
+ "generated_at": "2026-10-08T20:45:54.064782+00:00",
  "assets": [
   {
    "symbol": "OGN",
@@ -27,6 +27,14 @@
    "file": "\u5e01\u5b89\u4eba\u751f.png"
   },
   {
+   "symbol": "SKL",
+   "name": "SKALE",
+   "sigma": 3.92,
+   "from_btc_pct": 9,
+   "verdict": "Overbought",
+   "file": "SKL.png"
+  },
+  {
    "symbol": "MANA",
    "name": "Decentraland",
    "sigma": 3.81,
@@ -49,14 +57,6 @@
    "from_btc_pct": 39,
    "verdict": "Neutral",
    "file": "RENDER.png"
-  },
-  {
-   "symbol": "SKL",
-   "name": "SKALE",
-   "sigma": 3.13,
-   "from_btc_pct": 10,
-   "verdict": "Overbought",
-   "file": "SKL.png"
   },
   {
    "symbol": "LAZIO",
