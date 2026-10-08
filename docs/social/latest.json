@@ -1,6 +1,6 @@
 {
  "date": "2026-10-08",
- "generated_at": "2026-10-08T04:46:02.451533+00:00",
+ "generated_at": "2026-10-08T05:01:02.281979+00:00",
  "assets": [
   {
    "symbol": "LAZIO",
@@ -13,8 +13,8 @@
   {
    "symbol": "W",
    "name": "Wormhole",
-   "sigma": 2.55,
-   "from_btc_pct": 11,
+   "sigma": 2.86,
+   "from_btc_pct": 10,
    "verdict": "Overbought",
    "file": "W.png"
   }
