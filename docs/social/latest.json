@@ -1,7 +1,15 @@
 {
  "date": "2026-10-08",
- "generated_at": "2026-10-08T03:00:55.287556+00:00",
+ "generated_at": "2026-10-08T04:46:02.451533+00:00",
  "assets": [
+  {
+   "symbol": "LAZIO",
+   "name": "Lazio Fan Token",
+   "sigma": 3.12,
+   "from_btc_pct": 5,
+   "verdict": "Overbought",
+   "file": "LAZIO.png"
+  },
   {
    "symbol": "W",
    "name": "Wormhole",
