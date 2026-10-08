@@ -1,6 +1,6 @@
 {
  "date": "2026-10-08",
- "generated_at": "2026-10-08T09:01:03.254772+00:00",
+ "generated_at": "2026-10-08T09:16:03.367392+00:00",
  "assets": [
   {
    "symbol": "OGN",
@@ -33,6 +33,14 @@
    "from_btc_pct": 10,
    "verdict": "Overbought",
    "file": "W.png"
+  },
+  {
+   "symbol": "ALGO",
+   "name": "Algorand",
+   "sigma": 2.77,
+   "from_btc_pct": 15,
+   "verdict": "Strong Uptrend",
+   "file": "ALGO.png"
   },
   {
    "symbol": "MET",
