@@ -1,6 +1,6 @@
 {
  "date": "2026-10-08",
- "generated_at": "2026-10-08T09:16:03.367392+00:00",
+ "generated_at": "2026-10-08T11:00:58.495914+00:00",
  "assets": [
   {
    "symbol": "OGN",
@@ -25,6 +25,14 @@
    "from_btc_pct": 5,
    "verdict": "Overbought",
    "file": "LAZIO.png"
+  },
+  {
+   "symbol": "ERA",
+   "name": "Caldera",
+   "sigma": 2.98,
+   "from_btc_pct": 24,
+   "verdict": "Neutral",
+   "file": "ERA.png"
   },
   {
    "symbol": "W",
