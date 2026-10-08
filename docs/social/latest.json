@@ -1,102 +1,14 @@
 {
- "date": "2026-10-07",
- "generated_at": "2026-10-07T22:45:51.942289+00:00",
+ "date": "2026-10-08",
+ "generated_at": "2026-10-08T03:00:55.287556+00:00",
  "assets": [
   {
-   "symbol": "GLMR",
-   "name": "Moonbeam",
-   "sigma": 3.77,
-   "from_btc_pct": 0,
+   "symbol": "W",
+   "name": "Wormhole",
+   "sigma": 2.55,
+   "from_btc_pct": 11,
    "verdict": "Overbought",
-   "file": "GLMR.png"
-  },
-  {
-   "symbol": "MET",
-   "name": "Meteora",
-   "sigma": 3.03,
-   "from_btc_pct": 9,
-   "verdict": "Overbought",
-   "file": "MET.png"
-  },
-  {
-   "symbol": "MAGIC",
-   "name": "Treasure",
-   "sigma": 2.92,
-   "from_btc_pct": 21,
-   "verdict": "Overbought",
-   "file": "MAGIC.png"
-  },
-  {
-   "symbol": "BFUSD",
-   "name": "BFUSD",
-   "sigma": 2.91,
-   "from_btc_pct": 4,
-   "verdict": "Neutral",
-   "file": "BFUSD.png"
-  },
-  {
-   "symbol": "API3",
-   "name": "Api3",
-   "sigma": 2.84,
-   "from_btc_pct": 20,
-   "verdict": "Overbought",
-   "file": "API3.png"
-  },
-  {
-   "symbol": "RESOLV",
-   "name": "Resolv",
-   "sigma": 2.81,
-   "from_btc_pct": 18,
-   "verdict": "Neutral",
-   "file": "RESOLV.png"
-  },
-  {
-   "symbol": "SKY",
-   "name": "Sky",
-   "sigma": 2.77,
-   "from_btc_pct": 30,
-   "verdict": "Neutral",
-   "file": "SKY.png"
-  },
-  {
-   "symbol": "LAZIO",
-   "name": "Lazio Fan Token",
-   "sigma": 2.75,
-   "from_btc_pct": 12,
-   "verdict": "Overbought",
-   "file": "LAZIO.png"
-  },
-  {
-   "symbol": "OGN",
-   "name": "Origin Token",
-   "sigma": 2.71,
-   "from_btc_pct": 12,
-   "verdict": "Overbought",
-   "file": "OGN.png"
-  },
-  {
-   "symbol": "MINA",
-   "name": "Mina Protocol",
-   "sigma": 2.7,
-   "from_btc_pct": 9,
-   "verdict": "Neutral",
-   "file": "MINA.png"
-  },
-  {
-   "symbol": "GTC",
-   "name": "Gitcoin",
-   "sigma": 2.7,
-   "from_btc_pct": 5,
-   "verdict": "Overbought",
-   "file": "GTC.png"
-  },
-  {
-   "symbol": "UMA",
-   "name": "UMA",
-   "sigma": 2.58,
-   "from_btc_pct": 30,
-   "verdict": "Neutral",
-   "file": "UMA.png"
+   "file": "W.png"
   }
  ]
 }
