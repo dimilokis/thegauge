@@ -1,6 +1,6 @@
 {
  "date": "2026-10-08",
- "generated_at": "2026-10-08T15:45:54.991802+00:00",
+ "generated_at": "2026-10-08T16:01:08.066867+00:00",
  "assets": [
   {
    "symbol": "OGN",
@@ -59,6 +59,14 @@
    "file": "W.png"
   },
   {
+   "symbol": "ICP",
+   "name": "Internet Computer",
+   "sigma": 2.81,
+   "from_btc_pct": 29,
+   "verdict": "Neutral",
+   "file": "ICP.png"
+  },
+  {
    "symbol": "ERA",
    "name": "Caldera",
    "sigma": 2.8,
@@ -83,20 +91,12 @@
    "file": "SKL.png"
   },
   {
-   "symbol": "RENDER",
-   "name": "Render",
-   "sigma": 2.6,
-   "from_btc_pct": 39,
+   "symbol": "LDO",
+   "name": "Lido DAO",
+   "sigma": 2.68,
+   "from_btc_pct": 23,
    "verdict": "Neutral",
-   "file": "RENDER.png"
-  },
-  {
-   "symbol": "API3",
-   "name": "Api3",
-   "sigma": 2.6,
-   "from_btc_pct": 25,
-   "verdict": "Neutral",
-   "file": "API3.png"
+   "file": "LDO.png"
   }
  ]
 }
