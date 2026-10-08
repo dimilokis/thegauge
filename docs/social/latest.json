@@ -1,6 +1,6 @@
 {
  "date": "2026-10-08",
- "generated_at": "2026-10-08T21:45:49.239180+00:00",
+ "generated_at": "2026-10-08T22:00:57.643760+00:00",
  "assets": [
   {
    "symbol": "OGN",
@@ -43,20 +43,20 @@
    "file": "MANA.png"
   },
   {
+   "symbol": "AMP",
+   "name": "Amp",
+   "sigma": 3.55,
+   "from_btc_pct": 1,
+   "verdict": "Overbought",
+   "file": "AMP.png"
+  },
+  {
    "symbol": "LAZIO",
    "name": "Lazio Fan Token",
    "sigma": 3.12,
    "from_btc_pct": 5,
    "verdict": "Overbought",
    "file": "LAZIO.png"
-  },
-  {
-   "symbol": "AMP",
-   "name": "Amp",
-   "sigma": 3.07,
-   "from_btc_pct": 0,
-   "verdict": "Overbought",
-   "file": "AMP.png"
   },
   {
    "symbol": "W",
