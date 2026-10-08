@@ -1,6 +1,6 @@
 {
  "date": "2026-10-08",
- "generated_at": "2026-10-08T18:15:56.486160+00:00",
+ "generated_at": "2026-10-08T18:30:56.624744+00:00",
  "assets": [
   {
    "symbol": "OGN",
@@ -41,6 +41,14 @@
    "from_btc_pct": 7,
    "verdict": "Overbought",
    "file": "SKL.png"
+  },
+  {
+   "symbol": "RENDER",
+   "name": "Render",
+   "sigma": 3.28,
+   "from_btc_pct": 39,
+   "verdict": "Neutral",
+   "file": "RENDER.png"
   },
   {
    "symbol": "CTSI",
@@ -89,14 +97,6 @@
    "from_btc_pct": 11,
    "verdict": "Neutral",
    "file": "ORCA.png"
-  },
-  {
-   "symbol": "CRV",
-   "name": "Curve DAO",
-   "sigma": 2.78,
-   "from_btc_pct": 19,
-   "verdict": "Neutral",
-   "file": "CRV.png"
   }
  ]
 }
