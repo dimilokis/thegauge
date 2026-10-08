@@ -1,6 +1,6 @@
 {
  "date": "2026-10-08",
- "generated_at": "2026-10-08T13:30:59.128587+00:00",
+ "generated_at": "2026-10-08T13:50:35.511026+00:00",
  "assets": [
   {
    "symbol": "OGN",
@@ -69,8 +69,8 @@
   {
    "symbol": "STRK",
    "name": "Starknet",
-   "sigma": 2.58,
-   "from_btc_pct": 20,
+   "sigma": 2.56,
+   "from_btc_pct": 19,
    "verdict": "Overbought",
    "file": "STRK.png"
   },
