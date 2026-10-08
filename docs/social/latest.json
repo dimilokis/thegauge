@@ -1,6 +1,6 @@
 {
  "date": "2026-10-08",
- "generated_at": "2026-10-08T16:30:57.813607+00:00",
+ "generated_at": "2026-10-08T16:45:54.079110+00:00",
  "assets": [
   {
    "symbol": "AMP",
@@ -67,14 +67,6 @@
    "file": "W.png"
   },
   {
-   "symbol": "ICP",
-   "name": "Internet Computer",
-   "sigma": 2.81,
-   "from_btc_pct": 29,
-   "verdict": "Neutral",
-   "file": "ICP.png"
-  },
-  {
    "symbol": "ERA",
    "name": "Caldera",
    "sigma": 2.8,
@@ -97,6 +89,14 @@
    "from_btc_pct": 11,
    "verdict": "Overbought",
    "file": "SKL.png"
+  },
+  {
+   "symbol": "ICP",
+   "name": "Internet Computer",
+   "sigma": 2.56,
+   "from_btc_pct": 28,
+   "verdict": "Neutral",
+   "file": "ICP.png"
   }
  ]
 }
