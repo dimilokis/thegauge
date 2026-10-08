@@ -1,6 +1,6 @@
 {
  "date": "2026-10-08",
- "generated_at": "2026-10-08T20:45:54.064782+00:00",
+ "generated_at": "2026-10-08T21:15:53.008863+00:00",
  "assets": [
   {
    "symbol": "OGN",
@@ -43,22 +43,6 @@
    "file": "MANA.png"
   },
   {
-   "symbol": "CTSI",
-   "name": "Cartesi",
-   "sigma": 3.53,
-   "from_btc_pct": 1,
-   "verdict": "Overbought",
-   "file": "CTSI.png"
-  },
-  {
-   "symbol": "RENDER",
-   "name": "Render",
-   "sigma": 3.28,
-   "from_btc_pct": 39,
-   "verdict": "Neutral",
-   "file": "RENDER.png"
-  },
-  {
    "symbol": "LAZIO",
    "name": "Lazio Fan Token",
    "sigma": 3.12,
@@ -97,6 +81,22 @@
    "from_btc_pct": 11,
    "verdict": "Neutral",
    "file": "ORCA.png"
+  },
+  {
+   "symbol": "RENDER",
+   "name": "Render",
+   "sigma": 2.67,
+   "from_btc_pct": 38,
+   "verdict": "Neutral",
+   "file": "RENDER.png"
+  },
+  {
+   "symbol": "CTSI",
+   "name": "Cartesi",
+   "sigma": 2.56,
+   "from_btc_pct": 3,
+   "verdict": "Overbought",
+   "file": "CTSI.png"
   }
  ]
 }
