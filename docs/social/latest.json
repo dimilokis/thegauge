@@ -1,7 +1,15 @@
 {
  "date": "2026-10-08",
- "generated_at": "2026-10-08T05:01:02.281979+00:00",
+ "generated_at": "2026-10-08T07:45:54.414857+00:00",
  "assets": [
+  {
+   "symbol": "\u5e01\u5b89\u4eba\u751f",
+   "name": "\u5e01\u5b89\u4eba\u751f (BinanceLife)",
+   "sigma": 4.09,
+   "from_btc_pct": 12,
+   "verdict": "Neutral",
+   "file": "\u5e01\u5b89\u4eba\u751f.png"
+  },
   {
    "symbol": "LAZIO",
    "name": "Lazio Fan Token",
@@ -9,6 +17,14 @@
    "from_btc_pct": 5,
    "verdict": "Overbought",
    "file": "LAZIO.png"
+  },
+  {
+   "symbol": "MET",
+   "name": "Meteora",
+   "sigma": 2.92,
+   "from_btc_pct": 2,
+   "verdict": "Overbought",
+   "file": "MET.png"
   },
   {
    "symbol": "W",
