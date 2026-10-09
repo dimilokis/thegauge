@@ -1,6 +1,6 @@
 {
  "date": "2026-10-09",
- "generated_at": "2026-10-09T08:15:56.186533+00:00",
+ "generated_at": "2026-10-09T08:45:56.800217+00:00",
  "assets": [
   {
    "symbol": "KAIA",
@@ -35,20 +35,20 @@
    "file": "CTSI.png"
   },
   {
-   "symbol": "APT",
-   "name": "Aptos",
-   "sigma": 3.11,
-   "from_btc_pct": 38,
-   "verdict": "Strong Uptrend",
-   "file": "APT.png"
-  },
-  {
    "symbol": "AUDIO",
    "name": "Audius",
    "sigma": 3.09,
    "from_btc_pct": 13,
    "verdict": "Overbought",
    "file": "AUDIO.png"
+  },
+  {
+   "symbol": "APT",
+   "name": "Aptos",
+   "sigma": 2.81,
+   "from_btc_pct": 39,
+   "verdict": "Strong Uptrend",
+   "file": "APT.png"
   },
   {
    "symbol": "API3",
