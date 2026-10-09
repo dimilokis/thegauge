@@ -1,7 +1,23 @@
 {
  "date": "2026-10-09",
- "generated_at": "2026-10-09T07:15:45.840928+00:00",
+ "generated_at": "2026-10-09T07:45:48.593240+00:00",
  "assets": [
+  {
+   "symbol": "MAGIC",
+   "name": "Treasure",
+   "sigma": 6.44,
+   "from_btc_pct": 18,
+   "verdict": "Overbought",
+   "file": "MAGIC.png"
+  },
+  {
+   "symbol": "ATOM",
+   "name": "Cosmos Hub",
+   "sigma": 3.36,
+   "from_btc_pct": 23,
+   "verdict": "Overbought",
+   "file": "ATOM.png"
+  },
   {
    "symbol": "CTSI",
    "name": "Cartesi",
@@ -29,7 +45,7 @@
   {
    "symbol": "API3",
    "name": "Api3",
-   "sigma": 2.85,
+   "sigma": 2.64,
    "from_btc_pct": 23,
    "verdict": "Overbought",
    "file": "API3.png"
