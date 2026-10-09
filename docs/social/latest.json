@@ -1,6 +1,6 @@
 {
  "date": "2026-10-09",
- "generated_at": "2026-10-09T06:30:59.458704+00:00",
+ "generated_at": "2026-10-09T06:45:54.192073+00:00",
  "assets": [
   {
    "symbol": "CTSI",
@@ -17,6 +17,14 @@
    "from_btc_pct": 13,
    "verdict": "Overbought",
    "file": "AUDIO.png"
+  },
+  {
+   "symbol": "API3",
+   "name": "Api3",
+   "sigma": 2.85,
+   "from_btc_pct": 23,
+   "verdict": "Overbought",
+   "file": "API3.png"
   },
   {
    "symbol": "W",
