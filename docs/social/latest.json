@@ -1,7 +1,23 @@
 {
  "date": "2026-10-09",
- "generated_at": "2026-10-09T04:15:50.756188+00:00",
+ "generated_at": "2026-10-09T05:45:50.423948+00:00",
  "assets": [
+  {
+   "symbol": "CTSI",
+   "name": "Cartesi",
+   "sigma": 3.33,
+   "from_btc_pct": 6,
+   "verdict": "Overbought",
+   "file": "CTSI.png"
+  },
+  {
+   "symbol": "W",
+   "name": "Wormhole",
+   "sigma": 2.62,
+   "from_btc_pct": 15,
+   "verdict": "Overbought",
+   "file": "W.png"
+  },
   {
    "symbol": "STRK",
    "name": "Starknet",
