@@ -1,6 +1,6 @@
 {
  "date": "2026-10-09",
- "generated_at": "2026-10-09T13:01:02.280850+00:00",
+ "generated_at": "2026-10-09T14:01:01.190634+00:00",
  "assets": [
   {
    "symbol": "KAIA",
@@ -75,20 +75,20 @@
    "file": "AUDIO.png"
   },
   {
+   "symbol": "API3",
+   "name": "Api3",
+   "sigma": 3.03,
+   "from_btc_pct": 23,
+   "verdict": "Overbought",
+   "file": "API3.png"
+  },
+  {
    "symbol": "GRAM",
    "name": "Gram (prev. Toncoin)",
    "sigma": 2.78,
    "from_btc_pct": 29,
    "verdict": "Neutral",
    "file": "GRAM.png"
-  },
-  {
-   "symbol": "API3",
-   "name": "Api3",
-   "sigma": 2.77,
-   "from_btc_pct": 25,
-   "verdict": "Overbought",
-   "file": "API3.png"
   },
   {
    "symbol": "W",
