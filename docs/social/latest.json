@@ -1,6 +1,6 @@
 {
  "date": "2026-10-09",
- "generated_at": "2026-10-09T14:30:56.590569+00:00",
+ "generated_at": "2026-10-09T15:45:52.709298+00:00",
  "assets": [
   {
    "symbol": "KAIA",
@@ -67,14 +67,6 @@
    "file": "CTSI.png"
   },
   {
-   "symbol": "CYBER",
-   "name": "CYBER",
-   "sigma": 3.15,
-   "from_btc_pct": 27,
-   "verdict": "Overbought",
-   "file": "CYBER.png"
-  },
-  {
    "symbol": "AUDIO",
    "name": "Audius",
    "sigma": 3.09,
@@ -89,6 +81,14 @@
    "from_btc_pct": 23,
    "verdict": "Overbought",
    "file": "API3.png"
+  },
+  {
+   "symbol": "CYBER",
+   "name": "CYBER",
+   "sigma": 2.88,
+   "from_btc_pct": 27,
+   "verdict": "Overbought",
+   "file": "CYBER.png"
   },
   {
    "symbol": "GRAM",
