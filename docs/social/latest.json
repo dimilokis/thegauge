@@ -1,6 +1,6 @@
 {
  "date": "2026-10-09",
- "generated_at": "2026-10-09T16:30:59.448626+00:00",
+ "generated_at": "2026-10-09T16:45:51.595791+00:00",
  "assets": [
   {
    "symbol": "KAIA",
@@ -41,14 +41,6 @@
    "from_btc_pct": 39,
    "verdict": "Overbought",
    "file": "ZK.png"
-  },
-  {
-   "symbol": "S",
-   "name": "Sonic",
-   "sigma": 3.91,
-   "from_btc_pct": 13,
-   "verdict": "Overbought",
-   "file": "S.png"
   },
   {
    "symbol": "SKL",
@@ -97,6 +89,14 @@
    "from_btc_pct": 23,
    "verdict": "Overbought",
    "file": "API3.png"
+  },
+  {
+   "symbol": "S",
+   "name": "Sonic",
+   "sigma": 2.72,
+   "from_btc_pct": 14,
+   "verdict": "Overbought",
+   "file": "S.png"
   }
  ]
 }
