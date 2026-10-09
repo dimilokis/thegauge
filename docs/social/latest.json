@@ -1,6 +1,6 @@
 {
  "date": "2026-10-09",
- "generated_at": "2026-10-09T20:01:05.344908+00:00",
+ "generated_at": "2026-10-09T21:01:01.266462+00:00",
  "assets": [
   {
    "symbol": "KAIA",
@@ -19,12 +19,28 @@
    "file": "BAT.png"
   },
   {
+   "symbol": "PIXEL",
+   "name": "Pixels",
+   "sigma": 6.68,
+   "from_btc_pct": 28,
+   "verdict": "Overbought",
+   "file": "PIXEL.png"
+  },
+  {
    "symbol": "MAGIC",
    "name": "Treasure",
    "sigma": 6.44,
    "from_btc_pct": 18,
    "verdict": "Overbought",
    "file": "MAGIC.png"
+  },
+  {
+   "symbol": "GMT",
+   "name": "GMT",
+   "sigma": 6.11,
+   "from_btc_pct": 39,
+   "verdict": "Overbought",
+   "file": "GMT.png"
   },
   {
    "symbol": "ZK",
@@ -81,22 +97,6 @@
    "from_btc_pct": 13,
    "verdict": "Overbought",
    "file": "AUDIO.png"
-  },
-  {
-   "symbol": "API3",
-   "name": "Api3",
-   "sigma": 2.82,
-   "from_btc_pct": 23,
-   "verdict": "Overbought",
-   "file": "API3.png"
-  },
-  {
-   "symbol": "RAD",
-   "name": "Radworks",
-   "sigma": 2.73,
-   "from_btc_pct": 2,
-   "verdict": "Overbought",
-   "file": "RAD.png"
   }
  ]
 }
