@@ -1,6 +1,6 @@
 {
  "date": "2026-10-09",
- "generated_at": "2026-10-09T11:45:51.636101+00:00",
+ "generated_at": "2026-10-09T12:30:57.303585+00:00",
  "assets": [
   {
    "symbol": "KAIA",
@@ -17,6 +17,14 @@
    "from_btc_pct": 18,
    "verdict": "Overbought",
    "file": "MAGIC.png"
+  },
+  {
+   "symbol": "ZK",
+   "name": "ZKsync",
+   "sigma": 4.24,
+   "from_btc_pct": 39,
+   "verdict": "Overbought",
+   "file": "ZK.png"
   },
   {
    "symbol": "S",
@@ -59,14 +67,6 @@
    "file": "AUDIO.png"
   },
   {
-   "symbol": "GRAM",
-   "name": "Gram (prev. Toncoin)",
-   "sigma": 2.94,
-   "from_btc_pct": 27,
-   "verdict": "Neutral",
-   "file": "GRAM.png"
-  },
-  {
    "symbol": "API3",
    "name": "Api3",
    "sigma": 2.79,
@@ -75,12 +75,12 @@
    "file": "API3.png"
   },
   {
-   "symbol": "ZK",
-   "name": "ZKsync",
-   "sigma": 2.68,
-   "from_btc_pct": 40,
-   "verdict": "Overbought",
-   "file": "ZK.png"
+   "symbol": "GRAM",
+   "name": "Gram (prev. Toncoin)",
+   "sigma": 2.78,
+   "from_btc_pct": 29,
+   "verdict": "Neutral",
+   "file": "GRAM.png"
   },
   {
    "symbol": "W",
