@@ -1,6 +1,6 @@
 {
  "date": "2026-10-09",
- "generated_at": "2026-10-09T15:45:52.709298+00:00",
+ "generated_at": "2026-10-09T16:00:58.969174+00:00",
  "assets": [
   {
    "symbol": "KAIA",
@@ -9,6 +9,14 @@
    "from_btc_pct": 22,
    "verdict": "Overbought",
    "file": "KAIA.png"
+  },
+  {
+   "symbol": "BAT",
+   "name": "Basic Attention",
+   "sigma": 7.12,
+   "from_btc_pct": 24,
+   "verdict": "Overbought",
+   "file": "BAT.png"
   },
   {
    "symbol": "MAGIC",
@@ -89,14 +97,6 @@
    "from_btc_pct": 27,
    "verdict": "Overbought",
    "file": "CYBER.png"
-  },
-  {
-   "symbol": "GRAM",
-   "name": "Gram (prev. Toncoin)",
-   "sigma": 2.78,
-   "from_btc_pct": 29,
-   "verdict": "Neutral",
-   "file": "GRAM.png"
   }
  ]
 }
