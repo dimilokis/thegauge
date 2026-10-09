@@ -1,6 +1,6 @@
 {
  "date": "2026-10-09",
- "generated_at": "2026-10-09T18:53:16.548595+00:00",
+ "generated_at": "2026-10-09T19:01:01.327106+00:00",
  "assets": [
   {
    "symbol": "KAIA",
@@ -37,7 +37,7 @@
   {
    "symbol": "SENT",
    "name": "Sentient",
-   "sigma": 3.73,
+   "sigma": 4.01,
    "from_btc_pct": 17,
    "verdict": "Neutral",
    "file": "SENT.png"
