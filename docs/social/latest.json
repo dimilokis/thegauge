@@ -1,6 +1,6 @@
 {
  "date": "2026-10-09",
- "generated_at": "2026-10-09T19:30:59.751724+00:00",
+ "generated_at": "2026-10-09T20:01:05.344908+00:00",
  "assets": [
   {
    "symbol": "KAIA",
@@ -85,7 +85,7 @@
   {
    "symbol": "API3",
    "name": "Api3",
-   "sigma": 3.03,
+   "sigma": 2.82,
    "from_btc_pct": 23,
    "verdict": "Overbought",
    "file": "API3.png"
