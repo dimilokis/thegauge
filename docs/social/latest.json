@@ -1,6 +1,6 @@
 {
  "date": "2026-10-09",
- "generated_at": "2026-10-09T10:31:01.472706+00:00",
+ "generated_at": "2026-10-09T11:00:58.286764+00:00",
  "assets": [
   {
    "symbol": "KAIA",
@@ -57,6 +57,14 @@
    "from_btc_pct": 27,
    "verdict": "Neutral",
    "file": "GRAM.png"
+  },
+  {
+   "symbol": "ZK",
+   "name": "ZKsync",
+   "sigma": 2.68,
+   "from_btc_pct": 40,
+   "verdict": "Overbought",
+   "file": "ZK.png"
   },
   {
    "symbol": "W",
