@@ -1,6 +1,6 @@
 {
  "date": "2026-10-09",
- "generated_at": "2026-10-09T06:45:54.192073+00:00",
+ "generated_at": "2026-10-09T07:15:45.840928+00:00",
  "assets": [
   {
    "symbol": "CTSI",
@@ -9,6 +9,14 @@
    "from_btc_pct": 6,
    "verdict": "Overbought",
    "file": "CTSI.png"
+  },
+  {
+   "symbol": "APT",
+   "name": "Aptos",
+   "sigma": 3.11,
+   "from_btc_pct": 38,
+   "verdict": "Strong Uptrend",
+   "file": "APT.png"
   },
   {
    "symbol": "AUDIO",
@@ -41,14 +49,6 @@
    "from_btc_pct": 0,
    "verdict": "Overbought",
    "file": "RLC.png"
-  },
-  {
-   "symbol": "APT",
-   "name": "Aptos",
-   "sigma": 2.55,
-   "from_btc_pct": 39,
-   "verdict": "Strong Uptrend",
-   "file": "APT.png"
   },
   {
    "symbol": "STRK",
