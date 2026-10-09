@@ -1,7 +1,15 @@
 {
  "date": "2026-10-09",
- "generated_at": "2026-10-09T07:45:48.593240+00:00",
+ "generated_at": "2026-10-09T08:15:56.186533+00:00",
  "assets": [
+  {
+   "symbol": "KAIA",
+   "name": "Kaia",
+   "sigma": 8.15,
+   "from_btc_pct": 22,
+   "verdict": "Overbought",
+   "file": "KAIA.png"
+  },
   {
    "symbol": "MAGIC",
    "name": "Treasure",
