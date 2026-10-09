@@ -1,6 +1,6 @@
 {
  "date": "2026-10-09",
- "generated_at": "2026-10-09T19:01:01.327106+00:00",
+ "generated_at": "2026-10-09T19:15:58.624577+00:00",
  "assets": [
   {
    "symbol": "KAIA",
@@ -93,7 +93,7 @@
   {
    "symbol": "DOT",
    "name": "Polkadot",
-   "sigma": 2.54,
+   "sigma": 2.64,
    "from_btc_pct": 31,
    "verdict": "Strong Uptrend",
    "file": "DOT.png"
