@@ -1,6 +1,6 @@
 {
  "date": "2026-10-09",
- "generated_at": "2026-10-09T18:30:55.409753+00:00",
+ "generated_at": "2026-10-09T18:53:16.548595+00:00",
  "assets": [
   {
    "symbol": "KAIA",
@@ -91,12 +91,12 @@
    "file": "API3.png"
   },
   {
-   "symbol": "RAD",
-   "name": "Radworks",
-   "sigma": 2.51,
-   "from_btc_pct": 2,
-   "verdict": "Overbought",
-   "file": "RAD.png"
+   "symbol": "DOT",
+   "name": "Polkadot",
+   "sigma": 2.54,
+   "from_btc_pct": 31,
+   "verdict": "Strong Uptrend",
+   "file": "DOT.png"
   }
  ]
 }
