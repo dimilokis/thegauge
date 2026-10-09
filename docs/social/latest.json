@@ -1,6 +1,6 @@
 {
  "date": "2026-10-09",
- "generated_at": "2026-10-09T12:45:51.619631+00:00",
+ "generated_at": "2026-10-09T13:01:02.280850+00:00",
  "assets": [
   {
    "symbol": "KAIA",
@@ -41,6 +41,14 @@
    "from_btc_pct": 12,
    "verdict": "Overbought",
    "file": "SKL.png"
+  },
+  {
+   "symbol": "CYBER",
+   "name": "CYBER",
+   "sigma": 3.43,
+   "from_btc_pct": 27,
+   "verdict": "Overbought",
+   "file": "CYBER.png"
   },
   {
    "symbol": "ATOM",
@@ -89,14 +97,6 @@
    "from_btc_pct": 15,
    "verdict": "Overbought",
    "file": "W.png"
-  },
-  {
-   "symbol": "RLC",
-   "name": "iExec RLC",
-   "sigma": 2.58,
-   "from_btc_pct": 0,
-   "verdict": "Overbought",
-   "file": "RLC.png"
   }
  ]
 }
