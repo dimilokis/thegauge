@@ -1,6 +1,6 @@
 {
  "date": "2026-10-09",
- "generated_at": "2026-10-09T17:45:51.597963+00:00",
+ "generated_at": "2026-10-09T18:01:03.260881+00:00",
  "assets": [
   {
    "symbol": "KAIA",
@@ -91,12 +91,12 @@
    "file": "API3.png"
   },
   {
-   "symbol": "S",
-   "name": "Sonic",
-   "sigma": 2.6,
-   "from_btc_pct": 14,
-   "verdict": "Overbought",
-   "file": "S.png"
+   "symbol": "DOT",
+   "name": "Polkadot",
+   "sigma": 2.73,
+   "from_btc_pct": 32,
+   "verdict": "Strong Uptrend",
+   "file": "DOT.png"
   }
  ]
 }
