@@ -1,6 +1,6 @@
 {
  "date": "2026-10-09",
- "generated_at": "2026-10-09T18:01:03.260881+00:00",
+ "generated_at": "2026-10-09T18:30:55.409753+00:00",
  "assets": [
   {
    "symbol": "KAIA",
@@ -27,20 +27,20 @@
    "file": "MAGIC.png"
   },
   {
-   "symbol": "RAD",
-   "name": "Radworks",
-   "sigma": 5.51,
-   "from_btc_pct": 3,
-   "verdict": "Overbought",
-   "file": "RAD.png"
-  },
-  {
    "symbol": "ZK",
    "name": "ZKsync",
    "sigma": 4.24,
    "from_btc_pct": 39,
    "verdict": "Overbought",
    "file": "ZK.png"
+  },
+  {
+   "symbol": "SENT",
+   "name": "Sentient",
+   "sigma": 3.73,
+   "from_btc_pct": 17,
+   "verdict": "Neutral",
+   "file": "SENT.png"
   },
   {
    "symbol": "SKL",
@@ -91,12 +91,12 @@
    "file": "API3.png"
   },
   {
-   "symbol": "DOT",
-   "name": "Polkadot",
-   "sigma": 2.73,
-   "from_btc_pct": 32,
-   "verdict": "Strong Uptrend",
-   "file": "DOT.png"
+   "symbol": "RAD",
+   "name": "Radworks",
+   "sigma": 2.51,
+   "from_btc_pct": 2,
+   "verdict": "Overbought",
+   "file": "RAD.png"
   }
  ]
 }
