@@ -1,6 +1,6 @@
 {
  "date": "2026-10-09",
- "generated_at": "2026-10-09T05:45:50.423948+00:00",
+ "generated_at": "2026-10-09T06:01:05.998804+00:00",
  "assets": [
   {
    "symbol": "CTSI",
@@ -17,6 +17,14 @@
    "from_btc_pct": 15,
    "verdict": "Overbought",
    "file": "W.png"
+  },
+  {
+   "symbol": "RLC",
+   "name": "iExec RLC",
+   "sigma": 2.58,
+   "from_btc_pct": 0,
+   "verdict": "Overbought",
+   "file": "RLC.png"
   },
   {
    "symbol": "STRK",
