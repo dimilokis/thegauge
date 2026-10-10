@@ -1,102 +1,14 @@
 {
- "date": "2026-10-09",
- "generated_at": "2026-10-09T22:45:49.818300+00:00",
+ "date": "2026-10-10",
+ "generated_at": "2026-10-10T03:01:00.162924+00:00",
  "assets": [
-  {
-   "symbol": "KAIA",
-   "name": "Kaia",
-   "sigma": 8.15,
-   "from_btc_pct": 22,
-   "verdict": "Overbought",
-   "file": "KAIA.png"
-  },
-  {
-   "symbol": "BAT",
-   "name": "Basic Attention",
-   "sigma": 7.12,
-   "from_btc_pct": 24,
-   "verdict": "Overbought",
-   "file": "BAT.png"
-  },
-  {
-   "symbol": "PIXEL",
-   "name": "Pixels",
-   "sigma": 6.68,
-   "from_btc_pct": 28,
-   "verdict": "Overbought",
-   "file": "PIXEL.png"
-  },
   {
    "symbol": "MAGIC",
    "name": "Treasure",
-   "sigma": 6.44,
-   "from_btc_pct": 18,
+   "sigma": 2.58,
+   "from_btc_pct": 4,
    "verdict": "Overbought",
    "file": "MAGIC.png"
-  },
-  {
-   "symbol": "GMT",
-   "name": "GMT",
-   "sigma": 6.11,
-   "from_btc_pct": 39,
-   "verdict": "Overbought",
-   "file": "GMT.png"
-  },
-  {
-   "symbol": "ZK",
-   "name": "ZKsync",
-   "sigma": 4.24,
-   "from_btc_pct": 39,
-   "verdict": "Overbought",
-   "file": "ZK.png"
-  },
-  {
-   "symbol": "SENT",
-   "name": "Sentient",
-   "sigma": 4.01,
-   "from_btc_pct": 17,
-   "verdict": "Neutral",
-   "file": "SENT.png"
-  },
-  {
-   "symbol": "SKL",
-   "name": "SKALE",
-   "sigma": 3.57,
-   "from_btc_pct": 12,
-   "verdict": "Overbought",
-   "file": "SKL.png"
-  },
-  {
-   "symbol": "ATOM",
-   "name": "Cosmos Hub",
-   "sigma": 3.36,
-   "from_btc_pct": 23,
-   "verdict": "Overbought",
-   "file": "ATOM.png"
-  },
-  {
-   "symbol": "CTSI",
-   "name": "Cartesi",
-   "sigma": 3.33,
-   "from_btc_pct": 6,
-   "verdict": "Overbought",
-   "file": "CTSI.png"
-  },
-  {
-   "symbol": "GRAM",
-   "name": "Gram (prev. Toncoin)",
-   "sigma": 3.1,
-   "from_btc_pct": 27,
-   "verdict": "Neutral",
-   "file": "GRAM.png"
-  },
-  {
-   "symbol": "AUDIO",
-   "name": "Audius",
-   "sigma": 3.09,
-   "from_btc_pct": 13,
-   "verdict": "Overbought",
-   "file": "AUDIO.png"
   }
  ]
 }
