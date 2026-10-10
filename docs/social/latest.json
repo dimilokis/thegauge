@@ -1,7 +1,15 @@
 {
  "date": "2026-10-10",
- "generated_at": "2026-10-10T04:30:52.485434+00:00",
+ "generated_at": "2026-10-10T05:15:49.949593+00:00",
  "assets": [
+  {
+   "symbol": "MINA",
+   "name": "Mina Protocol",
+   "sigma": 3.24,
+   "from_btc_pct": 11,
+   "verdict": "Neutral",
+   "file": "MINA.png"
+  },
   {
    "symbol": "MAGIC",
    "name": "Treasure",
