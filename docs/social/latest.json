@@ -1,6 +1,6 @@
 {
  "date": "2026-10-10",
- "generated_at": "2026-10-10T12:45:47.202309+00:00",
+ "generated_at": "2026-10-10T13:00:56.145250+00:00",
  "assets": [
   {
    "symbol": "LUMIA",
@@ -27,20 +27,20 @@
    "file": "WAL.png"
   },
   {
+   "symbol": "ARPA",
+   "name": "ARPA",
+   "sigma": 4.87,
+   "from_btc_pct": 19,
+   "verdict": "Overbought",
+   "file": "ARPA.png"
+  },
+  {
    "symbol": "LPT",
    "name": "Livepeer",
    "sigma": 4.29,
    "from_btc_pct": 36,
    "verdict": "Overbought",
    "file": "LPT.png"
-  },
-  {
-   "symbol": "ARPA",
-   "name": "ARPA",
-   "sigma": 3.29,
-   "from_btc_pct": 22,
-   "verdict": "Overbought",
-   "file": "ARPA.png"
   },
   {
    "symbol": "MINA",
