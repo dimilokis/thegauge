@@ -1,7 +1,15 @@
 {
  "date": "2026-10-10",
- "generated_at": "2026-10-10T16:00:59.241859+00:00",
+ "generated_at": "2026-10-10T18:15:49.845824+00:00",
  "assets": [
+  {
+   "symbol": "MBL",
+   "name": "MovieBloc",
+   "sigma": 23.96,
+   "from_btc_pct": 4,
+   "verdict": "Overbought",
+   "file": "MBL.png"
+  },
   {
    "symbol": "LUMIA",
    "name": "Lumia",
@@ -89,14 +97,6 @@
    "from_btc_pct": 12,
    "verdict": "Strong Uptrend",
    "file": "AERO.png"
-  },
-  {
-   "symbol": "ARPA",
-   "name": "ARPA",
-   "sigma": 2.56,
-   "from_btc_pct": 23,
-   "verdict": "Overbought",
-   "file": "ARPA.png"
   }
  ]
 }
