@@ -1,6 +1,6 @@
 {
  "date": "2026-10-10",
- "generated_at": "2026-10-10T08:15:52.253808+00:00",
+ "generated_at": "2026-10-10T08:30:53.426644+00:00",
  "assets": [
   {
    "symbol": "LUMIA",
@@ -9,6 +9,14 @@
    "from_btc_pct": 5,
    "verdict": "Overbought",
    "file": "LUMIA.png"
+  },
+  {
+   "symbol": "ERA",
+   "name": "Caldera",
+   "sigma": 5.19,
+   "from_btc_pct": 14,
+   "verdict": "Overbought",
+   "file": "ERA.png"
   },
   {
    "symbol": "LPT",
