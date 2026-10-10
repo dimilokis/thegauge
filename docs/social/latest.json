@@ -1,7 +1,15 @@
 {
  "date": "2026-10-10",
- "generated_at": "2026-10-10T03:01:00.162924+00:00",
+ "generated_at": "2026-10-10T03:15:51.208924+00:00",
  "assets": [
+  {
+   "symbol": "PIXEL",
+   "name": "Pixels",
+   "sigma": 3.22,
+   "from_btc_pct": 18,
+   "verdict": "Overbought",
+   "file": "PIXEL.png"
+  },
   {
    "symbol": "MAGIC",
    "name": "Treasure",
