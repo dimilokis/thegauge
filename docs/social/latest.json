@@ -1,6 +1,6 @@
 {
  "date": "2026-10-10",
- "generated_at": "2026-10-10T13:45:49.235006+00:00",
+ "generated_at": "2026-10-10T14:00:57.900766+00:00",
  "assets": [
   {
    "symbol": "LUMIA",
@@ -27,12 +27,12 @@
    "file": "WAL.png"
   },
   {
-   "symbol": "ARPA",
-   "name": "ARPA",
-   "sigma": 4.87,
-   "from_btc_pct": 19,
+   "symbol": "CFX",
+   "name": "Conflux",
+   "sigma": 4.45,
+   "from_btc_pct": 25,
    "verdict": "Overbought",
-   "file": "ARPA.png"
+   "file": "CFX.png"
   },
   {
    "symbol": "LPT",
@@ -41,14 +41,6 @@
    "from_btc_pct": 36,
    "verdict": "Overbought",
    "file": "LPT.png"
-  },
-  {
-   "symbol": "CFX",
-   "name": "Conflux",
-   "sigma": 3.85,
-   "from_btc_pct": 26,
-   "verdict": "Overbought",
-   "file": "CFX.png"
   },
   {
    "symbol": "MINA",
@@ -89,6 +81,14 @@
    "from_btc_pct": 12,
    "verdict": "Overbought",
    "file": "BAT.png"
+  },
+  {
+   "symbol": "ARPA",
+   "name": "ARPA",
+   "sigma": 2.56,
+   "from_btc_pct": 23,
+   "verdict": "Overbought",
+   "file": "ARPA.png"
   },
   {
    "symbol": "PIXEL",
