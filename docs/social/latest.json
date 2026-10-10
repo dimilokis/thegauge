@@ -1,6 +1,6 @@
 {
  "date": "2026-10-10",
- "generated_at": "2026-10-10T14:30:53.907332+00:00",
+ "generated_at": "2026-10-10T16:00:59.241859+00:00",
  "assets": [
   {
    "symbol": "LUMIA",
@@ -41,6 +41,14 @@
    "from_btc_pct": 36,
    "verdict": "Overbought",
    "file": "LPT.png"
+  },
+  {
+   "symbol": "STRK",
+   "name": "Starknet",
+   "sigma": 3.53,
+   "from_btc_pct": 16,
+   "verdict": "Overbought",
+   "file": "STRK.png"
   },
   {
    "symbol": "MINA",
@@ -89,14 +97,6 @@
    "from_btc_pct": 23,
    "verdict": "Overbought",
    "file": "ARPA.png"
-  },
-  {
-   "symbol": "PIXEL",
-   "name": "Pixels",
-   "sigma": 2.52,
-   "from_btc_pct": 19,
-   "verdict": "Overbought",
-   "file": "PIXEL.png"
   }
  ]
 }
