@@ -1,6 +1,6 @@
 {
  "date": "2026-10-10",
- "generated_at": "2026-10-10T07:30:54.461467+00:00",
+ "generated_at": "2026-10-10T08:15:52.253808+00:00",
  "assets": [
   {
    "symbol": "LUMIA",
@@ -17,6 +17,14 @@
    "from_btc_pct": 36,
    "verdict": "Overbought",
    "file": "LPT.png"
+  },
+  {
+   "symbol": "ARPA",
+   "name": "ARPA",
+   "sigma": 3.4,
+   "from_btc_pct": 22,
+   "verdict": "Overbought",
+   "file": "ARPA.png"
   },
   {
    "symbol": "MINA",
