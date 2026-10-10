@@ -1,6 +1,6 @@
 {
  "date": "2026-10-10",
- "generated_at": "2026-10-10T12:15:54.548465+00:00",
+ "generated_at": "2026-10-10T12:45:47.202309+00:00",
  "assets": [
   {
    "symbol": "LUMIA",
@@ -73,6 +73,14 @@
    "from_btc_pct": 12,
    "verdict": "Overbought",
    "file": "BAT.png"
+  },
+  {
+   "symbol": "AERO",
+   "name": "Aerodrome Finance",
+   "sigma": 2.67,
+   "from_btc_pct": 12,
+   "verdict": "Strong Uptrend",
+   "file": "AERO.png"
   },
   {
    "symbol": "PIXEL",
