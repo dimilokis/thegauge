@@ -1,6 +1,6 @@
 {
  "date": "2026-10-11",
- "generated_at": "2026-10-11T18:30:54.895219+00:00",
+ "generated_at": "2026-10-11T18:45:55.987159+00:00",
  "assets": [
   {
    "symbol": "LUMIA",
@@ -9,6 +9,14 @@
    "from_btc_pct": 6,
    "verdict": "Overbought",
    "file": "LUMIA.png"
+  },
+  {
+   "symbol": "W",
+   "name": "Wormhole",
+   "sigma": 4.62,
+   "from_btc_pct": 12,
+   "verdict": "Overbought",
+   "file": "W.png"
   },
   {
    "symbol": "BAT",
@@ -25,6 +33,14 @@
    "from_btc_pct": 13,
    "verdict": "Overbought",
    "file": "SENT.png"
+  },
+  {
+   "symbol": "DYM",
+   "name": "Dymension",
+   "sigma": 3.37,
+   "from_btc_pct": 15,
+   "verdict": "Overbought",
+   "file": "DYM.png"
   },
   {
    "symbol": "MAGIC",
@@ -67,14 +83,6 @@
    "file": "\u5e01\u5b89\u4eba\u751f.png"
   },
   {
-   "symbol": "W",
-   "name": "Wormhole",
-   "sigma": 2.76,
-   "from_btc_pct": 13,
-   "verdict": "Overbought",
-   "file": "W.png"
-  },
-  {
    "symbol": "PLUME",
    "name": "Plume",
    "sigma": 2.69,
@@ -89,14 +97,6 @@
    "from_btc_pct": 10,
    "verdict": "Overbought",
    "file": "S.png"
-  },
-  {
-   "symbol": "IO",
-   "name": "io.net",
-   "sigma": 2.55,
-   "from_btc_pct": 37,
-   "verdict": "Overbought",
-   "file": "IO.png"
   }
  ]
 }
