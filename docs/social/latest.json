@@ -1,6 +1,6 @@
 {
  "date": "2026-10-11",
- "generated_at": "2026-10-11T20:01:01.282725+00:00",
+ "generated_at": "2026-10-11T21:01:05.483918+00:00",
  "assets": [
   {
    "symbol": "LUMIA",
@@ -67,6 +67,22 @@
    "file": "\u5e01\u5b89\u4eba\u751f.png"
   },
   {
+   "symbol": "FIL",
+   "name": "Filecoin",
+   "sigma": 2.75,
+   "from_btc_pct": 16,
+   "verdict": "Strong Uptrend",
+   "file": "FIL.png"
+  },
+  {
+   "symbol": "ICP",
+   "name": "Internet Computer",
+   "sigma": 2.72,
+   "from_btc_pct": 30,
+   "verdict": "Strong Uptrend",
+   "file": "ICP.png"
+  },
+  {
    "symbol": "PLUME",
    "name": "Plume",
    "sigma": 2.69,
@@ -81,22 +97,6 @@
    "from_btc_pct": 14,
    "verdict": "Overbought",
    "file": "CFX.png"
-  },
-  {
-   "symbol": "BAT",
-   "name": "Basic Attention",
-   "sigma": 2.63,
-   "from_btc_pct": 13,
-   "verdict": "Overbought",
-   "file": "BAT.png"
-  },
-  {
-   "symbol": "S",
-   "name": "Sonic",
-   "sigma": 2.61,
-   "from_btc_pct": 10,
-   "verdict": "Overbought",
-   "file": "S.png"
   }
  ]
 }
