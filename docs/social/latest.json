@@ -1,6 +1,6 @@
 {
  "date": "2026-10-11",
- "generated_at": "2026-10-11T21:01:05.483918+00:00",
+ "generated_at": "2026-10-11T21:31:00.279905+00:00",
  "assets": [
   {
    "symbol": "LUMIA",
@@ -75,14 +75,6 @@
    "file": "FIL.png"
   },
   {
-   "symbol": "ICP",
-   "name": "Internet Computer",
-   "sigma": 2.72,
-   "from_btc_pct": 30,
-   "verdict": "Strong Uptrend",
-   "file": "ICP.png"
-  },
-  {
    "symbol": "PLUME",
    "name": "Plume",
    "sigma": 2.69,
@@ -97,6 +89,14 @@
    "from_btc_pct": 14,
    "verdict": "Overbought",
    "file": "CFX.png"
+  },
+  {
+   "symbol": "ICP",
+   "name": "Internet Computer",
+   "sigma": 2.54,
+   "from_btc_pct": 29,
+   "verdict": "Strong Uptrend",
+   "file": "ICP.png"
   }
  ]
 }
