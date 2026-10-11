@@ -1,6 +1,6 @@
 {
  "date": "2026-10-11",
- "generated_at": "2026-10-11T14:54:07.717693+00:00",
+ "generated_at": "2026-10-11T15:30:54.753496+00:00",
  "assets": [
   {
    "symbol": "LUMIA",
@@ -43,14 +43,6 @@
    "file": "CKB.png"
   },
   {
-   "symbol": "IO",
-   "name": "io.net",
-   "sigma": 3.03,
-   "from_btc_pct": 34,
-   "verdict": "Overbought",
-   "file": "IO.png"
-  },
-  {
    "symbol": "MANTA",
    "name": "Manta Network",
    "sigma": 2.99,
@@ -65,6 +57,30 @@
    "from_btc_pct": 8,
    "verdict": "Strong Uptrend",
    "file": "\u5e01\u5b89\u4eba\u751f.png"
+  },
+  {
+   "symbol": "IO",
+   "name": "io.net",
+   "sigma": 2.65,
+   "from_btc_pct": 34,
+   "verdict": "Overbought",
+   "file": "IO.png"
+  },
+  {
+   "symbol": "S",
+   "name": "Sonic",
+   "sigma": 2.61,
+   "from_btc_pct": 10,
+   "verdict": "Overbought",
+   "file": "S.png"
+  },
+  {
+   "symbol": "ROSE",
+   "name": "Oasis",
+   "sigma": 2.53,
+   "from_btc_pct": 17,
+   "verdict": "Overbought",
+   "file": "ROSE.png"
   }
  ]
 }
