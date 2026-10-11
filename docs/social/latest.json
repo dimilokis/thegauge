@@ -1,6 +1,6 @@
 {
  "date": "2026-10-11",
- "generated_at": "2026-10-11T15:30:54.753496+00:00",
+ "generated_at": "2026-10-11T16:01:03.020656+00:00",
  "assets": [
   {
    "symbol": "LUMIA",
@@ -9,6 +9,14 @@
    "from_btc_pct": 6,
    "verdict": "Overbought",
    "file": "LUMIA.png"
+  },
+  {
+   "symbol": "BAT",
+   "name": "Basic Attention",
+   "sigma": 3.89,
+   "from_btc_pct": 13,
+   "verdict": "Overbought",
+   "file": "BAT.png"
   },
   {
    "symbol": "SENT",
