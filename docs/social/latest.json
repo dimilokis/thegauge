@@ -1,6 +1,6 @@
 {
  "date": "2026-10-11",
- "generated_at": "2026-10-11T18:00:59.529250+00:00",
+ "generated_at": "2026-10-11T18:30:54.895219+00:00",
  "assets": [
   {
    "symbol": "LUMIA",
@@ -83,20 +83,20 @@
    "file": "PLUME.png"
   },
   {
-   "symbol": "IO",
-   "name": "io.net",
-   "sigma": 2.65,
-   "from_btc_pct": 34,
-   "verdict": "Overbought",
-   "file": "IO.png"
-  },
-  {
    "symbol": "S",
    "name": "Sonic",
    "sigma": 2.61,
    "from_btc_pct": 10,
    "verdict": "Overbought",
    "file": "S.png"
+  },
+  {
+   "symbol": "IO",
+   "name": "io.net",
+   "sigma": 2.55,
+   "from_btc_pct": 37,
+   "verdict": "Overbought",
+   "file": "IO.png"
   }
  ]
 }
