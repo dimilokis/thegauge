@@ -1,6 +1,6 @@
 {
  "date": "2026-10-11",
- "generated_at": "2026-10-11T17:00:57.661085+00:00",
+ "generated_at": "2026-10-11T18:00:59.529250+00:00",
  "assets": [
   {
    "symbol": "LUMIA",
@@ -67,6 +67,22 @@
    "file": "\u5e01\u5b89\u4eba\u751f.png"
   },
   {
+   "symbol": "W",
+   "name": "Wormhole",
+   "sigma": 2.76,
+   "from_btc_pct": 13,
+   "verdict": "Overbought",
+   "file": "W.png"
+  },
+  {
+   "symbol": "PLUME",
+   "name": "Plume",
+   "sigma": 2.69,
+   "from_btc_pct": 22,
+   "verdict": "Strong Uptrend",
+   "file": "PLUME.png"
+  },
+  {
    "symbol": "IO",
    "name": "io.net",
    "sigma": 2.65,
@@ -81,22 +97,6 @@
    "from_btc_pct": 10,
    "verdict": "Overbought",
    "file": "S.png"
-  },
-  {
-   "symbol": "ALGO",
-   "name": "Algorand",
-   "sigma": 2.57,
-   "from_btc_pct": 14,
-   "verdict": "Strong Uptrend",
-   "file": "ALGO.png"
-  },
-  {
-   "symbol": "ROSE",
-   "name": "Oasis",
-   "sigma": 2.53,
-   "from_btc_pct": 17,
-   "verdict": "Overbought",
-   "file": "ROSE.png"
   }
  ]
 }
