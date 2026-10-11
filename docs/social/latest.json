@@ -1,6 +1,6 @@
 {
  "date": "2026-10-11",
- "generated_at": "2026-10-11T14:15:54.840104+00:00",
+ "generated_at": "2026-10-11T14:45:48.559940+00:00",
  "assets": [
   {
    "symbol": "LUMIA",
@@ -53,7 +53,7 @@
   {
    "symbol": "\u5e01\u5b89\u4eba\u751f",
    "name": "\u5e01\u5b89\u4eba\u751f (BinanceLife)",
-   "sigma": 2.74,
+   "sigma": 2.85,
    "from_btc_pct": 8,
    "verdict": "Strong Uptrend",
    "file": "\u5e01\u5b89\u4eba\u751f.png"
