@@ -1,6 +1,6 @@
 {
  "date": "2026-10-11",
- "generated_at": "2026-10-11T12:15:47.778754+00:00",
+ "generated_at": "2026-10-11T12:30:55.148798+00:00",
  "assets": [
   {
    "symbol": "LUMIA",
@@ -9,14 +9,6 @@
    "from_btc_pct": 6,
    "verdict": "Overbought",
    "file": "LUMIA.png"
-  },
-  {
-   "symbol": "CFX",
-   "name": "Conflux",
-   "sigma": 3.59,
-   "from_btc_pct": 12,
-   "verdict": "Overbought",
-   "file": "CFX.png"
   },
   {
    "symbol": "SENT",
@@ -33,6 +25,14 @@
    "from_btc_pct": 26,
    "verdict": "Overbought",
    "file": "MANTA.png"
+  },
+  {
+   "symbol": "CFX",
+   "name": "Conflux",
+   "sigma": 2.62,
+   "from_btc_pct": 13,
+   "verdict": "Overbought",
+   "file": "CFX.png"
   },
   {
    "symbol": "MAGIC",
