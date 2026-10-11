@@ -1,6 +1,6 @@
 {
  "date": "2026-10-11",
- "generated_at": "2026-10-11T14:45:48.559940+00:00",
+ "generated_at": "2026-10-11T14:54:07.717693+00:00",
  "assets": [
   {
    "symbol": "LUMIA",
@@ -41,6 +41,14 @@
    "from_btc_pct": 28,
    "verdict": "Overbought",
    "file": "CKB.png"
+  },
+  {
+   "symbol": "IO",
+   "name": "io.net",
+   "sigma": 3.03,
+   "from_btc_pct": 34,
+   "verdict": "Overbought",
+   "file": "IO.png"
   },
   {
    "symbol": "MANTA",
