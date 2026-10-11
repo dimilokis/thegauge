@@ -1,6 +1,6 @@
 {
  "date": "2026-10-11",
- "generated_at": "2026-10-11T21:31:00.279905+00:00",
+ "generated_at": "2026-10-11T21:45:56.085280+00:00",
  "assets": [
   {
    "symbol": "LUMIA",
@@ -51,28 +51,20 @@
    "file": "CKB.png"
   },
   {
+   "symbol": "\u5e01\u5b89\u4eba\u751f",
+   "name": "\u5e01\u5b89\u4eba\u751f (BinanceLife)",
+   "sigma": 3.08,
+   "from_btc_pct": 9,
+   "verdict": "Strong Uptrend",
+   "file": "\u5e01\u5b89\u4eba\u751f.png"
+  },
+  {
    "symbol": "MANTA",
    "name": "Manta Network",
    "sigma": 2.99,
    "from_btc_pct": 25,
    "verdict": "Overbought",
    "file": "MANTA.png"
-  },
-  {
-   "symbol": "\u5e01\u5b89\u4eba\u751f",
-   "name": "\u5e01\u5b89\u4eba\u751f (BinanceLife)",
-   "sigma": 2.79,
-   "from_btc_pct": 11,
-   "verdict": "Strong Uptrend",
-   "file": "\u5e01\u5b89\u4eba\u751f.png"
-  },
-  {
-   "symbol": "FIL",
-   "name": "Filecoin",
-   "sigma": 2.75,
-   "from_btc_pct": 16,
-   "verdict": "Strong Uptrend",
-   "file": "FIL.png"
   },
   {
    "symbol": "PLUME",
@@ -89,6 +81,14 @@
    "from_btc_pct": 14,
    "verdict": "Overbought",
    "file": "CFX.png"
+  },
+  {
+   "symbol": "FIL",
+   "name": "Filecoin",
+   "sigma": 2.56,
+   "from_btc_pct": 16,
+   "verdict": "Strong Uptrend",
+   "file": "FIL.png"
   },
   {
    "symbol": "ICP",
