@@ -547,6 +547,10 @@
   "icon": "https://coin-images.coingecko.com/coins/images/54912/large/four.jpg?1742461445",
   "name": "Four"
  },
+ "FRAX": {
+  "icon": "https://coin-images.coingecko.com/coins/images/13422/large/LFRAX.png",
+  "name": "Legacy Frax Dollar"
+ },
  "FTT": {
   "icon": "https://coin-images.coingecko.com/coins/images/9026/large/F.png",
   "name": "FTX"
