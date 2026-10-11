@@ -1,6 +1,6 @@
 {
  "date": "2026-10-11",
- "generated_at": "2026-10-11T19:00:56.752749+00:00",
+ "generated_at": "2026-10-11T19:15:50.991023+00:00",
  "assets": [
   {
    "symbol": "LUMIA",
@@ -17,14 +17,6 @@
    "from_btc_pct": 12,
    "verdict": "Overbought",
    "file": "W.png"
-  },
-  {
-   "symbol": "BAT",
-   "name": "Basic Attention",
-   "sigma": 3.89,
-   "from_btc_pct": 13,
-   "verdict": "Overbought",
-   "file": "BAT.png"
   },
   {
    "symbol": "SENT",
@@ -89,6 +81,14 @@
    "from_btc_pct": 22,
    "verdict": "Strong Uptrend",
    "file": "PLUME.png"
+  },
+  {
+   "symbol": "BAT",
+   "name": "Basic Attention",
+   "sigma": 2.63,
+   "from_btc_pct": 13,
+   "verdict": "Overbought",
+   "file": "BAT.png"
   },
   {
    "symbol": "S",
