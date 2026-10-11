@@ -1,6 +1,6 @@
 {
  "date": "2026-10-11",
- "generated_at": "2026-10-11T19:15:50.991023+00:00",
+ "generated_at": "2026-10-11T20:01:01.282725+00:00",
  "assets": [
   {
    "symbol": "LUMIA",
@@ -43,14 +43,6 @@
    "file": "MAGIC.png"
   },
   {
-   "symbol": "CFX",
-   "name": "Conflux",
-   "sigma": 3.19,
-   "from_btc_pct": 12,
-   "verdict": "Overbought",
-   "file": "CFX.png"
-  },
-  {
    "symbol": "CKB",
    "name": "Nervos Network",
    "sigma": 3.12,
@@ -81,6 +73,14 @@
    "from_btc_pct": 22,
    "verdict": "Strong Uptrend",
    "file": "PLUME.png"
+  },
+  {
+   "symbol": "CFX",
+   "name": "Conflux",
+   "sigma": 2.65,
+   "from_btc_pct": 14,
+   "verdict": "Overbought",
+   "file": "CFX.png"
   },
   {
    "symbol": "BAT",
