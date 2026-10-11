@@ -1,6 +1,6 @@
 {
  "date": "2026-10-11",
- "generated_at": "2026-10-11T23:08:33.954861+00:00",
+ "generated_at": "2026-10-11T23:15:53.342204+00:00",
  "assets": [
   {
    "symbol": "LUMIA",
@@ -51,14 +51,6 @@
    "file": "CKB.png"
   },
   {
-   "symbol": "\u5e01\u5b89\u4eba\u751f",
-   "name": "\u5e01\u5b89\u4eba\u751f (BinanceLife)",
-   "sigma": 3.08,
-   "from_btc_pct": 9,
-   "verdict": "Strong Uptrend",
-   "file": "\u5e01\u5b89\u4eba\u751f.png"
-  },
-  {
    "symbol": "MANTA",
    "name": "Manta Network",
    "sigma": 2.99,
@@ -83,20 +75,28 @@
    "file": "CFX.png"
   },
   {
-   "symbol": "BAT",
-   "name": "Basic Attention",
-   "sigma": 2.61,
-   "from_btc_pct": 13,
-   "verdict": "Overbought",
-   "file": "BAT.png"
-  },
-  {
    "symbol": "FIL",
    "name": "Filecoin",
    "sigma": 2.56,
    "from_btc_pct": 16,
    "verdict": "Strong Uptrend",
    "file": "FIL.png"
+  },
+  {
+   "symbol": "BAT",
+   "name": "Basic Attention",
+   "sigma": 2.55,
+   "from_btc_pct": 13,
+   "verdict": "Overbought",
+   "file": "BAT.png"
+  },
+  {
+   "symbol": "\u5e01\u5b89\u4eba\u751f",
+   "name": "\u5e01\u5b89\u4eba\u751f (BinanceLife)",
+   "sigma": 2.55,
+   "from_btc_pct": 11,
+   "verdict": "Strong Uptrend",
+   "file": "\u5e01\u5b89\u4eba\u751f.png"
   }
  ]
 }
