@@ -835,6 +835,10 @@
   "icon": "https://coin-images.coingecko.com/coins/images/878/large/decentraland-mana.png?1696502010",
   "name": "Decentraland"
  },
+ "MANTA": {
+  "icon": "https://coin-images.coingecko.com/coins/images/34289/large/manta.jpg",
+  "name": "Manta Network"
+ },
  "MANTRA": {
   "icon": "https://coin-images.coingecko.com/coins/images/102172151/large/OM_Token_Primary-1K.png?1771922964",
   "name": "MANTRA"

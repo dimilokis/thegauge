@@ -1,6 +1,6 @@
 {
  "date": "2026-10-11",
- "generated_at": "2026-10-11T08:30:54.349080+00:00",
+ "generated_at": "2026-10-11T08:45:54.895594+00:00",
  "assets": [
   {
    "symbol": "LUMIA",
@@ -9,6 +9,14 @@
    "from_btc_pct": 6,
    "verdict": "Overbought",
    "file": "LUMIA.png"
+  },
+  {
+   "symbol": "MANTA",
+   "name": "Manta Network",
+   "sigma": 6.97,
+   "from_btc_pct": 19,
+   "verdict": "Overbought",
+   "file": "MANTA.png"
   },
   {
    "symbol": "CFX",
