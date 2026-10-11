@@ -1,6 +1,6 @@
 {
  "date": "2026-10-11",
- "generated_at": "2026-10-11T16:30:56.250430+00:00",
+ "generated_at": "2026-10-11T17:00:57.661085+00:00",
  "assets": [
   {
    "symbol": "LUMIA",
@@ -81,6 +81,14 @@
    "from_btc_pct": 10,
    "verdict": "Overbought",
    "file": "S.png"
+  },
+  {
+   "symbol": "ALGO",
+   "name": "Algorand",
+   "sigma": 2.57,
+   "from_btc_pct": 14,
+   "verdict": "Strong Uptrend",
+   "file": "ALGO.png"
   },
   {
    "symbol": "ROSE",
