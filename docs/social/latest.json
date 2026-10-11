@@ -1,6 +1,6 @@
 {
  "date": "2026-10-11",
- "generated_at": "2026-10-11T04:15:51.482264+00:00",
+ "generated_at": "2026-10-11T07:01:01.684662+00:00",
  "assets": [
   {
    "symbol": "LUMIA",
@@ -9,6 +9,14 @@
    "from_btc_pct": 6,
    "verdict": "Overbought",
    "file": "LUMIA.png"
+  },
+  {
+   "symbol": "CFX",
+   "name": "Conflux",
+   "sigma": 3.59,
+   "from_btc_pct": 12,
+   "verdict": "Overbought",
+   "file": "CFX.png"
   }
  ]
 }
