@@ -1,6 +1,6 @@
 {
  "date": "2026-10-11",
- "generated_at": "2026-10-11T21:45:56.085280+00:00",
+ "generated_at": "2026-10-11T22:15:54.053708+00:00",
  "assets": [
   {
    "symbol": "LUMIA",
@@ -83,20 +83,20 @@
    "file": "CFX.png"
   },
   {
+   "symbol": "BAT",
+   "name": "Basic Attention",
+   "sigma": 2.61,
+   "from_btc_pct": 13,
+   "verdict": "Overbought",
+   "file": "BAT.png"
+  },
+  {
    "symbol": "FIL",
    "name": "Filecoin",
    "sigma": 2.56,
    "from_btc_pct": 16,
    "verdict": "Strong Uptrend",
    "file": "FIL.png"
-  },
-  {
-   "symbol": "ICP",
-   "name": "Internet Computer",
-   "sigma": 2.54,
-   "from_btc_pct": 29,
-   "verdict": "Strong Uptrend",
-   "file": "ICP.png"
   }
  ]
 }
