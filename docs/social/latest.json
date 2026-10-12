@@ -1,6 +1,6 @@
 {
  "date": "2026-10-12",
- "generated_at": "2026-10-12T07:31:01.056129+00:00",
+ "generated_at": "2026-10-12T08:00:57.492941+00:00",
  "assets": [
   {
    "symbol": "RSR",
@@ -13,7 +13,7 @@
   {
    "symbol": "CYBER",
    "name": "CYBER",
-   "sigma": 3.02,
+   "sigma": 2.9,
    "from_btc_pct": 20,
    "verdict": "Overbought",
    "file": "CYBER.png"
