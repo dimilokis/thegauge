@@ -1,6 +1,6 @@
 {
  "date": "2026-10-11",
- "generated_at": "2026-10-11T23:15:53.342204+00:00",
+ "generated_at": "2026-10-12T02:45:53.704013+00:00",
  "assets": [
   {
    "symbol": "LUMIA",
@@ -13,8 +13,8 @@
   {
    "symbol": "W",
    "name": "Wormhole",
-   "sigma": 4.62,
-   "from_btc_pct": 12,
+   "sigma": 6.42,
+   "from_btc_pct": 8,
    "verdict": "Overbought",
    "file": "W.png"
   },
