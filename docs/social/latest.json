@@ -1,6 +1,6 @@
 {
  "date": "2026-10-12",
- "generated_at": "2026-10-12T10:45:53.770002+00:00",
+ "generated_at": "2026-10-12T12:15:56.598828+00:00",
  "assets": [
   {
    "symbol": "RSR",
@@ -43,20 +43,20 @@
    "file": "RED.png"
   },
   {
+   "symbol": "CYBER",
+   "name": "CYBER",
+   "sigma": 3.02,
+   "from_btc_pct": 18,
+   "verdict": "Overbought",
+   "file": "CYBER.png"
+  },
+  {
    "symbol": "CKB",
    "name": "Nervos Network",
    "sigma": 2.96,
    "from_btc_pct": 15,
    "verdict": "Overbought",
    "file": "CKB.png"
-  },
-  {
-   "symbol": "CYBER",
-   "name": "CYBER",
-   "sigma": 2.9,
-   "from_btc_pct": 20,
-   "verdict": "Overbought",
-   "file": "CYBER.png"
   },
   {
    "symbol": "ZRO",
