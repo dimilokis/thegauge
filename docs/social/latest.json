@@ -1,6 +1,6 @@
 {
  "date": "2026-10-12",
- "generated_at": "2026-10-12T17:15:57.096923+00:00",
+ "generated_at": "2026-10-12T18:00:55.411604+00:00",
  "assets": [
   {
    "symbol": "RSR",
@@ -51,6 +51,14 @@
    "file": "RED.png"
   },
   {
+   "symbol": "SKL",
+   "name": "SKALE",
+   "sigma": 3.02,
+   "from_btc_pct": 4,
+   "verdict": "Overbought",
+   "file": "SKL.png"
+  },
+  {
    "symbol": "CKB",
    "name": "Nervos Network",
    "sigma": 2.9,
@@ -89,14 +97,6 @@
    "from_btc_pct": 0,
    "verdict": "Strong Uptrend",
    "file": "ZRO.png"
-  },
-  {
-   "symbol": "PYTH",
-   "name": "Pyth Network",
-   "sigma": 2.51,
-   "from_btc_pct": 3,
-   "verdict": "Strong Uptrend",
-   "file": "PYTH.png"
   }
  ]
 }
