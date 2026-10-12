@@ -1,6 +1,6 @@
 {
  "date": "2026-10-12",
- "generated_at": "2026-10-12T21:01:00.518144+00:00",
+ "generated_at": "2026-10-12T21:15:49.183069+00:00",
  "assets": [
   {
    "symbol": "RSR",
@@ -35,20 +35,20 @@
    "file": "OSMO.png"
   },
   {
+   "symbol": "SKL",
+   "name": "SKALE",
+   "sigma": 3.29,
+   "from_btc_pct": 4,
+   "verdict": "Overbought",
+   "file": "SKL.png"
+  },
+  {
    "symbol": "RED",
    "name": "RedStone",
    "sigma": 3.2,
    "from_btc_pct": 18,
    "verdict": "Overbought",
    "file": "RED.png"
-  },
-  {
-   "symbol": "SKL",
-   "name": "SKALE",
-   "sigma": 3.02,
-   "from_btc_pct": 4,
-   "verdict": "Overbought",
-   "file": "SKL.png"
   },
   {
    "symbol": "CKB",
