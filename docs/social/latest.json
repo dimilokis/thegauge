@@ -1,6 +1,6 @@
 {
  "date": "2026-10-12",
- "generated_at": "2026-10-12T13:01:01.345006+00:00",
+ "generated_at": "2026-10-12T13:31:01.219027+00:00",
  "assets": [
   {
    "symbol": "RSR",
@@ -67,20 +67,20 @@
    "file": "CKB.png"
   },
   {
-   "symbol": "ZRO",
-   "name": "LayerZero",
-   "sigma": 2.83,
-   "from_btc_pct": 0,
-   "verdict": "Strong Uptrend",
-   "file": "ZRO.png"
-  },
-  {
    "symbol": "RVN",
    "name": "Ravencoin",
    "sigma": 2.64,
    "from_btc_pct": 5,
    "verdict": "Oversold",
    "file": "RVN.png"
+  },
+  {
+   "symbol": "ZRO",
+   "name": "LayerZero",
+   "sigma": 2.64,
+   "from_btc_pct": 0,
+   "verdict": "Strong Uptrend",
+   "file": "ZRO.png"
   },
   {
    "symbol": "BOME",
