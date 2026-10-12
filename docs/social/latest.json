@@ -1,6 +1,6 @@
 {
  "date": "2026-10-12",
- "generated_at": "2026-10-12T15:45:53.471732+00:00",
+ "generated_at": "2026-10-12T16:01:04.792705+00:00",
  "assets": [
   {
    "symbol": "RSR",
@@ -59,20 +59,20 @@
    "file": "CKB.png"
   },
   {
+   "symbol": "CYBER",
+   "name": "CYBER",
+   "sigma": 2.79,
+   "from_btc_pct": 17,
+   "verdict": "Overbought",
+   "file": "CYBER.png"
+  },
+  {
    "symbol": "W",
    "name": "Wormhole",
    "sigma": 2.73,
    "from_btc_pct": 8,
    "verdict": "Overbought",
    "file": "W.png"
-  },
-  {
-   "symbol": "CYBER",
-   "name": "CYBER",
-   "sigma": 2.68,
-   "from_btc_pct": 17,
-   "verdict": "Overbought",
-   "file": "CYBER.png"
   },
   {
    "symbol": "RVN",
