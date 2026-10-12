@@ -1,6 +1,6 @@
 {
  "date": "2026-10-12",
- "generated_at": "2026-10-12T14:45:54.683063+00:00",
+ "generated_at": "2026-10-12T15:45:53.471732+00:00",
  "assets": [
   {
    "symbol": "RSR",
@@ -41,6 +41,14 @@
    "from_btc_pct": 18,
    "verdict": "Overbought",
    "file": "RED.png"
+  },
+  {
+   "symbol": "PYTH",
+   "name": "Pyth Network",
+   "sigma": 3.18,
+   "from_btc_pct": 3,
+   "verdict": "Strong Uptrend",
+   "file": "PYTH.png"
   },
   {
    "symbol": "CKB",
@@ -89,14 +97,6 @@
    "from_btc_pct": 16,
    "verdict": "Neutral",
    "file": "BOME.png"
-  },
-  {
-   "symbol": "CFX",
-   "name": "Conflux",
-   "sigma": 2.6,
-   "from_btc_pct": 15,
-   "verdict": "Overbought",
-   "file": "CFX.png"
   }
  ]
 }
