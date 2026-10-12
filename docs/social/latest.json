@@ -1,6 +1,6 @@
 {
  "date": "2026-10-12",
- "generated_at": "2026-10-12T16:45:50.280990+00:00",
+ "generated_at": "2026-10-12T17:01:02.672300+00:00",
  "assets": [
   {
    "symbol": "RSR",
@@ -33,6 +33,14 @@
    "from_btc_pct": 13,
    "verdict": "Overbought",
    "file": "SXT.png"
+  },
+  {
+   "symbol": "OSMO",
+   "name": "Osmosis",
+   "sigma": 3.9,
+   "from_btc_pct": 5,
+   "verdict": "Overbought",
+   "file": "OSMO.png"
   },
   {
    "symbol": "RED",
@@ -89,14 +97,6 @@
    "from_btc_pct": 0,
    "verdict": "Strong Uptrend",
    "file": "ZRO.png"
-  },
-  {
-   "symbol": "BOME",
-   "name": "BOOK OF MEME",
-   "sigma": 2.62,
-   "from_btc_pct": 16,
-   "verdict": "Neutral",
-   "file": "BOME.png"
   }
  ]
 }
