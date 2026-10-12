@@ -1,6 +1,6 @@
 {
  "date": "2026-10-12",
- "generated_at": "2026-10-12T12:45:57.325188+00:00",
+ "generated_at": "2026-10-12T13:01:01.345006+00:00",
  "assets": [
   {
    "symbol": "RSR",
@@ -25,6 +25,14 @@
    "from_btc_pct": 17,
    "verdict": "Neutral",
    "file": "CTK.png"
+  },
+  {
+   "symbol": "SXT",
+   "name": "Space and Time",
+   "sigma": 3.97,
+   "from_btc_pct": 13,
+   "verdict": "Overbought",
+   "file": "SXT.png"
   },
   {
    "symbol": "PYTH",
