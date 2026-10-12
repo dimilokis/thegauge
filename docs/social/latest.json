@@ -1,6 +1,6 @@
 {
  "date": "2026-10-12",
- "generated_at": "2026-10-12T06:30:53.835369+00:00",
+ "generated_at": "2026-10-12T07:31:01.056129+00:00",
  "assets": [
   {
    "symbol": "RSR",
@@ -17,6 +17,14 @@
    "from_btc_pct": 20,
    "verdict": "Overbought",
    "file": "CYBER.png"
+  },
+  {
+   "symbol": "ZRO",
+   "name": "LayerZero",
+   "sigma": 2.7,
+   "from_btc_pct": 0,
+   "verdict": "Strong Uptrend",
+   "file": "ZRO.png"
   },
   {
    "symbol": "RVN",
