@@ -1,6 +1,6 @@
 {
  "date": "2026-10-12",
- "generated_at": "2026-10-12T10:15:51.584602+00:00",
+ "generated_at": "2026-10-12T10:45:53.770002+00:00",
  "assets": [
   {
    "symbol": "RSR",
@@ -25,6 +25,14 @@
    "from_btc_pct": 17,
    "verdict": "Neutral",
    "file": "CTK.png"
+  },
+  {
+   "symbol": "PYTH",
+   "name": "Pyth Network",
+   "sigma": 3.43,
+   "from_btc_pct": 4,
+   "verdict": "Strong Uptrend",
+   "file": "PYTH.png"
   },
   {
    "symbol": "RED",
@@ -53,7 +61,7 @@
   {
    "symbol": "ZRO",
    "name": "LayerZero",
-   "sigma": 2.7,
+   "sigma": 2.83,
    "from_btc_pct": 0,
    "verdict": "Strong Uptrend",
    "file": "ZRO.png"
