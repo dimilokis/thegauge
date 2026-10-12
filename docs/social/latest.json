@@ -1,6 +1,6 @@
 {
  "date": "2026-10-12",
- "generated_at": "2026-10-12T18:00:55.411604+00:00",
+ "generated_at": "2026-10-12T18:15:50.951929+00:00",
  "assets": [
   {
    "symbol": "RSR",
@@ -83,20 +83,20 @@
    "file": "W.png"
   },
   {
+   "symbol": "LUMIA",
+   "name": "Lumia",
+   "sigma": 2.67,
+   "from_btc_pct": 21,
+   "verdict": "Overbought",
+   "file": "LUMIA.png"
+  },
+  {
    "symbol": "RVN",
    "name": "Ravencoin",
    "sigma": 2.64,
    "from_btc_pct": 5,
    "verdict": "Oversold",
    "file": "RVN.png"
-  },
-  {
-   "symbol": "ZRO",
-   "name": "LayerZero",
-   "sigma": 2.64,
-   "from_btc_pct": 0,
-   "verdict": "Strong Uptrend",
-   "file": "ZRO.png"
   }
  ]
 }
