@@ -1,6 +1,6 @@
 {
  "date": "2026-10-12",
- "generated_at": "2026-10-12T23:00:56.276853+00:00",
+ "generated_at": "2026-10-12T23:15:52.948607+00:00",
  "assets": [
   {
    "symbol": "RSR",
@@ -9,6 +9,14 @@
    "from_btc_pct": 3,
    "verdict": "Overbought",
    "file": "RSR.png"
+  },
+  {
+   "symbol": "BLUR",
+   "name": "Blur",
+   "sigma": 9.46,
+   "from_btc_pct": 30,
+   "verdict": "Oversold",
+   "file": "BLUR.png"
   },
   {
    "symbol": "GTC",
@@ -67,6 +75,14 @@
    "file": "CKB.png"
   },
   {
+   "symbol": "\u5e01\u5b89\u4eba\u751f",
+   "name": "\u5e01\u5b89\u4eba\u751f (BinanceLife)",
+   "sigma": 2.88,
+   "from_btc_pct": 16,
+   "verdict": "Neutral",
+   "file": "\u5e01\u5b89\u4eba\u751f.png"
+  },
+  {
    "symbol": "CTK",
    "name": "Shentu",
    "sigma": 2.85,
@@ -81,22 +97,6 @@
    "from_btc_pct": 18,
    "verdict": "Overbought",
    "file": "CYBER.png"
-  },
-  {
-   "symbol": "LUMIA",
-   "name": "Lumia",
-   "sigma": 2.7,
-   "from_btc_pct": 20,
-   "verdict": "Overbought",
-   "file": "LUMIA.png"
-  },
-  {
-   "symbol": "W",
-   "name": "Wormhole",
-   "sigma": 2.57,
-   "from_btc_pct": 13,
-   "verdict": "Overbought",
-   "file": "W.png"
   }
  ]
 }
