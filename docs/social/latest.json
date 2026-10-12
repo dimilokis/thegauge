@@ -1,6 +1,6 @@
 {
  "date": "2026-10-12",
- "generated_at": "2026-10-12T13:31:01.219027+00:00",
+ "generated_at": "2026-10-12T13:45:57.359748+00:00",
  "assets": [
   {
    "symbol": "RSR",
@@ -51,20 +51,28 @@
    "file": "RED.png"
   },
   {
-   "symbol": "CYBER",
-   "name": "CYBER",
-   "sigma": 3.02,
-   "from_btc_pct": 18,
-   "verdict": "Overbought",
-   "file": "CYBER.png"
-  },
-  {
    "symbol": "CKB",
    "name": "Nervos Network",
    "sigma": 2.9,
    "from_btc_pct": 17,
    "verdict": "Overbought",
    "file": "CKB.png"
+  },
+  {
+   "symbol": "W",
+   "name": "Wormhole",
+   "sigma": 2.73,
+   "from_btc_pct": 8,
+   "verdict": "Overbought",
+   "file": "W.png"
+  },
+  {
+   "symbol": "CYBER",
+   "name": "CYBER",
+   "sigma": 2.68,
+   "from_btc_pct": 17,
+   "verdict": "Overbought",
+   "file": "CYBER.png"
   },
   {
    "symbol": "RVN",
