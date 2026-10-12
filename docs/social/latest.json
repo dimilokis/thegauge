@@ -1,6 +1,6 @@
 {
  "date": "2026-10-12",
- "generated_at": "2026-10-12T08:30:59.003847+00:00",
+ "generated_at": "2026-10-12T09:15:50.860278+00:00",
  "assets": [
   {
    "symbol": "RSR",
@@ -9,6 +9,14 @@
    "from_btc_pct": 3,
    "verdict": "Overbought",
    "file": "RSR.png"
+  },
+  {
+   "symbol": "CTK",
+   "name": "Shentu",
+   "sigma": 5.88,
+   "from_btc_pct": 17,
+   "verdict": "Neutral",
+   "file": "CTK.png"
   },
   {
    "symbol": "CYBER",
