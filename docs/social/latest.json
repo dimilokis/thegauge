@@ -1,102 +1,14 @@
 {
- "date": "2026-10-11",
- "generated_at": "2026-10-12T02:45:53.704013+00:00",
+ "date": "2026-10-12",
+ "generated_at": "2026-10-12T05:00:59.490530+00:00",
  "assets": [
   {
-   "symbol": "LUMIA",
-   "name": "Lumia",
-   "sigma": 8.97,
-   "from_btc_pct": 6,
-   "verdict": "Overbought",
-   "file": "LUMIA.png"
-  },
-  {
-   "symbol": "W",
-   "name": "Wormhole",
-   "sigma": 6.42,
-   "from_btc_pct": 8,
-   "verdict": "Overbought",
-   "file": "W.png"
-  },
-  {
-   "symbol": "SENT",
-   "name": "Sentient",
-   "sigma": 3.39,
-   "from_btc_pct": 13,
-   "verdict": "Overbought",
-   "file": "SENT.png"
-  },
-  {
-   "symbol": "DYM",
-   "name": "Dymension",
-   "sigma": 3.37,
-   "from_btc_pct": 15,
-   "verdict": "Overbought",
-   "file": "DYM.png"
-  },
-  {
-   "symbol": "MAGIC",
-   "name": "Treasure",
-   "sigma": 3.32,
+   "symbol": "RSR",
+   "name": "Reserve Rights",
+   "sigma": 24.76,
    "from_btc_pct": 3,
    "verdict": "Overbought",
-   "file": "MAGIC.png"
-  },
-  {
-   "symbol": "CKB",
-   "name": "Nervos Network",
-   "sigma": 3.12,
-   "from_btc_pct": 28,
-   "verdict": "Overbought",
-   "file": "CKB.png"
-  },
-  {
-   "symbol": "MANTA",
-   "name": "Manta Network",
-   "sigma": 2.99,
-   "from_btc_pct": 25,
-   "verdict": "Overbought",
-   "file": "MANTA.png"
-  },
-  {
-   "symbol": "PLUME",
-   "name": "Plume",
-   "sigma": 2.69,
-   "from_btc_pct": 22,
-   "verdict": "Strong Uptrend",
-   "file": "PLUME.png"
-  },
-  {
-   "symbol": "CFX",
-   "name": "Conflux",
-   "sigma": 2.65,
-   "from_btc_pct": 14,
-   "verdict": "Overbought",
-   "file": "CFX.png"
-  },
-  {
-   "symbol": "FIL",
-   "name": "Filecoin",
-   "sigma": 2.56,
-   "from_btc_pct": 16,
-   "verdict": "Strong Uptrend",
-   "file": "FIL.png"
-  },
-  {
-   "symbol": "BAT",
-   "name": "Basic Attention",
-   "sigma": 2.55,
-   "from_btc_pct": 13,
-   "verdict": "Overbought",
-   "file": "BAT.png"
-  },
-  {
-   "symbol": "\u5e01\u5b89\u4eba\u751f",
-   "name": "\u5e01\u5b89\u4eba\u751f (BinanceLife)",
-   "sigma": 2.55,
-   "from_btc_pct": 11,
-   "verdict": "Strong Uptrend",
-   "file": "\u5e01\u5b89\u4eba\u751f.png"
+   "file": "RSR.png"
   }
  ]
 }

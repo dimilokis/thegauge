@@ -1175,6 +1175,10 @@
   "icon": "https://coin-images.coingecko.com/coins/images/13162/large/200x200_%28Rounded%29.png?1743579893",
   "name": "Oasis"
  },
+ "RSR": {
+  "icon": "https://coin-images.coingecko.com/coins/images/8365/large/RSR_Blue_Circle_1000.png",
+  "name": "Reserve Rights"
+ },
  "RUNE": {
   "icon": "https://coin-images.coingecko.com/coins/images/6595/large/THORChain_RUNE_Token.png?1782452363",
   "name": "THORChain"
