@@ -1,6 +1,6 @@
 {
  "date": "2026-10-12",
- "generated_at": "2026-10-12T21:15:49.183069+00:00",
+ "generated_at": "2026-10-12T21:45:54.990385+00:00",
  "assets": [
   {
    "symbol": "RSR",
@@ -33,6 +33,14 @@
    "from_btc_pct": 5,
    "verdict": "Overbought",
    "file": "OSMO.png"
+  },
+  {
+   "symbol": "RVN",
+   "name": "Ravencoin",
+   "sigma": 3.39,
+   "from_btc_pct": 9,
+   "verdict": "Oversold",
+   "file": "RVN.png"
   },
   {
    "symbol": "SKL",
@@ -85,18 +93,10 @@
   {
    "symbol": "LUMIA",
    "name": "Lumia",
-   "sigma": 2.67,
-   "from_btc_pct": 21,
+   "sigma": 2.7,
+   "from_btc_pct": 20,
    "verdict": "Overbought",
    "file": "LUMIA.png"
-  },
-  {
-   "symbol": "RVN",
-   "name": "Ravencoin",
-   "sigma": 2.64,
-   "from_btc_pct": 5,
-   "verdict": "Oversold",
-   "file": "RVN.png"
   }
  ]
 }
