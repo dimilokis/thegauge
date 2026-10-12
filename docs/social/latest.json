@@ -1,6 +1,6 @@
 {
  "date": "2026-10-12",
- "generated_at": "2026-10-12T21:45:54.990385+00:00",
+ "generated_at": "2026-10-12T22:45:51.251239+00:00",
  "assets": [
   {
    "symbol": "RSR",
@@ -83,20 +83,20 @@
    "file": "CYBER.png"
   },
   {
-   "symbol": "W",
-   "name": "Wormhole",
-   "sigma": 2.73,
-   "from_btc_pct": 8,
-   "verdict": "Overbought",
-   "file": "W.png"
-  },
-  {
    "symbol": "LUMIA",
    "name": "Lumia",
    "sigma": 2.7,
    "from_btc_pct": 20,
    "verdict": "Overbought",
    "file": "LUMIA.png"
+  },
+  {
+   "symbol": "W",
+   "name": "Wormhole",
+   "sigma": 2.57,
+   "from_btc_pct": 13,
+   "verdict": "Overbought",
+   "file": "W.png"
   }
  ]
 }
