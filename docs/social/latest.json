@@ -1,6 +1,6 @@
 {
  "date": "2026-10-12",
- "generated_at": "2026-10-12T23:30:55.545329+00:00",
+ "generated_at": "2026-10-12T23:45:53.846584+00:00",
  "assets": [
   {
    "symbol": "RSR",
@@ -91,12 +91,12 @@
    "file": "CYBER.png"
   },
   {
-   "symbol": "SKL",
-   "name": "SKALE",
-   "sigma": 2.54,
-   "from_btc_pct": 4,
-   "verdict": "Overbought",
-   "file": "SKL.png"
+   "symbol": "SEI",
+   "name": "Sei",
+   "sigma": 2.68,
+   "from_btc_pct": 27,
+   "verdict": "Neutral",
+   "file": "SEI.png"
   }
  ]
 }
