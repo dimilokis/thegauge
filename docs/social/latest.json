@@ -1,6 +1,6 @@
 {
  "date": "2026-10-12",
- "generated_at": "2026-10-12T17:01:02.672300+00:00",
+ "generated_at": "2026-10-12T17:15:57.096923+00:00",
  "assets": [
   {
    "symbol": "RSR",
@@ -51,14 +51,6 @@
    "file": "RED.png"
   },
   {
-   "symbol": "PYTH",
-   "name": "Pyth Network",
-   "sigma": 3.18,
-   "from_btc_pct": 3,
-   "verdict": "Strong Uptrend",
-   "file": "PYTH.png"
-  },
-  {
    "symbol": "CKB",
    "name": "Nervos Network",
    "sigma": 2.9,
@@ -97,6 +89,14 @@
    "from_btc_pct": 0,
    "verdict": "Strong Uptrend",
    "file": "ZRO.png"
+  },
+  {
+   "symbol": "PYTH",
+   "name": "Pyth Network",
+   "sigma": 2.51,
+   "from_btc_pct": 3,
+   "verdict": "Strong Uptrend",
+   "file": "PYTH.png"
   }
  ]
 }
