@@ -1,6 +1,6 @@
 {
  "date": "2026-10-12",
- "generated_at": "2026-10-12T23:45:53.846584+00:00",
+ "generated_at": "2026-10-13T01:15:48.976925+00:00",
  "assets": [
   {
    "symbol": "RSR",
@@ -75,20 +75,20 @@
    "file": "\u5e01\u5b89\u4eba\u751f.png"
   },
   {
-   "symbol": "CTK",
-   "name": "Shentu",
-   "sigma": 2.85,
-   "from_btc_pct": 14,
-   "verdict": "Overbought",
-   "file": "CTK.png"
-  },
-  {
    "symbol": "CYBER",
    "name": "CYBER",
    "sigma": 2.79,
    "from_btc_pct": 18,
    "verdict": "Overbought",
    "file": "CYBER.png"
+  },
+  {
+   "symbol": "CTK",
+   "name": "Shentu",
+   "sigma": 2.72,
+   "from_btc_pct": 22,
+   "verdict": "Overbought",
+   "file": "CTK.png"
   },
   {
    "symbol": "SEI",
