@@ -1,6 +1,6 @@
 {
  "date": "2026-10-13",
- "generated_at": "2026-10-13T11:30:52.338725+00:00",
+ "generated_at": "2026-10-13T12:00:57.701733+00:00",
  "assets": [
   {
    "symbol": "TIA",
@@ -29,7 +29,7 @@
   {
    "symbol": "BAT",
    "name": "Basic Attention",
-   "sigma": 2.59,
+   "sigma": 2.62,
    "from_btc_pct": 18,
    "verdict": "Overbought",
    "file": "BAT.png"
