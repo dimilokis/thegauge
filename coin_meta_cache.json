@@ -1399,6 +1399,10 @@
   "icon": "https://coin-images.coingecko.com/coins/images/55230/large/Towns_token_2x.png?1754512858",
   "name": "Towns"
  },
+ "TQQQB": {
+  "icon": "https://coin-images.coingecko.com/coins/images/102174767/large/proshares.png",
+  "name": "ProShares UltraPro QQQ (bStocks Tokenized Stock)"
+ },
  "TRB": {
   "icon": "https://coin-images.coingecko.com/coins/images/9644/large/TRB-New_Logo.png?1737722143",
   "name": "Tellor Tributes"
