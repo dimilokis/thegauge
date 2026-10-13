@@ -1,7 +1,15 @@
 {
  "date": "2026-10-13",
- "generated_at": "2026-10-13T12:31:05.890064+00:00",
+ "generated_at": "2026-10-13T13:01:01.137440+00:00",
  "assets": [
+  {
+   "symbol": "S",
+   "name": "Sonic",
+   "sigma": 3.19,
+   "from_btc_pct": 14,
+   "verdict": "Overbought",
+   "file": "S.png"
+  },
   {
    "symbol": "TIA",
    "name": "Celestia",
@@ -17,14 +25,6 @@
    "from_btc_pct": 28,
    "verdict": "Overbought",
    "file": "CTK.png"
-  },
-  {
-   "symbol": "S",
-   "name": "Sonic",
-   "sigma": 2.88,
-   "from_btc_pct": 14,
-   "verdict": "Overbought",
-   "file": "S.png"
   },
   {
    "symbol": "BLUR",
