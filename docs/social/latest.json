@@ -1,6 +1,6 @@
 {
  "date": "2026-10-13",
- "generated_at": "2026-10-13T21:32:23.930058+00:00",
+ "generated_at": "2026-10-13T22:15:53.597418+00:00",
  "assets": [
   {
    "symbol": "GNS",
@@ -83,20 +83,20 @@
    "file": "BAT.png"
   },
   {
+   "symbol": "OSMO",
+   "name": "Osmosis",
+   "sigma": 2.62,
+   "from_btc_pct": 0,
+   "verdict": "Neutral",
+   "file": "OSMO.png"
+  },
+  {
    "symbol": "W",
    "name": "Wormhole",
    "sigma": 2.61,
    "from_btc_pct": 10,
    "verdict": "Neutral",
    "file": "W.png"
-  },
-  {
-   "symbol": "CKB",
-   "name": "Nervos Network",
-   "sigma": 2.58,
-   "from_btc_pct": 24,
-   "verdict": "Overbought",
-   "file": "CKB.png"
   }
  ]
 }
