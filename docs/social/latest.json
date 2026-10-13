@@ -1,6 +1,6 @@
 {
  "date": "2026-10-13",
- "generated_at": "2026-10-13T18:01:02.052276+00:00",
+ "generated_at": "2026-10-13T18:15:49.359768+00:00",
  "assets": [
   {
    "symbol": "GNS",
@@ -49,6 +49,22 @@
    "from_btc_pct": 35,
    "verdict": "Overbought",
    "file": "ZK.png"
+  },
+  {
+   "symbol": "OP",
+   "name": "Optimism",
+   "sigma": 2.81,
+   "from_btc_pct": 35,
+   "verdict": "Strong Uptrend",
+   "file": "OP.png"
+  },
+  {
+   "symbol": "INJ",
+   "name": "Injective",
+   "sigma": 2.76,
+   "from_btc_pct": 32,
+   "verdict": "Strong Uptrend",
+   "file": "INJ.png"
   },
   {
    "symbol": "BLUR",
