@@ -1,15 +1,7 @@
 {
  "date": "2026-10-13",
- "generated_at": "2026-10-13T10:45:53.712886+00:00",
+ "generated_at": "2026-10-13T11:30:52.338725+00:00",
  "assets": [
-  {
-   "symbol": "BAT",
-   "name": "Basic Attention",
-   "sigma": 3.34,
-   "from_btc_pct": 19,
-   "verdict": "Overbought",
-   "file": "BAT.png"
-  },
   {
    "symbol": "TIA",
    "name": "Celestia",
@@ -33,6 +25,14 @@
    "from_btc_pct": 24,
    "verdict": "Oversold",
    "file": "BLUR.png"
+  },
+  {
+   "symbol": "BAT",
+   "name": "Basic Attention",
+   "sigma": 2.59,
+   "from_btc_pct": 18,
+   "verdict": "Overbought",
+   "file": "BAT.png"
   },
   {
    "symbol": "CKB",
