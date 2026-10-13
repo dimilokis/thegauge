@@ -380,7 +380,7 @@
   "name": "Curve DAO"
  },
  "CTK": {
-  "icon": "https://coin-images.coingecko.com/coins/images/12944/large/shentu_2.jpg",
+  "icon": "https://coin-images.coingecko.com/coins/images/12944/large/shentu_2.jpg?1696512733",
   "name": "Shentu"
  },
  "CTSI": {
@@ -847,6 +847,10 @@
   "icon": "https://coin-images.coingecko.com/coins/images/102172151/large/OM_Token_Primary-1K.png?1771922964",
   "name": "MANTRA"
  },
+ "MARSCOIN": {
+  "icon": "https://coin-images.coingecko.com/coins/images/102175246/large/1000299474.png?1785934648",
+  "name": "MarsCoin"
+ },
  "MASK": {
   "icon": "https://coin-images.coingecko.com/coins/images/14051/large/Mask_Network.jpg?1696513776",
   "name": "Mask Network"
@@ -1180,7 +1184,7 @@
   "name": "Oasis"
  },
  "RSR": {
-  "icon": "https://coin-images.coingecko.com/coins/images/8365/large/RSR_Blue_Circle_1000.png",
+  "icon": "https://coin-images.coingecko.com/coins/images/8365/large/RSR_Blue_Circle_1000.png?1721777856",
   "name": "Reserve Rights"
  },
  "RUNE": {
