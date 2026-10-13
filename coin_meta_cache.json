@@ -595,6 +595,10 @@
   "icon": "https://coin-images.coingecko.com/coins/images/662/large/logo_square_simple_300px.png?1696501854",
   "name": "Gnosis"
  },
+ "GNS": {
+  "icon": "https://coin-images.coingecko.com/coins/images/19737/large/logo.png",
+  "name": "Gains Network"
+ },
  "GPS": {
   "icon": "https://coin-images.coingecko.com/coins/images/53686/large/Separate_logo%EF%BC%88green%EF%BC%89.png?1737033911",
   "name": "GoPlus Security"

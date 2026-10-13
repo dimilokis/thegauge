@@ -1,7 +1,15 @@
 {
  "date": "2026-10-13",
- "generated_at": "2026-10-13T16:15:54.879344+00:00",
+ "generated_at": "2026-10-13T17:30:58.639728+00:00",
  "assets": [
+  {
+   "symbol": "GNS",
+   "name": "Gains Network",
+   "sigma": 61.03,
+   "from_btc_pct": 4,
+   "verdict": "Overbought",
+   "file": "GNS.png"
+  },
   {
    "symbol": "S",
    "name": "Sonic",
