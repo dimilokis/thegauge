@@ -1,6 +1,6 @@
 {
  "date": "2026-10-13",
- "generated_at": "2026-10-13T18:30:57.005756+00:00",
+ "generated_at": "2026-10-13T20:30:59.232174+00:00",
  "assets": [
   {
    "symbol": "GNS",
@@ -27,6 +27,14 @@
    "file": "TIA.png"
   },
   {
+   "symbol": "ZK",
+   "name": "ZKsync",
+   "sigma": 3.06,
+   "from_btc_pct": 34,
+   "verdict": "Overbought",
+   "file": "ZK.png"
+  },
+  {
    "symbol": "AMP",
    "name": "Amp",
    "sigma": 3.05,
@@ -41,14 +49,6 @@
    "from_btc_pct": 28,
    "verdict": "Overbought",
    "file": "CTK.png"
-  },
-  {
-   "symbol": "ZK",
-   "name": "ZKsync",
-   "sigma": 2.86,
-   "from_btc_pct": 35,
-   "verdict": "Overbought",
-   "file": "ZK.png"
   },
   {
    "symbol": "OP",
