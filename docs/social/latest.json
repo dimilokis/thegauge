@@ -1,6 +1,6 @@
 {
  "date": "2026-10-13",
- "generated_at": "2026-10-13T06:00:58.189385+00:00",
+ "generated_at": "2026-10-13T06:30:53.699786+00:00",
  "assets": [
   {
    "symbol": "BAT",
@@ -13,8 +13,8 @@
   {
    "symbol": "TIA",
    "name": "Celestia",
-   "sigma": 2.7,
-   "from_btc_pct": 17,
+   "sigma": 3.15,
+   "from_btc_pct": 18,
    "verdict": "Strong Uptrend",
    "file": "TIA.png"
   }
