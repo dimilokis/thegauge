@@ -1,6 +1,6 @@
 {
  "date": "2026-10-13",
- "generated_at": "2026-10-13T13:01:01.137440+00:00",
+ "generated_at": "2026-10-13T14:15:54.382571+00:00",
  "assets": [
   {
    "symbol": "S",
@@ -25,6 +25,14 @@
    "from_btc_pct": 28,
    "verdict": "Overbought",
    "file": "CTK.png"
+  },
+  {
+   "symbol": "ZK",
+   "name": "ZKsync",
+   "sigma": 2.89,
+   "from_btc_pct": 35,
+   "verdict": "Overbought",
+   "file": "ZK.png"
   },
   {
    "symbol": "BLUR",
