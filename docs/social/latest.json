@@ -1,6 +1,6 @@
 {
  "date": "2026-10-13",
- "generated_at": "2026-10-13T06:30:53.699786+00:00",
+ "generated_at": "2026-10-13T06:45:51.607426+00:00",
  "assets": [
   {
    "symbol": "BAT",
@@ -17,6 +17,14 @@
    "from_btc_pct": 18,
    "verdict": "Strong Uptrend",
    "file": "TIA.png"
+  },
+  {
+   "symbol": "CKB",
+   "name": "Nervos Network",
+   "sigma": 2.58,
+   "from_btc_pct": 24,
+   "verdict": "Overbought",
+   "file": "CKB.png"
   }
  ]
 }
