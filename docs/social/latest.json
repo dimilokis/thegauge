@@ -1,6 +1,6 @@
 {
  "date": "2026-10-13",
- "generated_at": "2026-10-13T17:30:58.639728+00:00",
+ "generated_at": "2026-10-13T17:45:50.344164+00:00",
  "assets": [
   {
    "symbol": "GNS",
@@ -25,6 +25,14 @@
    "from_btc_pct": 18,
    "verdict": "Strong Uptrend",
    "file": "TIA.png"
+  },
+  {
+   "symbol": "AMP",
+   "name": "Amp",
+   "sigma": 3.05,
+   "from_btc_pct": 1,
+   "verdict": "Overbought",
+   "file": "AMP.png"
   },
   {
    "symbol": "CTK",
