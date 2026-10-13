@@ -1,6 +1,6 @@
 {
  "date": "2026-10-13",
- "generated_at": "2026-10-13T15:15:54.607190+00:00",
+ "generated_at": "2026-10-13T16:15:54.879344+00:00",
  "assets": [
   {
    "symbol": "S",
@@ -19,20 +19,20 @@
    "file": "TIA.png"
   },
   {
-   "symbol": "ZK",
-   "name": "ZKsync",
-   "sigma": 2.97,
-   "from_btc_pct": 35,
-   "verdict": "Overbought",
-   "file": "ZK.png"
-  },
-  {
    "symbol": "CTK",
    "name": "Shentu",
    "sigma": 2.9,
    "from_btc_pct": 28,
    "verdict": "Overbought",
    "file": "CTK.png"
+  },
+  {
+   "symbol": "ZK",
+   "name": "ZKsync",
+   "sigma": 2.86,
+   "from_btc_pct": 35,
+   "verdict": "Overbought",
+   "file": "ZK.png"
   },
   {
    "symbol": "BLUR",
