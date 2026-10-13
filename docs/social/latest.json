@@ -1,6 +1,6 @@
 {
  "date": "2026-10-13",
- "generated_at": "2026-10-13T06:45:51.607426+00:00",
+ "generated_at": "2026-10-13T09:30:54.616317+00:00",
  "assets": [
   {
    "symbol": "BAT",
@@ -17,6 +17,14 @@
    "from_btc_pct": 18,
    "verdict": "Strong Uptrend",
    "file": "TIA.png"
+  },
+  {
+   "symbol": "CTK",
+   "name": "Shentu",
+   "sigma": 3.05,
+   "from_btc_pct": 28,
+   "verdict": "Overbought",
+   "file": "CTK.png"
   },
   {
    "symbol": "CKB",
