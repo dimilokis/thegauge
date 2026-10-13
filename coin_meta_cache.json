@@ -1239,6 +1239,10 @@
   "icon": "https://coin-images.coingecko.com/coins/images/70508/large/SENTIENT-Icon-BlushForce-L.png?1762267532",
   "name": "Sentient"
  },
+ "SFP": {
+  "icon": "https://coin-images.coingecko.com/coins/images/13905/large/sfp.png",
+  "name": "SafePal"
+ },
  "SHELL": {
   "icon": "https://coin-images.coingecko.com/coins/images/54374/large/myshell.jpg?1739428226",
   "name": "MyShell"
