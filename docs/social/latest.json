@@ -1,14 +1,22 @@
 {
  "date": "2026-10-13",
- "generated_at": "2026-10-13T04:15:53.866082+00:00",
+ "generated_at": "2026-10-13T05:15:52.152243+00:00",
  "assets": [
   {
    "symbol": "BAT",
    "name": "Basic Attention",
-   "sigma": 3.01,
-   "from_btc_pct": 18,
+   "sigma": 2.75,
+   "from_btc_pct": 19,
    "verdict": "Overbought",
    "file": "BAT.png"
+  },
+  {
+   "symbol": "TIA",
+   "name": "Celestia",
+   "sigma": 2.55,
+   "from_btc_pct": 17,
+   "verdict": "Strong Uptrend",
+   "file": "TIA.png"
   }
  ]
 }
