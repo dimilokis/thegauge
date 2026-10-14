@@ -1,6 +1,6 @@
 {
  "date": "2026-10-14",
- "generated_at": "2026-10-14T17:45:55.948686+00:00",
+ "generated_at": "2026-10-14T19:30:59.247297+00:00",
  "assets": [
   {
    "symbol": "WAL",
@@ -25,6 +25,14 @@
    "from_btc_pct": 26,
    "verdict": "Oversold",
    "file": "BLUR.png"
+  },
+  {
+   "symbol": "GNS",
+   "name": "Gains Network",
+   "sigma": 2.72,
+   "from_btc_pct": 6,
+   "verdict": "Neutral",
+   "file": "GNS.png"
   },
   {
    "symbol": "EPIC",
