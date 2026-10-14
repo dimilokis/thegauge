@@ -1,7 +1,15 @@
 {
  "date": "2026-10-14",
- "generated_at": "2026-10-14T11:16:06.204401+00:00",
+ "generated_at": "2026-10-14T11:30:54.519215+00:00",
  "assets": [
+  {
+   "symbol": "AXL",
+   "name": "Axelar",
+   "sigma": 6.32,
+   "from_btc_pct": 30,
+   "verdict": "Overbought",
+   "file": "AXL.png"
+  },
   {
    "symbol": "WAL",
    "name": "Walrus",
