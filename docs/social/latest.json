@@ -1,6 +1,6 @@
 {
  "date": "2026-10-14",
- "generated_at": "2026-10-14T21:45:55.991021+00:00",
+ "generated_at": "2026-10-14T22:00:58.152634+00:00",
  "assets": [
   {
    "symbol": "WAL",
@@ -33,6 +33,14 @@
    "from_btc_pct": 31,
    "verdict": "Oversold",
    "file": "EPIC.png"
+  },
+  {
+   "symbol": "PYTH",
+   "name": "Pyth Network",
+   "sigma": 2.65,
+   "from_btc_pct": 1,
+   "verdict": "Strong Uptrend",
+   "file": "PYTH.png"
   },
   {
    "symbol": "TRX",
