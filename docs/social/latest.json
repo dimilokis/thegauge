@@ -1,102 +1,14 @@
 {
- "date": "2026-10-13",
- "generated_at": "2026-10-13T23:15:58.611266+00:00",
+ "date": "2026-10-14",
+ "generated_at": "2026-10-14T05:30:54.672184+00:00",
  "assets": [
   {
-   "symbol": "GNS",
-   "name": "Gains Network",
-   "sigma": 61.03,
-   "from_btc_pct": 4,
+   "symbol": "WAL",
+   "name": "Walrus",
+   "sigma": 2.69,
+   "from_btc_pct": 40,
    "verdict": "Overbought",
-   "file": "GNS.png"
-  },
-  {
-   "symbol": "S",
-   "name": "Sonic",
-   "sigma": 3.19,
-   "from_btc_pct": 14,
-   "verdict": "Overbought",
-   "file": "S.png"
-  },
-  {
-   "symbol": "TIA",
-   "name": "Celestia",
-   "sigma": 3.15,
-   "from_btc_pct": 18,
-   "verdict": "Strong Uptrend",
-   "file": "TIA.png"
-  },
-  {
-   "symbol": "AMP",
-   "name": "Amp",
-   "sigma": 3.05,
-   "from_btc_pct": 1,
-   "verdict": "Overbought",
-   "file": "AMP.png"
-  },
-  {
-   "symbol": "CTK",
-   "name": "Shentu",
-   "sigma": 2.9,
-   "from_btc_pct": 28,
-   "verdict": "Overbought",
-   "file": "CTK.png"
-  },
-  {
-   "symbol": "OP",
-   "name": "Optimism",
-   "sigma": 2.81,
-   "from_btc_pct": 35,
-   "verdict": "Strong Uptrend",
-   "file": "OP.png"
-  },
-  {
-   "symbol": "INJ",
-   "name": "Injective",
-   "sigma": 2.76,
-   "from_btc_pct": 32,
-   "verdict": "Strong Uptrend",
-   "file": "INJ.png"
-  },
-  {
-   "symbol": "BLUR",
-   "name": "Blur",
-   "sigma": 2.71,
-   "from_btc_pct": 24,
-   "verdict": "Oversold",
-   "file": "BLUR.png"
-  },
-  {
-   "symbol": "ZK",
-   "name": "ZKsync",
-   "sigma": 2.65,
-   "from_btc_pct": 34,
-   "verdict": "Overbought",
-   "file": "ZK.png"
-  },
-  {
-   "symbol": "BAT",
-   "name": "Basic Attention",
-   "sigma": 2.62,
-   "from_btc_pct": 18,
-   "verdict": "Overbought",
-   "file": "BAT.png"
-  },
-  {
-   "symbol": "OSMO",
-   "name": "Osmosis",
-   "sigma": 2.62,
-   "from_btc_pct": 0,
-   "verdict": "Neutral",
-   "file": "OSMO.png"
-  },
-  {
-   "symbol": "W",
-   "name": "Wormhole",
-   "sigma": 2.61,
-   "from_btc_pct": 10,
-   "verdict": "Neutral",
-   "file": "W.png"
+   "file": "WAL.png"
   }
  ]
 }
