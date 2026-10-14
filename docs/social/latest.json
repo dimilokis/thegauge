@@ -1,6 +1,6 @@
 {
  "date": "2026-10-14",
- "generated_at": "2026-10-14T10:01:05.399467+00:00",
+ "generated_at": "2026-10-14T11:16:06.204401+00:00",
  "assets": [
   {
    "symbol": "WAL",
@@ -22,7 +22,7 @@
    "symbol": "TRX",
    "name": "TRON",
    "sigma": 2.53,
-   "from_btc_pct": 12,
+   "from_btc_pct": 13,
    "verdict": "Neutral",
    "file": "TRX.png"
   }
