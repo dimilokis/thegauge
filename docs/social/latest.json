@@ -1,6 +1,6 @@
 {
  "date": "2026-10-14",
- "generated_at": "2026-10-14T12:01:04.590896+00:00",
+ "generated_at": "2026-10-14T13:15:54.036832+00:00",
  "assets": [
   {
    "symbol": "AXL",
@@ -25,6 +25,14 @@
    "from_btc_pct": 0,
    "verdict": "Overbought",
    "file": "AVA.png"
+  },
+  {
+   "symbol": "BLUR",
+   "name": "Blur",
+   "sigma": 2.63,
+   "from_btc_pct": 24,
+   "verdict": "Oversold",
+   "file": "BLUR.png"
   },
   {
    "symbol": "TRX",
