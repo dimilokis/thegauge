@@ -1,6 +1,6 @@
 {
  "date": "2026-10-14",
- "generated_at": "2026-10-14T13:31:05.552968+00:00",
+ "generated_at": "2026-10-14T14:01:06.114058+00:00",
  "assets": [
   {
    "symbol": "WAL",
@@ -27,10 +27,18 @@
    "file": "AVA.png"
   },
   {
+   "symbol": "EPIC",
+   "name": "Epic Chain",
+   "sigma": 2.66,
+   "from_btc_pct": 31,
+   "verdict": "Oversold",
+   "file": "EPIC.png"
+  },
+  {
    "symbol": "BLUR",
    "name": "Blur",
-   "sigma": 2.63,
-   "from_btc_pct": 24,
+   "sigma": 2.54,
+   "from_btc_pct": 25,
    "verdict": "Oversold",
    "file": "BLUR.png"
   },
