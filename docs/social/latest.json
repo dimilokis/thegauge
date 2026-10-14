@@ -1,6 +1,6 @@
 {
  "date": "2026-10-14",
- "generated_at": "2026-10-14T16:31:02.896126+00:00",
+ "generated_at": "2026-10-14T16:45:54.319512+00:00",
  "assets": [
   {
    "symbol": "WAL",
@@ -19,14 +19,6 @@
    "file": "AXL.png"
   },
   {
-   "symbol": "AVA",
-   "name": "AVA (Travala)",
-   "sigma": 2.86,
-   "from_btc_pct": 0,
-   "verdict": "Overbought",
-   "file": "AVA.png"
-  },
-  {
    "symbol": "EPIC",
    "name": "Epic Chain",
    "sigma": 2.66,
@@ -35,20 +27,28 @@
    "file": "EPIC.png"
   },
   {
+   "symbol": "TRX",
+   "name": "TRON",
+   "sigma": 2.64,
+   "from_btc_pct": 7,
+   "verdict": "Neutral",
+   "file": "TRX.png"
+  },
+  {
+   "symbol": "AVA",
+   "name": "AVA (Travala)",
+   "sigma": 2.6,
+   "from_btc_pct": 0,
+   "verdict": "Overbought",
+   "file": "AVA.png"
+  },
+  {
    "symbol": "BLUR",
    "name": "Blur",
    "sigma": 2.54,
    "from_btc_pct": 25,
    "verdict": "Oversold",
    "file": "BLUR.png"
-  },
-  {
-   "symbol": "TRX",
-   "name": "TRON",
-   "sigma": 2.53,
-   "from_btc_pct": 13,
-   "verdict": "Neutral",
-   "file": "TRX.png"
   }
  ]
 }
