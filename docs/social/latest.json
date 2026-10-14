@@ -1,6 +1,6 @@
 {
  "date": "2026-10-14",
- "generated_at": "2026-10-14T19:30:59.247297+00:00",
+ "generated_at": "2026-10-14T21:01:06.476751+00:00",
  "assets": [
   {
    "symbol": "WAL",
@@ -21,18 +21,10 @@
   {
    "symbol": "BLUR",
    "name": "Blur",
-   "sigma": 2.78,
+   "sigma": 2.67,
    "from_btc_pct": 26,
    "verdict": "Oversold",
    "file": "BLUR.png"
-  },
-  {
-   "symbol": "GNS",
-   "name": "Gains Network",
-   "sigma": 2.72,
-   "from_btc_pct": 6,
-   "verdict": "Neutral",
-   "file": "GNS.png"
   },
   {
    "symbol": "EPIC",
@@ -57,6 +49,14 @@
    "from_btc_pct": 0,
    "verdict": "Overbought",
    "file": "AVA.png"
+  },
+  {
+   "symbol": "GNS",
+   "name": "Gains Network",
+   "sigma": 2.52,
+   "from_btc_pct": 6,
+   "verdict": "Neutral",
+   "file": "GNS.png"
   }
  ]
 }
