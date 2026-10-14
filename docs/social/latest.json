@@ -1,6 +1,6 @@
 {
  "date": "2026-10-14",
- "generated_at": "2026-10-14T06:01:00.578855+00:00",
+ "generated_at": "2026-10-14T06:45:54.588311+00:00",
  "assets": [
   {
    "symbol": "WAL",
@@ -9,6 +9,14 @@
    "from_btc_pct": 33,
    "verdict": "Overbought",
    "file": "WAL.png"
+  },
+  {
+   "symbol": "AVA",
+   "name": "AVA (Travala)",
+   "sigma": 2.94,
+   "from_btc_pct": 0,
+   "verdict": "Overbought",
+   "file": "AVA.png"
   }
  ]
 }
