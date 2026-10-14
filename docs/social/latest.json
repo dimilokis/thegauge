@@ -1,6 +1,6 @@
 {
  "date": "2026-10-14",
- "generated_at": "2026-10-14T21:01:06.476751+00:00",
+ "generated_at": "2026-10-14T21:45:55.991021+00:00",
  "assets": [
   {
    "symbol": "WAL",
@@ -43,20 +43,20 @@
    "file": "TRX.png"
   },
   {
+   "symbol": "GNS",
+   "name": "Gains Network",
+   "sigma": 2.62,
+   "from_btc_pct": 6,
+   "verdict": "Neutral",
+   "file": "GNS.png"
+  },
+  {
    "symbol": "AVA",
    "name": "AVA (Travala)",
    "sigma": 2.6,
    "from_btc_pct": 0,
    "verdict": "Overbought",
    "file": "AVA.png"
-  },
-  {
-   "symbol": "GNS",
-   "name": "Gains Network",
-   "sigma": 2.52,
-   "from_btc_pct": 6,
-   "verdict": "Neutral",
-   "file": "GNS.png"
   }
  ]
 }
