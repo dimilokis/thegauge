@@ -1,6 +1,6 @@
 {
  "date": "2026-10-15",
- "generated_at": "2026-10-15T19:01:00.244405+00:00",
+ "generated_at": "2026-10-15T19:30:58.249633+00:00",
  "assets": [
   {
    "symbol": "NXPC",
@@ -9,6 +9,14 @@
    "from_btc_pct": 14,
    "verdict": "Overbought",
    "file": "NXPC.png"
+  },
+  {
+   "symbol": "ANIME",
+   "name": "Animecoin",
+   "sigma": 7.55,
+   "from_btc_pct": 37,
+   "verdict": "Overbought",
+   "file": "ANIME.png"
   },
   {
    "symbol": "BAT",
