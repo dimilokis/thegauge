@@ -1,6 +1,6 @@
 {
  "date": "2026-10-15",
- "generated_at": "2026-10-15T14:45:54.324756+00:00",
+ "generated_at": "2026-10-15T15:15:59.587124+00:00",
  "assets": [
   {
    "symbol": "WCT",
@@ -33,6 +33,14 @@
    "from_btc_pct": 0,
    "verdict": "Neutral",
    "file": "JST.png"
+  },
+  {
+   "symbol": "PYTH",
+   "name": "Pyth Network",
+   "sigma": 2.68,
+   "from_btc_pct": 0,
+   "verdict": "Strong Uptrend",
+   "file": "PYTH.png"
   },
   {
    "symbol": "BLUR",
