@@ -1,6 +1,6 @@
 {
  "date": "2026-10-15",
- "generated_at": "2026-10-15T17:15:56.247853+00:00",
+ "generated_at": "2026-10-15T17:30:58.135584+00:00",
  "assets": [
   {
    "symbol": "NXPC",
@@ -9,14 +9,6 @@
    "from_btc_pct": 14,
    "verdict": "Overbought",
    "file": "NXPC.png"
-  },
-  {
-   "symbol": "WCT",
-   "name": "WalletConnect Token",
-   "sigma": 3.24,
-   "from_btc_pct": 29,
-   "verdict": "Neutral",
-   "file": "WCT.png"
   },
   {
    "symbol": "ZK",
@@ -73,6 +65,14 @@
    "from_btc_pct": 25,
    "verdict": "Overbought",
    "file": "AXL.png"
+  },
+  {
+   "symbol": "WCT",
+   "name": "WalletConnect Token",
+   "sigma": 2.51,
+   "from_btc_pct": 24,
+   "verdict": "Neutral",
+   "file": "WCT.png"
   }
  ]
 }
