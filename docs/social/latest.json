@@ -1,70 +1,14 @@
 {
- "date": "2026-10-14",
- "generated_at": "2026-10-14T22:43:57.006390+00:00",
+ "date": "2026-10-15",
+ "generated_at": "2026-10-15T04:45:56.153976+00:00",
  "assets": [
   {
-   "symbol": "WAL",
-   "name": "Walrus",
-   "sigma": 4.59,
-   "from_btc_pct": 33,
+   "symbol": "ZK",
+   "name": "ZKsync",
+   "sigma": 2.81,
+   "from_btc_pct": 28,
    "verdict": "Overbought",
-   "file": "WAL.png"
-  },
-  {
-   "symbol": "AXL",
-   "name": "Axelar",
-   "sigma": 3.63,
-   "from_btc_pct": 29,
-   "verdict": "Overbought",
-   "file": "AXL.png"
-  },
-  {
-   "symbol": "BLUR",
-   "name": "Blur",
-   "sigma": 2.67,
-   "from_btc_pct": 26,
-   "verdict": "Oversold",
-   "file": "BLUR.png"
-  },
-  {
-   "symbol": "EPIC",
-   "name": "Epic Chain",
-   "sigma": 2.66,
-   "from_btc_pct": 31,
-   "verdict": "Oversold",
-   "file": "EPIC.png"
-  },
-  {
-   "symbol": "TRX",
-   "name": "TRON",
-   "sigma": 2.64,
-   "from_btc_pct": 7,
-   "verdict": "Neutral",
-   "file": "TRX.png"
-  },
-  {
-   "symbol": "GNS",
-   "name": "Gains Network",
-   "sigma": 2.62,
-   "from_btc_pct": 6,
-   "verdict": "Neutral",
-   "file": "GNS.png"
-  },
-  {
-   "symbol": "AVA",
-   "name": "AVA (Travala)",
-   "sigma": 2.6,
-   "from_btc_pct": 0,
-   "verdict": "Overbought",
-   "file": "AVA.png"
-  },
-  {
-   "symbol": "PYTH",
-   "name": "Pyth Network",
-   "sigma": 2.52,
-   "from_btc_pct": 1,
-   "verdict": "Strong Uptrend",
-   "file": "PYTH.png"
+   "file": "ZK.png"
   }
  ]
 }
