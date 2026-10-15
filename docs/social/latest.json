@@ -1,6 +1,6 @@
 {
  "date": "2026-10-15",
- "generated_at": "2026-10-15T14:01:04.469676+00:00",
+ "generated_at": "2026-10-15T14:45:54.324756+00:00",
  "assets": [
   {
    "symbol": "WCT",
@@ -9,6 +9,14 @@
    "from_btc_pct": 29,
    "verdict": "Neutral",
    "file": "WCT.png"
+  },
+  {
+   "symbol": "DUSK",
+   "name": "DUSK",
+   "sigma": 2.92,
+   "from_btc_pct": 31,
+   "verdict": "Overbought",
+   "file": "DUSK.png"
   },
   {
    "symbol": "ZK",
@@ -49,14 +57,6 @@
    "from_btc_pct": 25,
    "verdict": "Overbought",
    "file": "AXL.png"
-  },
-  {
-   "symbol": "DUSK",
-   "name": "DUSK",
-   "sigma": 2.52,
-   "from_btc_pct": 29,
-   "verdict": "Overbought",
-   "file": "DUSK.png"
   }
  ]
 }
