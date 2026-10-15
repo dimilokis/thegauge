@@ -1,7 +1,15 @@
 {
  "date": "2026-10-15",
- "generated_at": "2026-10-15T04:45:56.153976+00:00",
+ "generated_at": "2026-10-15T05:45:58.844996+00:00",
  "assets": [
+  {
+   "symbol": "WCT",
+   "name": "WalletConnect Token",
+   "sigma": 3.24,
+   "from_btc_pct": 29,
+   "verdict": "Neutral",
+   "file": "WCT.png"
+  },
   {
    "symbol": "ZK",
    "name": "ZKsync",
