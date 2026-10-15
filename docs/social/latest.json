@@ -1,6 +1,6 @@
 {
  "date": "2026-10-15",
- "generated_at": "2026-10-15T20:30:58.419363+00:00",
+ "generated_at": "2026-10-15T21:16:00.302591+00:00",
  "assets": [
   {
    "symbol": "NXPC",
@@ -29,7 +29,7 @@
   {
    "symbol": "PYTH",
    "name": "Pyth Network",
-   "sigma": 3.64,
+   "sigma": 2.88,
    "from_btc_pct": 0,
    "verdict": "Strong Uptrend",
    "file": "PYTH.png"
