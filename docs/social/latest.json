@@ -1,6 +1,6 @@
 {
  "date": "2026-10-15",
- "generated_at": "2026-10-15T18:31:10.560769+00:00",
+ "generated_at": "2026-10-15T19:01:00.244405+00:00",
  "assets": [
   {
    "symbol": "NXPC",
@@ -11,20 +11,20 @@
    "file": "NXPC.png"
   },
   {
+   "symbol": "BAT",
+   "name": "Basic Attention",
+   "sigma": 4.08,
+   "from_btc_pct": 16,
+   "verdict": "Overbought",
+   "file": "BAT.png"
+  },
+  {
    "symbol": "ZK",
    "name": "ZKsync",
    "sigma": 2.81,
    "from_btc_pct": 28,
    "verdict": "Overbought",
    "file": "ZK.png"
-  },
-  {
-   "symbol": "PYTH",
-   "name": "Pyth Network",
-   "sigma": 2.68,
-   "from_btc_pct": 0,
-   "verdict": "Strong Uptrend",
-   "file": "PYTH.png"
   },
   {
    "symbol": "DUSK",
@@ -41,6 +41,14 @@
    "from_btc_pct": 18,
    "verdict": "Oversold",
    "file": "BLUR.png"
+  },
+  {
+   "symbol": "PYTH",
+   "name": "Pyth Network",
+   "sigma": 2.65,
+   "from_btc_pct": 0,
+   "verdict": "Strong Uptrend",
+   "file": "PYTH.png"
   },
   {
    "symbol": "BERA",
