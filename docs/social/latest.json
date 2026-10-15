@@ -1,6 +1,6 @@
 {
  "date": "2026-10-15",
- "generated_at": "2026-10-15T13:45:57.358498+00:00",
+ "generated_at": "2026-10-15T14:01:04.469676+00:00",
  "assets": [
   {
    "symbol": "WCT",
@@ -33,6 +33,14 @@
    "from_btc_pct": 18,
    "verdict": "Oversold",
    "file": "BLUR.png"
+  },
+  {
+   "symbol": "BERA",
+   "name": "Berachain",
+   "sigma": 2.64,
+   "from_btc_pct": 28,
+   "verdict": "Neutral",
+   "file": "BERA.png"
   },
   {
    "symbol": "AXL",
