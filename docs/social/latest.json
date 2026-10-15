@@ -1,6 +1,6 @@
 {
  "date": "2026-10-15",
- "generated_at": "2026-10-15T10:45:53.961230+00:00",
+ "generated_at": "2026-10-15T12:45:58.112617+00:00",
  "assets": [
   {
    "symbol": "BLUR",
@@ -25,6 +25,14 @@
    "from_btc_pct": 28,
    "verdict": "Overbought",
    "file": "ZK.png"
+  },
+  {
+   "symbol": "JST",
+   "name": "JUST",
+   "sigma": 2.73,
+   "from_btc_pct": 0,
+   "verdict": "Neutral",
+   "file": "JST.png"
   },
   {
    "symbol": "AXL",
