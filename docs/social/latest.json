@@ -1,15 +1,7 @@
 {
  "date": "2026-10-15",
- "generated_at": "2026-10-15T12:45:58.112617+00:00",
+ "generated_at": "2026-10-15T13:45:57.358498+00:00",
  "assets": [
-  {
-   "symbol": "BLUR",
-   "name": "Blur",
-   "sigma": 6.46,
-   "from_btc_pct": 13,
-   "verdict": "Oversold",
-   "file": "BLUR.png"
-  },
   {
    "symbol": "WCT",
    "name": "WalletConnect Token",
@@ -33,6 +25,14 @@
    "from_btc_pct": 0,
    "verdict": "Neutral",
    "file": "JST.png"
+  },
+  {
+   "symbol": "BLUR",
+   "name": "Blur",
+   "sigma": 2.65,
+   "from_btc_pct": 18,
+   "verdict": "Oversold",
+   "file": "BLUR.png"
   },
   {
    "symbol": "AXL",
