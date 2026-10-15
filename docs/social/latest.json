@@ -1,6 +1,6 @@
 {
  "date": "2026-10-15",
- "generated_at": "2026-10-15T16:15:54.240427+00:00",
+ "generated_at": "2026-10-15T16:30:59.655628+00:00",
  "assets": [
   {
    "symbol": "WCT",
@@ -27,14 +27,6 @@
    "file": "ZK.png"
   },
   {
-   "symbol": "JST",
-   "name": "JUST",
-   "sigma": 2.73,
-   "from_btc_pct": 0,
-   "verdict": "Neutral",
-   "file": "JST.png"
-  },
-  {
    "symbol": "PYTH",
    "name": "Pyth Network",
    "sigma": 2.68,
@@ -57,6 +49,14 @@
    "from_btc_pct": 28,
    "verdict": "Neutral",
    "file": "BERA.png"
+  },
+  {
+   "symbol": "JST",
+   "name": "JUST",
+   "sigma": 2.56,
+   "from_btc_pct": 0,
+   "verdict": "Strong Uptrend",
+   "file": "JST.png"
   },
   {
    "symbol": "AXL",
