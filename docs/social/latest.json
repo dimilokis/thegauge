@@ -1,6 +1,6 @@
 {
  "date": "2026-10-15",
- "generated_at": "2026-10-15T09:30:59.600789+00:00",
+ "generated_at": "2026-10-15T10:45:53.961230+00:00",
  "assets": [
   {
    "symbol": "BLUR",
@@ -33,6 +33,14 @@
    "from_btc_pct": 25,
    "verdict": "Overbought",
    "file": "AXL.png"
+  },
+  {
+   "symbol": "DUSK",
+   "name": "DUSK",
+   "sigma": 2.52,
+   "from_btc_pct": 29,
+   "verdict": "Overbought",
+   "file": "DUSK.png"
   }
  ]
 }
