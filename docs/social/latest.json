@@ -1,6 +1,6 @@
 {
  "date": "2026-10-15",
- "generated_at": "2026-10-15T17:30:58.135584+00:00",
+ "generated_at": "2026-10-15T18:31:10.560769+00:00",
  "assets": [
   {
    "symbol": "NXPC",
@@ -51,20 +51,20 @@
    "file": "BERA.png"
   },
   {
-   "symbol": "JST",
-   "name": "JUST",
-   "sigma": 2.56,
-   "from_btc_pct": 0,
-   "verdict": "Strong Uptrend",
-   "file": "JST.png"
-  },
-  {
    "symbol": "AXL",
    "name": "Axelar",
    "sigma": 2.53,
    "from_btc_pct": 25,
    "verdict": "Overbought",
    "file": "AXL.png"
+  },
+  {
+   "symbol": "JST",
+   "name": "JUST",
+   "sigma": 2.53,
+   "from_btc_pct": 0,
+   "verdict": "Strong Uptrend",
+   "file": "JST.png"
   },
   {
    "symbol": "WCT",
