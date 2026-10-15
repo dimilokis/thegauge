@@ -1,6 +1,6 @@
 {
  "date": "2026-10-15",
- "generated_at": "2026-10-15T05:45:58.844996+00:00",
+ "generated_at": "2026-10-15T05:52:14.535454+00:00",
  "assets": [
   {
    "symbol": "WCT",
@@ -17,6 +17,14 @@
    "from_btc_pct": 28,
    "verdict": "Overbought",
    "file": "ZK.png"
+  },
+  {
+   "symbol": "AXL",
+   "name": "Axelar",
+   "sigma": 2.53,
+   "from_btc_pct": 28,
+   "verdict": "Overbought",
+   "file": "AXL.png"
   }
  ]
 }
