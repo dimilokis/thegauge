@@ -1,6 +1,6 @@
 {
  "date": "2026-10-15",
- "generated_at": "2026-10-15T15:15:59.587124+00:00",
+ "generated_at": "2026-10-15T16:15:54.240427+00:00",
  "assets": [
   {
    "symbol": "WCT",
@@ -13,8 +13,8 @@
   {
    "symbol": "DUSK",
    "name": "DUSK",
-   "sigma": 2.92,
-   "from_btc_pct": 31,
+   "sigma": 3.07,
+   "from_btc_pct": 35,
    "verdict": "Overbought",
    "file": "DUSK.png"
   },
