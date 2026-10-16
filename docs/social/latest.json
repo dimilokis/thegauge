@@ -1,6 +1,6 @@
 {
  "date": "2026-10-16",
- "generated_at": "2026-10-16T18:29:40.530150+00:00",
+ "generated_at": "2026-10-16T18:45:48.328957+00:00",
  "assets": [
   {
    "symbol": "ZIL",
@@ -49,6 +49,14 @@
    "from_btc_pct": 39,
    "verdict": "Oversold",
    "file": "NXPC.png"
+  },
+  {
+   "symbol": "PYTH",
+   "name": "Pyth Network",
+   "sigma": 2.6,
+   "from_btc_pct": 1,
+   "verdict": "Strong Uptrend",
+   "file": "PYTH.png"
   },
   {
    "symbol": "INIT",
