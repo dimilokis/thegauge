@@ -1,6 +1,6 @@
 {
  "date": "2026-10-16",
- "generated_at": "2026-10-16T10:00:37.326897+00:00",
+ "generated_at": "2026-10-16T10:30:59.746765+00:00",
  "assets": [
   {
    "symbol": "ZIL",
@@ -17,6 +17,14 @@
    "from_btc_pct": 12,
    "verdict": "Strong Uptrend",
    "file": "TIA.png"
+  },
+  {
+   "symbol": "DUSK",
+   "name": "DUSK",
+   "sigma": 2.67,
+   "from_btc_pct": 31,
+   "verdict": "Overbought",
+   "file": "DUSK.png"
   }
  ]
 }
