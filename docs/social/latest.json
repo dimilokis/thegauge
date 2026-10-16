@@ -1,6 +1,6 @@
 {
  "date": "2026-10-16",
- "generated_at": "2026-10-16T22:45:52.166995+00:00",
+ "generated_at": "2026-10-16T23:00:58.113604+00:00",
  "assets": [
   {
    "symbol": "ZIL",
@@ -59,6 +59,14 @@
    "file": "PYTH.png"
   },
   {
+   "symbol": "DUSK",
+   "name": "DUSK",
+   "sigma": 2.58,
+   "from_btc_pct": 30,
+   "verdict": "Overbought",
+   "file": "DUSK.png"
+  },
+  {
    "symbol": "TIA",
    "name": "Celestia",
    "sigma": 2.56,
@@ -81,14 +89,6 @@
    "from_btc_pct": 19,
    "verdict": "Neutral",
    "file": "PLUME.png"
-  },
-  {
-   "symbol": "DUSK",
-   "name": "DUSK",
-   "sigma": 2.5,
-   "from_btc_pct": 30,
-   "verdict": "Overbought",
-   "file": "DUSK.png"
   }
  ]
 }
