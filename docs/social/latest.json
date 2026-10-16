@@ -1,6 +1,6 @@
 {
  "date": "2026-10-16",
- "generated_at": "2026-10-16T18:45:48.328957+00:00",
+ "generated_at": "2026-10-16T19:00:55.729831+00:00",
  "assets": [
   {
    "symbol": "ZIL",
@@ -9,6 +9,22 @@
    "from_btc_pct": 16,
    "verdict": "Oversold",
    "file": "ZIL.png"
+  },
+  {
+   "symbol": "RAD",
+   "name": "Radworks",
+   "sigma": 3.65,
+   "from_btc_pct": 0,
+   "verdict": "Overbought",
+   "file": "RAD.png"
+  },
+  {
+   "symbol": "NXPC",
+   "name": "Nexpace",
+   "sigma": 3.37,
+   "from_btc_pct": 40,
+   "verdict": "Oversold",
+   "file": "NXPC.png"
   },
   {
    "symbol": "TIA",
@@ -43,12 +59,12 @@
    "file": "DUSK.png"
   },
   {
-   "symbol": "NXPC",
-   "name": "Nexpace",
-   "sigma": 2.63,
-   "from_btc_pct": 39,
-   "verdict": "Oversold",
-   "file": "NXPC.png"
+   "symbol": "INIT",
+   "name": "Initia",
+   "sigma": 2.62,
+   "from_btc_pct": 6,
+   "verdict": "Overbought",
+   "file": "INIT.png"
   },
   {
    "symbol": "PYTH",
@@ -57,14 +73,6 @@
    "from_btc_pct": 1,
    "verdict": "Strong Uptrend",
    "file": "PYTH.png"
-  },
-  {
-   "symbol": "INIT",
-   "name": "Initia",
-   "sigma": 2.56,
-   "from_btc_pct": 6,
-   "verdict": "Overbought",
-   "file": "INIT.png"
   },
   {
    "symbol": "AMP",
