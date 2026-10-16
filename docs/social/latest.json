@@ -1,6 +1,6 @@
 {
  "date": "2026-10-16",
- "generated_at": "2026-10-16T22:00:59.853411+00:00",
+ "generated_at": "2026-10-16T22:45:52.166995+00:00",
  "assets": [
   {
    "symbol": "ZIL",
@@ -35,20 +35,20 @@
    "file": "HUMA.png"
   },
   {
+   "symbol": "INIT",
+   "name": "Initia",
+   "sigma": 2.7,
+   "from_btc_pct": 5,
+   "verdict": "Overbought",
+   "file": "INIT.png"
+  },
+  {
    "symbol": "RAD",
    "name": "Radworks",
    "sigma": 2.68,
    "from_btc_pct": 1,
    "verdict": "Overbought",
    "file": "RAD.png"
-  },
-  {
-   "symbol": "INIT",
-   "name": "Initia",
-   "sigma": 2.62,
-   "from_btc_pct": 6,
-   "verdict": "Overbought",
-   "file": "INIT.png"
   },
   {
    "symbol": "PYTH",
