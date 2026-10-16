@@ -1,94 +1,14 @@
 {
- "date": "2026-10-15",
- "generated_at": "2026-10-15T21:45:53.396261+00:00",
+ "date": "2026-10-16",
+ "generated_at": "2026-10-16T08:30:59.484735+00:00",
  "assets": [
   {
-   "symbol": "NXPC",
-   "name": "Nexpace",
-   "sigma": 12.02,
-   "from_btc_pct": 14,
-   "verdict": "Overbought",
-   "file": "NXPC.png"
-  },
-  {
-   "symbol": "ANIME",
-   "name": "Animecoin",
-   "sigma": 6.51,
-   "from_btc_pct": 39,
-   "verdict": "Overbought",
-   "file": "ANIME.png"
-  },
-  {
-   "symbol": "BAT",
-   "name": "Basic Attention",
-   "sigma": 4.08,
-   "from_btc_pct": 16,
-   "verdict": "Overbought",
-   "file": "BAT.png"
-  },
-  {
-   "symbol": "PYTH",
-   "name": "Pyth Network",
-   "sigma": 2.88,
-   "from_btc_pct": 0,
+   "symbol": "TIA",
+   "name": "Celestia",
+   "sigma": 2.57,
+   "from_btc_pct": 12,
    "verdict": "Strong Uptrend",
-   "file": "PYTH.png"
-  },
-  {
-   "symbol": "ZK",
-   "name": "ZKsync",
-   "sigma": 2.81,
-   "from_btc_pct": 28,
-   "verdict": "Overbought",
-   "file": "ZK.png"
-  },
-  {
-   "symbol": "DUSK",
-   "name": "DUSK",
-   "sigma": 2.67,
-   "from_btc_pct": 35,
-   "verdict": "Overbought",
-   "file": "DUSK.png"
-  },
-  {
-   "symbol": "BLUR",
-   "name": "Blur",
-   "sigma": 2.65,
-   "from_btc_pct": 18,
-   "verdict": "Oversold",
-   "file": "BLUR.png"
-  },
-  {
-   "symbol": "BERA",
-   "name": "Berachain",
-   "sigma": 2.64,
-   "from_btc_pct": 28,
-   "verdict": "Neutral",
-   "file": "BERA.png"
-  },
-  {
-   "symbol": "AXL",
-   "name": "Axelar",
-   "sigma": 2.53,
-   "from_btc_pct": 25,
-   "verdict": "Overbought",
-   "file": "AXL.png"
-  },
-  {
-   "symbol": "JST",
-   "name": "JUST",
-   "sigma": 2.53,
-   "from_btc_pct": 0,
-   "verdict": "Strong Uptrend",
-   "file": "JST.png"
-  },
-  {
-   "symbol": "WCT",
-   "name": "WalletConnect Token",
-   "sigma": 2.51,
-   "from_btc_pct": 24,
-   "verdict": "Neutral",
-   "file": "WCT.png"
+   "file": "TIA.png"
   }
  ]
 }
