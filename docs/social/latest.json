@@ -1,6 +1,6 @@
 {
  "date": "2026-10-16",
- "generated_at": "2026-10-16T14:45:53.743303+00:00",
+ "generated_at": "2026-10-16T15:45:50.726465+00:00",
  "assets": [
   {
    "symbol": "ZIL",
@@ -30,9 +30,17 @@
    "symbol": "HUMA",
    "name": "Huma Finance",
    "sigma": 2.54,
-   "from_btc_pct": 21,
+   "from_btc_pct": 24,
    "verdict": "Neutral",
    "file": "HUMA.png"
+  },
+  {
+   "symbol": "NXPC",
+   "name": "Nexpace",
+   "sigma": 2.53,
+   "from_btc_pct": 39,
+   "verdict": "Oversold",
+   "file": "NXPC.png"
   }
  ]
 }
