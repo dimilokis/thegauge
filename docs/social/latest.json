@@ -1,6 +1,6 @@
 {
  "date": "2026-10-16",
- "generated_at": "2026-10-16T15:45:50.726465+00:00",
+ "generated_at": "2026-10-16T16:30:58.322822+00:00",
  "assets": [
   {
    "symbol": "ZIL",
@@ -9,6 +9,14 @@
    "from_btc_pct": 16,
    "verdict": "Oversold",
    "file": "ZIL.png"
+  },
+  {
+   "symbol": "HUMA",
+   "name": "Huma Finance",
+   "sigma": 2.77,
+   "from_btc_pct": 24,
+   "verdict": "Neutral",
+   "file": "HUMA.png"
   },
   {
    "symbol": "TIA",
@@ -25,14 +33,6 @@
    "from_btc_pct": 31,
    "verdict": "Overbought",
    "file": "DUSK.png"
-  },
-  {
-   "symbol": "HUMA",
-   "name": "Huma Finance",
-   "sigma": 2.54,
-   "from_btc_pct": 24,
-   "verdict": "Neutral",
-   "file": "HUMA.png"
   },
   {
    "symbol": "NXPC",
