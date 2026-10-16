@@ -1,6 +1,6 @@
 {
  "date": "2026-10-16",
- "generated_at": "2026-10-16T17:01:07.695004+00:00",
+ "generated_at": "2026-10-16T17:31:00.426846+00:00",
  "assets": [
   {
    "symbol": "ZIL",
@@ -9,6 +9,14 @@
    "from_btc_pct": 16,
    "verdict": "Oversold",
    "file": "ZIL.png"
+  },
+  {
+   "symbol": "INIT",
+   "name": "Initia",
+   "sigma": 3.02,
+   "from_btc_pct": 7,
+   "verdict": "Overbought",
+   "file": "INIT.png"
   },
   {
    "symbol": "BERA",
@@ -49,6 +57,14 @@
    "from_btc_pct": 40,
    "verdict": "Oversold",
    "file": "NXPC.png"
+  },
+  {
+   "symbol": "AMP",
+   "name": "Amp",
+   "sigma": 2.55,
+   "from_btc_pct": 0,
+   "verdict": "Overbought",
+   "file": "AMP.png"
   }
  ]
 }
