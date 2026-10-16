@@ -1,6 +1,6 @@
 {
  "date": "2026-10-16",
- "generated_at": "2026-10-16T21:00:59.722284+00:00",
+ "generated_at": "2026-10-16T22:00:59.853411+00:00",
  "assets": [
   {
    "symbol": "ZIL",
@@ -19,14 +19,6 @@
    "file": "NXPC.png"
   },
   {
-   "symbol": "RAD",
-   "name": "Radworks",
-   "sigma": 3.05,
-   "from_btc_pct": 1,
-   "verdict": "Overbought",
-   "file": "RAD.png"
-  },
-  {
    "symbol": "BERA",
    "name": "Berachain",
    "sigma": 2.91,
@@ -41,6 +33,14 @@
    "from_btc_pct": 24,
    "verdict": "Neutral",
    "file": "HUMA.png"
+  },
+  {
+   "symbol": "RAD",
+   "name": "Radworks",
+   "sigma": 2.68,
+   "from_btc_pct": 1,
+   "verdict": "Overbought",
+   "file": "RAD.png"
   },
   {
    "symbol": "INIT",
