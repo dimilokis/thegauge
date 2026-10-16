@@ -1,6 +1,6 @@
 {
  "date": "2026-10-16",
- "generated_at": "2026-10-16T23:00:58.113604+00:00",
+ "generated_at": "2026-10-16T23:30:57.100863+00:00",
  "assets": [
   {
    "symbol": "ZIL",
@@ -67,14 +67,6 @@
    "file": "DUSK.png"
   },
   {
-   "symbol": "TIA",
-   "name": "Celestia",
-   "sigma": 2.56,
-   "from_btc_pct": 10,
-   "verdict": "Strong Uptrend",
-   "file": "TIA.png"
-  },
-  {
    "symbol": "AMP",
    "name": "Amp",
    "sigma": 2.55,
@@ -89,6 +81,14 @@
    "from_btc_pct": 19,
    "verdict": "Neutral",
    "file": "PLUME.png"
+  },
+  {
+   "symbol": "TIA",
+   "name": "Celestia",
+   "sigma": 2.52,
+   "from_btc_pct": 11,
+   "verdict": "Strong Uptrend",
+   "file": "TIA.png"
   }
  ]
 }
