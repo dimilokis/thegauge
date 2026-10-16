@@ -1,6 +1,6 @@
 {
  "date": "2026-10-16",
- "generated_at": "2026-10-16T19:00:55.729831+00:00",
+ "generated_at": "2026-10-16T19:15:51.850831+00:00",
  "assets": [
   {
    "symbol": "ZIL",
@@ -25,14 +25,6 @@
    "from_btc_pct": 40,
    "verdict": "Oversold",
    "file": "NXPC.png"
-  },
-  {
-   "symbol": "TIA",
-   "name": "Celestia",
-   "sigma": 3.17,
-   "from_btc_pct": 10,
-   "verdict": "Strong Uptrend",
-   "file": "TIA.png"
   },
   {
    "symbol": "BERA",
@@ -73,6 +65,14 @@
    "from_btc_pct": 1,
    "verdict": "Strong Uptrend",
    "file": "PYTH.png"
+  },
+  {
+   "symbol": "TIA",
+   "name": "Celestia",
+   "sigma": 2.56,
+   "from_btc_pct": 10,
+   "verdict": "Strong Uptrend",
+   "file": "TIA.png"
   },
   {
    "symbol": "AMP",
