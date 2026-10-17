@@ -1,6 +1,6 @@
 {
  "date": "2026-10-17",
- "generated_at": "2026-10-17T15:30:54.656774+00:00",
+ "generated_at": "2026-10-17T16:00:57.816229+00:00",
  "assets": [
   {
    "symbol": "SAND",
@@ -9,14 +9,6 @@
    "from_btc_pct": 1,
    "verdict": "Overbought",
    "file": "SAND.png"
-  },
-  {
-   "symbol": "EPIC",
-   "name": "Epic Chain",
-   "sigma": 2.81,
-   "from_btc_pct": 21,
-   "verdict": "Oversold",
-   "file": "EPIC.png"
   },
   {
    "symbol": "GTC",
@@ -33,6 +25,14 @@
    "from_btc_pct": 16,
    "verdict": "Neutral",
    "file": "ERA.png"
+  },
+  {
+   "symbol": "EPIC",
+   "name": "Epic Chain",
+   "sigma": 2.5,
+   "from_btc_pct": 22,
+   "verdict": "Oversold",
+   "file": "EPIC.png"
   }
  ]
 }
