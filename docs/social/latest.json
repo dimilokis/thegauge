@@ -1,15 +1,7 @@
 {
  "date": "2026-10-17",
- "generated_at": "2026-10-17T10:15:51.202223+00:00",
+ "generated_at": "2026-10-17T12:15:44.419485+00:00",
  "assets": [
-  {
-   "symbol": "ERA",
-   "name": "Caldera",
-   "sigma": 2.95,
-   "from_btc_pct": 16,
-   "verdict": "Neutral",
-   "file": "ERA.png"
-  },
   {
    "symbol": "EPIC",
    "name": "Epic Chain",
@@ -25,6 +17,14 @@
    "from_btc_pct": 0,
    "verdict": "Overbought",
    "file": "GTC.png"
+  },
+  {
+   "symbol": "ERA",
+   "name": "Caldera",
+   "sigma": 2.7,
+   "from_btc_pct": 16,
+   "verdict": "Neutral",
+   "file": "ERA.png"
   }
  ]
 }
