@@ -1,6 +1,6 @@
 {
  "date": "2026-10-17",
- "generated_at": "2026-10-17T20:15:52.564537+00:00",
+ "generated_at": "2026-10-17T21:30:55.194308+00:00",
  "assets": [
   {
    "symbol": "PARTI",
@@ -9,6 +9,14 @@
    "from_btc_pct": 1,
    "verdict": "Neutral",
    "file": "PARTI.png"
+  },
+  {
+   "symbol": "QUICK",
+   "name": "Quickswap",
+   "sigma": 4.5,
+   "from_btc_pct": 6,
+   "verdict": "Oversold",
+   "file": "QUICK.png"
   },
   {
    "symbol": "SAND",
