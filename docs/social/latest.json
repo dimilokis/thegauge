@@ -1,6 +1,6 @@
 {
  "date": "2026-10-17",
- "generated_at": "2026-10-17T16:00:57.816229+00:00",
+ "generated_at": "2026-10-17T16:30:51.380890+00:00",
  "assets": [
   {
    "symbol": "SAND",
@@ -29,10 +29,18 @@
   {
    "symbol": "EPIC",
    "name": "Epic Chain",
-   "sigma": 2.5,
-   "from_btc_pct": 22,
+   "sigma": 2.68,
+   "from_btc_pct": 20,
    "verdict": "Oversold",
    "file": "EPIC.png"
+  },
+  {
+   "symbol": "AVA",
+   "name": "AVA (Travala)",
+   "sigma": 2.65,
+   "from_btc_pct": 3,
+   "verdict": "Overbought",
+   "file": "AVA.png"
   }
  ]
 }
