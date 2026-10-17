@@ -1,6 +1,6 @@
 {
  "date": "2026-10-17",
- "generated_at": "2026-10-17T16:30:51.380890+00:00",
+ "generated_at": "2026-10-17T18:01:03.356122+00:00",
  "assets": [
   {
    "symbol": "SAND",
@@ -41,6 +41,14 @@
    "from_btc_pct": 3,
    "verdict": "Overbought",
    "file": "AVA.png"
+  },
+  {
+   "symbol": "ALT",
+   "name": "AltLayer",
+   "sigma": 2.64,
+   "from_btc_pct": 33,
+   "verdict": "Overbought",
+   "file": "ALT.png"
   }
  ]
 }
