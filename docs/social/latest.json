@@ -1,7 +1,15 @@
 {
  "date": "2026-10-17",
- "generated_at": "2026-10-17T18:01:03.356122+00:00",
+ "generated_at": "2026-10-17T20:15:52.564537+00:00",
  "assets": [
+  {
+   "symbol": "PARTI",
+   "name": "Particle Network",
+   "sigma": 4.79,
+   "from_btc_pct": 1,
+   "verdict": "Neutral",
+   "file": "PARTI.png"
+  },
   {
    "symbol": "SAND",
    "name": "The Sandbox",
