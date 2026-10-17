@@ -1,6 +1,6 @@
 {
  "date": "2026-10-17",
- "generated_at": "2026-10-17T07:00:58.912472+00:00",
+ "generated_at": "2026-10-17T07:15:56.818902+00:00",
  "assets": [
   {
    "symbol": "EPIC",
@@ -9,6 +9,14 @@
    "from_btc_pct": 21,
    "verdict": "Oversold",
    "file": "EPIC.png"
+  },
+  {
+   "symbol": "GTC",
+   "name": "Gitcoin",
+   "sigma": 2.78,
+   "from_btc_pct": 0,
+   "verdict": "Overbought",
+   "file": "GTC.png"
   }
  ]
 }
