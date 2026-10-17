@@ -1,7 +1,15 @@
 {
  "date": "2026-10-17",
- "generated_at": "2026-10-17T14:00:54.265327+00:00",
+ "generated_at": "2026-10-17T15:30:54.656774+00:00",
  "assets": [
+  {
+   "symbol": "SAND",
+   "name": "The Sandbox",
+   "sigma": 2.91,
+   "from_btc_pct": 1,
+   "verdict": "Overbought",
+   "file": "SAND.png"
+  },
   {
    "symbol": "EPIC",
    "name": "Epic Chain",
