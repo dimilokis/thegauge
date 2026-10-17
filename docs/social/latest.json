@@ -1,94 +1,14 @@
 {
- "date": "2026-10-16",
- "generated_at": "2026-10-16T23:30:57.100863+00:00",
+ "date": "2026-10-17",
+ "generated_at": "2026-10-17T07:00:58.912472+00:00",
  "assets": [
   {
-   "symbol": "ZIL",
-   "name": "Zilliqa",
-   "sigma": 4.24,
-   "from_btc_pct": 16,
+   "symbol": "EPIC",
+   "name": "Epic Chain",
+   "sigma": 2.94,
+   "from_btc_pct": 21,
    "verdict": "Oversold",
-   "file": "ZIL.png"
-  },
-  {
-   "symbol": "NXPC",
-   "name": "Nexpace",
-   "sigma": 3.37,
-   "from_btc_pct": 40,
-   "verdict": "Oversold",
-   "file": "NXPC.png"
-  },
-  {
-   "symbol": "BERA",
-   "name": "Berachain",
-   "sigma": 2.91,
-   "from_btc_pct": 22,
-   "verdict": "Neutral",
-   "file": "BERA.png"
-  },
-  {
-   "symbol": "HUMA",
-   "name": "Huma Finance",
-   "sigma": 2.77,
-   "from_btc_pct": 24,
-   "verdict": "Neutral",
-   "file": "HUMA.png"
-  },
-  {
-   "symbol": "INIT",
-   "name": "Initia",
-   "sigma": 2.7,
-   "from_btc_pct": 5,
-   "verdict": "Overbought",
-   "file": "INIT.png"
-  },
-  {
-   "symbol": "RAD",
-   "name": "Radworks",
-   "sigma": 2.68,
-   "from_btc_pct": 1,
-   "verdict": "Overbought",
-   "file": "RAD.png"
-  },
-  {
-   "symbol": "PYTH",
-   "name": "Pyth Network",
-   "sigma": 2.6,
-   "from_btc_pct": 1,
-   "verdict": "Strong Uptrend",
-   "file": "PYTH.png"
-  },
-  {
-   "symbol": "DUSK",
-   "name": "DUSK",
-   "sigma": 2.58,
-   "from_btc_pct": 30,
-   "verdict": "Overbought",
-   "file": "DUSK.png"
-  },
-  {
-   "symbol": "AMP",
-   "name": "Amp",
-   "sigma": 2.55,
-   "from_btc_pct": 0,
-   "verdict": "Overbought",
-   "file": "AMP.png"
-  },
-  {
-   "symbol": "PLUME",
-   "name": "Plume",
-   "sigma": 2.52,
-   "from_btc_pct": 19,
-   "verdict": "Neutral",
-   "file": "PLUME.png"
-  },
-  {
-   "symbol": "TIA",
-   "name": "Celestia",
-   "sigma": 2.52,
-   "from_btc_pct": 11,
-   "verdict": "Strong Uptrend",
-   "file": "TIA.png"
+   "file": "EPIC.png"
   }
  ]
 }
