@@ -1,15 +1,7 @@
 {
  "date": "2026-10-18",
- "generated_at": "2026-10-18T14:04:31.423068+00:00",
+ "generated_at": "2026-10-18T14:31:02.634098+00:00",
  "assets": [
-  {
-   "symbol": "ACM",
-   "name": "AC Milan Fan Token",
-   "sigma": 5.69,
-   "from_btc_pct": 11,
-   "verdict": "Neutral",
-   "file": "ACM.png"
-  },
   {
    "symbol": "ERA",
    "name": "Caldera",
@@ -17,6 +9,14 @@
    "from_btc_pct": 16,
    "verdict": "Neutral",
    "file": "ERA.png"
+  },
+  {
+   "symbol": "ACM",
+   "name": "AC Milan Fan Token",
+   "sigma": 2.8,
+   "from_btc_pct": 16,
+   "verdict": "Neutral",
+   "file": "ACM.png"
   },
   {
    "symbol": "A",
