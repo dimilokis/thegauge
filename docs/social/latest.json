@@ -1,6 +1,6 @@
 {
  "date": "2026-10-18",
- "generated_at": "2026-10-18T11:45:48.593564+00:00",
+ "generated_at": "2026-10-18T12:30:51.549572+00:00",
  "assets": [
   {
    "symbol": "ERA",
@@ -9,6 +9,14 @@
    "from_btc_pct": 16,
    "verdict": "Neutral",
    "file": "ERA.png"
+  },
+  {
+   "symbol": "ACM",
+   "name": "AC Milan Fan Token",
+   "sigma": 2.8,
+   "from_btc_pct": 20,
+   "verdict": "Neutral",
+   "file": "ACM.png"
   },
   {
    "symbol": "AXL",
