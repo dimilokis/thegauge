@@ -1,6 +1,6 @@
 {
  "date": "2026-10-18",
- "generated_at": "2026-10-18T18:45:51.188188+00:00",
+ "generated_at": "2026-10-18T19:15:45.306249+00:00",
  "assets": [
   {
    "symbol": "ACM",
@@ -43,20 +43,20 @@
    "file": "A.png"
   },
   {
+   "symbol": "APE",
+   "name": "ApeCoin",
+   "sigma": 2.57,
+   "from_btc_pct": 25,
+   "verdict": "Neutral",
+   "file": "APE.png"
+  },
+  {
    "symbol": "AXL",
    "name": "Axelar",
    "sigma": 2.56,
    "from_btc_pct": 12,
    "verdict": "Overbought",
    "file": "AXL.png"
-  },
-  {
-   "symbol": "APE",
-   "name": "ApeCoin",
-   "sigma": 2.54,
-   "from_btc_pct": 25,
-   "verdict": "Neutral",
-   "file": "APE.png"
   }
  ]
 }
