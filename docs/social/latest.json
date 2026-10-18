@@ -1,12 +1,12 @@
 {
  "date": "2026-10-18",
- "generated_at": "2026-10-18T19:15:45.306249+00:00",
+ "generated_at": "2026-10-18T19:45:47.857263+00:00",
  "assets": [
   {
    "symbol": "ACM",
    "name": "AC Milan Fan Token",
-   "sigma": 3.76,
-   "from_btc_pct": 13,
+   "sigma": 4.73,
+   "from_btc_pct": 10,
    "verdict": "Neutral",
    "file": "ACM.png"
   },
@@ -33,6 +33,14 @@
    "from_btc_pct": 18,
    "verdict": "Oversold",
    "file": "USTC.png"
+  },
+  {
+   "symbol": "DUSK",
+   "name": "DUSK",
+   "sigma": 2.7,
+   "from_btc_pct": 26,
+   "verdict": "Overbought",
+   "file": "DUSK.png"
   },
   {
    "symbol": "A",
