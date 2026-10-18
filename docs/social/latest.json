@@ -1,78 +1,14 @@
 {
- "date": "2026-10-17",
- "generated_at": "2026-10-17T22:30:52.238551+00:00",
+ "date": "2026-10-18",
+ "generated_at": "2026-10-18T08:15:51.400912+00:00",
  "assets": [
-  {
-   "symbol": "PARTI",
-   "name": "Particle Network",
-   "sigma": 4.79,
-   "from_btc_pct": 1,
-   "verdict": "Neutral",
-   "file": "PARTI.png"
-  },
-  {
-   "symbol": "SAND",
-   "name": "The Sandbox",
-   "sigma": 2.91,
-   "from_btc_pct": 1,
-   "verdict": "Overbought",
-   "file": "SAND.png"
-  },
-  {
-   "symbol": "QUICK",
-   "name": "Quickswap",
-   "sigma": 2.86,
-   "from_btc_pct": 7,
-   "verdict": "Oversold",
-   "file": "QUICK.png"
-  },
-  {
-   "symbol": "GTC",
-   "name": "Gitcoin",
-   "sigma": 2.78,
-   "from_btc_pct": 0,
-   "verdict": "Overbought",
-   "file": "GTC.png"
-  },
   {
    "symbol": "ERA",
    "name": "Caldera",
-   "sigma": 2.7,
-   "from_btc_pct": 16,
+   "sigma": 3.52,
+   "from_btc_pct": 13,
    "verdict": "Neutral",
    "file": "ERA.png"
-  },
-  {
-   "symbol": "EPIC",
-   "name": "Epic Chain",
-   "sigma": 2.68,
-   "from_btc_pct": 20,
-   "verdict": "Oversold",
-   "file": "EPIC.png"
-  },
-  {
-   "symbol": "AVA",
-   "name": "AVA (Travala)",
-   "sigma": 2.65,
-   "from_btc_pct": 3,
-   "verdict": "Overbought",
-   "file": "AVA.png"
-  },
-  {
-   "symbol": "ALT",
-   "name": "AltLayer",
-   "sigma": 2.64,
-   "from_btc_pct": 33,
-   "verdict": "Overbought",
-   "file": "ALT.png"
-  },
-  {
-   "symbol": "PYTH",
-   "name": "Pyth Network",
-   "sigma": 2.51,
-   "from_btc_pct": 1,
-   "verdict": "Neutral",
-   "file": "PYTH.png"
   }
  ]
 }
