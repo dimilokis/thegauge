@@ -1,6 +1,6 @@
 {
  "date": "2026-10-18",
- "generated_at": "2026-10-18T12:45:48.954077+00:00",
+ "generated_at": "2026-10-18T13:45:49.420652+00:00",
  "assets": [
   {
    "symbol": "ERA",
@@ -17,6 +17,14 @@
    "from_btc_pct": 20,
    "verdict": "Neutral",
    "file": "ACM.png"
+  },
+  {
+   "symbol": "USTC",
+   "name": "TerraClassicUSD",
+   "sigma": 2.71,
+   "from_btc_pct": 16,
+   "verdict": "Oversold",
+   "file": "USTC.png"
   },
   {
    "symbol": "A",
