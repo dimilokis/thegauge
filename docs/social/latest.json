@@ -1,6 +1,6 @@
 {
  "date": "2026-10-18",
- "generated_at": "2026-10-18T08:15:51.400912+00:00",
+ "generated_at": "2026-10-18T09:15:48.352524+00:00",
  "assets": [
   {
    "symbol": "ERA",
@@ -9,6 +9,14 @@
    "from_btc_pct": 13,
    "verdict": "Neutral",
    "file": "ERA.png"
+  },
+  {
+   "symbol": "AXL",
+   "name": "Axelar",
+   "sigma": 2.56,
+   "from_btc_pct": 12,
+   "verdict": "Overbought",
+   "file": "AXL.png"
   }
  ]
 }
