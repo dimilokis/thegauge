@@ -1,6 +1,6 @@
 {
  "date": "2026-10-18",
- "generated_at": "2026-10-18T19:45:47.857263+00:00",
+ "generated_at": "2026-10-18T20:00:58.008279+00:00",
  "assets": [
   {
    "symbol": "ACM",
@@ -57,6 +57,14 @@
    "from_btc_pct": 25,
    "verdict": "Neutral",
    "file": "APE.png"
+  },
+  {
+   "symbol": "NXPC",
+   "name": "Nexpace",
+   "sigma": 2.57,
+   "from_btc_pct": 29,
+   "verdict": "Oversold",
+   "file": "NXPC.png"
   },
   {
    "symbol": "AXL",
