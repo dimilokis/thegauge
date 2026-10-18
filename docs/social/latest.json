@@ -1,7 +1,15 @@
 {
  "date": "2026-10-18",
- "generated_at": "2026-10-18T13:45:49.420652+00:00",
+ "generated_at": "2026-10-18T14:04:31.423068+00:00",
  "assets": [
+  {
+   "symbol": "ACM",
+   "name": "AC Milan Fan Token",
+   "sigma": 5.69,
+   "from_btc_pct": 11,
+   "verdict": "Neutral",
+   "file": "ACM.png"
+  },
   {
    "symbol": "ERA",
    "name": "Caldera",
@@ -11,28 +19,20 @@
    "file": "ERA.png"
   },
   {
-   "symbol": "ACM",
-   "name": "AC Milan Fan Token",
-   "sigma": 2.8,
-   "from_btc_pct": 20,
-   "verdict": "Neutral",
-   "file": "ACM.png"
-  },
-  {
-   "symbol": "USTC",
-   "name": "TerraClassicUSD",
-   "sigma": 2.71,
-   "from_btc_pct": 16,
-   "verdict": "Oversold",
-   "file": "USTC.png"
-  },
-  {
    "symbol": "A",
    "name": "Vaulta",
    "sigma": 2.6,
    "from_btc_pct": 5,
    "verdict": "Neutral",
    "file": "A.png"
+  },
+  {
+   "symbol": "USTC",
+   "name": "TerraClassicUSD",
+   "sigma": 2.6,
+   "from_btc_pct": 17,
+   "verdict": "Oversold",
+   "file": "USTC.png"
   },
   {
    "symbol": "AXL",
