@@ -1,6 +1,6 @@
 {
  "date": "2026-10-18",
- "generated_at": "2026-10-18T12:30:51.549572+00:00",
+ "generated_at": "2026-10-18T12:45:48.954077+00:00",
  "assets": [
   {
    "symbol": "ERA",
@@ -19,20 +19,20 @@
    "file": "ACM.png"
   },
   {
+   "symbol": "A",
+   "name": "Vaulta",
+   "sigma": 2.6,
+   "from_btc_pct": 5,
+   "verdict": "Neutral",
+   "file": "A.png"
+  },
+  {
    "symbol": "AXL",
    "name": "Axelar",
    "sigma": 2.56,
    "from_btc_pct": 12,
    "verdict": "Overbought",
    "file": "AXL.png"
-  },
-  {
-   "symbol": "A",
-   "name": "Vaulta",
-   "sigma": 2.54,
-   "from_btc_pct": 5,
-   "verdict": "Neutral",
-   "file": "A.png"
   }
  ]
 }
