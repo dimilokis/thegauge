@@ -1,6 +1,6 @@
 {
  "date": "2026-10-18",
- "generated_at": "2026-10-18T17:30:48.502906+00:00",
+ "generated_at": "2026-10-18T18:15:51.134206+00:00",
  "assets": [
   {
    "symbol": "QKC",
@@ -35,14 +35,6 @@
    "file": "USTC.png"
   },
   {
-   "symbol": "APE",
-   "name": "ApeCoin",
-   "sigma": 2.67,
-   "from_btc_pct": 25,
-   "verdict": "Neutral",
-   "file": "APE.png"
-  },
-  {
    "symbol": "A",
    "name": "Vaulta",
    "sigma": 2.6,
@@ -57,6 +49,14 @@
    "from_btc_pct": 12,
    "verdict": "Overbought",
    "file": "AXL.png"
+  },
+  {
+   "symbol": "APE",
+   "name": "ApeCoin",
+   "sigma": 2.52,
+   "from_btc_pct": 25,
+   "verdict": "Neutral",
+   "file": "APE.png"
   }
  ]
 }
