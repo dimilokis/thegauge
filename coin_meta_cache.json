@@ -1124,7 +1124,7 @@
   "name": "Qtum"
  },
  "QUICK": {
-  "icon": "https://coin-images.coingecko.com/coins/images/25393/large/quickswap.png",
+  "icon": "https://coin-images.coingecko.com/coins/images/25393/large/quickswap.png?1696524525",
   "name": "Quickswap"
  },
  "RAD": {
@@ -1602,5 +1602,9 @@
  "\u5e01\u5b89\u4eba\u751f": {
   "icon": "https://coin-images.coingecko.com/coins/images/69848/large/%E5%B8%81%E5%AE%89%E4%BA%BA%E7%94%9F.png?1759839225",
   "name": "\u5e01\u5b89\u4eba\u751f (BinanceLife)"
+ },
+ "\u725b\u6765": {
+  "icon": "https://coin-images.coingecko.com/coins/images/102175567/large/niulai.webp?1786873800",
+  "name": "\u725b\u6765 (Niu Lai)"
  }
 }
