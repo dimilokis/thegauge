@@ -1,6 +1,6 @@
 {
  "date": "2026-10-18",
- "generated_at": "2026-10-18T17:15:49.744225+00:00",
+ "generated_at": "2026-10-18T17:30:48.502906+00:00",
  "assets": [
   {
    "symbol": "QKC",
@@ -9,6 +9,14 @@
    "from_btc_pct": 7,
    "verdict": "Overbought",
    "file": "QKC.png"
+  },
+  {
+   "symbol": "ACM",
+   "name": "AC Milan Fan Token",
+   "sigma": 3.76,
+   "from_btc_pct": 13,
+   "verdict": "Neutral",
+   "file": "ACM.png"
   },
   {
    "symbol": "ERA",
@@ -25,14 +33,6 @@
    "from_btc_pct": 18,
    "verdict": "Oversold",
    "file": "USTC.png"
-  },
-  {
-   "symbol": "ACM",
-   "name": "AC Milan Fan Token",
-   "sigma": 2.8,
-   "from_btc_pct": 16,
-   "verdict": "Neutral",
-   "file": "ACM.png"
   },
   {
    "symbol": "APE",
