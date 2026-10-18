@@ -1,15 +1,7 @@
 {
  "date": "2026-10-18",
- "generated_at": "2026-10-18T18:15:51.134206+00:00",
+ "generated_at": "2026-10-18T18:45:51.188188+00:00",
  "assets": [
-  {
-   "symbol": "QKC",
-   "name": "QuarkChain",
-   "sigma": 6.31,
-   "from_btc_pct": 7,
-   "verdict": "Overbought",
-   "file": "QKC.png"
-  },
   {
    "symbol": "ACM",
    "name": "AC Milan Fan Token",
@@ -25,6 +17,14 @@
    "from_btc_pct": 16,
    "verdict": "Neutral",
    "file": "ERA.png"
+  },
+  {
+   "symbol": "QKC",
+   "name": "QuarkChain",
+   "sigma": 2.99,
+   "from_btc_pct": 13,
+   "verdict": "Neutral",
+   "file": "QKC.png"
   },
   {
    "symbol": "USTC",
@@ -53,7 +53,7 @@
   {
    "symbol": "APE",
    "name": "ApeCoin",
-   "sigma": 2.52,
+   "sigma": 2.54,
    "from_btc_pct": 25,
    "verdict": "Neutral",
    "file": "APE.png"
