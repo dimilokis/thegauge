@@ -1,7 +1,15 @@
 {
  "date": "2026-10-19",
- "generated_at": "2026-10-19T14:46:14.140836+00:00",
+ "generated_at": "2026-10-19T15:45:52.700210+00:00",
  "assets": [
+  {
+   "symbol": "WLFI",
+   "name": "World Liberty Financial",
+   "sigma": 2.57,
+   "from_btc_pct": 5,
+   "verdict": "Neutral",
+   "file": "WLFI.png"
+  },
   {
    "symbol": "OSMO",
    "name": "Osmosis",
