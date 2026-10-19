@@ -1,15 +1,7 @@
 {
  "date": "2026-10-19",
- "generated_at": "2026-10-19T20:15:49.263779+00:00",
+ "generated_at": "2026-10-19T20:30:50.076328+00:00",
  "assets": [
-  {
-   "symbol": "GTC",
-   "name": "Gitcoin",
-   "sigma": 3.44,
-   "from_btc_pct": 0,
-   "verdict": "Overbought",
-   "file": "GTC.png"
-  },
   {
    "symbol": "OSMO",
    "name": "Osmosis",
@@ -41,6 +33,14 @@
    "from_btc_pct": 11,
    "verdict": "Neutral",
    "file": "PHA.png"
+  },
+  {
+   "symbol": "GTC",
+   "name": "Gitcoin",
+   "sigma": 2.52,
+   "from_btc_pct": 0,
+   "verdict": "Overbought",
+   "file": "GTC.png"
   }
  ]
 }
