@@ -1,78 +1,14 @@
 {
- "date": "2026-10-18",
- "generated_at": "2026-10-18T20:00:58.008279+00:00",
+ "date": "2026-10-19",
+ "generated_at": "2026-10-19T08:45:52.974471+00:00",
  "assets": [
   {
-   "symbol": "ACM",
-   "name": "AC Milan Fan Token",
-   "sigma": 4.73,
-   "from_btc_pct": 10,
-   "verdict": "Neutral",
-   "file": "ACM.png"
-  },
-  {
-   "symbol": "ERA",
-   "name": "Caldera",
-   "sigma": 3.07,
-   "from_btc_pct": 16,
-   "verdict": "Neutral",
-   "file": "ERA.png"
-  },
-  {
-   "symbol": "QKC",
-   "name": "QuarkChain",
-   "sigma": 2.99,
-   "from_btc_pct": 13,
-   "verdict": "Neutral",
-   "file": "QKC.png"
-  },
-  {
-   "symbol": "USTC",
-   "name": "TerraClassicUSD",
-   "sigma": 2.82,
-   "from_btc_pct": 18,
-   "verdict": "Oversold",
-   "file": "USTC.png"
-  },
-  {
-   "symbol": "DUSK",
-   "name": "DUSK",
-   "sigma": 2.7,
-   "from_btc_pct": 26,
+   "symbol": "OSMO",
+   "name": "Osmosis",
+   "sigma": 2.69,
+   "from_btc_pct": 3,
    "verdict": "Overbought",
-   "file": "DUSK.png"
-  },
-  {
-   "symbol": "A",
-   "name": "Vaulta",
-   "sigma": 2.6,
-   "from_btc_pct": 5,
-   "verdict": "Neutral",
-   "file": "A.png"
-  },
-  {
-   "symbol": "APE",
-   "name": "ApeCoin",
-   "sigma": 2.57,
-   "from_btc_pct": 25,
-   "verdict": "Neutral",
-   "file": "APE.png"
-  },
-  {
-   "symbol": "NXPC",
-   "name": "Nexpace",
-   "sigma": 2.57,
-   "from_btc_pct": 29,
-   "verdict": "Oversold",
-   "file": "NXPC.png"
-  },
-  {
-   "symbol": "AXL",
-   "name": "Axelar",
-   "sigma": 2.56,
-   "from_btc_pct": 12,
-   "verdict": "Overbought",
-   "file": "AXL.png"
+   "file": "OSMO.png"
   }
  ]
 }
