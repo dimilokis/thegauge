@@ -1,15 +1,7 @@
 {
  "date": "2026-10-19",
- "generated_at": "2026-10-19T20:30:50.076328+00:00",
+ "generated_at": "2026-10-19T22:00:55.028049+00:00",
  "assets": [
-  {
-   "symbol": "OSMO",
-   "name": "Osmosis",
-   "sigma": 2.62,
-   "from_btc_pct": 5,
-   "verdict": "Overbought",
-   "file": "OSMO.png"
-  },
   {
    "symbol": "WLFI",
    "name": "World Liberty Financial",
@@ -25,6 +17,14 @@
    "from_btc_pct": 0,
    "verdict": "Overbought",
    "file": "AVA.png"
+  },
+  {
+   "symbol": "OSMO",
+   "name": "Osmosis",
+   "sigma": 2.55,
+   "from_btc_pct": 5,
+   "verdict": "Overbought",
+   "file": "OSMO.png"
   },
   {
    "symbol": "PHA",
