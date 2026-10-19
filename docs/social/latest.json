@@ -1,6 +1,6 @@
 {
  "date": "2026-10-19",
- "generated_at": "2026-10-19T11:30:55.691770+00:00",
+ "generated_at": "2026-10-19T14:46:14.140836+00:00",
  "assets": [
   {
    "symbol": "OSMO",
@@ -13,7 +13,7 @@
   {
    "symbol": "AVA",
    "name": "AVA (Travala)",
-   "sigma": 2.5,
+   "sigma": 2.55,
    "from_btc_pct": 0,
    "verdict": "Overbought",
    "file": "AVA.png"
