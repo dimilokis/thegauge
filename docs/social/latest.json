@@ -1,12 +1,20 @@
 {
  "date": "2026-10-19",
- "generated_at": "2026-10-19T15:45:52.700210+00:00",
+ "generated_at": "2026-10-19T17:31:00.215979+00:00",
  "assets": [
+  {
+   "symbol": "GTC",
+   "name": "Gitcoin",
+   "sigma": 3.44,
+   "from_btc_pct": 0,
+   "verdict": "Overbought",
+   "file": "GTC.png"
+  },
   {
    "symbol": "WLFI",
    "name": "World Liberty Financial",
-   "sigma": 2.57,
-   "from_btc_pct": 5,
+   "sigma": 2.96,
+   "from_btc_pct": 6,
    "verdict": "Neutral",
    "file": "WLFI.png"
   },
