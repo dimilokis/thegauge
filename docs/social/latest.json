@@ -1,6 +1,6 @@
 {
  "date": "2026-10-20",
- "generated_at": "2026-10-20T19:01:08.308690+00:00",
+ "generated_at": "2026-10-20T19:45:48.924819+00:00",
  "assets": [
   {
    "symbol": "ALT",
@@ -45,7 +45,7 @@
   {
    "symbol": "ERA",
    "name": "Caldera",
-   "sigma": 2.62,
+   "sigma": 2.58,
    "from_btc_pct": 19,
    "verdict": "Neutral",
    "file": "ERA.png"
