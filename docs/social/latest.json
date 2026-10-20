@@ -1,6 +1,6 @@
 {
  "date": "2026-10-20",
- "generated_at": "2026-10-20T20:01:01.653933+00:00",
+ "generated_at": "2026-10-20T20:15:59.784935+00:00",
  "assets": [
   {
    "symbol": "ALT",
@@ -17,6 +17,14 @@
    "from_btc_pct": 6,
    "verdict": "Overbought",
    "file": "COMP.png"
+  },
+  {
+   "symbol": "ERA",
+   "name": "Caldera",
+   "sigma": 3.38,
+   "from_btc_pct": 18,
+   "verdict": "Neutral",
+   "file": "ERA.png"
   },
   {
    "symbol": "GNS",
@@ -41,14 +49,6 @@
    "from_btc_pct": 18,
    "verdict": "Oversold",
    "file": "EPIC.png"
-  },
-  {
-   "symbol": "ERA",
-   "name": "Caldera",
-   "sigma": 2.58,
-   "from_btc_pct": 19,
-   "verdict": "Neutral",
-   "file": "ERA.png"
   },
   {
    "symbol": "REZ",
