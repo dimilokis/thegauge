@@ -1,6 +1,6 @@
 {
  "date": "2026-10-20",
- "generated_at": "2026-10-20T10:24:09.393743+00:00",
+ "generated_at": "2026-10-20T11:45:52.123831+00:00",
  "assets": [
   {
    "symbol": "ALT",
@@ -19,20 +19,20 @@
    "file": "ERA.png"
   },
   {
+   "symbol": "GNS",
+   "name": "Gains Network",
+   "sigma": 2.67,
+   "from_btc_pct": 6,
+   "verdict": "Neutral",
+   "file": "GNS.png"
+  },
+  {
    "symbol": "EPIC",
    "name": "Epic Chain",
    "sigma": 2.64,
    "from_btc_pct": 18,
    "verdict": "Oversold",
    "file": "EPIC.png"
-  },
-  {
-   "symbol": "GNS",
-   "name": "Gains Network",
-   "sigma": 2.58,
-   "from_btc_pct": 5,
-   "verdict": "Neutral",
-   "file": "GNS.png"
   }
  ]
 }
