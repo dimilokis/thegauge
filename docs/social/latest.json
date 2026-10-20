@@ -1,6 +1,6 @@
 {
  "date": "2026-10-20",
- "generated_at": "2026-10-20T15:15:57.658501+00:00",
+ "generated_at": "2026-10-20T17:15:56.859154+00:00",
  "assets": [
   {
    "symbol": "ALT",
@@ -9,6 +9,14 @@
    "from_btc_pct": 19,
    "verdict": "Overbought",
    "file": "ALT.png"
+  },
+  {
+   "symbol": "THETA",
+   "name": "Theta Network",
+   "sigma": 5.37,
+   "from_btc_pct": 27,
+   "verdict": "Overbought",
+   "file": "THETA.png"
   },
   {
    "symbol": "COMP",
