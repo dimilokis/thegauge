@@ -1,6 +1,6 @@
 {
  "date": "2026-10-20",
- "generated_at": "2026-10-20T20:30:58.039804+00:00",
+ "generated_at": "2026-10-20T21:01:02.262240+00:00",
  "assets": [
   {
    "symbol": "ALT",
@@ -25,6 +25,14 @@
    "from_btc_pct": 18,
    "verdict": "Neutral",
    "file": "ERA.png"
+  },
+  {
+   "symbol": "IOST",
+   "name": "IOST",
+   "sigma": 3.32,
+   "from_btc_pct": 6,
+   "verdict": "Neutral",
+   "file": "IOST.png"
   },
   {
    "symbol": "REZ",
