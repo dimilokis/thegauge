@@ -1,6 +1,6 @@
 {
  "date": "2026-10-20",
- "generated_at": "2026-10-20T17:45:52.311824+00:00",
+ "generated_at": "2026-10-20T19:01:08.308690+00:00",
  "assets": [
   {
    "symbol": "ALT",
@@ -9,14 +9,6 @@
    "from_btc_pct": 19,
    "verdict": "Overbought",
    "file": "ALT.png"
-  },
-  {
-   "symbol": "THETA",
-   "name": "Theta Network",
-   "sigma": 5.37,
-   "from_btc_pct": 27,
-   "verdict": "Overbought",
-   "file": "THETA.png"
   },
   {
    "symbol": "COMP",
@@ -33,6 +25,14 @@
    "from_btc_pct": 7,
    "verdict": "Neutral",
    "file": "GNS.png"
+  },
+  {
+   "symbol": "THETA",
+   "name": "Theta Network",
+   "sigma": 2.7,
+   "from_btc_pct": 32,
+   "verdict": "Neutral",
+   "file": "THETA.png"
   },
   {
    "symbol": "EPIC",
