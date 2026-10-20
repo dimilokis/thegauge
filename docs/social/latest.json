@@ -1,6 +1,6 @@
 {
  "date": "2026-10-20",
- "generated_at": "2026-10-20T14:01:03.057539+00:00",
+ "generated_at": "2026-10-20T14:15:52.750256+00:00",
  "assets": [
   {
    "symbol": "ALT",
@@ -41,6 +41,14 @@
    "from_btc_pct": 18,
    "verdict": "Oversold",
    "file": "EPIC.png"
+  },
+  {
+   "symbol": "REZ",
+   "name": "Renzo",
+   "sigma": 2.51,
+   "from_btc_pct": 9,
+   "verdict": "Neutral",
+   "file": "REZ.png"
   }
  ]
 }
