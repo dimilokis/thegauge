@@ -1,15 +1,7 @@
 {
  "date": "2026-10-20",
- "generated_at": "2026-10-20T23:15:56.176836+00:00",
+ "generated_at": "2026-10-20T23:45:56.975782+00:00",
  "assets": [
-  {
-   "symbol": "ALT",
-   "name": "AltLayer",
-   "sigma": 6.39,
-   "from_btc_pct": 19,
-   "verdict": "Overbought",
-   "file": "ALT.png"
-  },
   {
    "symbol": "COMP",
    "name": "Compound",
@@ -33,6 +25,14 @@
    "from_btc_pct": 6,
    "verdict": "Neutral",
    "file": "IOST.png"
+  },
+  {
+   "symbol": "ALT",
+   "name": "AltLayer",
+   "sigma": 2.89,
+   "from_btc_pct": 30,
+   "verdict": "Overbought",
+   "file": "ALT.png"
   },
   {
    "symbol": "REZ",
@@ -61,7 +61,7 @@
   {
    "symbol": "THETA",
    "name": "Theta Network",
-   "sigma": 2.53,
+   "sigma": 2.52,
    "from_btc_pct": 35,
    "verdict": "Neutral",
    "file": "THETA.png"
