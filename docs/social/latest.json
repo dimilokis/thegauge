@@ -1,6 +1,6 @@
 {
  "date": "2026-10-20",
- "generated_at": "2026-10-20T17:15:56.859154+00:00",
+ "generated_at": "2026-10-20T17:45:52.311824+00:00",
  "assets": [
   {
    "symbol": "ALT",
@@ -27,14 +27,6 @@
    "file": "COMP.png"
   },
   {
-   "symbol": "ERA",
-   "name": "Caldera",
-   "sigma": 3.25,
-   "from_btc_pct": 14,
-   "verdict": "Neutral",
-   "file": "ERA.png"
-  },
-  {
    "symbol": "GNS",
    "name": "Gains Network",
    "sigma": 2.7,
@@ -49,6 +41,14 @@
    "from_btc_pct": 18,
    "verdict": "Oversold",
    "file": "EPIC.png"
+  },
+  {
+   "symbol": "ERA",
+   "name": "Caldera",
+   "sigma": 2.62,
+   "from_btc_pct": 19,
+   "verdict": "Neutral",
+   "file": "ERA.png"
   },
   {
    "symbol": "REZ",
