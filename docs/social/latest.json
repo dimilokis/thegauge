@@ -1,6 +1,6 @@
 {
  "date": "2026-10-20",
- "generated_at": "2026-10-20T09:31:00.036421+00:00",
+ "generated_at": "2026-10-20T10:24:09.393743+00:00",
  "assets": [
   {
    "symbol": "ALT",
@@ -17,6 +17,14 @@
    "from_btc_pct": 14,
    "verdict": "Neutral",
    "file": "ERA.png"
+  },
+  {
+   "symbol": "EPIC",
+   "name": "Epic Chain",
+   "sigma": 2.64,
+   "from_btc_pct": 18,
+   "verdict": "Oversold",
+   "file": "EPIC.png"
   },
   {
    "symbol": "GNS",
