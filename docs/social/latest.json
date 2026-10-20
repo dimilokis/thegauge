@@ -1,6 +1,6 @@
 {
  "date": "2026-10-20",
- "generated_at": "2026-10-20T21:01:02.262240+00:00",
+ "generated_at": "2026-10-20T22:30:57.424403+00:00",
  "assets": [
   {
    "symbol": "ALT",
@@ -61,8 +61,8 @@
   {
    "symbol": "THETA",
    "name": "Theta Network",
-   "sigma": 2.61,
-   "from_btc_pct": 33,
+   "sigma": 2.53,
+   "from_btc_pct": 35,
    "verdict": "Neutral",
    "file": "THETA.png"
   }
