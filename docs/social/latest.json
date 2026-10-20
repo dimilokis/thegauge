@@ -1,46 +1,14 @@
 {
- "date": "2026-10-19",
- "generated_at": "2026-10-19T23:45:52.366631+00:00",
+ "date": "2026-10-20",
+ "generated_at": "2026-10-20T03:45:51.784274+00:00",
  "assets": [
   {
-   "symbol": "WLFI",
-   "name": "World Liberty Financial",
-   "sigma": 2.57,
-   "from_btc_pct": 5,
-   "verdict": "Neutral",
-   "file": "WLFI.png"
-  },
-  {
-   "symbol": "AVA",
-   "name": "AVA (Travala)",
-   "sigma": 2.55,
-   "from_btc_pct": 0,
+   "symbol": "ALT",
+   "name": "AltLayer",
+   "sigma": 6.39,
+   "from_btc_pct": 19,
    "verdict": "Overbought",
-   "file": "AVA.png"
-  },
-  {
-   "symbol": "OSMO",
-   "name": "Osmosis",
-   "sigma": 2.55,
-   "from_btc_pct": 5,
-   "verdict": "Overbought",
-   "file": "OSMO.png"
-  },
-  {
-   "symbol": "PHA",
-   "name": "PHALA",
-   "sigma": 2.54,
-   "from_btc_pct": 11,
-   "verdict": "Neutral",
-   "file": "PHA.png"
-  },
-  {
-   "symbol": "GTC",
-   "name": "Gitcoin",
-   "sigma": 2.52,
-   "from_btc_pct": 0,
-   "verdict": "Overbought",
-   "file": "GTC.png"
+   "file": "ALT.png"
   }
  ]
 }
