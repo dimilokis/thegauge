@@ -1,7 +1,15 @@
 {
  "date": "2026-10-21",
- "generated_at": "2026-10-21T16:00:56.554053+00:00",
+ "generated_at": "2026-10-21T16:30:50.932410+00:00",
  "assets": [
+  {
+   "symbol": "ALT",
+   "name": "AltLayer",
+   "sigma": 11.32,
+   "from_btc_pct": 36,
+   "verdict": "Overbought",
+   "file": "ALT.png"
+  },
   {
    "symbol": "PARTI",
    "name": "Particle Network",
