@@ -1,6 +1,6 @@
 {
  "date": "2026-10-21",
- "generated_at": "2026-10-21T13:01:03.604699+00:00",
+ "generated_at": "2026-10-21T14:01:02.230405+00:00",
  "assets": [
   {
    "symbol": "PARTI",
@@ -17,6 +17,14 @@
    "from_btc_pct": 4,
    "verdict": "Oversold",
    "file": "MITO.png"
+  },
+  {
+   "symbol": "W",
+   "name": "Wormhole",
+   "sigma": 2.85,
+   "from_btc_pct": 12,
+   "verdict": "Neutral",
+   "file": "W.png"
   },
   {
    "symbol": "AT",
