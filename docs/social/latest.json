@@ -1,6 +1,6 @@
 {
  "date": "2026-10-21",
- "generated_at": "2026-10-21T10:01:02.389005+00:00",
+ "generated_at": "2026-10-21T13:01:03.604699+00:00",
  "assets": [
   {
    "symbol": "PARTI",
@@ -19,10 +19,18 @@
    "file": "MITO.png"
   },
   {
+   "symbol": "AT",
+   "name": "Apro",
+   "sigma": 2.66,
+   "from_btc_pct": 2,
+   "verdict": "Neutral",
+   "file": "AT.png"
+  },
+  {
    "symbol": "IOST",
    "name": "IOST",
-   "sigma": 2.85,
-   "from_btc_pct": 13,
+   "sigma": 2.51,
+   "from_btc_pct": 15,
    "verdict": "Overbought",
    "file": "IOST.png"
   }
