@@ -1,6 +1,6 @@
 {
  "date": "2026-10-21",
- "generated_at": "2026-10-21T16:30:50.932410+00:00",
+ "generated_at": "2026-10-21T16:45:51.453966+00:00",
  "assets": [
   {
    "symbol": "ALT",
@@ -27,6 +27,14 @@
    "file": "MITO.png"
   },
   {
+   "symbol": "IOST",
+   "name": "IOST",
+   "sigma": 3.61,
+   "from_btc_pct": 24,
+   "verdict": "Overbought",
+   "file": "IOST.png"
+  },
+  {
    "symbol": "W",
    "name": "Wormhole",
    "sigma": 3.29,
@@ -41,14 +49,6 @@
    "from_btc_pct": 2,
    "verdict": "Neutral",
    "file": "AT.png"
-  },
-  {
-   "symbol": "IOST",
-   "name": "IOST",
-   "sigma": 2.53,
-   "from_btc_pct": 24,
-   "verdict": "Overbought",
-   "file": "IOST.png"
   }
  ]
 }
