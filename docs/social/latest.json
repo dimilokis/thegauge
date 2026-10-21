@@ -1,6 +1,6 @@
 {
  "date": "2026-10-21",
- "generated_at": "2026-10-21T17:15:54.751871+00:00",
+ "generated_at": "2026-10-21T20:00:53.836650+00:00",
  "assets": [
   {
    "symbol": "ALT",
@@ -25,6 +25,14 @@
    "from_btc_pct": 4,
    "verdict": "Oversold",
    "file": "MITO.png"
+  },
+  {
+   "symbol": "DYM",
+   "name": "Dymension",
+   "sigma": 3.62,
+   "from_btc_pct": 33,
+   "verdict": "Overbought",
+   "file": "DYM.png"
   },
   {
    "symbol": "IOST",
