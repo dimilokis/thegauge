@@ -1,6 +1,6 @@
 {
  "date": "2026-10-21",
- "generated_at": "2026-10-21T16:45:51.453966+00:00",
+ "generated_at": "2026-10-21T17:15:54.751871+00:00",
  "assets": [
   {
    "symbol": "ALT",
@@ -35,20 +35,20 @@
    "file": "IOST.png"
   },
   {
-   "symbol": "W",
-   "name": "Wormhole",
-   "sigma": 3.29,
-   "from_btc_pct": 15,
-   "verdict": "Neutral",
-   "file": "W.png"
-  },
-  {
    "symbol": "AT",
    "name": "Apro",
    "sigma": 2.66,
    "from_btc_pct": 2,
    "verdict": "Neutral",
    "file": "AT.png"
+  },
+  {
+   "symbol": "W",
+   "name": "Wormhole",
+   "sigma": 2.53,
+   "from_btc_pct": 14,
+   "verdict": "Neutral",
+   "file": "W.png"
   }
  ]
 }
