@@ -1,6 +1,6 @@
 {
  "date": "2026-10-21",
- "generated_at": "2026-10-21T14:01:02.230405+00:00",
+ "generated_at": "2026-10-21T15:15:53.910220+00:00",
  "assets": [
   {
    "symbol": "PARTI",
@@ -21,8 +21,8 @@
   {
    "symbol": "W",
    "name": "Wormhole",
-   "sigma": 2.85,
-   "from_btc_pct": 12,
+   "sigma": 3.29,
+   "from_btc_pct": 15,
    "verdict": "Neutral",
    "file": "W.png"
   },
