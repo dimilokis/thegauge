@@ -1,6 +1,6 @@
 {
  "date": "2026-10-21",
- "generated_at": "2026-10-21T15:15:53.910220+00:00",
+ "generated_at": "2026-10-21T16:00:56.554053+00:00",
  "assets": [
   {
    "symbol": "PARTI",
@@ -37,8 +37,8 @@
   {
    "symbol": "IOST",
    "name": "IOST",
-   "sigma": 2.51,
-   "from_btc_pct": 15,
+   "sigma": 2.53,
+   "from_btc_pct": 24,
    "verdict": "Overbought",
    "file": "IOST.png"
   }
