@@ -1,6 +1,6 @@
 {
  "date": "2026-10-22",
- "generated_at": "2026-10-22T10:00:58.490022+00:00",
+ "generated_at": "2026-10-22T10:30:48.841630+00:00",
  "assets": [
   {
    "symbol": "ALT",
@@ -9,6 +9,22 @@
    "from_btc_pct": 30,
    "verdict": "Neutral",
    "file": "ALT.png"
+  },
+  {
+   "symbol": "AI",
+   "name": "Gensyn",
+   "sigma": 3.92,
+   "from_btc_pct": 1,
+   "verdict": "Overbought",
+   "file": "AI.png"
+  },
+  {
+   "symbol": "MASK",
+   "name": "Mask Network",
+   "sigma": 3.1,
+   "from_btc_pct": 20,
+   "verdict": "Overbought",
+   "file": "MASK.png"
   },
   {
    "symbol": "ARKM",
