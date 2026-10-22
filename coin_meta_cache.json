@@ -248,7 +248,7 @@
   "name": "Bitcoin Cash"
  },
  "BEB": {
-  "icon": "https://coin-images.coingecko.com/coins/images/102175187/large/BEB.png",
+  "icon": "https://coin-images.coingecko.com/coins/images/102175187/large/BEB.png?1785457021",
   "name": "Bloom Energy (bStocks Tokenized Stock)"
  },
  "BEL": {
@@ -785,7 +785,7 @@
  },
  "KORUB": {
   "icon": "https://coin-images.coingecko.com/coins/images/102174771/large/korub.png?1784798671",
-  "name": "South Korea Bull 3X ETF (bStocks Tokenized Stock)"
+  "name": "South Korea Bull 3X ETF (bStocks Tokenized ETF)"
  },
  "KSM": {
   "icon": "https://coin-images.coingecko.com/coins/images/9568/large/m4zRhP5e_400x400.jpg?1696509648",
@@ -1285,7 +1285,7 @@
  },
  "SNXXB": {
   "icon": "https://coin-images.coingecko.com/coins/images/102174764/large/SNXXB.png?1784797018",
-  "name": "Tradr 2X Long SNDK ETF (bStocks Tokenized Stock)"
+  "name": "Tradr 2X Long SNDK ETF (bStocks Tokenized ETF)"
  },
  "SOL": {
   "icon": "https://coin-images.coingecko.com/coins/images/4128/large/solana.png?1718769756",
