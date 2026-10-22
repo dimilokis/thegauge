@@ -1,6 +1,6 @@
 {
  "date": "2026-10-22",
- "generated_at": "2026-10-22T06:51:07.993515+00:00",
+ "generated_at": "2026-10-22T09:30:55.554838+00:00",
  "assets": [
   {
    "symbol": "ALT",
@@ -9,6 +9,14 @@
    "from_btc_pct": 30,
    "verdict": "Neutral",
    "file": "ALT.png"
+  },
+  {
+   "symbol": "ARKM",
+   "name": "Arkham",
+   "sigma": 2.99,
+   "from_btc_pct": 13,
+   "verdict": "Overbought",
+   "file": "ARKM.png"
   },
   {
    "symbol": "LUMIA",
