@@ -1,11 +1,11 @@
 {
  "date": "2026-10-22",
- "generated_at": "2026-10-22T22:15:51.892332+00:00",
+ "generated_at": "2026-10-22T23:01:07.775889+00:00",
  "assets": [
   {
    "symbol": "ALT",
    "name": "AltLayer",
-   "sigma": 9.24,
+   "sigma": 9.65,
    "from_btc_pct": 40,
    "verdict": "Neutral",
    "file": "ALT.png"
