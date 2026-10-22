@@ -1,6 +1,6 @@
 {
  "date": "2026-10-22",
- "generated_at": "2026-10-22T10:30:48.841630+00:00",
+ "generated_at": "2026-10-22T11:15:49.539719+00:00",
  "assets": [
   {
    "symbol": "ALT",
@@ -37,9 +37,9 @@
   {
    "symbol": "LUMIA",
    "name": "Lumia",
-   "sigma": 2.6,
-   "from_btc_pct": 17,
-   "verdict": "Neutral",
+   "sigma": 2.57,
+   "from_btc_pct": 32,
+   "verdict": "Oversold",
    "file": "LUMIA.png"
   }
  ]
