@@ -1,62 +1,14 @@
 {
- "date": "2026-10-21",
- "generated_at": "2026-10-21T20:00:53.836650+00:00",
+ "date": "2026-10-22",
+ "generated_at": "2026-10-22T06:00:57.529665+00:00",
  "assets": [
   {
    "symbol": "ALT",
    "name": "AltLayer",
-   "sigma": 11.32,
-   "from_btc_pct": 36,
-   "verdict": "Overbought",
+   "sigma": 4.88,
+   "from_btc_pct": 30,
+   "verdict": "Neutral",
    "file": "ALT.png"
-  },
-  {
-   "symbol": "PARTI",
-   "name": "Particle Network",
-   "sigma": 7.23,
-   "from_btc_pct": 3,
-   "verdict": "Overbought",
-   "file": "PARTI.png"
-  },
-  {
-   "symbol": "MITO",
-   "name": "Mitosis",
-   "sigma": 4.98,
-   "from_btc_pct": 4,
-   "verdict": "Oversold",
-   "file": "MITO.png"
-  },
-  {
-   "symbol": "DYM",
-   "name": "Dymension",
-   "sigma": 3.62,
-   "from_btc_pct": 33,
-   "verdict": "Overbought",
-   "file": "DYM.png"
-  },
-  {
-   "symbol": "IOST",
-   "name": "IOST",
-   "sigma": 3.61,
-   "from_btc_pct": 24,
-   "verdict": "Overbought",
-   "file": "IOST.png"
-  },
-  {
-   "symbol": "AT",
-   "name": "Apro",
-   "sigma": 2.66,
-   "from_btc_pct": 2,
-   "verdict": "Neutral",
-   "file": "AT.png"
-  },
-  {
-   "symbol": "W",
-   "name": "Wormhole",
-   "sigma": 2.53,
-   "from_btc_pct": 14,
-   "verdict": "Neutral",
-   "file": "W.png"
   }
  ]
 }
