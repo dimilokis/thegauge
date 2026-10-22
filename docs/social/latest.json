@@ -1,6 +1,6 @@
 {
  "date": "2026-10-22",
- "generated_at": "2026-10-22T21:15:50.579032+00:00",
+ "generated_at": "2026-10-22T22:15:51.892332+00:00",
  "assets": [
   {
    "symbol": "ALT",
@@ -41,6 +41,14 @@
    "from_btc_pct": 14,
    "verdict": "Overbought",
    "file": "ARKM.png"
+  },
+  {
+   "symbol": "WLFI",
+   "name": "World Liberty Financial",
+   "sigma": 2.99,
+   "from_btc_pct": 36,
+   "verdict": "Neutral",
+   "file": "WLFI.png"
   },
   {
    "symbol": "LUMIA",
