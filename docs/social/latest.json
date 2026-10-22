@@ -1,7 +1,15 @@
 {
  "date": "2026-10-22",
- "generated_at": "2026-10-22T11:15:49.539719+00:00",
+ "generated_at": "2026-10-22T17:40:46.679360+00:00",
  "assets": [
+  {
+   "symbol": "MRNAB",
+   "name": "Moderna (bStocks Tokenized Stock)",
+   "sigma": 6.0,
+   "from_btc_pct": 19,
+   "verdict": "Neutral",
+   "file": "MRNAB.png"
+  },
   {
    "symbol": "ALT",
    "name": "AltLayer",

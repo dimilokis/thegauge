@@ -923,6 +923,10 @@
   "icon": "https://coin-images.coingecko.com/coins/images/17984/large/Moonriver_MOVR_ICON.png?1716647589",
   "name": "Moonriver"
  },
+ "MRNAB": {
+  "icon": "https://coin-images.coingecko.com/coins/images/102179140/large/mrnab.png",
+  "name": "Moderna (bStocks Tokenized Stock)"
+ },
  "MRVLB": {
   "icon": "https://coin-images.coingecko.com/coins/images/102174586/large/mrvlb-bstocks.png?1784149265",
   "name": "Marvell Technology (bStocks Tokenized Stock)"
