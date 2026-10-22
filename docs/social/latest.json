@@ -1,7 +1,15 @@
 {
  "date": "2026-10-22",
- "generated_at": "2026-10-22T17:40:46.679360+00:00",
+ "generated_at": "2026-10-22T19:00:58.594775+00:00",
  "assets": [
+  {
+   "symbol": "ALT",
+   "name": "AltLayer",
+   "sigma": 9.16,
+   "from_btc_pct": 40,
+   "verdict": "Neutral",
+   "file": "ALT.png"
+  },
   {
    "symbol": "MRNAB",
    "name": "Moderna (bStocks Tokenized Stock)",
@@ -9,14 +17,6 @@
    "from_btc_pct": 19,
    "verdict": "Neutral",
    "file": "MRNAB.png"
-  },
-  {
-   "symbol": "ALT",
-   "name": "AltLayer",
-   "sigma": 4.88,
-   "from_btc_pct": 30,
-   "verdict": "Neutral",
-   "file": "ALT.png"
   },
   {
    "symbol": "AI",
