@@ -1,6 +1,6 @@
 {
  "date": "2026-10-23",
- "generated_at": "2026-10-23T18:01:04.669156+00:00",
+ "generated_at": "2026-10-23T18:15:53.694668+00:00",
  "assets": [
   {
    "symbol": "ARK",
@@ -19,14 +19,6 @@
    "file": "SOPH.png"
   },
   {
-   "symbol": "WCT",
-   "name": "WalletConnect Token",
-   "sigma": 3.04,
-   "from_btc_pct": 13,
-   "verdict": "Neutral",
-   "file": "WCT.png"
-  },
-  {
    "symbol": "ERA",
    "name": "Caldera",
    "sigma": 3.01,
@@ -41,6 +33,14 @@
    "from_btc_pct": 1,
    "verdict": "Overbought",
    "file": "INIT.png"
+  },
+  {
+   "symbol": "WCT",
+   "name": "WalletConnect Token",
+   "sigma": 2.5,
+   "from_btc_pct": 13,
+   "verdict": "Neutral",
+   "file": "WCT.png"
   }
  ]
 }
