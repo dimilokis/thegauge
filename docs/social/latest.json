@@ -1,7 +1,15 @@
 {
  "date": "2026-10-23",
- "generated_at": "2026-10-23T10:30:51.391147+00:00",
+ "generated_at": "2026-10-23T12:45:55.261845+00:00",
  "assets": [
+  {
+   "symbol": "ARK",
+   "name": "ARK",
+   "sigma": 3.82,
+   "from_btc_pct": 2,
+   "verdict": "Overbought",
+   "file": "ARK.png"
+  },
   {
    "symbol": "SOPH",
    "name": "Sophon",
