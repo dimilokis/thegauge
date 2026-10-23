@@ -1,6 +1,6 @@
 {
  "date": "2026-10-23",
- "generated_at": "2026-10-23T18:15:53.694668+00:00",
+ "generated_at": "2026-10-23T18:46:09.629726+00:00",
  "assets": [
   {
    "symbol": "ARK",
@@ -19,14 +19,6 @@
    "file": "SOPH.png"
   },
   {
-   "symbol": "ERA",
-   "name": "Caldera",
-   "sigma": 3.01,
-   "from_btc_pct": 16,
-   "verdict": "Overbought",
-   "file": "ERA.png"
-  },
-  {
    "symbol": "INIT",
    "name": "Initia",
    "sigma": 3.0,
@@ -35,12 +27,28 @@
    "file": "INIT.png"
   },
   {
+   "symbol": "BEAMX",
+   "name": null,
+   "sigma": 2.96,
+   "from_btc_pct": 13,
+   "verdict": "Overbought",
+   "file": "BEAMX.png"
+  },
+  {
    "symbol": "WCT",
    "name": "WalletConnect Token",
    "sigma": 2.5,
    "from_btc_pct": 13,
    "verdict": "Neutral",
    "file": "WCT.png"
+  },
+  {
+   "symbol": "ERA",
+   "name": "Caldera",
+   "sigma": 2.5,
+   "from_btc_pct": 16,
+   "verdict": "Overbought",
+   "file": "ERA.png"
   }
  ]
 }
