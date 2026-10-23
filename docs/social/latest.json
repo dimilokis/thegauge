@@ -1,62 +1,14 @@
 {
- "date": "2026-10-22",
- "generated_at": "2026-10-22T23:45:57.167140+00:00",
+ "date": "2026-10-23",
+ "generated_at": "2026-10-23T08:15:52.347921+00:00",
  "assets": [
   {
-   "symbol": "ALT",
-   "name": "AltLayer",
-   "sigma": 9.44,
-   "from_btc_pct": 40,
-   "verdict": "Neutral",
-   "file": "ALT.png"
-  },
-  {
-   "symbol": "MRNAB",
-   "name": "Moderna (bStocks Tokenized Stock)",
-   "sigma": 6.0,
-   "from_btc_pct": 19,
-   "verdict": "Neutral",
-   "file": "MRNAB.png"
-  },
-  {
-   "symbol": "AI",
-   "name": "Gensyn",
-   "sigma": 3.92,
-   "from_btc_pct": 1,
+   "symbol": "ERA",
+   "name": "Caldera",
+   "sigma": 2.97,
+   "from_btc_pct": 17,
    "verdict": "Overbought",
-   "file": "AI.png"
-  },
-  {
-   "symbol": "MASK",
-   "name": "Mask Network",
-   "sigma": 3.1,
-   "from_btc_pct": 20,
-   "verdict": "Overbought",
-   "file": "MASK.png"
-  },
-  {
-   "symbol": "ARKM",
-   "name": "Arkham",
-   "sigma": 3.05,
-   "from_btc_pct": 14,
-   "verdict": "Overbought",
-   "file": "ARKM.png"
-  },
-  {
-   "symbol": "WLFI",
-   "name": "World Liberty Financial",
-   "sigma": 2.99,
-   "from_btc_pct": 36,
-   "verdict": "Neutral",
-   "file": "WLFI.png"
-  },
-  {
-   "symbol": "LUMIA",
-   "name": "Lumia",
-   "sigma": 2.57,
-   "from_btc_pct": 32,
-   "verdict": "Oversold",
-   "file": "LUMIA.png"
+   "file": "ERA.png"
   }
  ]
 }
