@@ -1,7 +1,15 @@
 {
  "date": "2026-10-23",
- "generated_at": "2026-10-23T08:15:52.347921+00:00",
+ "generated_at": "2026-10-23T10:30:51.391147+00:00",
  "assets": [
+  {
+   "symbol": "SOPH",
+   "name": "Sophon",
+   "sigma": 3.36,
+   "from_btc_pct": 1,
+   "verdict": "Oversold",
+   "file": "SOPH.png"
+  },
   {
    "symbol": "ERA",
    "name": "Caldera",
