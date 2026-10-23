@@ -291,6 +291,10 @@
   "icon": "https://coin-images.coingecko.com/coins/images/825/large/bnb-icon2_2x.png?1696501970",
   "name": "BNB"
  },
+ "BNCB": {
+  "icon": "https://coin-images.coingecko.com/coins/images/102178415/large/CEA_bstock.png?1789526108",
+  "name": "CEA Industries (bStocks Tokenized Stock)"
+ },
  "BNSOL": {
   "icon": "https://coin-images.coingecko.com/coins/images/40132/large/bnsol.png",
   "name": "Binance Staked SOL"
