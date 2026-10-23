@@ -1,6 +1,6 @@
 {
  "date": "2026-10-23",
- "generated_at": "2026-10-23T13:15:52.988037+00:00",
+ "generated_at": "2026-10-23T15:30:58.964335+00:00",
  "assets": [
   {
    "symbol": "ARK",
@@ -21,8 +21,8 @@
   {
    "symbol": "ERA",
    "name": "Caldera",
-   "sigma": 2.63,
-   "from_btc_pct": 17,
+   "sigma": 3.01,
+   "from_btc_pct": 16,
    "verdict": "Overbought",
    "file": "ERA.png"
   }
