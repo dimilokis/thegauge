@@ -1,6 +1,6 @@
 {
  "date": "2026-10-23",
- "generated_at": "2026-10-23T20:15:57.825060+00:00",
+ "generated_at": "2026-10-23T23:01:06.557359+00:00",
  "assets": [
   {
    "symbol": "ARK",
@@ -25,6 +25,14 @@
    "from_btc_pct": 15,
    "verdict": "Overbought",
    "file": "ERA.png"
+  },
+  {
+   "symbol": "GRAM",
+   "name": "Gram (prev. Toncoin)",
+   "sigma": 3.11,
+   "from_btc_pct": 30,
+   "verdict": "Oversold",
+   "file": "GRAM.png"
   },
   {
    "symbol": "INIT",
