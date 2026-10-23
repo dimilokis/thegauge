@@ -1,6 +1,6 @@
 {
  "date": "2026-10-23",
- "generated_at": "2026-10-23T17:00:56.824410+00:00",
+ "generated_at": "2026-10-23T17:15:48.262979+00:00",
  "assets": [
   {
    "symbol": "INIT",
@@ -25,6 +25,14 @@
    "from_btc_pct": 1,
    "verdict": "Oversold",
    "file": "SOPH.png"
+  },
+  {
+   "symbol": "WCT",
+   "name": "WalletConnect Token",
+   "sigma": 3.04,
+   "from_btc_pct": 13,
+   "verdict": "Neutral",
+   "file": "WCT.png"
   },
   {
    "symbol": "ERA",
