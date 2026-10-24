@@ -1,6 +1,6 @@
 {
  "date": "2026-10-24",
- "generated_at": "2026-10-24T16:30:52.545672+00:00",
+ "generated_at": "2026-10-24T17:00:56.284748+00:00",
  "assets": [
   {
    "symbol": "KAT",
@@ -17,14 +17,6 @@
    "from_btc_pct": 16,
    "verdict": "Neutral",
    "file": "ANIME.png"
-  },
-  {
-   "symbol": "TREE",
-   "name": "Treehouse",
-   "sigma": 3.36,
-   "from_btc_pct": 14,
-   "verdict": "Overbought",
-   "file": "TREE.png"
   },
   {
    "symbol": "ERA",
@@ -65,6 +57,14 @@
    "from_btc_pct": 2,
    "verdict": "Overbought",
    "file": "REZ.png"
+  },
+  {
+   "symbol": "TREE",
+   "name": "Treehouse",
+   "sigma": 2.53,
+   "from_btc_pct": 15,
+   "verdict": "Neutral",
+   "file": "TREE.png"
   }
  ]
 }
