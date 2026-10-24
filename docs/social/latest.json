@@ -1,6 +1,6 @@
 {
  "date": "2026-10-24",
- "generated_at": "2026-10-24T13:15:51.162220+00:00",
+ "generated_at": "2026-10-24T14:30:52.568832+00:00",
  "assets": [
   {
    "symbol": "KAT",
@@ -13,8 +13,8 @@
   {
    "symbol": "TREE",
    "name": "Treehouse",
-   "sigma": 3.64,
-   "from_btc_pct": 17,
+   "sigma": 3.36,
+   "from_btc_pct": 14,
    "verdict": "Overbought",
    "file": "TREE.png"
   },
@@ -43,20 +43,20 @@
    "file": "BREV.png"
   },
   {
-   "symbol": "REZ",
-   "name": "Renzo",
-   "sigma": 2.89,
-   "from_btc_pct": 2,
-   "verdict": "Overbought",
-   "file": "REZ.png"
-  },
-  {
    "symbol": "INIT",
    "name": "Initia",
    "sigma": 2.63,
    "from_btc_pct": 1,
    "verdict": "Overbought",
    "file": "INIT.png"
+  },
+  {
+   "symbol": "REZ",
+   "name": "Renzo",
+   "sigma": 2.58,
+   "from_btc_pct": 2,
+   "verdict": "Overbought",
+   "file": "REZ.png"
   }
  ]
 }
