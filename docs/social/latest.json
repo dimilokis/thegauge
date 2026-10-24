@@ -1,78 +1,22 @@
 {
- "date": "2026-10-23",
- "generated_at": "2026-10-24T02:45:50.289699+00:00",
+ "date": "2026-10-24",
+ "generated_at": "2026-10-24T03:45:50.812023+00:00",
  "assets": [
-  {
-   "symbol": "BMT",
-   "name": "Bubblemaps",
-   "sigma": 4.56,
-   "from_btc_pct": 0,
-   "verdict": "Overbought",
-   "file": "BMT.png"
-  },
-  {
-   "symbol": "ARK",
-   "name": "ARK",
-   "sigma": 3.82,
-   "from_btc_pct": 2,
-   "verdict": "Overbought",
-   "file": "ARK.png"
-  },
-  {
-   "symbol": "SOPH",
-   "name": "Sophon",
-   "sigma": 3.36,
-   "from_btc_pct": 1,
-   "verdict": "Oversold",
-   "file": "SOPH.png"
-  },
-  {
-   "symbol": "TREE",
-   "name": "Treehouse",
-   "sigma": 3.36,
-   "from_btc_pct": 19,
-   "verdict": "Overbought",
-   "file": "TREE.png"
-  },
-  {
-   "symbol": "GRAM",
-   "name": "Gram (prev. Toncoin)",
-   "sigma": 3.11,
-   "from_btc_pct": 30,
-   "verdict": "Oversold",
-   "file": "GRAM.png"
-  },
-  {
-   "symbol": "INIT",
-   "name": "Initia",
-   "sigma": 3.0,
-   "from_btc_pct": 1,
-   "verdict": "Overbought",
-   "file": "INIT.png"
-  },
-  {
-   "symbol": "BEAMX",
-   "name": null,
-   "sigma": 2.96,
-   "from_btc_pct": 13,
-   "verdict": "Overbought",
-   "file": "BEAMX.png"
-  },
   {
    "symbol": "ERA",
    "name": "Caldera",
-   "sigma": 2.65,
-   "from_btc_pct": 10,
+   "sigma": 3.64,
+   "from_btc_pct": 11,
    "verdict": "Overbought",
    "file": "ERA.png"
   },
   {
-   "symbol": "WCT",
-   "name": "WalletConnect Token",
-   "sigma": 2.5,
-   "from_btc_pct": 13,
+   "symbol": "TREE",
+   "name": "Treehouse",
+   "sigma": 2.53,
+   "from_btc_pct": 21,
    "verdict": "Neutral",
-   "file": "WCT.png"
+   "file": "TREE.png"
   }
  ]
 }
