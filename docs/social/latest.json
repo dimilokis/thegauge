@@ -1,6 +1,6 @@
 {
  "date": "2026-10-24",
- "generated_at": "2026-10-24T04:15:53.164138+00:00",
+ "generated_at": "2026-10-24T04:33:48.549307+00:00",
  "assets": [
   {
    "symbol": "ERA",
@@ -9,6 +9,14 @@
    "from_btc_pct": 11,
    "verdict": "Overbought",
    "file": "ERA.png"
+  },
+  {
+   "symbol": "INIT",
+   "name": "Initia",
+   "sigma": 2.63,
+   "from_btc_pct": 1,
+   "verdict": "Overbought",
+   "file": "INIT.png"
   },
   {
    "symbol": "TREE",
