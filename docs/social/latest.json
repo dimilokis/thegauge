@@ -1,6 +1,6 @@
 {
  "date": "2026-10-24",
- "generated_at": "2026-10-24T14:30:52.568832+00:00",
+ "generated_at": "2026-10-24T15:01:02.480942+00:00",
  "assets": [
   {
    "symbol": "KAT",
@@ -9,6 +9,14 @@
    "from_btc_pct": 0,
    "verdict": "Overbought",
    "file": "KAT.png"
+  },
+  {
+   "symbol": "ANIME",
+   "name": "Animecoin",
+   "sigma": 3.81,
+   "from_btc_pct": 16,
+   "verdict": "Neutral",
+   "file": "ANIME.png"
   },
   {
    "symbol": "TREE",
