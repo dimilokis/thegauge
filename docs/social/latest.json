@@ -1,7 +1,15 @@
 {
  "date": "2026-10-23",
- "generated_at": "2026-10-24T02:30:53.662981+00:00",
+ "generated_at": "2026-10-24T02:45:50.289699+00:00",
  "assets": [
+  {
+   "symbol": "BMT",
+   "name": "Bubblemaps",
+   "sigma": 4.56,
+   "from_btc_pct": 0,
+   "verdict": "Overbought",
+   "file": "BMT.png"
+  },
   {
    "symbol": "ARK",
    "name": "ARK",
