@@ -1,6 +1,6 @@
 {
  "date": "2026-10-24",
- "generated_at": "2026-10-24T12:30:54.516161+00:00",
+ "generated_at": "2026-10-24T13:15:51.162220+00:00",
  "assets": [
   {
    "symbol": "KAT",
@@ -17,6 +17,14 @@
    "from_btc_pct": 17,
    "verdict": "Overbought",
    "file": "TREE.png"
+  },
+  {
+   "symbol": "ERA",
+   "name": "Caldera",
+   "sigma": 3.3,
+   "from_btc_pct": 10,
+   "verdict": "Overbought",
+   "file": "ERA.png"
   },
   {
    "symbol": "LA",
@@ -41,14 +49,6 @@
    "from_btc_pct": 2,
    "verdict": "Overbought",
    "file": "REZ.png"
-  },
-  {
-   "symbol": "ERA",
-   "name": "Caldera",
-   "sigma": 2.82,
-   "from_btc_pct": 11,
-   "verdict": "Overbought",
-   "file": "ERA.png"
   },
   {
    "symbol": "INIT",
