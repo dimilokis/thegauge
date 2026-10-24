@@ -1,6 +1,6 @@
 {
  "date": "2026-10-24",
- "generated_at": "2026-10-24T09:01:01.543577+00:00",
+ "generated_at": "2026-10-24T09:30:54.650708+00:00",
  "assets": [
   {
    "symbol": "ERA",
@@ -37,7 +37,7 @@
   {
    "symbol": "REZ",
    "name": "Renzo",
-   "sigma": 2.54,
+   "sigma": 2.59,
    "from_btc_pct": 2,
    "verdict": "Overbought",
    "file": "REZ.png"
