@@ -1,6 +1,6 @@
 {
  "date": "2026-10-24",
- "generated_at": "2026-10-24T10:15:51.890906+00:00",
+ "generated_at": "2026-10-24T11:00:59.812120+00:00",
  "assets": [
   {
    "symbol": "ERA",
@@ -21,8 +21,8 @@
   {
    "symbol": "LA",
    "name": "Lagrange",
-   "sigma": 3.03,
-   "from_btc_pct": 21,
+   "sigma": 2.99,
+   "from_btc_pct": 22,
    "verdict": "Overbought",
    "file": "LA.png"
   },
@@ -45,7 +45,7 @@
   {
    "symbol": "REZ",
    "name": "Renzo",
-   "sigma": 2.59,
+   "sigma": 2.63,
    "from_btc_pct": 2,
    "verdict": "Overbought",
    "file": "REZ.png"
