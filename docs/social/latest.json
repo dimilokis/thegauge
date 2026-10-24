@@ -1,6 +1,6 @@
 {
  "date": "2026-10-24",
- "generated_at": "2026-10-24T18:00:54.116379+00:00",
+ "generated_at": "2026-10-24T18:30:52.640159+00:00",
  "assets": [
   {
    "symbol": "KAT",
@@ -9,6 +9,14 @@
    "from_btc_pct": 0,
    "verdict": "Overbought",
    "file": "KAT.png"
+  },
+  {
+   "symbol": "EPIC",
+   "name": "Epic Chain",
+   "sigma": 5.33,
+   "from_btc_pct": 0,
+   "verdict": "Oversold",
+   "file": "EPIC.png"
   },
   {
    "symbol": "ANIME",
@@ -46,7 +54,7 @@
    "symbol": "TREE",
    "name": "Treehouse",
    "sigma": 2.81,
-   "from_btc_pct": 15,
+   "from_btc_pct": 16,
    "verdict": "Overbought",
    "file": "TREE.png"
   },
