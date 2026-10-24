@@ -307,6 +307,10 @@
   "icon": "https://coin-images.coingecko.com/coins/images/28600/large/bonk.jpg?1696527587",
   "name": "Bonk"
  },
+ "BREV": {
+  "icon": "https://coin-images.coingecko.com/coins/images/71219/large/brevis-circle_200x200.png",
+  "name": "Brevis"
+ },
  "BTC": {
   "icon": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400",
   "name": "Bitcoin"
