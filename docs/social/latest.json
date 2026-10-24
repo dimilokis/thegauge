@@ -1,6 +1,6 @@
 {
  "date": "2026-10-23",
- "generated_at": "2026-10-24T00:45:49.600819+00:00",
+ "generated_at": "2026-10-24T02:30:53.662981+00:00",
  "assets": [
   {
    "symbol": "ARK",
@@ -17,6 +17,14 @@
    "from_btc_pct": 1,
    "verdict": "Oversold",
    "file": "SOPH.png"
+  },
+  {
+   "symbol": "TREE",
+   "name": "Treehouse",
+   "sigma": 3.36,
+   "from_btc_pct": 19,
+   "verdict": "Overbought",
+   "file": "TREE.png"
   },
   {
    "symbol": "GRAM",
