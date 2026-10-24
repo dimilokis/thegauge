@@ -1,6 +1,6 @@
 {
  "date": "2026-10-24",
- "generated_at": "2026-10-24T05:15:54.499443+00:00",
+ "generated_at": "2026-10-24T06:00:55.314434+00:00",
  "assets": [
   {
    "symbol": "ERA",
@@ -25,6 +25,14 @@
    "from_btc_pct": 1,
    "verdict": "Overbought",
    "file": "INIT.png"
+  },
+  {
+   "symbol": "KAT",
+   "name": "Katana",
+   "sigma": 2.6,
+   "from_btc_pct": 7,
+   "verdict": "Neutral",
+   "file": "KAT.png"
   },
   {
    "symbol": "TREE",
