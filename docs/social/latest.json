@@ -1,7 +1,15 @@
 {
  "date": "2026-10-24",
- "generated_at": "2026-10-24T11:15:48.812887+00:00",
+ "generated_at": "2026-10-24T11:30:54.495764+00:00",
  "assets": [
+  {
+   "symbol": "KAT",
+   "name": "Katana",
+   "sigma": 9.79,
+   "from_btc_pct": 0,
+   "verdict": "Overbought",
+   "file": "KAT.png"
+  },
   {
    "symbol": "ERA",
    "name": "Caldera",
@@ -33,14 +41,6 @@
    "from_btc_pct": 18,
    "verdict": "Overbought",
    "file": "BREV.png"
-  },
-  {
-   "symbol": "KAT",
-   "name": "Katana",
-   "sigma": 2.66,
-   "from_btc_pct": 7,
-   "verdict": "Neutral",
-   "file": "KAT.png"
   },
   {
    "symbol": "INIT",
