@@ -1,6 +1,6 @@
 {
  "date": "2026-10-24",
- "generated_at": "2026-10-24T18:30:52.640159+00:00",
+ "generated_at": "2026-10-24T18:45:46.776279+00:00",
  "assets": [
   {
    "symbol": "KAT",
@@ -59,20 +59,20 @@
    "file": "TREE.png"
   },
   {
+   "symbol": "REZ",
+   "name": "Renzo",
+   "sigma": 2.65,
+   "from_btc_pct": 2,
+   "verdict": "Overbought",
+   "file": "REZ.png"
+  },
+  {
    "symbol": "INIT",
    "name": "Initia",
    "sigma": 2.63,
    "from_btc_pct": 1,
    "verdict": "Overbought",
    "file": "INIT.png"
-  },
-  {
-   "symbol": "REZ",
-   "name": "Renzo",
-   "sigma": 2.58,
-   "from_btc_pct": 2,
-   "verdict": "Overbought",
-   "file": "REZ.png"
   }
  ]
 }
