@@ -1,6 +1,6 @@
 {
  "date": "2026-10-25",
- "generated_at": "2026-10-25T09:45:54.773840+00:00",
+ "generated_at": "2026-10-25T10:30:54.671548+00:00",
  "assets": [
   {
    "symbol": "XEC",
@@ -9,6 +9,14 @@
    "from_btc_pct": 25,
    "verdict": "Neutral",
    "file": "XEC.png"
+  },
+  {
+   "symbol": "STEEM",
+   "name": "Steem",
+   "sigma": 2.95,
+   "from_btc_pct": 17,
+   "verdict": "Neutral",
+   "file": "STEEM.png"
   },
   {
    "symbol": "SAHARA",
