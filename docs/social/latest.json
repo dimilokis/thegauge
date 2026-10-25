@@ -1,6 +1,6 @@
 {
  "date": "2026-10-25",
- "generated_at": "2026-10-25T20:15:55.093248+00:00",
+ "generated_at": "2026-10-25T20:45:51.983242+00:00",
  "assets": [
   {
    "symbol": "XEC",
@@ -41,6 +41,14 @@
    "from_btc_pct": 3,
    "verdict": "Overbought",
    "file": "REZ.png"
+  },
+  {
+   "symbol": "T",
+   "name": "Threshold Network",
+   "sigma": 2.61,
+   "from_btc_pct": 8,
+   "verdict": "Overbought",
+   "file": "T.png"
   },
   {
    "symbol": "SAHARA",
