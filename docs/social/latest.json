@@ -1,6 +1,6 @@
 {
  "date": "2026-10-24",
- "generated_at": "2026-10-25T00:30:57.403366+00:00",
+ "generated_at": "2026-10-25T01:00:55.962344+00:00",
  "assets": [
   {
    "symbol": "KAT",
@@ -17,6 +17,14 @@
    "from_btc_pct": 2,
    "verdict": "Overbought",
    "file": "T.png"
+  },
+  {
+   "symbol": "STEEM",
+   "name": "Steem",
+   "sigma": 9.21,
+   "from_btc_pct": 8,
+   "verdict": "Overbought",
+   "file": "STEEM.png"
   },
   {
    "symbol": "EPIC",
