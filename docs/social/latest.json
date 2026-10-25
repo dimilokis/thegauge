@@ -1,6 +1,6 @@
 {
  "date": "2026-10-25",
- "generated_at": "2026-10-25T22:16:02.414065+00:00",
+ "generated_at": "2026-10-25T23:31:01.069177+00:00",
  "assets": [
   {
    "symbol": "DODO",
@@ -19,14 +19,6 @@
    "file": "XEC.png"
   },
   {
-   "symbol": "AIGENSYN",
-   "name": "Gensyn",
-   "sigma": 3.06,
-   "from_btc_pct": 28,
-   "verdict": "Oversold",
-   "file": "AIGENSYN.png"
-  },
-  {
    "symbol": "ANKR",
    "name": "Ankr Network",
    "sigma": 2.99,
@@ -41,6 +33,14 @@
    "from_btc_pct": 17,
    "verdict": "Neutral",
    "file": "STEEM.png"
+  },
+  {
+   "symbol": "AIGENSYN",
+   "name": "Gensyn",
+   "sigma": 2.66,
+   "from_btc_pct": 31,
+   "verdict": "Oversold",
+   "file": "AIGENSYN.png"
   },
   {
    "symbol": "REZ",
@@ -75,20 +75,20 @@
    "file": "SAHARA.png"
   },
   {
+   "symbol": "KAT",
+   "name": "Katana",
+   "sigma": 2.58,
+   "from_btc_pct": 14,
+   "verdict": "Oversold",
+   "file": "KAT.png"
+  },
+  {
    "symbol": "POLYX",
    "name": "Polymesh",
    "sigma": 2.53,
    "from_btc_pct": 32,
    "verdict": "Neutral",
    "file": "POLYX.png"
-  },
-  {
-   "symbol": "KAT",
-   "name": "Katana",
-   "sigma": 2.52,
-   "from_btc_pct": 12,
-   "verdict": "Oversold",
-   "file": "KAT.png"
   }
  ]
 }
