@@ -1,6 +1,6 @@
 {
  "date": "2026-10-25",
- "generated_at": "2026-10-25T20:45:51.983242+00:00",
+ "generated_at": "2026-10-25T21:15:50.795422+00:00",
  "assets": [
   {
    "symbol": "XEC",
@@ -51,20 +51,20 @@
    "file": "T.png"
   },
   {
+   "symbol": "COMP",
+   "name": "Compound",
+   "sigma": 2.6,
+   "from_btc_pct": 15,
+   "verdict": "Neutral",
+   "file": "COMP.png"
+  },
+  {
    "symbol": "SAHARA",
    "name": "Sahara AI",
    "sigma": 2.59,
    "from_btc_pct": 23,
    "verdict": "Oversold",
    "file": "SAHARA.png"
-  },
-  {
-   "symbol": "COMP",
-   "name": "Compound",
-   "sigma": 2.57,
-   "from_btc_pct": 14,
-   "verdict": "Neutral",
-   "file": "COMP.png"
   },
   {
    "symbol": "POLYX",
