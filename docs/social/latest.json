@@ -1,6 +1,6 @@
 {
  "date": "2026-10-25",
- "generated_at": "2026-10-25T10:30:54.671548+00:00",
+ "generated_at": "2026-10-25T11:30:55.159111+00:00",
  "assets": [
   {
    "symbol": "XEC",
@@ -9,6 +9,14 @@
    "from_btc_pct": 25,
    "verdict": "Neutral",
    "file": "XEC.png"
+  },
+  {
+   "symbol": "ANKR",
+   "name": "Ankr Network",
+   "sigma": 2.99,
+   "from_btc_pct": 18,
+   "verdict": "Neutral",
+   "file": "ANKR.png"
   },
   {
    "symbol": "STEEM",
