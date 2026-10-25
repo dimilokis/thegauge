@@ -1,6 +1,6 @@
 {
  "date": "2026-10-25",
- "generated_at": "2026-10-25T21:15:50.795422+00:00",
+ "generated_at": "2026-10-25T21:59:31.745849+00:00",
  "assets": [
   {
    "symbol": "XEC",
@@ -46,7 +46,7 @@
    "symbol": "T",
    "name": "Threshold Network",
    "sigma": 2.61,
-   "from_btc_pct": 8,
+   "from_btc_pct": 6,
    "verdict": "Overbought",
    "file": "T.png"
   },
@@ -73,6 +73,14 @@
    "from_btc_pct": 32,
    "verdict": "Neutral",
    "file": "POLYX.png"
+  },
+  {
+   "symbol": "KAT",
+   "name": "Katana",
+   "sigma": 2.52,
+   "from_btc_pct": 12,
+   "verdict": "Oversold",
+   "file": "KAT.png"
   }
  ]
 }
