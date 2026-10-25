@@ -1,6 +1,6 @@
 {
  "date": "2026-10-25",
- "generated_at": "2026-10-25T14:45:49.718245+00:00",
+ "generated_at": "2026-10-25T16:30:59.508690+00:00",
  "assets": [
   {
    "symbol": "XEC",
@@ -33,6 +33,14 @@
    "from_btc_pct": 17,
    "verdict": "Neutral",
    "file": "STEEM.png"
+  },
+  {
+   "symbol": "REZ",
+   "name": "Renzo",
+   "sigma": 2.76,
+   "from_btc_pct": 3,
+   "verdict": "Overbought",
+   "file": "REZ.png"
   },
   {
    "symbol": "SAHARA",
