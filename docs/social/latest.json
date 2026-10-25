@@ -1,6 +1,6 @@
 {
  "date": "2026-10-25",
- "generated_at": "2026-10-25T11:30:55.159111+00:00",
+ "generated_at": "2026-10-25T14:00:55.616083+00:00",
  "assets": [
   {
    "symbol": "XEC",
@@ -9,6 +9,14 @@
    "from_btc_pct": 25,
    "verdict": "Neutral",
    "file": "XEC.png"
+  },
+  {
+   "symbol": "AIGENSYN",
+   "name": "Gensyn",
+   "sigma": 3.27,
+   "from_btc_pct": 28,
+   "verdict": "Oversold",
+   "file": "AIGENSYN.png"
   },
   {
    "symbol": "ANKR",
