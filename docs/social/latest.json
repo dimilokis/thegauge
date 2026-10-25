@@ -1,12 +1,12 @@
 {
  "date": "2026-10-25",
- "generated_at": "2026-10-25T08:30:54.141047+00:00",
+ "generated_at": "2026-10-25T08:45:54.457816+00:00",
  "assets": [
   {
    "symbol": "XEC",
    "name": "eCash",
-   "sigma": 2.68,
-   "from_btc_pct": 32,
+   "sigma": 3.39,
+   "from_btc_pct": 25,
    "verdict": "Neutral",
    "file": "XEC.png"
   },
