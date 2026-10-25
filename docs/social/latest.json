@@ -1,102 +1,14 @@
 {
- "date": "2026-10-24",
- "generated_at": "2026-10-25T02:45:56.039450+00:00",
+ "date": "2026-10-25",
+ "generated_at": "2026-10-25T07:15:47.519923+00:00",
  "assets": [
   {
-   "symbol": "KAT",
-   "name": "Katana",
-   "sigma": 9.79,
-   "from_btc_pct": 0,
-   "verdict": "Overbought",
-   "file": "KAT.png"
-  },
-  {
-   "symbol": "T",
-   "name": "Threshold Network",
-   "sigma": 9.67,
-   "from_btc_pct": 2,
-   "verdict": "Overbought",
-   "file": "T.png"
-  },
-  {
-   "symbol": "EPIC",
-   "name": "Epic Chain",
-   "sigma": 3.45,
-   "from_btc_pct": 0,
-   "verdict": "Oversold",
-   "file": "EPIC.png"
-  },
-  {
-   "symbol": "ERA",
-   "name": "Caldera",
-   "sigma": 3.06,
-   "from_btc_pct": 6,
-   "verdict": "Overbought",
-   "file": "ERA.png"
-  },
-  {
-   "symbol": "LA",
-   "name": "Lagrange",
-   "sigma": 2.99,
-   "from_btc_pct": 22,
-   "verdict": "Overbought",
-   "file": "LA.png"
-  },
-  {
-   "symbol": "BREV",
-   "name": "Brevis",
-   "sigma": 2.93,
-   "from_btc_pct": 18,
-   "verdict": "Overbought",
-   "file": "BREV.png"
-  },
-  {
-   "symbol": "STEEM",
-   "name": "Steem",
-   "sigma": 2.79,
-   "from_btc_pct": 24,
+   "symbol": "XEC",
+   "name": "eCash",
+   "sigma": 3.27,
+   "from_btc_pct": 27,
    "verdict": "Neutral",
-   "file": "STEEM.png"
-  },
-  {
-   "symbol": "REZ",
-   "name": "Renzo",
-   "sigma": 2.65,
-   "from_btc_pct": 2,
-   "verdict": "Overbought",
-   "file": "REZ.png"
-  },
-  {
-   "symbol": "INIT",
-   "name": "Initia",
-   "sigma": 2.63,
-   "from_btc_pct": 1,
-   "verdict": "Overbought",
-   "file": "INIT.png"
-  },
-  {
-   "symbol": "TREE",
-   "name": "Treehouse",
-   "sigma": 2.59,
-   "from_btc_pct": 18,
-   "verdict": "Neutral",
-   "file": "TREE.png"
-  },
-  {
-   "symbol": "ANIME",
-   "name": "Animecoin",
-   "sigma": 2.53,
-   "from_btc_pct": 9,
-   "verdict": "Neutral",
-   "file": "ANIME.png"
-  },
-  {
-   "symbol": "ARK",
-   "name": "ARK",
-   "sigma": 2.5,
-   "from_btc_pct": 1,
-   "verdict": "Neutral",
-   "file": "ARK.png"
+   "file": "XEC.png"
   }
  ]
 }
