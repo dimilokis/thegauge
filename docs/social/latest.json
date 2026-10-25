@@ -1,6 +1,6 @@
 {
  "date": "2026-10-24",
- "generated_at": "2026-10-24T23:31:05.648662+00:00",
+ "generated_at": "2026-10-25T00:30:57.403366+00:00",
  "assets": [
   {
    "symbol": "KAT",
@@ -11,12 +11,12 @@
    "file": "KAT.png"
   },
   {
-   "symbol": "ANIME",
-   "name": "Animecoin",
-   "sigma": 3.81,
-   "from_btc_pct": 16,
-   "verdict": "Neutral",
-   "file": "ANIME.png"
+   "symbol": "T",
+   "name": "Threshold Network",
+   "sigma": 9.67,
+   "from_btc_pct": 2,
+   "verdict": "Overbought",
+   "file": "T.png"
   },
   {
    "symbol": "EPIC",
@@ -51,14 +51,6 @@
    "file": "BREV.png"
   },
   {
-   "symbol": "TREE",
-   "name": "Treehouse",
-   "sigma": 2.81,
-   "from_btc_pct": 16,
-   "verdict": "Overbought",
-   "file": "TREE.png"
-  },
-  {
    "symbol": "REZ",
    "name": "Renzo",
    "sigma": 2.65,
@@ -73,6 +65,22 @@
    "from_btc_pct": 1,
    "verdict": "Overbought",
    "file": "INIT.png"
+  },
+  {
+   "symbol": "TREE",
+   "name": "Treehouse",
+   "sigma": 2.59,
+   "from_btc_pct": 18,
+   "verdict": "Neutral",
+   "file": "TREE.png"
+  },
+  {
+   "symbol": "ANIME",
+   "name": "Animecoin",
+   "sigma": 2.53,
+   "from_btc_pct": 9,
+   "verdict": "Neutral",
+   "file": "ANIME.png"
   },
   {
    "symbol": "ARK",
