@@ -1,6 +1,6 @@
 {
  "date": "2026-10-25",
- "generated_at": "2026-10-25T17:30:53.200611+00:00",
+ "generated_at": "2026-10-25T18:15:54.925356+00:00",
  "assets": [
   {
    "symbol": "XEC",
@@ -33,6 +33,14 @@
    "from_btc_pct": 17,
    "verdict": "Neutral",
    "file": "STEEM.png"
+  },
+  {
+   "symbol": "COMP",
+   "name": "Compound",
+   "sigma": 2.7,
+   "from_btc_pct": 14,
+   "verdict": "Neutral",
+   "file": "COMP.png"
   },
   {
    "symbol": "REZ",
