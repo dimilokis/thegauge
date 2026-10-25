@@ -1,6 +1,6 @@
 {
  "date": "2026-10-25",
- "generated_at": "2026-10-25T07:45:49.794024+00:00",
+ "generated_at": "2026-10-25T08:30:54.141047+00:00",
  "assets": [
   {
    "symbol": "XEC",
@@ -9,6 +9,14 @@
    "from_btc_pct": 32,
    "verdict": "Neutral",
    "file": "XEC.png"
+  },
+  {
+   "symbol": "POLYX",
+   "name": "Polymesh",
+   "sigma": 2.53,
+   "from_btc_pct": 33,
+   "verdict": "Neutral",
+   "file": "POLYX.png"
   }
  ]
 }
