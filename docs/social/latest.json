@@ -1,6 +1,6 @@
 {
  "date": "2026-10-25",
- "generated_at": "2026-10-25T14:00:55.616083+00:00",
+ "generated_at": "2026-10-25T14:45:49.718245+00:00",
  "assets": [
   {
    "symbol": "XEC",
@@ -13,7 +13,7 @@
   {
    "symbol": "AIGENSYN",
    "name": "Gensyn",
-   "sigma": 3.27,
+   "sigma": 3.06,
    "from_btc_pct": 28,
    "verdict": "Oversold",
    "file": "AIGENSYN.png"
