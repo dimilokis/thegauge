@@ -1,6 +1,6 @@
 {
  "date": "2026-10-25",
- "generated_at": "2026-10-25T18:45:57.294030+00:00",
+ "generated_at": "2026-10-25T19:01:00.914905+00:00",
  "assets": [
   {
    "symbol": "XEC",
@@ -35,14 +35,6 @@
    "file": "STEEM.png"
   },
   {
-   "symbol": "COMP",
-   "name": "Compound",
-   "sigma": 2.7,
-   "from_btc_pct": 14,
-   "verdict": "Neutral",
-   "file": "COMP.png"
-  },
-  {
    "symbol": "REZ",
    "name": "Renzo",
    "sigma": 2.63,
@@ -57,6 +49,14 @@
    "from_btc_pct": 23,
    "verdict": "Oversold",
    "file": "SAHARA.png"
+  },
+  {
+   "symbol": "COMP",
+   "name": "Compound",
+   "sigma": 2.57,
+   "from_btc_pct": 14,
+   "verdict": "Neutral",
+   "file": "COMP.png"
   },
   {
    "symbol": "POLYX",
