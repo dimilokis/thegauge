@@ -1,102 +1,22 @@
 {
- "date": "2026-10-25",
- "generated_at": "2026-10-26T02:30:50.526993+00:00",
+ "date": "2026-10-26",
+ "generated_at": "2026-10-26T04:15:52.005234+00:00",
  "assets": [
-  {
-   "symbol": "XEC",
-   "name": "eCash",
-   "sigma": 3.39,
-   "from_btc_pct": 25,
-   "verdict": "Neutral",
-   "file": "XEC.png"
-  },
-  {
-   "symbol": "ANKR",
-   "name": "Ankr Network",
-   "sigma": 2.99,
-   "from_btc_pct": 18,
-   "verdict": "Neutral",
-   "file": "ANKR.png"
-  },
-  {
-   "symbol": "STEEM",
-   "name": "Steem",
-   "sigma": 2.95,
-   "from_btc_pct": 17,
-   "verdict": "Neutral",
-   "file": "STEEM.png"
-  },
-  {
-   "symbol": "DODO",
-   "name": "DODO",
-   "sigma": 2.76,
-   "from_btc_pct": 3,
-   "verdict": "Overbought",
-   "file": "DODO.png"
-  },
-  {
-   "symbol": "AIGENSYN",
-   "name": "Gensyn",
-   "sigma": 2.66,
-   "from_btc_pct": 31,
-   "verdict": "Oversold",
-   "file": "AIGENSYN.png"
-  },
-  {
-   "symbol": "REZ",
-   "name": "Renzo",
-   "sigma": 2.64,
-   "from_btc_pct": 3,
-   "verdict": "Overbought",
-   "file": "REZ.png"
-  },
-  {
-   "symbol": "T",
-   "name": "Threshold Network",
-   "sigma": 2.61,
-   "from_btc_pct": 6,
-   "verdict": "Overbought",
-   "file": "T.png"
-  },
-  {
-   "symbol": "COMP",
-   "name": "Compound",
-   "sigma": 2.6,
-   "from_btc_pct": 15,
-   "verdict": "Neutral",
-   "file": "COMP.png"
-  },
-  {
-   "symbol": "SAHARA",
-   "name": "Sahara AI",
-   "sigma": 2.59,
-   "from_btc_pct": 23,
-   "verdict": "Oversold",
-   "file": "SAHARA.png"
-  },
   {
    "symbol": "ERA",
    "name": "Caldera",
-   "sigma": 2.59,
+   "sigma": 4.25,
    "from_btc_pct": 11,
    "verdict": "Overbought",
    "file": "ERA.png"
   },
   {
-   "symbol": "KAT",
-   "name": "Katana",
-   "sigma": 2.58,
-   "from_btc_pct": 14,
-   "verdict": "Oversold",
-   "file": "KAT.png"
-  },
-  {
-   "symbol": "POLYX",
-   "name": "Polymesh",
-   "sigma": 2.53,
-   "from_btc_pct": 32,
-   "verdict": "Neutral",
-   "file": "POLYX.png"
+   "symbol": "BREV",
+   "name": "Brevis",
+   "sigma": 3.81,
+   "from_btc_pct": 20,
+   "verdict": "Overbought",
+   "file": "BREV.png"
   }
  ]
 }
