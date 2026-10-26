@@ -1,6 +1,6 @@
 {
  "date": "2026-10-26",
- "generated_at": "2026-10-26T10:30:57.305031+00:00",
+ "generated_at": "2026-10-26T10:45:48.654363+00:00",
  "assets": [
   {
    "symbol": "HUMA",
@@ -27,20 +27,20 @@
    "file": "KAT.png"
   },
   {
+   "symbol": "ERA",
+   "name": "Caldera",
+   "sigma": 2.66,
+   "from_btc_pct": 14,
+   "verdict": "Overbought",
+   "file": "ERA.png"
+  },
+  {
    "symbol": "BEAMX",
    "name": null,
    "sigma": 2.61,
    "from_btc_pct": 15,
    "verdict": "Overbought",
    "file": "BEAMX.png"
-  },
-  {
-   "symbol": "ERA",
-   "name": "Caldera",
-   "sigma": 2.59,
-   "from_btc_pct": 14,
-   "verdict": "Overbought",
-   "file": "ERA.png"
   },
   {
    "symbol": "BREV",
