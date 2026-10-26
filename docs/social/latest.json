@@ -1,15 +1,7 @@
 {
  "date": "2026-10-26",
- "generated_at": "2026-10-26T10:45:48.654363+00:00",
+ "generated_at": "2026-10-26T13:45:55.954193+00:00",
  "assets": [
-  {
-   "symbol": "HUMA",
-   "name": "Huma Finance",
-   "sigma": 3.78,
-   "from_btc_pct": 29,
-   "verdict": "Oversold",
-   "file": "HUMA.png"
-  },
   {
    "symbol": "POLYX",
    "name": "Polymesh",
@@ -33,6 +25,14 @@
    "from_btc_pct": 14,
    "verdict": "Overbought",
    "file": "ERA.png"
+  },
+  {
+   "symbol": "HUMA",
+   "name": "Huma Finance",
+   "sigma": 2.64,
+   "from_btc_pct": 35,
+   "verdict": "Oversold",
+   "file": "HUMA.png"
   },
   {
    "symbol": "BEAMX",
