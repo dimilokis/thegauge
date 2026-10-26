@@ -1,6 +1,6 @@
 {
  "date": "2026-10-26",
- "generated_at": "2026-10-26T14:15:57.920512+00:00",
+ "generated_at": "2026-10-26T15:30:59.978419+00:00",
  "assets": [
   {
    "symbol": "POLYX",
@@ -21,8 +21,8 @@
   {
    "symbol": "BABY",
    "name": "Babylon",
-   "sigma": 2.69,
-   "from_btc_pct": 27,
+   "sigma": 2.85,
+   "from_btc_pct": 32,
    "verdict": "Overbought",
    "file": "BABY.png"
   },
