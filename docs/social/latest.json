@@ -1,6 +1,6 @@
 {
  "date": "2026-10-26",
- "generated_at": "2026-10-26T09:00:57.771721+00:00",
+ "generated_at": "2026-10-26T09:30:53.857824+00:00",
  "assets": [
   {
    "symbol": "ERA",
@@ -21,8 +21,8 @@
   {
    "symbol": "BEAMX",
    "name": null,
-   "sigma": 2.83,
-   "from_btc_pct": 14,
+   "sigma": 2.61,
+   "from_btc_pct": 15,
    "verdict": "Overbought",
    "file": "BEAMX.png"
   },
