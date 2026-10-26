@@ -1,6 +1,6 @@
 {
  "date": "2026-10-26",
- "generated_at": "2026-10-26T16:30:55.443040+00:00",
+ "generated_at": "2026-10-26T17:01:05.494550+00:00",
  "assets": [
   {
    "symbol": "POLYX",
@@ -14,7 +14,7 @@
    "symbol": "KAT",
    "name": "Katana",
    "sigma": 2.92,
-   "from_btc_pct": 11,
+   "from_btc_pct": 10,
    "verdict": "Neutral",
    "file": "KAT.png"
   },
@@ -25,6 +25,14 @@
    "from_btc_pct": 16,
    "verdict": "Overbought",
    "file": "BEAMX.png"
+  },
+  {
+   "symbol": "CHIP",
+   "name": "USD.AI",
+   "sigma": 2.7,
+   "from_btc_pct": 21,
+   "verdict": "Neutral",
+   "file": "CHIP.png"
   },
   {
    "symbol": "ERA",
