@@ -1,7 +1,15 @@
 {
  "date": "2026-10-26",
- "generated_at": "2026-10-26T17:01:05.494550+00:00",
+ "generated_at": "2026-10-26T17:15:53.809925+00:00",
  "assets": [
+  {
+   "symbol": "PARTI",
+   "name": "Particle Network",
+   "sigma": 4.21,
+   "from_btc_pct": 0,
+   "verdict": "Overbought",
+   "file": "PARTI.png"
+  },
   {
    "symbol": "POLYX",
    "name": "Polymesh",
