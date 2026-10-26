@@ -1,6 +1,6 @@
 {
  "date": "2026-10-26",
- "generated_at": "2026-10-26T04:15:52.005234+00:00",
+ "generated_at": "2026-10-26T06:45:53.249358+00:00",
  "assets": [
   {
    "symbol": "ERA",
@@ -13,9 +13,9 @@
   {
    "symbol": "BREV",
    "name": "Brevis",
-   "sigma": 3.81,
-   "from_btc_pct": 20,
-   "verdict": "Overbought",
+   "sigma": 2.56,
+   "from_btc_pct": 22,
+   "verdict": "Neutral",
    "file": "BREV.png"
   }
  ]
