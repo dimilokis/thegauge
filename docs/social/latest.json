@@ -1,15 +1,7 @@
 {
  "date": "2026-10-25",
- "generated_at": "2026-10-26T01:00:56.443931+00:00",
+ "generated_at": "2026-10-26T02:30:50.526993+00:00",
  "assets": [
-  {
-   "symbol": "ERA",
-   "name": "Caldera",
-   "sigma": 4.02,
-   "from_btc_pct": 12,
-   "verdict": "Overbought",
-   "file": "ERA.png"
-  },
   {
    "symbol": "XEC",
    "name": "eCash",
@@ -81,6 +73,14 @@
    "from_btc_pct": 23,
    "verdict": "Oversold",
    "file": "SAHARA.png"
+  },
+  {
+   "symbol": "ERA",
+   "name": "Caldera",
+   "sigma": 2.59,
+   "from_btc_pct": 11,
+   "verdict": "Overbought",
+   "file": "ERA.png"
   },
   {
    "symbol": "KAT",
