@@ -1,6 +1,6 @@
 {
  "date": "2026-10-26",
- "generated_at": "2026-10-26T10:15:54.603938+00:00",
+ "generated_at": "2026-10-26T10:30:57.305031+00:00",
  "assets": [
   {
    "symbol": "HUMA",
@@ -17,6 +17,14 @@
    "from_btc_pct": 40,
    "verdict": "Neutral",
    "file": "POLYX.png"
+  },
+  {
+   "symbol": "KAT",
+   "name": "Katana",
+   "sigma": 2.92,
+   "from_btc_pct": 11,
+   "verdict": "Neutral",
+   "file": "KAT.png"
   },
   {
    "symbol": "BEAMX",
