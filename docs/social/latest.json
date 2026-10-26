@@ -1,6 +1,6 @@
 {
  "date": "2026-10-26",
- "generated_at": "2026-10-26T15:45:50.733101+00:00",
+ "generated_at": "2026-10-26T16:30:55.443040+00:00",
  "assets": [
   {
    "symbol": "POLYX",
@@ -17,14 +17,6 @@
    "from_btc_pct": 11,
    "verdict": "Neutral",
    "file": "KAT.png"
-  },
-  {
-   "symbol": "BABY",
-   "name": "Babylon",
-   "sigma": 2.85,
-   "from_btc_pct": 32,
-   "verdict": "Overbought",
-   "file": "BABY.png"
   },
   {
    "symbol": "BEAMX",
@@ -57,6 +49,14 @@
    "from_btc_pct": 22,
    "verdict": "Neutral",
    "file": "BREV.png"
+  },
+  {
+   "symbol": "BABY",
+   "name": "Babylon",
+   "sigma": 2.54,
+   "from_btc_pct": 27,
+   "verdict": "Overbought",
+   "file": "BABY.png"
   }
  ]
 }
