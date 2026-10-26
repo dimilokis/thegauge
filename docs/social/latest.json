@@ -1,6 +1,6 @@
 {
  "date": "2026-10-26",
- "generated_at": "2026-10-26T06:45:53.249358+00:00",
+ "generated_at": "2026-10-26T09:00:57.771721+00:00",
  "assets": [
   {
    "symbol": "ERA",
@@ -9,6 +9,22 @@
    "from_btc_pct": 11,
    "verdict": "Overbought",
    "file": "ERA.png"
+  },
+  {
+   "symbol": "HUMA",
+   "name": "Huma Finance",
+   "sigma": 3.78,
+   "from_btc_pct": 29,
+   "verdict": "Oversold",
+   "file": "HUMA.png"
+  },
+  {
+   "symbol": "BEAMX",
+   "name": null,
+   "sigma": 2.83,
+   "from_btc_pct": 14,
+   "verdict": "Overbought",
+   "file": "BEAMX.png"
   },
   {
    "symbol": "BREV",
