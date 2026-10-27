@@ -1,7 +1,15 @@
 {
  "date": "2026-10-27",
- "generated_at": "2026-10-27T06:13:52.468083+00:00",
+ "generated_at": "2026-10-27T07:30:58.599544+00:00",
  "assets": [
+  {
+   "symbol": "NIL",
+   "name": "Nillion",
+   "sigma": 4.78,
+   "from_btc_pct": 1,
+   "verdict": "Strong Uptrend",
+   "file": "NIL.png"
+  },
   {
    "symbol": "OSMO",
    "name": "Osmosis",
