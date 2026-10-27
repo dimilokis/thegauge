@@ -1,6 +1,6 @@
 {
  "date": "2026-10-27",
- "generated_at": "2026-10-27T09:00:54.662290+00:00",
+ "generated_at": "2026-10-27T09:15:53.820912+00:00",
  "assets": [
   {
    "symbol": "NIL",
@@ -25,6 +25,14 @@
    "from_btc_pct": 31,
    "verdict": "Neutral",
    "file": "HUMA.png"
+  },
+  {
+   "symbol": "HAEDAL",
+   "name": "Haedal Protocol",
+   "sigma": 2.71,
+   "from_btc_pct": 15,
+   "verdict": "Overbought",
+   "file": "HAEDAL.png"
   }
  ]
 }
