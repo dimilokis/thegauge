@@ -1,78 +1,14 @@
 {
- "date": "2026-10-26",
- "generated_at": "2026-10-26T20:45:54.199145+00:00",
+ "date": "2026-10-27",
+ "generated_at": "2026-10-27T06:13:52.468083+00:00",
  "assets": [
   {
-   "symbol": "PARTI",
-   "name": "Particle Network",
-   "sigma": 3.89,
-   "from_btc_pct": 1,
-   "verdict": "Overbought",
-   "file": "PARTI.png"
-  },
-  {
-   "symbol": "POLYX",
-   "name": "Polymesh",
-   "sigma": 3.11,
-   "from_btc_pct": 40,
-   "verdict": "Neutral",
-   "file": "POLYX.png"
-  },
-  {
-   "symbol": "KAT",
-   "name": "Katana",
-   "sigma": 2.92,
+   "symbol": "OSMO",
+   "name": "Osmosis",
+   "sigma": 3.22,
    "from_btc_pct": 10,
-   "verdict": "Neutral",
-   "file": "KAT.png"
-  },
-  {
-   "symbol": "BEAMX",
-   "name": null,
-   "sigma": 2.71,
-   "from_btc_pct": 16,
    "verdict": "Overbought",
-   "file": "BEAMX.png"
-  },
-  {
-   "symbol": "CHIP",
-   "name": "USD.AI",
-   "sigma": 2.7,
-   "from_btc_pct": 21,
-   "verdict": "Neutral",
-   "file": "CHIP.png"
-  },
-  {
-   "symbol": "ERA",
-   "name": "Caldera",
-   "sigma": 2.66,
-   "from_btc_pct": 14,
-   "verdict": "Overbought",
-   "file": "ERA.png"
-  },
-  {
-   "symbol": "HUMA",
-   "name": "Huma Finance",
-   "sigma": 2.64,
-   "from_btc_pct": 35,
-   "verdict": "Oversold",
-   "file": "HUMA.png"
-  },
-  {
-   "symbol": "BREV",
-   "name": "Brevis",
-   "sigma": 2.56,
-   "from_btc_pct": 22,
-   "verdict": "Neutral",
-   "file": "BREV.png"
-  },
-  {
-   "symbol": "BABY",
-   "name": "Babylon",
-   "sigma": 2.54,
-   "from_btc_pct": 27,
-   "verdict": "Overbought",
-   "file": "BABY.png"
+   "file": "OSMO.png"
   }
  ]
 }
