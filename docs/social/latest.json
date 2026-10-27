@@ -1,6 +1,6 @@
 {
  "date": "2026-10-27",
- "generated_at": "2026-10-27T17:31:06.008500+00:00",
+ "generated_at": "2026-10-27T18:31:13.919753+00:00",
  "assets": [
   {
    "symbol": "NIL",
@@ -43,14 +43,6 @@
    "file": "ANIME.png"
   },
   {
-   "symbol": "REZ",
-   "name": "Renzo",
-   "sigma": 2.74,
-   "from_btc_pct": 2,
-   "verdict": "Overbought",
-   "file": "REZ.png"
-  },
-  {
    "symbol": "HAEDAL",
    "name": "Haedal Protocol",
    "sigma": 2.71,
@@ -65,6 +57,14 @@
    "from_btc_pct": 10,
    "verdict": "Overbought",
    "file": "OSMO.png"
+  },
+  {
+   "symbol": "REZ",
+   "name": "Renzo",
+   "sigma": 2.56,
+   "from_btc_pct": 3,
+   "verdict": "Overbought",
+   "file": "REZ.png"
   }
  ]
 }
