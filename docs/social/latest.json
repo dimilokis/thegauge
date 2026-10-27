@@ -1,6 +1,6 @@
 {
  "date": "2026-10-27",
- "generated_at": "2026-10-27T13:15:56.617728+00:00",
+ "generated_at": "2026-10-27T13:30:55.513503+00:00",
  "assets": [
   {
    "symbol": "NIL",
@@ -27,20 +27,20 @@
    "file": "HUMA.png"
   },
   {
-   "symbol": "REZ",
-   "name": "Renzo",
-   "sigma": 2.85,
-   "from_btc_pct": 2,
-   "verdict": "Overbought",
-   "file": "REZ.png"
-  },
-  {
    "symbol": "ANIME",
    "name": "Animecoin",
    "sigma": 2.79,
    "from_btc_pct": 10,
    "verdict": "Neutral",
    "file": "ANIME.png"
+  },
+  {
+   "symbol": "REZ",
+   "name": "Renzo",
+   "sigma": 2.79,
+   "from_btc_pct": 2,
+   "verdict": "Overbought",
+   "file": "REZ.png"
   },
   {
    "symbol": "HAEDAL",
