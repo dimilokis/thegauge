@@ -1,6 +1,6 @@
 {
  "date": "2026-10-27",
- "generated_at": "2026-10-27T12:45:51.735838+00:00",
+ "generated_at": "2026-10-27T13:15:56.617728+00:00",
  "assets": [
   {
    "symbol": "NIL",
@@ -53,8 +53,8 @@
   {
    "symbol": "OSMO",
    "name": "Osmosis",
-   "sigma": 2.57,
-   "from_btc_pct": 12,
+   "sigma": 2.63,
+   "from_btc_pct": 10,
    "verdict": "Overbought",
    "file": "OSMO.png"
   }
