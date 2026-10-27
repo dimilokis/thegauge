@@ -1,6 +1,6 @@
 {
  "date": "2026-10-27",
- "generated_at": "2026-10-27T14:31:01.605255+00:00",
+ "generated_at": "2026-10-27T17:31:06.008500+00:00",
  "assets": [
   {
    "symbol": "NIL",
@@ -17,6 +17,14 @@
    "from_btc_pct": 22,
    "verdict": "Overbought",
    "file": "BREV.png"
+  },
+  {
+   "symbol": "INIT",
+   "name": "Initia",
+   "sigma": 3.09,
+   "from_btc_pct": 2,
+   "verdict": "Overbought",
+   "file": "INIT.png"
   },
   {
    "symbol": "HUMA",
