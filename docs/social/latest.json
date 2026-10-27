@@ -1,6 +1,6 @@
 {
  "date": "2026-10-27",
- "generated_at": "2026-10-27T14:15:56.100927+00:00",
+ "generated_at": "2026-10-27T14:31:01.605255+00:00",
  "assets": [
   {
    "symbol": "NIL",
@@ -22,7 +22,7 @@
    "symbol": "HUMA",
    "name": "Huma Finance",
    "sigma": 2.9,
-   "from_btc_pct": 31,
+   "from_btc_pct": 35,
    "verdict": "Neutral",
    "file": "HUMA.png"
   },
