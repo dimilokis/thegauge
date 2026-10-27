@@ -1,6 +1,6 @@
 {
  "date": "2026-10-27",
- "generated_at": "2026-10-27T18:31:13.919753+00:00",
+ "generated_at": "2026-10-27T19:00:58.977912+00:00",
  "assets": [
   {
    "symbol": "NIL",
@@ -9,14 +9,6 @@
    "from_btc_pct": 1,
    "verdict": "Strong Uptrend",
    "file": "NIL.png"
-  },
-  {
-   "symbol": "BREV",
-   "name": "Brevis",
-   "sigma": 4.18,
-   "from_btc_pct": 22,
-   "verdict": "Overbought",
-   "file": "BREV.png"
   },
   {
    "symbol": "INIT",
@@ -65,6 +57,14 @@
    "from_btc_pct": 3,
    "verdict": "Overbought",
    "file": "REZ.png"
+  },
+  {
+   "symbol": "BREV",
+   "name": "Brevis",
+   "sigma": 2.54,
+   "from_btc_pct": 26,
+   "verdict": "Overbought",
+   "file": "BREV.png"
   }
  ]
 }
