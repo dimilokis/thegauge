@@ -1,6 +1,6 @@
 {
  "date": "2026-10-27",
- "generated_at": "2026-10-27T19:00:58.977912+00:00",
+ "generated_at": "2026-10-27T19:30:59.623199+00:00",
  "assets": [
   {
    "symbol": "NIL",
@@ -51,20 +51,20 @@
    "file": "OSMO.png"
   },
   {
-   "symbol": "REZ",
-   "name": "Renzo",
-   "sigma": 2.56,
-   "from_btc_pct": 3,
-   "verdict": "Overbought",
-   "file": "REZ.png"
-  },
-  {
    "symbol": "BREV",
    "name": "Brevis",
    "sigma": 2.54,
    "from_btc_pct": 26,
    "verdict": "Overbought",
    "file": "BREV.png"
+  },
+  {
+   "symbol": "REZ",
+   "name": "Renzo",
+   "sigma": 2.53,
+   "from_btc_pct": 3,
+   "verdict": "Overbought",
+   "file": "REZ.png"
   }
  ]
 }
