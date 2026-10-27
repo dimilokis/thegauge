@@ -1,6 +1,6 @@
 {
  "date": "2026-10-27",
- "generated_at": "2026-10-27T07:30:58.599544+00:00",
+ "generated_at": "2026-10-27T09:00:54.662290+00:00",
  "assets": [
   {
    "symbol": "NIL",
@@ -17,6 +17,14 @@
    "from_btc_pct": 10,
    "verdict": "Overbought",
    "file": "OSMO.png"
+  },
+  {
+   "symbol": "HUMA",
+   "name": "Huma Finance",
+   "sigma": 2.9,
+   "from_btc_pct": 31,
+   "verdict": "Neutral",
+   "file": "HUMA.png"
   }
  ]
 }
