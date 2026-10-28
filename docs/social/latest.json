@@ -1,12 +1,12 @@
 {
  "date": "2026-10-28",
- "generated_at": "2026-10-28T08:15:50.073761+00:00",
+ "generated_at": "2026-10-28T08:45:54.516851+00:00",
  "assets": [
   {
    "symbol": "BLUR",
    "name": "Blur",
-   "sigma": 2.99,
-   "from_btc_pct": 19,
+   "sigma": 2.96,
+   "from_btc_pct": 22,
    "verdict": "Oversold",
    "file": "BLUR.png"
   }
