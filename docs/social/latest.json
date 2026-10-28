@@ -1,6 +1,6 @@
 {
  "date": "2026-10-28",
- "generated_at": "2026-10-28T13:01:04.630669+00:00",
+ "generated_at": "2026-10-28T15:15:50.209026+00:00",
  "assets": [
   {
    "symbol": "BLUR",
@@ -11,20 +11,20 @@
    "file": "BLUR.png"
   },
   {
+   "symbol": "SHELL",
+   "name": "MyShell",
+   "sigma": 3.12,
+   "from_btc_pct": 16,
+   "verdict": "Overbought",
+   "file": "SHELL.png"
+  },
+  {
    "symbol": "INIT",
    "name": "Initia",
    "sigma": 2.85,
    "from_btc_pct": 3,
    "verdict": "Overbought",
    "file": "INIT.png"
-  },
-  {
-   "symbol": "SHELL",
-   "name": "MyShell",
-   "sigma": 2.63,
-   "from_btc_pct": 17,
-   "verdict": "Overbought",
-   "file": "SHELL.png"
   }
  ]
 }
