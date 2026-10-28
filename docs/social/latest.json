@@ -1,78 +1,14 @@
 {
- "date": "2026-10-27",
- "generated_at": "2026-10-27T23:30:59.636349+00:00",
+ "date": "2026-10-28",
+ "generated_at": "2026-10-28T08:15:50.073761+00:00",
  "assets": [
   {
-   "symbol": "NIL",
-   "name": "Nillion",
-   "sigma": 4.78,
-   "from_btc_pct": 1,
-   "verdict": "Strong Uptrend",
-   "file": "NIL.png"
-  },
-  {
-   "symbol": "INIT",
-   "name": "Initia",
-   "sigma": 3.09,
-   "from_btc_pct": 2,
-   "verdict": "Overbought",
-   "file": "INIT.png"
-  },
-  {
-   "symbol": "ANIME",
-   "name": "Animecoin",
-   "sigma": 2.79,
-   "from_btc_pct": 10,
-   "verdict": "Neutral",
-   "file": "ANIME.png"
-  },
-  {
-   "symbol": "HAEDAL",
-   "name": "Haedal Protocol",
-   "sigma": 2.71,
-   "from_btc_pct": 15,
-   "verdict": "Overbought",
-   "file": "HAEDAL.png"
-  },
-  {
-   "symbol": "REZ",
-   "name": "Renzo",
-   "sigma": 2.65,
-   "from_btc_pct": 3,
-   "verdict": "Overbought",
-   "file": "REZ.png"
-  },
-  {
-   "symbol": "BANK",
-   "name": "Lorenzo Protocol",
-   "sigma": 2.64,
-   "from_btc_pct": 10,
-   "verdict": "Neutral",
-   "file": "BANK.png"
-  },
-  {
-   "symbol": "OSMO",
-   "name": "Osmosis",
-   "sigma": 2.63,
-   "from_btc_pct": 10,
-   "verdict": "Overbought",
-   "file": "OSMO.png"
-  },
-  {
-   "symbol": "HUMA",
-   "name": "Huma Finance",
-   "sigma": 2.62,
-   "from_btc_pct": 40,
-   "verdict": "Neutral",
-   "file": "HUMA.png"
-  },
-  {
-   "symbol": "BREV",
-   "name": "Brevis",
-   "sigma": 2.54,
-   "from_btc_pct": 27,
-   "verdict": "Overbought",
-   "file": "BREV.png"
+   "symbol": "BLUR",
+   "name": "Blur",
+   "sigma": 2.99,
+   "from_btc_pct": 19,
+   "verdict": "Oversold",
+   "file": "BLUR.png"
   }
  ]
 }
