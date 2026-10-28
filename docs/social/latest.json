@@ -1,15 +1,7 @@
 {
  "date": "2026-10-28",
- "generated_at": "2026-10-28T15:15:50.209026+00:00",
+ "generated_at": "2026-10-28T15:45:57.806798+00:00",
  "assets": [
-  {
-   "symbol": "BLUR",
-   "name": "Blur",
-   "sigma": 3.55,
-   "from_btc_pct": 17,
-   "verdict": "Oversold",
-   "file": "BLUR.png"
-  },
   {
    "symbol": "SHELL",
    "name": "MyShell",
@@ -25,6 +17,14 @@
    "from_btc_pct": 3,
    "verdict": "Overbought",
    "file": "INIT.png"
+  },
+  {
+   "symbol": "BLUR",
+   "name": "Blur",
+   "sigma": 2.75,
+   "from_btc_pct": 15,
+   "verdict": "Oversold",
+   "file": "BLUR.png"
   }
  ]
 }
