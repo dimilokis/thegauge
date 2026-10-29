@@ -711,6 +711,10 @@
   "icon": "https://coin-images.coingecko.com/coins/images/12882/large/Other_200x200.png?1738782212",
   "name": "Injective"
  },
+ "INTWB": {
+  "icon": "https://coin-images.coingecko.com/coins/images/102174761/large/intwb.png",
+  "name": "GraniteShares 2X Long INTC ETF (bStocks Tokenized ETF)"
+ },
  "IO": {
   "icon": "https://coin-images.coingecko.com/coins/images/37754/large/io_blackbg.png?1715446363",
   "name": "io.net"

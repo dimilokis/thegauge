@@ -1,7 +1,15 @@
 {
  "date": "2026-10-29",
- "generated_at": "2026-10-29T22:15:50.251013+00:00",
+ "generated_at": "2026-10-29T22:45:55.764877+00:00",
  "assets": [
+  {
+   "symbol": "INTWB",
+   "name": "GraniteShares 2X Long INTC ETF (bStocks Tokenized ETF)",
+   "sigma": 9.29,
+   "from_btc_pct": 36,
+   "verdict": "Oversold",
+   "file": "INTWB.png"
+  },
   {
    "symbol": "TRX",
    "name": "TRON",
