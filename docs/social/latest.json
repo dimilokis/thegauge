@@ -1,6 +1,6 @@
 {
  "date": "2026-10-29",
- "generated_at": "2026-10-29T17:01:02.265412+00:00",
+ "generated_at": "2026-10-29T17:15:49.356359+00:00",
  "assets": [
   {
    "symbol": "PARTI",
@@ -9,6 +9,14 @@
    "from_btc_pct": 1,
    "verdict": "Overbought",
    "file": "PARTI.png"
+  },
+  {
+   "symbol": "HAEDAL",
+   "name": "Haedal Protocol",
+   "sigma": 2.59,
+   "from_btc_pct": 10,
+   "verdict": "Neutral",
+   "file": "HAEDAL.png"
   },
   {
    "symbol": "REZ",
