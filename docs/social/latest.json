@@ -1,7 +1,15 @@
 {
  "date": "2026-10-29",
- "generated_at": "2026-10-29T20:45:48.375987+00:00",
+ "generated_at": "2026-10-29T21:15:49.148687+00:00",
  "assets": [
+  {
+   "symbol": "TRX",
+   "name": "TRON",
+   "sigma": 5.78,
+   "from_btc_pct": 10,
+   "verdict": "Strong Uptrend",
+   "file": "TRX.png"
+  },
   {
    "symbol": "PARTI",
    "name": "Particle Network",
