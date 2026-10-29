@@ -1,6 +1,6 @@
 {
  "date": "2026-10-29",
- "generated_at": "2026-10-29T20:15:48.332227+00:00",
+ "generated_at": "2026-10-29T20:45:48.375987+00:00",
  "assets": [
   {
    "symbol": "PARTI",
@@ -19,6 +19,14 @@
    "file": "REZ.png"
   },
   {
+   "symbol": "PYTH",
+   "name": "Pyth Network",
+   "sigma": 2.63,
+   "from_btc_pct": 1,
+   "verdict": "Neutral",
+   "file": "PYTH.png"
+  },
+  {
    "symbol": "HAEDAL",
    "name": "Haedal Protocol",
    "sigma": 2.59,
@@ -33,6 +41,14 @@
    "from_btc_pct": 15,
    "verdict": "Neutral",
    "file": "SHELL.png"
+  },
+  {
+   "symbol": "MEGA",
+   "name": "MegaETH",
+   "sigma": 2.53,
+   "from_btc_pct": 33,
+   "verdict": "Neutral",
+   "file": "MEGA.png"
   }
  ]
 }
