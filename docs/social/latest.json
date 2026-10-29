@@ -1,6 +1,6 @@
 {
  "date": "2026-10-29",
- "generated_at": "2026-10-29T09:15:56.041790+00:00",
+ "generated_at": "2026-10-29T10:01:03.206412+00:00",
  "assets": [
   {
    "symbol": "REZ",
@@ -13,7 +13,7 @@
   {
    "symbol": "SHELL",
    "name": "MyShell",
-   "sigma": 2.55,
+   "sigma": 2.57,
    "from_btc_pct": 21,
    "verdict": "Neutral",
    "file": "SHELL.png"
