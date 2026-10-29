@@ -1,29 +1,13 @@
 {
- "date": "2026-10-28",
- "generated_at": "2026-10-28T19:01:19.179133+00:00",
+ "date": "2026-10-29",
+ "generated_at": "2026-10-29T08:15:54.468435+00:00",
  "assets": [
-  {
-   "symbol": "BLUR",
-   "name": "Blur",
-   "sigma": 4.21,
-   "from_btc_pct": 13,
-   "verdict": "Oversold",
-   "file": "BLUR.png"
-  },
-  {
-   "symbol": "INIT",
-   "name": "Initia",
-   "sigma": 2.85,
-   "from_btc_pct": 3,
-   "verdict": "Overbought",
-   "file": "INIT.png"
-  },
   {
    "symbol": "SHELL",
    "name": "MyShell",
-   "sigma": 2.67,
-   "from_btc_pct": 18,
-   "verdict": "Overbought",
+   "sigma": 2.61,
+   "from_btc_pct": 21,
+   "verdict": "Neutral",
    "file": "SHELL.png"
   }
  ]
