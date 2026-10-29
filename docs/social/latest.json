@@ -1,6 +1,6 @@
 {
  "date": "2026-10-29",
- "generated_at": "2026-10-29T08:15:54.468435+00:00",
+ "generated_at": "2026-10-29T08:45:51.373219+00:00",
  "assets": [
   {
    "symbol": "SHELL",
@@ -9,6 +9,14 @@
    "from_btc_pct": 21,
    "verdict": "Neutral",
    "file": "SHELL.png"
+  },
+  {
+   "symbol": "REZ",
+   "name": "Renzo",
+   "sigma": 2.61,
+   "from_btc_pct": 5,
+   "verdict": "Neutral",
+   "file": "REZ.png"
   }
  ]
 }
