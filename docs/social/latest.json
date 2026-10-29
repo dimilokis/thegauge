@@ -1,15 +1,7 @@
 {
  "date": "2026-10-29",
- "generated_at": "2026-10-29T10:01:03.206412+00:00",
+ "generated_at": "2026-10-29T10:30:54.263842+00:00",
  "assets": [
-  {
-   "symbol": "REZ",
-   "name": "Renzo",
-   "sigma": 2.61,
-   "from_btc_pct": 5,
-   "verdict": "Neutral",
-   "file": "REZ.png"
-  },
   {
    "symbol": "SHELL",
    "name": "MyShell",
@@ -17,6 +9,14 @@
    "from_btc_pct": 21,
    "verdict": "Neutral",
    "file": "SHELL.png"
+  },
+  {
+   "symbol": "REZ",
+   "name": "Renzo",
+   "sigma": 2.52,
+   "from_btc_pct": 4,
+   "verdict": "Neutral",
+   "file": "REZ.png"
   }
  ]
 }
