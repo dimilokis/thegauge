@@ -1,6 +1,6 @@
 {
  "date": "2026-10-29",
- "generated_at": "2026-10-29T22:45:55.764877+00:00",
+ "generated_at": "2026-10-29T23:15:45.480600+00:00",
  "assets": [
   {
    "symbol": "INTWB",
@@ -25,6 +25,14 @@
    "from_btc_pct": 1,
    "verdict": "Overbought",
    "file": "PARTI.png"
+  },
+  {
+   "symbol": "BFUSD",
+   "name": "BFUSD",
+   "sigma": 4.0,
+   "from_btc_pct": 23,
+   "verdict": "Neutral",
+   "file": "BFUSD.png"
   },
   {
    "symbol": "AI",
