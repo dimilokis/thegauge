@@ -1,6 +1,6 @@
 {
  "date": "2026-10-29",
- "generated_at": "2026-10-29T23:15:45.480600+00:00",
+ "generated_at": "2026-10-29T23:30:56.644315+00:00",
  "assets": [
   {
    "symbol": "INTWB",
@@ -73,6 +73,14 @@
    "from_btc_pct": 10,
    "verdict": "Neutral",
    "file": "HAEDAL.png"
+  },
+  {
+   "symbol": "RENDER",
+   "name": "Render",
+   "sigma": 2.58,
+   "from_btc_pct": 27,
+   "verdict": "Neutral",
+   "file": "RENDER.png"
   },
   {
    "symbol": "SHELL",
