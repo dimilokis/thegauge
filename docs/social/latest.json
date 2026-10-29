@@ -1,6 +1,6 @@
 {
  "date": "2026-10-29",
- "generated_at": "2026-10-29T19:45:50.556221+00:00",
+ "generated_at": "2026-10-29T20:15:48.332227+00:00",
  "assets": [
   {
    "symbol": "PARTI",
@@ -9,6 +9,14 @@
    "from_btc_pct": 1,
    "verdict": "Overbought",
    "file": "PARTI.png"
+  },
+  {
+   "symbol": "REZ",
+   "name": "Renzo",
+   "sigma": 2.75,
+   "from_btc_pct": 4,
+   "verdict": "Neutral",
+   "file": "REZ.png"
   },
   {
    "symbol": "HAEDAL",
@@ -25,14 +33,6 @@
    "from_btc_pct": 15,
    "verdict": "Neutral",
    "file": "SHELL.png"
-  },
-  {
-   "symbol": "REZ",
-   "name": "Renzo",
-   "sigma": 2.53,
-   "from_btc_pct": 2,
-   "verdict": "Neutral",
-   "file": "REZ.png"
   }
  ]
 }
