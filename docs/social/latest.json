@@ -1,6 +1,6 @@
 {
  "date": "2026-10-29",
- "generated_at": "2026-10-29T23:30:56.644315+00:00",
+ "generated_at": "2026-10-29T23:45:53.699235+00:00",
  "assets": [
   {
    "symbol": "INTWB",
@@ -27,20 +27,20 @@
    "file": "PARTI.png"
   },
   {
-   "symbol": "BFUSD",
-   "name": "BFUSD",
-   "sigma": 4.0,
-   "from_btc_pct": 23,
-   "verdict": "Neutral",
-   "file": "BFUSD.png"
-  },
-  {
    "symbol": "AI",
    "name": "Gensyn",
    "sigma": 3.51,
    "from_btc_pct": 11,
    "verdict": "Oversold",
    "file": "AI.png"
+  },
+  {
+   "symbol": "BFUSD",
+   "name": "BFUSD",
+   "sigma": 3.39,
+   "from_btc_pct": 24,
+   "verdict": "Neutral",
+   "file": "BFUSD.png"
   },
   {
    "symbol": "PYTH",
@@ -65,6 +65,14 @@
    "from_btc_pct": 32,
    "verdict": "Neutral",
    "file": "MEGA.png"
+  },
+  {
+   "symbol": "SYRUP",
+   "name": "Maple Finance",
+   "sigma": 2.7,
+   "from_btc_pct": 34,
+   "verdict": "Oversold",
+   "file": "SYRUP.png"
   },
   {
    "symbol": "HAEDAL",
