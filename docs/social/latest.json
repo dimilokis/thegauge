@@ -1,6 +1,6 @@
 {
  "date": "2026-10-29",
- "generated_at": "2026-10-29T21:15:49.148687+00:00",
+ "generated_at": "2026-10-29T21:45:47.577718+00:00",
  "assets": [
   {
    "symbol": "TRX",
@@ -19,6 +19,14 @@
    "file": "PARTI.png"
   },
   {
+   "symbol": "PYTH",
+   "name": "Pyth Network",
+   "sigma": 2.94,
+   "from_btc_pct": 0,
+   "verdict": "Neutral",
+   "file": "PYTH.png"
+  },
+  {
    "symbol": "REZ",
    "name": "Renzo",
    "sigma": 2.75,
@@ -27,12 +35,12 @@
    "file": "REZ.png"
   },
   {
-   "symbol": "PYTH",
-   "name": "Pyth Network",
-   "sigma": 2.63,
-   "from_btc_pct": 1,
+   "symbol": "MEGA",
+   "name": "MegaETH",
+   "sigma": 2.7,
+   "from_btc_pct": 32,
    "verdict": "Neutral",
-   "file": "PYTH.png"
+   "file": "MEGA.png"
   },
   {
    "symbol": "HAEDAL",
@@ -49,14 +57,6 @@
    "from_btc_pct": 15,
    "verdict": "Neutral",
    "file": "SHELL.png"
-  },
-  {
-   "symbol": "MEGA",
-   "name": "MegaETH",
-   "sigma": 2.53,
-   "from_btc_pct": 33,
-   "verdict": "Neutral",
-   "file": "MEGA.png"
   }
  ]
 }
