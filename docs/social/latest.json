@@ -1,6 +1,6 @@
 {
  "date": "2026-10-30",
- "generated_at": "2026-10-30T18:30:51.298900+00:00",
+ "generated_at": "2026-10-30T18:45:54.021950+00:00",
  "assets": [
   {
    "symbol": "ALPINE",
@@ -9,14 +9,6 @@
    "from_btc_pct": 8,
    "verdict": "Neutral",
    "file": "ALPINE.png"
-  },
-  {
-   "symbol": "TLM",
-   "name": "Alien Worlds",
-   "sigma": 7.56,
-   "from_btc_pct": 21,
-   "verdict": "Neutral",
-   "file": "TLM.png"
   },
   {
    "symbol": "SOPH",
@@ -97,6 +89,14 @@
    "from_btc_pct": 4,
    "verdict": "Overbought",
    "file": "INIT.png"
+  },
+  {
+   "symbol": "TLM",
+   "name": "Alien Worlds",
+   "sigma": 2.53,
+   "from_btc_pct": 40,
+   "verdict": "Oversold",
+   "file": "TLM.png"
   }
  ]
 }
