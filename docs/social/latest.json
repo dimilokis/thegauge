@@ -1,7 +1,15 @@
 {
  "date": "2026-10-30",
- "generated_at": "2026-10-30T08:45:50.675755+00:00",
+ "generated_at": "2026-10-30T10:15:48.671444+00:00",
  "assets": [
+  {
+   "symbol": "ALPINE",
+   "name": "Alpine F1 Team Fan Token",
+   "sigma": 7.97,
+   "from_btc_pct": 8,
+   "verdict": "Neutral",
+   "file": "ALPINE.png"
+  },
   {
    "symbol": "TRX",
    "name": "TRON",
