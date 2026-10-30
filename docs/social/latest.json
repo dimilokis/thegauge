@@ -1,6 +1,6 @@
 {
  "date": "2026-10-30",
- "generated_at": "2026-10-30T07:15:52.988100+00:00",
+ "generated_at": "2026-10-30T08:45:50.675755+00:00",
  "assets": [
   {
    "symbol": "TRX",
@@ -33,6 +33,14 @@
    "from_btc_pct": 15,
    "verdict": "Overbought",
    "file": "BEAMX.png"
+  },
+  {
+   "symbol": "PARTI",
+   "name": "Particle Network",
+   "sigma": 2.71,
+   "from_btc_pct": 19,
+   "verdict": "Overbought",
+   "file": "PARTI.png"
   }
  ]
 }
