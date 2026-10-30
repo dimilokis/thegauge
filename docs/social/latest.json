@@ -1,6 +1,6 @@
 {
  "date": "2026-10-30",
- "generated_at": "2026-10-30T12:45:53.681515+00:00",
+ "generated_at": "2026-10-30T13:15:54.865835+00:00",
  "assets": [
   {
    "symbol": "ALPINE",
@@ -17,6 +17,14 @@
    "from_btc_pct": 21,
    "verdict": "Neutral",
    "file": "TLM.png"
+  },
+  {
+   "symbol": "SOPH",
+   "name": "Sophon",
+   "sigma": 3.73,
+   "from_btc_pct": 0,
+   "verdict": "Oversold",
+   "file": "SOPH.png"
   },
   {
    "symbol": "BLUR",
