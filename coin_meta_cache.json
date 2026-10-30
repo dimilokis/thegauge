@@ -115,6 +115,10 @@
   "icon": "https://coin-images.coingecko.com/coins/images/12409/large/amp-200x200.png?1696512231",
   "name": "Amp"
  },
+ "AMZNB": {
+  "icon": "https://coin-images.coingecko.com/coins/images/102175185/large/amznb.png",
+  "name": "Amazon (bStocks Tokenized Stock)"
+ },
  "ANIME": {
   "icon": "https://coin-images.coingecko.com/coins/images/53575/large/anime.jpg?1736748703",
   "name": "Animecoin"

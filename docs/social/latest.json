@@ -1,6 +1,6 @@
 {
  "date": "2026-10-30",
- "generated_at": "2026-10-30T13:15:54.865835+00:00",
+ "generated_at": "2026-10-30T14:45:58.409127+00:00",
  "assets": [
   {
    "symbol": "ALPINE",
@@ -41,6 +41,14 @@
    "from_btc_pct": 24,
    "verdict": "Neutral",
    "file": "TRX.png"
+  },
+  {
+   "symbol": "AMZNB",
+   "name": "Amazon (bStocks Tokenized Stock)",
+   "sigma": 3.44,
+   "from_btc_pct": 25,
+   "verdict": "Neutral",
+   "file": "AMZNB.png"
   },
   {
    "symbol": "RUNE",
