@@ -1,7 +1,15 @@
 {
  "date": "2026-10-30",
- "generated_at": "2026-10-30T05:01:00.978215+00:00",
+ "generated_at": "2026-10-30T05:15:52.172693+00:00",
  "assets": [
+  {
+   "symbol": "TRX",
+   "name": "TRON",
+   "sigma": 3.53,
+   "from_btc_pct": 24,
+   "verdict": "Neutral",
+   "file": "TRX.png"
+  },
   {
    "symbol": "RUNE",
    "name": "THORChain",
