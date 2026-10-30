@@ -1,6 +1,6 @@
 {
  "date": "2026-10-29",
- "generated_at": "2026-10-30T00:30:53.932354+00:00",
+ "generated_at": "2026-10-30T02:15:40.603331+00:00",
  "assets": [
   {
    "symbol": "INTWB",
@@ -38,7 +38,7 @@
    "symbol": "BFUSD",
    "name": "BFUSD",
    "sigma": 3.01,
-   "from_btc_pct": 17,
+   "from_btc_pct": 19,
    "verdict": "Neutral",
    "file": "BFUSD.png"
   },
