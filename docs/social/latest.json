@@ -1,102 +1,14 @@
 {
- "date": "2026-10-29",
- "generated_at": "2026-10-30T02:15:40.603331+00:00",
+ "date": "2026-10-30",
+ "generated_at": "2026-10-30T04:30:55.042100+00:00",
  "assets": [
-  {
-   "symbol": "INTWB",
-   "name": "GraniteShares 2X Long INTC ETF (bStocks Tokenized ETF)",
-   "sigma": 9.29,
-   "from_btc_pct": 36,
-   "verdict": "Oversold",
-   "file": "INTWB.png"
-  },
-  {
-   "symbol": "TRX",
-   "name": "TRON",
-   "sigma": 5.78,
-   "from_btc_pct": 10,
-   "verdict": "Strong Uptrend",
-   "file": "TRX.png"
-  },
-  {
-   "symbol": "PARTI",
-   "name": "Particle Network",
-   "sigma": 5.1,
-   "from_btc_pct": 1,
-   "verdict": "Overbought",
-   "file": "PARTI.png"
-  },
-  {
-   "symbol": "AI",
-   "name": "Gensyn",
-   "sigma": 3.51,
-   "from_btc_pct": 11,
-   "verdict": "Oversold",
-   "file": "AI.png"
-  },
   {
    "symbol": "BFUSD",
    "name": "BFUSD",
    "sigma": 3.01,
-   "from_btc_pct": 19,
-   "verdict": "Neutral",
-   "file": "BFUSD.png"
-  },
-  {
-   "symbol": "PYTH",
-   "name": "Pyth Network",
-   "sigma": 2.94,
-   "from_btc_pct": 0,
-   "verdict": "Neutral",
-   "file": "PYTH.png"
-  },
-  {
-   "symbol": "REZ",
-   "name": "Renzo",
-   "sigma": 2.75,
-   "from_btc_pct": 4,
-   "verdict": "Neutral",
-   "file": "REZ.png"
-  },
-  {
-   "symbol": "MEGA",
-   "name": "MegaETH",
-   "sigma": 2.7,
-   "from_btc_pct": 32,
-   "verdict": "Neutral",
-   "file": "MEGA.png"
-  },
-  {
-   "symbol": "SYRUP",
-   "name": "Maple Finance",
-   "sigma": 2.7,
-   "from_btc_pct": 34,
-   "verdict": "Oversold",
-   "file": "SYRUP.png"
-  },
-  {
-   "symbol": "HAEDAL",
-   "name": "Haedal Protocol",
-   "sigma": 2.59,
-   "from_btc_pct": 10,
-   "verdict": "Neutral",
-   "file": "HAEDAL.png"
-  },
-  {
-   "symbol": "RENDER",
-   "name": "Render",
-   "sigma": 2.58,
    "from_btc_pct": 27,
    "verdict": "Neutral",
-   "file": "RENDER.png"
-  },
-  {
-   "symbol": "SHELL",
-   "name": "MyShell",
-   "sigma": 2.55,
-   "from_btc_pct": 15,
-   "verdict": "Neutral",
-   "file": "SHELL.png"
+   "file": "BFUSD.png"
   }
  ]
 }
