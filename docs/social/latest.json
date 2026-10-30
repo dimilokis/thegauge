@@ -1,6 +1,6 @@
 {
  "date": "2026-10-30",
- "generated_at": "2026-10-30T05:15:52.172693+00:00",
+ "generated_at": "2026-10-30T05:45:52.512603+00:00",
  "assets": [
   {
    "symbol": "TRX",
@@ -25,6 +25,14 @@
    "from_btc_pct": 27,
    "verdict": "Neutral",
    "file": "BFUSD.png"
+  },
+  {
+   "symbol": "BEAMX",
+   "name": null,
+   "sigma": 2.72,
+   "from_btc_pct": 15,
+   "verdict": "Overbought",
+   "file": "BEAMX.png"
   }
  ]
 }
