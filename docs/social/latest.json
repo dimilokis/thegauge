@@ -1,6 +1,6 @@
 {
  "date": "2026-10-30",
- "generated_at": "2026-10-30T19:58:21.497249+00:00",
+ "generated_at": "2026-10-30T20:00:57.993588+00:00",
  "assets": [
   {
    "symbol": "ALPINE",
@@ -46,7 +46,7 @@
    "symbol": "BFUSD",
    "name": "BFUSD",
    "sigma": 3.01,
-   "from_btc_pct": 20,
+   "from_btc_pct": 18,
    "verdict": "Neutral",
    "file": "BFUSD.png"
   },
