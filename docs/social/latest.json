@@ -1,7 +1,15 @@
 {
  "date": "2026-10-30",
- "generated_at": "2026-10-30T04:30:55.042100+00:00",
+ "generated_at": "2026-10-30T05:01:00.978215+00:00",
  "assets": [
+  {
+   "symbol": "RUNE",
+   "name": "THORChain",
+   "sigma": 3.49,
+   "from_btc_pct": 35,
+   "verdict": "Overbought",
+   "file": "RUNE.png"
+  },
   {
    "symbol": "BFUSD",
    "name": "BFUSD",
