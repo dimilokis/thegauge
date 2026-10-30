@@ -1,6 +1,6 @@
 {
  "date": "2026-10-30",
- "generated_at": "2026-10-30T14:45:58.409127+00:00",
+ "generated_at": "2026-10-30T15:15:51.024735+00:00",
  "assets": [
   {
    "symbol": "ALPINE",
@@ -81,6 +81,14 @@
    "from_btc_pct": 19,
    "verdict": "Overbought",
    "file": "PARTI.png"
+  },
+  {
+   "symbol": "ZRO",
+   "name": "LayerZero",
+   "sigma": 2.7,
+   "from_btc_pct": 19,
+   "verdict": "Neutral",
+   "file": "ZRO.png"
   }
  ]
 }
