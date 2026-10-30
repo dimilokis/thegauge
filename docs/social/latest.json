@@ -1,6 +1,6 @@
 {
  "date": "2026-10-30",
- "generated_at": "2026-10-30T10:15:48.671444+00:00",
+ "generated_at": "2026-10-30T10:30:51.419584+00:00",
  "assets": [
   {
    "symbol": "ALPINE",
@@ -9,6 +9,14 @@
    "from_btc_pct": 8,
    "verdict": "Neutral",
    "file": "ALPINE.png"
+  },
+  {
+   "symbol": "BLUR",
+   "name": "Blur",
+   "sigma": 3.7,
+   "from_btc_pct": 13,
+   "verdict": "Oversold",
+   "file": "BLUR.png"
   },
   {
    "symbol": "TRX",
