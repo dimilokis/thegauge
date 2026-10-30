@@ -1,15 +1,7 @@
 {
  "date": "2026-10-30",
- "generated_at": "2026-10-30T06:15:55.307915+00:00",
+ "generated_at": "2026-10-30T07:15:52.988100+00:00",
  "assets": [
-  {
-   "symbol": "BFUSD",
-   "name": "BFUSD",
-   "sigma": 4.66,
-   "from_btc_pct": 15,
-   "verdict": "Neutral",
-   "file": "BFUSD.png"
-  },
   {
    "symbol": "TRX",
    "name": "TRON",
@@ -25,6 +17,14 @@
    "from_btc_pct": 39,
    "verdict": "Overbought",
    "file": "RUNE.png"
+  },
+  {
+   "symbol": "BFUSD",
+   "name": "BFUSD",
+   "sigma": 3.01,
+   "from_btc_pct": 20,
+   "verdict": "Neutral",
+   "file": "BFUSD.png"
   },
   {
    "symbol": "BEAMX",
