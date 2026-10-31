@@ -1,6 +1,6 @@
 {
  "date": "2026-10-31",
- "generated_at": "2026-10-31T15:30:56.273590+00:00",
+ "generated_at": "2026-10-31T16:01:01.076987+00:00",
  "assets": [
   {
    "symbol": "COW",
@@ -29,8 +29,8 @@
   {
    "symbol": "RSR",
    "name": "Reserve Rights",
-   "sigma": 3.25,
-   "from_btc_pct": 1,
+   "sigma": 4.07,
+   "from_btc_pct": 2,
    "verdict": "Neutral",
    "file": "RSR.png"
   },
@@ -57,6 +57,14 @@
    "from_btc_pct": 1,
    "verdict": "Neutral",
    "file": "RAD.png"
+  },
+  {
+   "symbol": "PROVE",
+   "name": "Succinct",
+   "sigma": 2.62,
+   "from_btc_pct": 15,
+   "verdict": "Overbought",
+   "file": "PROVE.png"
   },
   {
    "symbol": "RUNE",
