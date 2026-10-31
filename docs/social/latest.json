@@ -1,6 +1,6 @@
 {
  "date": "2026-10-31",
- "generated_at": "2026-10-31T16:01:01.076987+00:00",
+ "generated_at": "2026-10-31T16:15:53.870593+00:00",
  "assets": [
   {
    "symbol": "COW",
@@ -57,6 +57,14 @@
    "from_btc_pct": 1,
    "verdict": "Neutral",
    "file": "RAD.png"
+  },
+  {
+   "symbol": "MORPHO",
+   "name": "Morpho",
+   "sigma": 2.68,
+   "from_btc_pct": 25,
+   "verdict": "Neutral",
+   "file": "MORPHO.png"
   },
   {
    "symbol": "PROVE",
