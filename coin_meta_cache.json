@@ -1299,6 +1299,10 @@
   "icon": "https://coin-images.coingecko.com/coins/images/39925/large/sky.jpg?1724827980",
   "name": "Sky"
  },
+ "SLP": {
+  "icon": "https://coin-images.coingecko.com/coins/images/10366/large/SLP.png",
+  "name": "Smooth Love Potion"
+ },
  "SNX": {
   "icon": "https://coin-images.coingecko.com/coins/images/3406/large/SNX.png?1696504103",
   "name": "Synthetix"
