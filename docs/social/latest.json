@@ -1,7 +1,15 @@
 {
  "date": "2026-10-31",
- "generated_at": "2026-10-31T12:45:52.282833+00:00",
+ "generated_at": "2026-10-31T14:15:52.213683+00:00",
  "assets": [
+  {
+   "symbol": "COW",
+   "name": "CoW Protocol",
+   "sigma": 5.65,
+   "from_btc_pct": 18,
+   "verdict": "Overbought",
+   "file": "COW.png"
+  },
   {
    "symbol": "STX",
    "name": "Stacks",
