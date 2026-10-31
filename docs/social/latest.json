@@ -1,6 +1,6 @@
 {
  "date": "2026-10-31",
- "generated_at": "2026-10-31T15:15:53.997763+00:00",
+ "generated_at": "2026-10-31T15:30:56.273590+00:00",
  "assets": [
   {
    "symbol": "COW",
@@ -27,6 +27,14 @@
    "file": "RED.png"
   },
   {
+   "symbol": "RSR",
+   "name": "Reserve Rights",
+   "sigma": 3.25,
+   "from_btc_pct": 1,
+   "verdict": "Neutral",
+   "file": "RSR.png"
+  },
+  {
    "symbol": "SOPH",
    "name": "Sophon",
    "sigma": 2.71,
@@ -49,6 +57,14 @@
    "from_btc_pct": 1,
    "verdict": "Neutral",
    "file": "RAD.png"
+  },
+  {
+   "symbol": "RUNE",
+   "name": "THORChain",
+   "sigma": 2.57,
+   "from_btc_pct": 38,
+   "verdict": "Overbought",
+   "file": "RUNE.png"
   }
  ]
 }
