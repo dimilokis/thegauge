@@ -1,6 +1,6 @@
 {
  "date": "2026-10-31",
- "generated_at": "2026-10-31T16:15:53.870593+00:00",
+ "generated_at": "2026-10-31T16:45:47.238343+00:00",
  "assets": [
   {
    "symbol": "COW",
@@ -35,6 +35,14 @@
    "file": "RSR.png"
   },
   {
+   "symbol": "PROVE",
+   "name": "Succinct",
+   "sigma": 3.15,
+   "from_btc_pct": 15,
+   "verdict": "Overbought",
+   "file": "PROVE.png"
+  },
+  {
    "symbol": "SOPH",
    "name": "Sophon",
    "sigma": 2.71,
@@ -65,14 +73,6 @@
    "from_btc_pct": 25,
    "verdict": "Neutral",
    "file": "MORPHO.png"
-  },
-  {
-   "symbol": "PROVE",
-   "name": "Succinct",
-   "sigma": 2.62,
-   "from_btc_pct": 15,
-   "verdict": "Overbought",
-   "file": "PROVE.png"
   },
   {
    "symbol": "RUNE",
