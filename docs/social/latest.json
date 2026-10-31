@@ -1,22 +1,22 @@
 {
  "date": "2026-10-31",
- "generated_at": "2026-10-31T09:30:49.238917+00:00",
+ "generated_at": "2026-10-31T12:15:49.828892+00:00",
  "assets": [
-  {
-   "symbol": "RAD",
-   "name": "Radworks",
-   "sigma": 3.22,
-   "from_btc_pct": 1,
-   "verdict": "Neutral",
-   "file": "RAD.png"
-  },
   {
    "symbol": "SOPH",
    "name": "Sophon",
-   "sigma": 2.54,
+   "sigma": 2.71,
    "from_btc_pct": 0,
    "verdict": "Oversold",
    "file": "SOPH.png"
+  },
+  {
+   "symbol": "RAD",
+   "name": "Radworks",
+   "sigma": 2.69,
+   "from_btc_pct": 1,
+   "verdict": "Neutral",
+   "file": "RAD.png"
   }
  ]
 }
