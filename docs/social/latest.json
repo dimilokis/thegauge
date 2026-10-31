@@ -1,7 +1,15 @@
 {
  "date": "2026-10-31",
- "generated_at": "2026-10-31T09:15:54.166648+00:00",
+ "generated_at": "2026-10-31T09:30:49.238917+00:00",
  "assets": [
+  {
+   "symbol": "RAD",
+   "name": "Radworks",
+   "sigma": 3.22,
+   "from_btc_pct": 1,
+   "verdict": "Neutral",
+   "file": "RAD.png"
+  },
   {
    "symbol": "SOPH",
    "name": "Sophon",
