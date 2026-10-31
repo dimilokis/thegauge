@@ -1,102 +1,14 @@
 {
- "date": "2026-10-30",
- "generated_at": "2026-10-30T21:01:05.243138+00:00",
+ "date": "2026-10-31",
+ "generated_at": "2026-10-31T05:15:51.923297+00:00",
  "assets": [
-  {
-   "symbol": "ALPINE",
-   "name": "Alpine F1 Team Fan Token",
-   "sigma": 7.97,
-   "from_btc_pct": 8,
-   "verdict": "Neutral",
-   "file": "ALPINE.png"
-  },
   {
    "symbol": "SOPH",
    "name": "Sophon",
-   "sigma": 3.73,
+   "sigma": 2.89,
    "from_btc_pct": 0,
    "verdict": "Oversold",
    "file": "SOPH.png"
-  },
-  {
-   "symbol": "TRX",
-   "name": "TRON",
-   "sigma": 3.53,
-   "from_btc_pct": 24,
-   "verdict": "Neutral",
-   "file": "TRX.png"
-  },
-  {
-   "symbol": "AMZNB",
-   "name": "Amazon (bStocks Tokenized Stock)",
-   "sigma": 3.44,
-   "from_btc_pct": 25,
-   "verdict": "Neutral",
-   "file": "AMZNB.png"
-  },
-  {
-   "symbol": "RUNE",
-   "name": "THORChain",
-   "sigma": 3.38,
-   "from_btc_pct": 39,
-   "verdict": "Overbought",
-   "file": "RUNE.png"
-  },
-  {
-   "symbol": "BFUSD",
-   "name": "BFUSD",
-   "sigma": 3.01,
-   "from_btc_pct": 18,
-   "verdict": "Neutral",
-   "file": "BFUSD.png"
-  },
-  {
-   "symbol": "TQQQB",
-   "name": "ProShares UltraPro QQQ (bStocks Tokenized Stock)",
-   "sigma": 2.97,
-   "from_btc_pct": 40,
-   "verdict": "Oversold",
-   "file": "TQQQB.png"
-  },
-  {
-   "symbol": "BLUR",
-   "name": "Blur",
-   "sigma": 2.83,
-   "from_btc_pct": 12,
-   "verdict": "Oversold",
-   "file": "BLUR.png"
-  },
-  {
-   "symbol": "BEAMX",
-   "name": null,
-   "sigma": 2.72,
-   "from_btc_pct": 15,
-   "verdict": "Overbought",
-   "file": "BEAMX.png"
-  },
-  {
-   "symbol": "PARTI",
-   "name": "Particle Network",
-   "sigma": 2.71,
-   "from_btc_pct": 19,
-   "verdict": "Overbought",
-   "file": "PARTI.png"
-  },
-  {
-   "symbol": "OP",
-   "name": "Optimism",
-   "sigma": 2.71,
-   "from_btc_pct": 28,
-   "verdict": "Neutral",
-   "file": "OP.png"
-  },
-  {
-   "symbol": "ZRO",
-   "name": "LayerZero",
-   "sigma": 2.7,
-   "from_btc_pct": 19,
-   "verdict": "Neutral",
-   "file": "ZRO.png"
   }
  ]
 }
