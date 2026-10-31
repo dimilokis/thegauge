@@ -1,6 +1,6 @@
 {
  "date": "2026-10-31",
- "generated_at": "2026-10-31T16:45:47.238343+00:00",
+ "generated_at": "2026-10-31T18:15:54.028880+00:00",
  "assets": [
   {
    "symbol": "COW",
@@ -9,14 +9,6 @@
    "from_btc_pct": 18,
    "verdict": "Overbought",
    "file": "COW.png"
-  },
-  {
-   "symbol": "STX",
-   "name": "Stacks",
-   "sigma": 4.7,
-   "from_btc_pct": 15,
-   "verdict": "Strong Uptrend",
-   "file": "STX.png"
   },
   {
    "symbol": "RED",
@@ -81,6 +73,14 @@
    "from_btc_pct": 38,
    "verdict": "Overbought",
    "file": "RUNE.png"
+  },
+  {
+   "symbol": "STX",
+   "name": "Stacks",
+   "sigma": 2.57,
+   "from_btc_pct": 22,
+   "verdict": "Neutral",
+   "file": "STX.png"
   }
  ]
 }
