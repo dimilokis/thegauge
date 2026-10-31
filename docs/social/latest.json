@@ -1,6 +1,6 @@
 {
  "date": "2026-10-31",
- "generated_at": "2026-10-31T14:15:52.213683+00:00",
+ "generated_at": "2026-10-31T14:45:49.602925+00:00",
  "assets": [
   {
    "symbol": "COW",
@@ -25,6 +25,14 @@
    "from_btc_pct": 0,
    "verdict": "Oversold",
    "file": "SOPH.png"
+  },
+  {
+   "symbol": "TRX",
+   "name": "TRON",
+   "sigma": 2.71,
+   "from_btc_pct": 9,
+   "verdict": "Neutral",
+   "file": "TRX.png"
   },
   {
    "symbol": "RAD",
