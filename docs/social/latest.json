@@ -1,7 +1,15 @@
 {
  "date": "2026-10-31",
- "generated_at": "2026-10-31T18:15:54.028880+00:00",
+ "generated_at": "2026-10-31T23:45:55.146045+00:00",
  "assets": [
+  {
+   "symbol": "ADX",
+   "name": "heyAura",
+   "sigma": 6.12,
+   "from_btc_pct": 30,
+   "verdict": "Neutral",
+   "file": "ADX.png"
+  },
   {
    "symbol": "COW",
    "name": "CoW Protocol",
