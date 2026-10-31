@@ -1,11 +1,11 @@
 {
  "date": "2026-10-31",
- "generated_at": "2026-10-31T06:30:52.752273+00:00",
+ "generated_at": "2026-10-31T08:45:52.934173+00:00",
  "assets": [
   {
    "symbol": "SOPH",
    "name": "Sophon",
-   "sigma": 3.13,
+   "sigma": 2.54,
    "from_btc_pct": 0,
    "verdict": "Oversold",
    "file": "SOPH.png"
