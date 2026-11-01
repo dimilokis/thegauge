@@ -1,6 +1,6 @@
 {
  "date": "2026-11-01",
- "generated_at": "2026-11-01T07:15:47.374371+00:00",
+ "generated_at": "2026-11-01T08:00:57.747514+00:00",
  "assets": [
   {
    "symbol": "BEAMX",
@@ -9,6 +9,14 @@
    "from_btc_pct": 5,
    "verdict": "Overbought",
    "file": "BEAMX.png"
+  },
+  {
+   "symbol": "G",
+   "name": "Gravity (by Galxe)",
+   "sigma": 2.63,
+   "from_btc_pct": 22,
+   "verdict": "Neutral",
+   "file": "G.png"
   }
  ]
 }
