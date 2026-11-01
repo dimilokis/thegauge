@@ -1,6 +1,6 @@
 {
  "date": "2026-11-01",
- "generated_at": "2026-11-01T10:30:50.085949+00:00",
+ "generated_at": "2026-11-01T11:45:49.790544+00:00",
  "assets": [
   {
    "symbol": "AWE",
@@ -21,7 +21,7 @@
   {
    "symbol": "G",
    "name": "Gravity (by Galxe)",
-   "sigma": 2.63,
+   "sigma": 2.52,
    "from_btc_pct": 22,
    "verdict": "Neutral",
    "file": "G.png"
