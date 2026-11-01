@@ -1,7 +1,15 @@
 {
  "date": "2026-11-01",
- "generated_at": "2026-11-01T08:00:57.747514+00:00",
+ "generated_at": "2026-11-01T09:30:54.632382+00:00",
  "assets": [
+  {
+   "symbol": "AWE",
+   "name": "AWE Network",
+   "sigma": 2.98,
+   "from_btc_pct": 19,
+   "verdict": "Neutral",
+   "file": "AWE.png"
+  },
   {
    "symbol": "BEAMX",
    "name": null,
