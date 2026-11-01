@@ -1,102 +1,14 @@
 {
- "date": "2026-10-31",
- "generated_at": "2026-11-01T01:15:49.505512+00:00",
+ "date": "2026-11-01",
+ "generated_at": "2026-11-01T07:15:47.374371+00:00",
  "assets": [
   {
-   "symbol": "POWR",
-   "name": "Powerledger",
-   "sigma": 7.96,
-   "from_btc_pct": 12,
+   "symbol": "BEAMX",
+   "name": null,
+   "sigma": 2.65,
+   "from_btc_pct": 5,
    "verdict": "Overbought",
-   "file": "POWR.png"
-  },
-  {
-   "symbol": "ADX",
-   "name": "heyAura",
-   "sigma": 6.12,
-   "from_btc_pct": 30,
-   "verdict": "Neutral",
-   "file": "ADX.png"
-  },
-  {
-   "symbol": "COW",
-   "name": "CoW Protocol",
-   "sigma": 5.65,
-   "from_btc_pct": 18,
-   "verdict": "Overbought",
-   "file": "COW.png"
-  },
-  {
-   "symbol": "RED",
-   "name": "RedStone",
-   "sigma": 4.59,
-   "from_btc_pct": 22,
-   "verdict": "Neutral",
-   "file": "RED.png"
-  },
-  {
-   "symbol": "RSR",
-   "name": "Reserve Rights",
-   "sigma": 4.07,
-   "from_btc_pct": 2,
-   "verdict": "Neutral",
-   "file": "RSR.png"
-  },
-  {
-   "symbol": "PROVE",
-   "name": "Succinct",
-   "sigma": 3.15,
-   "from_btc_pct": 15,
-   "verdict": "Overbought",
-   "file": "PROVE.png"
-  },
-  {
-   "symbol": "SOPH",
-   "name": "Sophon",
-   "sigma": 2.71,
-   "from_btc_pct": 0,
-   "verdict": "Oversold",
-   "file": "SOPH.png"
-  },
-  {
-   "symbol": "TRX",
-   "name": "TRON",
-   "sigma": 2.71,
-   "from_btc_pct": 9,
-   "verdict": "Neutral",
-   "file": "TRX.png"
-  },
-  {
-   "symbol": "RAD",
-   "name": "Radworks",
-   "sigma": 2.69,
-   "from_btc_pct": 1,
-   "verdict": "Neutral",
-   "file": "RAD.png"
-  },
-  {
-   "symbol": "MORPHO",
-   "name": "Morpho",
-   "sigma": 2.68,
-   "from_btc_pct": 25,
-   "verdict": "Neutral",
-   "file": "MORPHO.png"
-  },
-  {
-   "symbol": "RUNE",
-   "name": "THORChain",
-   "sigma": 2.57,
-   "from_btc_pct": 38,
-   "verdict": "Overbought",
-   "file": "RUNE.png"
-  },
-  {
-   "symbol": "STX",
-   "name": "Stacks",
-   "sigma": 2.57,
-   "from_btc_pct": 22,
-   "verdict": "Neutral",
-   "file": "STX.png"
+   "file": "BEAMX.png"
   }
  ]
 }
