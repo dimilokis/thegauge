@@ -1,6 +1,6 @@
 {
  "date": "2026-11-01",
- "generated_at": "2026-11-01T21:15:49.681815+00:00",
+ "generated_at": "2026-11-01T21:30:59.630877+00:00",
  "assets": [
   {
    "symbol": "AWE",
@@ -25,6 +25,14 @@
    "from_btc_pct": 5,
    "verdict": "Overbought",
    "file": "BEAMX.png"
+  },
+  {
+   "symbol": "RUNE",
+   "name": "THORChain",
+   "sigma": 2.62,
+   "from_btc_pct": 30,
+   "verdict": "Neutral",
+   "file": "RUNE.png"
   },
   {
    "symbol": "G",
