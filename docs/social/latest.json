@@ -1,15 +1,7 @@
 {
  "date": "2026-11-01",
- "generated_at": "2026-11-01T18:45:50.508672+00:00",
+ "generated_at": "2026-11-01T21:15:49.681815+00:00",
  "assets": [
-  {
-   "symbol": "HOT",
-   "name": "Holo",
-   "sigma": 3.12,
-   "from_btc_pct": 35,
-   "verdict": "Neutral",
-   "file": "HOT.png"
-  },
   {
    "symbol": "AWE",
    "name": "AWE Network",
@@ -17,6 +9,14 @@
    "from_btc_pct": 18,
    "verdict": "Neutral",
    "file": "AWE.png"
+  },
+  {
+   "symbol": "HOT",
+   "name": "Holo",
+   "sigma": 2.73,
+   "from_btc_pct": 35,
+   "verdict": "Neutral",
+   "file": "HOT.png"
   },
   {
    "symbol": "BEAMX",
