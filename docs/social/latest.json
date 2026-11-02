@@ -1,46 +1,14 @@
 {
- "date": "2026-11-01",
- "generated_at": "2026-11-01T21:30:59.630877+00:00",
+ "date": "2026-11-02",
+ "generated_at": "2026-11-02T03:45:56.852308+00:00",
  "assets": [
-  {
-   "symbol": "AWE",
-   "name": "AWE Network",
-   "sigma": 3.07,
-   "from_btc_pct": 18,
-   "verdict": "Neutral",
-   "file": "AWE.png"
-  },
   {
    "symbol": "HOT",
    "name": "Holo",
-   "sigma": 2.73,
-   "from_btc_pct": 35,
+   "sigma": 3.02,
+   "from_btc_pct": 36,
    "verdict": "Neutral",
    "file": "HOT.png"
-  },
-  {
-   "symbol": "BEAMX",
-   "name": null,
-   "sigma": 2.65,
-   "from_btc_pct": 5,
-   "verdict": "Overbought",
-   "file": "BEAMX.png"
-  },
-  {
-   "symbol": "RUNE",
-   "name": "THORChain",
-   "sigma": 2.62,
-   "from_btc_pct": 30,
-   "verdict": "Neutral",
-   "file": "RUNE.png"
-  },
-  {
-   "symbol": "G",
-   "name": "Gravity (by Galxe)",
-   "sigma": 2.52,
-   "from_btc_pct": 22,
-   "verdict": "Neutral",
-   "file": "G.png"
   }
  ]
 }
