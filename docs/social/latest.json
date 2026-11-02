@@ -1,6 +1,6 @@
 {
  "date": "2026-11-02",
- "generated_at": "2026-11-02T15:15:57.343985+00:00",
+ "generated_at": "2026-11-02T15:30:56.063753+00:00",
  "assets": [
   {
    "symbol": "1000CAT",
@@ -33,6 +33,14 @@
    "from_btc_pct": 4,
    "verdict": "Neutral",
    "file": "INIT.png"
+  },
+  {
+   "symbol": "HUMA",
+   "name": "Huma Finance",
+   "sigma": 2.76,
+   "from_btc_pct": 21,
+   "verdict": "Oversold",
+   "file": "HUMA.png"
   },
   {
    "symbol": "BABAB",
