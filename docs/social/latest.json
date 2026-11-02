@@ -1,6 +1,6 @@
 {
  "date": "2026-11-02",
- "generated_at": "2026-11-02T19:00:56.690960+00:00",
+ "generated_at": "2026-11-02T21:15:53.624165+00:00",
  "assets": [
   {
    "symbol": "1000CAT",
@@ -41,6 +41,14 @@
    "from_btc_pct": 21,
    "verdict": "Oversold",
    "file": "HUMA.png"
+  },
+  {
+   "symbol": "HAEDAL",
+   "name": "Haedal Protocol",
+   "sigma": 2.73,
+   "from_btc_pct": 14,
+   "verdict": "Overbought",
+   "file": "HAEDAL.png"
   },
   {
    "symbol": "BABAB",
