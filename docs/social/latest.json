@@ -1,6 +1,6 @@
 {
  "date": "2026-11-02",
- "generated_at": "2026-11-02T03:45:56.852308+00:00",
+ "generated_at": "2026-11-02T05:30:54.341667+00:00",
  "assets": [
   {
    "symbol": "HOT",
@@ -9,6 +9,14 @@
    "from_btc_pct": 36,
    "verdict": "Neutral",
    "file": "HOT.png"
+  },
+  {
+   "symbol": "POWR",
+   "name": "Powerledger",
+   "sigma": 2.9,
+   "from_btc_pct": 17,
+   "verdict": "Neutral",
+   "file": "POWR.png"
   }
  ]
 }
