@@ -1,6 +1,6 @@
 {
  "date": "2026-11-02",
- "generated_at": "2026-11-02T15:30:56.063753+00:00",
+ "generated_at": "2026-11-02T19:00:56.690960+00:00",
  "assets": [
   {
    "symbol": "1000CAT",
@@ -49,6 +49,14 @@
    "from_btc_pct": 9,
    "verdict": "Neutral",
    "file": "BABAB.png"
+  },
+  {
+   "symbol": "BEAMX",
+   "name": null,
+   "sigma": 2.52,
+   "from_btc_pct": 7,
+   "verdict": "Overbought",
+   "file": "BEAMX.png"
   }
  ]
 }
