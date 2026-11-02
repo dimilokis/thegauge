@@ -1,6 +1,6 @@
 {
  "date": "2026-11-02",
- "generated_at": "2026-11-02T09:01:07.676646+00:00",
+ "generated_at": "2026-11-02T12:30:58.289209+00:00",
  "assets": [
   {
    "symbol": "1000CAT",
@@ -29,8 +29,8 @@
   {
    "symbol": "INIT",
    "name": "Initia",
-   "sigma": 2.53,
-   "from_btc_pct": 3,
+   "sigma": 2.58,
+   "from_btc_pct": 4,
    "verdict": "Neutral",
    "file": "INIT.png"
   }
