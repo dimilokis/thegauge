@@ -1,7 +1,15 @@
 {
  "date": "2026-11-02",
- "generated_at": "2026-11-02T05:30:54.341667+00:00",
+ "generated_at": "2026-11-02T09:01:07.676646+00:00",
  "assets": [
+  {
+   "symbol": "1000CAT",
+   "name": "Simon's Cat",
+   "sigma": 3.16,
+   "from_btc_pct": 21,
+   "verdict": "Neutral",
+   "file": "1000CAT.png"
+  },
   {
    "symbol": "HOT",
    "name": "Holo",
@@ -17,6 +25,14 @@
    "from_btc_pct": 17,
    "verdict": "Neutral",
    "file": "POWR.png"
+  },
+  {
+   "symbol": "INIT",
+   "name": "Initia",
+   "sigma": 2.53,
+   "from_btc_pct": 3,
+   "verdict": "Neutral",
+   "file": "INIT.png"
   }
  ]
 }
