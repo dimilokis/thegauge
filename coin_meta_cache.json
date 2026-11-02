@@ -204,7 +204,7 @@
   "name": "Veranta"
  },
  "AWE": {
-  "icon": "https://coin-images.coingecko.com/coins/images/8713/large/awe-network.jpg",
+  "icon": "https://coin-images.coingecko.com/coins/images/8713/large/awe-network.jpg?1747816016",
   "name": "AWE Network"
  },
  "AXL": {
@@ -690,6 +690,10 @@
  "HUMA": {
   "icon": "https://coin-images.coingecko.com/coins/images/29215/large/huma.png?1696528173",
   "name": "Huma Finance"
+ },
+ "HYPE": {
+  "icon": "https://coin-images.coingecko.com/coins/images/50882/large/hyperliquid.jpg?1729431300",
+  "name": "Hyperliquid"
  },
  "HYPER": {
   "icon": "https://coin-images.coingecko.com/coins/images/55298/large/Hyperlane.png?1745248900",
