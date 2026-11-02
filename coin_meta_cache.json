@@ -403,6 +403,10 @@
   "icon": "https://coin-images.coingecko.com/coins/images/12124/large/Curve.png?1696511967",
   "name": "Curve DAO"
  },
+ "CRWVB": {
+  "icon": "https://coin-images.coingecko.com/coins/images/102174775/large/coreweave.png",
+  "name": "CoreWeave (bStocks Tokenized Stock)"
+ },
  "CTK": {
   "icon": "https://coin-images.coingecko.com/coins/images/12944/large/shentu_2.jpg?1696512733",
   "name": "Shentu"
