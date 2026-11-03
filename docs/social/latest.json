@@ -1,7 +1,15 @@
 {
  "date": "2026-11-03",
- "generated_at": "2026-11-03T06:01:01.440505+00:00",
+ "generated_at": "2026-11-03T11:15:48.592741+00:00",
  "assets": [
+  {
+   "symbol": "HOT",
+   "name": "Holo",
+   "sigma": 7.43,
+   "from_btc_pct": 13,
+   "verdict": "Overbought",
+   "file": "HOT.png"
+  },
   {
    "symbol": "HUMA",
    "name": "Huma Finance",
