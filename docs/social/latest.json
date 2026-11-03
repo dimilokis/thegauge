@@ -1,6 +1,6 @@
 {
  "date": "2026-11-03",
- "generated_at": "2026-11-03T16:16:00.165340+00:00",
+ "generated_at": "2026-11-03T18:46:40.065376+00:00",
  "assets": [
   {
    "symbol": "HOT",
@@ -17,6 +17,14 @@
    "from_btc_pct": 16,
    "verdict": "Neutral",
    "file": "RUNE.png"
+  },
+  {
+   "symbol": "KMNO",
+   "name": "Kamino",
+   "sigma": 2.93,
+   "from_btc_pct": 35,
+   "verdict": "Neutral",
+   "file": "KMNO.png"
   },
   {
    "symbol": "HUMA",
