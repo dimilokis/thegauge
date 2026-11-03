@@ -1,6 +1,6 @@
 {
  "date": "2026-11-03",
- "generated_at": "2026-11-03T15:15:58.856918+00:00",
+ "generated_at": "2026-11-03T15:45:57.939528+00:00",
  "assets": [
   {
    "symbol": "HOT",
@@ -9,6 +9,14 @@
    "from_btc_pct": 13,
    "verdict": "Overbought",
    "file": "HOT.png"
+  },
+  {
+   "symbol": "RUNE",
+   "name": "THORChain",
+   "sigma": 3.05,
+   "from_btc_pct": 16,
+   "verdict": "Neutral",
+   "file": "RUNE.png"
   },
   {
    "symbol": "HUMA",
