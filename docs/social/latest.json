@@ -1,78 +1,14 @@
 {
- "date": "2026-11-02",
- "generated_at": "2026-11-02T23:30:51.261957+00:00",
+ "date": "2026-11-03",
+ "generated_at": "2026-11-03T06:01:01.440505+00:00",
  "assets": [
-  {
-   "symbol": "AAPLB",
-   "name": "Apple (bStocks Tokenized Stock)",
-   "sigma": 6.11,
-   "from_btc_pct": 5,
-   "verdict": "Neutral",
-   "file": "AAPLB.png"
-  },
-  {
-   "symbol": "1000CAT",
-   "name": "Simon's Cat",
-   "sigma": 3.16,
-   "from_btc_pct": 21,
-   "verdict": "Neutral",
-   "file": "1000CAT.png"
-  },
-  {
-   "symbol": "POWR",
-   "name": "Powerledger",
-   "sigma": 2.9,
-   "from_btc_pct": 17,
-   "verdict": "Neutral",
-   "file": "POWR.png"
-  },
-  {
-   "symbol": "HOT",
-   "name": "Holo",
-   "sigma": 2.9,
-   "from_btc_pct": 30,
-   "verdict": "Neutral",
-   "file": "HOT.png"
-  },
-  {
-   "symbol": "INIT",
-   "name": "Initia",
-   "sigma": 2.84,
-   "from_btc_pct": 4,
-   "verdict": "Neutral",
-   "file": "INIT.png"
-  },
   {
    "symbol": "HUMA",
    "name": "Huma Finance",
-   "sigma": 2.76,
-   "from_btc_pct": 21,
+   "sigma": 2.51,
+   "from_btc_pct": 19,
    "verdict": "Oversold",
    "file": "HUMA.png"
-  },
-  {
-   "symbol": "HAEDAL",
-   "name": "Haedal Protocol",
-   "sigma": 2.73,
-   "from_btc_pct": 14,
-   "verdict": "Overbought",
-   "file": "HAEDAL.png"
-  },
-  {
-   "symbol": "BABAB",
-   "name": "Alibaba (bStocks Tokenized Stock)",
-   "sigma": 2.57,
-   "from_btc_pct": 9,
-   "verdict": "Neutral",
-   "file": "BABAB.png"
-  },
-  {
-   "symbol": "BEAMX",
-   "name": null,
-   "sigma": 2.53,
-   "from_btc_pct": 7,
-   "verdict": "Overbought",
-   "file": "BEAMX.png"
   }
  ]
 }
