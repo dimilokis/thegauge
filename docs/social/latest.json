@@ -1,12 +1,12 @@
 {
  "date": "2026-11-04",
- "generated_at": "2026-11-04T15:00:59.762762+00:00",
+ "generated_at": "2026-11-04T15:45:49.248288+00:00",
  "assets": [
   {
    "symbol": "SXT",
    "name": "Space and Time",
-   "sigma": 6.68,
-   "from_btc_pct": 35,
+   "sigma": 5.24,
+   "from_btc_pct": 40,
    "verdict": "Overbought",
    "file": "SXT.png"
   },
