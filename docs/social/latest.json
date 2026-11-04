@@ -1,15 +1,7 @@
 {
  "date": "2026-11-03",
- "generated_at": "2026-11-04T00:45:46.598725+00:00",
+ "generated_at": "2026-11-04T01:45:52.430597+00:00",
  "assets": [
-  {
-   "symbol": "HOT",
-   "name": "Holo",
-   "sigma": 7.43,
-   "from_btc_pct": 13,
-   "verdict": "Overbought",
-   "file": "HOT.png"
-  },
   {
    "symbol": "RUNE",
    "name": "THORChain",
@@ -41,6 +33,14 @@
    "from_btc_pct": 28,
    "verdict": "Neutral",
    "file": "WLFI.png"
+  },
+  {
+   "symbol": "HOT",
+   "name": "Holo",
+   "sigma": 2.54,
+   "from_btc_pct": 13,
+   "verdict": "Overbought",
+   "file": "HOT.png"
   }
  ]
 }
