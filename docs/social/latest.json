@@ -1,6 +1,6 @@
 {
  "date": "2026-11-04",
- "generated_at": "2026-11-04T14:31:02.319764+00:00",
+ "generated_at": "2026-11-04T14:45:54.522244+00:00",
  "assets": [
   {
    "symbol": "HUMA",
@@ -25,6 +25,14 @@
    "from_btc_pct": 7,
    "verdict": "Overbought",
    "file": "HOT.png"
+  },
+  {
+   "symbol": "BABAB",
+   "name": "Alibaba (bStocks Tokenized Stock)",
+   "sigma": 2.7,
+   "from_btc_pct": 18,
+   "verdict": "Neutral",
+   "file": "BABAB.png"
   }
  ]
 }
