@@ -1,7 +1,15 @@
 {
  "date": "2026-11-04",
- "generated_at": "2026-11-04T09:30:59.867342+00:00",
+ "generated_at": "2026-11-04T11:30:52.511532+00:00",
  "assets": [
+  {
+   "symbol": "HUMA",
+   "name": "Huma Finance",
+   "sigma": 3.44,
+   "from_btc_pct": 7,
+   "verdict": "Oversold",
+   "file": "HUMA.png"
+  },
   {
    "symbol": "HOT",
    "name": "Holo",
@@ -9,14 +17,6 @@
    "from_btc_pct": 16,
    "verdict": "Overbought",
    "file": "HOT.png"
-  },
-  {
-   "symbol": "HUMA",
-   "name": "Huma Finance",
-   "sigma": 2.78,
-   "from_btc_pct": 10,
-   "verdict": "Oversold",
-   "file": "HUMA.png"
   }
  ]
 }
