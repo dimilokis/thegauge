@@ -1,6 +1,6 @@
 {
  "date": "2026-11-04",
- "generated_at": "2026-11-04T23:01:04.143232+00:00",
+ "generated_at": "2026-11-04T23:30:58.701106+00:00",
  "assets": [
   {
    "symbol": "HUMA",
@@ -51,20 +51,20 @@
    "file": "INIT.png"
   },
   {
-   "symbol": "MRNAB",
-   "name": "Moderna (bStocks Tokenized Stock)",
-   "sigma": 2.58,
-   "from_btc_pct": 25,
-   "verdict": "Overbought",
-   "file": "MRNAB.png"
-  },
-  {
    "symbol": "SXT",
    "name": "Space and Time",
    "sigma": 2.57,
    "from_btc_pct": 36,
    "verdict": "Neutral",
    "file": "SXT.png"
+  },
+  {
+   "symbol": "MRNAB",
+   "name": "Moderna (bStocks Tokenized Stock)",
+   "sigma": 2.54,
+   "from_btc_pct": 26,
+   "verdict": "Overbought",
+   "file": "MRNAB.png"
   },
   {
    "symbol": "BABAB",
