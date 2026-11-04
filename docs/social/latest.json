@@ -1,6 +1,6 @@
 {
  "date": "2026-11-03",
- "generated_at": "2026-11-03T18:46:40.065376+00:00",
+ "generated_at": "2026-11-04T00:45:46.598725+00:00",
  "assets": [
   {
    "symbol": "HOT",
@@ -33,6 +33,14 @@
    "from_btc_pct": 12,
    "verdict": "Oversold",
    "file": "HUMA.png"
+  },
+  {
+   "symbol": "WLFI",
+   "name": "World Liberty Financial",
+   "sigma": 2.57,
+   "from_btc_pct": 28,
+   "verdict": "Neutral",
+   "file": "WLFI.png"
   }
  ]
 }
