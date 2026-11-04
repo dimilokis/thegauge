@@ -1,44 +1,12 @@
 {
- "date": "2026-11-03",
- "generated_at": "2026-11-04T01:45:52.430597+00:00",
+ "date": "2026-11-04",
+ "generated_at": "2026-11-04T03:01:00.520728+00:00",
  "assets": [
-  {
-   "symbol": "RUNE",
-   "name": "THORChain",
-   "sigma": 3.05,
-   "from_btc_pct": 16,
-   "verdict": "Neutral",
-   "file": "RUNE.png"
-  },
-  {
-   "symbol": "KMNO",
-   "name": "Kamino",
-   "sigma": 2.93,
-   "from_btc_pct": 35,
-   "verdict": "Neutral",
-   "file": "KMNO.png"
-  },
-  {
-   "symbol": "HUMA",
-   "name": "Huma Finance",
-   "sigma": 2.87,
-   "from_btc_pct": 12,
-   "verdict": "Oversold",
-   "file": "HUMA.png"
-  },
-  {
-   "symbol": "WLFI",
-   "name": "World Liberty Financial",
-   "sigma": 2.57,
-   "from_btc_pct": 28,
-   "verdict": "Neutral",
-   "file": "WLFI.png"
-  },
   {
    "symbol": "HOT",
    "name": "Holo",
-   "sigma": 2.54,
-   "from_btc_pct": 13,
+   "sigma": 2.84,
+   "from_btc_pct": 16,
    "verdict": "Overbought",
    "file": "HOT.png"
   }
