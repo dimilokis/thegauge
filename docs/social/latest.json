@@ -1,6 +1,6 @@
 {
  "date": "2026-11-04",
- "generated_at": "2026-11-04T19:15:54.762228+00:00",
+ "generated_at": "2026-11-04T21:01:05.412146+00:00",
  "assets": [
   {
    "symbol": "HUMA",
@@ -57,6 +57,14 @@
    "from_btc_pct": 11,
    "verdict": "Neutral",
    "file": "INIT.png"
+  },
+  {
+   "symbol": "MRNAB",
+   "name": "Moderna (bStocks Tokenized Stock)",
+   "sigma": 2.58,
+   "from_btc_pct": 25,
+   "verdict": "Overbought",
+   "file": "MRNAB.png"
   },
   {
    "symbol": "SXT",
