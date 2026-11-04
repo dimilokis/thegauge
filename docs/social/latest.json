@@ -1,6 +1,6 @@
 {
  "date": "2026-11-04",
- "generated_at": "2026-11-04T21:01:05.412146+00:00",
+ "generated_at": "2026-11-04T21:15:55.537361+00:00",
  "assets": [
   {
    "symbol": "HUMA",
@@ -29,18 +29,10 @@
   {
    "symbol": "WLFI",
    "name": "World Liberty Financial",
-   "sigma": 2.85,
-   "from_btc_pct": 5,
+   "sigma": 2.71,
+   "from_btc_pct": 7,
    "verdict": "Neutral",
    "file": "WLFI.png"
-  },
-  {
-   "symbol": "BABAB",
-   "name": "Alibaba (bStocks Tokenized Stock)",
-   "sigma": 2.7,
-   "from_btc_pct": 18,
-   "verdict": "Neutral",
-   "file": "BABAB.png"
   },
   {
    "symbol": "TRUMP",
@@ -57,6 +49,14 @@
    "from_btc_pct": 11,
    "verdict": "Neutral",
    "file": "INIT.png"
+  },
+  {
+   "symbol": "BABAB",
+   "name": "Alibaba (bStocks Tokenized Stock)",
+   "sigma": 2.61,
+   "from_btc_pct": 22,
+   "verdict": "Neutral",
+   "file": "BABAB.png"
   },
   {
    "symbol": "MRNAB",
