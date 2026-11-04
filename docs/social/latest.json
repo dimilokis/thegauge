@@ -1,6 +1,6 @@
 {
  "date": "2026-11-04",
- "generated_at": "2026-11-04T16:16:02.737209+00:00",
+ "generated_at": "2026-11-04T17:30:56.976990+00:00",
  "assets": [
   {
    "symbol": "SXT",
@@ -49,6 +49,14 @@
    "from_btc_pct": 18,
    "verdict": "Neutral",
    "file": "BABAB.png"
+  },
+  {
+   "symbol": "TRUMP",
+   "name": "Official Trump",
+   "sigma": 2.67,
+   "from_btc_pct": 9,
+   "verdict": "Oversold",
+   "file": "TRUMP.png"
   }
  ]
 }
