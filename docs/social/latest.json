@@ -1,6 +1,6 @@
 {
  "date": "2026-11-04",
- "generated_at": "2026-11-04T21:15:55.537361+00:00",
+ "generated_at": "2026-11-04T23:01:04.143232+00:00",
  "assets": [
   {
    "symbol": "HUMA",
@@ -51,14 +51,6 @@
    "file": "INIT.png"
   },
   {
-   "symbol": "BABAB",
-   "name": "Alibaba (bStocks Tokenized Stock)",
-   "sigma": 2.61,
-   "from_btc_pct": 22,
-   "verdict": "Neutral",
-   "file": "BABAB.png"
-  },
-  {
    "symbol": "MRNAB",
    "name": "Moderna (bStocks Tokenized Stock)",
    "sigma": 2.58,
@@ -73,6 +65,14 @@
    "from_btc_pct": 36,
    "verdict": "Neutral",
    "file": "SXT.png"
+  },
+  {
+   "symbol": "BABAB",
+   "name": "Alibaba (bStocks Tokenized Stock)",
+   "sigma": 2.52,
+   "from_btc_pct": 22,
+   "verdict": "Neutral",
+   "file": "BABAB.png"
   }
  ]
 }
