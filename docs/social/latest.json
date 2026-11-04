@@ -1,6 +1,6 @@
 {
  "date": "2026-11-04",
- "generated_at": "2026-11-04T03:01:00.520728+00:00",
+ "generated_at": "2026-11-04T07:15:49.299939+00:00",
  "assets": [
   {
    "symbol": "HOT",
@@ -9,6 +9,14 @@
    "from_btc_pct": 16,
    "verdict": "Overbought",
    "file": "HOT.png"
+  },
+  {
+   "symbol": "HUMA",
+   "name": "Huma Finance",
+   "sigma": 2.77,
+   "from_btc_pct": 11,
+   "verdict": "Oversold",
+   "file": "HUMA.png"
   }
  ]
 }
