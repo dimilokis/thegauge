@@ -1,6 +1,6 @@
 {
  "date": "2026-11-05",
- "generated_at": "2026-11-05T21:31:01.826744+00:00",
+ "generated_at": "2026-11-05T22:01:04.558792+00:00",
  "assets": [
   {
    "symbol": "THE",
@@ -91,12 +91,12 @@
    "file": "MRVLB.png"
   },
   {
-   "symbol": "HUMA",
-   "name": "Huma Finance",
-   "sigma": 2.68,
-   "from_btc_pct": 3,
-   "verdict": "Oversold",
-   "file": "HUMA.png"
+   "symbol": "HYPE",
+   "name": "Hyperliquid",
+   "sigma": 2.72,
+   "from_btc_pct": 10,
+   "verdict": "Neutral",
+   "file": "HYPE.png"
   }
  ]
 }
