@@ -1,6 +1,6 @@
 {
  "date": "2026-11-05",
- "generated_at": "2026-11-05T14:45:52.960805+00:00",
+ "generated_at": "2026-11-05T15:00:59.857511+00:00",
  "assets": [
   {
    "symbol": "THE",
@@ -25,6 +25,38 @@
    "from_btc_pct": 11,
    "verdict": "Oversold",
    "file": "FOGO.png"
+  },
+  {
+   "symbol": "SOXSB",
+   "name": "Direxion Semiconductor Bear 3X ETF (bStocks Tokenized ETF)",
+   "sigma": 3.33,
+   "from_btc_pct": 29,
+   "verdict": "Overbought",
+   "file": "SOXSB.png"
+  },
+  {
+   "symbol": "KORUB",
+   "name": "South Korea Bull 3X ETF (bStocks Tokenized ETF)",
+   "sigma": 3.09,
+   "from_btc_pct": 28,
+   "verdict": "Oversold",
+   "file": "KORUB.png"
+  },
+  {
+   "symbol": "BEB",
+   "name": "Bloom Energy (bStocks Tokenized Stock)",
+   "sigma": 2.95,
+   "from_btc_pct": 24,
+   "verdict": "Oversold",
+   "file": "BEB.png"
+  },
+  {
+   "symbol": "SNXXB",
+   "name": "Tradr 2X Long SNDK ETF (bStocks Tokenized ETF)",
+   "sigma": 2.93,
+   "from_btc_pct": 21,
+   "verdict": "Oversold",
+   "file": "SNXXB.png"
   },
   {
    "symbol": "BABAB",
