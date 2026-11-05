@@ -1,6 +1,6 @@
 {
  "date": "2026-11-05",
- "generated_at": "2026-11-05T14:15:53.928969+00:00",
+ "generated_at": "2026-11-05T14:45:52.960805+00:00",
  "assets": [
   {
    "symbol": "THE",
@@ -27,20 +27,20 @@
    "file": "FOGO.png"
   },
   {
-   "symbol": "WLFI",
-   "name": "World Liberty Financial",
-   "sigma": 2.64,
-   "from_btc_pct": 4,
-   "verdict": "Oversold",
-   "file": "WLFI.png"
-  },
-  {
    "symbol": "BABAB",
    "name": "Alibaba (bStocks Tokenized Stock)",
    "sigma": 2.58,
    "from_btc_pct": 15,
    "verdict": "Neutral",
    "file": "BABAB.png"
+  },
+  {
+   "symbol": "WLFI",
+   "name": "World Liberty Financial",
+   "sigma": 2.5,
+   "from_btc_pct": 8,
+   "verdict": "Oversold",
+   "file": "WLFI.png"
   }
  ]
 }
