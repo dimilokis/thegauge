@@ -1,6 +1,6 @@
 {
  "date": "2026-11-05",
- "generated_at": "2026-11-05T20:15:53.518996+00:00",
+ "generated_at": "2026-11-05T21:31:01.826744+00:00",
  "assets": [
   {
    "symbol": "THE",
@@ -75,6 +75,14 @@
    "file": "SNXXB.png"
   },
   {
+   "symbol": "CYBER",
+   "name": "CYBER",
+   "sigma": 2.83,
+   "from_btc_pct": 3,
+   "verdict": "Neutral",
+   "file": "CYBER.png"
+  },
+  {
    "symbol": "MRVLB",
    "name": "Marvell Technology (bStocks Tokenized Stock)",
    "sigma": 2.8,
@@ -89,14 +97,6 @@
    "from_btc_pct": 3,
    "verdict": "Oversold",
    "file": "HUMA.png"
-  },
-  {
-   "symbol": "HOT",
-   "name": "Holo",
-   "sigma": 2.54,
-   "from_btc_pct": 6,
-   "verdict": "Neutral",
-   "file": "HOT.png"
   }
  ]
 }
