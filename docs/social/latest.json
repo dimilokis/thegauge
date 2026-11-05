@@ -1,6 +1,6 @@
 {
  "date": "2026-11-05",
- "generated_at": "2026-11-05T15:00:59.857511+00:00",
+ "generated_at": "2026-11-05T15:16:02.669000+00:00",
  "assets": [
   {
    "symbol": "THE",
@@ -43,6 +43,14 @@
    "file": "KORUB.png"
   },
   {
+   "symbol": "SKHYB",
+   "name": "SK Hynix (bStocks Tokenized Stock)",
+   "sigma": 3.01,
+   "from_btc_pct": 16,
+   "verdict": "Oversold",
+   "file": "SKHYB.png"
+  },
+  {
    "symbol": "BEB",
    "name": "Bloom Energy (bStocks Tokenized Stock)",
    "sigma": 2.95,
@@ -59,12 +67,28 @@
    "file": "SNXXB.png"
   },
   {
+   "symbol": "HUMA",
+   "name": "Huma Finance",
+   "sigma": 2.68,
+   "from_btc_pct": 3,
+   "verdict": "Oversold",
+   "file": "HUMA.png"
+  },
+  {
    "symbol": "BABAB",
    "name": "Alibaba (bStocks Tokenized Stock)",
    "sigma": 2.58,
    "from_btc_pct": 15,
    "verdict": "Neutral",
    "file": "BABAB.png"
+  },
+  {
+   "symbol": "HOT",
+   "name": "Holo",
+   "sigma": 2.54,
+   "from_btc_pct": 5,
+   "verdict": "Neutral",
+   "file": "HOT.png"
   },
   {
    "symbol": "WLFI",
