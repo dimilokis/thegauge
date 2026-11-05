@@ -1,6 +1,6 @@
 {
  "date": "2026-11-05",
- "generated_at": "2026-11-05T11:45:53.918359+00:00",
+ "generated_at": "2026-11-05T13:15:53.278281+00:00",
  "assets": [
   {
    "symbol": "THE",
@@ -17,6 +17,14 @@
    "from_btc_pct": 40,
    "verdict": "Neutral",
    "file": "XTZ.png"
+  },
+  {
+   "symbol": "FOGO",
+   "name": "Fogo",
+   "sigma": 2.85,
+   "from_btc_pct": 14,
+   "verdict": "Oversold",
+   "file": "FOGO.png"
   },
   {
    "symbol": "WLFI",
