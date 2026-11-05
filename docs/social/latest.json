@@ -1,12 +1,12 @@
 {
  "date": "2026-11-05",
- "generated_at": "2026-11-05T08:01:01.671608+00:00",
+ "generated_at": "2026-11-05T08:30:58.193089+00:00",
  "assets": [
   {
    "symbol": "THE",
    "name": "Thena",
-   "sigma": 5.69,
-   "from_btc_pct": 37,
+   "sigma": 5.17,
+   "from_btc_pct": 40,
    "verdict": "Oversold",
    "file": "THE.png"
   },
