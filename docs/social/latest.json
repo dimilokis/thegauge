@@ -1,6 +1,6 @@
 {
  "date": "2026-11-05",
- "generated_at": "2026-11-05T18:30:51.630614+00:00",
+ "generated_at": "2026-11-05T18:45:54.715043+00:00",
  "assets": [
   {
    "symbol": "THE",
@@ -75,14 +75,6 @@
    "file": "MRVLB.png"
   },
   {
-   "symbol": "HOT",
-   "name": "Holo",
-   "sigma": 2.71,
-   "from_btc_pct": 6,
-   "verdict": "Neutral",
-   "file": "HOT.png"
-  },
-  {
    "symbol": "HUMA",
    "name": "Huma Finance",
    "sigma": 2.68,
@@ -97,6 +89,14 @@
    "from_btc_pct": 17,
    "verdict": "Oversold",
    "file": "SKHYB.png"
+  },
+  {
+   "symbol": "HOT",
+   "name": "Holo",
+   "sigma": 2.54,
+   "from_btc_pct": 6,
+   "verdict": "Neutral",
+   "file": "HOT.png"
   }
  ]
 }
