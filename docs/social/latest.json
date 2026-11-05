@@ -1,6 +1,6 @@
 {
  "date": "2026-11-05",
- "generated_at": "2026-11-05T15:46:04.085948+00:00",
+ "generated_at": "2026-11-05T16:45:56.715471+00:00",
  "assets": [
   {
    "symbol": "THE",
@@ -91,12 +91,12 @@
    "file": "HUMA.png"
   },
   {
-   "symbol": "BABAB",
-   "name": "Alibaba (bStocks Tokenized Stock)",
-   "sigma": 2.58,
-   "from_btc_pct": 15,
+   "symbol": "HOT",
+   "name": "Holo",
+   "sigma": 2.6,
+   "from_btc_pct": 6,
    "verdict": "Neutral",
-   "file": "BABAB.png"
+   "file": "HOT.png"
   }
  ]
 }
