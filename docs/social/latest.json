@@ -1,6 +1,6 @@
 {
  "date": "2026-11-05",
- "generated_at": "2026-11-05T15:16:02.669000+00:00",
+ "generated_at": "2026-11-05T15:46:04.085948+00:00",
  "assets": [
   {
    "symbol": "THE",
@@ -35,6 +35,14 @@
    "file": "SOXSB.png"
   },
   {
+   "symbol": "AT",
+   "name": "Apro",
+   "sigma": 3.29,
+   "from_btc_pct": 7,
+   "verdict": "Oversold",
+   "file": "AT.png"
+  },
+  {
    "symbol": "KORUB",
    "name": "South Korea Bull 3X ETF (bStocks Tokenized ETF)",
    "sigma": 3.09,
@@ -67,6 +75,14 @@
    "file": "SNXXB.png"
   },
   {
+   "symbol": "MRVLB",
+   "name": "Marvell Technology (bStocks Tokenized Stock)",
+   "sigma": 2.69,
+   "from_btc_pct": 29,
+   "verdict": "Oversold",
+   "file": "MRVLB.png"
+  },
+  {
    "symbol": "HUMA",
    "name": "Huma Finance",
    "sigma": 2.68,
@@ -81,22 +97,6 @@
    "from_btc_pct": 15,
    "verdict": "Neutral",
    "file": "BABAB.png"
-  },
-  {
-   "symbol": "HOT",
-   "name": "Holo",
-   "sigma": 2.54,
-   "from_btc_pct": 5,
-   "verdict": "Neutral",
-   "file": "HOT.png"
-  },
-  {
-   "symbol": "WLFI",
-   "name": "World Liberty Financial",
-   "sigma": 2.5,
-   "from_btc_pct": 8,
-   "verdict": "Oversold",
-   "file": "WLFI.png"
   }
  ]
 }
