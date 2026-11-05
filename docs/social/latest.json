@@ -1,6 +1,6 @@
 {
  "date": "2026-11-05",
- "generated_at": "2026-11-05T13:15:53.278281+00:00",
+ "generated_at": "2026-11-05T13:30:56.906560+00:00",
  "assets": [
   {
    "symbol": "THE",
@@ -37,8 +37,8 @@
   {
    "symbol": "BABAB",
    "name": "Alibaba (bStocks Tokenized Stock)",
-   "sigma": 2.52,
-   "from_btc_pct": 18,
+   "sigma": 2.58,
+   "from_btc_pct": 15,
    "verdict": "Neutral",
    "file": "BABAB.png"
   }
