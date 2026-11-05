@@ -1,6 +1,6 @@
 {
  "date": "2026-11-05",
- "generated_at": "2026-11-05T11:30:50.632819+00:00",
+ "generated_at": "2026-11-05T11:45:53.918359+00:00",
  "assets": [
   {
    "symbol": "THE",
@@ -17,6 +17,14 @@
    "from_btc_pct": 40,
    "verdict": "Neutral",
    "file": "XTZ.png"
+  },
+  {
+   "symbol": "WLFI",
+   "name": "World Liberty Financial",
+   "sigma": 2.64,
+   "from_btc_pct": 4,
+   "verdict": "Oversold",
+   "file": "WLFI.png"
   },
   {
    "symbol": "BABAB",
