@@ -1,7 +1,15 @@
 {
  "date": "2026-11-05",
- "generated_at": "2026-11-05T06:45:54.286599+00:00",
+ "generated_at": "2026-11-05T07:00:53.081843+00:00",
  "assets": [
+  {
+   "symbol": "THE",
+   "name": "Thena",
+   "sigma": 5.69,
+   "from_btc_pct": 37,
+   "verdict": "Oversold",
+   "file": "THE.png"
+  },
   {
    "symbol": "BABAB",
    "name": "Alibaba (bStocks Tokenized Stock)",
