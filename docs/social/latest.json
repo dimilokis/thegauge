@@ -1,6 +1,6 @@
 {
  "date": "2026-11-06",
- "generated_at": "2026-11-06T14:45:54.298086+00:00",
+ "generated_at": "2026-11-06T15:45:51.711973+00:00",
  "assets": [
   {
    "symbol": "CYBER",
@@ -45,7 +45,7 @@
   {
    "symbol": "TSMB",
    "name": "TSMC (bStocks Tokenized Stock)",
-   "sigma": 2.63,
+   "sigma": 2.66,
    "from_btc_pct": 33,
    "verdict": "Oversold",
    "file": "TSMB.png"
