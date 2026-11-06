@@ -1,6 +1,6 @@
 {
  "date": "2026-11-06",
- "generated_at": "2026-11-06T20:45:54.969938+00:00",
+ "generated_at": "2026-11-06T21:15:55.772959+00:00",
  "assets": [
   {
    "symbol": "AAOIB",
@@ -19,6 +19,14 @@
    "file": "ZIL.png"
   },
   {
+   "symbol": "XTZ",
+   "name": "Tezos",
+   "sigma": 2.9,
+   "from_btc_pct": 40,
+   "verdict": "Neutral",
+   "file": "XTZ.png"
+  },
+  {
    "symbol": "TSMB",
    "name": "TSMC (bStocks Tokenized Stock)",
    "sigma": 2.86,
@@ -33,14 +41,6 @@
    "from_btc_pct": 29,
    "verdict": "Oversold",
    "file": "BEB.png"
-  },
-  {
-   "symbol": "XTZ",
-   "name": "Tezos",
-   "sigma": 2.81,
-   "from_btc_pct": 40,
-   "verdict": "Neutral",
-   "file": "XTZ.png"
   },
   {
    "symbol": "SOXSB",
