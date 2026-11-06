@@ -1,6 +1,6 @@
 {
  "date": "2026-11-06",
- "generated_at": "2026-11-06T21:15:55.772959+00:00",
+ "generated_at": "2026-11-06T22:00:56.137783+00:00",
  "assets": [
   {
    "symbol": "AAOIB",
@@ -43,6 +43,14 @@
    "file": "BEB.png"
   },
   {
+   "symbol": "CYBER",
+   "name": "CYBER",
+   "sigma": 2.72,
+   "from_btc_pct": 1,
+   "verdict": "Overbought",
+   "file": "CYBER.png"
+  },
+  {
    "symbol": "SOXSB",
    "name": "Direxion Semiconductor Bear 3X ETF (bStocks Tokenized ETF)",
    "sigma": 2.67,
@@ -65,14 +73,6 @@
    "from_btc_pct": 3,
    "verdict": "Neutral",
    "file": "ONE.png"
-  },
-  {
-   "symbol": "CYBER",
-   "name": "CYBER",
-   "sigma": 2.63,
-   "from_btc_pct": 1,
-   "verdict": "Overbought",
-   "file": "CYBER.png"
   },
   {
    "symbol": "INTWB",
