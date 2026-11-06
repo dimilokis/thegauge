@@ -1,6 +1,6 @@
 {
  "date": "2026-11-06",
- "generated_at": "2026-11-06T17:01:14.757896+00:00",
+ "generated_at": "2026-11-06T18:30:56.350833+00:00",
  "assets": [
   {
    "symbol": "CYBER",
@@ -27,6 +27,14 @@
    "file": "ZIL.png"
   },
   {
+   "symbol": "TSMB",
+   "name": "TSMC (bStocks Tokenized Stock)",
+   "sigma": 2.86,
+   "from_btc_pct": 33,
+   "verdict": "Oversold",
+   "file": "TSMB.png"
+  },
+  {
    "symbol": "BEB",
    "name": "Bloom Energy (bStocks Tokenized Stock)",
    "sigma": 2.81,
@@ -49,14 +57,6 @@
    "from_btc_pct": 37,
    "verdict": "Overbought",
    "file": "SOXSB.png"
-  },
-  {
-   "symbol": "TSMB",
-   "name": "TSMC (bStocks Tokenized Stock)",
-   "sigma": 2.66,
-   "from_btc_pct": 33,
-   "verdict": "Oversold",
-   "file": "TSMB.png"
   },
   {
    "symbol": "ONE",
