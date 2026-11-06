@@ -1,7 +1,15 @@
 {
  "date": "2026-11-06",
- "generated_at": "2026-11-06T08:30:59.844343+00:00",
+ "generated_at": "2026-11-06T09:15:52.096029+00:00",
  "assets": [
+  {
+   "symbol": "AAOIB",
+   "name": "Applied Optoelectronics (bStocks Tokenized Stock)",
+   "sigma": 3.49,
+   "from_btc_pct": 38,
+   "verdict": "Oversold",
+   "file": "AAOIB.png"
+  },
   {
    "symbol": "TSMB",
    "name": "TSMC (bStocks Tokenized Stock)",
