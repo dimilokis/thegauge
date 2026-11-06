@@ -1,6 +1,6 @@
 {
  "date": "2026-11-06",
- "generated_at": "2026-11-06T20:15:56.374734+00:00",
+ "generated_at": "2026-11-06T20:45:54.969938+00:00",
  "assets": [
   {
    "symbol": "AAOIB",
@@ -35,6 +35,14 @@
    "file": "BEB.png"
   },
   {
+   "symbol": "XTZ",
+   "name": "Tezos",
+   "sigma": 2.81,
+   "from_btc_pct": 40,
+   "verdict": "Neutral",
+   "file": "XTZ.png"
+  },
+  {
    "symbol": "SOXSB",
    "name": "Direxion Semiconductor Bear 3X ETF (bStocks Tokenized ETF)",
    "sigma": 2.67,
@@ -65,14 +73,6 @@
    "from_btc_pct": 1,
    "verdict": "Overbought",
    "file": "CYBER.png"
-  },
-  {
-   "symbol": "XTZ",
-   "name": "Tezos",
-   "sigma": 2.61,
-   "from_btc_pct": 40,
-   "verdict": "Neutral",
-   "file": "XTZ.png"
   },
   {
    "symbol": "INTWB",
