@@ -1,6 +1,6 @@
 {
  "date": "2026-11-06",
- "generated_at": "2026-11-06T19:15:52.658161+00:00",
+ "generated_at": "2026-11-06T20:15:56.374734+00:00",
  "assets": [
   {
    "symbol": "AAOIB",
@@ -33,14 +33,6 @@
    "from_btc_pct": 29,
    "verdict": "Oversold",
    "file": "BEB.png"
-  },
-  {
-   "symbol": "MRNAB",
-   "name": "Moderna (bStocks Tokenized Stock)",
-   "sigma": 2.78,
-   "from_btc_pct": 34,
-   "verdict": "Overbought",
-   "file": "MRNAB.png"
   },
   {
    "symbol": "SOXSB",
@@ -89,6 +81,14 @@
    "from_btc_pct": 37,
    "verdict": "Oversold",
    "file": "INTWB.png"
+  },
+  {
+   "symbol": "MRNAB",
+   "name": "Moderna (bStocks Tokenized Stock)",
+   "sigma": 2.54,
+   "from_btc_pct": 34,
+   "verdict": "Overbought",
+   "file": "MRNAB.png"
   }
  ]
 }
