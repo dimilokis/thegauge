@@ -1,6 +1,6 @@
 {
  "date": "2026-11-05",
- "generated_at": "2026-11-05T23:15:52.663998+00:00",
+ "generated_at": "2026-11-06T02:30:53.401527+00:00",
  "assets": [
   {
    "symbol": "THE",
@@ -75,6 +75,14 @@
    "file": "SNXXB.png"
   },
   {
+   "symbol": "TSMB",
+   "name": "TSMC (bStocks Tokenized Stock)",
+   "sigma": 2.87,
+   "from_btc_pct": 36,
+   "verdict": "Oversold",
+   "file": "TSMB.png"
+  },
+  {
    "symbol": "CYBER",
    "name": "CYBER",
    "sigma": 2.83,
@@ -89,14 +97,6 @@
    "from_btc_pct": 39,
    "verdict": "Oversold",
    "file": "INTWB.png"
-  },
-  {
-   "symbol": "MRVLB",
-   "name": "Marvell Technology (bStocks Tokenized Stock)",
-   "sigma": 2.8,
-   "from_btc_pct": 29,
-   "verdict": "Oversold",
-   "file": "MRVLB.png"
   }
  ]
 }
