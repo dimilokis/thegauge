@@ -1,6 +1,6 @@
 {
  "date": "2026-11-06",
- "generated_at": "2026-11-06T11:45:52.781793+00:00",
+ "generated_at": "2026-11-06T12:30:56.702315+00:00",
  "assets": [
   {
    "symbol": "CYBER",
@@ -27,20 +27,20 @@
    "file": "BEB.png"
   },
   {
-   "symbol": "SOXSB",
-   "name": "Direxion Semiconductor Bear 3X ETF (bStocks Tokenized ETF)",
-   "sigma": 2.69,
-   "from_btc_pct": 39,
-   "verdict": "Overbought",
-   "file": "SOXSB.png"
-  },
-  {
    "symbol": "TSMB",
    "name": "TSMC (bStocks Tokenized Stock)",
    "sigma": 2.63,
    "from_btc_pct": 33,
    "verdict": "Oversold",
    "file": "TSMB.png"
+  },
+  {
+   "symbol": "SOXSB",
+   "name": "Direxion Semiconductor Bear 3X ETF (bStocks Tokenized ETF)",
+   "sigma": 2.56,
+   "from_btc_pct": 40,
+   "verdict": "Overbought",
+   "file": "SOXSB.png"
   }
  ]
 }
