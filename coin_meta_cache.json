@@ -1471,6 +1471,10 @@
   "icon": "https://coin-images.coingecko.com/coins/images/1094/large/photo_2026-04-13_09-59-16.png?1776048311",
   "name": "TRON"
  },
+ "TSMB": {
+  "icon": "https://coin-images.coingecko.com/coins/images/102174584/large/tsmb-bstocks.png",
+  "name": "TSMC (bStocks Tokenized Stock)"
+ },
  "TST": {
   "icon": "https://coin-images.coingecko.com/coins/images/54274/large/Test.png?1738997629",
   "name": "Test"
