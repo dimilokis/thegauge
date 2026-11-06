@@ -1,6 +1,6 @@
 {
  "date": "2026-11-06",
- "generated_at": "2026-11-06T16:31:00.457587+00:00",
+ "generated_at": "2026-11-06T17:01:14.757896+00:00",
  "assets": [
   {
    "symbol": "CYBER",
@@ -19,12 +19,28 @@
    "file": "AAOIB.png"
   },
   {
+   "symbol": "ZIL",
+   "name": "Zilliqa",
+   "sigma": 3.18,
+   "from_btc_pct": 18,
+   "verdict": "Oversold",
+   "file": "ZIL.png"
+  },
+  {
    "symbol": "BEB",
    "name": "Bloom Energy (bStocks Tokenized Stock)",
    "sigma": 2.81,
    "from_btc_pct": 29,
    "verdict": "Oversold",
    "file": "BEB.png"
+  },
+  {
+   "symbol": "MRNAB",
+   "name": "Moderna (bStocks Tokenized Stock)",
+   "sigma": 2.78,
+   "from_btc_pct": 34,
+   "verdict": "Overbought",
+   "file": "MRNAB.png"
   },
   {
    "symbol": "SOXSB",
