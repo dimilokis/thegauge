@@ -1,15 +1,7 @@
 {
  "date": "2026-11-06",
- "generated_at": "2026-11-06T19:01:03.562113+00:00",
+ "generated_at": "2026-11-06T19:15:52.658161+00:00",
  "assets": [
-  {
-   "symbol": "CYBER",
-   "name": "CYBER",
-   "sigma": 4.01,
-   "from_btc_pct": 1,
-   "verdict": "Overbought",
-   "file": "CYBER.png"
-  },
   {
    "symbol": "AAOIB",
    "name": "Applied Optoelectronics (bStocks Tokenized Stock)",
@@ -73,6 +65,30 @@
    "from_btc_pct": 3,
    "verdict": "Neutral",
    "file": "ONE.png"
+  },
+  {
+   "symbol": "CYBER",
+   "name": "CYBER",
+   "sigma": 2.63,
+   "from_btc_pct": 1,
+   "verdict": "Overbought",
+   "file": "CYBER.png"
+  },
+  {
+   "symbol": "XTZ",
+   "name": "Tezos",
+   "sigma": 2.61,
+   "from_btc_pct": 40,
+   "verdict": "Neutral",
+   "file": "XTZ.png"
+  },
+  {
+   "symbol": "INTWB",
+   "name": "GraniteShares 2X Long INTC ETF (bStocks Tokenized ETF)",
+   "sigma": 2.55,
+   "from_btc_pct": 37,
+   "verdict": "Oversold",
+   "file": "INTWB.png"
   }
  ]
 }
