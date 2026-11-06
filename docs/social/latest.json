@@ -1,6 +1,6 @@
 {
  "date": "2026-11-06",
- "generated_at": "2026-11-06T12:30:56.702315+00:00",
+ "generated_at": "2026-11-06T14:30:52.601167+00:00",
  "assets": [
   {
    "symbol": "CYBER",
@@ -17,6 +17,14 @@
    "from_btc_pct": 38,
    "verdict": "Oversold",
    "file": "AAOIB.png"
+  },
+  {
+   "symbol": "ONE",
+   "name": "Harmony",
+   "sigma": 2.91,
+   "from_btc_pct": 2,
+   "verdict": "Neutral",
+   "file": "ONE.png"
   },
   {
    "symbol": "BEB",
