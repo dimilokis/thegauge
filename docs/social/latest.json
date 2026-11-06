@@ -1,7 +1,15 @@
 {
  "date": "2026-11-06",
- "generated_at": "2026-11-06T09:15:52.096029+00:00",
+ "generated_at": "2026-11-06T11:30:59.176589+00:00",
  "assets": [
+  {
+   "symbol": "CYBER",
+   "name": "CYBER",
+   "sigma": 4.01,
+   "from_btc_pct": 1,
+   "verdict": "Overbought",
+   "file": "CYBER.png"
+  },
   {
    "symbol": "AAOIB",
    "name": "Applied Optoelectronics (bStocks Tokenized Stock)",
@@ -17,14 +25,6 @@
    "from_btc_pct": 33,
    "verdict": "Oversold",
    "file": "TSMB.png"
-  },
-  {
-   "symbol": "CYBER",
-   "name": "CYBER",
-   "sigma": 2.54,
-   "from_btc_pct": 1,
-   "verdict": "Overbought",
-   "file": "CYBER.png"
   }
  ]
 }
