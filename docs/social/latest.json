@@ -1,6 +1,6 @@
 {
  "date": "2026-11-07",
- "generated_at": "2026-11-07T17:15:53.617592+00:00",
+ "generated_at": "2026-11-07T18:00:57.851632+00:00",
  "assets": [
   {
    "symbol": "SIGN",
@@ -9,6 +9,14 @@
    "from_btc_pct": 21,
    "verdict": "Neutral",
    "file": "SIGN.png"
+  },
+  {
+   "symbol": "YB",
+   "name": "Yield Basis",
+   "sigma": 3.13,
+   "from_btc_pct": 31,
+   "verdict": "Oversold",
+   "file": "YB.png"
   },
   {
    "symbol": "MITO",
