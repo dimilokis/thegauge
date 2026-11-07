@@ -1,12 +1,12 @@
 {
  "date": "2026-11-07",
- "generated_at": "2026-11-07T07:00:57.127564+00:00",
+ "generated_at": "2026-11-07T08:15:53.130224+00:00",
  "assets": [
   {
    "symbol": "MITO",
    "name": "Mitosis",
-   "sigma": 3.29,
-   "from_btc_pct": 7,
+   "sigma": 2.5,
+   "from_btc_pct": 8,
    "verdict": "Oversold",
    "file": "MITO.png"
   }
