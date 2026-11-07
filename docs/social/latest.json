@@ -1,7 +1,15 @@
 {
  "date": "2026-11-07",
- "generated_at": "2026-11-07T12:45:55.502548+00:00",
+ "generated_at": "2026-11-07T17:15:53.617592+00:00",
  "assets": [
+  {
+   "symbol": "SIGN",
+   "name": "Sign",
+   "sigma": 5.35,
+   "from_btc_pct": 21,
+   "verdict": "Neutral",
+   "file": "SIGN.png"
+  },
   {
    "symbol": "MITO",
    "name": "Mitosis",
