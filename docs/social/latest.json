@@ -1,6 +1,6 @@
 {
  "date": "2026-11-07",
- "generated_at": "2026-11-07T20:15:48.651772+00:00",
+ "generated_at": "2026-11-07T21:45:48.775085+00:00",
  "assets": [
   {
    "symbol": "SIGN",
@@ -37,8 +37,8 @@
   {
    "symbol": "MET",
    "name": "Meteora",
-   "sigma": 2.54,
-   "from_btc_pct": 31,
+   "sigma": 2.71,
+   "from_btc_pct": 29,
    "verdict": "Neutral",
    "file": "MET.png"
   }
