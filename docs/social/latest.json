@@ -1,6 +1,6 @@
 {
  "date": "2026-11-07",
- "generated_at": "2026-11-07T18:00:57.851632+00:00",
+ "generated_at": "2026-11-07T19:01:03.392019+00:00",
  "assets": [
   {
    "symbol": "SIGN",
@@ -25,6 +25,14 @@
    "from_btc_pct": 7,
    "verdict": "Oversold",
    "file": "MITO.png"
+  },
+  {
+   "symbol": "MET",
+   "name": "Meteora",
+   "sigma": 2.71,
+   "from_btc_pct": 30,
+   "verdict": "Neutral",
+   "file": "MET.png"
   }
  ]
 }
