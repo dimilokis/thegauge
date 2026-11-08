@@ -1,6 +1,6 @@
 {
  "date": "2026-11-08",
- "generated_at": "2026-11-08T10:30:57.112103+00:00",
+ "generated_at": "2026-11-08T17:00:58.716125+00:00",
  "assets": [
   {
    "symbol": "HOT",
@@ -9,6 +9,14 @@
    "from_btc_pct": 4,
    "verdict": "Neutral",
    "file": "HOT.png"
+  },
+  {
+   "symbol": "GNS",
+   "name": "Gains Network",
+   "sigma": 3.16,
+   "from_btc_pct": 8,
+   "verdict": "Neutral",
+   "file": "GNS.png"
   },
   {
    "symbol": "SIGN",
