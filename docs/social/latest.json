@@ -1,6 +1,6 @@
 {
  "date": "2026-11-08",
- "generated_at": "2026-11-08T20:15:51.884958+00:00",
+ "generated_at": "2026-11-08T22:01:00.502165+00:00",
  "assets": [
   {
    "symbol": "HOT",
@@ -27,12 +27,28 @@
    "file": "RSR.png"
   },
   {
+   "symbol": "ATM",
+   "name": "Atletico Madrid Fan Token",
+   "sigma": 2.81,
+   "from_btc_pct": 39,
+   "verdict": "Oversold",
+   "file": "ATM.png"
+  },
+  {
    "symbol": "GNS",
    "name": "Gains Network",
    "sigma": 2.78,
    "from_btc_pct": 8,
    "verdict": "Neutral",
    "file": "GNS.png"
+  },
+  {
+   "symbol": "MITO",
+   "name": "Mitosis",
+   "sigma": 2.68,
+   "from_btc_pct": 7,
+   "verdict": "Oversold",
+   "file": "MITO.png"
   },
   {
    "symbol": "ACT",
