@@ -1,6 +1,6 @@
 {
  "date": "2026-11-08",
- "generated_at": "2026-11-08T18:30:57.628238+00:00",
+ "generated_at": "2026-11-08T20:15:51.884958+00:00",
  "assets": [
   {
    "symbol": "HOT",
@@ -17,6 +17,14 @@
    "from_btc_pct": 23,
    "verdict": "Neutral",
    "file": "SIGN.png"
+  },
+  {
+   "symbol": "RSR",
+   "name": "Reserve Rights",
+   "sigma": 2.91,
+   "from_btc_pct": 3,
+   "verdict": "Neutral",
+   "file": "RSR.png"
   },
   {
    "symbol": "GNS",
