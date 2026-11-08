@@ -1,6 +1,6 @@
 {
  "date": "2026-11-08",
- "generated_at": "2026-11-08T06:15:47.423839+00:00",
+ "generated_at": "2026-11-08T06:45:54.978266+00:00",
  "assets": [
   {
    "symbol": "SIGN",
@@ -13,8 +13,8 @@
   {
    "symbol": "HMSTR",
    "name": "Hamster Kombat",
-   "sigma": 2.85,
-   "from_btc_pct": 37,
+   "sigma": 2.58,
+   "from_btc_pct": 38,
    "verdict": "Neutral",
    "file": "HMSTR.png"
   }
