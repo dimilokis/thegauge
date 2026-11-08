@@ -1,54 +1,14 @@
 {
- "date": "2026-11-07",
- "generated_at": "2026-11-08T02:00:56.649757+00:00",
+ "date": "2026-11-08",
+ "generated_at": "2026-11-08T03:01:01.927527+00:00",
  "assets": [
-  {
-   "symbol": "HMSTR",
-   "name": "Hamster Kombat",
-   "sigma": 3.4,
-   "from_btc_pct": 36,
-   "verdict": "Neutral",
-   "file": "HMSTR.png"
-  },
-  {
-   "symbol": "YB",
-   "name": "Yield Basis",
-   "sigma": 3.13,
-   "from_btc_pct": 31,
-   "verdict": "Oversold",
-   "file": "YB.png"
-  },
   {
    "symbol": "SIGN",
    "name": "Sign",
-   "sigma": 2.99,
-   "from_btc_pct": 22,
+   "sigma": 3.13,
+   "from_btc_pct": 23,
    "verdict": "Neutral",
    "file": "SIGN.png"
-  },
-  {
-   "symbol": "MITO",
-   "name": "Mitosis",
-   "sigma": 2.92,
-   "from_btc_pct": 7,
-   "verdict": "Oversold",
-   "file": "MITO.png"
-  },
-  {
-   "symbol": "MET",
-   "name": "Meteora",
-   "sigma": 2.71,
-   "from_btc_pct": 29,
-   "verdict": "Neutral",
-   "file": "MET.png"
-  },
-  {
-   "symbol": "ACT",
-   "name": "Act I The AI Prophecy",
-   "sigma": 2.71,
-   "from_btc_pct": 5,
-   "verdict": "Overbought",
-   "file": "ACT.png"
   }
  ]
 }
