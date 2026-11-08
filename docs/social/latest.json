@@ -1,7 +1,15 @@
 {
  "date": "2026-11-08",
- "generated_at": "2026-11-08T10:15:49.292549+00:00",
+ "generated_at": "2026-11-08T10:30:57.112103+00:00",
  "assets": [
+  {
+   "symbol": "HOT",
+   "name": "Holo",
+   "sigma": 6.17,
+   "from_btc_pct": 4,
+   "verdict": "Neutral",
+   "file": "HOT.png"
+  },
   {
    "symbol": "SIGN",
    "name": "Sign",
@@ -9,6 +17,14 @@
    "from_btc_pct": 23,
    "verdict": "Neutral",
    "file": "SIGN.png"
+  },
+  {
+   "symbol": "ACT",
+   "name": "Act I The AI Prophecy",
+   "sigma": 2.57,
+   "from_btc_pct": 3,
+   "verdict": "Neutral",
+   "file": "ACT.png"
   },
   {
    "symbol": "HMSTR",
