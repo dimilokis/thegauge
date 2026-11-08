@@ -1,6 +1,6 @@
 {
  "date": "2026-11-07",
- "generated_at": "2026-11-08T01:15:52.576934+00:00",
+ "generated_at": "2026-11-08T02:00:56.649757+00:00",
  "assets": [
   {
    "symbol": "HMSTR",
@@ -21,8 +21,8 @@
   {
    "symbol": "SIGN",
    "name": "Sign",
-   "sigma": 3.13,
-   "from_btc_pct": 23,
+   "sigma": 2.99,
+   "from_btc_pct": 22,
    "verdict": "Neutral",
    "file": "SIGN.png"
   },
