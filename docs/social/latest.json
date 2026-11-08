@@ -1,12 +1,12 @@
 {
  "date": "2026-11-08",
- "generated_at": "2026-11-08T22:01:00.502165+00:00",
+ "generated_at": "2026-11-08T23:01:03.889513+00:00",
  "assets": [
   {
    "symbol": "HOT",
    "name": "Holo",
-   "sigma": 6.17,
-   "from_btc_pct": 4,
+   "sigma": 3.17,
+   "from_btc_pct": 3,
    "verdict": "Neutral",
    "file": "HOT.png"
   },
