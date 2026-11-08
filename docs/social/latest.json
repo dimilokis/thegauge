@@ -1,6 +1,6 @@
 {
  "date": "2026-11-08",
- "generated_at": "2026-11-08T17:00:58.716125+00:00",
+ "generated_at": "2026-11-08T18:30:57.628238+00:00",
  "assets": [
   {
    "symbol": "HOT",
@@ -11,20 +11,20 @@
    "file": "HOT.png"
   },
   {
-   "symbol": "GNS",
-   "name": "Gains Network",
-   "sigma": 3.16,
-   "from_btc_pct": 8,
-   "verdict": "Neutral",
-   "file": "GNS.png"
-  },
-  {
    "symbol": "SIGN",
    "name": "Sign",
    "sigma": 3.13,
    "from_btc_pct": 23,
    "verdict": "Neutral",
    "file": "SIGN.png"
+  },
+  {
+   "symbol": "GNS",
+   "name": "Gains Network",
+   "sigma": 2.78,
+   "from_btc_pct": 8,
+   "verdict": "Neutral",
+   "file": "GNS.png"
   },
   {
    "symbol": "ACT",
