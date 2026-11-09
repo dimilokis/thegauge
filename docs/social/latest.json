@@ -1,12 +1,12 @@
 {
  "date": "2026-11-09",
- "generated_at": "2026-11-09T11:30:52.044010+00:00",
+ "generated_at": "2026-11-09T12:45:55.161397+00:00",
  "assets": [
   {
    "symbol": "ZIL",
    "name": "Zilliqa",
-   "sigma": 3.99,
-   "from_btc_pct": 12,
+   "sigma": 2.75,
+   "from_btc_pct": 15,
    "verdict": "Oversold",
    "file": "ZIL.png"
   },
