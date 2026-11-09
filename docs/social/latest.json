@@ -1,70 +1,14 @@
 {
- "date": "2026-11-08",
- "generated_at": "2026-11-08T23:01:03.889513+00:00",
+ "date": "2026-11-09",
+ "generated_at": "2026-11-09T06:15:50.720583+00:00",
  "assets": [
   {
-   "symbol": "HOT",
-   "name": "Holo",
-   "sigma": 3.17,
-   "from_btc_pct": 3,
-   "verdict": "Neutral",
-   "file": "HOT.png"
-  },
-  {
-   "symbol": "SIGN",
-   "name": "Sign",
-   "sigma": 3.13,
-   "from_btc_pct": 23,
-   "verdict": "Neutral",
-   "file": "SIGN.png"
-  },
-  {
-   "symbol": "RSR",
-   "name": "Reserve Rights",
-   "sigma": 2.91,
-   "from_btc_pct": 3,
-   "verdict": "Neutral",
-   "file": "RSR.png"
-  },
-  {
-   "symbol": "ATM",
-   "name": "Atletico Madrid Fan Token",
-   "sigma": 2.81,
-   "from_btc_pct": 39,
+   "symbol": "NXPC",
+   "name": "Nexpace",
+   "sigma": 3.83,
+   "from_btc_pct": 18,
    "verdict": "Oversold",
-   "file": "ATM.png"
-  },
-  {
-   "symbol": "GNS",
-   "name": "Gains Network",
-   "sigma": 2.78,
-   "from_btc_pct": 8,
-   "verdict": "Neutral",
-   "file": "GNS.png"
-  },
-  {
-   "symbol": "MITO",
-   "name": "Mitosis",
-   "sigma": 2.68,
-   "from_btc_pct": 7,
-   "verdict": "Oversold",
-   "file": "MITO.png"
-  },
-  {
-   "symbol": "ACT",
-   "name": "Act I The AI Prophecy",
-   "sigma": 2.57,
-   "from_btc_pct": 3,
-   "verdict": "Neutral",
-   "file": "ACT.png"
-  },
-  {
-   "symbol": "HMSTR",
-   "name": "Hamster Kombat",
-   "sigma": 2.54,
-   "from_btc_pct": 39,
-   "verdict": "Neutral",
-   "file": "HMSTR.png"
+   "file": "NXPC.png"
   }
  ]
 }
