@@ -1,6 +1,6 @@
 {
  "date": "2026-11-09",
- "generated_at": "2026-11-09T21:03:12.065976+00:00",
+ "generated_at": "2026-11-09T21:30:52.418972+00:00",
  "assets": [
   {
    "symbol": "TST",
@@ -9,14 +9,6 @@
    "from_btc_pct": 34,
    "verdict": "Neutral",
    "file": "TST.png"
-  },
-  {
-   "symbol": "NXPC",
-   "name": "Nexpace",
-   "sigma": 3.52,
-   "from_btc_pct": 23,
-   "verdict": "Oversold",
-   "file": "NXPC.png"
   },
   {
    "symbol": "SOXSB",
@@ -41,6 +33,14 @@
    "from_btc_pct": 24,
    "verdict": "Oversold",
    "file": "SIGN.png"
+  },
+  {
+   "symbol": "NXPC",
+   "name": "Nexpace",
+   "sigma": 2.73,
+   "from_btc_pct": 23,
+   "verdict": "Oversold",
+   "file": "NXPC.png"
   },
   {
    "symbol": "HOT",
