@@ -1,6 +1,6 @@
 {
  "date": "2026-11-09",
- "generated_at": "2026-11-09T16:15:55.004969+00:00",
+ "generated_at": "2026-11-09T16:45:45.911771+00:00",
  "assets": [
   {
    "symbol": "SIGN",
@@ -41,6 +41,14 @@
    "from_btc_pct": 15,
    "verdict": "Oversold",
    "file": "ZIL.png"
+  },
+  {
+   "symbol": "INIT",
+   "name": "Initia",
+   "sigma": 2.64,
+   "from_btc_pct": 12,
+   "verdict": "Neutral",
+   "file": "INIT.png"
   },
   {
    "symbol": "HOT",
