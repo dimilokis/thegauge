@@ -1,15 +1,7 @@
 {
  "date": "2026-11-09",
- "generated_at": "2026-11-09T20:15:53.135465+00:00",
+ "generated_at": "2026-11-09T21:00:58.415659+00:00",
  "assets": [
-  {
-   "symbol": "SIGN",
-   "name": "Sign",
-   "sigma": 4.9,
-   "from_btc_pct": 21,
-   "verdict": "Neutral",
-   "file": "SIGN.png"
-  },
   {
    "symbol": "TST",
    "name": "Test",
@@ -41,6 +33,14 @@
    "from_btc_pct": 15,
    "verdict": "Oversold",
    "file": "ZIL.png"
+  },
+  {
+   "symbol": "SIGN",
+   "name": "Sign",
+   "sigma": 2.73,
+   "from_btc_pct": 24,
+   "verdict": "Oversold",
+   "file": "SIGN.png"
   },
   {
    "symbol": "MUUB",
