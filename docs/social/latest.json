@@ -1,7 +1,15 @@
 {
  "date": "2026-11-09",
- "generated_at": "2026-11-09T21:30:52.418972+00:00",
+ "generated_at": "2026-11-09T21:45:50.403290+00:00",
  "assets": [
+  {
+   "symbol": "AVGOB",
+   "name": "Broadcom (bStocks Tokenized Stock)",
+   "sigma": 5.11,
+   "from_btc_pct": 30,
+   "verdict": "Neutral",
+   "file": "AVGOB.png"
+  },
   {
    "symbol": "TST",
    "name": "Test",
