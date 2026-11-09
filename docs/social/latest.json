@@ -1,7 +1,15 @@
 {
  "date": "2026-11-09",
- "generated_at": "2026-11-09T12:45:55.161397+00:00",
+ "generated_at": "2026-11-09T13:00:58.591643+00:00",
  "assets": [
+  {
+   "symbol": "TST",
+   "name": "Test",
+   "sigma": 4.91,
+   "from_btc_pct": 29,
+   "verdict": "Neutral",
+   "file": "TST.png"
+  },
   {
    "symbol": "ZIL",
    "name": "Zilliqa",
