@@ -1,6 +1,6 @@
 {
  "date": "2026-11-09",
- "generated_at": "2026-11-09T18:01:06.709779+00:00",
+ "generated_at": "2026-11-09T20:15:53.135465+00:00",
  "assets": [
   {
    "symbol": "SIGN",
@@ -41,6 +41,14 @@
    "from_btc_pct": 15,
    "verdict": "Oversold",
    "file": "ZIL.png"
+  },
+  {
+   "symbol": "MUUB",
+   "name": "Direxion MU Bull 2X ETF (bStocks Tokenized ETF)",
+   "sigma": 2.54,
+   "from_btc_pct": 30,
+   "verdict": "Oversold",
+   "file": "MUUB.png"
   },
   {
    "symbol": "HOT",
