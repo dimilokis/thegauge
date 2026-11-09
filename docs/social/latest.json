@@ -1,6 +1,6 @@
 {
  "date": "2026-11-09",
- "generated_at": "2026-11-09T16:45:45.911771+00:00",
+ "generated_at": "2026-11-09T18:01:06.709779+00:00",
  "assets": [
   {
    "symbol": "SIGN",
@@ -43,20 +43,20 @@
    "file": "ZIL.png"
   },
   {
-   "symbol": "INIT",
-   "name": "Initia",
-   "sigma": 2.64,
-   "from_btc_pct": 12,
-   "verdict": "Neutral",
-   "file": "INIT.png"
-  },
-  {
    "symbol": "HOT",
    "name": "Holo",
    "sigma": 2.53,
    "from_btc_pct": 2,
    "verdict": "Neutral",
    "file": "HOT.png"
+  },
+  {
+   "symbol": "INIT",
+   "name": "Initia",
+   "sigma": 2.53,
+   "from_btc_pct": 12,
+   "verdict": "Neutral",
+   "file": "INIT.png"
   }
  ]
 }
