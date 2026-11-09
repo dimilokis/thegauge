@@ -1,6 +1,6 @@
 {
  "date": "2026-11-09",
- "generated_at": "2026-11-09T13:00:58.591643+00:00",
+ "generated_at": "2026-11-09T15:31:03.624236+00:00",
  "assets": [
   {
    "symbol": "TST",
@@ -11,20 +11,36 @@
    "file": "TST.png"
   },
   {
+   "symbol": "SIGN",
+   "name": "Sign",
+   "sigma": 4.9,
+   "from_btc_pct": 21,
+   "verdict": "Neutral",
+   "file": "SIGN.png"
+  },
+  {
+   "symbol": "NXPC",
+   "name": "Nexpace",
+   "sigma": 3.52,
+   "from_btc_pct": 23,
+   "verdict": "Oversold",
+   "file": "NXPC.png"
+  },
+  {
+   "symbol": "SOXSB",
+   "name": "Direxion Semiconductor Bear 3X ETF (bStocks Tokenized ETF)",
+   "sigma": 2.85,
+   "from_btc_pct": 36,
+   "verdict": "Neutral",
+   "file": "SOXSB.png"
+  },
+  {
    "symbol": "ZIL",
    "name": "Zilliqa",
    "sigma": 2.75,
    "from_btc_pct": 15,
    "verdict": "Oversold",
    "file": "ZIL.png"
-  },
-  {
-   "symbol": "NXPC",
-   "name": "Nexpace",
-   "sigma": 2.57,
-   "from_btc_pct": 21,
-   "verdict": "Oversold",
-   "file": "NXPC.png"
   },
   {
    "symbol": "HOT",
