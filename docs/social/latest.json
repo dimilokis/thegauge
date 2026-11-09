@@ -1,6 +1,6 @@
 {
  "date": "2026-11-09",
- "generated_at": "2026-11-09T07:01:01.016007+00:00",
+ "generated_at": "2026-11-09T07:15:51.930240+00:00",
  "assets": [
   {
    "symbol": "NXPC",
@@ -9,6 +9,14 @@
    "from_btc_pct": 20,
    "verdict": "Oversold",
    "file": "NXPC.png"
+  },
+  {
+   "symbol": "HOT",
+   "name": "Holo",
+   "sigma": 2.53,
+   "from_btc_pct": 2,
+   "verdict": "Neutral",
+   "file": "HOT.png"
   }
  ]
 }
