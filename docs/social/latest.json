@@ -1,6 +1,6 @@
 {
  "date": "2026-11-09",
- "generated_at": "2026-11-09T22:01:00.705286+00:00",
+ "generated_at": "2026-11-09T22:15:55.727559+00:00",
  "assets": [
   {
    "symbol": "AVGOB",
@@ -75,20 +75,20 @@
    "file": "HOT.png"
   },
   {
-   "symbol": "MUUB",
-   "name": "Direxion MU Bull 2X ETF (bStocks Tokenized ETF)",
-   "sigma": 2.54,
-   "from_btc_pct": 30,
-   "verdict": "Oversold",
-   "file": "MUUB.png"
-  },
-  {
    "symbol": "INIT",
    "name": "Initia",
    "sigma": 2.53,
    "from_btc_pct": 12,
    "verdict": "Neutral",
    "file": "INIT.png"
+  },
+  {
+   "symbol": "MUUB",
+   "name": "Direxion MU Bull 2X ETF (bStocks Tokenized ETF)",
+   "sigma": 2.5,
+   "from_btc_pct": 31,
+   "verdict": "Oversold",
+   "file": "MUUB.png"
   }
  ]
 }
