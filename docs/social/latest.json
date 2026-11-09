@@ -1,6 +1,6 @@
 {
  "date": "2026-11-09",
- "generated_at": "2026-11-09T21:00:58.415659+00:00",
+ "generated_at": "2026-11-09T21:03:12.065976+00:00",
  "assets": [
   {
    "symbol": "TST",
@@ -43,20 +43,20 @@
    "file": "SIGN.png"
   },
   {
+   "symbol": "HOT",
+   "name": "Holo",
+   "sigma": 2.64,
+   "from_btc_pct": 3,
+   "verdict": "Overbought",
+   "file": "HOT.png"
+  },
+  {
    "symbol": "MUUB",
    "name": "Direxion MU Bull 2X ETF (bStocks Tokenized ETF)",
    "sigma": 2.54,
    "from_btc_pct": 30,
    "verdict": "Oversold",
    "file": "MUUB.png"
-  },
-  {
-   "symbol": "HOT",
-   "name": "Holo",
-   "sigma": 2.53,
-   "from_btc_pct": 2,
-   "verdict": "Neutral",
-   "file": "HOT.png"
   },
   {
    "symbol": "INIT",
