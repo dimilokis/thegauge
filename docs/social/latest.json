@@ -1,11 +1,11 @@
 {
  "date": "2026-11-10",
- "generated_at": "2026-11-10T05:30:58.072225+00:00",
+ "generated_at": "2026-11-10T08:00:51.839373+00:00",
  "assets": [
   {
    "symbol": "ACT",
    "name": "Act I The AI Prophecy",
-   "sigma": 2.74,
+   "sigma": 2.71,
    "from_btc_pct": 3,
    "verdict": "Neutral",
    "file": "ACT.png"
