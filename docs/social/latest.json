@@ -1,6 +1,6 @@
 {
  "date": "2026-11-10",
- "generated_at": "2026-11-10T14:01:04.257519+00:00",
+ "generated_at": "2026-11-10T14:45:55.508906+00:00",
  "assets": [
   {
    "symbol": "CYBER",
@@ -9,6 +9,14 @@
    "from_btc_pct": 3,
    "verdict": "Neutral",
    "file": "CYBER.png"
+  },
+  {
+   "symbol": "ERA",
+   "name": "Caldera",
+   "sigma": 2.72,
+   "from_btc_pct": 8,
+   "verdict": "Overbought",
+   "file": "ERA.png"
   },
   {
    "symbol": "ACT",
