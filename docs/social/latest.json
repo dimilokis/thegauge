@@ -1,6 +1,6 @@
 {
  "date": "2026-11-10",
- "generated_at": "2026-11-10T11:44:26.029251+00:00",
+ "generated_at": "2026-11-10T14:01:04.257519+00:00",
  "assets": [
   {
    "symbol": "CYBER",
@@ -17,6 +17,14 @@
    "from_btc_pct": 3,
    "verdict": "Neutral",
    "file": "ACT.png"
+  },
+  {
+   "symbol": "INIT",
+   "name": "Initia",
+   "sigma": 2.61,
+   "from_btc_pct": 7,
+   "verdict": "Overbought",
+   "file": "INIT.png"
   }
  ]
 }
