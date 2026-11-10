@@ -1,6 +1,6 @@
 {
  "date": "2026-11-10",
- "generated_at": "2026-11-10T16:01:01.214492+00:00",
+ "generated_at": "2026-11-10T16:15:49.127009+00:00",
  "assets": [
   {
    "symbol": "CYBER",
@@ -19,20 +19,20 @@
    "file": "ERA.png"
   },
   {
-   "symbol": "ACT",
-   "name": "Act I The AI Prophecy",
-   "sigma": 2.71,
-   "from_btc_pct": 3,
-   "verdict": "Neutral",
-   "file": "ACT.png"
-  },
-  {
    "symbol": "INIT",
    "name": "Initia",
    "sigma": 2.61,
    "from_btc_pct": 7,
    "verdict": "Overbought",
    "file": "INIT.png"
+  },
+  {
+   "symbol": "ACT",
+   "name": "Act I The AI Prophecy",
+   "sigma": 2.57,
+   "from_btc_pct": 1,
+   "verdict": "Neutral",
+   "file": "ACT.png"
   }
  ]
 }
