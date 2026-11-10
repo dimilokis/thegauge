@@ -1,7 +1,15 @@
 {
  "date": "2026-11-10",
- "generated_at": "2026-11-10T08:00:51.839373+00:00",
+ "generated_at": "2026-11-10T11:44:26.029251+00:00",
  "assets": [
+  {
+   "symbol": "CYBER",
+   "name": "CYBER",
+   "sigma": 3.34,
+   "from_btc_pct": 3,
+   "verdict": "Neutral",
+   "file": "CYBER.png"
+  },
   {
    "symbol": "ACT",
    "name": "Act I The AI Prophecy",
