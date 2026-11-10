@@ -1,6 +1,6 @@
 {
  "date": "2026-11-10",
- "generated_at": "2026-11-10T18:01:03.890446+00:00",
+ "generated_at": "2026-11-10T20:45:55.114589+00:00",
  "assets": [
   {
    "symbol": "CYBER",
@@ -9,6 +9,14 @@
    "from_btc_pct": 3,
    "verdict": "Neutral",
    "file": "CYBER.png"
+  },
+  {
+   "symbol": "GRAM",
+   "name": "Gram (prev. Toncoin)",
+   "sigma": 2.79,
+   "from_btc_pct": 20,
+   "verdict": "Neutral",
+   "file": "GRAM.png"
   },
   {
    "symbol": "ERA",
@@ -41,14 +49,6 @@
    "from_btc_pct": 1,
    "verdict": "Neutral",
    "file": "ACT.png"
-  },
-  {
-   "symbol": "GRAM",
-   "name": "Gram (prev. Toncoin)",
-   "sigma": 2.5,
-   "from_btc_pct": 18,
-   "verdict": "Neutral",
-   "file": "GRAM.png"
   }
  ]
 }
