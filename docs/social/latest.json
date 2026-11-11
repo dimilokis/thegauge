@@ -1,12 +1,12 @@
 {
  "date": "2026-11-11",
- "generated_at": "2026-11-11T14:00:58.114956+00:00",
+ "generated_at": "2026-11-11T14:31:13.768233+00:00",
  "assets": [
   {
    "symbol": "OPG",
    "name": "OpenGradient",
-   "sigma": 2.74,
-   "from_btc_pct": 9,
+   "sigma": 3.53,
+   "from_btc_pct": 8,
    "verdict": "Overbought",
    "file": "OPG.png"
   },
