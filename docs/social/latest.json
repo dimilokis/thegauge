@@ -1,6 +1,6 @@
 {
  "date": "2026-11-11",
- "generated_at": "2026-11-11T18:45:57.984995+00:00",
+ "generated_at": "2026-11-11T20:02:53.935528+00:00",
  "assets": [
   {
    "symbol": "OPG",
@@ -51,14 +51,6 @@
    "file": "ERA.png"
   },
   {
-   "symbol": "BEB",
-   "name": "Bloom Energy (bStocks Tokenized Stock)",
-   "sigma": 2.55,
-   "from_btc_pct": 24,
-   "verdict": "Neutral",
-   "file": "BEB.png"
-  },
-  {
    "symbol": "SKHYB",
    "name": "SK Hynix (bStocks Tokenized Stock)",
    "sigma": 2.55,
@@ -73,6 +65,14 @@
    "from_btc_pct": 33,
    "verdict": "Overbought",
    "file": "NIGHT.png"
+  },
+  {
+   "symbol": "BEB",
+   "name": "Bloom Energy (bStocks Tokenized Stock)",
+   "sigma": 2.53,
+   "from_btc_pct": 28,
+   "verdict": "Neutral",
+   "file": "BEB.png"
   },
   {
    "symbol": "AVGOB",
