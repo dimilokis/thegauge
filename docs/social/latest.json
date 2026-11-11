@@ -1,6 +1,6 @@
 {
  "date": "2026-11-11",
- "generated_at": "2026-11-11T14:31:13.768233+00:00",
+ "generated_at": "2026-11-11T15:31:02.193084+00:00",
  "assets": [
   {
    "symbol": "OPG",
@@ -9,6 +9,14 @@
    "from_btc_pct": 8,
    "verdict": "Overbought",
    "file": "OPG.png"
+  },
+  {
+   "symbol": "CRWVB",
+   "name": "CoreWeave (bStocks Tokenized Stock)",
+   "sigma": 3.03,
+   "from_btc_pct": 13,
+   "verdict": "Neutral",
+   "file": "CRWVB.png"
   },
   {
    "symbol": "INIT",
@@ -27,12 +35,28 @@
    "file": "ERA.png"
   },
   {
+   "symbol": "BEB",
+   "name": "Bloom Energy (bStocks Tokenized Stock)",
+   "sigma": 2.55,
+   "from_btc_pct": 24,
+   "verdict": "Neutral",
+   "file": "BEB.png"
+  },
+  {
    "symbol": "GRAM",
    "name": "Gram (prev. Toncoin)",
    "sigma": 2.51,
    "from_btc_pct": 14,
    "verdict": "Neutral",
    "file": "GRAM.png"
+  },
+  {
+   "symbol": "SNXXB",
+   "name": "Tradr 2X Long SNDK ETF (bStocks Tokenized ETF)",
+   "sigma": 2.5,
+   "from_btc_pct": 29,
+   "verdict": "Neutral",
+   "file": "SNXXB.png"
   }
  ]
 }
