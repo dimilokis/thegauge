@@ -1,6 +1,6 @@
 {
  "date": "2026-11-11",
- "generated_at": "2026-11-11T15:31:02.193084+00:00",
+ "generated_at": "2026-11-11T16:31:02.899218+00:00",
  "assets": [
   {
    "symbol": "OPG",
@@ -25,6 +25,14 @@
    "from_btc_pct": 3,
    "verdict": "Neutral",
    "file": "INIT.png"
+  },
+  {
+   "symbol": "SKHYB",
+   "name": "SK Hynix (bStocks Tokenized Stock)",
+   "sigma": 2.68,
+   "from_btc_pct": 20,
+   "verdict": "Neutral",
+   "file": "SKHYB.png"
   },
   {
    "symbol": "ERA",
