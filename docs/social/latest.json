@@ -1,6 +1,6 @@
 {
  "date": "2026-11-11",
- "generated_at": "2026-11-11T16:31:02.899218+00:00",
+ "generated_at": "2026-11-11T17:00:59.382501+00:00",
  "assets": [
   {
    "symbol": "OPG",
@@ -49,6 +49,14 @@
    "from_btc_pct": 24,
    "verdict": "Neutral",
    "file": "BEB.png"
+  },
+  {
+   "symbol": "SOXSB",
+   "name": "Direxion Semiconductor Bear 3X ETF (bStocks Tokenized ETF)",
+   "sigma": 2.53,
+   "from_btc_pct": 31,
+   "verdict": "Neutral",
+   "file": "SOXSB.png"
   },
   {
    "symbol": "GRAM",
