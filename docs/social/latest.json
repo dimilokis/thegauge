@@ -1,6 +1,6 @@
 {
  "date": "2026-11-11",
- "generated_at": "2026-11-11T18:30:56.951980+00:00",
+ "generated_at": "2026-11-11T18:45:57.984995+00:00",
  "assets": [
   {
    "symbol": "OPG",
@@ -86,7 +86,7 @@
    "symbol": "GRAM",
    "name": "Gram (prev. Toncoin)",
    "sigma": 2.51,
-   "from_btc_pct": 14,
+   "from_btc_pct": 16,
    "verdict": "Neutral",
    "file": "GRAM.png"
   },
