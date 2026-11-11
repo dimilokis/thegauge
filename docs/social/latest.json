@@ -1,6 +1,6 @@
 {
  "date": "2026-11-11",
- "generated_at": "2026-11-11T23:15:54.869124+00:00",
+ "generated_at": "2026-11-11T23:31:06.423218+00:00",
  "assets": [
   {
    "symbol": "OPG",
@@ -27,20 +27,20 @@
    "file": "CRWVB.png"
   },
   {
+   "symbol": "AVGOB",
+   "name": "Broadcom (bStocks Tokenized Stock)",
+   "sigma": 2.74,
+   "from_btc_pct": 23,
+   "verdict": "Neutral",
+   "file": "AVGOB.png"
+  },
+  {
    "symbol": "INIT",
    "name": "Initia",
    "sigma": 2.73,
    "from_btc_pct": 3,
    "verdict": "Neutral",
    "file": "INIT.png"
-  },
-  {
-   "symbol": "AVGOB",
-   "name": "Broadcom (bStocks Tokenized Stock)",
-   "sigma": 2.72,
-   "from_btc_pct": 25,
-   "verdict": "Neutral",
-   "file": "AVGOB.png"
   },
   {
    "symbol": "PEPE",
