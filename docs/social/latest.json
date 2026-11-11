@@ -1,14 +1,22 @@
 {
  "date": "2026-11-11",
- "generated_at": "2026-11-11T17:31:03.196950+00:00",
+ "generated_at": "2026-11-11T17:45:53.365625+00:00",
  "assets": [
   {
    "symbol": "OPG",
    "name": "OpenGradient",
-   "sigma": 3.53,
-   "from_btc_pct": 8,
+   "sigma": 3.3,
+   "from_btc_pct": 12,
    "verdict": "Overbought",
    "file": "OPG.png"
+  },
+  {
+   "symbol": "SXT",
+   "name": "Space and Time",
+   "sigma": 3.3,
+   "from_btc_pct": 15,
+   "verdict": "Overbought",
+   "file": "SXT.png"
   },
   {
    "symbol": "CRWVB",
