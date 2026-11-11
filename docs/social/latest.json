@@ -1,6 +1,6 @@
 {
  "date": "2026-11-11",
- "generated_at": "2026-11-11T05:16:05.072812+00:00",
+ "generated_at": "2026-11-11T07:30:53.593743+00:00",
  "assets": [
   {
    "symbol": "INIT",
@@ -9,6 +9,14 @@
    "from_btc_pct": 4,
    "verdict": "Overbought",
    "file": "INIT.png"
+  },
+  {
+   "symbol": "ERA",
+   "name": "Caldera",
+   "sigma": 2.57,
+   "from_btc_pct": 5,
+   "verdict": "Overbought",
+   "file": "ERA.png"
   }
  ]
 }
