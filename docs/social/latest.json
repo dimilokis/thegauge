@@ -1,6 +1,6 @@
 {
  "date": "2026-11-11",
- "generated_at": "2026-11-11T22:30:53.514475+00:00",
+ "generated_at": "2026-11-11T23:15:54.869124+00:00",
  "assets": [
   {
    "symbol": "OPG",
@@ -41,6 +41,14 @@
    "from_btc_pct": 25,
    "verdict": "Neutral",
    "file": "AVGOB.png"
+  },
+  {
+   "symbol": "PEPE",
+   "name": "Pepe",
+   "sigma": 2.71,
+   "from_btc_pct": 20,
+   "verdict": "Neutral",
+   "file": "PEPE.png"
   },
   {
    "symbol": "SOXSB",
@@ -89,14 +97,6 @@
    "from_btc_pct": 16,
    "verdict": "Neutral",
    "file": "GRAM.png"
-  },
-  {
-   "symbol": "BEB",
-   "name": "Bloom Energy (bStocks Tokenized Stock)",
-   "sigma": 2.5,
-   "from_btc_pct": 27,
-   "verdict": "Neutral",
-   "file": "BEB.png"
   }
  ]
 }
