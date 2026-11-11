@@ -1,6 +1,6 @@
 {
  "date": "2026-11-11",
- "generated_at": "2026-11-11T21:50:54.913716+00:00",
+ "generated_at": "2026-11-11T22:30:53.514475+00:00",
  "assets": [
   {
    "symbol": "OPG",
@@ -33,6 +33,14 @@
    "from_btc_pct": 3,
    "verdict": "Neutral",
    "file": "INIT.png"
+  },
+  {
+   "symbol": "AVGOB",
+   "name": "Broadcom (bStocks Tokenized Stock)",
+   "sigma": 2.72,
+   "from_btc_pct": 25,
+   "verdict": "Neutral",
+   "file": "AVGOB.png"
   },
   {
    "symbol": "SOXSB",
@@ -73,14 +81,6 @@
    "from_btc_pct": 33,
    "verdict": "Overbought",
    "file": "NIGHT.png"
-  },
-  {
-   "symbol": "AVGOB",
-   "name": "Broadcom (bStocks Tokenized Stock)",
-   "sigma": 2.52,
-   "from_btc_pct": 26,
-   "verdict": "Neutral",
-   "file": "AVGOB.png"
   },
   {
    "symbol": "GRAM",
