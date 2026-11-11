@@ -1,6 +1,6 @@
 {
  "date": "2026-11-11",
- "generated_at": "2026-11-11T17:00:59.382501+00:00",
+ "generated_at": "2026-11-11T17:31:03.196950+00:00",
  "assets": [
   {
    "symbol": "OPG",
@@ -35,6 +35,14 @@
    "file": "SKHYB.png"
   },
   {
+   "symbol": "SOXSB",
+   "name": "Direxion Semiconductor Bear 3X ETF (bStocks Tokenized ETF)",
+   "sigma": 2.61,
+   "from_btc_pct": 32,
+   "verdict": "Neutral",
+   "file": "SOXSB.png"
+  },
+  {
    "symbol": "ERA",
    "name": "Caldera",
    "sigma": 2.57,
@@ -51,12 +59,20 @@
    "file": "BEB.png"
   },
   {
-   "symbol": "SOXSB",
-   "name": "Direxion Semiconductor Bear 3X ETF (bStocks Tokenized ETF)",
+   "symbol": "NIGHT",
+   "name": "Midnight",
    "sigma": 2.53,
-   "from_btc_pct": 31,
+   "from_btc_pct": 33,
+   "verdict": "Overbought",
+   "file": "NIGHT.png"
+  },
+  {
+   "symbol": "AVGOB",
+   "name": "Broadcom (bStocks Tokenized Stock)",
+   "sigma": 2.52,
+   "from_btc_pct": 26,
    "verdict": "Neutral",
-   "file": "SOXSB.png"
+   "file": "AVGOB.png"
   },
   {
    "symbol": "GRAM",
