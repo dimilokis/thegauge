@@ -1,7 +1,15 @@
 {
  "date": "2026-11-12",
- "generated_at": "2026-11-12T10:00:53.246844+00:00",
+ "generated_at": "2026-11-12T13:30:56.030523+00:00",
  "assets": [
+  {
+   "symbol": "GRAM",
+   "name": "Gram (prev. Toncoin)",
+   "sigma": 2.89,
+   "from_btc_pct": 7,
+   "verdict": "Neutral",
+   "file": "GRAM.png"
+  },
   {
    "symbol": "ERA",
    "name": "Caldera",
