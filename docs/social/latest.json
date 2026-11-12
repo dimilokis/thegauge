@@ -1,102 +1,14 @@
 {
- "date": "2026-11-11",
- "generated_at": "2026-11-11T23:31:06.423218+00:00",
+ "date": "2026-11-12",
+ "generated_at": "2026-11-12T10:00:53.246844+00:00",
  "assets": [
-  {
-   "symbol": "OPG",
-   "name": "OpenGradient",
-   "sigma": 3.3,
-   "from_btc_pct": 12,
-   "verdict": "Overbought",
-   "file": "OPG.png"
-  },
-  {
-   "symbol": "SXT",
-   "name": "Space and Time",
-   "sigma": 3.3,
-   "from_btc_pct": 15,
-   "verdict": "Overbought",
-   "file": "SXT.png"
-  },
-  {
-   "symbol": "CRWVB",
-   "name": "CoreWeave (bStocks Tokenized Stock)",
-   "sigma": 3.03,
-   "from_btc_pct": 13,
-   "verdict": "Neutral",
-   "file": "CRWVB.png"
-  },
-  {
-   "symbol": "AVGOB",
-   "name": "Broadcom (bStocks Tokenized Stock)",
-   "sigma": 2.74,
-   "from_btc_pct": 23,
-   "verdict": "Neutral",
-   "file": "AVGOB.png"
-  },
-  {
-   "symbol": "INIT",
-   "name": "Initia",
-   "sigma": 2.73,
-   "from_btc_pct": 3,
-   "verdict": "Neutral",
-   "file": "INIT.png"
-  },
-  {
-   "symbol": "PEPE",
-   "name": "Pepe",
-   "sigma": 2.71,
-   "from_btc_pct": 20,
-   "verdict": "Neutral",
-   "file": "PEPE.png"
-  },
-  {
-   "symbol": "SOXSB",
-   "name": "Direxion Semiconductor Bear 3X ETF (bStocks Tokenized ETF)",
-   "sigma": 2.61,
-   "from_btc_pct": 32,
-   "verdict": "Neutral",
-   "file": "SOXSB.png"
-  },
   {
    "symbol": "ERA",
    "name": "Caldera",
-   "sigma": 2.57,
+   "sigma": 2.88,
    "from_btc_pct": 5,
    "verdict": "Overbought",
    "file": "ERA.png"
-  },
-  {
-   "symbol": "SNXXB",
-   "name": "Tradr 2X Long SNDK ETF (bStocks Tokenized ETF)",
-   "sigma": 2.57,
-   "from_btc_pct": 34,
-   "verdict": "Neutral",
-   "file": "SNXXB.png"
-  },
-  {
-   "symbol": "SKHYB",
-   "name": "SK Hynix (bStocks Tokenized Stock)",
-   "sigma": 2.55,
-   "from_btc_pct": 21,
-   "verdict": "Neutral",
-   "file": "SKHYB.png"
-  },
-  {
-   "symbol": "NIGHT",
-   "name": "Midnight",
-   "sigma": 2.53,
-   "from_btc_pct": 33,
-   "verdict": "Overbought",
-   "file": "NIGHT.png"
-  },
-  {
-   "symbol": "GRAM",
-   "name": "Gram (prev. Toncoin)",
-   "sigma": 2.51,
-   "from_btc_pct": 16,
-   "verdict": "Neutral",
-   "file": "GRAM.png"
   }
  ]
 }
