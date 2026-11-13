@@ -1,6 +1,6 @@
 {
  "date": "2026-11-13",
- "generated_at": "2026-11-13T20:30:55.849564+00:00",
+ "generated_at": "2026-11-13T22:30:51.067589+00:00",
  "assets": [
   {
    "symbol": "SHELL",
@@ -9,14 +9,6 @@
    "from_btc_pct": 3,
    "verdict": "Neutral",
    "file": "SHELL.png"
-  },
-  {
-   "symbol": "STO",
-   "name": "StakeStone",
-   "sigma": 5.2,
-   "from_btc_pct": 13,
-   "verdict": "Oversold",
-   "file": "STO.png"
   },
   {
    "symbol": "BARD",
@@ -33,6 +25,14 @@
    "from_btc_pct": 10,
    "verdict": "Oversold",
    "file": "GUN.png"
+  },
+  {
+   "symbol": "STO",
+   "name": "StakeStone",
+   "sigma": 2.7,
+   "from_btc_pct": 17,
+   "verdict": "Oversold",
+   "file": "STO.png"
   },
   {
    "symbol": "AVGOB",
