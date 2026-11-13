@@ -1,6 +1,6 @@
 {
  "date": "2026-11-13",
- "generated_at": "2026-11-13T19:45:56.585592+00:00",
+ "generated_at": "2026-11-13T20:30:55.849564+00:00",
  "assets": [
   {
    "symbol": "SHELL",
@@ -13,8 +13,8 @@
   {
    "symbol": "STO",
    "name": "StakeStone",
-   "sigma": 5.37,
-   "from_btc_pct": 12,
+   "sigma": 5.2,
+   "from_btc_pct": 13,
    "verdict": "Oversold",
    "file": "STO.png"
   },
