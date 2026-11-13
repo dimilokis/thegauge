@@ -1,6 +1,6 @@
 {
  "date": "2026-11-13",
- "generated_at": "2026-11-13T18:30:53.860612+00:00",
+ "generated_at": "2026-11-13T19:45:56.585592+00:00",
  "assets": [
   {
    "symbol": "SHELL",
@@ -25,6 +25,14 @@
    "from_btc_pct": 4,
    "verdict": "Overbought",
    "file": "BARD.png"
+  },
+  {
+   "symbol": "GUN",
+   "name": "Gunz",
+   "sigma": 3.49,
+   "from_btc_pct": 10,
+   "verdict": "Oversold",
+   "file": "GUN.png"
   },
   {
    "symbol": "AVGOB",
