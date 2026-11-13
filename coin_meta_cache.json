@@ -1067,6 +1067,10 @@
   "icon": "https://coin-images.coingecko.com/coins/images/17547/large/Orca_Logo.png?1696517083",
   "name": "Orca"
  },
+ "ORCLB": {
+  "icon": "https://coin-images.coingecko.com/coins/images/102174766/large/oracle.png",
+  "name": "Oracle (bStocks Tokenized Stock)"
+ },
  "ORDI": {
   "icon": "https://coin-images.coingecko.com/coins/images/30162/large/ordi.png?1696529082",
   "name": "ORDI"
