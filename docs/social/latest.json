@@ -1,6 +1,6 @@
 {
  "date": "2026-11-13",
- "generated_at": "2026-11-13T15:31:09.824569+00:00",
+ "generated_at": "2026-11-13T15:45:51.619120+00:00",
  "assets": [
   {
    "symbol": "BARD",
@@ -25,6 +25,14 @@
    "from_btc_pct": 3,
    "verdict": "Oversold",
    "file": "SOPH.png"
+  },
+  {
+   "symbol": "SOXSB",
+   "name": "Direxion Semiconductor Bear 3X ETF (bStocks Tokenized ETF)",
+   "sigma": 2.55,
+   "from_btc_pct": 29,
+   "verdict": "Neutral",
+   "file": "SOXSB.png"
   }
  ]
 }
