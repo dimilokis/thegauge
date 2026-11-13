@@ -1,6 +1,6 @@
 {
  "date": "2026-11-13",
- "generated_at": "2026-11-13T11:00:57.311210+00:00",
+ "generated_at": "2026-11-13T15:31:09.824569+00:00",
  "assets": [
   {
    "symbol": "BARD",
@@ -9,6 +9,14 @@
    "from_btc_pct": 4,
    "verdict": "Overbought",
    "file": "BARD.png"
+  },
+  {
+   "symbol": "AVGOB",
+   "name": "Broadcom (bStocks Tokenized Stock)",
+   "sigma": 2.63,
+   "from_btc_pct": 22,
+   "verdict": "Neutral",
+   "file": "AVGOB.png"
   },
   {
    "symbol": "SOPH",
