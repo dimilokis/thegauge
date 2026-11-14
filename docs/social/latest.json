@@ -1,6 +1,6 @@
 {
  "date": "2026-11-14",
- "generated_at": "2026-11-14T19:45:48.891917+00:00",
+ "generated_at": "2026-11-14T20:15:57.754835+00:00",
  "assets": [
   {
    "symbol": "KAVA",
@@ -17,6 +17,14 @@
    "from_btc_pct": 27,
    "verdict": "Oversold",
    "file": "GUN.png"
+  },
+  {
+   "symbol": "EIGEN",
+   "name": "EigenCloud (prev. EigenLayer)",
+   "sigma": 2.96,
+   "from_btc_pct": 37,
+   "verdict": "Oversold",
+   "file": "EIGEN.png"
   },
   {
    "symbol": "MITO",
@@ -89,14 +97,6 @@
    "from_btc_pct": 7,
    "verdict": "Oversold",
    "file": "HYPE.png"
-  },
-  {
-   "symbol": "DODO",
-   "name": "DODO",
-   "sigma": 2.53,
-   "from_btc_pct": 10,
-   "verdict": "Overbought",
-   "file": "DODO.png"
   }
  ]
 }
