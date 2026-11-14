@@ -1,6 +1,6 @@
 {
  "date": "2026-11-14",
- "generated_at": "2026-11-14T17:45:53.791359+00:00",
+ "generated_at": "2026-11-14T18:01:02.419974+00:00",
  "assets": [
   {
    "symbol": "KAVA",
@@ -27,20 +27,20 @@
    "file": "GUN.png"
   },
   {
+   "symbol": "SOPH",
+   "name": "Sophon",
+   "sigma": 2.96,
+   "from_btc_pct": 8,
+   "verdict": "Neutral",
+   "file": "SOPH.png"
+  },
+  {
    "symbol": "MITO",
    "name": "Mitosis",
    "sigma": 2.8,
    "from_btc_pct": 2,
    "verdict": "Oversold",
    "file": "MITO.png"
-  },
-  {
-   "symbol": "HYPE",
-   "name": "Hyperliquid",
-   "sigma": 2.65,
-   "from_btc_pct": 9,
-   "verdict": "Oversold",
-   "file": "HYPE.png"
   },
   {
    "symbol": "AI",
@@ -59,20 +59,20 @@
    "file": "BERA.png"
   },
   {
-   "symbol": "SOPH",
-   "name": "Sophon",
-   "sigma": 2.58,
-   "from_btc_pct": 10,
-   "verdict": "Neutral",
-   "file": "SOPH.png"
-  },
-  {
    "symbol": "PYTH",
    "name": "Pyth Network",
    "sigma": 2.56,
    "from_btc_pct": 28,
    "verdict": "Neutral",
    "file": "PYTH.png"
+  },
+  {
+   "symbol": "HYPE",
+   "name": "Hyperliquid",
+   "sigma": 2.56,
+   "from_btc_pct": 7,
+   "verdict": "Oversold",
+   "file": "HYPE.png"
   },
   {
    "symbol": "DODO",
