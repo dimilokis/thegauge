@@ -1,7 +1,15 @@
 {
  "date": "2026-11-14",
- "generated_at": "2026-11-14T14:45:51.662698+00:00",
+ "generated_at": "2026-11-14T15:30:58.420712+00:00",
  "assets": [
+  {
+   "symbol": "AI",
+   "name": "Gensyn",
+   "sigma": 5.72,
+   "from_btc_pct": 0,
+   "verdict": "Neutral",
+   "file": "AI.png"
+  },
   {
    "symbol": "KAVA",
    "name": "Kava",
@@ -11,20 +19,20 @@
    "file": "KAVA.png"
   },
   {
-   "symbol": "AI",
-   "name": "Gensyn",
-   "sigma": 3.25,
-   "from_btc_pct": 3,
-   "verdict": "Neutral",
-   "file": "AI.png"
-  },
-  {
    "symbol": "SOPH",
    "name": "Sophon",
    "sigma": 3.14,
    "from_btc_pct": 6,
    "verdict": "Neutral",
    "file": "SOPH.png"
+  },
+  {
+   "symbol": "GUN",
+   "name": "Gunz",
+   "sigma": 2.94,
+   "from_btc_pct": 27,
+   "verdict": "Oversold",
+   "file": "GUN.png"
   },
   {
    "symbol": "MITO",
@@ -37,8 +45,8 @@
   {
    "symbol": "BERA",
    "name": "Berachain",
-   "sigma": 2.73,
-   "from_btc_pct": 1,
+   "sigma": 2.63,
+   "from_btc_pct": 8,
    "verdict": "Oversold",
    "file": "BERA.png"
   },
@@ -49,6 +57,14 @@
    "from_btc_pct": 9,
    "verdict": "Overbought",
    "file": "DODO.png"
+  },
+  {
+   "symbol": "STO",
+   "name": "StakeStone",
+   "sigma": 2.61,
+   "from_btc_pct": 29,
+   "verdict": "Oversold",
+   "file": "STO.png"
   },
   {
    "symbol": "BANANAS31",
