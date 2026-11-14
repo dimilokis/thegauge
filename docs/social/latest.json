@@ -1,7 +1,15 @@
 {
  "date": "2026-11-14",
- "generated_at": "2026-11-14T23:01:01.611394+00:00",
+ "generated_at": "2026-11-14T23:22:26.513575+00:00",
  "assets": [
+  {
+   "symbol": "ASTER",
+   "name": "Aster",
+   "sigma": 11.45,
+   "from_btc_pct": 39,
+   "verdict": "Oversold",
+   "file": "ASTER.png"
+  },
   {
    "symbol": "KAVA",
    "name": "Kava",
@@ -73,14 +81,6 @@
    "from_btc_pct": 2,
    "verdict": "Oversold",
    "file": "MITO.png"
-  },
-  {
-   "symbol": "ASTER",
-   "name": "Aster",
-   "sigma": 2.8,
-   "from_btc_pct": 32,
-   "verdict": "Neutral",
-   "file": "ASTER.png"
   },
   {
    "symbol": "STO",
