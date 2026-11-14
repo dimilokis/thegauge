@@ -1,6 +1,6 @@
 {
  "date": "2026-11-14",
- "generated_at": "2026-11-14T13:00:56.996257+00:00",
+ "generated_at": "2026-11-14T14:30:30.006323+00:00",
  "assets": [
   {
    "symbol": "KAVA",
@@ -9,6 +9,14 @@
    "from_btc_pct": 2,
    "verdict": "Neutral",
    "file": "KAVA.png"
+  },
+  {
+   "symbol": "AI",
+   "name": "Gensyn",
+   "sigma": 3.25,
+   "from_btc_pct": 3,
+   "verdict": "Neutral",
+   "file": "AI.png"
   },
   {
    "symbol": "DODO",
