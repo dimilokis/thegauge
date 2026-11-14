@@ -1,6 +1,6 @@
 {
  "date": "2026-11-14",
- "generated_at": "2026-11-14T17:31:02.574499+00:00",
+ "generated_at": "2026-11-14T17:45:53.791359+00:00",
  "assets": [
   {
    "symbol": "KAVA",
@@ -9,14 +9,6 @@
    "from_btc_pct": 2,
    "verdict": "Neutral",
    "file": "KAVA.png"
-  },
-  {
-   "symbol": "AI",
-   "name": "Gensyn",
-   "sigma": 3.56,
-   "from_btc_pct": 1,
-   "verdict": "Neutral",
-   "file": "AI.png"
   },
   {
    "symbol": "STO",
@@ -51,6 +43,14 @@
    "file": "HYPE.png"
   },
   {
+   "symbol": "AI",
+   "name": "Gensyn",
+   "sigma": 2.64,
+   "from_btc_pct": 2,
+   "verdict": "Neutral",
+   "file": "AI.png"
+  },
+  {
    "symbol": "BERA",
    "name": "Berachain",
    "sigma": 2.63,
@@ -83,20 +83,20 @@
    "file": "DODO.png"
   },
   {
+   "symbol": "SHELL",
+   "name": "MyShell",
+   "sigma": 2.52,
+   "from_btc_pct": 1,
+   "verdict": "Neutral",
+   "file": "SHELL.png"
+  },
+  {
    "symbol": "BANANAS31",
    "name": "Banana For Scale",
    "sigma": 2.5,
    "from_btc_pct": 40,
    "verdict": "Oversold",
    "file": "BANANAS31.png"
-  },
-  {
-   "symbol": "SHELL",
-   "name": "MyShell",
-   "sigma": 2.5,
-   "from_btc_pct": 1,
-   "verdict": "Neutral",
-   "file": "SHELL.png"
   }
  ]
 }
