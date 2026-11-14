@@ -1,6 +1,6 @@
 {
  "date": "2026-11-14",
- "generated_at": "2026-11-14T15:30:58.420712+00:00",
+ "generated_at": "2026-11-14T16:15:57.113851+00:00",
  "assets": [
   {
    "symbol": "AI",
@@ -19,6 +19,14 @@
    "file": "KAVA.png"
   },
   {
+   "symbol": "STO",
+   "name": "StakeStone",
+   "sigma": 3.44,
+   "from_btc_pct": 30,
+   "verdict": "Oversold",
+   "file": "STO.png"
+  },
+  {
    "symbol": "SOPH",
    "name": "Sophon",
    "sigma": 3.14,
@@ -29,7 +37,7 @@
   {
    "symbol": "GUN",
    "name": "Gunz",
-   "sigma": 2.94,
+   "sigma": 3.08,
    "from_btc_pct": 27,
    "verdict": "Oversold",
    "file": "GUN.png"
@@ -59,12 +67,12 @@
    "file": "DODO.png"
   },
   {
-   "symbol": "STO",
-   "name": "StakeStone",
-   "sigma": 2.61,
-   "from_btc_pct": 29,
-   "verdict": "Oversold",
-   "file": "STO.png"
+   "symbol": "PYTH",
+   "name": "Pyth Network",
+   "sigma": 2.56,
+   "from_btc_pct": 28,
+   "verdict": "Neutral",
+   "file": "PYTH.png"
   },
   {
    "symbol": "BANANAS31",
