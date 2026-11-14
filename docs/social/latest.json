@@ -1,6 +1,6 @@
 {
  "date": "2026-11-13",
- "generated_at": "2026-11-14T01:15:54.128843+00:00",
+ "generated_at": "2026-11-14T02:45:57.279026+00:00",
  "assets": [
   {
    "symbol": "SHELL",
@@ -29,8 +29,8 @@
   {
    "symbol": "BERA",
    "name": "Berachain",
-   "sigma": 2.94,
-   "from_btc_pct": 4,
+   "sigma": 2.81,
+   "from_btc_pct": 2,
    "verdict": "Oversold",
    "file": "BERA.png"
   },
