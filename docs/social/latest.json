@@ -1,15 +1,7 @@
 {
  "date": "2026-11-14",
- "generated_at": "2026-11-14T08:00:59.184760+00:00",
+ "generated_at": "2026-11-14T09:15:57.797738+00:00",
  "assets": [
-  {
-   "symbol": "DODO",
-   "name": "DODO",
-   "sigma": 4.01,
-   "from_btc_pct": 7,
-   "verdict": "Overbought",
-   "file": "DODO.png"
-  },
   {
    "symbol": "BANANAS31",
    "name": "Banana For Scale",
@@ -33,6 +25,14 @@
    "from_btc_pct": 1,
    "verdict": "Oversold",
    "file": "BERA.png"
+  },
+  {
+   "symbol": "DODO",
+   "name": "DODO",
+   "sigma": 2.57,
+   "from_btc_pct": 7,
+   "verdict": "Overbought",
+   "file": "DODO.png"
   }
  ]
 }
