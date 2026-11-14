@@ -1,6 +1,6 @@
 {
  "date": "2026-11-14",
- "generated_at": "2026-11-14T12:30:57.332670+00:00",
+ "generated_at": "2026-11-14T13:00:56.996257+00:00",
  "assets": [
   {
    "symbol": "KAVA",
@@ -9,14 +9,6 @@
    "from_btc_pct": 2,
    "verdict": "Neutral",
    "file": "KAVA.png"
-  },
-  {
-   "symbol": "BANANAS31",
-   "name": "Banana For Scale",
-   "sigma": 3.48,
-   "from_btc_pct": 37,
-   "verdict": "Oversold",
-   "file": "BANANAS31.png"
   },
   {
    "symbol": "DODO",
@@ -49,6 +41,14 @@
    "from_btc_pct": 1,
    "verdict": "Oversold",
    "file": "BERA.png"
+  },
+  {
+   "symbol": "BANANAS31",
+   "name": "Banana For Scale",
+   "sigma": 2.5,
+   "from_btc_pct": 40,
+   "verdict": "Oversold",
+   "file": "BANANAS31.png"
   }
  ]
 }
