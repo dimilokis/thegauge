@@ -1,7 +1,15 @@
 {
  "date": "2026-11-14",
- "generated_at": "2026-11-14T10:00:56.101780+00:00",
+ "generated_at": "2026-11-14T10:15:52.938849+00:00",
  "assets": [
+  {
+   "symbol": "KAVA",
+   "name": "Kava",
+   "sigma": 4.99,
+   "from_btc_pct": 2,
+   "verdict": "Neutral",
+   "file": "KAVA.png"
+  },
   {
    "symbol": "BANANAS31",
    "name": "Banana For Scale",
