@@ -1,15 +1,7 @@
 {
  "date": "2026-11-14",
- "generated_at": "2026-11-14T16:30:51.867394+00:00",
+ "generated_at": "2026-11-14T17:01:06.240078+00:00",
  "assets": [
-  {
-   "symbol": "AI",
-   "name": "Gensyn",
-   "sigma": 5.72,
-   "from_btc_pct": 0,
-   "verdict": "Neutral",
-   "file": "AI.png"
-  },
   {
    "symbol": "KAVA",
    "name": "Kava",
@@ -17,6 +9,14 @@
    "from_btc_pct": 2,
    "verdict": "Neutral",
    "file": "KAVA.png"
+  },
+  {
+   "symbol": "AI",
+   "name": "Gensyn",
+   "sigma": 3.56,
+   "from_btc_pct": 1,
+   "verdict": "Neutral",
+   "file": "AI.png"
   },
   {
    "symbol": "STO",
