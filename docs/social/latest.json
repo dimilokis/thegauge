@@ -1,6 +1,6 @@
 {
  "date": "2026-11-14",
- "generated_at": "2026-11-14T19:15:48.132577+00:00",
+ "generated_at": "2026-11-14T19:45:48.891917+00:00",
  "assets": [
   {
    "symbol": "KAVA",
@@ -19,20 +19,20 @@
    "file": "GUN.png"
   },
   {
-   "symbol": "SOPH",
-   "name": "Sophon",
-   "sigma": 2.96,
-   "from_btc_pct": 8,
-   "verdict": "Neutral",
-   "file": "SOPH.png"
-  },
-  {
    "symbol": "MITO",
    "name": "Mitosis",
    "sigma": 2.8,
    "from_btc_pct": 2,
    "verdict": "Oversold",
    "file": "MITO.png"
+  },
+  {
+   "symbol": "ASTER",
+   "name": "Aster",
+   "sigma": 2.8,
+   "from_btc_pct": 32,
+   "verdict": "Neutral",
+   "file": "ASTER.png"
   },
   {
    "symbol": "STO",
@@ -75,6 +75,14 @@
    "file": "PYTH.png"
   },
   {
+   "symbol": "SOPH",
+   "name": "Sophon",
+   "sigma": 2.58,
+   "from_btc_pct": 8,
+   "verdict": "Neutral",
+   "file": "SOPH.png"
+  },
+  {
    "symbol": "HYPE",
    "name": "Hyperliquid",
    "sigma": 2.56,
@@ -89,14 +97,6 @@
    "from_btc_pct": 10,
    "verdict": "Overbought",
    "file": "DODO.png"
-  },
-  {
-   "symbol": "SHELL",
-   "name": "MyShell",
-   "sigma": 2.51,
-   "from_btc_pct": 1,
-   "verdict": "Neutral",
-   "file": "SHELL.png"
   }
  ]
 }
