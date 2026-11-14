@@ -1,6 +1,6 @@
 {
  "date": "2026-11-14",
- "generated_at": "2026-11-14T20:30:55.981220+00:00",
+ "generated_at": "2026-11-14T21:00:54.798132+00:00",
  "assets": [
   {
    "symbol": "KAVA",
@@ -19,12 +19,36 @@
    "file": "GUN.png"
   },
   {
+   "symbol": "DOT",
+   "name": "Polkadot",
+   "sigma": 3.07,
+   "from_btc_pct": 32,
+   "verdict": "Oversold",
+   "file": "DOT.png"
+  },
+  {
    "symbol": "EIGEN",
    "name": "EigenCloud (prev. EigenLayer)",
    "sigma": 2.96,
    "from_btc_pct": 37,
    "verdict": "Oversold",
    "file": "EIGEN.png"
+  },
+  {
+   "symbol": "PLUME",
+   "name": "Plume",
+   "sigma": 2.95,
+   "from_btc_pct": 23,
+   "verdict": "Oversold",
+   "file": "PLUME.png"
+  },
+  {
+   "symbol": "XPL",
+   "name": "Plasma",
+   "sigma": 2.92,
+   "from_btc_pct": 22,
+   "verdict": "Oversold",
+   "file": "XPL.png"
   },
   {
    "symbol": "MITO",
@@ -43,6 +67,14 @@
    "file": "ASTER.png"
   },
   {
+   "symbol": "ZK",
+   "name": "ZKsync",
+   "sigma": 2.8,
+   "from_btc_pct": 36,
+   "verdict": "Oversold",
+   "file": "ZK.png"
+  },
+  {
    "symbol": "STO",
    "name": "StakeStone",
    "sigma": 2.78,
@@ -51,52 +83,20 @@
    "file": "STO.png"
   },
   {
+   "symbol": "WLD",
+   "name": "Worldcoin",
+   "sigma": 2.78,
+   "from_btc_pct": 33,
+   "verdict": "Oversold",
+   "file": "WLD.png"
+  },
+  {
    "symbol": "BANANAS31",
    "name": "Banana For Scale",
    "sigma": 2.7,
    "from_btc_pct": 30,
    "verdict": "Oversold",
    "file": "BANANAS31.png"
-  },
-  {
-   "symbol": "AI",
-   "name": "Gensyn",
-   "sigma": 2.64,
-   "from_btc_pct": 2,
-   "verdict": "Neutral",
-   "file": "AI.png"
-  },
-  {
-   "symbol": "BERA",
-   "name": "Berachain",
-   "sigma": 2.63,
-   "from_btc_pct": 8,
-   "verdict": "Oversold",
-   "file": "BERA.png"
-  },
-  {
-   "symbol": "PYTH",
-   "name": "Pyth Network",
-   "sigma": 2.63,
-   "from_btc_pct": 27,
-   "verdict": "Neutral",
-   "file": "PYTH.png"
-  },
-  {
-   "symbol": "SOPH",
-   "name": "Sophon",
-   "sigma": 2.58,
-   "from_btc_pct": 8,
-   "verdict": "Neutral",
-   "file": "SOPH.png"
-  },
-  {
-   "symbol": "\u725b\u6765",
-   "name": "\u725b\u6765 (Niu Lai)",
-   "sigma": 2.57,
-   "from_btc_pct": 29,
-   "verdict": "Neutral",
-   "file": "\u725b\u6765.png"
   }
  ]
 }
