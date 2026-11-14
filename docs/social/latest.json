@@ -1,6 +1,6 @@
 {
  "date": "2026-11-14",
- "generated_at": "2026-11-14T21:00:54.798132+00:00",
+ "generated_at": "2026-11-14T21:15:50.723260+00:00",
  "assets": [
   {
    "symbol": "KAVA",
@@ -27,6 +27,14 @@
    "file": "DOT.png"
   },
   {
+   "symbol": "INJ",
+   "name": "Injective",
+   "sigma": 3.07,
+   "from_btc_pct": 22,
+   "verdict": "Neutral",
+   "file": "INJ.png"
+  },
+  {
    "symbol": "EIGEN",
    "name": "EigenCloud (prev. EigenLayer)",
    "sigma": 2.96,
@@ -41,6 +49,14 @@
    "from_btc_pct": 23,
    "verdict": "Oversold",
    "file": "PLUME.png"
+  },
+  {
+   "symbol": "OP",
+   "name": "Optimism",
+   "sigma": 2.95,
+   "from_btc_pct": 29,
+   "verdict": "Oversold",
+   "file": "OP.png"
   },
   {
    "symbol": "XPL",
@@ -81,22 +97,6 @@
    "from_btc_pct": 29,
    "verdict": "Oversold",
    "file": "STO.png"
-  },
-  {
-   "symbol": "WLD",
-   "name": "Worldcoin",
-   "sigma": 2.78,
-   "from_btc_pct": 33,
-   "verdict": "Oversold",
-   "file": "WLD.png"
-  },
-  {
-   "symbol": "BANANAS31",
-   "name": "Banana For Scale",
-   "sigma": 2.7,
-   "from_btc_pct": 30,
-   "verdict": "Oversold",
-   "file": "BANANAS31.png"
   }
  ]
 }
