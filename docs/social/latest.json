@@ -1,6 +1,6 @@
 {
  "date": "2026-11-14",
- "generated_at": "2026-11-14T14:30:30.006323+00:00",
+ "generated_at": "2026-11-14T14:45:51.662698+00:00",
  "assets": [
   {
    "symbol": "KAVA",
@@ -17,14 +17,6 @@
    "from_btc_pct": 3,
    "verdict": "Neutral",
    "file": "AI.png"
-  },
-  {
-   "symbol": "DODO",
-   "name": "DODO",
-   "sigma": 3.18,
-   "from_btc_pct": 7,
-   "verdict": "Overbought",
-   "file": "DODO.png"
   },
   {
    "symbol": "SOPH",
@@ -49,6 +41,14 @@
    "from_btc_pct": 1,
    "verdict": "Oversold",
    "file": "BERA.png"
+  },
+  {
+   "symbol": "DODO",
+   "name": "DODO",
+   "sigma": 2.61,
+   "from_btc_pct": 9,
+   "verdict": "Overbought",
+   "file": "DODO.png"
   },
   {
    "symbol": "BANANAS31",
