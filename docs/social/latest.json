@@ -1,6 +1,6 @@
 {
  "date": "2026-11-14",
- "generated_at": "2026-11-14T10:15:52.938849+00:00",
+ "generated_at": "2026-11-14T12:30:57.332670+00:00",
  "assets": [
   {
    "symbol": "KAVA",
@@ -25,6 +25,14 @@
    "from_btc_pct": 7,
    "verdict": "Overbought",
    "file": "DODO.png"
+  },
+  {
+   "symbol": "SOPH",
+   "name": "Sophon",
+   "sigma": 3.14,
+   "from_btc_pct": 6,
+   "verdict": "Neutral",
+   "file": "SOPH.png"
   },
   {
    "symbol": "MITO",
