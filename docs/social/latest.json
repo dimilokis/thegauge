@@ -1,6 +1,6 @@
 {
  "date": "2026-11-14",
- "generated_at": "2026-11-14T05:30:49.010802+00:00",
+ "generated_at": "2026-11-14T06:45:53.958050+00:00",
  "assets": [
   {
    "symbol": "BANANAS31",
@@ -9,6 +9,14 @@
    "from_btc_pct": 37,
    "verdict": "Oversold",
    "file": "BANANAS31.png"
+  },
+  {
+   "symbol": "MITO",
+   "name": "Mitosis",
+   "sigma": 2.8,
+   "from_btc_pct": 2,
+   "verdict": "Oversold",
+   "file": "MITO.png"
   },
   {
    "symbol": "BERA",
