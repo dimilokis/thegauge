@@ -1,6 +1,6 @@
 {
  "date": "2026-11-15",
- "generated_at": "2026-11-15T19:30:52.017453+00:00",
+ "generated_at": "2026-11-15T20:30:50.648312+00:00",
  "assets": [
   {
    "symbol": "RARE",
@@ -11,12 +11,12 @@
    "file": "RARE.png"
   },
   {
-   "symbol": "GLMR",
-   "name": "Moonbeam",
-   "sigma": 6.57,
-   "from_btc_pct": 12,
+   "symbol": "TLM",
+   "name": "Alien Worlds",
+   "sigma": 6.12,
+   "from_btc_pct": 29,
    "verdict": "Neutral",
-   "file": "GLMR.png"
+   "file": "TLM.png"
   },
   {
    "symbol": "RESOLV",
@@ -25,6 +25,14 @@
    "from_btc_pct": 33,
    "verdict": "Oversold",
    "file": "RESOLV.png"
+  },
+  {
+   "symbol": "GLMR",
+   "name": "Moonbeam",
+   "sigma": 2.86,
+   "from_btc_pct": 23,
+   "verdict": "Oversold",
+   "file": "GLMR.png"
   },
   {
    "symbol": "AI",
