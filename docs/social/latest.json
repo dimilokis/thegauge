@@ -1,6 +1,6 @@
 {
  "date": "2026-11-15",
- "generated_at": "2026-11-15T08:15:59.624743+00:00",
+ "generated_at": "2026-11-15T08:45:56.434126+00:00",
  "assets": [
   {
    "symbol": "AI",
@@ -17,6 +17,14 @@
    "from_btc_pct": 4,
    "verdict": "Neutral",
    "file": "INIT.png"
+  },
+  {
+   "symbol": "KAVA",
+   "name": "Kava",
+   "sigma": 2.57,
+   "from_btc_pct": 24,
+   "verdict": "Oversold",
+   "file": "KAVA.png"
   }
  ]
 }
