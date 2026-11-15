@@ -1,6 +1,6 @@
 {
  "date": "2026-11-15",
- "generated_at": "2026-11-15T12:31:00.315642+00:00",
+ "generated_at": "2026-11-15T13:00:58.517108+00:00",
  "assets": [
   {
    "symbol": "AI",
@@ -19,20 +19,20 @@
    "file": "INIT.png"
   },
   {
+   "symbol": "MEGA",
+   "name": "MegaETH",
+   "sigma": 2.68,
+   "from_btc_pct": 12,
+   "verdict": "Strong Uptrend",
+   "file": "MEGA.png"
+  },
+  {
    "symbol": "KAVA",
    "name": "Kava",
    "sigma": 2.53,
    "from_btc_pct": 25,
    "verdict": "Oversold",
    "file": "KAVA.png"
-  },
-  {
-   "symbol": "MEGA",
-   "name": "MegaETH",
-   "sigma": 2.5,
-   "from_btc_pct": 12,
-   "verdict": "Strong Uptrend",
-   "file": "MEGA.png"
   }
  ]
 }
