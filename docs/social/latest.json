@@ -1,6 +1,6 @@
 {
  "date": "2026-11-15",
- "generated_at": "2026-11-15T20:30:50.648312+00:00",
+ "generated_at": "2026-11-15T22:03:40.701467+00:00",
  "assets": [
   {
    "symbol": "RARE",
@@ -29,8 +29,8 @@
   {
    "symbol": "GLMR",
    "name": "Moonbeam",
-   "sigma": 2.86,
-   "from_btc_pct": 23,
+   "sigma": 2.79,
+   "from_btc_pct": 24,
    "verdict": "Oversold",
    "file": "GLMR.png"
   },
