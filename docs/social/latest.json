@@ -1,102 +1,14 @@
 {
- "date": "2026-11-14",
- "generated_at": "2026-11-14T23:45:56.867830+00:00",
+ "date": "2026-11-15",
+ "generated_at": "2026-11-15T06:15:49.669200+00:00",
  "assets": [
   {
-   "symbol": "ASTER",
-   "name": "Aster",
-   "sigma": 11.45,
-   "from_btc_pct": 39,
-   "verdict": "Oversold",
-   "file": "ASTER.png"
-  },
-  {
-   "symbol": "KAVA",
-   "name": "Kava",
-   "sigma": 4.99,
-   "from_btc_pct": 2,
+   "symbol": "AI",
+   "name": "Gensyn",
+   "sigma": 2.69,
+   "from_btc_pct": 9,
    "verdict": "Neutral",
-   "file": "KAVA.png"
-  },
-  {
-   "symbol": "GUN",
-   "name": "Gunz",
-   "sigma": 3.08,
-   "from_btc_pct": 27,
-   "verdict": "Oversold",
-   "file": "GUN.png"
-  },
-  {
-   "symbol": "DOT",
-   "name": "Polkadot",
-   "sigma": 3.07,
-   "from_btc_pct": 32,
-   "verdict": "Oversold",
-   "file": "DOT.png"
-  },
-  {
-   "symbol": "INJ",
-   "name": "Injective",
-   "sigma": 3.07,
-   "from_btc_pct": 22,
-   "verdict": "Neutral",
-   "file": "INJ.png"
-  },
-  {
-   "symbol": "EIGEN",
-   "name": "EigenCloud (prev. EigenLayer)",
-   "sigma": 2.96,
-   "from_btc_pct": 37,
-   "verdict": "Oversold",
-   "file": "EIGEN.png"
-  },
-  {
-   "symbol": "PLUME",
-   "name": "Plume",
-   "sigma": 2.95,
-   "from_btc_pct": 23,
-   "verdict": "Oversold",
-   "file": "PLUME.png"
-  },
-  {
-   "symbol": "OP",
-   "name": "Optimism",
-   "sigma": 2.95,
-   "from_btc_pct": 29,
-   "verdict": "Oversold",
-   "file": "OP.png"
-  },
-  {
-   "symbol": "XPL",
-   "name": "Plasma",
-   "sigma": 2.92,
-   "from_btc_pct": 22,
-   "verdict": "Oversold",
-   "file": "XPL.png"
-  },
-  {
-   "symbol": "MITO",
-   "name": "Mitosis",
-   "sigma": 2.8,
-   "from_btc_pct": 2,
-   "verdict": "Oversold",
-   "file": "MITO.png"
-  },
-  {
-   "symbol": "STO",
-   "name": "StakeStone",
-   "sigma": 2.78,
-   "from_btc_pct": 29,
-   "verdict": "Oversold",
-   "file": "STO.png"
-  },
-  {
-   "symbol": "ZK",
-   "name": "ZKsync",
-   "sigma": 2.72,
-   "from_btc_pct": 40,
-   "verdict": "Oversold",
-   "file": "ZK.png"
+   "file": "AI.png"
   }
  ]
 }
