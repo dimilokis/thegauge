@@ -1,7 +1,15 @@
 {
  "date": "2026-11-15",
- "generated_at": "2026-11-15T19:00:58.810777+00:00",
+ "generated_at": "2026-11-15T19:30:52.017453+00:00",
  "assets": [
+  {
+   "symbol": "RARE",
+   "name": "SuperRare",
+   "sigma": 11.57,
+   "from_btc_pct": 14,
+   "verdict": "Neutral",
+   "file": "RARE.png"
+  },
   {
    "symbol": "GLMR",
    "name": "Moonbeam",
