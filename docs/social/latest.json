@@ -1,7 +1,15 @@
 {
  "date": "2026-11-15",
- "generated_at": "2026-11-15T14:45:57.574291+00:00",
+ "generated_at": "2026-11-15T15:15:48.636335+00:00",
  "assets": [
+  {
+   "symbol": "GLMR",
+   "name": "Moonbeam",
+   "sigma": 6.57,
+   "from_btc_pct": 12,
+   "verdict": "Neutral",
+   "file": "GLMR.png"
+  },
   {
    "symbol": "RESOLV",
    "name": "Resolv",
