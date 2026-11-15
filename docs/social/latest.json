@@ -1,6 +1,6 @@
 {
  "date": "2026-11-15",
- "generated_at": "2026-11-15T22:03:40.701467+00:00",
+ "generated_at": "2026-11-15T22:30:59.599691+00:00",
  "assets": [
   {
    "symbol": "RARE",
@@ -17,6 +17,14 @@
    "from_btc_pct": 29,
    "verdict": "Neutral",
    "file": "TLM.png"
+  },
+  {
+   "symbol": "BANANAS31",
+   "name": "Banana For Scale",
+   "sigma": 3.1,
+   "from_btc_pct": 20,
+   "verdict": "Oversold",
+   "file": "BANANAS31.png"
   },
   {
    "symbol": "RESOLV",
