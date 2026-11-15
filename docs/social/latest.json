@@ -1,6 +1,6 @@
 {
  "date": "2026-11-15",
- "generated_at": "2026-11-15T15:15:48.636335+00:00",
+ "generated_at": "2026-11-15T19:00:58.810777+00:00",
  "assets": [
   {
    "symbol": "GLMR",
@@ -57,6 +57,14 @@
    "from_btc_pct": 25,
    "verdict": "Oversold",
    "file": "KAVA.png"
+  },
+  {
+   "symbol": "ASTER",
+   "name": "Aster",
+   "sigma": 2.5,
+   "from_btc_pct": 37,
+   "verdict": "Neutral",
+   "file": "ASTER.png"
   }
  ]
 }
