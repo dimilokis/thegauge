@@ -1,7 +1,15 @@
 {
  "date": "2026-11-16",
- "generated_at": "2026-11-16T17:01:10.420760+00:00",
+ "generated_at": "2026-11-16T17:46:03.880244+00:00",
  "assets": [
+  {
+   "symbol": "REQ",
+   "name": "Request",
+   "sigma": 5.04,
+   "from_btc_pct": 22,
+   "verdict": "Neutral",
+   "file": "REQ.png"
+  },
   {
    "symbol": "ICP",
    "name": "Internet Computer",
@@ -9,14 +17,6 @@
    "from_btc_pct": 39,
    "verdict": "Neutral",
    "file": "ICP.png"
-  },
-  {
-   "symbol": "REQ",
-   "name": "Request",
-   "sigma": 2.87,
-   "from_btc_pct": 25,
-   "verdict": "Neutral",
-   "file": "REQ.png"
   },
   {
    "symbol": "RESOLV",
