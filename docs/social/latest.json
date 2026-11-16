@@ -1,6 +1,6 @@
 {
  "date": "2026-11-16",
- "generated_at": "2026-11-16T11:30:58.422507+00:00",
+ "generated_at": "2026-11-16T15:15:56.778141+00:00",
  "assets": [
   {
    "symbol": "REQ",
@@ -9,6 +9,14 @@
    "from_btc_pct": 6,
    "verdict": "Overbought",
    "file": "REQ.png"
+  },
+  {
+   "symbol": "RESOLV",
+   "name": "Resolv",
+   "sigma": 2.83,
+   "from_btc_pct": 27,
+   "verdict": "Oversold",
+   "file": "RESOLV.png"
   },
   {
    "symbol": "RARE",
