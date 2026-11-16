@@ -1,13 +1,13 @@
 {
  "date": "2026-11-16",
- "generated_at": "2026-11-16T15:15:56.778141+00:00",
+ "generated_at": "2026-11-16T15:45:57.651665+00:00",
  "assets": [
   {
    "symbol": "REQ",
    "name": "Request",
-   "sigma": 15.34,
-   "from_btc_pct": 6,
-   "verdict": "Overbought",
+   "sigma": 2.87,
+   "from_btc_pct": 25,
+   "verdict": "Neutral",
    "file": "REQ.png"
   },
   {
@@ -17,6 +17,14 @@
    "from_btc_pct": 27,
    "verdict": "Oversold",
    "file": "RESOLV.png"
+  },
+  {
+   "symbol": "HUMA",
+   "name": "Huma Finance",
+   "sigma": 2.81,
+   "from_btc_pct": 4,
+   "verdict": "Oversold",
+   "file": "HUMA.png"
   },
   {
    "symbol": "RARE",
