@@ -1,7 +1,15 @@
 {
  "date": "2026-11-16",
- "generated_at": "2026-11-16T09:45:59.930747+00:00",
+ "generated_at": "2026-11-16T11:01:15.939969+00:00",
  "assets": [
+  {
+   "symbol": "REQ",
+   "name": "Request",
+   "sigma": 15.34,
+   "from_btc_pct": 6,
+   "verdict": "Overbought",
+   "file": "REQ.png"
+  },
   {
    "symbol": "RARE",
    "name": "SuperRare",
