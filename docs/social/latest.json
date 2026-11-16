@@ -1,6 +1,6 @@
 {
  "date": "2026-11-16",
- "generated_at": "2026-11-16T15:45:57.651665+00:00",
+ "generated_at": "2026-11-16T16:45:59.768362+00:00",
  "assets": [
   {
    "symbol": "REQ",
@@ -25,6 +25,14 @@
    "from_btc_pct": 4,
    "verdict": "Oversold",
    "file": "HUMA.png"
+  },
+  {
+   "symbol": "ASTER",
+   "name": "Aster",
+   "sigma": 2.75,
+   "from_btc_pct": 31,
+   "verdict": "Neutral",
+   "file": "ASTER.png"
   },
   {
    "symbol": "RARE",
