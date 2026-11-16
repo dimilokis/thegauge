@@ -1,94 +1,14 @@
 {
- "date": "2026-11-15",
- "generated_at": "2026-11-15T22:30:59.599691+00:00",
+ "date": "2026-11-16",
+ "generated_at": "2026-11-16T04:30:52.919630+00:00",
  "assets": [
   {
-   "symbol": "RARE",
-   "name": "SuperRare",
-   "sigma": 11.57,
+   "symbol": "ZIL",
+   "name": "Zilliqa",
+   "sigma": 2.68,
    "from_btc_pct": 14,
-   "verdict": "Neutral",
-   "file": "RARE.png"
-  },
-  {
-   "symbol": "TLM",
-   "name": "Alien Worlds",
-   "sigma": 6.12,
-   "from_btc_pct": 29,
-   "verdict": "Neutral",
-   "file": "TLM.png"
-  },
-  {
-   "symbol": "BANANAS31",
-   "name": "Banana For Scale",
-   "sigma": 3.1,
-   "from_btc_pct": 20,
    "verdict": "Oversold",
-   "file": "BANANAS31.png"
-  },
-  {
-   "symbol": "RESOLV",
-   "name": "Resolv",
-   "sigma": 3.08,
-   "from_btc_pct": 33,
-   "verdict": "Oversold",
-   "file": "RESOLV.png"
-  },
-  {
-   "symbol": "GLMR",
-   "name": "Moonbeam",
-   "sigma": 2.79,
-   "from_btc_pct": 24,
-   "verdict": "Oversold",
-   "file": "GLMR.png"
-  },
-  {
-   "symbol": "AI",
-   "name": "Gensyn",
-   "sigma": 2.69,
-   "from_btc_pct": 9,
-   "verdict": "Neutral",
-   "file": "AI.png"
-  },
-  {
-   "symbol": "INIT",
-   "name": "Initia",
-   "sigma": 2.67,
-   "from_btc_pct": 7,
-   "verdict": "Neutral",
-   "file": "INIT.png"
-  },
-  {
-   "symbol": "MEGA",
-   "name": "MegaETH",
-   "sigma": 2.57,
-   "from_btc_pct": 12,
-   "verdict": "Strong Uptrend",
-   "file": "MEGA.png"
-  },
-  {
-   "symbol": "SOPH",
-   "name": "Sophon",
-   "sigma": 2.54,
-   "from_btc_pct": 12,
-   "verdict": "Oversold",
-   "file": "SOPH.png"
-  },
-  {
-   "symbol": "KAVA",
-   "name": "Kava",
-   "sigma": 2.53,
-   "from_btc_pct": 25,
-   "verdict": "Oversold",
-   "file": "KAVA.png"
-  },
-  {
-   "symbol": "ASTER",
-   "name": "Aster",
-   "sigma": 2.5,
-   "from_btc_pct": 37,
-   "verdict": "Neutral",
-   "file": "ASTER.png"
+   "file": "ZIL.png"
   }
  ]
 }
