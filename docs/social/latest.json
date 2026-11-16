@@ -1,6 +1,6 @@
 {
  "date": "2026-11-16",
- "generated_at": "2026-11-16T17:46:03.880244+00:00",
+ "generated_at": "2026-11-16T18:46:02.266011+00:00",
  "assets": [
   {
    "symbol": "REQ",
@@ -37,8 +37,8 @@
   {
    "symbol": "ASTER",
    "name": "Aster",
-   "sigma": 2.75,
-   "from_btc_pct": 31,
+   "sigma": 2.69,
+   "from_btc_pct": 33,
    "verdict": "Neutral",
    "file": "ASTER.png"
   },
@@ -53,7 +53,7 @@
   {
    "symbol": "RARE",
    "name": "SuperRare",
-   "sigma": 2.55,
+   "sigma": 2.59,
    "from_btc_pct": 18,
    "verdict": "Neutral",
    "file": "RARE.png"
