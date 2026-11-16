@@ -1,7 +1,15 @@
 {
  "date": "2026-11-16",
- "generated_at": "2026-11-16T09:00:58.309339+00:00",
+ "generated_at": "2026-11-16T09:30:57.935138+00:00",
  "assets": [
+  {
+   "symbol": "RARE",
+   "name": "SuperRare",
+   "sigma": 3.55,
+   "from_btc_pct": 14,
+   "verdict": "Neutral",
+   "file": "RARE.png"
+  },
   {
    "symbol": "ZIL",
    "name": "Zilliqa",
