@@ -1,7 +1,15 @@
 {
  "date": "2026-11-16",
- "generated_at": "2026-11-16T16:45:59.768362+00:00",
+ "generated_at": "2026-11-16T17:01:10.420760+00:00",
  "assets": [
+  {
+   "symbol": "ICP",
+   "name": "Internet Computer",
+   "sigma": 3.12,
+   "from_btc_pct": 39,
+   "verdict": "Neutral",
+   "file": "ICP.png"
+  },
   {
    "symbol": "REQ",
    "name": "Request",
@@ -35,20 +43,20 @@
    "file": "ASTER.png"
   },
   {
-   "symbol": "RARE",
-   "name": "SuperRare",
-   "sigma": 2.68,
-   "from_btc_pct": 17,
-   "verdict": "Neutral",
-   "file": "RARE.png"
-  },
-  {
    "symbol": "ZIL",
    "name": "Zilliqa",
    "sigma": 2.59,
    "from_btc_pct": 17,
    "verdict": "Oversold",
    "file": "ZIL.png"
+  },
+  {
+   "symbol": "RARE",
+   "name": "SuperRare",
+   "sigma": 2.55,
+   "from_btc_pct": 18,
+   "verdict": "Neutral",
+   "file": "RARE.png"
   }
  ]
 }
