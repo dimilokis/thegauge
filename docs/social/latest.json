@@ -1,6 +1,6 @@
 {
  "date": "2026-11-16",
- "generated_at": "2026-11-16T18:46:02.266011+00:00",
+ "generated_at": "2026-11-16T19:50:28.456141+00:00",
  "assets": [
   {
    "symbol": "REQ",
@@ -35,14 +35,6 @@
    "file": "HUMA.png"
   },
   {
-   "symbol": "ASTER",
-   "name": "Aster",
-   "sigma": 2.69,
-   "from_btc_pct": 33,
-   "verdict": "Neutral",
-   "file": "ASTER.png"
-  },
-  {
    "symbol": "ZIL",
    "name": "Zilliqa",
    "sigma": 2.59,
@@ -57,6 +49,14 @@
    "from_btc_pct": 18,
    "verdict": "Neutral",
    "file": "RARE.png"
+  },
+  {
+   "symbol": "ASTER",
+   "name": "Aster",
+   "sigma": 2.52,
+   "from_btc_pct": 33,
+   "verdict": "Neutral",
+   "file": "ASTER.png"
   }
  ]
 }
