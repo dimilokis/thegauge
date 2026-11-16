@@ -1,6 +1,6 @@
 {
  "date": "2026-11-16",
- "generated_at": "2026-11-16T11:01:15.939969+00:00",
+ "generated_at": "2026-11-16T11:30:58.422507+00:00",
  "assets": [
   {
    "symbol": "REQ",
@@ -13,8 +13,8 @@
   {
    "symbol": "RARE",
    "name": "SuperRare",
-   "sigma": 3.55,
-   "from_btc_pct": 14,
+   "sigma": 2.68,
+   "from_btc_pct": 17,
    "verdict": "Neutral",
    "file": "RARE.png"
   },
