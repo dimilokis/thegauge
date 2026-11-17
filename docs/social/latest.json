@@ -1,7 +1,15 @@
 {
  "date": "2026-11-17",
- "generated_at": "2026-11-17T11:30:59.904144+00:00",
+ "generated_at": "2026-11-17T13:01:08.624257+00:00",
  "assets": [
+  {
+   "symbol": "BREV",
+   "name": "Brevis",
+   "sigma": 7.38,
+   "from_btc_pct": 16,
+   "verdict": "Neutral",
+   "file": "BREV.png"
+  },
   {
    "symbol": "LUNC",
    "name": "Terra Luna Classic",
