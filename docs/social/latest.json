@@ -1,6 +1,6 @@
 {
  "date": "2026-11-17",
- "generated_at": "2026-11-17T13:01:08.624257+00:00",
+ "generated_at": "2026-11-17T15:30:57.393782+00:00",
  "assets": [
   {
    "symbol": "BREV",
@@ -9,6 +9,14 @@
    "from_btc_pct": 16,
    "verdict": "Neutral",
    "file": "BREV.png"
+  },
+  {
+   "symbol": "BLUR",
+   "name": "Blur",
+   "sigma": 3.91,
+   "from_btc_pct": 10,
+   "verdict": "Oversold",
+   "file": "BLUR.png"
   },
   {
    "symbol": "LUNC",
@@ -25,6 +33,14 @@
    "from_btc_pct": 2,
    "verdict": "Oversold",
    "file": "ALLO.png"
+  },
+  {
+   "symbol": "HUMA",
+   "name": "Huma Finance",
+   "sigma": 2.61,
+   "from_btc_pct": 2,
+   "verdict": "Oversold",
+   "file": "HUMA.png"
   }
  ]
 }
