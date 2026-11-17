@@ -1,6 +1,6 @@
 {
  "date": "2026-11-17",
- "generated_at": "2026-11-17T19:46:02.997345+00:00",
+ "generated_at": "2026-11-17T21:01:04.588257+00:00",
  "assets": [
   {
    "symbol": "BREV",
@@ -25,6 +25,14 @@
    "from_btc_pct": 10,
    "verdict": "Oversold",
    "file": "BLUR.png"
+  },
+  {
+   "symbol": "ATM",
+   "name": "Atletico Madrid Fan Token",
+   "sigma": 3.59,
+   "from_btc_pct": 22,
+   "verdict": "Oversold",
+   "file": "ATM.png"
   },
   {
    "symbol": "ALLO",
@@ -57,14 +65,6 @@
    "from_btc_pct": 2,
    "verdict": "Oversold",
    "file": "HUMA.png"
-  },
-  {
-   "symbol": "ATM",
-   "name": "Atletico Madrid Fan Token",
-   "sigma": 2.57,
-   "from_btc_pct": 24,
-   "verdict": "Oversold",
-   "file": "ATM.png"
   }
  ]
 }
