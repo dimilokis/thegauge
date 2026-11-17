@@ -1,70 +1,14 @@
 {
- "date": "2026-11-16",
- "generated_at": "2026-11-16T23:45:57.071768+00:00",
+ "date": "2026-11-17",
+ "generated_at": "2026-11-17T08:15:57.506388+00:00",
  "assets": [
   {
-   "symbol": "REQ",
-   "name": "Request",
-   "sigma": 5.04,
-   "from_btc_pct": 22,
-   "verdict": "Neutral",
-   "file": "REQ.png"
-  },
-  {
-   "symbol": "ICP",
-   "name": "Internet Computer",
-   "sigma": 3.12,
-   "from_btc_pct": 39,
-   "verdict": "Neutral",
-   "file": "ICP.png"
-  },
-  {
-   "symbol": "RESOLV",
-   "name": "Resolv",
-   "sigma": 2.83,
-   "from_btc_pct": 27,
+   "symbol": "ALLO",
+   "name": "Allora",
+   "sigma": 2.66,
+   "from_btc_pct": 2,
    "verdict": "Oversold",
-   "file": "RESOLV.png"
-  },
-  {
-   "symbol": "HUMA",
-   "name": "Huma Finance",
-   "sigma": 2.81,
-   "from_btc_pct": 4,
-   "verdict": "Oversold",
-   "file": "HUMA.png"
-  },
-  {
-   "symbol": "ASTER",
-   "name": "Aster",
-   "sigma": 2.6,
-   "from_btc_pct": 35,
-   "verdict": "Neutral",
-   "file": "ASTER.png"
-  },
-  {
-   "symbol": "ZIL",
-   "name": "Zilliqa",
-   "sigma": 2.59,
-   "from_btc_pct": 17,
-   "verdict": "Oversold",
-   "file": "ZIL.png"
-  },
-  {
-   "symbol": "RARE",
-   "name": "SuperRare",
-   "sigma": 2.59,
-   "from_btc_pct": 18,
-   "verdict": "Neutral",
-   "file": "RARE.png"
-  },
-  {
-   "symbol": "TQQQB",
-   "name": "ProShares UltraPro QQQ (bStocks Tokenized Stock)",
-   "sigma": 2.53,
-   "from_btc_pct": 38,
-   "verdict": "Oversold",
-   "file": "TQQQB.png"
+   "file": "ALLO.png"
   }
  ]
 }
