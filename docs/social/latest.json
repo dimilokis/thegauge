@@ -1,6 +1,6 @@
 {
  "date": "2026-11-17",
- "generated_at": "2026-11-17T15:30:57.393782+00:00",
+ "generated_at": "2026-11-17T16:30:59.260310+00:00",
  "assets": [
   {
    "symbol": "BREV",
@@ -33,6 +33,14 @@
    "from_btc_pct": 2,
    "verdict": "Oversold",
    "file": "ALLO.png"
+  },
+  {
+   "symbol": "MMT",
+   "name": "Momentum",
+   "sigma": 2.99,
+   "from_btc_pct": 39,
+   "verdict": "Neutral",
+   "file": "MMT.png"
   },
   {
    "symbol": "HUMA",
