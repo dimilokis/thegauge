@@ -1,11 +1,19 @@
 {
  "date": "2026-11-17",
- "generated_at": "2026-11-17T08:15:57.506388+00:00",
+ "generated_at": "2026-11-17T08:45:51.684221+00:00",
  "assets": [
+  {
+   "symbol": "LUNC",
+   "name": "Terra Luna Classic",
+   "sigma": 5.46,
+   "from_btc_pct": 31,
+   "verdict": "Neutral",
+   "file": "LUNC.png"
+  },
   {
    "symbol": "ALLO",
    "name": "Allora",
-   "sigma": 2.66,
+   "sigma": 3.09,
    "from_btc_pct": 2,
    "verdict": "Oversold",
    "file": "ALLO.png"
