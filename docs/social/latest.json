@@ -1,12 +1,12 @@
 {
  "date": "2026-11-17",
- "generated_at": "2026-11-17T08:45:51.684221+00:00",
+ "generated_at": "2026-11-17T11:30:59.904144+00:00",
  "assets": [
   {
    "symbol": "LUNC",
    "name": "Terra Luna Classic",
-   "sigma": 5.46,
-   "from_btc_pct": 31,
+   "sigma": 3.76,
+   "from_btc_pct": 39,
    "verdict": "Neutral",
    "file": "LUNC.png"
   },
