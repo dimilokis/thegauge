@@ -1,6 +1,6 @@
 {
  "date": "2026-11-17",
- "generated_at": "2026-11-17T21:01:04.588257+00:00",
+ "generated_at": "2026-11-17T21:16:01.273630+00:00",
  "assets": [
   {
    "symbol": "BREV",
@@ -9,14 +9,6 @@
    "from_btc_pct": 16,
    "verdict": "Neutral",
    "file": "BREV.png"
-  },
-  {
-   "symbol": "TLM",
-   "name": "Alien Worlds",
-   "sigma": 4.93,
-   "from_btc_pct": 21,
-   "verdict": "Neutral",
-   "file": "TLM.png"
   },
   {
    "symbol": "BLUR",
@@ -33,6 +25,14 @@
    "from_btc_pct": 22,
    "verdict": "Oversold",
    "file": "ATM.png"
+  },
+  {
+   "symbol": "TLM",
+   "name": "Alien Worlds",
+   "sigma": 3.54,
+   "from_btc_pct": 27,
+   "verdict": "Oversold",
+   "file": "TLM.png"
   },
   {
    "symbol": "ALLO",
