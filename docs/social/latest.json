@@ -1,6 +1,6 @@
 {
  "date": "2026-11-17",
- "generated_at": "2026-11-17T17:16:08.101097+00:00",
+ "generated_at": "2026-11-17T19:00:58.746027+00:00",
  "assets": [
   {
    "symbol": "BREV",
@@ -9,6 +9,14 @@
    "from_btc_pct": 16,
    "verdict": "Neutral",
    "file": "BREV.png"
+  },
+  {
+   "symbol": "TLM",
+   "name": "Alien Worlds",
+   "sigma": 4.93,
+   "from_btc_pct": 21,
+   "verdict": "Neutral",
+   "file": "TLM.png"
   },
   {
    "symbol": "BLUR",
