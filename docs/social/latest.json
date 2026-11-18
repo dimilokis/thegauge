@@ -1,6 +1,6 @@
 {
  "date": "2026-11-18",
- "generated_at": "2026-11-18T06:01:07.337101+00:00",
+ "generated_at": "2026-11-18T09:15:53.850299+00:00",
  "assets": [
   {
    "symbol": "ZKP",
@@ -17,6 +17,14 @@
    "from_btc_pct": 25,
    "verdict": "Overbought",
    "file": "MMT.png"
+  },
+  {
+   "symbol": "ZKC",
+   "name": "Boundless",
+   "sigma": 3.94,
+   "from_btc_pct": 21,
+   "verdict": "Neutral",
+   "file": "ZKC.png"
   }
  ]
 }
