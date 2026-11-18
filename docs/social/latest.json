@@ -1,6 +1,6 @@
 {
  "date": "2026-11-18",
- "generated_at": "2026-11-18T16:45:49.446829+00:00",
+ "generated_at": "2026-11-18T18:45:49.821014+00:00",
  "assets": [
   {
    "symbol": "MMT",
@@ -27,20 +27,20 @@
    "file": "HEI.png"
   },
   {
-   "symbol": "ZIL",
-   "name": "Zilliqa",
-   "sigma": 2.86,
-   "from_btc_pct": 3,
-   "verdict": "Oversold",
-   "file": "ZIL.png"
-  },
-  {
    "symbol": "TSMB",
    "name": "TSMC (bStocks Tokenized Stock)",
    "sigma": 2.67,
    "from_btc_pct": 23,
    "verdict": "Oversold",
    "file": "TSMB.png"
+  },
+  {
+   "symbol": "ZIL",
+   "name": "Zilliqa",
+   "sigma": 2.65,
+   "from_btc_pct": 5,
+   "verdict": "Oversold",
+   "file": "ZIL.png"
   },
   {
    "symbol": "ZKP",
