@@ -1,6 +1,6 @@
 {
  "date": "2026-11-18",
- "generated_at": "2026-11-18T14:15:48.724972+00:00",
+ "generated_at": "2026-11-18T14:45:58.161203+00:00",
  "assets": [
   {
    "symbol": "MMT",
@@ -27,10 +27,18 @@
    "file": "HEI.png"
   },
   {
+   "symbol": "TSMB",
+   "name": "TSMC (bStocks Tokenized Stock)",
+   "sigma": 2.73,
+   "from_btc_pct": 22,
+   "verdict": "Oversold",
+   "file": "TSMB.png"
+  },
+  {
    "symbol": "ZKP",
    "name": "zkPass",
-   "sigma": 2.67,
-   "from_btc_pct": 25,
+   "sigma": 2.56,
+   "from_btc_pct": 21,
    "verdict": "Neutral",
    "file": "ZKP.png"
   }
