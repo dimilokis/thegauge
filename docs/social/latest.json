@@ -1,6 +1,6 @@
 {
  "date": "2026-11-18",
- "generated_at": "2026-11-18T09:15:53.850299+00:00",
+ "generated_at": "2026-11-18T11:45:54.179438+00:00",
  "assets": [
   {
    "symbol": "ZKP",
@@ -17,6 +17,14 @@
    "from_btc_pct": 25,
    "verdict": "Overbought",
    "file": "MMT.png"
+  },
+  {
+   "symbol": "HEI",
+   "name": "Heima",
+   "sigma": 4.63,
+   "from_btc_pct": 20,
+   "verdict": "Neutral",
+   "file": "HEI.png"
   },
   {
    "symbol": "ZKC",
