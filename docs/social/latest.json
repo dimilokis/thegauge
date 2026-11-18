@@ -1,6 +1,6 @@
 {
  "date": "2026-11-18",
- "generated_at": "2026-11-18T11:45:54.179438+00:00",
+ "generated_at": "2026-11-18T13:00:57.998780+00:00",
  "assets": [
   {
    "symbol": "ZKP",
@@ -19,20 +19,20 @@
    "file": "MMT.png"
   },
   {
-   "symbol": "HEI",
-   "name": "Heima",
-   "sigma": 4.63,
-   "from_btc_pct": 20,
-   "verdict": "Neutral",
-   "file": "HEI.png"
-  },
-  {
    "symbol": "ZKC",
    "name": "Boundless",
    "sigma": 3.94,
    "from_btc_pct": 21,
    "verdict": "Neutral",
    "file": "ZKC.png"
+  },
+  {
+   "symbol": "HEI",
+   "name": "Heima",
+   "sigma": 3.07,
+   "from_btc_pct": 25,
+   "verdict": "Neutral",
+   "file": "HEI.png"
   }
  ]
 }
