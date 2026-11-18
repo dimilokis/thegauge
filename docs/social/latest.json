@@ -1,70 +1,14 @@
 {
- "date": "2026-11-17",
- "generated_at": "2026-11-17T23:01:03.932326+00:00",
+ "date": "2026-11-18",
+ "generated_at": "2026-11-18T05:30:53.677650+00:00",
  "assets": [
-  {
-   "symbol": "BREV",
-   "name": "Brevis",
-   "sigma": 7.38,
-   "from_btc_pct": 16,
-   "verdict": "Neutral",
-   "file": "BREV.png"
-  },
-  {
-   "symbol": "BLUR",
-   "name": "Blur",
-   "sigma": 3.91,
-   "from_btc_pct": 10,
-   "verdict": "Oversold",
-   "file": "BLUR.png"
-  },
-  {
-   "symbol": "TLM",
-   "name": "Alien Worlds",
-   "sigma": 3.54,
-   "from_btc_pct": 27,
-   "verdict": "Oversold",
-   "file": "TLM.png"
-  },
-  {
-   "symbol": "ALLO",
-   "name": "Allora",
-   "sigma": 3.09,
-   "from_btc_pct": 2,
-   "verdict": "Oversold",
-   "file": "ALLO.png"
-  },
   {
    "symbol": "MMT",
    "name": "Momentum",
-   "sigma": 2.99,
-   "from_btc_pct": 39,
-   "verdict": "Neutral",
+   "sigma": 4.92,
+   "from_btc_pct": 25,
+   "verdict": "Overbought",
    "file": "MMT.png"
-  },
-  {
-   "symbol": "LUNC",
-   "name": "Terra Luna Classic",
-   "sigma": 2.84,
-   "from_btc_pct": 39,
-   "verdict": "Neutral",
-   "file": "LUNC.png"
-  },
-  {
-   "symbol": "ATM",
-   "name": "Atletico Madrid Fan Token",
-   "sigma": 2.64,
-   "from_btc_pct": 29,
-   "verdict": "Oversold",
-   "file": "ATM.png"
-  },
-  {
-   "symbol": "HUMA",
-   "name": "Huma Finance",
-   "sigma": 2.61,
-   "from_btc_pct": 2,
-   "verdict": "Oversold",
-   "file": "HUMA.png"
   }
  ]
 }
