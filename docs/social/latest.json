@@ -1,6 +1,6 @@
 {
  "date": "2026-11-18",
- "generated_at": "2026-11-18T15:00:58.530204+00:00",
+ "generated_at": "2026-11-18T16:30:55.585614+00:00",
  "assets": [
   {
    "symbol": "MMT",
@@ -37,8 +37,8 @@
   {
    "symbol": "TSMB",
    "name": "TSMC (bStocks Tokenized Stock)",
-   "sigma": 2.73,
-   "from_btc_pct": 22,
+   "sigma": 2.67,
+   "from_btc_pct": 23,
    "verdict": "Oversold",
    "file": "TSMB.png"
   },
