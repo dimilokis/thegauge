@@ -1,6 +1,6 @@
 {
  "date": "2026-11-18",
- "generated_at": "2026-11-18T14:45:58.161203+00:00",
+ "generated_at": "2026-11-18T15:00:58.530204+00:00",
  "assets": [
   {
    "symbol": "MMT",
@@ -9,6 +9,14 @@
    "from_btc_pct": 25,
    "verdict": "Overbought",
    "file": "MMT.png"
+  },
+  {
+   "symbol": "ZIL",
+   "name": "Zilliqa",
+   "sigma": 4.09,
+   "from_btc_pct": 5,
+   "verdict": "Oversold",
+   "file": "ZIL.png"
   },
   {
    "symbol": "ZKC",
