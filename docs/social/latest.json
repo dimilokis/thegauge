@@ -1,15 +1,7 @@
 {
  "date": "2026-11-18",
- "generated_at": "2026-11-18T13:00:57.998780+00:00",
+ "generated_at": "2026-11-18T14:15:48.724972+00:00",
  "assets": [
-  {
-   "symbol": "ZKP",
-   "name": "zkPass",
-   "sigma": 5.33,
-   "from_btc_pct": 23,
-   "verdict": "Neutral",
-   "file": "ZKP.png"
-  },
   {
    "symbol": "MMT",
    "name": "Momentum",
@@ -33,6 +25,14 @@
    "from_btc_pct": 25,
    "verdict": "Neutral",
    "file": "HEI.png"
+  },
+  {
+   "symbol": "ZKP",
+   "name": "zkPass",
+   "sigma": 2.67,
+   "from_btc_pct": 25,
+   "verdict": "Neutral",
+   "file": "ZKP.png"
   }
  ]
 }
