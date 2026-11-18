@@ -1,6 +1,6 @@
 {
  "date": "2026-11-18",
- "generated_at": "2026-11-18T16:30:55.585614+00:00",
+ "generated_at": "2026-11-18T16:45:49.446829+00:00",
  "assets": [
   {
    "symbol": "MMT",
@@ -9,14 +9,6 @@
    "from_btc_pct": 25,
    "verdict": "Overbought",
    "file": "MMT.png"
-  },
-  {
-   "symbol": "ZIL",
-   "name": "Zilliqa",
-   "sigma": 4.09,
-   "from_btc_pct": 5,
-   "verdict": "Oversold",
-   "file": "ZIL.png"
   },
   {
    "symbol": "ZKC",
@@ -33,6 +25,14 @@
    "from_btc_pct": 25,
    "verdict": "Neutral",
    "file": "HEI.png"
+  },
+  {
+   "symbol": "ZIL",
+   "name": "Zilliqa",
+   "sigma": 2.86,
+   "from_btc_pct": 3,
+   "verdict": "Oversold",
+   "file": "ZIL.png"
   },
   {
    "symbol": "TSMB",
