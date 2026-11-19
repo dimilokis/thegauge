@@ -1,6 +1,6 @@
 {
  "date": "2026-11-19",
- "generated_at": "2026-11-19T11:15:47.695272+00:00",
+ "generated_at": "2026-11-19T11:45:50.930594+00:00",
  "assets": [
   {
    "symbol": "SENT",
@@ -9,6 +9,14 @@
    "from_btc_pct": 10,
    "verdict": "Overbought",
    "file": "SENT.png"
+  },
+  {
+   "symbol": "SKY",
+   "name": "Sky",
+   "sigma": 2.72,
+   "from_btc_pct": 17,
+   "verdict": "Oversold",
+   "file": "SKY.png"
   },
   {
    "symbol": "LUNC",
