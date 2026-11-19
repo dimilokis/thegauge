@@ -1,15 +1,7 @@
 {
  "date": "2026-11-19",
- "generated_at": "2026-11-19T22:45:47.819822+00:00",
+ "generated_at": "2026-11-19T23:01:05.253816+00:00",
  "assets": [
-  {
-   "symbol": "YB",
-   "name": "Yield Basis",
-   "sigma": 10.89,
-   "from_btc_pct": 18,
-   "verdict": "Neutral",
-   "file": "YB.png"
-  },
   {
    "symbol": "SENT",
    "name": "Sentient",
@@ -57,6 +49,14 @@
    "from_btc_pct": 3,
    "verdict": "Overbought",
    "file": "MMT.png"
+  },
+  {
+   "symbol": "YB",
+   "name": "Yield Basis",
+   "sigma": 2.5,
+   "from_btc_pct": 19,
+   "verdict": "Oversold",
+   "file": "YB.png"
   }
  ]
 }
