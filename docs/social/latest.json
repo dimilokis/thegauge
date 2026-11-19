@@ -1,6 +1,6 @@
 {
  "date": "2026-11-19",
- "generated_at": "2026-11-19T17:01:00.828543+00:00",
+ "generated_at": "2026-11-19T17:30:55.053855+00:00",
  "assets": [
   {
    "symbol": "YB",
@@ -35,20 +35,20 @@
    "file": "SKY.png"
   },
   {
-   "symbol": "LUNC",
-   "name": "Terra Luna Classic",
-   "sigma": 2.6,
-   "from_btc_pct": 27,
-   "verdict": "Neutral",
-   "file": "LUNC.png"
-  },
-  {
    "symbol": "DODO",
    "name": "DODO",
-   "sigma": 2.56,
+   "sigma": 2.7,
    "from_btc_pct": 11,
    "verdict": "Overbought",
    "file": "DODO.png"
+  },
+  {
+   "symbol": "LUNC",
+   "name": "Terra Luna Classic",
+   "sigma": 2.6,
+   "from_btc_pct": 29,
+   "verdict": "Neutral",
+   "file": "LUNC.png"
   }
  ]
 }
