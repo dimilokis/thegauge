@@ -1,62 +1,22 @@
 {
- "date": "2026-11-18",
- "generated_at": "2026-11-18T23:01:07.564534+00:00",
+ "date": "2026-11-19",
+ "generated_at": "2026-11-19T04:31:00.272486+00:00",
  "assets": [
   {
-   "symbol": "MMT",
-   "name": "Momentum",
-   "sigma": 4.92,
-   "from_btc_pct": 25,
-   "verdict": "Overbought",
-   "file": "MMT.png"
-  },
-  {
-   "symbol": "ZKC",
-   "name": "Boundless",
-   "sigma": 3.94,
-   "from_btc_pct": 21,
+   "symbol": "LUNC",
+   "name": "Terra Luna Classic",
+   "sigma": 2.91,
+   "from_btc_pct": 30,
    "verdict": "Neutral",
-   "file": "ZKC.png"
+   "file": "LUNC.png"
   },
   {
-   "symbol": "HEI",
-   "name": "Heima",
-   "sigma": 3.07,
-   "from_btc_pct": 25,
-   "verdict": "Neutral",
-   "file": "HEI.png"
-  },
-  {
-   "symbol": "ZIL",
-   "name": "Zilliqa",
+   "symbol": "SENT",
+   "name": "Sentient",
    "sigma": 2.65,
-   "from_btc_pct": 5,
-   "verdict": "Oversold",
-   "file": "ZIL.png"
-  },
-  {
-   "symbol": "ASTER",
-   "name": "Aster",
-   "sigma": 2.63,
-   "from_btc_pct": 37,
-   "verdict": "Neutral",
-   "file": "ASTER.png"
-  },
-  {
-   "symbol": "ZKP",
-   "name": "zkPass",
-   "sigma": 2.56,
-   "from_btc_pct": 21,
-   "verdict": "Neutral",
-   "file": "ZKP.png"
-  },
-  {
-   "symbol": "TSMB",
-   "name": "TSMC (bStocks Tokenized Stock)",
-   "sigma": 2.5,
-   "from_btc_pct": 23,
-   "verdict": "Oversold",
-   "file": "TSMB.png"
+   "from_btc_pct": 8,
+   "verdict": "Overbought",
+   "file": "SENT.png"
   }
  ]
 }
