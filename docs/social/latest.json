@@ -1,6 +1,6 @@
 {
  "date": "2026-11-19",
- "generated_at": "2026-11-19T22:30:55.543221+00:00",
+ "generated_at": "2026-11-19T22:45:47.819822+00:00",
  "assets": [
   {
    "symbol": "YB",
@@ -21,8 +21,8 @@
   {
    "symbol": "RARE",
    "name": "SuperRare",
-   "sigma": 3.07,
-   "from_btc_pct": 15,
+   "sigma": 3.03,
+   "from_btc_pct": 17,
    "verdict": "Neutral",
    "file": "RARE.png"
   },
