@@ -1,6 +1,6 @@
 {
  "date": "2026-11-19",
- "generated_at": "2026-11-19T15:30:56.915842+00:00",
+ "generated_at": "2026-11-19T16:15:55.187320+00:00",
  "assets": [
   {
    "symbol": "YB",
@@ -9,14 +9,6 @@
    "from_btc_pct": 18,
    "verdict": "Neutral",
    "file": "YB.png"
-  },
-  {
-   "symbol": "MMT",
-   "name": "Momentum",
-   "sigma": 3.33,
-   "from_btc_pct": 4,
-   "verdict": "Overbought",
-   "file": "MMT.png"
   },
   {
    "symbol": "SENT",
@@ -35,12 +27,28 @@
    "file": "LUNC.png"
   },
   {
+   "symbol": "MMT",
+   "name": "Momentum",
+   "sigma": 2.81,
+   "from_btc_pct": 4,
+   "verdict": "Overbought",
+   "file": "MMT.png"
+  },
+  {
    "symbol": "SKY",
    "name": "Sky",
    "sigma": 2.72,
    "from_btc_pct": 17,
    "verdict": "Oversold",
    "file": "SKY.png"
+  },
+  {
+   "symbol": "DODO",
+   "name": "DODO",
+   "sigma": 2.56,
+   "from_btc_pct": 11,
+   "verdict": "Overbought",
+   "file": "DODO.png"
   }
  ]
 }
