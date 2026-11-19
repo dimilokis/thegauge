@@ -1,6 +1,6 @@
 {
  "date": "2026-11-19",
- "generated_at": "2026-11-19T05:15:53.121060+00:00",
+ "generated_at": "2026-11-19T06:15:55.048106+00:00",
  "assets": [
   {
    "symbol": "LUNC",
@@ -13,8 +13,8 @@
   {
    "symbol": "SENT",
    "name": "Sentient",
-   "sigma": 2.65,
-   "from_btc_pct": 8,
+   "sigma": 2.6,
+   "from_btc_pct": 9,
    "verdict": "Overbought",
    "file": "SENT.png"
   }
