@@ -1,6 +1,6 @@
 {
  "date": "2026-11-20",
- "generated_at": "2026-11-20T11:45:48.659634+00:00",
+ "generated_at": "2026-11-20T12:15:57.394094+00:00",
  "assets": [
   {
    "symbol": "CYBER",
@@ -35,20 +35,20 @@
    "file": "BARD.png"
   },
   {
+   "symbol": "HMSTR",
+   "name": "Hamster Kombat",
+   "sigma": 3.1,
+   "from_btc_pct": 9,
+   "verdict": "Neutral",
+   "file": "HMSTR.png"
+  },
+  {
    "symbol": "MEGA",
    "name": "MegaETH",
    "sigma": 2.71,
    "from_btc_pct": 5,
    "verdict": "Neutral",
    "file": "MEGA.png"
-  },
-  {
-   "symbol": "HMSTR",
-   "name": "Hamster Kombat",
-   "sigma": 2.56,
-   "from_btc_pct": 11,
-   "verdict": "Neutral",
-   "file": "HMSTR.png"
   },
   {
    "symbol": "LUNC",
