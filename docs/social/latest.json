@@ -1,6 +1,6 @@
 {
  "date": "2026-11-20",
- "generated_at": "2026-11-20T19:30:59.398592+00:00",
+ "generated_at": "2026-11-20T20:01:04.742658+00:00",
  "assets": [
   {
    "symbol": "KERNEL",
@@ -33,14 +33,6 @@
    "from_btc_pct": 4,
    "verdict": "Overbought",
    "file": "RARE.png"
-  },
-  {
-   "symbol": "HYPE",
-   "name": "Hyperliquid",
-   "sigma": 3.06,
-   "from_btc_pct": 26,
-   "verdict": "Oversold",
-   "file": "HYPE.png"
   },
   {
    "symbol": "SKHYB",
@@ -89,6 +81,14 @@
    "from_btc_pct": 32,
    "verdict": "Overbought",
    "file": "SOXSB.png"
+  },
+  {
+   "symbol": "HYPE",
+   "name": "Hyperliquid",
+   "sigma": 2.73,
+   "from_btc_pct": 25,
+   "verdict": "Oversold",
+   "file": "HYPE.png"
   },
   {
    "symbol": "BLUR",
