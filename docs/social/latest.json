@@ -1,7 +1,15 @@
 {
  "date": "2026-11-20",
- "generated_at": "2026-11-20T05:01:05.541382+00:00",
+ "generated_at": "2026-11-20T06:15:56.331162+00:00",
  "assets": [
+  {
+   "symbol": "YB",
+   "name": "Yield Basis",
+   "sigma": 4.18,
+   "from_btc_pct": 16,
+   "verdict": "Neutral",
+   "file": "YB.png"
+  },
   {
    "symbol": "BARD",
    "name": "Lombard",
