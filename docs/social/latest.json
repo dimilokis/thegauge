@@ -1,6 +1,6 @@
 {
  "date": "2026-11-20",
- "generated_at": "2026-11-20T17:01:00.314155+00:00",
+ "generated_at": "2026-11-20T17:15:52.238970+00:00",
  "assets": [
   {
    "symbol": "CYBER",
@@ -35,6 +35,14 @@
    "file": "BARD.png"
   },
   {
+   "symbol": "SKHYB",
+   "name": "SK Hynix (bStocks Tokenized Stock)",
+   "sigma": 2.92,
+   "from_btc_pct": 28,
+   "verdict": "Oversold",
+   "file": "SKHYB.png"
+  },
+  {
    "symbol": "AVGOB",
    "name": "Broadcom (bStocks Tokenized Stock)",
    "sigma": 2.89,
@@ -51,6 +59,14 @@
    "file": "SNXXB.png"
   },
   {
+   "symbol": "ZIL",
+   "name": "Zilliqa",
+   "sigma": 2.82,
+   "from_btc_pct": 11,
+   "verdict": "Oversold",
+   "file": "ZIL.png"
+  },
+  {
    "symbol": "HMSTR",
    "name": "Hamster Kombat",
    "sigma": 2.79,
@@ -59,28 +75,12 @@
    "file": "HMSTR.png"
   },
   {
-   "symbol": "ZIL",
-   "name": "Zilliqa",
-   "sigma": 2.74,
-   "from_btc_pct": 10,
-   "verdict": "Oversold",
-   "file": "ZIL.png"
-  },
-  {
-   "symbol": "SKHYB",
-   "name": "SK Hynix (bStocks Tokenized Stock)",
+   "symbol": "SOXSB",
+   "name": "Direxion Semiconductor Bear 3X ETF (bStocks Tokenized ETF)",
    "sigma": 2.71,
-   "from_btc_pct": 28,
-   "verdict": "Oversold",
-   "file": "SKHYB.png"
-  },
-  {
-   "symbol": "HYPE",
-   "name": "Hyperliquid",
-   "sigma": 2.65,
-   "from_btc_pct": 21,
-   "verdict": "Oversold",
-   "file": "HYPE.png"
+   "from_btc_pct": 30,
+   "verdict": "Overbought",
+   "file": "SOXSB.png"
   },
   {
    "symbol": "MEGA",
@@ -91,12 +91,12 @@
    "file": "MEGA.png"
   },
   {
-   "symbol": "INJ",
-   "name": "Injective",
+   "symbol": "HYPE",
+   "name": "Hyperliquid",
    "sigma": 2.58,
-   "from_btc_pct": 31,
-   "verdict": "Neutral",
-   "file": "INJ.png"
+   "from_btc_pct": 23,
+   "verdict": "Oversold",
+   "file": "HYPE.png"
   }
  ]
 }
