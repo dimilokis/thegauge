@@ -1,6 +1,6 @@
 {
  "date": "2026-11-20",
- "generated_at": "2026-11-20T16:45:55.218599+00:00",
+ "generated_at": "2026-11-20T17:01:00.314155+00:00",
  "assets": [
   {
    "symbol": "CYBER",
@@ -91,12 +91,12 @@
    "file": "MEGA.png"
   },
   {
-   "symbol": "LUNC",
-   "name": "Terra Luna Classic",
-   "sigma": 2.55,
-   "from_btc_pct": 20,
+   "symbol": "INJ",
+   "name": "Injective",
+   "sigma": 2.58,
+   "from_btc_pct": 31,
    "verdict": "Neutral",
-   "file": "LUNC.png"
+   "file": "INJ.png"
   }
  ]
 }
