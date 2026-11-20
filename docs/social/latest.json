@@ -1,6 +1,6 @@
 {
  "date": "2026-11-20",
- "generated_at": "2026-11-20T23:30:52.790110+00:00",
+ "generated_at": "2026-11-20T23:45:52.605342+00:00",
  "assets": [
   {
    "symbol": "YB",
@@ -91,12 +91,12 @@
    "file": "AIGENSYN.png"
   },
   {
-   "symbol": "ZEC",
-   "name": "Zcash",
-   "sigma": 2.54,
-   "from_btc_pct": 39,
+   "symbol": "HYPE",
+   "name": "Hyperliquid",
+   "sigma": 2.58,
+   "from_btc_pct": 24,
    "verdict": "Oversold",
-   "file": "ZEC.png"
+   "file": "HYPE.png"
   }
  ]
 }
