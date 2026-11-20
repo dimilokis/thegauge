@@ -1,6 +1,6 @@
 {
  "date": "2026-11-20",
- "generated_at": "2026-11-20T19:00:55.041624+00:00",
+ "generated_at": "2026-11-20T19:15:51.977532+00:00",
  "assets": [
   {
    "symbol": "KERNEL",
@@ -25,6 +25,14 @@
    "from_btc_pct": 0,
    "verdict": "Neutral",
    "file": "BARD.png"
+  },
+  {
+   "symbol": "HYPE",
+   "name": "Hyperliquid",
+   "sigma": 3.06,
+   "from_btc_pct": 26,
+   "verdict": "Oversold",
+   "file": "HYPE.png"
   },
   {
    "symbol": "SKHYB",
@@ -69,8 +77,8 @@
   {
    "symbol": "SOXSB",
    "name": "Direxion Semiconductor Bear 3X ETF (bStocks Tokenized ETF)",
-   "sigma": 2.71,
-   "from_btc_pct": 30,
+   "sigma": 2.79,
+   "from_btc_pct": 32,
    "verdict": "Overbought",
    "file": "SOXSB.png"
   },
@@ -89,14 +97,6 @@
    "from_btc_pct": 2,
    "verdict": "Oversold",
    "file": "CYBER.png"
-  },
-  {
-   "symbol": "PROM",
-   "name": "Prom",
-   "sigma": 2.62,
-   "from_btc_pct": 17,
-   "verdict": "Neutral",
-   "file": "PROM.png"
   }
  ]
 }
