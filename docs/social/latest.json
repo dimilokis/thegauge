@@ -1,6 +1,6 @@
 {
  "date": "2026-11-20",
- "generated_at": "2026-11-20T03:30:50.207165+00:00",
+ "generated_at": "2026-11-20T04:30:49.724708+00:00",
  "assets": [
   {
    "symbol": "BARD",
@@ -9,6 +9,14 @@
    "from_btc_pct": 0,
    "verdict": "Neutral",
    "file": "BARD.png"
+  },
+  {
+   "symbol": "MEGA",
+   "name": "MegaETH",
+   "sigma": 2.64,
+   "from_btc_pct": 5,
+   "verdict": "Neutral",
+   "file": "MEGA.png"
   }
  ]
 }
