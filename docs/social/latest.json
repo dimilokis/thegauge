@@ -1,7 +1,15 @@
 {
  "date": "2026-11-20",
- "generated_at": "2026-11-20T06:15:56.331162+00:00",
+ "generated_at": "2026-11-20T08:16:01.837820+00:00",
  "assets": [
+  {
+   "symbol": "CYBER",
+   "name": "CYBER",
+   "sigma": 10.03,
+   "from_btc_pct": 0,
+   "verdict": "Neutral",
+   "file": "CYBER.png"
+  },
   {
    "symbol": "YB",
    "name": "Yield Basis",
