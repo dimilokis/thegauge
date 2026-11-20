@@ -1,6 +1,6 @@
 {
  "date": "2026-11-20",
- "generated_at": "2026-11-20T20:15:56.351280+00:00",
+ "generated_at": "2026-11-20T20:31:00.513860+00:00",
  "assets": [
   {
    "symbol": "YB",
@@ -13,8 +13,8 @@
   {
    "symbol": "BARD",
    "name": "Lombard",
-   "sigma": 3.37,
-   "from_btc_pct": 0,
+   "sigma": 3.75,
+   "from_btc_pct": 3,
    "verdict": "Neutral",
    "file": "BARD.png"
   },
@@ -83,20 +83,20 @@
    "file": "SOXSB.png"
   },
   {
-   "symbol": "HYPE",
-   "name": "Hyperliquid",
-   "sigma": 2.73,
-   "from_btc_pct": 25,
-   "verdict": "Oversold",
-   "file": "HYPE.png"
-  },
-  {
    "symbol": "BLUR",
    "name": "Blur",
    "sigma": 2.71,
    "from_btc_pct": 2,
    "verdict": "Oversold",
    "file": "BLUR.png"
+  },
+  {
+   "symbol": "HYPE",
+   "name": "Hyperliquid",
+   "sigma": 2.68,
+   "from_btc_pct": 25,
+   "verdict": "Oversold",
+   "file": "HYPE.png"
   }
  ]
 }
