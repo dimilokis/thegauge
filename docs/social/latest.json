@@ -1,15 +1,7 @@
 {
  "date": "2026-11-20",
- "generated_at": "2026-11-20T20:01:04.742658+00:00",
+ "generated_at": "2026-11-20T20:15:56.351280+00:00",
  "assets": [
-  {
-   "symbol": "KERNEL",
-   "name": "KernelDAO",
-   "sigma": 7.64,
-   "from_btc_pct": 9,
-   "verdict": "Overbought",
-   "file": "KERNEL.png"
-  },
   {
    "symbol": "YB",
    "name": "Yield Basis",
@@ -25,6 +17,14 @@
    "from_btc_pct": 0,
    "verdict": "Neutral",
    "file": "BARD.png"
+  },
+  {
+   "symbol": "KERNEL",
+   "name": "KernelDAO",
+   "sigma": 3.36,
+   "from_btc_pct": 1,
+   "verdict": "Neutral",
+   "file": "KERNEL.png"
   },
   {
    "symbol": "RARE",
