@@ -1,11 +1,11 @@
 {
  "date": "2026-11-20",
- "generated_at": "2026-11-20T04:30:49.724708+00:00",
+ "generated_at": "2026-11-20T05:01:05.541382+00:00",
  "assets": [
   {
    "symbol": "BARD",
    "name": "Lombard",
-   "sigma": 2.93,
+   "sigma": 3.37,
    "from_btc_pct": 0,
    "verdict": "Neutral",
    "file": "BARD.png"
