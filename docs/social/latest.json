@@ -1,6 +1,6 @@
 {
  "date": "2026-11-20",
- "generated_at": "2026-11-20T08:16:01.837820+00:00",
+ "generated_at": "2026-11-20T10:00:52.361889+00:00",
  "assets": [
   {
    "symbol": "CYBER",
@@ -9,6 +9,14 @@
    "from_btc_pct": 0,
    "verdict": "Neutral",
    "file": "CYBER.png"
+  },
+  {
+   "symbol": "HMSTR",
+   "name": "Hamster Kombat",
+   "sigma": 7.33,
+   "from_btc_pct": 7,
+   "verdict": "Neutral",
+   "file": "HMSTR.png"
   },
   {
    "symbol": "YB",
@@ -33,6 +41,14 @@
    "from_btc_pct": 5,
    "verdict": "Neutral",
    "file": "MEGA.png"
+  },
+  {
+   "symbol": "LUNC",
+   "name": "Terra Luna Classic",
+   "sigma": 2.54,
+   "from_btc_pct": 19,
+   "verdict": "Neutral",
+   "file": "LUNC.png"
   }
  ]
 }
