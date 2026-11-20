@@ -1,6 +1,6 @@
 {
  "date": "2026-11-20",
- "generated_at": "2026-11-20T15:31:02.082622+00:00",
+ "generated_at": "2026-11-20T15:45:56.045733+00:00",
  "assets": [
   {
    "symbol": "CYBER",
@@ -35,6 +35,14 @@
    "file": "BARD.png"
   },
   {
+   "symbol": "SNXXB",
+   "name": "Tradr 2X Long SNDK ETF (bStocks Tokenized ETF)",
+   "sigma": 3.11,
+   "from_btc_pct": 32,
+   "verdict": "Oversold",
+   "file": "SNXXB.png"
+  },
+  {
    "symbol": "AVGOB",
    "name": "Broadcom (bStocks Tokenized Stock)",
    "sigma": 2.89,
@@ -49,6 +57,22 @@
    "from_btc_pct": 6,
    "verdict": "Neutral",
    "file": "HMSTR.png"
+  },
+  {
+   "symbol": "ZIL",
+   "name": "Zilliqa",
+   "sigma": 2.74,
+   "from_btc_pct": 10,
+   "verdict": "Oversold",
+   "file": "ZIL.png"
+  },
+  {
+   "symbol": "HYPE",
+   "name": "Hyperliquid",
+   "sigma": 2.65,
+   "from_btc_pct": 21,
+   "verdict": "Oversold",
+   "file": "HYPE.png"
   },
   {
    "symbol": "MEGA",
