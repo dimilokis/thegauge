@@ -1,6 +1,6 @@
 {
  "date": "2026-11-20",
- "generated_at": "2026-11-20T17:15:52.238970+00:00",
+ "generated_at": "2026-11-20T18:15:53.251721+00:00",
  "assets": [
   {
    "symbol": "CYBER",
@@ -83,20 +83,20 @@
    "file": "SOXSB.png"
   },
   {
+   "symbol": "PROM",
+   "name": "Prom",
+   "sigma": 2.62,
+   "from_btc_pct": 17,
+   "verdict": "Neutral",
+   "file": "PROM.png"
+  },
+  {
    "symbol": "MEGA",
    "name": "MegaETH",
    "sigma": 2.61,
    "from_btc_pct": 5,
    "verdict": "Neutral",
    "file": "MEGA.png"
-  },
-  {
-   "symbol": "HYPE",
-   "name": "Hyperliquid",
-   "sigma": 2.58,
-   "from_btc_pct": 23,
-   "verdict": "Oversold",
-   "file": "HYPE.png"
   }
  ]
 }
