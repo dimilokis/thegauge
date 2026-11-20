@@ -1,6 +1,6 @@
 {
  "date": "2026-11-20",
- "generated_at": "2026-11-20T10:00:52.361889+00:00",
+ "generated_at": "2026-11-20T10:45:56.948503+00:00",
  "assets": [
   {
    "symbol": "CYBER",
@@ -9,14 +9,6 @@
    "from_btc_pct": 0,
    "verdict": "Neutral",
    "file": "CYBER.png"
-  },
-  {
-   "symbol": "HMSTR",
-   "name": "Hamster Kombat",
-   "sigma": 7.33,
-   "from_btc_pct": 7,
-   "verdict": "Neutral",
-   "file": "HMSTR.png"
   },
   {
    "symbol": "YB",
@@ -33,6 +25,14 @@
    "from_btc_pct": 0,
    "verdict": "Neutral",
    "file": "BARD.png"
+  },
+  {
+   "symbol": "HMSTR",
+   "name": "Hamster Kombat",
+   "sigma": 2.95,
+   "from_btc_pct": 12,
+   "verdict": "Neutral",
+   "file": "HMSTR.png"
   },
   {
    "symbol": "MEGA",
