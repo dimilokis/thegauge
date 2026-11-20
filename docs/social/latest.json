@@ -1,6 +1,6 @@
 {
  "date": "2026-11-20",
- "generated_at": "2026-11-20T19:15:51.977532+00:00",
+ "generated_at": "2026-11-20T19:30:59.398592+00:00",
  "assets": [
   {
    "symbol": "KERNEL",
@@ -25,6 +25,14 @@
    "from_btc_pct": 0,
    "verdict": "Neutral",
    "file": "BARD.png"
+  },
+  {
+   "symbol": "RARE",
+   "name": "SuperRare",
+   "sigma": 3.27,
+   "from_btc_pct": 4,
+   "verdict": "Overbought",
+   "file": "RARE.png"
   },
   {
    "symbol": "HYPE",
@@ -89,14 +97,6 @@
    "from_btc_pct": 2,
    "verdict": "Oversold",
    "file": "BLUR.png"
-  },
-  {
-   "symbol": "CYBER",
-   "name": "CYBER",
-   "sigma": 2.64,
-   "from_btc_pct": 2,
-   "verdict": "Oversold",
-   "file": "CYBER.png"
   }
  ]
 }
