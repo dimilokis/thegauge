@@ -1,6 +1,6 @@
 {
  "date": "2026-11-20",
- "generated_at": "2026-11-20T20:31:00.513860+00:00",
+ "generated_at": "2026-11-20T20:45:55.580716+00:00",
  "assets": [
   {
    "symbol": "YB",
@@ -17,14 +17,6 @@
    "from_btc_pct": 3,
    "verdict": "Neutral",
    "file": "BARD.png"
-  },
-  {
-   "symbol": "KERNEL",
-   "name": "KernelDAO",
-   "sigma": 3.36,
-   "from_btc_pct": 1,
-   "verdict": "Neutral",
-   "file": "KERNEL.png"
   },
   {
    "symbol": "RARE",
@@ -97,6 +89,14 @@
    "from_btc_pct": 25,
    "verdict": "Oversold",
    "file": "HYPE.png"
+  },
+  {
+   "symbol": "KERNEL",
+   "name": "KernelDAO",
+   "sigma": 2.58,
+   "from_btc_pct": 3,
+   "verdict": "Neutral",
+   "file": "KERNEL.png"
   }
  ]
 }
