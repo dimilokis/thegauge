@@ -1,6 +1,6 @@
 {
  "date": "2026-11-20",
- "generated_at": "2026-11-20T13:31:01.663901+00:00",
+ "generated_at": "2026-11-20T15:31:02.082622+00:00",
  "assets": [
   {
    "symbol": "CYBER",
@@ -35,10 +35,18 @@
    "file": "BARD.png"
   },
   {
+   "symbol": "AVGOB",
+   "name": "Broadcom (bStocks Tokenized Stock)",
+   "sigma": 2.89,
+   "from_btc_pct": 24,
+   "verdict": "Neutral",
+   "file": "AVGOB.png"
+  },
+  {
    "symbol": "HMSTR",
    "name": "Hamster Kombat",
-   "sigma": 2.83,
-   "from_btc_pct": 10,
+   "sigma": 2.79,
+   "from_btc_pct": 6,
    "verdict": "Neutral",
    "file": "HMSTR.png"
   },
