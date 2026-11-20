@@ -1,15 +1,7 @@
 {
  "date": "2026-11-20",
- "generated_at": "2026-11-20T18:45:49.743959+00:00",
+ "generated_at": "2026-11-20T19:00:55.041624+00:00",
  "assets": [
-  {
-   "symbol": "CYBER",
-   "name": "CYBER",
-   "sigma": 10.03,
-   "from_btc_pct": 0,
-   "verdict": "Neutral",
-   "file": "CYBER.png"
-  },
   {
    "symbol": "KERNEL",
    "name": "KernelDAO",
@@ -89,6 +81,14 @@
    "from_btc_pct": 2,
    "verdict": "Oversold",
    "file": "BLUR.png"
+  },
+  {
+   "symbol": "CYBER",
+   "name": "CYBER",
+   "sigma": 2.64,
+   "from_btc_pct": 2,
+   "verdict": "Oversold",
+   "file": "CYBER.png"
   },
   {
    "symbol": "PROM",
