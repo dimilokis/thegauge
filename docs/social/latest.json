@@ -1,70 +1,14 @@
 {
- "date": "2026-11-19",
- "generated_at": "2026-11-20T02:45:52.898166+00:00",
+ "date": "2026-11-20",
+ "generated_at": "2026-11-20T03:30:50.207165+00:00",
  "assets": [
   {
-   "symbol": "SAPIEN",
-   "name": "Sapien",
-   "sigma": 3.93,
-   "from_btc_pct": 31,
-   "verdict": "Oversold",
-   "file": "SAPIEN.png"
-  },
-  {
-   "symbol": "SENT",
-   "name": "Sentient",
-   "sigma": 3.21,
-   "from_btc_pct": 10,
-   "verdict": "Overbought",
-   "file": "SENT.png"
-  },
-  {
-   "symbol": "RARE",
-   "name": "SuperRare",
-   "sigma": 3.03,
-   "from_btc_pct": 17,
+   "symbol": "BARD",
+   "name": "Lombard",
+   "sigma": 2.93,
+   "from_btc_pct": 0,
    "verdict": "Neutral",
-   "file": "RARE.png"
-  },
-  {
-   "symbol": "SKY",
-   "name": "Sky",
-   "sigma": 2.72,
-   "from_btc_pct": 17,
-   "verdict": "Oversold",
-   "file": "SKY.png"
-  },
-  {
-   "symbol": "LUNC",
-   "name": "Terra Luna Classic",
-   "sigma": 2.72,
-   "from_btc_pct": 22,
-   "verdict": "Neutral",
-   "file": "LUNC.png"
-  },
-  {
-   "symbol": "DODO",
-   "name": "DODO",
-   "sigma": 2.57,
-   "from_btc_pct": 7,
-   "verdict": "Overbought",
-   "file": "DODO.png"
-  },
-  {
-   "symbol": "MMT",
-   "name": "Momentum",
-   "sigma": 2.52,
-   "from_btc_pct": 3,
-   "verdict": "Overbought",
-   "file": "MMT.png"
-  },
-  {
-   "symbol": "YB",
-   "name": "Yield Basis",
-   "sigma": 2.5,
-   "from_btc_pct": 19,
-   "verdict": "Oversold",
-   "file": "YB.png"
+   "file": "BARD.png"
   }
  ]
 }
