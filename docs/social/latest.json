@@ -1,6 +1,6 @@
 {
  "date": "2026-11-21",
- "generated_at": "2026-11-21T16:45:56.091467+00:00",
+ "generated_at": "2026-11-21T17:00:58.058351+00:00",
  "assets": [
   {
    "symbol": "DODO",
@@ -27,12 +27,12 @@
    "file": "ORCA.png"
   },
   {
-   "symbol": "LUNC",
-   "name": "Terra Luna Classic",
-   "sigma": 2.67,
-   "from_btc_pct": 16,
-   "verdict": "Neutral",
-   "file": "LUNC.png"
+   "symbol": "ENSO",
+   "name": "Enso",
+   "sigma": 2.8,
+   "from_btc_pct": 23,
+   "verdict": "Oversold",
+   "file": "ENSO.png"
   },
   {
    "symbol": "CYBER",
@@ -43,12 +43,12 @@
    "file": "CYBER.png"
   },
   {
-   "symbol": "ENSO",
-   "name": "Enso",
+   "symbol": "LUNC",
+   "name": "Terra Luna Classic",
    "sigma": 2.55,
-   "from_btc_pct": 23,
-   "verdict": "Oversold",
-   "file": "ENSO.png"
+   "from_btc_pct": 16,
+   "verdict": "Neutral",
+   "file": "LUNC.png"
   },
   {
    "symbol": "YB",
