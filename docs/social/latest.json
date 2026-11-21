@@ -1,6 +1,6 @@
 {
  "date": "2026-11-21",
- "generated_at": "2026-11-21T23:15:52.670524+00:00",
+ "generated_at": "2026-11-21T23:45:53.744802+00:00",
  "assets": [
   {
    "symbol": "ENSO",
@@ -43,20 +43,20 @@
    "file": "LUNC.png"
   },
   {
+   "symbol": "YB",
+   "name": "Yield Basis",
+   "sigma": 2.61,
+   "from_btc_pct": 23,
+   "verdict": "Oversold",
+   "file": "YB.png"
+  },
+  {
    "symbol": "CYBER",
    "name": "CYBER",
    "sigma": 2.57,
    "from_btc_pct": 4,
    "verdict": "Oversold",
    "file": "CYBER.png"
-  },
-  {
-   "symbol": "YB",
-   "name": "Yield Basis",
-   "sigma": 2.53,
-   "from_btc_pct": 16,
-   "verdict": "Oversold",
-   "file": "YB.png"
   },
   {
    "symbol": "GRAM",
