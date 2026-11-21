@@ -1,100 +1,12 @@
 {
- "date": "2026-11-20",
- "generated_at": "2026-11-21T02:15:57.527504+00:00",
+ "date": "2026-11-21",
+ "generated_at": "2026-11-21T04:15:56.958738+00:00",
  "assets": [
-  {
-   "symbol": "YB",
-   "name": "Yield Basis",
-   "sigma": 4.18,
-   "from_btc_pct": 16,
-   "verdict": "Neutral",
-   "file": "YB.png"
-  },
-  {
-   "symbol": "BARD",
-   "name": "Lombard",
-   "sigma": 3.75,
-   "from_btc_pct": 3,
-   "verdict": "Neutral",
-   "file": "BARD.png"
-  },
-  {
-   "symbol": "RARE",
-   "name": "SuperRare",
-   "sigma": 3.27,
-   "from_btc_pct": 4,
-   "verdict": "Overbought",
-   "file": "RARE.png"
-  },
-  {
-   "symbol": "KERNEL",
-   "name": "KernelDAO",
-   "sigma": 2.97,
-   "from_btc_pct": 2,
-   "verdict": "Neutral",
-   "file": "KERNEL.png"
-  },
-  {
-   "symbol": "SKHYB",
-   "name": "SK Hynix (bStocks Tokenized Stock)",
-   "sigma": 2.92,
-   "from_btc_pct": 28,
-   "verdict": "Oversold",
-   "file": "SKHYB.png"
-  },
-  {
-   "symbol": "AVGOB",
-   "name": "Broadcom (bStocks Tokenized Stock)",
-   "sigma": 2.89,
-   "from_btc_pct": 24,
-   "verdict": "Neutral",
-   "file": "AVGOB.png"
-  },
-  {
-   "symbol": "SNXXB",
-   "name": "Tradr 2X Long SNDK ETF (bStocks Tokenized ETF)",
-   "sigma": 2.83,
-   "from_btc_pct": 33,
-   "verdict": "Oversold",
-   "file": "SNXXB.png"
-  },
-  {
-   "symbol": "ZIL",
-   "name": "Zilliqa",
-   "sigma": 2.82,
-   "from_btc_pct": 11,
-   "verdict": "Oversold",
-   "file": "ZIL.png"
-  },
-  {
-   "symbol": "HMSTR",
-   "name": "Hamster Kombat",
-   "sigma": 2.79,
-   "from_btc_pct": 6,
-   "verdict": "Neutral",
-   "file": "HMSTR.png"
-  },
-  {
-   "symbol": "SOXSB",
-   "name": "Direxion Semiconductor Bear 3X ETF (bStocks Tokenized ETF)",
-   "sigma": 2.79,
-   "from_btc_pct": 32,
-   "verdict": "Overbought",
-   "file": "SOXSB.png"
-  },
-  {
-   "symbol": "AIGENSYN",
-   "name": "Gensyn",
-   "sigma": 2.77,
-   "from_btc_pct": 14,
-   "verdict": "Neutral",
-   "file": "AIGENSYN.png"
-  },
   {
    "symbol": "ENSO",
    "name": "Enso",
-   "sigma": 2.72,
-   "from_btc_pct": 19,
+   "sigma": 3.22,
+   "from_btc_pct": 5,
    "verdict": "Oversold",
    "file": "ENSO.png"
   }
