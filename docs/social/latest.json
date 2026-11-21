@@ -1,14 +1,22 @@
 {
  "date": "2026-11-21",
- "generated_at": "2026-11-21T04:15:56.958738+00:00",
+ "generated_at": "2026-11-21T05:30:56.257738+00:00",
  "assets": [
   {
    "symbol": "ENSO",
    "name": "Enso",
-   "sigma": 3.22,
-   "from_btc_pct": 5,
+   "sigma": 2.55,
+   "from_btc_pct": 7,
    "verdict": "Oversold",
    "file": "ENSO.png"
+  },
+  {
+   "symbol": "GRAM",
+   "name": "Gram (prev. Toncoin)",
+   "sigma": 2.5,
+   "from_btc_pct": 31,
+   "verdict": "Oversold",
+   "file": "GRAM.png"
   }
  ]
 }
