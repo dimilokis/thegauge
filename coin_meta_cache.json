@@ -1068,7 +1068,7 @@
   "name": "Orca"
  },
  "ORCLB": {
-  "icon": "https://coin-images.coingecko.com/coins/images/102174766/large/oracle.png",
+  "icon": "https://coin-images.coingecko.com/coins/images/102174766/large/oracle.png?1784797651",
   "name": "Oracle (bStocks Tokenized Stock)"
  },
  "ORDI": {
@@ -1254,6 +1254,10 @@
  "RVN": {
   "icon": "https://coin-images.coingecko.com/coins/images/3412/large/ravencoin.png?1696504108",
   "name": "Ravencoin"
+ },
+ "RWUSD": {
+  "icon": "https://coin-images.coingecko.com/coins/images/102179476/large/rwusd.webp",
+  "name": "RWUSD"
  },
  "S": {
   "icon": "https://coin-images.coingecko.com/coins/images/38108/large/200x200_Sonic_Logo.png?1734679256",
