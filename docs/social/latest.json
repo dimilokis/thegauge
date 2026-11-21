@@ -1,6 +1,6 @@
 {
  "date": "2026-11-21",
- "generated_at": "2026-11-21T11:45:53.932284+00:00",
+ "generated_at": "2026-11-21T12:01:04.452770+00:00",
  "assets": [
   {
    "symbol": "SAPIEN",
@@ -37,8 +37,8 @@
   {
    "symbol": "YB",
    "name": "Yield Basis",
-   "sigma": 2.61,
-   "from_btc_pct": 8,
+   "sigma": 2.53,
+   "from_btc_pct": 16,
    "verdict": "Oversold",
    "file": "YB.png"
   },
