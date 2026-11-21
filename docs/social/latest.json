@@ -1,14 +1,22 @@
 {
  "date": "2026-11-21",
- "generated_at": "2026-11-21T05:30:56.257738+00:00",
+ "generated_at": "2026-11-21T06:30:56.207546+00:00",
  "assets": [
   {
    "symbol": "ENSO",
    "name": "Enso",
-   "sigma": 2.55,
+   "sigma": 2.64,
    "from_btc_pct": 7,
    "verdict": "Oversold",
    "file": "ENSO.png"
+  },
+  {
+   "symbol": "YB",
+   "name": "Yield Basis",
+   "sigma": 2.61,
+   "from_btc_pct": 8,
+   "verdict": "Oversold",
+   "file": "YB.png"
   },
   {
    "symbol": "GRAM",
