@@ -1,6 +1,6 @@
 {
  "date": "2026-11-20",
- "generated_at": "2026-11-20T23:45:52.605342+00:00",
+ "generated_at": "2026-11-21T01:15:51.959301+00:00",
  "assets": [
   {
    "symbol": "YB",
@@ -91,12 +91,12 @@
    "file": "AIGENSYN.png"
   },
   {
-   "symbol": "HYPE",
-   "name": "Hyperliquid",
-   "sigma": 2.58,
-   "from_btc_pct": 24,
-   "verdict": "Oversold",
-   "file": "HYPE.png"
+   "symbol": "LUNC",
+   "name": "Terra Luna Classic",
+   "sigma": 2.65,
+   "from_btc_pct": 19,
+   "verdict": "Neutral",
+   "file": "LUNC.png"
   }
  ]
 }
