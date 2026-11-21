@@ -1,6 +1,6 @@
 {
  "date": "2026-11-21",
- "generated_at": "2026-11-21T12:01:04.452770+00:00",
+ "generated_at": "2026-11-21T14:45:51.872078+00:00",
  "assets": [
   {
    "symbol": "SAPIEN",
@@ -9,6 +9,14 @@
    "from_btc_pct": 19,
    "verdict": "Oversold",
    "file": "SAPIEN.png"
+  },
+  {
+   "symbol": "ORCA",
+   "name": "Orca",
+   "sigma": 3.11,
+   "from_btc_pct": 40,
+   "verdict": "Oversold",
+   "file": "ORCA.png"
   },
   {
    "symbol": "DODO",
