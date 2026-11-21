@@ -1,6 +1,6 @@
 {
  "date": "2026-11-20",
- "generated_at": "2026-11-21T01:15:51.959301+00:00",
+ "generated_at": "2026-11-21T02:00:52.977366+00:00",
  "assets": [
   {
    "symbol": "YB",
@@ -91,12 +91,12 @@
    "file": "AIGENSYN.png"
   },
   {
-   "symbol": "LUNC",
-   "name": "Terra Luna Classic",
-   "sigma": 2.65,
+   "symbol": "ENSO",
+   "name": "Enso",
+   "sigma": 2.72,
    "from_btc_pct": 19,
-   "verdict": "Neutral",
-   "file": "LUNC.png"
+   "verdict": "Oversold",
+   "file": "ENSO.png"
   }
  ]
 }
