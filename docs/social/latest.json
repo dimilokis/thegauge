@@ -1,7 +1,15 @@
 {
  "date": "2026-11-22",
- "generated_at": "2026-11-22T11:15:52.176281+00:00",
+ "generated_at": "2026-11-22T14:45:48.620536+00:00",
  "assets": [
+  {
+   "symbol": "XVG",
+   "name": "Verge",
+   "sigma": 7.12,
+   "from_btc_pct": 38,
+   "verdict": "Oversold",
+   "file": "XVG.png"
+  },
   {
    "symbol": "AIGENSYN",
    "name": "Gensyn",
