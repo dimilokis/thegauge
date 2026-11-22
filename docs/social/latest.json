@@ -1,6 +1,6 @@
 {
  "date": "2026-11-22",
- "generated_at": "2026-11-22T14:45:48.620536+00:00",
+ "generated_at": "2026-11-22T17:15:53.390636+00:00",
  "assets": [
   {
    "symbol": "XVG",
@@ -17,6 +17,14 @@
    "from_btc_pct": 18,
    "verdict": "Neutral",
    "file": "AIGENSYN.png"
+  },
+  {
+   "symbol": "ALLO",
+   "name": "Allora",
+   "sigma": 2.78,
+   "from_btc_pct": 6,
+   "verdict": "Oversold",
+   "file": "ALLO.png"
   }
  ]
 }
