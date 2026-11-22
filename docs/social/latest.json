@@ -1,6 +1,6 @@
 {
  "date": "2026-11-22",
- "generated_at": "2026-11-22T17:45:51.506460+00:00",
+ "generated_at": "2026-11-22T18:15:48.430434+00:00",
  "assets": [
   {
    "symbol": "XVG",
@@ -9,6 +9,14 @@
    "from_btc_pct": 38,
    "verdict": "Oversold",
    "file": "XVG.png"
+  },
+  {
+   "symbol": "ACE",
+   "name": "Fusionist",
+   "sigma": 5.79,
+   "from_btc_pct": 9,
+   "verdict": "Oversold",
+   "file": "ACE.png"
   },
   {
    "symbol": "ALLO",
