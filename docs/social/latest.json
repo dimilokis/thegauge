@@ -1,6 +1,6 @@
 {
  "date": "2026-11-22",
- "generated_at": "2026-11-22T21:31:03.075496+00:00",
+ "generated_at": "2026-11-22T22:45:53.096435+00:00",
  "assets": [
   {
    "symbol": "XVG",
@@ -13,7 +13,7 @@
   {
    "symbol": "LISTA",
    "name": "Lista DAO",
-   "sigma": 3.65,
+   "sigma": 3.22,
    "from_btc_pct": 40,
    "verdict": "Neutral",
    "file": "LISTA.png"
