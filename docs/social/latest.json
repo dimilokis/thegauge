@@ -1,15 +1,7 @@
 {
  "date": "2026-11-21",
- "generated_at": "2026-11-21T23:45:53.744802+00:00",
+ "generated_at": "2026-11-22T01:15:53.882774+00:00",
  "assets": [
-  {
-   "symbol": "ENSO",
-   "name": "Enso",
-   "sigma": 3.72,
-   "from_btc_pct": 24,
-   "verdict": "Oversold",
-   "file": "ENSO.png"
-  },
   {
    "symbol": "DODO",
    "name": "DODO",
@@ -33,6 +25,14 @@
    "from_btc_pct": 40,
    "verdict": "Oversold",
    "file": "ORCA.png"
+  },
+  {
+   "symbol": "ENSO",
+   "name": "Enso",
+   "sigma": 3.07,
+   "from_btc_pct": 23,
+   "verdict": "Neutral",
+   "file": "ENSO.png"
   },
   {
    "symbol": "LUNC",
