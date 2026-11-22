@@ -1,6 +1,6 @@
 {
  "date": "2026-11-22",
- "generated_at": "2026-11-22T18:15:48.430434+00:00",
+ "generated_at": "2026-11-22T19:15:52.166363+00:00",
  "assets": [
   {
    "symbol": "XVG",
@@ -17,6 +17,14 @@
    "from_btc_pct": 9,
    "verdict": "Oversold",
    "file": "ACE.png"
+  },
+  {
+   "symbol": "LISTA",
+   "name": "Lista DAO",
+   "sigma": 3.11,
+   "from_btc_pct": 40,
+   "verdict": "Neutral",
+   "file": "LISTA.png"
   },
   {
    "symbol": "ALLO",
