@@ -1,70 +1,14 @@
 {
- "date": "2026-11-21",
- "generated_at": "2026-11-22T01:15:53.882774+00:00",
+ "date": "2026-11-22",
+ "generated_at": "2026-11-22T05:45:50.485145+00:00",
  "assets": [
   {
-   "symbol": "DODO",
-   "name": "DODO",
-   "sigma": 3.15,
+   "symbol": "AIGENSYN",
+   "name": "Gensyn",
+   "sigma": 7.36,
    "from_btc_pct": 5,
-   "verdict": "Overbought",
-   "file": "DODO.png"
-  },
-  {
-   "symbol": "SAPIEN",
-   "name": "Sapien",
-   "sigma": 3.13,
-   "from_btc_pct": 19,
-   "verdict": "Oversold",
-   "file": "SAPIEN.png"
-  },
-  {
-   "symbol": "ORCA",
-   "name": "Orca",
-   "sigma": 3.11,
-   "from_btc_pct": 40,
-   "verdict": "Oversold",
-   "file": "ORCA.png"
-  },
-  {
-   "symbol": "ENSO",
-   "name": "Enso",
-   "sigma": 3.07,
-   "from_btc_pct": 23,
    "verdict": "Neutral",
-   "file": "ENSO.png"
-  },
-  {
-   "symbol": "LUNC",
-   "name": "Terra Luna Classic",
-   "sigma": 2.91,
-   "from_btc_pct": 14,
-   "verdict": "Neutral",
-   "file": "LUNC.png"
-  },
-  {
-   "symbol": "YB",
-   "name": "Yield Basis",
-   "sigma": 2.61,
-   "from_btc_pct": 23,
-   "verdict": "Oversold",
-   "file": "YB.png"
-  },
-  {
-   "symbol": "CYBER",
-   "name": "CYBER",
-   "sigma": 2.57,
-   "from_btc_pct": 4,
-   "verdict": "Oversold",
-   "file": "CYBER.png"
-  },
-  {
-   "symbol": "GRAM",
-   "name": "Gram (prev. Toncoin)",
-   "sigma": 2.5,
-   "from_btc_pct": 31,
-   "verdict": "Oversold",
-   "file": "GRAM.png"
+   "file": "AIGENSYN.png"
   }
  ]
 }
