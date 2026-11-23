@@ -1,6 +1,6 @@
 {
  "date": "2026-11-23",
- "generated_at": "2026-11-23T17:00:57.318820+00:00",
+ "generated_at": "2026-11-23T18:31:01.468911+00:00",
  "assets": [
   {
    "symbol": "TSMB",
@@ -43,14 +43,6 @@
    "file": "SOXSB.png"
   },
   {
-   "symbol": "IRENB",
-   "name": "IREN Limited (bStocks Tokenized Stock)",
-   "sigma": 3.26,
-   "from_btc_pct": 35,
-   "verdict": "Oversold",
-   "file": "IRENB.png"
-  },
-  {
    "symbol": "MUUB",
    "name": "Direxion MU Bull 2X ETF (bStocks Tokenized ETF)",
    "sigma": 2.94,
@@ -89,6 +81,14 @@
    "from_btc_pct": 34,
    "verdict": "Neutral",
    "file": "SKHYB.png"
+  },
+  {
+   "symbol": "IRENB",
+   "name": "IREN Limited (bStocks Tokenized Stock)",
+   "sigma": 2.65,
+   "from_btc_pct": 32,
+   "verdict": "Oversold",
+   "file": "IRENB.png"
   },
   {
    "symbol": "MRVLB",
