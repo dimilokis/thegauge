@@ -1,6 +1,6 @@
 {
  "date": "2026-11-23",
- "generated_at": "2026-11-23T15:01:03.256969+00:00",
+ "generated_at": "2026-11-23T16:16:00.601175+00:00",
  "assets": [
   {
    "symbol": "TSMB",
@@ -9,6 +9,14 @@
    "from_btc_pct": 32,
    "verdict": "Neutral",
    "file": "TSMB.png"
+  },
+  {
+   "symbol": "LISTA",
+   "name": "Lista DAO",
+   "sigma": 5.53,
+   "from_btc_pct": 40,
+   "verdict": "Overbought",
+   "file": "LISTA.png"
   },
   {
    "symbol": "CYBER",
