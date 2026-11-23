@@ -1,6 +1,6 @@
 {
  "date": "2026-11-23",
- "generated_at": "2026-11-23T16:31:01.711640+00:00",
+ "generated_at": "2026-11-23T17:00:57.318820+00:00",
  "assets": [
   {
    "symbol": "TSMB",
@@ -45,8 +45,8 @@
   {
    "symbol": "IRENB",
    "name": "IREN Limited (bStocks Tokenized Stock)",
-   "sigma": 3.32,
-   "from_btc_pct": 37,
+   "sigma": 3.26,
+   "from_btc_pct": 35,
    "verdict": "Oversold",
    "file": "IRENB.png"
   },
@@ -93,8 +93,8 @@
   {
    "symbol": "MRVLB",
    "name": "Marvell Technology (bStocks Tokenized Stock)",
-   "sigma": 2.62,
-   "from_btc_pct": 29,
+   "sigma": 2.56,
+   "from_btc_pct": 26,
    "verdict": "Oversold",
    "file": "MRVLB.png"
   }
