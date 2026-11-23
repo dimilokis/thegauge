@@ -1,6 +1,6 @@
 {
  "date": "2026-11-23",
- "generated_at": "2026-11-23T21:30:56.955946+00:00",
+ "generated_at": "2026-11-23T22:15:59.016137+00:00",
  "assets": [
   {
    "symbol": "TSMB",
@@ -41,6 +41,14 @@
    "from_btc_pct": 34,
    "verdict": "Neutral",
    "file": "SOXSB.png"
+  },
+  {
+   "symbol": "WLFI",
+   "name": "World Liberty Financial",
+   "sigma": 3.13,
+   "from_btc_pct": 3,
+   "verdict": "Oversold",
+   "file": "WLFI.png"
   },
   {
    "symbol": "MUUB",
@@ -89,14 +97,6 @@
    "from_btc_pct": 32,
    "verdict": "Oversold",
    "file": "IRENB.png"
-  },
-  {
-   "symbol": "MRVLB",
-   "name": "Marvell Technology (bStocks Tokenized Stock)",
-   "sigma": 2.55,
-   "from_btc_pct": 23,
-   "verdict": "Oversold",
-   "file": "MRVLB.png"
   }
  ]
 }
