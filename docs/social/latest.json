@@ -1,44 +1,12 @@
 {
- "date": "2026-11-22",
- "generated_at": "2026-11-22T22:45:53.096435+00:00",
+ "date": "2026-11-23",
+ "generated_at": "2026-11-23T03:30:53.832107+00:00",
  "assets": [
-  {
-   "symbol": "XVG",
-   "name": "Verge",
-   "sigma": 7.12,
-   "from_btc_pct": 38,
-   "verdict": "Oversold",
-   "file": "XVG.png"
-  },
-  {
-   "symbol": "LISTA",
-   "name": "Lista DAO",
-   "sigma": 3.22,
-   "from_btc_pct": 40,
-   "verdict": "Neutral",
-   "file": "LISTA.png"
-  },
-  {
-   "symbol": "ALLO",
-   "name": "Allora",
-   "sigma": 2.96,
-   "from_btc_pct": 6,
-   "verdict": "Oversold",
-   "file": "ALLO.png"
-  },
-  {
-   "symbol": "AIGENSYN",
-   "name": "Gensyn",
-   "sigma": 2.92,
-   "from_btc_pct": 18,
-   "verdict": "Neutral",
-   "file": "AIGENSYN.png"
-  },
   {
    "symbol": "ACE",
    "name": "Fusionist",
-   "sigma": 2.67,
-   "from_btc_pct": 20,
+   "sigma": 2.92,
+   "from_btc_pct": 16,
    "verdict": "Oversold",
    "file": "ACE.png"
   }
