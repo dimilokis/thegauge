@@ -1,7 +1,15 @@
 {
  "date": "2026-11-23",
- "generated_at": "2026-11-23T14:01:05.270939+00:00",
+ "generated_at": "2026-11-23T14:16:02.433379+00:00",
  "assets": [
+  {
+   "symbol": "TSMB",
+   "name": "TSMC (bStocks Tokenized Stock)",
+   "sigma": 5.55,
+   "from_btc_pct": 32,
+   "verdict": "Neutral",
+   "file": "TSMB.png"
+  },
   {
    "symbol": "CYBER",
    "name": "CYBER",
@@ -51,12 +59,28 @@
    "file": "SKY.png"
   },
   {
+   "symbol": "SKHYB",
+   "name": "SK Hynix (bStocks Tokenized Stock)",
+   "sigma": 2.67,
+   "from_btc_pct": 34,
+   "verdict": "Neutral",
+   "file": "SKHYB.png"
+  },
+  {
    "symbol": "LUNC",
    "name": "Terra Luna Classic",
    "sigma": 2.57,
    "from_btc_pct": 17,
    "verdict": "Neutral",
    "file": "LUNC.png"
+  },
+  {
+   "symbol": "MRVLB",
+   "name": "Marvell Technology (bStocks Tokenized Stock)",
+   "sigma": 2.52,
+   "from_btc_pct": 29,
+   "verdict": "Oversold",
+   "file": "MRVLB.png"
   }
  ]
 }
