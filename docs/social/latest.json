@@ -1,6 +1,6 @@
 {
  "date": "2026-11-23",
- "generated_at": "2026-11-23T14:16:02.433379+00:00",
+ "generated_at": "2026-11-23T15:01:03.256969+00:00",
  "assets": [
   {
    "symbol": "TSMB",
@@ -35,12 +35,12 @@
    "file": "SOXSB.png"
   },
   {
-   "symbol": "AIGENSYN",
-   "name": "Gensyn",
-   "sigma": 3.08,
-   "from_btc_pct": 18,
-   "verdict": "Neutral",
-   "file": "AIGENSYN.png"
+   "symbol": "MUUB",
+   "name": "Direxion MU Bull 2X ETF (bStocks Tokenized ETF)",
+   "sigma": 2.94,
+   "from_btc_pct": 32,
+   "verdict": "Oversold",
+   "file": "MUUB.png"
   },
   {
    "symbol": "ACE",
@@ -49,6 +49,14 @@
    "from_btc_pct": 16,
    "verdict": "Oversold",
    "file": "ACE.png"
+  },
+  {
+   "symbol": "AIGENSYN",
+   "name": "Gensyn",
+   "sigma": 2.74,
+   "from_btc_pct": 23,
+   "verdict": "Neutral",
+   "file": "AIGENSYN.png"
   },
   {
    "symbol": "SKY",
@@ -67,20 +75,20 @@
    "file": "SKHYB.png"
   },
   {
+   "symbol": "MRVLB",
+   "name": "Marvell Technology (bStocks Tokenized Stock)",
+   "sigma": 2.62,
+   "from_btc_pct": 29,
+   "verdict": "Oversold",
+   "file": "MRVLB.png"
+  },
+  {
    "symbol": "LUNC",
    "name": "Terra Luna Classic",
    "sigma": 2.57,
    "from_btc_pct": 17,
    "verdict": "Neutral",
    "file": "LUNC.png"
-  },
-  {
-   "symbol": "MRVLB",
-   "name": "Marvell Technology (bStocks Tokenized Stock)",
-   "sigma": 2.52,
-   "from_btc_pct": 29,
-   "verdict": "Oversold",
-   "file": "MRVLB.png"
   }
  ]
 }
