@@ -1,6 +1,6 @@
 {
  "date": "2026-11-23",
- "generated_at": "2026-11-23T18:45:51.020375+00:00",
+ "generated_at": "2026-11-23T20:23:46.775679+00:00",
  "assets": [
   {
    "symbol": "TSMB",
@@ -93,8 +93,8 @@
   {
    "symbol": "MRVLB",
    "name": "Marvell Technology (bStocks Tokenized Stock)",
-   "sigma": 2.56,
-   "from_btc_pct": 26,
+   "sigma": 2.55,
+   "from_btc_pct": 22,
    "verdict": "Oversold",
    "file": "MRVLB.png"
   }
