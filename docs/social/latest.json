@@ -1,7 +1,15 @@
 {
  "date": "2026-11-23",
- "generated_at": "2026-11-23T05:15:55.206723+00:00",
+ "generated_at": "2026-11-23T07:31:00.086952+00:00",
  "assets": [
+  {
+   "symbol": "AIGENSYN",
+   "name": "Gensyn",
+   "sigma": 2.94,
+   "from_btc_pct": 18,
+   "verdict": "Neutral",
+   "file": "AIGENSYN.png"
+  },
   {
    "symbol": "ACE",
    "name": "Fusionist",
@@ -9,14 +17,6 @@
    "from_btc_pct": 16,
    "verdict": "Oversold",
    "file": "ACE.png"
-  },
-  {
-   "symbol": "AIGENSYN",
-   "name": "Gensyn",
-   "sigma": 2.57,
-   "from_btc_pct": 17,
-   "verdict": "Neutral",
-   "file": "AIGENSYN.png"
   }
  ]
 }
