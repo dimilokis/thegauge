@@ -1,6 +1,6 @@
 {
  "date": "2026-11-23",
- "generated_at": "2026-11-23T16:16:00.601175+00:00",
+ "generated_at": "2026-11-23T16:31:01.711640+00:00",
  "assets": [
   {
    "symbol": "TSMB",
@@ -41,6 +41,14 @@
    "from_btc_pct": 34,
    "verdict": "Neutral",
    "file": "SOXSB.png"
+  },
+  {
+   "symbol": "IRENB",
+   "name": "IREN Limited (bStocks Tokenized Stock)",
+   "sigma": 3.32,
+   "from_btc_pct": 37,
+   "verdict": "Oversold",
+   "file": "IRENB.png"
   },
   {
    "symbol": "MUUB",
@@ -89,14 +97,6 @@
    "from_btc_pct": 29,
    "verdict": "Oversold",
    "file": "MRVLB.png"
-  },
-  {
-   "symbol": "LUNC",
-   "name": "Terra Luna Classic",
-   "sigma": 2.57,
-   "from_btc_pct": 17,
-   "verdict": "Neutral",
-   "file": "LUNC.png"
   }
  ]
 }

@@ -755,6 +755,10 @@
   "icon": "https://coin-images.coingecko.com/coins/images/5010/large/iq_logo_1.png?1752115886",
   "name": "IQ"
  },
+ "IRENB": {
+  "icon": "https://coin-images.coingecko.com/coins/images/102175302/large/irenb.png",
+  "name": "IREN Limited (bStocks Tokenized Stock)"
+ },
  "JASMY": {
   "icon": "https://coin-images.coingecko.com/coins/images/13876/large/JASMY200x200.jpg?1696513620",
   "name": "JasmyCoin"
