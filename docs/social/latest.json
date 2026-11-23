@@ -1,7 +1,15 @@
 {
  "date": "2026-11-23",
- "generated_at": "2026-11-23T12:30:49.068268+00:00",
+ "generated_at": "2026-11-23T13:15:57.355097+00:00",
  "assets": [
+  {
+   "symbol": "CYBER",
+   "name": "CYBER",
+   "sigma": 5.28,
+   "from_btc_pct": 2,
+   "verdict": "Neutral",
+   "file": "CYBER.png"
+  },
   {
    "symbol": "PROM",
    "name": "Prom",
