@@ -1,11 +1,11 @@
 {
  "date": "2026-11-23",
- "generated_at": "2026-11-23T11:31:03.797730+00:00",
+ "generated_at": "2026-11-23T12:30:49.068268+00:00",
  "assets": [
   {
    "symbol": "PROM",
    "name": "Prom",
-   "sigma": 3.72,
+   "sigma": 3.77,
    "from_btc_pct": 12,
    "verdict": "Neutral",
    "file": "PROM.png"
