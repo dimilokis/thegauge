@@ -1,6 +1,6 @@
 {
  "date": "2026-11-23",
- "generated_at": "2026-11-23T08:01:04.036278+00:00",
+ "generated_at": "2026-11-23T11:01:02.252571+00:00",
  "assets": [
   {
    "symbol": "AIGENSYN",
@@ -17,6 +17,22 @@
    "from_btc_pct": 16,
    "verdict": "Oversold",
    "file": "ACE.png"
+  },
+  {
+   "symbol": "SKY",
+   "name": "Sky",
+   "sigma": 2.67,
+   "from_btc_pct": 20,
+   "verdict": "Oversold",
+   "file": "SKY.png"
+  },
+  {
+   "symbol": "LUNC",
+   "name": "Terra Luna Classic",
+   "sigma": 2.53,
+   "from_btc_pct": 12,
+   "verdict": "Neutral",
+   "file": "LUNC.png"
   }
  ]
 }
