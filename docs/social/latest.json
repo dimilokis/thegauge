@@ -1,6 +1,6 @@
 {
  "date": "2026-11-23",
- "generated_at": "2026-11-23T13:15:57.355097+00:00",
+ "generated_at": "2026-11-23T14:01:05.270939+00:00",
  "assets": [
   {
    "symbol": "CYBER",
@@ -17,6 +17,14 @@
    "from_btc_pct": 12,
    "verdict": "Neutral",
    "file": "PROM.png"
+  },
+  {
+   "symbol": "SOXSB",
+   "name": "Direxion Semiconductor Bear 3X ETF (bStocks Tokenized ETF)",
+   "sigma": 3.57,
+   "from_btc_pct": 34,
+   "verdict": "Neutral",
+   "file": "SOXSB.png"
   },
   {
    "symbol": "AIGENSYN",
@@ -45,8 +53,8 @@
   {
    "symbol": "LUNC",
    "name": "Terra Luna Classic",
-   "sigma": 2.53,
-   "from_btc_pct": 12,
+   "sigma": 2.57,
+   "from_btc_pct": 17,
    "verdict": "Neutral",
    "file": "LUNC.png"
   }
