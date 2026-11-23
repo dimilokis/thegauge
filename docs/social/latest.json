@@ -1,6 +1,6 @@
 {
  "date": "2026-11-23",
- "generated_at": "2026-11-23T03:30:53.832107+00:00",
+ "generated_at": "2026-11-23T05:15:55.206723+00:00",
  "assets": [
   {
    "symbol": "ACE",
@@ -9,6 +9,14 @@
    "from_btc_pct": 16,
    "verdict": "Oversold",
    "file": "ACE.png"
+  },
+  {
+   "symbol": "AIGENSYN",
+   "name": "Gensyn",
+   "sigma": 2.57,
+   "from_btc_pct": 17,
+   "verdict": "Neutral",
+   "file": "AIGENSYN.png"
   }
  ]
 }
