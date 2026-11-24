@@ -1,6 +1,6 @@
 {
  "date": "2026-11-24",
- "generated_at": "2026-11-24T14:30:59.185306+00:00",
+ "generated_at": "2026-11-24T15:15:51.183264+00:00",
  "assets": [
   {
    "symbol": "ATM",
@@ -9,6 +9,14 @@
    "from_btc_pct": 7,
    "verdict": "Neutral",
    "file": "ATM.png"
+  },
+  {
+   "symbol": "AT",
+   "name": "Apro",
+   "sigma": 3.4,
+   "from_btc_pct": 0,
+   "verdict": "Oversold",
+   "file": "AT.png"
   },
   {
    "symbol": "LUNC",
