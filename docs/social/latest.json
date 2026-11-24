@@ -1,6 +1,6 @@
 {
  "date": "2026-11-24",
- "generated_at": "2026-11-24T16:45:52.624908+00:00",
+ "generated_at": "2026-11-24T17:01:05.423537+00:00",
  "assets": [
   {
    "symbol": "ATM",
@@ -9,6 +9,14 @@
    "from_btc_pct": 7,
    "verdict": "Neutral",
    "file": "ATM.png"
+  },
+  {
+   "symbol": "ASR",
+   "name": "AS Roma Fan Token",
+   "sigma": 4.26,
+   "from_btc_pct": 23,
+   "verdict": "Neutral",
+   "file": "ASR.png"
   },
   {
    "symbol": "RPL",
