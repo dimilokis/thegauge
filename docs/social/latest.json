@@ -1,15 +1,7 @@
 {
  "date": "2026-11-24",
- "generated_at": "2026-11-24T06:45:54.938300+00:00",
+ "generated_at": "2026-11-24T08:15:52.988220+00:00",
  "assets": [
-  {
-   "symbol": "LISTA",
-   "name": "Lista DAO",
-   "sigma": 2.8,
-   "from_btc_pct": 20,
-   "verdict": "Overbought",
-   "file": "LISTA.png"
-  },
   {
    "symbol": "RE",
    "name": "RE",
@@ -25,6 +17,14 @@
    "from_btc_pct": 0,
    "verdict": "Overbought",
    "file": "MMT.png"
+  },
+  {
+   "symbol": "LISTA",
+   "name": "Lista DAO",
+   "sigma": 2.54,
+   "from_btc_pct": 20,
+   "verdict": "Overbought",
+   "file": "LISTA.png"
   },
   {
    "symbol": "AIGENSYN",
