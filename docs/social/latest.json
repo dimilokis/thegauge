@@ -1,6 +1,6 @@
 {
  "date": "2026-11-24",
- "generated_at": "2026-11-24T08:15:52.988220+00:00",
+ "generated_at": "2026-11-24T08:30:59.030219+00:00",
  "assets": [
   {
    "symbol": "RE",
@@ -19,20 +19,20 @@
    "file": "MMT.png"
   },
   {
+   "symbol": "AIGENSYN",
+   "name": "Gensyn",
+   "sigma": 2.57,
+   "from_btc_pct": 14,
+   "verdict": "Neutral",
+   "file": "AIGENSYN.png"
+  },
+  {
    "symbol": "LISTA",
    "name": "Lista DAO",
    "sigma": 2.54,
    "from_btc_pct": 20,
    "verdict": "Overbought",
    "file": "LISTA.png"
-  },
-  {
-   "symbol": "AIGENSYN",
-   "name": "Gensyn",
-   "sigma": 2.51,
-   "from_btc_pct": 16,
-   "verdict": "Neutral",
-   "file": "AIGENSYN.png"
   }
  ]
 }
