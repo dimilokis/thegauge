@@ -1,6 +1,6 @@
 {
  "date": "2026-11-24",
- "generated_at": "2026-11-24T15:46:20.313768+00:00",
+ "generated_at": "2026-11-24T16:45:52.624908+00:00",
  "assets": [
   {
    "symbol": "ATM",
@@ -67,6 +67,14 @@
    "file": "SNXXB.png"
   },
   {
+   "symbol": "AIGENSYN",
+   "name": "Gensyn",
+   "sigma": 2.68,
+   "from_btc_pct": 12,
+   "verdict": "Neutral",
+   "file": "AIGENSYN.png"
+  },
+  {
    "symbol": "SOXSB",
    "name": "Direxion Semiconductor Bear 3X ETF (bStocks Tokenized ETF)",
    "sigma": 2.62,
@@ -81,14 +89,6 @@
    "from_btc_pct": 28,
    "verdict": "Neutral",
    "file": "SKHYB.png"
-  },
-  {
-   "symbol": "AIGENSYN",
-   "name": "Gensyn",
-   "sigma": 2.57,
-   "from_btc_pct": 14,
-   "verdict": "Neutral",
-   "file": "AIGENSYN.png"
   }
  ]
 }
