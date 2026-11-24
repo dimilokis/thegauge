@@ -1,6 +1,6 @@
 {
  "date": "2026-11-24",
- "generated_at": "2026-11-24T11:01:05.842171+00:00",
+ "generated_at": "2026-11-24T13:00:58.660835+00:00",
  "assets": [
   {
    "symbol": "ATM",
@@ -13,8 +13,8 @@
   {
    "symbol": "LISTA",
    "name": "Lista DAO",
-   "sigma": 3.22,
-   "from_btc_pct": 16,
+   "sigma": 3.82,
+   "from_btc_pct": 18,
    "verdict": "Overbought",
    "file": "LISTA.png"
   },
