@@ -1,6 +1,6 @@
 {
  "date": "2026-11-23",
- "generated_at": "2026-11-23T23:15:55.338053+00:00",
+ "generated_at": "2026-11-24T02:16:03.662631+00:00",
  "assets": [
   {
    "symbol": "TSMB",
@@ -25,6 +25,14 @@
    "from_btc_pct": 2,
    "verdict": "Neutral",
    "file": "CYBER.png"
+  },
+  {
+   "symbol": "SAHARA",
+   "name": "Sahara AI",
+   "sigma": 4.06,
+   "from_btc_pct": 28,
+   "verdict": "Oversold",
+   "file": "SAHARA.png"
   },
   {
    "symbol": "PROM",
@@ -89,14 +97,6 @@
    "from_btc_pct": 34,
    "verdict": "Neutral",
    "file": "SKHYB.png"
-  },
-  {
-   "symbol": "IRENB",
-   "name": "IREN Limited (bStocks Tokenized Stock)",
-   "sigma": 2.65,
-   "from_btc_pct": 32,
-   "verdict": "Oversold",
-   "file": "IRENB.png"
   }
  ]
 }
