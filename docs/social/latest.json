@@ -1,6 +1,6 @@
 {
  "date": "2026-11-24",
- "generated_at": "2026-11-24T19:45:52.250387+00:00",
+ "generated_at": "2026-11-24T20:30:53.326795+00:00",
  "assets": [
   {
    "symbol": "ATM",
@@ -35,6 +35,14 @@
    "file": "AT.png"
   },
   {
+   "symbol": "OPG",
+   "name": "OpenGradient",
+   "sigma": 3.14,
+   "from_btc_pct": 7,
+   "verdict": "Overbought",
+   "file": "OPG.png"
+  },
+  {
    "symbol": "LISTA",
    "name": "Lista DAO",
    "sigma": 2.8,
@@ -67,22 +75,6 @@
    "file": "LUNC.png"
   },
   {
-   "symbol": "SNXXB",
-   "name": "Tradr 2X Long SNDK ETF (bStocks Tokenized ETF)",
-   "sigma": 2.68,
-   "from_btc_pct": 34,
-   "verdict": "Oversold",
-   "file": "SNXXB.png"
-  },
-  {
-   "symbol": "AIGENSYN",
-   "name": "Gensyn",
-   "sigma": 2.65,
-   "from_btc_pct": 13,
-   "verdict": "Neutral",
-   "file": "AIGENSYN.png"
-  },
-  {
    "symbol": "SOXSB",
    "name": "Direxion Semiconductor Bear 3X ETF (bStocks Tokenized ETF)",
    "sigma": 2.62,
@@ -91,12 +83,20 @@
    "file": "SOXSB.png"
   },
   {
-   "symbol": "SKHYB",
-   "name": "SK Hynix (bStocks Tokenized Stock)",
+   "symbol": "SNXXB",
+   "name": "Tradr 2X Long SNDK ETF (bStocks Tokenized ETF)",
+   "sigma": 2.61,
+   "from_btc_pct": 35,
+   "verdict": "Oversold",
+   "file": "SNXXB.png"
+  },
+  {
+   "symbol": "AIGENSYN",
+   "name": "Gensyn",
    "sigma": 2.51,
-   "from_btc_pct": 28,
+   "from_btc_pct": 12,
    "verdict": "Neutral",
-   "file": "SKHYB.png"
+   "file": "AIGENSYN.png"
   }
  ]
 }
