@@ -1,6 +1,6 @@
 {
  "date": "2026-11-24",
- "generated_at": "2026-11-24T05:45:48.679666+00:00",
+ "generated_at": "2026-11-24T06:30:59.132663+00:00",
  "assets": [
   {
    "symbol": "LISTA",
@@ -14,7 +14,7 @@
    "symbol": "AIGENSYN",
    "name": "Gensyn",
    "sigma": 2.51,
-   "from_btc_pct": 17,
+   "from_btc_pct": 16,
    "verdict": "Neutral",
    "file": "AIGENSYN.png"
   }
