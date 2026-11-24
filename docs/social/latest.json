@@ -1,12 +1,12 @@
 {
  "date": "2026-11-24",
- "generated_at": "2026-11-24T10:15:55.085840+00:00",
+ "generated_at": "2026-11-24T10:45:48.383037+00:00",
  "assets": [
   {
    "symbol": "LISTA",
    "name": "Lista DAO",
-   "sigma": 3.64,
-   "from_btc_pct": 18,
+   "sigma": 3.22,
+   "from_btc_pct": 16,
    "verdict": "Overbought",
    "file": "LISTA.png"
   },
