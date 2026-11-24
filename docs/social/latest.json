@@ -1,6 +1,6 @@
 {
  "date": "2026-11-24",
- "generated_at": "2026-11-24T17:15:55.904646+00:00",
+ "generated_at": "2026-11-24T19:45:52.250387+00:00",
  "assets": [
   {
    "symbol": "ATM",
@@ -33,14 +33,6 @@
    "from_btc_pct": 0,
    "verdict": "Oversold",
    "file": "AT.png"
-  },
-  {
-   "symbol": "AIGENSYN",
-   "name": "Gensyn",
-   "sigma": 3.09,
-   "from_btc_pct": 12,
-   "verdict": "Neutral",
-   "file": "AIGENSYN.png"
   },
   {
    "symbol": "LISTA",
@@ -83,6 +75,14 @@
    "file": "SNXXB.png"
   },
   {
+   "symbol": "AIGENSYN",
+   "name": "Gensyn",
+   "sigma": 2.65,
+   "from_btc_pct": 13,
+   "verdict": "Neutral",
+   "file": "AIGENSYN.png"
+  },
+  {
    "symbol": "SOXSB",
    "name": "Direxion Semiconductor Bear 3X ETF (bStocks Tokenized ETF)",
    "sigma": 2.62,
@@ -93,7 +93,7 @@
   {
    "symbol": "SKHYB",
    "name": "SK Hynix (bStocks Tokenized Stock)",
-   "sigma": 2.61,
+   "sigma": 2.51,
    "from_btc_pct": 28,
    "verdict": "Neutral",
    "file": "SKHYB.png"
