@@ -1,7 +1,15 @@
 {
  "date": "2026-11-24",
- "generated_at": "2026-11-24T10:45:48.383037+00:00",
+ "generated_at": "2026-11-24T11:01:05.842171+00:00",
  "assets": [
+  {
+   "symbol": "ATM",
+   "name": "Atletico Madrid Fan Token",
+   "sigma": 8.49,
+   "from_btc_pct": 7,
+   "verdict": "Neutral",
+   "file": "ATM.png"
+  },
   {
    "symbol": "LISTA",
    "name": "Lista DAO",
