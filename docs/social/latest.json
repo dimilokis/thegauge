@@ -1,6 +1,6 @@
 {
  "date": "2026-11-24",
- "generated_at": "2026-11-24T20:30:53.326795+00:00",
+ "generated_at": "2026-11-24T23:30:59.496926+00:00",
  "assets": [
   {
    "symbol": "ATM",
@@ -17,6 +17,14 @@
    "from_btc_pct": 23,
    "verdict": "Neutral",
    "file": "ASR.png"
+  },
+  {
+   "symbol": "LISTA",
+   "name": "Lista DAO",
+   "sigma": 3.94,
+   "from_btc_pct": 16,
+   "verdict": "Overbought",
+   "file": "LISTA.png"
   },
   {
    "symbol": "RPL",
@@ -41,14 +49,6 @@
    "from_btc_pct": 7,
    "verdict": "Overbought",
    "file": "OPG.png"
-  },
-  {
-   "symbol": "LISTA",
-   "name": "Lista DAO",
-   "sigma": 2.8,
-   "from_btc_pct": 21,
-   "verdict": "Overbought",
-   "file": "LISTA.png"
   },
   {
    "symbol": "RE",
