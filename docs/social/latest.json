@@ -1,6 +1,6 @@
 {
  "date": "2026-11-24",
- "generated_at": "2026-11-24T17:01:05.423537+00:00",
+ "generated_at": "2026-11-24T17:15:55.904646+00:00",
  "assets": [
   {
    "symbol": "ATM",
@@ -35,12 +35,12 @@
    "file": "AT.png"
   },
   {
-   "symbol": "LUNC",
-   "name": "Terra Luna Classic",
-   "sigma": 2.86,
-   "from_btc_pct": 9,
+   "symbol": "AIGENSYN",
+   "name": "Gensyn",
+   "sigma": 3.09,
+   "from_btc_pct": 12,
    "verdict": "Neutral",
-   "file": "LUNC.png"
+   "file": "AIGENSYN.png"
   },
   {
    "symbol": "LISTA",
@@ -67,20 +67,20 @@
    "file": "MMT.png"
   },
   {
+   "symbol": "LUNC",
+   "name": "Terra Luna Classic",
+   "sigma": 2.71,
+   "from_btc_pct": 8,
+   "verdict": "Neutral",
+   "file": "LUNC.png"
+  },
+  {
    "symbol": "SNXXB",
    "name": "Tradr 2X Long SNDK ETF (bStocks Tokenized ETF)",
    "sigma": 2.68,
    "from_btc_pct": 34,
    "verdict": "Oversold",
    "file": "SNXXB.png"
-  },
-  {
-   "symbol": "AIGENSYN",
-   "name": "Gensyn",
-   "sigma": 2.68,
-   "from_btc_pct": 12,
-   "verdict": "Neutral",
-   "file": "AIGENSYN.png"
   },
   {
    "symbol": "SOXSB",
