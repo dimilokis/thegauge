@@ -1,6 +1,6 @@
 {
  "date": "2026-11-24",
- "generated_at": "2026-11-24T15:15:51.183264+00:00",
+ "generated_at": "2026-11-24T15:30:57.556395+00:00",
  "assets": [
   {
    "symbol": "ATM",
@@ -49,6 +49,14 @@
    "from_btc_pct": 0,
    "verdict": "Overbought",
    "file": "MMT.png"
+  },
+  {
+   "symbol": "SNXXB",
+   "name": "Tradr 2X Long SNDK ETF (bStocks Tokenized ETF)",
+   "sigma": 2.68,
+   "from_btc_pct": 34,
+   "verdict": "Oversold",
+   "file": "SNXXB.png"
   },
   {
    "symbol": "AIGENSYN",
