@@ -1247,6 +1247,10 @@
   "icon": "https://coin-images.coingecko.com/coins/images/13162/large/200x200_%28Rounded%29.png?1743579893",
   "name": "Oasis"
  },
+ "RPL": {
+  "icon": "https://coin-images.coingecko.com/coins/images/2090/large/rocket_pool_%28RPL%29.png",
+  "name": "Rocket Pool"
+ },
  "RSR": {
   "icon": "https://coin-images.coingecko.com/coins/images/8365/large/RSR_Blue_Circle_1000.png?1721777856",
   "name": "Reserve Rights"
