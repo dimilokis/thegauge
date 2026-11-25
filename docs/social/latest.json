@@ -1,13 +1,13 @@
 {
  "date": "2026-11-25",
- "generated_at": "2026-11-25T03:15:51.394718+00:00",
+ "generated_at": "2026-11-25T04:15:49.680339+00:00",
  "assets": [
   {
    "symbol": "BIGTIME",
    "name": "Big Time",
-   "sigma": 3.33,
-   "from_btc_pct": 21,
-   "verdict": "Oversold",
+   "sigma": 21.75,
+   "from_btc_pct": 3,
+   "verdict": "Neutral",
    "file": "BIGTIME.png"
   }
  ]
