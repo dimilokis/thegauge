@@ -1,6 +1,6 @@
 {
  "date": "2026-11-25",
- "generated_at": "2026-11-25T19:16:02.874689+00:00",
+ "generated_at": "2026-11-25T20:15:55.658092+00:00",
  "assets": [
   {
    "symbol": "BIGTIME",
@@ -41,6 +41,14 @@
    "from_btc_pct": 11,
    "verdict": "Oversold",
    "file": "USUAL.png"
+  },
+  {
+   "symbol": "AT",
+   "name": "Apro",
+   "sigma": 3.17,
+   "from_btc_pct": 1,
+   "verdict": "Oversold",
+   "file": "AT.png"
   },
   {
    "symbol": "TQQQB",
@@ -89,14 +97,6 @@
    "from_btc_pct": 13,
    "verdict": "Overbought",
    "file": "LISTA.png"
-  },
-  {
-   "symbol": "AT",
-   "name": "Apro",
-   "sigma": 2.6,
-   "from_btc_pct": 1,
-   "verdict": "Oversold",
-   "file": "AT.png"
   }
  ]
 }
