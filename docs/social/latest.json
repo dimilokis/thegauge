@@ -1,6 +1,6 @@
 {
  "date": "2026-11-25",
- "generated_at": "2026-11-25T09:16:00.170561+00:00",
+ "generated_at": "2026-11-25T10:30:55.932759+00:00",
  "assets": [
   {
    "symbol": "BIGTIME",
@@ -43,6 +43,14 @@
    "file": "BABY.png"
   },
   {
+   "symbol": "ATM",
+   "name": "Atletico Madrid Fan Token",
+   "sigma": 2.97,
+   "from_btc_pct": 3,
+   "verdict": "Neutral",
+   "file": "ATM.png"
+  },
+  {
    "symbol": "LISTA",
    "name": "Lista DAO",
    "sigma": 2.66,
@@ -57,14 +65,6 @@
    "from_btc_pct": 15,
    "verdict": "Oversold",
    "file": "SAHARA.png"
-  },
-  {
-   "symbol": "ATM",
-   "name": "Atletico Madrid Fan Token",
-   "sigma": 2.62,
-   "from_btc_pct": 4,
-   "verdict": "Neutral",
-   "file": "ATM.png"
   }
  ]
 }
