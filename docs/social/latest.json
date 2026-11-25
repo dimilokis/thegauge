@@ -1,6 +1,6 @@
 {
  "date": "2026-11-24",
- "generated_at": "2026-11-24T23:45:52.411384+00:00",
+ "generated_at": "2026-11-25T00:46:01.442356+00:00",
  "assets": [
   {
    "symbol": "ATM",
@@ -59,6 +59,14 @@
    "file": "RE.png"
   },
   {
+   "symbol": "BIGTIME",
+   "name": "Big Time",
+   "sigma": 2.76,
+   "from_btc_pct": 22,
+   "verdict": "Oversold",
+   "file": "BIGTIME.png"
+  },
+  {
    "symbol": "MMT",
    "name": "Momentum",
    "sigma": 2.73,
@@ -89,14 +97,6 @@
    "from_btc_pct": 26,
    "verdict": "Neutral",
    "file": "SOXSB.png"
-  },
-  {
-   "symbol": "SNXXB",
-   "name": "Tradr 2X Long SNDK ETF (bStocks Tokenized ETF)",
-   "sigma": 2.61,
-   "from_btc_pct": 35,
-   "verdict": "Oversold",
-   "file": "SNXXB.png"
   }
  ]
 }
