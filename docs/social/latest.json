@@ -1,6 +1,6 @@
 {
  "date": "2026-11-25",
- "generated_at": "2026-11-25T17:46:01.818147+00:00",
+ "generated_at": "2026-11-25T18:01:05.878646+00:00",
  "assets": [
   {
    "symbol": "BIGTIME",
@@ -83,20 +83,20 @@
    "file": "LAYER.png"
   },
   {
+   "symbol": "WLFI",
+   "name": "World Liberty Financial",
+   "sigma": 2.7,
+   "from_btc_pct": 4,
+   "verdict": "Neutral",
+   "file": "WLFI.png"
+  },
+  {
    "symbol": "LISTA",
    "name": "Lista DAO",
    "sigma": 2.66,
    "from_btc_pct": 13,
    "verdict": "Overbought",
    "file": "LISTA.png"
-  },
-  {
-   "symbol": "SAHARA",
-   "name": "Sahara AI",
-   "sigma": 2.63,
-   "from_btc_pct": 15,
-   "verdict": "Oversold",
-   "file": "SAHARA.png"
   }
  ]
 }
