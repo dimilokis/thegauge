@@ -1,6 +1,6 @@
 {
  "date": "2026-11-25",
- "generated_at": "2026-11-25T20:15:55.658092+00:00",
+ "generated_at": "2026-11-25T21:01:01.768434+00:00",
  "assets": [
   {
    "symbol": "BIGTIME",
@@ -17,6 +17,14 @@
    "from_btc_pct": 20,
    "verdict": "Oversold",
    "file": "MANTRA.png"
+  },
+  {
+   "symbol": "CFG",
+   "name": "Centrifuge",
+   "sigma": 7.08,
+   "from_btc_pct": 22,
+   "verdict": "Oversold",
+   "file": "CFG.png"
   },
   {
    "symbol": "SSV",
@@ -89,14 +97,6 @@
    "from_btc_pct": 4,
    "verdict": "Neutral",
    "file": "WLFI.png"
-  },
-  {
-   "symbol": "LISTA",
-   "name": "Lista DAO",
-   "sigma": 2.66,
-   "from_btc_pct": 13,
-   "verdict": "Overbought",
-   "file": "LISTA.png"
   }
  ]
 }
