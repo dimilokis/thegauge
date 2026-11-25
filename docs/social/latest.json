@@ -1,6 +1,6 @@
 {
  "date": "2026-11-25",
- "generated_at": "2026-11-25T14:45:57.271045+00:00",
+ "generated_at": "2026-11-25T15:15:51.951764+00:00",
  "assets": [
   {
    "symbol": "BIGTIME",
@@ -51,14 +51,6 @@
    "file": "ATM.png"
   },
   {
-   "symbol": "TSMB",
-   "name": "TSMC (bStocks Tokenized Stock)",
-   "sigma": 2.78,
-   "from_btc_pct": 25,
-   "verdict": "Oversold",
-   "file": "TSMB.png"
-  },
-  {
    "symbol": "WAXP",
    "name": "WAX",
    "sigma": 2.77,
@@ -97,6 +89,14 @@
    "from_btc_pct": 0,
    "verdict": "Overbought",
    "file": "MMT.png"
+  },
+  {
+   "symbol": "TSMB",
+   "name": "TSMC (bStocks Tokenized Stock)",
+   "sigma": 2.56,
+   "from_btc_pct": 24,
+   "verdict": "Oversold",
+   "file": "TSMB.png"
   }
  ]
 }
