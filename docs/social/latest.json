@@ -1,6 +1,6 @@
 {
  "date": "2026-11-25",
- "generated_at": "2026-11-25T08:45:52.955241+00:00",
+ "generated_at": "2026-11-25T09:16:00.170561+00:00",
  "assets": [
   {
    "symbol": "BIGTIME",
@@ -25,6 +25,14 @@
    "from_btc_pct": 20,
    "verdict": "Oversold",
    "file": "MANTRA.png"
+  },
+  {
+   "symbol": "SSV",
+   "name": "SSV Network",
+   "sigma": 4.84,
+   "from_btc_pct": 33,
+   "verdict": "Oversold",
+   "file": "SSV.png"
   },
   {
    "symbol": "BABY",
