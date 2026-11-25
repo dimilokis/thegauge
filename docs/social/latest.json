@@ -1,6 +1,6 @@
 {
  "date": "2026-11-25",
- "generated_at": "2026-11-25T16:15:53.807864+00:00",
+ "generated_at": "2026-11-25T17:31:02.556780+00:00",
  "assets": [
   {
    "symbol": "BIGTIME",
@@ -41,6 +41,14 @@
    "from_btc_pct": 11,
    "verdict": "Oversold",
    "file": "USUAL.png"
+  },
+  {
+   "symbol": "AT",
+   "name": "Apro",
+   "sigma": 3.34,
+   "from_btc_pct": 0,
+   "verdict": "Oversold",
+   "file": "AT.png"
   },
   {
    "symbol": "TQQQB",
@@ -89,14 +97,6 @@
    "from_btc_pct": 15,
    "verdict": "Oversold",
    "file": "SAHARA.png"
-  },
-  {
-   "symbol": "ATM",
-   "name": "Atletico Madrid Fan Token",
-   "sigma": 2.62,
-   "from_btc_pct": 5,
-   "verdict": "Neutral",
-   "file": "ATM.png"
   }
  ]
 }
