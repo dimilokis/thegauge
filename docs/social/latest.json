@@ -1,6 +1,6 @@
 {
  "date": "2026-11-25",
- "generated_at": "2026-11-25T18:01:05.878646+00:00",
+ "generated_at": "2026-11-25T18:15:54.338435+00:00",
  "assets": [
   {
    "symbol": "BIGTIME",
@@ -45,7 +45,7 @@
   {
    "symbol": "AT",
    "name": "Apro",
-   "sigma": 3.34,
+   "sigma": 3.39,
    "from_btc_pct": 0,
    "verdict": "Oversold",
    "file": "AT.png"
