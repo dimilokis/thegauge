@@ -1,6 +1,6 @@
 {
  "date": "2026-11-25",
- "generated_at": "2026-11-25T07:15:51.185918+00:00",
+ "generated_at": "2026-11-25T08:16:02.566110+00:00",
  "assets": [
   {
    "symbol": "BIGTIME",
@@ -49,6 +49,14 @@
    "from_btc_pct": 16,
    "verdict": "Oversold",
    "file": "SAHARA.png"
+  },
+  {
+   "symbol": "ATM",
+   "name": "Atletico Madrid Fan Token",
+   "sigma": 2.62,
+   "from_btc_pct": 4,
+   "verdict": "Neutral",
+   "file": "ATM.png"
   }
  ]
 }
