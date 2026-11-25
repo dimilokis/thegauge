@@ -1,6 +1,6 @@
 {
  "date": "2026-11-25",
- "generated_at": "2026-11-25T08:16:02.566110+00:00",
+ "generated_at": "2026-11-25T08:45:52.955241+00:00",
  "assets": [
   {
    "symbol": "BIGTIME",
@@ -46,7 +46,7 @@
    "symbol": "SAHARA",
    "name": "Sahara AI",
    "sigma": 2.63,
-   "from_btc_pct": 16,
+   "from_btc_pct": 15,
    "verdict": "Oversold",
    "file": "SAHARA.png"
   },
