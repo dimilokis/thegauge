@@ -1,102 +1,14 @@
 {
- "date": "2026-11-24",
- "generated_at": "2026-11-25T02:01:39.796285+00:00",
+ "date": "2026-11-25",
+ "generated_at": "2026-11-25T03:15:51.394718+00:00",
  "assets": [
-  {
-   "symbol": "ATM",
-   "name": "Atletico Madrid Fan Token",
-   "sigma": 8.49,
-   "from_btc_pct": 7,
-   "verdict": "Neutral",
-   "file": "ATM.png"
-  },
-  {
-   "symbol": "ASR",
-   "name": "AS Roma Fan Token",
-   "sigma": 4.26,
-   "from_btc_pct": 23,
-   "verdict": "Neutral",
-   "file": "ASR.png"
-  },
   {
    "symbol": "BIGTIME",
    "name": "Big Time",
-   "sigma": 4.08,
-   "from_btc_pct": 17,
+   "sigma": 3.33,
+   "from_btc_pct": 21,
    "verdict": "Oversold",
    "file": "BIGTIME.png"
-  },
-  {
-   "symbol": "LISTA",
-   "name": "Lista DAO",
-   "sigma": 3.94,
-   "from_btc_pct": 16,
-   "verdict": "Overbought",
-   "file": "LISTA.png"
-  },
-  {
-   "symbol": "RPL",
-   "name": "Rocket Pool",
-   "sigma": 3.69,
-   "from_btc_pct": 39,
-   "verdict": "Oversold",
-   "file": "RPL.png"
-  },
-  {
-   "symbol": "AT",
-   "name": "Apro",
-   "sigma": 3.4,
-   "from_btc_pct": 0,
-   "verdict": "Oversold",
-   "file": "AT.png"
-  },
-  {
-   "symbol": "OPG",
-   "name": "OpenGradient",
-   "sigma": 3.14,
-   "from_btc_pct": 7,
-   "verdict": "Overbought",
-   "file": "OPG.png"
-  },
-  {
-   "symbol": "RE",
-   "name": "RE",
-   "sigma": 2.78,
-   "from_btc_pct": 25,
-   "verdict": "Oversold",
-   "file": "RE.png"
-  },
-  {
-   "symbol": "MMT",
-   "name": "Momentum",
-   "sigma": 2.73,
-   "from_btc_pct": 0,
-   "verdict": "Overbought",
-   "file": "MMT.png"
-  },
-  {
-   "symbol": "LUNC",
-   "name": "Terra Luna Classic",
-   "sigma": 2.71,
-   "from_btc_pct": 8,
-   "verdict": "Neutral",
-   "file": "LUNC.png"
-  },
-  {
-   "symbol": "SKHYB",
-   "name": "SK Hynix (bStocks Tokenized Stock)",
-   "sigma": 2.64,
-   "from_btc_pct": 28,
-   "verdict": "Neutral",
-   "file": "SKHYB.png"
-  },
-  {
-   "symbol": "SOXSB",
-   "name": "Direxion Semiconductor Bear 3X ETF (bStocks Tokenized ETF)",
-   "sigma": 2.62,
-   "from_btc_pct": 26,
-   "verdict": "Neutral",
-   "file": "SOXSB.png"
   }
  ]
 }
