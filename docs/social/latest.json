@@ -1,6 +1,6 @@
 {
  "date": "2026-11-25",
- "generated_at": "2026-11-25T12:15:54.428690+00:00",
+ "generated_at": "2026-11-25T12:45:57.090859+00:00",
  "assets": [
   {
    "symbol": "BIGTIME",
@@ -25,6 +25,14 @@
    "from_btc_pct": 33,
    "verdict": "Oversold",
    "file": "SSV.png"
+  },
+  {
+   "symbol": "LAYER",
+   "name": "Solayer",
+   "sigma": 4.66,
+   "from_btc_pct": 30,
+   "verdict": "Oversold",
+   "file": "LAYER.png"
   },
   {
    "symbol": "BABY",
