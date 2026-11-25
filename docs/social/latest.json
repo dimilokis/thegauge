@@ -1,6 +1,6 @@
 {
  "date": "2026-11-25",
- "generated_at": "2026-11-25T15:30:58.254448+00:00",
+ "generated_at": "2026-11-25T16:15:53.807864+00:00",
  "assets": [
   {
    "symbol": "BIGTIME",
@@ -43,6 +43,22 @@
    "file": "USUAL.png"
   },
   {
+   "symbol": "TQQQB",
+   "name": "ProShares UltraPro QQQ (bStocks Tokenized Stock)",
+   "sigma": 2.91,
+   "from_btc_pct": 40,
+   "verdict": "Oversold",
+   "file": "TQQQB.png"
+  },
+  {
+   "symbol": "BLUR",
+   "name": "Blur",
+   "sigma": 2.78,
+   "from_btc_pct": 1,
+   "verdict": "Neutral",
+   "file": "BLUR.png"
+  },
+  {
    "symbol": "WAXP",
    "name": "WAX",
    "sigma": 2.77,
@@ -81,22 +97,6 @@
    "from_btc_pct": 5,
    "verdict": "Neutral",
    "file": "ATM.png"
-  },
-  {
-   "symbol": "MMT",
-   "name": "Momentum",
-   "sigma": 2.6,
-   "from_btc_pct": 0,
-   "verdict": "Overbought",
-   "file": "MMT.png"
-  },
-  {
-   "symbol": "TSMB",
-   "name": "TSMC (bStocks Tokenized Stock)",
-   "sigma": 2.56,
-   "from_btc_pct": 24,
-   "verdict": "Oversold",
-   "file": "TSMB.png"
   }
  ]
 }
