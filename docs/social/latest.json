@@ -1,6 +1,6 @@
 {
  "date": "2026-11-25",
- "generated_at": "2026-11-25T05:15:57.320540+00:00",
+ "generated_at": "2026-11-25T06:30:56.577550+00:00",
  "assets": [
   {
    "symbol": "BIGTIME",
@@ -9,6 +9,14 @@
    "from_btc_pct": 3,
    "verdict": "Neutral",
    "file": "BIGTIME.png"
+  },
+  {
+   "symbol": "WAXP",
+   "name": "WAX",
+   "sigma": 8.59,
+   "from_btc_pct": 14,
+   "verdict": "Neutral",
+   "file": "WAXP.png"
   },
   {
    "symbol": "LISTA",
