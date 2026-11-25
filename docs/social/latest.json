@@ -1,6 +1,6 @@
 {
  "date": "2026-11-25",
- "generated_at": "2026-11-25T18:15:54.338435+00:00",
+ "generated_at": "2026-11-25T18:45:59.845231+00:00",
  "assets": [
   {
    "symbol": "BIGTIME",
@@ -59,14 +59,6 @@
    "file": "TQQQB.png"
   },
   {
-   "symbol": "WAXP",
-   "name": "WAX",
-   "sigma": 2.91,
-   "from_btc_pct": 37,
-   "verdict": "Oversold",
-   "file": "WAXP.png"
-  },
-  {
    "symbol": "BLUR",
    "name": "Blur",
    "sigma": 2.78,
@@ -97,6 +89,14 @@
    "from_btc_pct": 13,
    "verdict": "Overbought",
    "file": "LISTA.png"
+  },
+  {
+   "symbol": "WAXP",
+   "name": "WAX",
+   "sigma": 2.5,
+   "from_btc_pct": 39,
+   "verdict": "Oversold",
+   "file": "WAXP.png"
   }
  ]
 }

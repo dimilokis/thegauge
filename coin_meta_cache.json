@@ -1383,6 +1383,10 @@
   "icon": "https://coin-images.coingecko.com/coins/images/38637/large/Spark-Logomark-RGB.png?1744878896",
   "name": "Spark"
  },
+ "SQQQB": {
+  "icon": "https://coin-images.coingecko.com/coins/images/102179142/large/sqqqb.png",
+  "name": "ProShares UltraPro Short QQQ (bStocks Tokenized Stock)"
+ },
  "SSV": {
   "icon": "https://coin-images.coingecko.com/coins/images/19155/large/ssv.png",
   "name": "SSV Network"
