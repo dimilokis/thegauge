@@ -1,6 +1,6 @@
 {
  "date": "2026-11-25",
- "generated_at": "2026-11-25T14:31:01.559215+00:00",
+ "generated_at": "2026-11-25T14:45:57.271045+00:00",
  "assets": [
   {
    "symbol": "BIGTIME",
@@ -35,12 +35,28 @@
    "file": "BABY.png"
   },
   {
+   "symbol": "USUAL",
+   "name": "Usual",
+   "sigma": 3.62,
+   "from_btc_pct": 11,
+   "verdict": "Oversold",
+   "file": "USUAL.png"
+  },
+  {
    "symbol": "ATM",
    "name": "Atletico Madrid Fan Token",
    "sigma": 3.15,
    "from_btc_pct": 4,
    "verdict": "Neutral",
    "file": "ATM.png"
+  },
+  {
+   "symbol": "TSMB",
+   "name": "TSMC (bStocks Tokenized Stock)",
+   "sigma": 2.78,
+   "from_btc_pct": 25,
+   "verdict": "Oversold",
+   "file": "TSMB.png"
   },
   {
    "symbol": "WAXP",
