@@ -1,6 +1,6 @@
 {
  "date": "2026-11-25",
- "generated_at": "2026-11-25T13:15:50.141253+00:00",
+ "generated_at": "2026-11-25T14:01:08.766074+00:00",
  "assets": [
   {
    "symbol": "BIGTIME",
@@ -73,6 +73,14 @@
    "from_btc_pct": 15,
    "verdict": "Oversold",
    "file": "SAHARA.png"
+  },
+  {
+   "symbol": "MMT",
+   "name": "Momentum",
+   "sigma": 2.6,
+   "from_btc_pct": 0,
+   "verdict": "Overbought",
+   "file": "MMT.png"
   }
  ]
 }
