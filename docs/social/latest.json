@@ -1,6 +1,6 @@
 {
  "date": "2026-11-25",
- "generated_at": "2026-11-25T21:01:01.768434+00:00",
+ "generated_at": "2026-11-25T21:45:56.906571+00:00",
  "assets": [
   {
    "symbol": "BIGTIME",
@@ -25,6 +25,14 @@
    "from_btc_pct": 22,
    "verdict": "Oversold",
    "file": "CFG.png"
+  },
+  {
+   "symbol": "STO",
+   "name": "StakeStone",
+   "sigma": 5.95,
+   "from_btc_pct": 22,
+   "verdict": "Oversold",
+   "file": "STO.png"
   },
   {
    "symbol": "SSV",
@@ -89,14 +97,6 @@
    "from_btc_pct": 35,
    "verdict": "Oversold",
    "file": "LAYER.png"
-  },
-  {
-   "symbol": "WLFI",
-   "name": "World Liberty Financial",
-   "sigma": 2.7,
-   "from_btc_pct": 4,
-   "verdict": "Neutral",
-   "file": "WLFI.png"
   }
  ]
 }
