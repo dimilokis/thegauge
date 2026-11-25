@@ -1,6 +1,6 @@
 {
  "date": "2026-11-25",
- "generated_at": "2026-11-25T18:45:59.845231+00:00",
+ "generated_at": "2026-11-25T19:01:04.542479+00:00",
  "assets": [
   {
    "symbol": "BIGTIME",
@@ -67,6 +67,14 @@
    "file": "BLUR.png"
   },
   {
+   "symbol": "ATM",
+   "name": "Atletico Madrid Fan Token",
+   "sigma": 2.76,
+   "from_btc_pct": 2,
+   "verdict": "Neutral",
+   "file": "ATM.png"
+  },
+  {
    "symbol": "LAYER",
    "name": "Solayer",
    "sigma": 2.74,
@@ -89,14 +97,6 @@
    "from_btc_pct": 13,
    "verdict": "Overbought",
    "file": "LISTA.png"
-  },
-  {
-   "symbol": "WAXP",
-   "name": "WAX",
-   "sigma": 2.5,
-   "from_btc_pct": 39,
-   "verdict": "Oversold",
-   "file": "WAXP.png"
   }
  ]
 }
