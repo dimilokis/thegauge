@@ -1,12 +1,12 @@
 {
  "date": "2026-11-26",
- "generated_at": "2026-11-26T13:01:03.966233+00:00",
+ "generated_at": "2026-11-26T14:01:05.706256+00:00",
  "assets": [
   {
    "symbol": "ME",
    "name": "Magic Eden",
-   "sigma": 15.59,
-   "from_btc_pct": 18,
+   "sigma": 6.28,
+   "from_btc_pct": 35,
    "verdict": "Neutral",
    "file": "ME.png"
   },
