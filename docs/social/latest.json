@@ -1,6 +1,6 @@
 {
  "date": "2026-11-26",
- "generated_at": "2026-11-26T17:45:51.293290+00:00",
+ "generated_at": "2026-11-26T19:00:57.408647+00:00",
  "assets": [
   {
    "symbol": "TFUEL",
@@ -75,6 +75,14 @@
    "file": "SKY.png"
   },
   {
+   "symbol": "OPG",
+   "name": "OpenGradient",
+   "sigma": 2.69,
+   "from_btc_pct": 2,
+   "verdict": "Overbought",
+   "file": "OPG.png"
+  },
+  {
    "symbol": "MMT",
    "name": "Momentum",
    "sigma": 2.66,
@@ -89,14 +97,6 @@
    "from_btc_pct": 8,
    "verdict": "Neutral",
    "file": "LISTA.png"
-  },
-  {
-   "symbol": "BFUSD",
-   "name": "BFUSD",
-   "sigma": 2.54,
-   "from_btc_pct": 1,
-   "verdict": "Strong Uptrend",
-   "file": "BFUSD.png"
   }
  ]
 }
