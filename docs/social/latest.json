@@ -1,12 +1,12 @@
 {
  "date": "2026-11-26",
- "generated_at": "2026-11-26T04:45:48.650010+00:00",
+ "generated_at": "2026-11-26T05:15:53.091245+00:00",
  "assets": [
   {
    "symbol": "BABY",
    "name": "Babylon",
-   "sigma": 2.68,
-   "from_btc_pct": 34,
+   "sigma": 3.74,
+   "from_btc_pct": 32,
    "verdict": "Neutral",
    "file": "BABY.png"
   }
