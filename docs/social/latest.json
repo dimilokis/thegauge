@@ -1,6 +1,6 @@
 {
  "date": "2026-11-25",
- "generated_at": "2026-11-25T21:45:56.906571+00:00",
+ "generated_at": "2026-11-26T00:15:54.196967+00:00",
  "assets": [
   {
    "symbol": "BIGTIME",
@@ -9,6 +9,14 @@
    "from_btc_pct": 3,
    "verdict": "Neutral",
    "file": "BIGTIME.png"
+  },
+  {
+   "symbol": "MOVE",
+   "name": "Movement",
+   "sigma": 10.8,
+   "from_btc_pct": 18,
+   "verdict": "Neutral",
+   "file": "MOVE.png"
   },
   {
    "symbol": "MANTRA",
@@ -89,14 +97,6 @@
    "from_btc_pct": 2,
    "verdict": "Neutral",
    "file": "ATM.png"
-  },
-  {
-   "symbol": "LAYER",
-   "name": "Solayer",
-   "sigma": 2.74,
-   "from_btc_pct": 35,
-   "verdict": "Oversold",
-   "file": "LAYER.png"
   }
  ]
 }
