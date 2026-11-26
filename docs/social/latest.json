@@ -1,6 +1,6 @@
 {
  "date": "2026-11-26",
- "generated_at": "2026-11-26T10:30:57.801337+00:00",
+ "generated_at": "2026-11-26T10:46:01.069366+00:00",
  "assets": [
   {
    "symbol": "ME",
@@ -33,6 +33,14 @@
    "from_btc_pct": 5,
    "verdict": "Neutral",
    "file": "INIT.png"
+  },
+  {
+   "symbol": "AT",
+   "name": "Apro",
+   "sigma": 2.67,
+   "from_btc_pct": 1,
+   "verdict": "Oversold",
+   "file": "AT.png"
   },
   {
    "symbol": "LISTA",
