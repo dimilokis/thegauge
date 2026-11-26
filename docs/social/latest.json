@@ -1,6 +1,6 @@
 {
  "date": "2026-11-26",
- "generated_at": "2026-11-26T16:45:55.355807+00:00",
+ "generated_at": "2026-11-26T17:15:53.779175+00:00",
  "assets": [
   {
    "symbol": "TFUEL",
@@ -59,6 +59,14 @@
    "file": "SSV.png"
   },
   {
+   "symbol": "AT",
+   "name": "Apro",
+   "sigma": 2.97,
+   "from_btc_pct": 1,
+   "verdict": "Oversold",
+   "file": "AT.png"
+  },
+  {
    "symbol": "SKY",
    "name": "Sky",
    "sigma": 2.75,
@@ -73,14 +81,6 @@
    "from_btc_pct": 1,
    "verdict": "Neutral",
    "file": "MMT.png"
-  },
-  {
-   "symbol": "AT",
-   "name": "Apro",
-   "sigma": 2.63,
-   "from_btc_pct": 1,
-   "verdict": "Oversold",
-   "file": "AT.png"
   },
   {
    "symbol": "LISTA",
