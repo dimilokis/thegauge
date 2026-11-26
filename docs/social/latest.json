@@ -1,102 +1,14 @@
 {
- "date": "2026-11-25",
- "generated_at": "2026-11-26T00:15:54.196967+00:00",
+ "date": "2026-11-26",
+ "generated_at": "2026-11-26T04:45:48.650010+00:00",
  "assets": [
-  {
-   "symbol": "BIGTIME",
-   "name": "Big Time",
-   "sigma": 21.75,
-   "from_btc_pct": 3,
-   "verdict": "Neutral",
-   "file": "BIGTIME.png"
-  },
-  {
-   "symbol": "MOVE",
-   "name": "Movement",
-   "sigma": 10.8,
-   "from_btc_pct": 18,
-   "verdict": "Neutral",
-   "file": "MOVE.png"
-  },
-  {
-   "symbol": "MANTRA",
-   "name": "MANTRA",
-   "sigma": 7.64,
-   "from_btc_pct": 20,
-   "verdict": "Oversold",
-   "file": "MANTRA.png"
-  },
-  {
-   "symbol": "CFG",
-   "name": "Centrifuge",
-   "sigma": 7.08,
-   "from_btc_pct": 22,
-   "verdict": "Oversold",
-   "file": "CFG.png"
-  },
-  {
-   "symbol": "STO",
-   "name": "StakeStone",
-   "sigma": 5.95,
-   "from_btc_pct": 22,
-   "verdict": "Oversold",
-   "file": "STO.png"
-  },
-  {
-   "symbol": "SSV",
-   "name": "SSV Network",
-   "sigma": 4.84,
-   "from_btc_pct": 33,
-   "verdict": "Oversold",
-   "file": "SSV.png"
-  },
   {
    "symbol": "BABY",
    "name": "Babylon",
-   "sigma": 3.65,
-   "from_btc_pct": 25,
+   "sigma": 2.68,
+   "from_btc_pct": 34,
    "verdict": "Neutral",
    "file": "BABY.png"
-  },
-  {
-   "symbol": "USUAL",
-   "name": "Usual",
-   "sigma": 3.62,
-   "from_btc_pct": 11,
-   "verdict": "Oversold",
-   "file": "USUAL.png"
-  },
-  {
-   "symbol": "AT",
-   "name": "Apro",
-   "sigma": 3.17,
-   "from_btc_pct": 1,
-   "verdict": "Oversold",
-   "file": "AT.png"
-  },
-  {
-   "symbol": "TQQQB",
-   "name": "ProShares UltraPro QQQ (bStocks Tokenized Stock)",
-   "sigma": 2.91,
-   "from_btc_pct": 40,
-   "verdict": "Oversold",
-   "file": "TQQQB.png"
-  },
-  {
-   "symbol": "BLUR",
-   "name": "Blur",
-   "sigma": 2.78,
-   "from_btc_pct": 1,
-   "verdict": "Neutral",
-   "file": "BLUR.png"
-  },
-  {
-   "symbol": "ATM",
-   "name": "Atletico Madrid Fan Token",
-   "sigma": 2.76,
-   "from_btc_pct": 2,
-   "verdict": "Neutral",
-   "file": "ATM.png"
   }
  ]
 }
