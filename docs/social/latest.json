@@ -1,6 +1,6 @@
 {
  "date": "2026-11-26",
- "generated_at": "2026-11-26T17:15:53.779175+00:00",
+ "generated_at": "2026-11-26T17:45:51.293290+00:00",
  "assets": [
   {
    "symbol": "TFUEL",
@@ -9,14 +9,6 @@
    "from_btc_pct": 21,
    "verdict": "Neutral",
    "file": "TFUEL.png"
-  },
-  {
-   "symbol": "ME",
-   "name": "Magic Eden",
-   "sigma": 6.28,
-   "from_btc_pct": 35,
-   "verdict": "Neutral",
-   "file": "ME.png"
   },
   {
    "symbol": "HMSTR",
@@ -33,6 +25,14 @@
    "from_btc_pct": 40,
    "verdict": "Neutral",
    "file": "SEI.png"
+  },
+  {
+   "symbol": "ME",
+   "name": "Magic Eden",
+   "sigma": 4.01,
+   "from_btc_pct": 38,
+   "verdict": "Oversold",
+   "file": "ME.png"
   },
   {
    "symbol": "BABY",
@@ -89,6 +89,14 @@
    "from_btc_pct": 8,
    "verdict": "Neutral",
    "file": "LISTA.png"
+  },
+  {
+   "symbol": "BFUSD",
+   "name": "BFUSD",
+   "sigma": 2.54,
+   "from_btc_pct": 1,
+   "verdict": "Strong Uptrend",
+   "file": "BFUSD.png"
   }
  ]
 }
