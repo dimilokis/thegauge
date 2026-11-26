@@ -1,6 +1,6 @@
 {
  "date": "2026-11-26",
- "generated_at": "2026-11-26T05:15:53.091245+00:00",
+ "generated_at": "2026-11-26T09:01:01.940527+00:00",
  "assets": [
   {
    "symbol": "BABY",
@@ -9,6 +9,22 @@
    "from_btc_pct": 32,
    "verdict": "Neutral",
    "file": "BABY.png"
+  },
+  {
+   "symbol": "LISTA",
+   "name": "Lista DAO",
+   "sigma": 2.78,
+   "from_btc_pct": 8,
+   "verdict": "Neutral",
+   "file": "LISTA.png"
+  },
+  {
+   "symbol": "MMT",
+   "name": "Momentum",
+   "sigma": 2.5,
+   "from_btc_pct": 1,
+   "verdict": "Neutral",
+   "file": "MMT.png"
   }
  ]
 }
