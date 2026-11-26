@@ -1,7 +1,15 @@
 {
  "date": "2026-11-26",
- "generated_at": "2026-11-26T09:01:01.940527+00:00",
+ "generated_at": "2026-11-26T09:30:55.990468+00:00",
  "assets": [
+  {
+   "symbol": "HMSTR",
+   "name": "Hamster Kombat",
+   "sigma": 4.79,
+   "from_btc_pct": 2,
+   "verdict": "Oversold",
+   "file": "HMSTR.png"
+  },
   {
    "symbol": "BABY",
    "name": "Babylon",
@@ -9,6 +17,14 @@
    "from_btc_pct": 32,
    "verdict": "Neutral",
    "file": "BABY.png"
+  },
+  {
+   "symbol": "INIT",
+   "name": "Initia",
+   "sigma": 2.8,
+   "from_btc_pct": 4,
+   "verdict": "Neutral",
+   "file": "INIT.png"
   },
   {
    "symbol": "LISTA",
