@@ -1,6 +1,6 @@
 {
  "date": "2026-11-26",
- "generated_at": "2026-11-26T19:00:57.408647+00:00",
+ "generated_at": "2026-11-26T20:16:04.311199+00:00",
  "assets": [
   {
    "symbol": "TFUEL",
@@ -51,20 +51,20 @@
    "file": "INIT.png"
   },
   {
-   "symbol": "SSV",
-   "name": "SSV Network",
-   "sigma": 2.97,
-   "from_btc_pct": 16,
-   "verdict": "Overbought",
-   "file": "SSV.png"
-  },
-  {
    "symbol": "AT",
    "name": "Apro",
    "sigma": 2.97,
    "from_btc_pct": 1,
    "verdict": "Oversold",
    "file": "AT.png"
+  },
+  {
+   "symbol": "SSV",
+   "name": "SSV Network",
+   "sigma": 2.78,
+   "from_btc_pct": 17,
+   "verdict": "Overbought",
+   "file": "SSV.png"
   },
   {
    "symbol": "SKY",
