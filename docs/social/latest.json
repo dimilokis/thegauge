@@ -1,6 +1,6 @@
 {
  "date": "2026-11-26",
- "generated_at": "2026-11-26T12:15:53.371226+00:00",
+ "generated_at": "2026-11-26T13:01:03.966233+00:00",
  "assets": [
   {
    "symbol": "ME",
@@ -43,20 +43,20 @@
    "file": "SKY.png"
   },
   {
-   "symbol": "AT",
-   "name": "Apro",
-   "sigma": 2.67,
-   "from_btc_pct": 1,
-   "verdict": "Oversold",
-   "file": "AT.png"
-  },
-  {
    "symbol": "MMT",
    "name": "Momentum",
    "sigma": 2.66,
    "from_btc_pct": 1,
    "verdict": "Neutral",
    "file": "MMT.png"
+  },
+  {
+   "symbol": "AT",
+   "name": "Apro",
+   "sigma": 2.63,
+   "from_btc_pct": 1,
+   "verdict": "Oversold",
+   "file": "AT.png"
   },
   {
    "symbol": "LISTA",
