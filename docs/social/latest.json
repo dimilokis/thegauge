@@ -1,6 +1,6 @@
 {
  "date": "2026-11-26",
- "generated_at": "2026-11-26T10:46:01.069366+00:00",
+ "generated_at": "2026-11-26T11:00:55.666513+00:00",
  "assets": [
   {
    "symbol": "ME",
@@ -43,20 +43,20 @@
    "file": "AT.png"
   },
   {
+   "symbol": "MMT",
+   "name": "Momentum",
+   "sigma": 2.66,
+   "from_btc_pct": 1,
+   "verdict": "Neutral",
+   "file": "MMT.png"
+  },
+  {
    "symbol": "LISTA",
    "name": "Lista DAO",
    "sigma": 2.56,
    "from_btc_pct": 8,
    "verdict": "Neutral",
    "file": "LISTA.png"
-  },
-  {
-   "symbol": "MMT",
-   "name": "Momentum",
-   "sigma": 2.5,
-   "from_btc_pct": 1,
-   "verdict": "Neutral",
-   "file": "MMT.png"
   }
  ]
 }
