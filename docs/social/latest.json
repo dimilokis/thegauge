@@ -1,7 +1,15 @@
 {
  "date": "2026-11-26",
- "generated_at": "2026-11-26T09:30:55.990468+00:00",
+ "generated_at": "2026-11-26T10:30:57.801337+00:00",
  "assets": [
+  {
+   "symbol": "ME",
+   "name": "Magic Eden",
+   "sigma": 15.59,
+   "from_btc_pct": 18,
+   "verdict": "Neutral",
+   "file": "ME.png"
+  },
   {
    "symbol": "HMSTR",
    "name": "Hamster Kombat",
@@ -21,15 +29,15 @@
   {
    "symbol": "INIT",
    "name": "Initia",
-   "sigma": 2.8,
-   "from_btc_pct": 4,
+   "sigma": 2.91,
+   "from_btc_pct": 5,
    "verdict": "Neutral",
    "file": "INIT.png"
   },
   {
    "symbol": "LISTA",
    "name": "Lista DAO",
-   "sigma": 2.78,
+   "sigma": 2.56,
    "from_btc_pct": 8,
    "verdict": "Neutral",
    "file": "LISTA.png"
