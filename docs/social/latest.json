@@ -1,7 +1,15 @@
 {
  "date": "2026-11-27",
- "generated_at": "2026-11-27T09:15:49.352646+00:00",
+ "generated_at": "2026-11-27T10:01:03.379941+00:00",
  "assets": [
+  {
+   "symbol": "PORTAL",
+   "name": "Portal",
+   "sigma": 14.8,
+   "from_btc_pct": 10,
+   "verdict": "Overbought",
+   "file": "PORTAL.png"
+  },
   {
    "symbol": "HAEDAL",
    "name": "Haedal Protocol",
