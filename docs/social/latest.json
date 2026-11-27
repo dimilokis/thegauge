@@ -1,6 +1,6 @@
 {
  "date": "2026-11-27",
- "generated_at": "2026-11-27T21:13:00.486515+00:00",
+ "generated_at": "2026-11-27T22:15:54.970451+00:00",
  "assets": [
   {
    "symbol": "THE",
@@ -25,14 +25,6 @@
    "from_btc_pct": 18,
    "verdict": "Overbought",
    "file": "HAEDAL.png"
-  },
-  {
-   "symbol": "RIF",
-   "name": "Rootstock Infrastructure Framework",
-   "sigma": 3.29,
-   "from_btc_pct": 22,
-   "verdict": "Oversold",
-   "file": "RIF.png"
   },
   {
    "symbol": "COOKIE",
@@ -65,6 +57,14 @@
    "from_btc_pct": 3,
    "verdict": "Oversold",
    "file": "WLFI.png"
+  },
+  {
+   "symbol": "RIF",
+   "name": "Rootstock Infrastructure Framework",
+   "sigma": 2.79,
+   "from_btc_pct": 17,
+   "verdict": "Oversold",
+   "file": "RIF.png"
   },
   {
    "symbol": "HEI",
