@@ -1,6 +1,6 @@
 {
  "date": "2026-11-27",
- "generated_at": "2026-11-27T22:45:52.053371+00:00",
+ "generated_at": "2026-11-27T23:15:53.546165+00:00",
  "assets": [
   {
    "symbol": "THE",
@@ -17,6 +17,14 @@
    "from_btc_pct": 10,
    "verdict": "Overbought",
    "file": "PORTAL.png"
+  },
+  {
+   "symbol": "ACE",
+   "name": "Fusionist",
+   "sigma": 9.87,
+   "from_btc_pct": 4,
+   "verdict": "Neutral",
+   "file": "ACE.png"
   },
   {
    "symbol": "HAEDAL",
@@ -89,14 +97,6 @@
    "from_btc_pct": 3,
    "verdict": "Neutral",
    "file": "BLUR.png"
-  },
-  {
-   "symbol": "SNXXB",
-   "name": "Tradr 2X Long SNDK ETF (bStocks Tokenized ETF)",
-   "sigma": 2.61,
-   "from_btc_pct": 25,
-   "verdict": "Neutral",
-   "file": "SNXXB.png"
   }
  ]
 }
