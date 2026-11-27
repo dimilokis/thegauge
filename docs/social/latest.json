@@ -1,102 +1,14 @@
 {
- "date": "2026-11-26",
- "generated_at": "2026-11-27T02:30:58.448439+00:00",
+ "date": "2026-11-27",
+ "generated_at": "2026-11-27T03:00:59.359144+00:00",
  "assets": [
-  {
-   "symbol": "TFUEL",
-   "name": "Theta Fuel",
-   "sigma": 8.53,
-   "from_btc_pct": 21,
-   "verdict": "Neutral",
-   "file": "TFUEL.png"
-  },
-  {
-   "symbol": "HMSTR",
-   "name": "Hamster Kombat",
-   "sigma": 4.79,
-   "from_btc_pct": 2,
-   "verdict": "Oversold",
-   "file": "HMSTR.png"
-  },
-  {
-   "symbol": "SEI",
-   "name": "Sei",
-   "sigma": 4.04,
-   "from_btc_pct": 40,
-   "verdict": "Neutral",
-   "file": "SEI.png"
-  },
-  {
-   "symbol": "ME",
-   "name": "Magic Eden",
-   "sigma": 4.01,
-   "from_btc_pct": 38,
-   "verdict": "Oversold",
-   "file": "ME.png"
-  },
-  {
-   "symbol": "BABY",
-   "name": "Babylon",
-   "sigma": 3.74,
-   "from_btc_pct": 32,
-   "verdict": "Neutral",
-   "file": "BABY.png"
-  },
-  {
-   "symbol": "INIT",
-   "name": "Initia",
-   "sigma": 3.0,
-   "from_btc_pct": 4,
-   "verdict": "Neutral",
-   "file": "INIT.png"
-  },
-  {
-   "symbol": "AT",
-   "name": "Apro",
-   "sigma": 2.97,
-   "from_btc_pct": 1,
-   "verdict": "Oversold",
-   "file": "AT.png"
-  },
-  {
-   "symbol": "SSV",
-   "name": "SSV Network",
-   "sigma": 2.78,
-   "from_btc_pct": 17,
-   "verdict": "Overbought",
-   "file": "SSV.png"
-  },
   {
    "symbol": "BIGTIME",
    "name": "Big Time",
-   "sigma": 2.7,
+   "sigma": 2.59,
    "from_btc_pct": 10,
    "verdict": "Neutral",
    "file": "BIGTIME.png"
-  },
-  {
-   "symbol": "OPG",
-   "name": "OpenGradient",
-   "sigma": 2.69,
-   "from_btc_pct": 2,
-   "verdict": "Overbought",
-   "file": "OPG.png"
-  },
-  {
-   "symbol": "MMT",
-   "name": "Momentum",
-   "sigma": 2.66,
-   "from_btc_pct": 1,
-   "verdict": "Neutral",
-   "file": "MMT.png"
-  },
-  {
-   "symbol": "SKY",
-   "name": "Sky",
-   "sigma": 2.64,
-   "from_btc_pct": 27,
-   "verdict": "Oversold",
-   "file": "SKY.png"
   }
  ]
 }
