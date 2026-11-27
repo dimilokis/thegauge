@@ -1,6 +1,6 @@
 {
  "date": "2026-11-27",
- "generated_at": "2026-11-27T16:15:52.866892+00:00",
+ "generated_at": "2026-11-27T16:30:55.378009+00:00",
  "assets": [
   {
    "symbol": "PORTAL",
@@ -25,6 +25,14 @@
    "from_btc_pct": 22,
    "verdict": "Oversold",
    "file": "RIF.png"
+  },
+  {
+   "symbol": "LISTA",
+   "name": "Lista DAO",
+   "sigma": 2.9,
+   "from_btc_pct": 6,
+   "verdict": "Neutral",
+   "file": "LISTA.png"
   },
   {
    "symbol": "WLFI",
@@ -57,14 +65,6 @@
    "from_btc_pct": 3,
    "verdict": "Neutral",
    "file": "BLUR.png"
-  },
-  {
-   "symbol": "LISTA",
-   "name": "Lista DAO",
-   "sigma": 2.61,
-   "from_btc_pct": 9,
-   "verdict": "Neutral",
-   "file": "LISTA.png"
   },
   {
    "symbol": "BIGTIME",
