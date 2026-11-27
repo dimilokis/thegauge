@@ -1,6 +1,6 @@
 {
  "date": "2026-11-27",
- "generated_at": "2026-11-27T17:30:55.449688+00:00",
+ "generated_at": "2026-11-27T18:01:04.460543+00:00",
  "assets": [
   {
    "symbol": "PORTAL",
@@ -67,12 +67,12 @@
    "file": "BLUR.png"
   },
   {
-   "symbol": "CFG",
-   "name": "Centrifuge",
-   "sigma": 2.6,
-   "from_btc_pct": 22,
-   "verdict": "Oversold",
-   "file": "CFG.png"
+   "symbol": "SNXXB",
+   "name": "Tradr 2X Long SNDK ETF (bStocks Tokenized ETF)",
+   "sigma": 2.61,
+   "from_btc_pct": 25,
+   "verdict": "Neutral",
+   "file": "SNXXB.png"
   },
   {
    "symbol": "BIGTIME",
@@ -81,6 +81,14 @@
    "from_btc_pct": 10,
    "verdict": "Neutral",
    "file": "BIGTIME.png"
+  },
+  {
+   "symbol": "CFG",
+   "name": "Centrifuge",
+   "sigma": 2.54,
+   "from_btc_pct": 23,
+   "verdict": "Oversold",
+   "file": "CFG.png"
   },
   {
    "symbol": "YB",
