@@ -1,7 +1,15 @@
 {
  "date": "2026-11-27",
- "generated_at": "2026-11-27T19:01:01.305976+00:00",
+ "generated_at": "2026-11-27T19:30:56.081388+00:00",
  "assets": [
+  {
+   "symbol": "THE",
+   "name": "Thena",
+   "sigma": 21.3,
+   "from_btc_pct": 7,
+   "verdict": "Neutral",
+   "file": "THE.png"
+  },
   {
    "symbol": "PORTAL",
    "name": "Portal",
@@ -89,14 +97,6 @@
    "from_btc_pct": 10,
    "verdict": "Neutral",
    "file": "BIGTIME.png"
-  },
-  {
-   "symbol": "YB",
-   "name": "Yield Basis",
-   "sigma": 2.51,
-   "from_btc_pct": 20,
-   "verdict": "Neutral",
-   "file": "YB.png"
   }
  ]
 }
