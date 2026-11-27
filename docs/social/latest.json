@@ -1,6 +1,6 @@
 {
  "date": "2026-11-27",
- "generated_at": "2026-11-27T16:45:49.399354+00:00",
+ "generated_at": "2026-11-27T17:15:57.967623+00:00",
  "assets": [
   {
    "symbol": "PORTAL",
@@ -9,6 +9,14 @@
    "from_btc_pct": 10,
    "verdict": "Overbought",
    "file": "PORTAL.png"
+  },
+  {
+   "symbol": "COOKIE",
+   "name": "Cookie DAO",
+   "sigma": 10.95,
+   "from_btc_pct": 15,
+   "verdict": "Neutral",
+   "file": "COOKIE.png"
   },
   {
    "symbol": "HAEDAL",
