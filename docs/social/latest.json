@@ -1,6 +1,6 @@
 {
  "date": "2026-11-27",
- "generated_at": "2026-11-27T14:01:04.591266+00:00",
+ "generated_at": "2026-11-27T14:15:50.738586+00:00",
  "assets": [
   {
    "symbol": "PORTAL",
@@ -51,20 +51,20 @@
    "file": "BIGTIME.png"
   },
   {
-   "symbol": "YB",
-   "name": "Yield Basis",
-   "sigma": 2.57,
-   "from_btc_pct": 24,
-   "verdict": "Neutral",
-   "file": "YB.png"
-  },
-  {
    "symbol": "BLUR",
    "name": "Blur",
    "sigma": 2.52,
    "from_btc_pct": 1,
    "verdict": "Neutral",
    "file": "BLUR.png"
+  },
+  {
+   "symbol": "YB",
+   "name": "Yield Basis",
+   "sigma": 2.51,
+   "from_btc_pct": 24,
+   "verdict": "Neutral",
+   "file": "YB.png"
   }
  ]
 }
