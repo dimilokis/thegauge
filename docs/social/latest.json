@@ -1,6 +1,6 @@
 {
  "date": "2026-11-26",
- "generated_at": "2026-11-26T21:45:56.100636+00:00",
+ "generated_at": "2026-11-27T02:30:58.448439+00:00",
  "assets": [
   {
    "symbol": "TFUEL",
@@ -67,6 +67,14 @@
    "file": "SSV.png"
   },
   {
+   "symbol": "BIGTIME",
+   "name": "Big Time",
+   "sigma": 2.7,
+   "from_btc_pct": 10,
+   "verdict": "Neutral",
+   "file": "BIGTIME.png"
+  },
+  {
    "symbol": "OPG",
    "name": "OpenGradient",
    "sigma": 2.69,
@@ -89,14 +97,6 @@
    "from_btc_pct": 27,
    "verdict": "Oversold",
    "file": "SKY.png"
-  },
-  {
-   "symbol": "LISTA",
-   "name": "Lista DAO",
-   "sigma": 2.56,
-   "from_btc_pct": 8,
-   "verdict": "Neutral",
-   "file": "LISTA.png"
   }
  ]
 }
