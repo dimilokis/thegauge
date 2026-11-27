@@ -1,6 +1,6 @@
 {
  "date": "2026-11-27",
- "generated_at": "2026-11-27T03:15:48.534858+00:00",
+ "generated_at": "2026-11-27T06:01:01.669619+00:00",
  "assets": [
   {
    "symbol": "HAEDAL",
@@ -9,6 +9,22 @@
    "from_btc_pct": 18,
    "verdict": "Overbought",
    "file": "HAEDAL.png"
+  },
+  {
+   "symbol": "RIF",
+   "name": "Rootstock Infrastructure Framework",
+   "sigma": 3.29,
+   "from_btc_pct": 22,
+   "verdict": "Oversold",
+   "file": "RIF.png"
+  },
+  {
+   "symbol": "LISTA",
+   "name": "Lista DAO",
+   "sigma": 2.61,
+   "from_btc_pct": 9,
+   "verdict": "Neutral",
+   "file": "LISTA.png"
   },
   {
    "symbol": "BIGTIME",
