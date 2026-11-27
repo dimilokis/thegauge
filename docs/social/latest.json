@@ -1,6 +1,6 @@
 {
  "date": "2026-11-27",
- "generated_at": "2026-11-27T15:30:59.716668+00:00",
+ "generated_at": "2026-11-27T16:15:52.866892+00:00",
  "assets": [
   {
    "symbol": "PORTAL",
@@ -33,6 +33,14 @@
    "from_btc_pct": 3,
    "verdict": "Oversold",
    "file": "WLFI.png"
+  },
+  {
+   "symbol": "HEI",
+   "name": "Heima",
+   "sigma": 2.78,
+   "from_btc_pct": 24,
+   "verdict": "Oversold",
+   "file": "HEI.png"
   },
   {
    "symbol": "CFG",
