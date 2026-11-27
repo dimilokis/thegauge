@@ -1,6 +1,6 @@
 {
  "date": "2026-11-27",
- "generated_at": "2026-11-27T20:45:54.080435+00:00",
+ "generated_at": "2026-11-27T21:13:00.486515+00:00",
  "assets": [
   {
    "symbol": "THE",
@@ -41,6 +41,14 @@
    "from_btc_pct": 30,
    "verdict": "Neutral",
    "file": "COOKIE.png"
+  },
+  {
+   "symbol": "SKY",
+   "name": "Sky",
+   "sigma": 3.04,
+   "from_btc_pct": 18,
+   "verdict": "Neutral",
+   "file": "SKY.png"
   },
   {
    "symbol": "LISTA",
@@ -89,14 +97,6 @@
    "from_btc_pct": 25,
    "verdict": "Neutral",
    "file": "SNXXB.png"
-  },
-  {
-   "symbol": "BIGTIME",
-   "name": "Big Time",
-   "sigma": 2.59,
-   "from_btc_pct": 10,
-   "verdict": "Neutral",
-   "file": "BIGTIME.png"
   }
  ]
 }
