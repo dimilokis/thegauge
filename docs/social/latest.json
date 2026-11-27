@@ -1,6 +1,6 @@
 {
  "date": "2026-11-27",
- "generated_at": "2026-11-27T14:15:50.738586+00:00",
+ "generated_at": "2026-11-27T14:30:59.951553+00:00",
  "assets": [
   {
    "symbol": "PORTAL",
@@ -25,6 +25,14 @@
    "from_btc_pct": 22,
    "verdict": "Oversold",
    "file": "RIF.png"
+  },
+  {
+   "symbol": "WLFI",
+   "name": "World Liberty Financial",
+   "sigma": 2.81,
+   "from_btc_pct": 3,
+   "verdict": "Oversold",
+   "file": "WLFI.png"
   },
   {
    "symbol": "CFG",
