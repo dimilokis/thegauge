@@ -1,6 +1,6 @@
 {
  "date": "2026-11-27",
- "generated_at": "2026-11-27T10:01:03.379941+00:00",
+ "generated_at": "2026-11-27T13:01:03.754040+00:00",
  "assets": [
   {
    "symbol": "PORTAL",
@@ -38,7 +38,7 @@
    "symbol": "CFG",
    "name": "Centrifuge",
    "sigma": 2.71,
-   "from_btc_pct": 33,
+   "from_btc_pct": 32,
    "verdict": "Oversold",
    "file": "CFG.png"
   },
