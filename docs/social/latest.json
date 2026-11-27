@@ -1,7 +1,15 @@
 {
  "date": "2026-11-27",
- "generated_at": "2026-11-27T03:00:59.359144+00:00",
+ "generated_at": "2026-11-27T03:15:48.534858+00:00",
  "assets": [
+  {
+   "symbol": "HAEDAL",
+   "name": "Haedal Protocol",
+   "sigma": 6.1,
+   "from_btc_pct": 18,
+   "verdict": "Overbought",
+   "file": "HAEDAL.png"
+  },
   {
    "symbol": "BIGTIME",
    "name": "Big Time",
