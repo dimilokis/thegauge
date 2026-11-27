@@ -1,6 +1,6 @@
 {
  "date": "2026-11-27",
- "generated_at": "2026-11-27T06:01:01.669619+00:00",
+ "generated_at": "2026-11-27T06:15:56.135264+00:00",
  "assets": [
   {
    "symbol": "HAEDAL",
@@ -9,6 +9,14 @@
    "from_btc_pct": 18,
    "verdict": "Overbought",
    "file": "HAEDAL.png"
+  },
+  {
+   "symbol": "YB",
+   "name": "Yield Basis",
+   "sigma": 3.69,
+   "from_btc_pct": 25,
+   "verdict": "Neutral",
+   "file": "YB.png"
   },
   {
    "symbol": "RIF",
