@@ -1,6 +1,6 @@
 {
  "date": "2026-11-27",
- "generated_at": "2026-11-27T18:01:04.460543+00:00",
+ "generated_at": "2026-11-27T18:15:56.601844+00:00",
  "assets": [
   {
    "symbol": "PORTAL",
@@ -9,14 +9,6 @@
    "from_btc_pct": 10,
    "verdict": "Overbought",
    "file": "PORTAL.png"
-  },
-  {
-   "symbol": "COOKIE",
-   "name": "Cookie DAO",
-   "sigma": 10.95,
-   "from_btc_pct": 15,
-   "verdict": "Neutral",
-   "file": "COOKIE.png"
   },
   {
    "symbol": "HAEDAL",
@@ -35,10 +27,18 @@
    "file": "RIF.png"
   },
   {
+   "symbol": "COOKIE",
+   "name": "Cookie DAO",
+   "sigma": 3.12,
+   "from_btc_pct": 30,
+   "verdict": "Neutral",
+   "file": "COOKIE.png"
+  },
+  {
    "symbol": "LISTA",
    "name": "Lista DAO",
-   "sigma": 2.9,
-   "from_btc_pct": 6,
+   "sigma": 2.87,
+   "from_btc_pct": 5,
    "verdict": "Neutral",
    "file": "LISTA.png"
   },
