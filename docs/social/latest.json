@@ -1,6 +1,6 @@
 {
  "date": "2026-11-27",
- "generated_at": "2026-11-27T06:15:56.135264+00:00",
+ "generated_at": "2026-11-27T09:15:49.352646+00:00",
  "assets": [
   {
    "symbol": "HAEDAL",
@@ -25,6 +25,14 @@
    "from_btc_pct": 22,
    "verdict": "Oversold",
    "file": "RIF.png"
+  },
+  {
+   "symbol": "CFG",
+   "name": "Centrifuge",
+   "sigma": 2.71,
+   "from_btc_pct": 33,
+   "verdict": "Oversold",
+   "file": "CFG.png"
   },
   {
    "symbol": "LISTA",
