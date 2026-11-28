@@ -1,6 +1,6 @@
 {
  "date": "2026-11-28",
- "generated_at": "2026-11-28T07:15:53.097027+00:00",
+ "generated_at": "2026-11-28T07:30:54.597013+00:00",
  "assets": [
   {
    "symbol": "WLFI",
@@ -53,8 +53,8 @@
   {
    "symbol": "THE",
    "name": "Thena",
-   "sigma": 2.6,
-   "from_btc_pct": 27,
+   "sigma": 2.51,
+   "from_btc_pct": 28,
    "verdict": "Oversold",
    "file": "THE.png"
   }
