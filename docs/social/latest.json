@@ -1,6 +1,6 @@
 {
  "date": "2026-11-28",
- "generated_at": "2026-11-28T18:00:58.889413+00:00",
+ "generated_at": "2026-11-28T19:15:51.528490+00:00",
  "assets": [
   {
    "symbol": "WLFI",
@@ -49,6 +49,14 @@
    "from_btc_pct": 29,
    "verdict": "Oversold",
    "file": "ROBO.png"
+  },
+  {
+   "symbol": "GENIUS",
+   "name": "Genius",
+   "sigma": 2.72,
+   "from_btc_pct": 10,
+   "verdict": "Oversold",
+   "file": "GENIUS.png"
   },
   {
    "symbol": "TLM",
