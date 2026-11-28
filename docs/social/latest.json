@@ -1,6 +1,6 @@
 {
  "date": "2026-11-28",
- "generated_at": "2026-11-28T17:15:52.173092+00:00",
+ "generated_at": "2026-11-28T18:00:58.889413+00:00",
  "assets": [
   {
    "symbol": "WLFI",
@@ -35,6 +35,14 @@
    "file": "BLUR.png"
   },
   {
+   "symbol": "LISTA",
+   "name": "Lista DAO",
+   "sigma": 2.96,
+   "from_btc_pct": 5,
+   "verdict": "Overbought",
+   "file": "LISTA.png"
+  },
+  {
    "symbol": "ROBO",
    "name": "Fabric Protocol",
    "sigma": 2.75,
@@ -65,14 +73,6 @@
    "from_btc_pct": 6,
    "verdict": "Oversold",
    "file": "TRUMP.png"
-  },
-  {
-   "symbol": "LISTA",
-   "name": "Lista DAO",
-   "sigma": 2.58,
-   "from_btc_pct": 5,
-   "verdict": "Overbought",
-   "file": "LISTA.png"
   },
   {
    "symbol": "THE",
