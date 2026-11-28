@@ -1,102 +1,14 @@
 {
- "date": "2026-11-27",
- "generated_at": "2026-11-28T02:15:51.068987+00:00",
+ "date": "2026-11-28",
+ "generated_at": "2026-11-28T03:15:50.293385+00:00",
  "assets": [
-  {
-   "symbol": "THE",
-   "name": "Thena",
-   "sigma": 21.3,
-   "from_btc_pct": 7,
-   "verdict": "Neutral",
-   "file": "THE.png"
-  },
-  {
-   "symbol": "PORTAL",
-   "name": "Portal",
-   "sigma": 14.8,
-   "from_btc_pct": 10,
-   "verdict": "Overbought",
-   "file": "PORTAL.png"
-  },
-  {
-   "symbol": "HAEDAL",
-   "name": "Haedal Protocol",
-   "sigma": 6.1,
-   "from_btc_pct": 18,
-   "verdict": "Overbought",
-   "file": "HAEDAL.png"
-  },
-  {
-   "symbol": "COOKIE",
-   "name": "Cookie DAO",
-   "sigma": 3.12,
-   "from_btc_pct": 30,
-   "verdict": "Neutral",
-   "file": "COOKIE.png"
-  },
-  {
-   "symbol": "LISTA",
-   "name": "Lista DAO",
-   "sigma": 2.87,
-   "from_btc_pct": 5,
-   "verdict": "Neutral",
-   "file": "LISTA.png"
-  },
-  {
-   "symbol": "WLFI",
-   "name": "World Liberty Financial",
-   "sigma": 2.81,
-   "from_btc_pct": 3,
-   "verdict": "Oversold",
-   "file": "WLFI.png"
-  },
-  {
-   "symbol": "RIF",
-   "name": "Rootstock Infrastructure Framework",
-   "sigma": 2.79,
-   "from_btc_pct": 17,
-   "verdict": "Oversold",
-   "file": "RIF.png"
-  },
-  {
-   "symbol": "HEI",
-   "name": "Heima",
-   "sigma": 2.78,
-   "from_btc_pct": 24,
-   "verdict": "Oversold",
-   "file": "HEI.png"
-  },
-  {
-   "symbol": "BLUR",
-   "name": "Blur",
-   "sigma": 2.62,
-   "from_btc_pct": 3,
-   "verdict": "Neutral",
-   "file": "BLUR.png"
-  },
   {
    "symbol": "CFG",
    "name": "Centrifuge",
-   "sigma": 2.62,
-   "from_btc_pct": 23,
+   "sigma": 5.72,
+   "from_btc_pct": 18,
    "verdict": "Oversold",
    "file": "CFG.png"
-  },
-  {
-   "symbol": "SKY",
-   "name": "Sky",
-   "sigma": 2.58,
-   "from_btc_pct": 19,
-   "verdict": "Neutral",
-   "file": "SKY.png"
-  },
-  {
-   "symbol": "ACE",
-   "name": "Fusionist",
-   "sigma": 2.52,
-   "from_btc_pct": 3,
-   "verdict": "Oversold",
-   "file": "ACE.png"
   }
  ]
 }
