@@ -1,6 +1,6 @@
 {
  "date": "2026-11-27",
- "generated_at": "2026-11-27T23:45:48.442906+00:00",
+ "generated_at": "2026-11-28T02:01:00.146474+00:00",
  "assets": [
   {
    "symbol": "THE",
@@ -75,20 +75,20 @@
    "file": "HEI.png"
   },
   {
-   "symbol": "CFG",
-   "name": "Centrifuge",
-   "sigma": 2.65,
-   "from_btc_pct": 23,
-   "verdict": "Oversold",
-   "file": "CFG.png"
-  },
-  {
    "symbol": "BLUR",
    "name": "Blur",
    "sigma": 2.62,
    "from_btc_pct": 3,
    "verdict": "Neutral",
    "file": "BLUR.png"
+  },
+  {
+   "symbol": "CFG",
+   "name": "Centrifuge",
+   "sigma": 2.62,
+   "from_btc_pct": 23,
+   "verdict": "Oversold",
+   "file": "CFG.png"
   },
   {
    "symbol": "SKY",
