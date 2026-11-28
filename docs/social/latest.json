@@ -1,6 +1,6 @@
 {
  "date": "2026-11-28",
- "generated_at": "2026-11-28T04:45:52.767062+00:00",
+ "generated_at": "2026-11-28T05:15:52.145492+00:00",
  "assets": [
   {
    "symbol": "WLFI",
@@ -21,8 +21,8 @@
   {
    "symbol": "ROBO",
    "name": "Fabric Protocol",
-   "sigma": 3.04,
-   "from_btc_pct": 30,
+   "sigma": 2.75,
+   "from_btc_pct": 29,
    "verdict": "Oversold",
    "file": "ROBO.png"
   }
