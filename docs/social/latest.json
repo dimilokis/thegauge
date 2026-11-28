@@ -1,6 +1,6 @@
 {
  "date": "2026-11-28",
- "generated_at": "2026-11-28T10:00:59.394805+00:00",
+ "generated_at": "2026-11-28T11:45:49.321350+00:00",
  "assets": [
   {
    "symbol": "WLFI",
@@ -25,6 +25,14 @@
    "from_btc_pct": 2,
    "verdict": "Neutral",
    "file": "RWUSD.png"
+  },
+  {
+   "symbol": "BLUR",
+   "name": "Blur",
+   "sigma": 3.45,
+   "from_btc_pct": 2,
+   "verdict": "Oversold",
+   "file": "BLUR.png"
   },
   {
    "symbol": "TLM",
