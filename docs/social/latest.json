@@ -1,7 +1,15 @@
 {
  "date": "2026-11-28",
- "generated_at": "2026-11-28T03:45:52.567780+00:00",
+ "generated_at": "2026-11-28T04:45:52.767062+00:00",
  "assets": [
+  {
+   "symbol": "WLFI",
+   "name": "World Liberty Financial",
+   "sigma": 12.91,
+   "from_btc_pct": 0,
+   "verdict": "Oversold",
+   "file": "WLFI.png"
+  },
   {
    "symbol": "CFG",
    "name": "Centrifuge",
