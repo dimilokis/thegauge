@@ -1,6 +1,6 @@
 {
  "date": "2026-11-27",
- "generated_at": "2026-11-28T02:01:00.146474+00:00",
+ "generated_at": "2026-11-28T02:15:51.068987+00:00",
  "assets": [
   {
    "symbol": "THE",
@@ -17,14 +17,6 @@
    "from_btc_pct": 10,
    "verdict": "Overbought",
    "file": "PORTAL.png"
-  },
-  {
-   "symbol": "ACE",
-   "name": "Fusionist",
-   "sigma": 9.87,
-   "from_btc_pct": 4,
-   "verdict": "Neutral",
-   "file": "ACE.png"
   },
   {
    "symbol": "HAEDAL",
@@ -97,6 +89,14 @@
    "from_btc_pct": 19,
    "verdict": "Neutral",
    "file": "SKY.png"
+  },
+  {
+   "symbol": "ACE",
+   "name": "Fusionist",
+   "sigma": 2.52,
+   "from_btc_pct": 3,
+   "verdict": "Oversold",
+   "file": "ACE.png"
   }
  ]
 }
