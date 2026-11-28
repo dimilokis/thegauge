@@ -1,6 +1,6 @@
 {
  "date": "2026-11-28",
- "generated_at": "2026-11-28T06:30:53.056038+00:00",
+ "generated_at": "2026-11-28T06:45:46.817855+00:00",
  "assets": [
   {
    "symbol": "WLFI",
@@ -9,6 +9,14 @@
    "from_btc_pct": 0,
    "verdict": "Oversold",
    "file": "WLFI.png"
+  },
+  {
+   "symbol": "TLM",
+   "name": "Alien Worlds",
+   "sigma": 5.77,
+   "from_btc_pct": 21,
+   "verdict": "Neutral",
+   "file": "TLM.png"
   },
   {
    "symbol": "CFG",
